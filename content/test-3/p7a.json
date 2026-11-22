@@ -1,0 +1,1510 @@
+[
+  {
+    "id": 147,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Priya Raman, Operations Director<br><strong>To:</strong> All Staff, Halden &amp; Co.<br><strong>Date:</strong> April 18<br><strong>Subject:</strong> Moving our client files to Clarity Docs</p>\n<p>On May 3, we will retire the shared drive. All client files will move to Clarity Docs, a cloud-based system that lets us access files securely from any office and keeps a complete record of changes.</p>\n<p>The migration team will transfer existing files, so you do not need to move anything yourself. However, please remove personal files from the shared drive by April 26. Place documents that are still in use in the folder labeled &ldquo;Client Records.&rdquo; Files left in &ldquo;Temp&rdquo; will not be transferred.</p>\n<p>Clarity Docs works differently from our current system, so every employee must attend a 45-minute training session between May 5 and May 7. Sign up on the intranet by April 30. If you cannot attend, recordings will be posted on the training page the following day.</p>\n<p>During the first two weeks after the switch, technical support will be available through the Help chat from 7 a.m. to 8 p.m. Please do not store client files on personal devices; the new system can be accessed only through company laptops.</p>",
+    "questionText": "What is the purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To introduce a new member of the operations team"
+      },
+      {
+        "key": "B",
+        "text": "(B) To explain a change in how company documents will be stored"
+      },
+      {
+        "key": "C",
+        "text": "(C) To announce the retirement of several employees"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request feedback on a software vendor"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích của e-mail là gì? (A) Giới thiệu một thành viên mới của bộ phận vận hành (B) Giải thích sự thay đổi về cách công ty lưu trữ tài liệu (C) Thông báo việc nghỉ hưu của một số nhân viên (D) Yêu cầu phản hồi về một nhà cung cấp phần mềm.",
+    "explanation": "Đáp án B. Tiêu đề 'Moving our client files to Clarity Docs' và câu 'All client files will move to Clarity Docs, a cloud-based system' cho thấy e-mail thông báo về thay đổi nơi lưu trữ tài liệu. A sai vì Priya Raman là người gửi, không phải nhân viên mới được giới thiệu. C sai vì không có thông tin ai nghỉ hưu; từ 'retire' ở đây dùng với nghĩa ngừng sử dụng ổ đĩa chung. D sai vì e-mail không xin đánh giá nhà cung cấp phần mềm.",
+    "vocab": [
+      {
+        "word": "operations director",
+        "pos": "n. phr.",
+        "meaning": "giám đốc vận hành"
+      },
+      {
+        "word": "retire",
+        "pos": "v.",
+        "meaning": "ngừng sử dụng; cho nghỉ hưu"
+      },
+      {
+        "word": "migration",
+        "pos": "n.",
+        "meaning": "sự di chuyển dữ liệu"
+      },
+      {
+        "word": "intranet",
+        "pos": "n.",
+        "meaning": "mạng nội bộ của công ty"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Priya Raman, Operations Director<br><strong>To:</strong> All Staff, Halden &amp; Co.<br><strong>Date:</strong> April 18<br><strong>Subject:</strong> Moving our client files to Clarity Docs</p>\n<p>On May 3, we will retire the shared drive. All client files will move to Clarity Docs, a cloud-based system that lets us access files securely from any office and keeps a complete record of changes.</p>\n<p>The migration team will transfer existing files, so you do not need to move anything yourself. However, please remove personal files from the shared drive by April 26. Place documents that are still in use in the folder labeled &ldquo;Client Records.&rdquo; Files left in &ldquo;Temp&rdquo; will not be transferred.</p>\n<p>Clarity Docs works differently from our current system, so every employee must attend a 45-minute training session between May 5 and May 7. Sign up on the intranet by April 30. If you cannot attend, recordings will be posted on the training page the following day.</p>\n<p>During the first two weeks after the switch, technical support will be available through the Help chat from 7 a.m. to 8 p.m. Please do not store client files on personal devices; the new system can be accessed only through company laptops.</p>",
+    "questionText": "According to the e-mail, what should employees do by April 26?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Move client files to their personal laptops"
+      },
+      {
+        "key": "B",
+        "text": "(B) Complete a training session"
+      },
+      {
+        "key": "C",
+        "text": "(C) Submit a list of useful folders"
+      },
+      {
+        "key": "D",
+        "text": "(D) Remove personal files from the shared drive"
+      }
+    ],
+    "correct": "D",
+    "translation": "Theo e-mail, nhân viên nên làm gì trước ngày 26 tháng 4? (A) Chuyển tệp khách hàng sang máy tính xách tay cá nhân (B) Hoàn thành một buổi tập huấn (C) Nộp danh sách các thư mục hữu ích (D) Xóa các tệp cá nhân khỏi ổ đĩa chung.",
+    "explanation": "Đáp án D. Câu 'please remove personal files from the shared drive by April 26' nêu rõ hạn chót này. A sai vì e-mail yêu cầu không lưu tệp khách hàng trên thiết bị cá nhân. B sai vì tập huấn diễn ra từ ngày 5 đến 7 tháng 5 và phải đăng ký trước ngày 30 tháng 4. C sai vì không có yêu cầu nộp danh sách thư mục.",
+    "vocab": [
+      {
+        "word": "remove",
+        "pos": "v.",
+        "meaning": "xóa, gỡ bỏ"
+      },
+      {
+        "word": "shared drive",
+        "pos": "n. phr.",
+        "meaning": "ổ đĩa dùng chung"
+      },
+      {
+        "word": "folder",
+        "pos": "n.",
+        "meaning": "thư mục"
+      },
+      {
+        "word": "transfer",
+        "pos": "v.",
+        "meaning": "chuyển, sao chuyển"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Priya Raman, Operations Director<br><strong>To:</strong> All Staff, Halden &amp; Co.<br><strong>Date:</strong> April 18<br><strong>Subject:</strong> Moving our client files to Clarity Docs</p>\n<p>On May 3, we will retire the shared drive. All client files will move to Clarity Docs, a cloud-based system that lets us access files securely from any office and keeps a complete record of changes.</p>\n<p>The migration team will transfer existing files, so you do not need to move anything yourself. However, please remove personal files from the shared drive by April 26. Place documents that are still in use in the folder labeled &ldquo;Client Records.&rdquo; Files left in &ldquo;Temp&rdquo; will not be transferred.</p>\n<p>Clarity Docs works differently from our current system, so every employee must attend a 45-minute training session between May 5 and May 7. Sign up on the intranet by April 30. If you cannot attend, recordings will be posted on the training page the following day.</p>\n<p>During the first two weeks after the switch, technical support will be available through the Help chat from 7 a.m. to 8 p.m. Please do not store client files on personal devices; the new system can be accessed only through company laptops.</p>",
+    "questionText": "What is true about the training sessions?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They will be recorded for later viewing."
+      },
+      {
+        "key": "B",
+        "text": "(B) They will take place before May 3."
+      },
+      {
+        "key": "C",
+        "text": "(C) They are limited to managers."
+      },
+      {
+        "key": "D",
+        "text": "(D) They will be held at each branch office."
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì đúng về các buổi tập huấn? (A) Chúng sẽ được ghi lại để xem sau. (B) Chúng sẽ diễn ra trước ngày 3 tháng 5. (C) Chúng chỉ dành cho quản lý. (D) Chúng sẽ được tổ chức tại từng chi nhánh.",
+    "explanation": "Đáp án A. Câu 'If you cannot attend, recordings will be posted on the training page the following day' xác nhận các buổi tập huấn được ghi lại. B sai vì các buổi diễn ra từ ngày 5 đến 7 tháng 5, tức sau ngày chuyển đổi 3 tháng 5. C sai vì 'every employee must attend.' D sai vì bài không nói tổ chức tại từng chi nhánh; nhân viên đăng ký trên mạng nội bộ.",
+    "vocab": [
+      {
+        "word": "attend",
+        "pos": "v.",
+        "meaning": "tham dự"
+      },
+      {
+        "word": "recording",
+        "pos": "n.",
+        "meaning": "bản ghi âm, bản ghi hình"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, buổi làm việc"
+      },
+      {
+        "word": "following day",
+        "pos": "n. phr.",
+        "meaning": "ngày hôm sau"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>RIVERSIDE COMMUNITY HEALTH</strong><br><strong>Important Changes to Patient Services</strong></p>\n<p>Beginning June 1, Riverside Community Health will offer a new online patient portal. Through the portal, patients can request prescription refills, send non-urgent messages to their care team, and view laboratory results once a physician has reviewed and released them. Results are usually posted within 48 hours of testing.</p>\n<p>Appointment requests submitted through the portal will be reviewed within one business day. The portal is not monitored around the clock and should never be used for medical emergencies. Patients experiencing chest pain, difficulty breathing, or other urgent symptoms should call 911 or go to the nearest emergency department.</p>\n<p>When arriving for an appointment, patients should use the self-check-in kiosks in the main lobby. A photo ID and current insurance card are required. Staff members will be available to assist anyone who prefers to check in at the front desk.</p>\n<p>To create an account, visit riversidehealth.org/portal and follow the instructions. Assistance is available by phone at 555-0142, Monday through Friday, 8 a.m. to 6 p.m.</p>",
+    "questionText": "What is the main purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce the opening of a new emergency department"
+      },
+      {
+        "key": "B",
+        "text": "(B) To compare several health insurance plans"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain new online tools and check-in procedures for patients"
+      },
+      {
+        "key": "D",
+        "text": "(D) To invite patients to a community health fair"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của thông báo là gì? (A) Thông báo mở một khoa cấp cứu mới (B) So sánh một số gói bảo hiểm y tế (C) Giải thích các công cụ trực tuyến mới và thủ tục làm thủ tục cho bệnh nhân (D) Mời bệnh nhân đến hội chợ sức khỏe cộng đồng.",
+    "explanation": "Đáp án C. Thông báo giới thiệu 'a new online patient portal' và hướng dẫn dùng 'self-check-in kiosks', tức trình bày công cụ trực tuyến mới cùng cách làm thủ tục. A sai vì không mở khoa cấp cứu mới; bài chỉ nhắc bệnh nhân đến khoa cấp cứu khi khẩn cấp. B sai vì không so sánh gói bảo hiểm. D sai vì không nhắc đến hội chợ sức khỏe.",
+    "vocab": [
+      {
+        "word": "patient portal",
+        "pos": "n. phr.",
+        "meaning": "cổng thông tin bệnh nhân"
+      },
+      {
+        "word": "prescription refill",
+        "pos": "n. phr.",
+        "meaning": "việc gia hạn đơn thuốc"
+      },
+      {
+        "word": "self-check-in",
+        "pos": "n.",
+        "meaning": "tự làm thủ tục"
+      },
+      {
+        "word": "kiosk",
+        "pos": "n.",
+        "meaning": "máy tự phục vụ"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>RIVERSIDE COMMUNITY HEALTH</strong><br><strong>Important Changes to Patient Services</strong></p>\n<p>Beginning June 1, Riverside Community Health will offer a new online patient portal. Through the portal, patients can request prescription refills, send non-urgent messages to their care team, and view laboratory results once a physician has reviewed and released them. Results are usually posted within 48 hours of testing.</p>\n<p>Appointment requests submitted through the portal will be reviewed within one business day. The portal is not monitored around the clock and should never be used for medical emergencies. Patients experiencing chest pain, difficulty breathing, or other urgent symptoms should call 911 or go to the nearest emergency department.</p>\n<p>When arriving for an appointment, patients should use the self-check-in kiosks in the main lobby. A photo ID and current insurance card are required. Staff members will be available to assist anyone who prefers to check in at the front desk.</p>\n<p>To create an account, visit riversidehealth.org/portal and follow the instructions. Assistance is available by phone at 555-0142, Monday through Friday, 8 a.m. to 6 p.m.</p>",
+    "questionText": "According to the notice, when can patients view laboratory results?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) As soon as a test is completed"
+      },
+      {
+        "key": "B",
+        "text": "(B) After a physician has reviewed and released them"
+      },
+      {
+        "key": "C",
+        "text": "(C) Only during a follow-up visit"
+      },
+      {
+        "key": "D",
+        "text": "(D) After requesting them by telephone"
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo thông báo, khi nào bệnh nhân có thể xem kết quả xét nghiệm? (A) Ngay khi xét nghiệm hoàn tất (B) Sau khi bác sĩ đã xem và phát hành kết quả (C) Chỉ trong một buổi tái khám (D) Sau khi yêu cầu qua điện thoại.",
+    "explanation": "Đáp án B. Cụm 'view laboratory results once a physician has reviewed and released them' cho biết kết quả chỉ hiện sau khi bác sĩ xem xét và phát hành. A sai vì kết quả thường được đăng trong vòng 48 giờ, không tức thì. C sai vì bệnh nhân xem trên cổng trực tuyến, không chỉ tại buổi tái khám. D sai vì không cần gọi điện; yêu cầu được gửi qua cổng.",
+    "vocab": [
+      {
+        "word": "laboratory results",
+        "pos": "n. phr.",
+        "meaning": "kết quả xét nghiệm"
+      },
+      {
+        "word": "release",
+        "pos": "v.",
+        "meaning": "phát hành, cho phép xem"
+      },
+      {
+        "word": "follow-up visit",
+        "pos": "n. phr.",
+        "meaning": "buổi tái khám"
+      },
+      {
+        "word": "review",
+        "pos": "v.",
+        "meaning": "xem xét"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>RIVERSIDE COMMUNITY HEALTH</strong><br><strong>Important Changes to Patient Services</strong></p>\n<p>Beginning June 1, Riverside Community Health will offer a new online patient portal. Through the portal, patients can request prescription refills, send non-urgent messages to their care team, and view laboratory results once a physician has reviewed and released them. Results are usually posted within 48 hours of testing.</p>\n<p>Appointment requests submitted through the portal will be reviewed within one business day. The portal is not monitored around the clock and should never be used for medical emergencies. Patients experiencing chest pain, difficulty breathing, or other urgent symptoms should call 911 or go to the nearest emergency department.</p>\n<p>When arriving for an appointment, patients should use the self-check-in kiosks in the main lobby. A photo ID and current insurance card are required. Staff members will be available to assist anyone who prefers to check in at the front desk.</p>\n<p>To create an account, visit riversidehealth.org/portal and follow the instructions. Assistance is available by phone at 555-0142, Monday through Friday, 8 a.m. to 6 p.m.</p>",
+    "questionText": "What should patients do if they have an urgent medical problem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Send an urgent message through the portal."
+      },
+      {
+        "key": "B",
+        "text": "(B) Visit the clinic's walk-in desk before 6 p.m."
+      },
+      {
+        "key": "C",
+        "text": "(C) Call the billing department for advice."
+      },
+      {
+        "key": "D",
+        "text": "(D) Call 911 or go to an emergency department."
+      }
+    ],
+    "correct": "D",
+    "translation": "Bệnh nhân nên làm gì nếu gặp vấn đề y tế khẩn cấp? (A) Gửi tin nhắn khẩn qua cổng thông tin. (B) Đến quầy tiếp nhận không cần hẹn trước 6 giờ chiều. (C) Gọi bộ phận thanh toán để được tư vấn. (D) Gọi 911 hoặc đến khoa cấp cứu.",
+    "explanation": "Đáp án D. Câu 'Patients experiencing chest pain, difficulty breathing, or other urgent symptoms should call 911 or go to the nearest emergency department' đưa ra hướng dẫn rõ ràng. A sai vì cổng 'should never be used for medical emergencies.' B sai vì thông báo không có quầy tiếp nhận không hẹn; kiosk chỉ dùng để làm thủ tục. C sai vì bộ phận thanh toán không xử lý tình huống cấp cứu.",
+    "vocab": [
+      {
+        "word": "urgent",
+        "pos": "adj.",
+        "meaning": "khẩn cấp"
+      },
+      {
+        "word": "emergency department",
+        "pos": "n. phr.",
+        "meaning": "khoa cấp cứu"
+      },
+      {
+        "word": "symptom",
+        "pos": "n.",
+        "meaning": "triệu chứng"
+      },
+      {
+        "word": "chest pain",
+        "pos": "n. phr.",
+        "meaning": "đau ngực"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following article:",
+    "passageHtml": "<p><strong>Port of Bellmont Opens Refrigerated Rail Hub</strong></p>\n<p>The Port of Bellmont officially opened a 40,000-square-meter refrigerated warehouse on Monday, a project intended to strengthen the region's cold-chain network. The facility can hold products at temperatures ranging from -25&deg;C to 12&deg;C, allowing it to serve both agricultural exporters and pharmaceutical manufacturers.</p>\n<p>In the past, most temperature-sensitive cargo arriving at the port was loaded onto trucks for the six-hour drive to the capital. The new hub connects directly to a rail line that runs three times a week to an inland distribution center. Port officials estimate that the rail option will cut transit time by 18 hours and reduce carbon emissions by roughly 30 percent compared with truck-only transport.</p>\n<p>&ldquo;This investment gives local growers and drugmakers a reliable way to reach customers without risking spoilage,&rdquo; said port director Amara Okafor. She added that the first phase will create about 120 jobs, while a second phase focused on vaccine storage is scheduled to open next spring, pending a final safety inspection.</p>\n<p>Shipping companies have welcomed the project, though some have asked the port to increase rail frequency during the harvest season.</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new refrigerated shipping facility and its benefits"
+      },
+      {
+        "key": "B",
+        "text": "(B) A decline in agricultural exports"
+      },
+      {
+        "key": "C",
+        "text": "(C) A proposal to build a second airport"
+      },
+      {
+        "key": "D",
+        "text": "(D) New safety rules for truck drivers"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bài viết chủ yếu nói về điều gì? (A) Một cơ sở vận chuyển hàng lạnh mới và những lợi ích của nó (B) Sự sụt giảm xuất khẩu nông sản (C) Đề xuất xây dựng sân bay thứ hai (D) Quy định an toàn mới cho tài xế xe tải.",
+    "explanation": "Đáp án A. Tiêu đề 'Opens Refrigerated Rail Hub' và đoạn mở đầu mô tả kho lạnh 40.000 mét vuông cùng các lợi ích về thời gian vận chuyển và khí thải. B sai vì bài nói về việc mở rộng năng lực xuất khẩu, không nêu sự sụt giảm. C sai vì không có sân bay nào. D sai vì không có quy định an toàn cho tài xế.",
+    "vocab": [
+      {
+        "word": "refrigerated",
+        "pos": "adj.",
+        "meaning": "được làm lạnh"
+      },
+      {
+        "word": "cold-chain",
+        "pos": "n.",
+        "meaning": "chuỗi bảo quản lạnh"
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở, nhà xưởng"
+      },
+      {
+        "word": "cargo",
+        "pos": "n.",
+        "meaning": "hàng hóa"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following article:",
+    "passageHtml": "<p><strong>Port of Bellmont Opens Refrigerated Rail Hub</strong></p>\n<p>The Port of Bellmont officially opened a 40,000-square-meter refrigerated warehouse on Monday, a project intended to strengthen the region's cold-chain network. The facility can hold products at temperatures ranging from -25&deg;C to 12&deg;C, allowing it to serve both agricultural exporters and pharmaceutical manufacturers.</p>\n<p>In the past, most temperature-sensitive cargo arriving at the port was loaded onto trucks for the six-hour drive to the capital. The new hub connects directly to a rail line that runs three times a week to an inland distribution center. Port officials estimate that the rail option will cut transit time by 18 hours and reduce carbon emissions by roughly 30 percent compared with truck-only transport.</p>\n<p>&ldquo;This investment gives local growers and drugmakers a reliable way to reach customers without risking spoilage,&rdquo; said port director Amara Okafor. She added that the first phase will create about 120 jobs, while a second phase focused on vaccine storage is scheduled to open next spring, pending a final safety inspection.</p>\n<p>Shipping companies have welcomed the project, though some have asked the port to increase rail frequency during the harvest season.</p>",
+    "questionText": "According to the article, what benefit does the rail service provide?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It allows cargo to travel at lower temperatures."
+      },
+      {
+        "key": "B",
+        "text": "(B) It eliminates the need for warehouse space."
+      },
+      {
+        "key": "C",
+        "text": "(C) It shortens transit time by 18 hours."
+      },
+      {
+        "key": "D",
+        "text": "(D) It increases the number of port employees."
+      }
+    ],
+    "correct": "C",
+    "translation": "Theo bài viết, dịch vụ đường sắt mang lại lợi ích gì? (A) Nó cho phép hàng hóa được vận chuyển ở nhiệt độ thấp hơn. (B) Nó loại bỏ nhu cầu về không gian kho bãi. (C) Nó rút ngắn thời gian vận chuyển 18 giờ. (D) Nó làm tăng số nhân viên tại cảng.",
+    "explanation": "Đáp án C. Bài viết nêu 'the rail option will cut transit time by 18 hours and reduce carbon emissions by roughly 30 percent.' A sai vì nhiệt độ do kho lạnh kiểm soát, không phải tuyến đường sắt. B sai vì kho lạnh vẫn cần thiết để chứa hàng. D sai vì 120 việc làm đến từ dự án nói chung, không phải nhờ tần suất tàu.",
+    "vocab": [
+      {
+        "word": "transit time",
+        "pos": "n. phr.",
+        "meaning": "thời gian vận chuyển"
+      },
+      {
+        "word": "emission",
+        "pos": "n.",
+        "meaning": "khí thải"
+      },
+      {
+        "word": "spoilage",
+        "pos": "n.",
+        "meaning": "sự hư hỏng, ôi thiu"
+      },
+      {
+        "word": "frequency",
+        "pos": "n.",
+        "meaning": "tần suất"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following article:",
+    "passageHtml": "<p><strong>Port of Bellmont Opens Refrigerated Rail Hub</strong></p>\n<p>The Port of Bellmont officially opened a 40,000-square-meter refrigerated warehouse on Monday, a project intended to strengthen the region's cold-chain network. The facility can hold products at temperatures ranging from -25&deg;C to 12&deg;C, allowing it to serve both agricultural exporters and pharmaceutical manufacturers.</p>\n<p>In the past, most temperature-sensitive cargo arriving at the port was loaded onto trucks for the six-hour drive to the capital. The new hub connects directly to a rail line that runs three times a week to an inland distribution center. Port officials estimate that the rail option will cut transit time by 18 hours and reduce carbon emissions by roughly 30 percent compared with truck-only transport.</p>\n<p>&ldquo;This investment gives local growers and drugmakers a reliable way to reach customers without risking spoilage,&rdquo; said port director Amara Okafor. She added that the first phase will create about 120 jobs, while a second phase focused on vaccine storage is scheduled to open next spring, pending a final safety inspection.</p>\n<p>Shipping companies have welcomed the project, though some have asked the port to increase rail frequency during the harvest season.</p>",
+    "questionText": "What is scheduled to open next spring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new trucking terminal"
+      },
+      {
+        "key": "B",
+        "text": "(B) Additional storage for vaccines"
+      },
+      {
+        "key": "C",
+        "text": "(C) A second rail line to the capital"
+      },
+      {
+        "key": "D",
+        "text": "(D) An expanded farmers market"
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì dự kiến sẽ mở vào mùa xuân tới? (A) Một bến xe tải mới (B) Khu bảo quản bổ sung cho vắc-xin (C) Tuyến đường sắt thứ hai đến thủ đô (D) Một khu chợ nông sản được mở rộng.",
+    "explanation": "Đáp án B. Câu 'a second phase focused on vaccine storage is scheduled to open next spring, pending a final safety inspection' xác nhận khu bảo quản vắc-xin. A sai vì không có bến xe tải mới. C sai vì bài chỉ nói kho mới kết nối với tuyến đường sắt hiện có, không xây tuyến thứ hai. D sai vì 'farmers market' không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "phase",
+        "pos": "n.",
+        "meaning": "giai đoạn"
+      },
+      {
+        "word": "vaccine",
+        "pos": "n.",
+        "meaning": "vắc-xin"
+      },
+      {
+        "word": "pending",
+        "pos": "prep.",
+        "meaning": "chờ, tùy thuộc vào"
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "meaning": "việc kiểm tra"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following advertisement:",
+    "passageHtml": "<p><strong>BRIGHTWAVE MARKETING LAB</strong><br><strong>A One-Day Workshop for Small Business Owners</strong><br><strong>Saturday, September 20 | 9 a.m.&ndash;4 p.m. | The Lantern Hotel</strong></p>\n<p>Good marketing is not about spending more; it is about reaching the right people with a clear message. In this hands-on workshop, participants will learn how to build a six-week content calendar, write product descriptions that encourage customers to buy, and read advertising reports without getting lost in the numbers.</p>\n<p>Attendance is limited to 40 people so that each participant can receive feedback on one current campaign. Please bring a laptop and login details for your advertising account. The session will be led by Maya Chen, who has advised more than 200 independent retailers and restaurants.</p>\n<p>Registration is $145 if received by September 5 and $195 afterward. The fee includes lunch, a printed workbook, and access to a private online group for three months. Teams of three or more receive a 20 percent discount. Cancellations made at least seven days before the workshop will be fully refunded.</p>\n<p>To reserve a place, visit brightwavelab.com/register. Questions? Call 555-0178.</p>",
+    "questionText": "What is the purpose of the advertisement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To recruit experienced marketing employees"
+      },
+      {
+        "key": "B",
+        "text": "(B) To review a hotel's advertising campaign"
+      },
+      {
+        "key": "C",
+        "text": "(C) To announce a new line of business software"
+      },
+      {
+        "key": "D",
+        "text": "(D) To promote a workshop for small business owners"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục đích của quảng cáo là gì? (A) Tuyển dụng nhân viên marketing có kinh nghiệm (B) Đánh giá chiến dịch quảng cáo của một khách sạn (C) Giới thiệu một dòng phần mềm doanh nghiệp mới (D) Quảng bá một buổi hội thảo dành cho chủ doanh nghiệp nhỏ.",
+    "explanation": "Đáp án D. Tiêu đề 'A One-Day Workshop for Small Business Owners' và lời mời đăng ký cho thấy mục đích là quảng bá hội thảo. A sai vì quảng cáo không tuyển dụng. B sai vì hội thảo dạy cách đọc báo cáo quảng cáo, không đánh giá chiến dịch của khách sạn. C sai vì không ra mắt phần mềm mới.",
+    "vocab": [
+      {
+        "word": "hands-on",
+        "pos": "adj.",
+        "meaning": "thực hành, thực tế"
+      },
+      {
+        "word": "campaign",
+        "pos": "n.",
+        "meaning": "chiến dịch"
+      },
+      {
+        "word": "retailer",
+        "pos": "n.",
+        "meaning": "nhà bán lẻ"
+      },
+      {
+        "word": "registration",
+        "pos": "n.",
+        "meaning": "việc đăng ký"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following advertisement:",
+    "passageHtml": "<p><strong>BRIGHTWAVE MARKETING LAB</strong><br><strong>A One-Day Workshop for Small Business Owners</strong><br><strong>Saturday, September 20 | 9 a.m.&ndash;4 p.m. | The Lantern Hotel</strong></p>\n<p>Good marketing is not about spending more; it is about reaching the right people with a clear message. In this hands-on workshop, participants will learn how to build a six-week content calendar, write product descriptions that encourage customers to buy, and read advertising reports without getting lost in the numbers.</p>\n<p>Attendance is limited to 40 people so that each participant can receive feedback on one current campaign. Please bring a laptop and login details for your advertising account. The session will be led by Maya Chen, who has advised more than 200 independent retailers and restaurants.</p>\n<p>Registration is $145 if received by September 5 and $195 afterward. The fee includes lunch, a printed workbook, and access to a private online group for three months. Teams of three or more receive a 20 percent discount. Cancellations made at least seven days before the workshop will be fully refunded.</p>\n<p>To reserve a place, visit brightwavelab.com/register. Questions? Call 555-0178.</p>",
+    "questionText": "What is included in the registration fee?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lunch and a workbook"
+      },
+      {
+        "key": "B",
+        "text": "(B) A hotel room for one night"
+      },
+      {
+        "key": "C",
+        "text": "(C) A one-year software subscription"
+      },
+      {
+        "key": "D",
+        "text": "(D) Follow-up coaching by telephone"
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì được bao gồm trong phí đăng ký? (A) Bữa trưa và sách bài tập (B) Phòng khách sạn một đêm (C) Gói đăng ký phần mềm một năm (D) Huấn luyện tiếp theo qua điện thoại.",
+    "explanation": "Đáp án A. Câu 'The fee includes lunch, a printed workbook, and access to a private online group for three months' liệt kê rõ các quyền lợi. B sai vì khách sạn chỉ là địa điểm, không tặng phòng. C sai vì chỉ có quyền truy cập nhóm trực tuyến ba tháng, không phải gói phần mềm một năm. D sai vì không có dịch vụ huấn luyện qua điện thoại.",
+    "vocab": [
+      {
+        "word": "fee",
+        "pos": "n.",
+        "meaning": "phí, lệ phí"
+      },
+      {
+        "word": "workbook",
+        "pos": "n.",
+        "meaning": "sách bài tập"
+      },
+      {
+        "word": "subscription",
+        "pos": "n.",
+        "meaning": "gói đăng ký"
+      },
+      {
+        "word": "refund",
+        "pos": "v.",
+        "meaning": "hoàn tiền"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following advertisement:",
+    "passageHtml": "<p><strong>BRIGHTWAVE MARKETING LAB</strong><br><strong>A One-Day Workshop for Small Business Owners</strong><br><strong>Saturday, September 20 | 9 a.m.&ndash;4 p.m. | The Lantern Hotel</strong></p>\n<p>Good marketing is not about spending more; it is about reaching the right people with a clear message. In this hands-on workshop, participants will learn how to build a six-week content calendar, write product descriptions that encourage customers to buy, and read advertising reports without getting lost in the numbers.</p>\n<p>Attendance is limited to 40 people so that each participant can receive feedback on one current campaign. Please bring a laptop and login details for your advertising account. The session will be led by Maya Chen, who has advised more than 200 independent retailers and restaurants.</p>\n<p>Registration is $145 if received by September 5 and $195 afterward. The fee includes lunch, a printed workbook, and access to a private online group for three months. Teams of three or more receive a 20 percent discount. Cancellations made at least seven days before the workshop will be fully refunded.</p>\n<p>To reserve a place, visit brightwavelab.com/register. Questions? Call 555-0178.</p>",
+    "questionText": "What are participants asked to bring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A printed copy of their advertising budget"
+      },
+      {
+        "key": "B",
+        "text": "(B) A sample of a competitor's product"
+      },
+      {
+        "key": "C",
+        "text": "(C) A laptop with access to their advertising account"
+      },
+      {
+        "key": "D",
+        "text": "(D) A list of three potential employees"
+      }
+    ],
+    "correct": "C",
+    "translation": "Người tham gia được yêu cầu mang theo gì? (A) Bản in ngân sách quảng cáo (B) Mẫu sản phẩm của đối thủ (C) Máy tính xách tay có quyền truy cập tài khoản quảng cáo (D) Danh sách ba nhân viên tiềm năng.",
+    "explanation": "Đáp án C. Câu 'Please bring a laptop and login details for your advertising account' là yêu cầu trực tiếp. A sai vì không yêu cầu in ngân sách. B sai vì không yêu cầu mẫu sản phẩm của đối thủ. D sai vì quảng cáo không liên quan đến tuyển dụng.",
+    "vocab": [
+      {
+        "word": "login details",
+        "pos": "n. phr.",
+        "meaning": "thông tin đăng nhập"
+      },
+      {
+        "word": "advertising account",
+        "pos": "n. phr.",
+        "meaning": "tài khoản quảng cáo"
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "meaning": "đối thủ cạnh tranh"
+      },
+      {
+        "word": "budget",
+        "pos": "n.",
+        "meaning": "ngân sách"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following chat:",
+    "passageHtml": "<p><strong>Loom &amp; Line Customer Support</strong><br><strong>Chat transcript</strong></p>\n<p><strong>Maya (Agent):</strong> Hello, Daniel. How can I help you today?<br><strong>Daniel:</strong> I received order LL-48217 yesterday, and the base of the walnut desk lamp is cracked. I've attached a photo.<br><strong>Maya:</strong> I'm very sorry. I can see the damage in the photo. Would you prefer a replacement or a full refund?<br><strong>Daniel:</strong> A replacement, please. I'm using the lamp in a client's office, and I need it by Friday.<br><strong>Maya:</strong> Let me check availability. We have two walnut lamps left. I can ship one today for Thursday delivery and waive the shipping fee. I'll also send a prepaid return label for the damaged lamp.<br><strong>Daniel:</strong> That works. Will the label come by e-mail?<br><strong>Maya:</strong> Yes, it will arrive within 15 minutes. As an apology, I'm also adding a 15 percent discount to your next order.<br><strong>Daniel:</strong> Thank you. Please send everything to the address on the original order.</p>",
+    "questionText": "Why is Daniel contacting customer support?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To ask about a delayed delivery"
+      },
+      {
+        "key": "B",
+        "text": "(B) To report that an item arrived damaged"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request a different color"
+      },
+      {
+        "key": "D",
+        "text": "(D) To cancel an order"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tại sao Daniel liên hệ bộ phận chăm sóc khách hàng? (A) Để hỏi về việc giao hàng bị chậm (B) Để báo rằng một món hàng bị hư khi giao đến (C) Để yêu cầu một màu khác (D) Để hủy đơn hàng.",
+    "explanation": "Đáp án B. Daniel nói 'the base of the walnut desk lamp is cracked' và gửi kèm ảnh, tức là báo món hàng bị hư. A sai vì hàng đã được giao hôm qua, không phải vấn đề chậm giao. C sai vì anh không yêu cầu đổi màu. D sai vì anh chọn nhận hàng thay thế, không hủy đơn.",
+    "vocab": [
+      {
+        "word": "cracked",
+        "pos": "adj.",
+        "meaning": "bị nứt, bị rạn"
+      },
+      {
+        "word": "base",
+        "pos": "n.",
+        "meaning": "phần đế"
+      },
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "meaning": "hàng thay thế"
+      },
+      {
+        "word": "refund",
+        "pos": "n.",
+        "meaning": "sự hoàn tiền"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following chat:",
+    "passageHtml": "<p><strong>Loom &amp; Line Customer Support</strong><br><strong>Chat transcript</strong></p>\n<p><strong>Maya (Agent):</strong> Hello, Daniel. How can I help you today?<br><strong>Daniel:</strong> I received order LL-48217 yesterday, and the base of the walnut desk lamp is cracked. I've attached a photo.<br><strong>Maya:</strong> I'm very sorry. I can see the damage in the photo. Would you prefer a replacement or a full refund?<br><strong>Daniel:</strong> A replacement, please. I'm using the lamp in a client's office, and I need it by Friday.<br><strong>Maya:</strong> Let me check availability. We have two walnut lamps left. I can ship one today for Thursday delivery and waive the shipping fee. I'll also send a prepaid return label for the damaged lamp.<br><strong>Daniel:</strong> That works. Will the label come by e-mail?<br><strong>Maya:</strong> Yes, it will arrive within 15 minutes. As an apology, I'm also adding a 15 percent discount to your next order.<br><strong>Daniel:</strong> Thank you. Please send everything to the address on the original order.</p>",
+    "questionText": "What does Maya say she will do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Refund the full purchase price immediately"
+      },
+      {
+        "key": "B",
+        "text": "(B) Send a lamp of a different model"
+      },
+      {
+        "key": "C",
+        "text": "(C) Extend the warranty by one year"
+      },
+      {
+        "key": "D",
+        "text": "(D) Provide a prepaid return label"
+      }
+    ],
+    "correct": "D",
+    "translation": "Maya nói cô ấy sẽ làm gì? (A) Hoàn lại toàn bộ giá mua ngay lập tức (B) Gửi một chiếc đèn khác mẫu (C) Kéo dài thời hạn bảo hành thêm một năm (D) Cung cấp nhãn trả hàng đã trả trước cước.",
+    "explanation": "Đáp án D. Maya nói 'I'll also send a prepaid return label for the damaged lamp.' A sai vì Daniel chọn nhận hàng thay thế, không nhận hoàn tiền ngay. B sai vì cô ấy nói còn hai chiếc đèn walnut, tức cùng mẫu. C sai vì cuộc trò chuyện không nhắc đến bảo hành.",
+    "vocab": [
+      {
+        "word": "prepaid",
+        "pos": "adj.",
+        "meaning": "đã trả trước"
+      },
+      {
+        "word": "return label",
+        "pos": "n. phr.",
+        "meaning": "nhãn trả hàng"
+      },
+      {
+        "word": "waive",
+        "pos": "v.",
+        "meaning": "miễn, bỏ qua"
+      },
+      {
+        "word": "availability",
+        "pos": "n.",
+        "meaning": "sự sẵn có"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following chat:",
+    "passageHtml": "<p><strong>Loom &amp; Line Customer Support</strong><br><strong>Chat transcript</strong></p>\n<p><strong>Maya (Agent):</strong> Hello, Daniel. How can I help you today?<br><strong>Daniel:</strong> I received order LL-48217 yesterday, and the base of the walnut desk lamp is cracked. I've attached a photo.<br><strong>Maya:</strong> I'm very sorry. I can see the damage in the photo. Would you prefer a replacement or a full refund?<br><strong>Daniel:</strong> A replacement, please. I'm using the lamp in a client's office, and I need it by Friday.<br><strong>Maya:</strong> Let me check availability. We have two walnut lamps left. I can ship one today for Thursday delivery and waive the shipping fee. I'll also send a prepaid return label for the damaged lamp.<br><strong>Daniel:</strong> That works. Will the label come by e-mail?<br><strong>Maya:</strong> Yes, it will arrive within 15 minutes. As an apology, I'm also adding a 15 percent discount to your next order.<br><strong>Daniel:</strong> Thank you. Please send everything to the address on the original order.</p>",
+    "questionText": "Why does Daniel need the lamp by Friday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) He needs it for a client's office."
+      },
+      {
+        "key": "B",
+        "text": "(B) He is leaving for a business trip."
+      },
+      {
+        "key": "C",
+        "text": "(C) The store requires a signature."
+      },
+      {
+        "key": "D",
+        "text": "(D) A friend is visiting from out of town."
+      }
+    ],
+    "correct": "A",
+    "translation": "Tại sao Daniel cần chiếc đèn trước thứ Sáu? (A) Anh ấy cần nó cho văn phòng của một khách hàng. (B) Anh ấy sẽ đi công tác. (C) Cửa hàng yêu cầu chữ ký nhận hàng. (D) Một người bạn từ nơi khác đến thăm.",
+    "explanation": "Đáp án A. Daniel giải thích 'I'm using the lamp in a client's office, and I need it by Friday.' B sai vì anh không nói đi công tác. C sai vì không có yêu cầu ký nhận. D sai vì không có bạn đến thăm.",
+    "vocab": [
+      {
+        "word": "client",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      },
+      {
+        "word": "delivery",
+        "pos": "n.",
+        "meaning": "việc giao hàng"
+      },
+      {
+        "word": "original order",
+        "pos": "n. phr.",
+        "meaning": "đơn hàng ban đầu"
+      },
+      {
+        "word": "apology",
+        "pos": "n.",
+        "meaning": "lời xin lỗi"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following memo:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Victor Alvarez, Operations Manager<br><strong>Date:</strong> March 12<br><strong>Subject:</strong> New Barcode Scanners</p>\n<p>Beginning Monday, we will replace the handheld scanners used in the warehouse. The new devices will automatically synchronize inventory counts with our central system every 15 minutes rather than at the end of each shift. This should reduce the stock discrepancies that have caused delays in recent months.</p>\n<p>Please pick up your assigned scanner from the equipment desk before your first shift and return your old unit at the same time. Before using the new device, watch the 20-minute training video on the company intranet. Hands-on assistance will be available in the break room from 6 a.m. to 9 a.m., Monday through Wednesday.</p>\n<p>The scanner batteries last approximately 12 hours. Charging docks have been installed at the end of each aisle, so there is no need to take chargers home. If a scanner is dropped or stops working, report it to your supervisor the same day. Personal devices may not be connected to the inventory system.</p>",
+    "questionText": "What is the main purpose of the memo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To explain how to order new warehouse equipment"
+      },
+      {
+        "key": "B",
+        "text": "(B) To summarize inventory results for the quarter"
+      },
+      {
+        "key": "C",
+        "text": "(C) To announce a scanner upgrade and related procedures"
+      },
+      {
+        "key": "D",
+        "text": "(D) To remind staff about a safety training deadline"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của bản ghi nhớ là gì? (A) Giải thích cách đặt thiết bị kho mới (B) Tóm tắt kết quả kiểm kê hàng quý (C) Thông báo nâng cấp máy quét và các thủ tục liên quan (D) Nhắc nhân viên về hạn chót tập huấn an toàn.",
+    "explanation": "Đáp án C. Tiêu đề 'New Barcode Scanners' cùng hướng dẫn nhận thiết bị, xem video và sạc pin cho thấy mục đích là thông báo nâng cấp máy quét và quy trình sử dụng. A sai vì nhân viên không đặt thiết bị; họ nhận tại quầy thiết bị. B sai vì không tổng kết kết quả quý. D sai vì đây là tập huấn thiết bị, không phải an toàn.",
+    "vocab": [
+      {
+        "word": "barcode scanner",
+        "pos": "n. phr.",
+        "meaning": "máy quét mã vạch"
+      },
+      {
+        "word": "synchronize",
+        "pos": "v.",
+        "meaning": "đồng bộ hóa"
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "meaning": "hàng tồn kho"
+      },
+      {
+        "word": "discrepancy",
+        "pos": "n.",
+        "meaning": "sự chênh lệch, sai lệch"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following memo:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Victor Alvarez, Operations Manager<br><strong>Date:</strong> March 12<br><strong>Subject:</strong> New Barcode Scanners</p>\n<p>Beginning Monday, we will replace the handheld scanners used in the warehouse. The new devices will automatically synchronize inventory counts with our central system every 15 minutes rather than at the end of each shift. This should reduce the stock discrepancies that have caused delays in recent months.</p>\n<p>Please pick up your assigned scanner from the equipment desk before your first shift and return your old unit at the same time. Before using the new device, watch the 20-minute training video on the company intranet. Hands-on assistance will be available in the break room from 6 a.m. to 9 a.m., Monday through Wednesday.</p>\n<p>The scanner batteries last approximately 12 hours. Charging docks have been installed at the end of each aisle, so there is no need to take chargers home. If a scanner is dropped or stops working, report it to your supervisor the same day. Personal devices may not be connected to the inventory system.</p>",
+    "questionText": "According to the memo, what is an advantage of the new scanners?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Their batteries can be replaced less often."
+      },
+      {
+        "key": "B",
+        "text": "(B) Inventory counts are updated more frequently."
+      },
+      {
+        "key": "C",
+        "text": "(C) They can be used from employees' homes."
+      },
+      {
+        "key": "D",
+        "text": "(D) Training is no longer required."
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo bản ghi nhớ, máy quét mới có lợi thế gì? (A) Pin của chúng ít phải thay hơn. (B) Số lượng hàng tồn kho được cập nhật thường xuyên hơn. (C) Chúng có thể được sử dụng từ nhà của nhân viên. (D) Không còn cần tập huấn nữa.",
+    "explanation": "Đáp án B. Việc máy 'synchronize inventory counts ... every 15 minutes rather than at the end of each shift' nghĩa là số liệu được cập nhật thường xuyên hơn. A sai vì bài chỉ nói pin dùng khoảng 12 giờ, không so sánh số lần thay. C sai vì phải sạc tại kho và thiết bị cá nhân không được kết nối hệ thống. D sai vì nhân viên vẫn phải xem video tập huấn.",
+    "vocab": [
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      },
+      {
+        "word": "update",
+        "pos": "v.",
+        "meaning": "cập nhật"
+      },
+      {
+        "word": "charging dock",
+        "pos": "n. phr.",
+        "meaning": "đế sạc"
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "meaning": "lối đi giữa các kệ hàng"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following memo:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Victor Alvarez, Operations Manager<br><strong>Date:</strong> March 12<br><strong>Subject:</strong> New Barcode Scanners</p>\n<p>Beginning Monday, we will replace the handheld scanners used in the warehouse. The new devices will automatically synchronize inventory counts with our central system every 15 minutes rather than at the end of each shift. This should reduce the stock discrepancies that have caused delays in recent months.</p>\n<p>Please pick up your assigned scanner from the equipment desk before your first shift and return your old unit at the same time. Before using the new device, watch the 20-minute training video on the company intranet. Hands-on assistance will be available in the break room from 6 a.m. to 9 a.m., Monday through Wednesday.</p>\n<p>The scanner batteries last approximately 12 hours. Charging docks have been installed at the end of each aisle, so there is no need to take chargers home. If a scanner is dropped or stops working, report it to your supervisor the same day. Personal devices may not be connected to the inventory system.</p>",
+    "questionText": "What should employees do if a scanner is damaged?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Take it to the equipment desk at the end of the month"
+      },
+      {
+        "key": "B",
+        "text": "(B) Replace it with a personal device"
+      },
+      {
+        "key": "C",
+        "text": "(C) Continue using it until the next shift"
+      },
+      {
+        "key": "D",
+        "text": "(D) Report it to their supervisor that day"
+      }
+    ],
+    "correct": "D",
+    "translation": "Nhân viên nên làm gì nếu máy quét bị hư? (A) Mang đến quầy thiết bị vào cuối tháng (B) Thay bằng thiết bị cá nhân (C) Tiếp tục sử dụng đến ca tiếp theo (D) Báo cho người giám sát trong cùng ngày.",
+    "explanation": "Đáp án D. Câu 'If a scanner is dropped or stops working, report it to your supervisor the same day' là chỉ dẫn chính xác. A sai vì không phải đợi đến cuối tháng. B sai vì bản ghi nhớ cấm kết nối thiết bị cá nhân vào hệ thống. C sai vì không nên tiếp tục dùng thiết bị đã hỏng.",
+    "vocab": [
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "người giám sát"
+      },
+      {
+        "word": "report",
+        "pos": "v.",
+        "meaning": "báo cáo, thông báo"
+      },
+      {
+        "word": "damage",
+        "pos": "n.",
+        "meaning": "hư hỏng"
+      },
+      {
+        "word": "same day",
+        "pos": "adv. phr.",
+        "meaning": "trong cùng ngày"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Dr. Elena Marsh, Medical Director<br><strong>To:</strong> All Clinical Staff, Cedar Point Clinic<br><strong>Date:</strong> September 28<br><strong>Subject:</strong> Telehealth Pilot Beginning October 6</p>\n<p>I am pleased to announce that Cedar Point Clinic will begin a two-week telehealth pilot on October 6. Virtual visits will be offered for follow-up appointments and medication reviews only. New patients, annual physicals, and anyone with urgent symptoms should continue to be scheduled in person.</p>\n<p>Each virtual visit is allotted 15 minutes and will take place on our secure video platform. When scheduling, select &ldquo;Virtual&rdquo; as the location in the appointment system. Nurses should send the intake form to patients 24 hours before the visit and confirm that they have received it.</p>\n<p>Patients who do not have reliable internet access may use the private video room next to the staff lounge (Room 2). Front desk staff should verify that these patients have signed the telehealth consent form before they enter the room.</p>\n<p>At the end of the pilot, all staff will receive a short survey. Your feedback will help us decide whether to continue the program permanently. Please direct scheduling questions to me or to the clinic coordinator.</p>",
+    "questionText": "What is the purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To outline a telehealth pilot for clinic staff"
+      },
+      {
+        "key": "B",
+        "text": "(B) To advertise a new walk-in clinic"
+      },
+      {
+        "key": "C",
+        "text": "(C) To report the results of a patient survey"
+      },
+      {
+        "key": "D",
+        "text": "(D) To introduce a new insurance provider"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của e-mail là gì? (A) Phác thảo chương trình thí điểm khám từ xa cho nhân viên phòng khám (B) Quảng cáo một phòng khám không cần hẹn mới (C) Báo cáo kết quả khảo sát bệnh nhân (D) Giới thiệu một nhà cung cấp bảo hiểm mới.",
+    "explanation": "Đáp án A. Tiêu đề 'Telehealth Pilot Beginning October 6' cùng các hướng dẫn về lịch hẹn, biểu mẫu và phòng video cho nhân viên thấy mục đích là phác thảo chương trình thí điểm. B sai vì không mở phòng khám không hẹn. C sai vì khảo sát diễn ra cuối đợt, chưa có kết quả. D sai vì không giới thiệu nhà bảo hiểm.",
+    "vocab": [
+      {
+        "word": "telehealth",
+        "pos": "n.",
+        "meaning": "khám chữa bệnh từ xa"
+      },
+      {
+        "word": "pilot",
+        "pos": "n.",
+        "meaning": "chương trình thí điểm"
+      },
+      {
+        "word": "clinical staff",
+        "pos": "n. phr.",
+        "meaning": "nhân viên lâm sàng"
+      },
+      {
+        "word": "virtual visit",
+        "pos": "n. phr.",
+        "meaning": "buổi khám trực tuyến"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Dr. Elena Marsh, Medical Director<br><strong>To:</strong> All Clinical Staff, Cedar Point Clinic<br><strong>Date:</strong> September 28<br><strong>Subject:</strong> Telehealth Pilot Beginning October 6</p>\n<p>I am pleased to announce that Cedar Point Clinic will begin a two-week telehealth pilot on October 6. Virtual visits will be offered for follow-up appointments and medication reviews only. New patients, annual physicals, and anyone with urgent symptoms should continue to be scheduled in person.</p>\n<p>Each virtual visit is allotted 15 minutes and will take place on our secure video platform. When scheduling, select &ldquo;Virtual&rdquo; as the location in the appointment system. Nurses should send the intake form to patients 24 hours before the visit and confirm that they have received it.</p>\n<p>Patients who do not have reliable internet access may use the private video room next to the staff lounge (Room 2). Front desk staff should verify that these patients have signed the telehealth consent form before they enter the room.</p>\n<p>At the end of the pilot, all staff will receive a short survey. Your feedback will help us decide whether to continue the program permanently. Please direct scheduling questions to me or to the clinic coordinator.</p>",
+    "questionText": "Who is eligible for a virtual visit?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Patients seeking annual physicals"
+      },
+      {
+        "key": "B",
+        "text": "(B) Patients who have never visited the clinic"
+      },
+      {
+        "key": "C",
+        "text": "(C) Patients scheduled for follow-up or medication review"
+      },
+      {
+        "key": "D",
+        "text": "(D) Patients experiencing urgent symptoms"
+      }
+    ],
+    "correct": "C",
+    "translation": "Ai đủ điều kiện cho một buổi khám trực tuyến? (A) Bệnh nhân muốn khám sức khỏe tổng quát hằng năm (B) Bệnh nhân chưa từng đến phòng khám (C) Bệnh nhân có lịch tái khám hoặc xem lại đơn thuốc (D) Bệnh nhân có triệu chứng khẩn cấp.",
+    "explanation": "Đáp án C. Câu 'Virtual visits will be offered for follow-up appointments and medication reviews only' giới hạn đối tượng. A sai vì 'annual physicals' phải khám trực tiếp. B sai vì 'new patients' không được khám từ xa. D sai vì người có triệu chứng khẩn cấp phải đến trực tiếp.",
+    "vocab": [
+      {
+        "word": "eligible",
+        "pos": "adj.",
+        "meaning": "đủ điều kiện"
+      },
+      {
+        "word": "follow-up",
+        "pos": "n.",
+        "meaning": "buổi tái khám, theo dõi"
+      },
+      {
+        "word": "medication review",
+        "pos": "n. phr.",
+        "meaning": "việc xem lại đơn thuốc"
+      },
+      {
+        "word": "in person",
+        "pos": "adv. phr.",
+        "meaning": "trực tiếp"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>From:</strong> Dr. Elena Marsh, Medical Director<br><strong>To:</strong> All Clinical Staff, Cedar Point Clinic<br><strong>Date:</strong> September 28<br><strong>Subject:</strong> Telehealth Pilot Beginning October 6</p>\n<p>I am pleased to announce that Cedar Point Clinic will begin a two-week telehealth pilot on October 6. Virtual visits will be offered for follow-up appointments and medication reviews only. New patients, annual physicals, and anyone with urgent symptoms should continue to be scheduled in person.</p>\n<p>Each virtual visit is allotted 15 minutes and will take place on our secure video platform. When scheduling, select &ldquo;Virtual&rdquo; as the location in the appointment system. Nurses should send the intake form to patients 24 hours before the visit and confirm that they have received it.</p>\n<p>Patients who do not have reliable internet access may use the private video room next to the staff lounge (Room 2). Front desk staff should verify that these patients have signed the telehealth consent form before they enter the room.</p>\n<p>At the end of the pilot, all staff will receive a short survey. Your feedback will help us decide whether to continue the program permanently. Please direct scheduling questions to me or to the clinic coordinator.</p>",
+    "questionText": "What should staff do for a patient who lacks reliable internet access?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Reschedule the visit for the following month"
+      },
+      {
+        "key": "B",
+        "text": "(B) Arrange for the patient to use Room 2"
+      },
+      {
+        "key": "C",
+        "text": "(C) Send the intake form by regular mail"
+      },
+      {
+        "key": "D",
+        "text": "(D) Conduct the visit by telephone instead"
+      }
+    ],
+    "correct": "B",
+    "translation": "Nhân viên nên làm gì với bệnh nhân không có kết nối internet ổn định? (A) Dời buổi khám sang tháng sau (B) Sắp xếp để bệnh nhân sử dụng Phòng 2 (C) Gửi biểu mẫu tiếp nhận qua đường bưu điện (D) Thay vào đó thực hiện buổi khám qua điện thoại.",
+    "explanation": "Đáp án B. E-mail nêu 'Patients who do not have reliable internet access may use the private video room next to the staff lounge (Room 2).' A sai vì không yêu cầu dời lịch. C sai vì y tá gửi biểu mẫu trước 24 giờ, không nói gửi bưu điện. D sai vì chương trình dùng nền tảng video, không chuyển sang điện thoại.",
+    "vocab": [
+      {
+        "word": "reliable",
+        "pos": "adj.",
+        "meaning": "ổn định, đáng tin cậy"
+      },
+      {
+        "word": "internet access",
+        "pos": "n. phr.",
+        "meaning": "kết nối internet"
+      },
+      {
+        "word": "consent form",
+        "pos": "n. phr.",
+        "meaning": "mẫu đồng ý"
+      },
+      {
+        "word": "intake form",
+        "pos": "n. phr.",
+        "meaning": "biểu mẫu tiếp nhận thông tin"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-169 refer to the following notice:",
+    "passageHtml": "<p><strong>METRO TRANSIT SERVICE CHANGES</strong><br><strong>Routes 14 and 22 | Effective March 3</strong></p>\n<p>Repairs to the Willow Bridge will require several changes to bus service this spring. Route 14 will follow a detour through Harbor Avenue in both directions. The Library and 5th Street stops will be temporarily closed, and a temporary stop will be added at Harbor Avenue and Pine Street. Riders should allow an additional 10 to 15 minutes for their trips.</p>\n<p>Route 22 will be extended to the Northgate Business Park during morning and evening peak hours. Buses will run every 30 minutes between 6:30 a.m. and 9:30 a.m. and between 4 p.m. and 7 p.m. At other times, Route 22 will continue to end at Central Station.</p>\n<p>Real-time arrival information for both routes is available in the Metro Transit app. Monthly passes will be accepted on the temporary shuttle that connects the Northgate parking lot to the business park.</p>\n<p>Metro Transit will hold a public meeting on February 25 at 6 p.m. at City Hall to answer questions. Written comments may be submitted online until February 28.</p>",
+    "questionText": "What is the reason for the service changes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A shortage of bus drivers"
+      },
+      {
+        "key": "B",
+        "text": "(B) A scheduled increase in fares"
+      },
+      {
+        "key": "C",
+        "text": "(C) A request from local businesses"
+      },
+      {
+        "key": "D",
+        "text": "(D) Repairs to a bridge"
+      }
+    ],
+    "correct": "D",
+    "translation": "Lý do của những thay đổi dịch vụ là gì? (A) Thiếu tài xế xe buýt (B) Việc tăng giá vé theo kế hoạch (C) Yêu cầu từ các doanh nghiệp địa phương (D) Việc sửa chữa một cây cầu.",
+    "explanation": "Đáp án D. Câu đầu tiên nêu 'Repairs to the Willow Bridge will require several changes to bus service this spring.' A, B và C không được nhắc đến trong thông báo; không có thông tin về thiếu tài xế, tăng giá vé hay yêu cầu từ doanh nghiệp.",
+    "vocab": [
+      {
+        "word": "detour",
+        "pos": "n.",
+        "meaning": "đường vòng"
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "meaning": "tạm thời"
+      },
+      {
+        "word": "route",
+        "pos": "n.",
+        "meaning": "tuyến đường"
+      },
+      {
+        "word": "fare",
+        "pos": "n.",
+        "meaning": "giá vé"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-169 refer to the following notice:",
+    "passageHtml": "<p><strong>METRO TRANSIT SERVICE CHANGES</strong><br><strong>Routes 14 and 22 | Effective March 3</strong></p>\n<p>Repairs to the Willow Bridge will require several changes to bus service this spring. Route 14 will follow a detour through Harbor Avenue in both directions. The Library and 5th Street stops will be temporarily closed, and a temporary stop will be added at Harbor Avenue and Pine Street. Riders should allow an additional 10 to 15 minutes for their trips.</p>\n<p>Route 22 will be extended to the Northgate Business Park during morning and evening peak hours. Buses will run every 30 minutes between 6:30 a.m. and 9:30 a.m. and between 4 p.m. and 7 p.m. At other times, Route 22 will continue to end at Central Station.</p>\n<p>Real-time arrival information for both routes is available in the Metro Transit app. Monthly passes will be accepted on the temporary shuttle that connects the Northgate parking lot to the business park.</p>\n<p>Metro Transit will hold a public meeting on February 25 at 6 p.m. at City Hall to answer questions. Written comments may be submitted online until February 28.</p>",
+    "questionText": "What is true about Route 22?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It will serve a business park during peak hours."
+      },
+      {
+        "key": "B",
+        "text": "(B) It will stop operating at Central Station."
+      },
+      {
+        "key": "C",
+        "text": "(C) It will run every 15 minutes all day."
+      },
+      {
+        "key": "D",
+        "text": "(D) It will replace the temporary shuttle."
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì đúng về Tuyến 22? (A) Nó sẽ phục vụ một khu doanh nghiệp trong giờ cao điểm. (B) Nó sẽ ngừng hoạt động tại Central Station. (C) Nó sẽ chạy 15 phút một chuyến cả ngày. (D) Nó sẽ thay thế xe đưa đón tạm thời.",
+    "explanation": "Đáp án A. Thông báo nói 'Route 22 will be extended to the Northgate Business Park during morning and evening peak hours.' B sai vì ngoài giờ cao điểm tuyến vẫn kết thúc tại Central Station, không ngừng hoạt động. C sai vì tần suất là 30 phút, không phải 15 phút. D sai vì xe đưa đón tạm thời vẫn hoạt động và nhận vé tháng.",
+    "vocab": [
+      {
+        "word": "extend",
+        "pos": "v.",
+        "meaning": "kéo dài, mở rộng"
+      },
+      {
+        "word": "peak hours",
+        "pos": "n. phr.",
+        "meaning": "giờ cao điểm"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "real-time",
+        "pos": "adj.",
+        "meaning": "theo thời gian thực"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 170-172 refer to the following article:",
+    "passageHtml": "<p><strong>Gray Harbor Foods Tests Reusable Delivery Containers</strong></p>\n<p>Gray Harbor Foods is testing a reusable container system for its grocery delivery service in three neighborhoods this fall. Customers will receive staple items such as rice, oats, and cleaning supplies in sturdy containers made from recycled plastic. Each container carries a $5 deposit, which is refunded when the container is returned on a later delivery. The containers are then sanitized and reused.</p>\n<p>The six-month trial involves about 8,000 households. Gray Harbor aims to reduce single-use plastic packaging by 40 percent in the participating neighborhoods. If the results are strong, the company plans to expand the program to other cities next year.</p>\n<p>Some customers have asked whether returning containers will be convenient. Gray Harbor says delivery drivers will collect empty containers at the doorstep during regular deliveries, and customers can also drop them off at any store location.</p>\n<p>An environmental group welcomed the trial but noted that its success will depend on how often containers are actually returned. Gray Harbor will publish the results in January.</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A change in grocery prices"
+      },
+      {
+        "key": "B",
+        "text": "(B) How to open a new store"
+      },
+      {
+        "key": "C",
+        "text": "(C) A trial of reusable delivery packaging"
+      },
+      {
+        "key": "D",
+        "text": "(D) A comparison of cleaning products"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bài viết chủ yếu nói về điều gì? (A) Sự thay đổi giá thực phẩm (B) Cách mở một cửa hàng mới (C) Chương trình thử nghiệm bao bì giao hàng tái sử dụng (D) Sự so sánh các sản phẩm vệ sinh.",
+    "explanation": "Đáp án C. Bài viết mô tả việc Gray Harbor Foods 'testing a reusable container system for its grocery delivery service' và kế hoạch mở rộng nếu kết quả tốt. A sai vì không nói đến thay đổi giá. B sai vì không hướng dẫn mở cửa hàng. D sai vì chỉ nhắc các mặt hàng như gạo, yến mạch và đồ vệ sinh, không so sánh sản phẩm.",
+    "vocab": [
+      {
+        "word": "reusable",
+        "pos": "adj.",
+        "meaning": "có thể tái sử dụng"
+      },
+      {
+        "word": "packaging",
+        "pos": "n.",
+        "meaning": "bao bì"
+      },
+      {
+        "word": "deposit",
+        "pos": "n.",
+        "meaning": "tiền đặt cọc"
+      },
+      {
+        "word": "sanitize",
+        "pos": "v.",
+        "meaning": "khử trùng, làm sạch"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 170-172 refer to the following article:",
+    "passageHtml": "<p><strong>Gray Harbor Foods Tests Reusable Delivery Containers</strong></p>\n<p>Gray Harbor Foods is testing a reusable container system for its grocery delivery service in three neighborhoods this fall. Customers will receive staple items such as rice, oats, and cleaning supplies in sturdy containers made from recycled plastic. Each container carries a $5 deposit, which is refunded when the container is returned on a later delivery. The containers are then sanitized and reused.</p>\n<p>The six-month trial involves about 8,000 households. Gray Harbor aims to reduce single-use plastic packaging by 40 percent in the participating neighborhoods. If the results are strong, the company plans to expand the program to other cities next year.</p>\n<p>Some customers have asked whether returning containers will be convenient. Gray Harbor says delivery drivers will collect empty containers at the doorstep during regular deliveries, and customers can also drop them off at any store location.</p>\n<p>An environmental group welcomed the trial but noted that its success will depend on how often containers are actually returned. Gray Harbor will publish the results in January.</p>",
+    "questionText": "How does the container deposit work?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Customers pay a monthly fee to join the program."
+      },
+      {
+        "key": "B",
+        "text": "(B) Customers pay $5 per container and get it back when they return it."
+      },
+      {
+        "key": "C",
+        "text": "(C) Customers receive a discount for every new container."
+      },
+      {
+        "key": "D",
+        "text": "(D) Customers must buy the containers after six months."
+      }
+    ],
+    "correct": "B",
+    "translation": "Việc đặt cọc hộp đựng hoạt động như thế nào? (A) Khách hàng trả phí hàng tháng để tham gia chương trình. (B) Khách hàng trả 5 đô-la mỗi hộp và được hoàn lại khi trả hộp. (C) Khách hàng được giảm giá cho mỗi hộp mới. (D) Khách hàng phải mua hộp sau sáu tháng.",
+    "explanation": "Đáp án B. Bài viết nêu 'Each container carries a $5 deposit, which is refunded when the container is returned on a later delivery.' A sai vì không có phí thành viên hàng tháng. C sai vì tiền đặt cọc được hoàn lại, không phải giảm giá. D sai vì sáu tháng là thời gian thử nghiệm, không phải hạn phải mua hộp.",
+    "vocab": [
+      {
+        "word": "refund",
+        "pos": "v.",
+        "meaning": "hoàn lại tiền"
+      },
+      {
+        "word": "household",
+        "pos": "n.",
+        "meaning": "hộ gia đình"
+      },
+      {
+        "word": "single-use",
+        "pos": "adj.",
+        "meaning": "dùng một lần"
+      },
+      {
+        "word": "trial",
+        "pos": "n.",
+        "meaning": "sự thử nghiệm"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 170-172 refer to the following article:",
+    "passageHtml": "<p><strong>Gray Harbor Foods Tests Reusable Delivery Containers</strong></p>\n<p>Gray Harbor Foods is testing a reusable container system for its grocery delivery service in three neighborhoods this fall. Customers will receive staple items such as rice, oats, and cleaning supplies in sturdy containers made from recycled plastic. Each container carries a $5 deposit, which is refunded when the container is returned on a later delivery. The containers are then sanitized and reused.</p>\n<p>The six-month trial involves about 8,000 households. Gray Harbor aims to reduce single-use plastic packaging by 40 percent in the participating neighborhoods. If the results are strong, the company plans to expand the program to other cities next year.</p>\n<p>Some customers have asked whether returning containers will be convenient. Gray Harbor says delivery drivers will collect empty containers at the doorstep during regular deliveries, and customers can also drop them off at any store location.</p>\n<p>An environmental group welcomed the trial but noted that its success will depend on how often containers are actually returned. Gray Harbor will publish the results in January.</p>",
+    "questionText": "What concern is mentioned about the program?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The containers may not keep food fresh."
+      },
+      {
+        "key": "B",
+        "text": "(B) The program may cost more than expected."
+      },
+      {
+        "key": "C",
+        "text": "(C) Drivers may be unavailable on weekends."
+      },
+      {
+        "key": "D",
+        "text": "(D) Returning the containers may be inconvenient."
+      }
+    ],
+    "correct": "D",
+    "translation": "Mối lo ngại nào được đề cập về chương trình? (A) Các hộp có thể không giữ thực phẩm tươi. (B) Chương trình có thể tốn kém hơn dự kiến. (C) Tài xế có thể không có mặt vào cuối tuần. (D) Việc trả lại hộp có thể bất tiện.",
+    "explanation": "Đáp án D. Bài viết nêu 'Some customers have asked whether returning containers will be convenient', tức lo ngại về sự bất tiện khi trả hộp. A sai vì không nói hộp không giữ được độ tươi. B sai vì chi phí không phải mối lo được nêu. C sai vì tài xế thu hộp trong các chuyến giao thường lệ, không nói cuối tuần.",
+    "vocab": [
+      {
+        "word": "convenient",
+        "pos": "adj.",
+        "meaning": "tiện lợi"
+      },
+      {
+        "word": "doorstep",
+        "pos": "n.",
+        "meaning": "bậc cửa, trước cửa nhà"
+      },
+      {
+        "word": "drop off",
+        "pos": "v. phr.",
+        "meaning": "trả, để lại"
+      },
+      {
+        "word": "environmental",
+        "pos": "adj.",
+        "meaning": "thuộc môi trường"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 173-175 refer to the following article:",
+    "passageHtml": "<p><strong>Larkspur Hotels Adopts an Automated Chat Assistant</strong></p>\n<p>Guests at twelve Larkspur hotels can now get quick answers to common questions through &ldquo;Ivy,&rdquo; an automated chat assistant available on the hotel group's website and mobile app. Ivy handles requests for extra towels, check-out times, Wi-Fi passwords, and directions to nearby attractions. During a three-month trial, the average response time fell from four minutes to eight seconds.</p>\n<p>Ivy identifies itself as a virtual assistant at the start of every conversation and offers guests the option to speak with a person. If a request cannot be resolved within two exchanges, or if a guest expresses frustration, the conversation is transferred to a human agent. Complex matters such as billing disputes and room changes are always handled by staff.</p>\n<p>&ldquo;The goal is not to replace our front desk teams,&rdquo; said operations director Ben Ortiz. &ldquo;It is to free them from repetitive questions so they can focus on guests who need personal attention.&rdquo;</p>\n<p>Larkspur plans to introduce Ivy at 40 additional properties before the winter holiday season. Staff at those hotels will receive training on reviewing chat transcripts and identifying common problems.</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new hotel loyalty program"
+      },
+      {
+        "key": "B",
+        "text": "(B) Why a hotel chain is closing its front desks"
+      },
+      {
+        "key": "C",
+        "text": "(C) A hotel group's use of an automated chat service"
+      },
+      {
+        "key": "D",
+        "text": "(D) A comparison of two mobile apps for travelers"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bài viết chủ yếu nói về điều gì? (A) Một chương trình khách hàng thân thiết mới của khách sạn (B) Lý do một chuỗi khách sạn đóng cửa quầy lễ tân (C) Việc một tập đoàn khách sạn sử dụng dịch vụ trò chuyện tự động (D) Sự so sánh hai ứng dụng di động dành cho du khách.",
+    "explanation": "Đáp án C. Bài viết mô tả 'Ivy', một trợ lý trò chuyện tự động tại 12 khách sạn, cùng thời gian phản hồi và kế hoạch mở rộng. A sai vì không quảng cáo chương trình khách hàng thân thiết. B sai vì bài nói mục tiêu không phải thay thế đội lễ tân và không có việc đóng cửa quầy. D sai vì không so sánh hai ứng dụng.",
+    "vocab": [
+      {
+        "word": "automated",
+        "pos": "adj.",
+        "meaning": "tự động"
+      },
+      {
+        "word": "virtual assistant",
+        "pos": "n. phr.",
+        "meaning": "trợ lý ảo"
+      },
+      {
+        "word": "transcript",
+        "pos": "n.",
+        "meaning": "bản ghi cuộc trò chuyện"
+      },
+      {
+        "word": "property",
+        "pos": "n.",
+        "meaning": "cơ sở khách sạn"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 173-175 refer to the following article:",
+    "passageHtml": "<p><strong>Larkspur Hotels Adopts an Automated Chat Assistant</strong></p>\n<p>Guests at twelve Larkspur hotels can now get quick answers to common questions through &ldquo;Ivy,&rdquo; an automated chat assistant available on the hotel group's website and mobile app. Ivy handles requests for extra towels, check-out times, Wi-Fi passwords, and directions to nearby attractions. During a three-month trial, the average response time fell from four minutes to eight seconds.</p>\n<p>Ivy identifies itself as a virtual assistant at the start of every conversation and offers guests the option to speak with a person. If a request cannot be resolved within two exchanges, or if a guest expresses frustration, the conversation is transferred to a human agent. Complex matters such as billing disputes and room changes are always handled by staff.</p>\n<p>&ldquo;The goal is not to replace our front desk teams,&rdquo; said operations director Ben Ortiz. &ldquo;It is to free them from repetitive questions so they can focus on guests who need personal attention.&rdquo;</p>\n<p>Larkspur plans to introduce Ivy at 40 additional properties before the winter holiday season. Staff at those hotels will receive training on reviewing chat transcripts and identifying common problems.</p>",
+    "questionText": "What happens if Ivy cannot resolve a request?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The conversation is transferred to a human agent."
+      },
+      {
+        "key": "B",
+        "text": "(B) The guest is asked to call the hotel later."
+      },
+      {
+        "key": "C",
+        "text": "(C) The assistant offers a discount on the room."
+      },
+      {
+        "key": "D",
+        "text": "(D) The request is added to a weekly report."
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì xảy ra nếu Ivy không thể giải quyết một yêu cầu? (A) Cuộc trò chuyện được chuyển cho nhân viên thật. (B) Khách được yêu cầu gọi lại khách sạn sau. (C) Trợ lý đề nghị giảm giá phòng. (D) Yêu cầu được thêm vào báo cáo hằng tuần.",
+    "explanation": "Đáp án A. Bài viết nêu 'If a request cannot be resolved within two exchanges, or if a guest expresses frustration, the conversation is transferred to a human agent.' B sai vì không có yêu cầu gọi lại sau. C sai vì trợ lý không đề nghị giảm giá phòng. D sai vì yêu cầu không được đưa vào báo cáo hằng tuần.",
+    "vocab": [
+      {
+        "word": "resolve",
+        "pos": "v.",
+        "meaning": "giải quyết"
+      },
+      {
+        "word": "transfer",
+        "pos": "v.",
+        "meaning": "chuyển"
+      },
+      {
+        "word": "human agent",
+        "pos": "n. phr.",
+        "meaning": "nhân viên thật"
+      },
+      {
+        "word": "billing dispute",
+        "pos": "n. phr.",
+        "meaning": "tranh chấp về hóa đơn"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 173-175 refer to the following article:",
+    "passageHtml": "<p><strong>Larkspur Hotels Adopts an Automated Chat Assistant</strong></p>\n<p>Guests at twelve Larkspur hotels can now get quick answers to common questions through &ldquo;Ivy,&rdquo; an automated chat assistant available on the hotel group's website and mobile app. Ivy handles requests for extra towels, check-out times, Wi-Fi passwords, and directions to nearby attractions. During a three-month trial, the average response time fell from four minutes to eight seconds.</p>\n<p>Ivy identifies itself as a virtual assistant at the start of every conversation and offers guests the option to speak with a person. If a request cannot be resolved within two exchanges, or if a guest expresses frustration, the conversation is transferred to a human agent. Complex matters such as billing disputes and room changes are always handled by staff.</p>\n<p>&ldquo;The goal is not to replace our front desk teams,&rdquo; said operations director Ben Ortiz. &ldquo;It is to free them from repetitive questions so they can focus on guests who need personal attention.&rdquo;</p>\n<p>Larkspur plans to introduce Ivy at 40 additional properties before the winter holiday season. Staff at those hotels will receive training on reviewing chat transcripts and identifying common problems.</p>",
+    "questionText": "What does Larkspur plan to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Replace its front desk teams"
+      },
+      {
+        "key": "B",
+        "text": "(B) Launch a new hotel brand"
+      },
+      {
+        "key": "C",
+        "text": "(C) Stop using chat transcripts"
+      },
+      {
+        "key": "D",
+        "text": "(D) Expand the assistant to more properties"
+      }
+    ],
+    "correct": "D",
+    "translation": "Larkspur dự định làm gì? (A) Thay thế đội ngũ lễ tân (B) Ra mắt một thương hiệu khách sạn mới (C) Ngừng sử dụng bản ghi cuộc trò chuyện (D) Mở rộng trợ lý sang nhiều cơ sở hơn.",
+    "explanation": "Đáp án D. Câu 'Larkspur plans to introduce Ivy at 40 additional properties before the winter holiday season' cho thấy kế hoạch mở rộng. A sai vì giám đốc vận hành nói mục tiêu không phải thay thế đội lễ tân. B sai vì không ra mắt thương hiệu mới. C sai vì nhân viên sẽ được đào tạo về việc xem lại bản ghi, không phải ngừng dùng.",
+    "vocab": [
+      {
+        "word": "additional",
+        "pos": "adj.",
+        "meaning": "bổ sung, thêm"
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "meaning": "mở rộng"
+      },
+      {
+        "word": "front desk",
+        "pos": "n. phr.",
+        "meaning": "quầy lễ tân"
+      },
+      {
+        "word": "identify",
+        "pos": "v.",
+        "meaning": "nhận diện, xác định"
+      }
+    ]
+  }
+]

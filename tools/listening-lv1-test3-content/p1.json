@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "cafe_pouring",
+    "imageCaption": "Một nhân viên pha chế đeo tạp dề đang rót cà phê từ bình thủy tinh vào một chiếc cốc sứ trên quầy quán cà phê.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A worker is pouring coffee into a cup.",
+      "A waiter is carrying dishes to a dining table.",
+      "Some cups are being washed in a sink.",
+      "A customer is reading a menu near the entrance."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên đang rót cà phê vào một chiếc cốc.\n(B) Một người phục vụ đang bưng đĩa thức ăn tới bàn ăn.\n(C) Một vài chiếc cốc đang được rửa trong bồn rửa.\n(D) Một khách hàng đang đọc thực đơn gần lối vào.",
+    "explanation": "Phương án (A) mô tả chính xác hành động nhân viên pha chế đang rót cà phê vào chiếc cốc trên quầy. Các phương án (B), (C), (D) nói về việc bưng đĩa thức ăn, rửa cốc trong bồn và đọc thực đơn gần lối vào đều không khớp với hình.",
+    "vocab": [
+      ["pour", "v", "rót, đổ"],
+      ["waiter", "n", "nhân viên phục vụ bàn"],
+      ["sink", "n", "bồn rửa"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "office_handshake",
+    "imageCaption": "Hai người đàn ông mặc trang phục công sở đang đứng bắt tay nhau bên cạnh bàn họp trong văn phòng có cửa sổ lớn.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Two men are looking at a map on the floor.",
+      "Two men are shaking hands next to a table.",
+      "Some workers are moving a desk through a doorway.",
+      "A man is typing on a laptop by a window."
+    ],
+    "correct": "B",
+    "translation": "(A) Hai người đàn ông đang xem bản đồ trên sàn nhà.\n(B) Hai người đàn ông đang bắt tay nhau bên cạnh chiếc bàn.\n(C) Một vài công nhân đang khiêng chiếc bàn qua khung cửa.\n(D) Một người đàn ông đang gõ máy tính xách tay cạnh cửa sổ.",
+    "explanation": "Phương án (B) mô tả đúng cảnh hai người đàn ông đang đứng bắt tay nhau bên cạnh bàn họp. Các phương án (A), (C), (D) mô tả việc xem bản đồ trên sàn, khiêng bàn qua cửa và gõ máy tính xách tay đều sai.",
+    "vocab": [
+      ["shake hands", "phr", "bắt tay"],
+      ["doorway", "n", "ô cửa, lối ra vào"],
+      ["floor", "n", "sàn nhà"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "supermarket_produce",
+    "imageCaption": "Một người phụ nữ đang cầm giỏ mua hàng trong siêu thị và chọn hoa quả tươi trên quầy trưng bày nông sản.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A cashier is putting groceries into plastic bags.",
+      "A worker is mopping the aisle in a supermarket.",
+      "A shopper is selecting fruit at a market stand.",
+      "Empty baskets are stacked outside a store."
+    ],
+    "correct": "C",
+    "translation": "(A) Một thu ngân đang cho hàng tạp hóa vào túi nhựa.\n(B) Một nhân viên đang lau lối đi trong siêu thị.\n(C) Một người mua hàng đang chọn trái cây tại quầy hàng.\n(D) Những chiếc giỏ trống được xếp chồng bên ngoài cửa hàng.",
+    "explanation": "Phương án (C) mô tả đúng hình ảnh người mua hàng đang cầm giỏ và chọn trái cây trên quầy trưng bày. Các phương án (A), (B), (D) nói về thu ngân đóng túi, nhân viên lau sàn và giỏ xếp chồng ngoài cửa hàng đều không đúng.",
+    "vocab": [
+      ["shopper", "n", "người mua hàng"],
+      ["select", "v", "lựa chọn"],
+      ["aisle", "n", "lối đi giữa các dãy kệ"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "hotel_luggage",
+    "imageCaption": "Một người phụ nữ đang kéo chiếc vali có bánh xe đi qua sảnh khách sạn về phía quầy lễ tân.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A bellhop is loading luggage into a taxi.",
+      "Passengers are boarding a train at a platform.",
+      "A receptionist is hanging keys on a wall board.",
+      "A woman is pulling a suitcase across a lobby."
+    ],
+    "correct": "D",
+    "translation": "(A) Một nhân viên hành lý đang chất hành lý lên xe taxi.\n(B) Hành khách đang lên tàu tại sân ga.\n(C) Một nhân viên lễ tân đang treo chìa khóa lên bảng trên tường.\n(D) Một người phụ nữ đang kéo chiếc vali đi qua sảnh chờ.",
+    "explanation": "Phương án (D) mô tả chính xác cảnh người phụ nữ đang kéo chiếc vali đi ngang qua sảnh khách sạn. Các phương án (A), (B), (C) nói về chất hành lý lên taxi, lên tàu ở sân ga và treo chìa khóa đều không xuất hiện trong ảnh.",
+    "vocab": [
+      ["pull", "v", "kéo"],
+      ["suitcase", "n", "chiếc vali"],
+      ["lobby", "n", "sảnh chờ khách sạn"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "garden_watering",
+    "imageCaption": "Một người đàn ông đội mũ đang cầm bình tưới nước cho các chậu cây đặt dọc lối đi lát đá ngoài sân.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A man is watering potted plants along a walkway.",
+      "A gardener is cutting grass with a lawn mower.",
+      "Some trees are being planted near a street.",
+      "A man is painting a wooden bench outside."
+    ],
+    "correct": "A",
+    "translation": "(A) Một người đàn ông đang tưới nước cho các chậu cây dọc lối đi.\n(B) Một người làm vườn đang cắt cỏ bằng máy cắt cỏ.\n(C) Một vài cái cây đang được trồng gần con phố.\n(D) Một người đàn ông đang sơn chiếc ghế dài bằng gỗ ngoài trời.",
+    "explanation": "Phương án (A) mô tả đúng hành động người đàn ông đang cầm bình tưới nước cho các chậu cây đặt dọc lối đi. Các phương án (B), (C), (D) nói về cắt cỏ, trồng cây gần phố và sơn ghế gỗ đều sai.",
+    "vocab": [
+      ["water", "v", "tưới nước"],
+      ["potted plant", "n", "cây trồng trong chậu"],
+      ["walkway", "n", "lối đi bộ"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "conference_room_empty",
+    "imageCaption": "Một phòng họp trống với những chiếc ghế văn phòng được xếp ngay ngắn quanh chiếc bàn dài, trên bàn có đặt sẵn các chai nước và sổ ghi chép.",
+    "imageUrl": "listening/images/lv1-test-03/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A group of people is watching a slide presentation.",
+      "Chairs are arranged around a long conference table.",
+      "A janitor is vacuuming the carpet in an office.",
+      "Curtains are being closed over the windows."
+    ],
+    "correct": "B",
+    "translation": "(A) Một nhóm người đang xem bài thuyết trình chiếu slide.\n(B) Những chiếc ghế được sắp xếp xung quanh một chiếc bàn họp dài.\n(C) Một nhân viên tạp vụ đang hút bụi thảm trong văn phòng.\n(D) Rèm cửa đang được kéo đóng lại trước cửa sổ.",
+    "explanation": "Phương án (B) mô tả đúng trạng thái phòng họp trống với các ghế văn phòng được xếp ngay ngắn quanh bàn họp dài. Các phương án (A), (C), (D) đều nhắc tới hoạt động của con người không có trong hình.",
+    "vocab": [
+      ["arrange", "v", "sắp xếp"],
+      ["conference table", "n", "bàn họp"],
+      ["carpet", "n", "thảm trải sàn"]
+    ]
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 176,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: E-mail</strong></p>\n<p><strong>To:</strong> Marcus Bell, Regional Operations Manager, Harlow &amp; Finch<br><strong>From:</strong> Priya Raman, Project Manager, Calder Construction<br><strong>Date:</strong> April 14<br><strong>Subject:</strong> Store 27 renovation — revised schedule</p>\n<p>Dear Mr. Bell,</p>\n<p>The electrical permit for the Store 27 project was issued three days later than expected, which has shifted part of our schedule. The removal of the old shelving will still take place from April 20 to 22. However, installation of the new checkout counters will now occur on May 4 and 5 rather than April 29 and 30. The new shelving will be installed on May 6 and 7, and the final inspection is set for May 11. We will hand the store back to you on May 12.</p>\n<p>The store can remain open throughout the work, which will be carried out between 7:00 a.m. and 3:00 p.m. Aisle 7 will be closed while the old shelving is removed, and our crew will use loading dock 2 from April 20 through May 8. Please ask your receiving staff to use dock 1 during that period.</p>\n<p>Regards,<br>Priya Raman</p>\n<hr>\n<p><strong>Document 2: Internal Memo</strong></p>\n<p><strong>To:</strong> All Store 27 Staff<br><strong>From:</strong> Marcus Bell, Regional Operations Manager<br><strong>Date:</strong> April 16<br><strong>Subject:</strong> Renovation updates and reopening plans</p>\n<p>As Calder Construction explained, the store will stay open, but our checkout area will be affected. On May 4 and 5, while the new counters are being installed, all checkout operations will move temporarily to the garden center. Please direct customers there and allow extra time for transactions.</p>\n<p>The handover date is now May 12. We will use the following four days to restock and merchandise the sales floor, so the loyalty-member reopening event will be held on May 16. Members will receive 20 percent off a single regular-priced item, and the promotion will run through May 18.</p>\n<p>All cashiers must complete the 45-minute online module on the new registers by May 10, and then attend one hands-on session on May 13, either at 8:00 a.m. or at 2:00 p.m. Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.</p>\n<p>The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished. Finally, all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.</p>\n<p>Marcus</p>\n</div>",
+    "questionText": "According to the two documents, why will customers pay at the garden center on May 4 and 5?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The main checkout area is being repainted."
+      },
+      {
+        "key": "B",
+        "text": "(B) New checkout counters are being installed."
+      },
+      {
+        "key": "C",
+        "text": "(C) The garden center is holding a seasonal sale."
+      },
+      {
+        "key": "D",
+        "text": "(D) A final safety inspection is taking place."
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo hai tài liệu, vì sao khách hàng sẽ thanh toán tại khu vườn vào ngày 4 và 5 tháng 5? — Vì các quầy thu ngân mới đang được lắp đặt.",
+    "explanation": "Đáp án B. Tài liệu 1 cho biết việc lắp đặt quầy thu ngân mới diễn ra vào ngày 4 và 5 tháng 5 (“installation of the new checkout counters will now occur on May 4 and 5”). Tài liệu 2 giải thích rằng trong thời gian đó, toàn bộ hoạt động thanh toán tạm chuyển sang khu vườn (“all checkout operations will move temporarily to the garden center”). A sai vì không có việc sơn lại quầy. C sai vì khu vườn chỉ là địa điểm thanh toán tạm, không có chương trình khuyến mãi. D sai vì kiểm tra cuối cùng diễn ra ngày 11 tháng 5, không phải ngày 4-5.",
+    "vocab": [
+      {
+        "word": "checkout counter",
+        "pos": "n.",
+        "meaning": "quầy thanh toán"
+      },
+      {
+        "word": "installation",
+        "pos": "n.",
+        "meaning": "việc lắp đặt"
+      },
+      {
+        "word": "temporarily",
+        "pos": "adv.",
+        "meaning": "tạm thời"
+      },
+      {
+        "word": "transaction",
+        "pos": "n.",
+        "meaning": "giao dịch"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: E-mail</strong></p>\n<p><strong>To:</strong> Marcus Bell, Regional Operations Manager, Harlow &amp; Finch<br><strong>From:</strong> Priya Raman, Project Manager, Calder Construction<br><strong>Date:</strong> April 14<br><strong>Subject:</strong> Store 27 renovation — revised schedule</p>\n<p>Dear Mr. Bell,</p>\n<p>The electrical permit for the Store 27 project was issued three days later than expected, which has shifted part of our schedule. The removal of the old shelving will still take place from April 20 to 22. However, installation of the new checkout counters will now occur on May 4 and 5 rather than April 29 and 30. The new shelving will be installed on May 6 and 7, and the final inspection is set for May 11. We will hand the store back to you on May 12.</p>\n<p>The store can remain open throughout the work, which will be carried out between 7:00 a.m. and 3:00 p.m. Aisle 7 will be closed while the old shelving is removed, and our crew will use loading dock 2 from April 20 through May 8. Please ask your receiving staff to use dock 1 during that period.</p>\n<p>Regards,<br>Priya Raman</p>\n<hr>\n<p><strong>Document 2: Internal Memo</strong></p>\n<p><strong>To:</strong> All Store 27 Staff<br><strong>From:</strong> Marcus Bell, Regional Operations Manager<br><strong>Date:</strong> April 16<br><strong>Subject:</strong> Renovation updates and reopening plans</p>\n<p>As Calder Construction explained, the store will stay open, but our checkout area will be affected. On May 4 and 5, while the new counters are being installed, all checkout operations will move temporarily to the garden center. Please direct customers there and allow extra time for transactions.</p>\n<p>The handover date is now May 12. We will use the following four days to restock and merchandise the sales floor, so the loyalty-member reopening event will be held on May 16. Members will receive 20 percent off a single regular-priced item, and the promotion will run through May 18.</p>\n<p>All cashiers must complete the 45-minute online module on the new registers by May 10, and then attend one hands-on session on May 13, either at 8:00 a.m. or at 2:00 p.m. Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.</p>\n<p>The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished. Finally, all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.</p>\n<p>Marcus</p>\n</div>",
+    "questionText": "Why were the hands-on register sessions not scheduled before May 13?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The store will not be handed over until May 12."
+      },
+      {
+        "key": "B",
+        "text": "(B) The online module is not available until May 10."
+      },
+      {
+        "key": "C",
+        "text": "(C) The trainer will be on vacation until May 12."
+      },
+      {
+        "key": "D",
+        "text": "(D) The garden center is unavailable before May 13."
+      }
+    ],
+    "correct": "A",
+    "translation": "Vì sao các buổi thực hành sử dụng máy thu ngân không được lên lịch trước ngày 13 tháng 5? — Vì cửa hàng chưa được bàn giao cho đến ngày 12 tháng 5.",
+    "explanation": "Đáp án A. Biên bản nội bộ nêu rõ: “Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.” Điều này khớp với e-mail cho biết Calder Construction sẽ bàn giao cửa hàng vào ngày 12 tháng 5. B sai vì ngày 10 tháng 5 là hạn hoàn thành mô-đun trực tuyến, không phải ngày mô-đun mới có. C và D không được đề cập trong tài liệu.",
+    "vocab": [
+      {
+        "word": "hands-on",
+        "pos": "adj.",
+        "meaning": "thực hành, thao tác trực tiếp"
+      },
+      {
+        "word": "hand over",
+        "pos": "phr. v.",
+        "meaning": "bàn giao"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, buổi tập huấn"
+      },
+      {
+        "word": "schedule",
+        "pos": "v.",
+        "meaning": "lên lịch"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: E-mail</strong></p>\n<p><strong>To:</strong> Marcus Bell, Regional Operations Manager, Harlow &amp; Finch<br><strong>From:</strong> Priya Raman, Project Manager, Calder Construction<br><strong>Date:</strong> April 14<br><strong>Subject:</strong> Store 27 renovation — revised schedule</p>\n<p>Dear Mr. Bell,</p>\n<p>The electrical permit for the Store 27 project was issued three days later than expected, which has shifted part of our schedule. The removal of the old shelving will still take place from April 20 to 22. However, installation of the new checkout counters will now occur on May 4 and 5 rather than April 29 and 30. The new shelving will be installed on May 6 and 7, and the final inspection is set for May 11. We will hand the store back to you on May 12.</p>\n<p>The store can remain open throughout the work, which will be carried out between 7:00 a.m. and 3:00 p.m. Aisle 7 will be closed while the old shelving is removed, and our crew will use loading dock 2 from April 20 through May 8. Please ask your receiving staff to use dock 1 during that period.</p>\n<p>Regards,<br>Priya Raman</p>\n<hr>\n<p><strong>Document 2: Internal Memo</strong></p>\n<p><strong>To:</strong> All Store 27 Staff<br><strong>From:</strong> Marcus Bell, Regional Operations Manager<br><strong>Date:</strong> April 16<br><strong>Subject:</strong> Renovation updates and reopening plans</p>\n<p>As Calder Construction explained, the store will stay open, but our checkout area will be affected. On May 4 and 5, while the new counters are being installed, all checkout operations will move temporarily to the garden center. Please direct customers there and allow extra time for transactions.</p>\n<p>The handover date is now May 12. We will use the following four days to restock and merchandise the sales floor, so the loyalty-member reopening event will be held on May 16. Members will receive 20 percent off a single regular-priced item, and the promotion will run through May 18.</p>\n<p>All cashiers must complete the 45-minute online module on the new registers by May 10, and then attend one hands-on session on May 13, either at 8:00 a.m. or at 2:00 p.m. Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.</p>\n<p>The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished. Finally, all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.</p>\n<p>Marcus</p>\n</div>",
+    "questionText": "According to the documents, where should vendors send deliveries between April 20 and May 8?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To the garden center"
+      },
+      {
+        "key": "B",
+        "text": "(B) To the main entrance"
+      },
+      {
+        "key": "C",
+        "text": "(C) To loading dock 2"
+      },
+      {
+        "key": "D",
+        "text": "(D) To loading dock 1"
+      }
+    ],
+    "correct": "D",
+    "translation": "Theo các tài liệu, từ ngày 20 tháng 4 đến ngày 8 tháng 5, nhà cung cấp nên giao hàng đến đâu? — Đến bến bốc xếp số 1.",
+    "explanation": "Đáp án D. E-mail của bà Raman cho biết đội thi công sẽ dùng bến bốc xếp số 2 từ ngày 20 tháng 4 đến ngày 8 tháng 5 và đề nghị bộ phận nhận hàng dùng bến số 1. Biên bản của ông Bell nhắc lại: “all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.” A là nơi thanh toán tạm, không phải nơi giao hàng. B không được nhắc đến. C sai vì bến số 2 dành cho nhà thầu.",
+    "vocab": [
+      {
+        "word": "vendor",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      },
+      {
+        "word": "delivery",
+        "pos": "n.",
+        "meaning": "việc giao hàng, lô hàng giao"
+      },
+      {
+        "word": "loading dock",
+        "pos": "n.",
+        "meaning": "bến bốc xếp hàng hóa"
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "meaning": "dành riêng"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: E-mail</strong></p>\n<p><strong>To:</strong> Marcus Bell, Regional Operations Manager, Harlow &amp; Finch<br><strong>From:</strong> Priya Raman, Project Manager, Calder Construction<br><strong>Date:</strong> April 14<br><strong>Subject:</strong> Store 27 renovation — revised schedule</p>\n<p>Dear Mr. Bell,</p>\n<p>The electrical permit for the Store 27 project was issued three days later than expected, which has shifted part of our schedule. The removal of the old shelving will still take place from April 20 to 22. However, installation of the new checkout counters will now occur on May 4 and 5 rather than April 29 and 30. The new shelving will be installed on May 6 and 7, and the final inspection is set for May 11. We will hand the store back to you on May 12.</p>\n<p>The store can remain open throughout the work, which will be carried out between 7:00 a.m. and 3:00 p.m. Aisle 7 will be closed while the old shelving is removed, and our crew will use loading dock 2 from April 20 through May 8. Please ask your receiving staff to use dock 1 during that period.</p>\n<p>Regards,<br>Priya Raman</p>\n<hr>\n<p><strong>Document 2: Internal Memo</strong></p>\n<p><strong>To:</strong> All Store 27 Staff<br><strong>From:</strong> Marcus Bell, Regional Operations Manager<br><strong>Date:</strong> April 16<br><strong>Subject:</strong> Renovation updates and reopening plans</p>\n<p>As Calder Construction explained, the store will stay open, but our checkout area will be affected. On May 4 and 5, while the new counters are being installed, all checkout operations will move temporarily to the garden center. Please direct customers there and allow extra time for transactions.</p>\n<p>The handover date is now May 12. We will use the following four days to restock and merchandise the sales floor, so the loyalty-member reopening event will be held on May 16. Members will receive 20 percent off a single regular-priced item, and the promotion will run through May 18.</p>\n<p>All cashiers must complete the 45-minute online module on the new registers by May 10, and then attend one hands-on session on May 13, either at 8:00 a.m. or at 2:00 p.m. Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.</p>\n<p>The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished. Finally, all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.</p>\n<p>Marcus</p>\n</div>",
+    "questionText": "Why is the loyalty-member event scheduled for May 16?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The contractor will finish installing shelving on May 16."
+      },
+      {
+        "key": "B",
+        "text": "(B) The online training module closes on May 16."
+      },
+      {
+        "key": "C",
+        "text": "(C) Staff need time after the handover to prepare the sales floor."
+      },
+      {
+        "key": "D",
+        "text": "(D) The store's electrical permit expires on May 16."
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao sự kiện dành cho khách hàng thân thiết được lên lịch vào ngày 16 tháng 5? — Vì nhân viên cần thời gian sau khi bàn giao để chuẩn bị khu bán hàng.",
+    "explanation": "Đáp án C. E-mail cho biết cửa hàng được bàn giao ngày 12 tháng 5. Biên bản nói rằng bốn ngày sau đó sẽ dùng để nhập lại hàng và trưng bày (“use the following four days to restock and merchandise the sales floor”), rồi sự kiện diễn ra ngày 16 tháng 5. A sai vì việc lắp kệ mới diễn ra ngày 6-7 tháng 5. B sai vì hạn mô-đun trực tuyến là ngày 10 tháng 5. D không có thông tin về giấy phép điện hết hạn.",
+    "vocab": [
+      {
+        "word": "loyalty member",
+        "pos": "n.",
+        "meaning": "khách hàng thân thiết"
+      },
+      {
+        "word": "handover",
+        "pos": "n.",
+        "meaning": "việc bàn giao"
+      },
+      {
+        "word": "merchandise",
+        "pos": "v.",
+        "meaning": "trưng bày, sắp xếp hàng hóa"
+      },
+      {
+        "word": "sales floor",
+        "pos": "n.",
+        "meaning": "khu vực bán hàng"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: E-mail</strong></p>\n<p><strong>To:</strong> Marcus Bell, Regional Operations Manager, Harlow &amp; Finch<br><strong>From:</strong> Priya Raman, Project Manager, Calder Construction<br><strong>Date:</strong> April 14<br><strong>Subject:</strong> Store 27 renovation — revised schedule</p>\n<p>Dear Mr. Bell,</p>\n<p>The electrical permit for the Store 27 project was issued three days later than expected, which has shifted part of our schedule. The removal of the old shelving will still take place from April 20 to 22. However, installation of the new checkout counters will now occur on May 4 and 5 rather than April 29 and 30. The new shelving will be installed on May 6 and 7, and the final inspection is set for May 11. We will hand the store back to you on May 12.</p>\n<p>The store can remain open throughout the work, which will be carried out between 7:00 a.m. and 3:00 p.m. Aisle 7 will be closed while the old shelving is removed, and our crew will use loading dock 2 from April 20 through May 8. Please ask your receiving staff to use dock 1 during that period.</p>\n<p>Regards,<br>Priya Raman</p>\n<hr>\n<p><strong>Document 2: Internal Memo</strong></p>\n<p><strong>To:</strong> All Store 27 Staff<br><strong>From:</strong> Marcus Bell, Regional Operations Manager<br><strong>Date:</strong> April 16<br><strong>Subject:</strong> Renovation updates and reopening plans</p>\n<p>As Calder Construction explained, the store will stay open, but our checkout area will be affected. On May 4 and 5, while the new counters are being installed, all checkout operations will move temporarily to the garden center. Please direct customers there and allow extra time for transactions.</p>\n<p>The handover date is now May 12. We will use the following four days to restock and merchandise the sales floor, so the loyalty-member reopening event will be held on May 16. Members will receive 20 percent off a single regular-priced item, and the promotion will run through May 18.</p>\n<p>All cashiers must complete the 45-minute online module on the new registers by May 10, and then attend one hands-on session on May 13, either at 8:00 a.m. or at 2:00 p.m. Because the store will not be returned to us until May 12, we could not arrange these sessions any earlier.</p>\n<p>The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished. Finally, all deliveries from April 20 through May 8 must be sent to dock 1, since dock 2 will be reserved for the contractor.</p>\n<p>Marcus</p>\n</div>",
+    "questionText": "What is indicated about the seasonal display?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It will be removed permanently on April 22."
+      },
+      {
+        "key": "B",
+        "text": "(B) It has been moved because aisle 7 is closed."
+      },
+      {
+        "key": "C",
+        "text": "(C) It will be expanded for the loyalty event."
+      },
+      {
+        "key": "D",
+        "text": "(D) It is currently in the garden center."
+      }
+    ],
+    "correct": "B",
+    "translation": "Có thông tin gì về khu trưng bày theo mùa? — Nó đã được chuyển đi vì lối đi số 7 bị đóng.",
+    "explanation": "Đáp án B. E-mail cho biết lối đi số 7 sẽ đóng trong thời gian tháo kệ cũ, từ ngày 20 đến 22 tháng 4. Biên bản ghi: “The seasonal display normally located in aisle 7 has been moved to aisle 12 until the shelving work is finished.” A sai vì việc di chuyển chỉ kéo dài đến khi công việc kết thúc, không phải xóa bỏ vĩnh viễn. C không được đề cập. D sai vì khu vườn được dùng làm quầy thanh toán tạm, không phải nơi đặt khu trưng bày.",
+    "vocab": [
+      {
+        "word": "seasonal",
+        "pos": "adj.",
+        "meaning": "theo mùa"
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "meaning": "lối đi giữa các kệ hàng"
+      },
+      {
+        "word": "relocate",
+        "pos": "v.",
+        "meaning": "di chuyển, đặt ở vị trí khác"
+      },
+      {
+        "word": "display",
+        "pos": "n.",
+        "meaning": "khu trưng bày"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following travel policy and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: Business Travel and Expense Policy (Excerpt)</strong></p>\n<p><strong>Ridgeline Financial</strong></p>\n<p><strong>2. Air travel:</strong> Economy class is required for all domestic flights. Tickets should be booked at least 14 days in advance whenever possible. Business-class travel on flights longer than six hours requires written approval from a vice president.</p>\n<p><strong>3. Lodging:</strong> Room rates are reimbursed up to $220 per night in Tier 1 cities, including Chicago, and up to $160 per night elsewhere. Taxes and mandatory fees may be claimed separately. Employees should request the conference or corporate rate when available.</p>\n<p><strong>4. Meals:</strong> Up to $65 per day. Receipts are required for any single expense over $25.</p>\n<p><strong>5. Conferences:</strong> Registration fees are reimbursed only when attendance has been approved in advance by the employee's department manager. Employees should take advantage of early-bird rates when available.</p>\n<p><strong>6. Personal travel:</strong> Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.</p>\n<p><strong>7. Ground transportation:</strong> Use an airport shuttle where one is available. Taxis and rideshare services may be claimed when no shuttle operates or when the total cost is lower than the shuttle.</p>\n<p><strong>8. Reporting:</strong> Submit an expense report with itemized receipts within 10 business days after returning.</p>\n<hr>\n<p><strong>Document 2: E-mail</strong></p>\n<p><strong>To:</strong> Thomas Park, Director of Financial Planning<br><strong>From:</strong> Aisha Bello, Senior Financial Analyst<br><strong>Date:</strong> May 6<br><strong>Subject:</strong> Approval requested — Midwest Forecasting Conference</p>\n<p>Dear Mr. Park,</p>\n<p>I would like to attend the Midwest Forecasting Conference in Chicago on June 10 and 11. The early-bird registration fee is $895 until May 23, after which the standard fee is $1,050. I am asking for your approval by May 20 so that I can register at the lower rate.</p>\n<p>The conference hotel has quoted a rate of $210 per night, and I have reserved a room for the nights of June 9, 10, and 11. My original plan was to return on June 12. Because I would like to visit my family in Chicago, I would also like to stay on June 12 and 13 and fly home on June 14. I understand that those two extra nights, as well as the $75 change fee and the $40 fare difference for the later flight, will be my responsibility.</p>\n<p>The round-trip economy airfare is $410. For the trip from O'Hare Airport to the hotel, the airport shuttle costs $32 one way, while a rideshare is estimated at $55.</p>\n<p>Please let me know whether you approve. I will keep all itemized receipts and file my expense report after I return.</p>\n<p>Best regards,<br>Aisha Bello</p>\n</div>",
+    "questionText": "Why does Ms. Bello ask for approval by May 20?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The hotel's conference rate expires on that date."
+      },
+      {
+        "key": "B",
+        "text": "(B) Her manager will be out of the office after that date."
+      },
+      {
+        "key": "C",
+        "text": "(C) She must receive approval before registering at the lower fee."
+      },
+      {
+        "key": "D",
+        "text": "(D) The airline requires 14 days' notice for ticket changes."
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao bà Bello xin phê duyệt trước ngày 20 tháng 5? — Vì bà phải được phê duyệt trước khi đăng ký với mức phí thấp hơn.",
+    "explanation": "Đáp án C. Chính sách quy định phí hội nghị chỉ được hoàn khi người lao động được quản lý phê duyệt trước (“approved in advance by the employee's department manager”), và nên tận dụng giá đăng ký sớm. E-mail cho biết giá ưu đãi 895 đô-la hết hạn ngày 23 tháng 5, nên bà xin phê duyệt trước ngày 20 để kịp đăng ký mức giá thấp. A sai vì không có thông tin giá khách sạn hết hạn ngày 20. B không được đề cập. D sai vì quy định đặt vé trước 14 ngày không liên quan đến hạn phê duyệt.",
+    "vocab": [
+      {
+        "word": "approval",
+        "pos": "n.",
+        "meaning": "sự phê duyệt"
+      },
+      {
+        "word": "early-bird rate",
+        "pos": "n.",
+        "meaning": "mức giá đăng ký sớm"
+      },
+      {
+        "word": "registration fee",
+        "pos": "n.",
+        "meaning": "phí đăng ký"
+      },
+      {
+        "word": "expire",
+        "pos": "v.",
+        "meaning": "hết hạn"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following travel policy and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: Business Travel and Expense Policy (Excerpt)</strong></p>\n<p><strong>Ridgeline Financial</strong></p>\n<p><strong>2. Air travel:</strong> Economy class is required for all domestic flights. Tickets should be booked at least 14 days in advance whenever possible. Business-class travel on flights longer than six hours requires written approval from a vice president.</p>\n<p><strong>3. Lodging:</strong> Room rates are reimbursed up to $220 per night in Tier 1 cities, including Chicago, and up to $160 per night elsewhere. Taxes and mandatory fees may be claimed separately. Employees should request the conference or corporate rate when available.</p>\n<p><strong>4. Meals:</strong> Up to $65 per day. Receipts are required for any single expense over $25.</p>\n<p><strong>5. Conferences:</strong> Registration fees are reimbursed only when attendance has been approved in advance by the employee's department manager. Employees should take advantage of early-bird rates when available.</p>\n<p><strong>6. Personal travel:</strong> Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.</p>\n<p><strong>7. Ground transportation:</strong> Use an airport shuttle where one is available. Taxis and rideshare services may be claimed when no shuttle operates or when the total cost is lower than the shuttle.</p>\n<p><strong>8. Reporting:</strong> Submit an expense report with itemized receipts within 10 business days after returning.</p>\n<hr>\n<p><strong>Document 2: E-mail</strong></p>\n<p><strong>To:</strong> Thomas Park, Director of Financial Planning<br><strong>From:</strong> Aisha Bello, Senior Financial Analyst<br><strong>Date:</strong> May 6<br><strong>Subject:</strong> Approval requested — Midwest Forecasting Conference</p>\n<p>Dear Mr. Park,</p>\n<p>I would like to attend the Midwest Forecasting Conference in Chicago on June 10 and 11. The early-bird registration fee is $895 until May 23, after which the standard fee is $1,050. I am asking for your approval by May 20 so that I can register at the lower rate.</p>\n<p>The conference hotel has quoted a rate of $210 per night, and I have reserved a room for the nights of June 9, 10, and 11. My original plan was to return on June 12. Because I would like to visit my family in Chicago, I would also like to stay on June 12 and 13 and fly home on June 14. I understand that those two extra nights, as well as the $75 change fee and the $40 fare difference for the later flight, will be my responsibility.</p>\n<p>The round-trip economy airfare is $410. For the trip from O'Hare Airport to the hotel, the airport shuttle costs $32 one way, while a rideshare is estimated at $55.</p>\n<p>Please let me know whether you approve. I will keep all itemized receipts and file my expense report after I return.</p>\n<p>Best regards,<br>Aisha Bello</p>\n</div>",
+    "questionText": "How much will the company reimburse for Ms. Bello's hotel room?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) $420"
+      },
+      {
+        "key": "B",
+        "text": "(B) $630"
+      },
+      {
+        "key": "C",
+        "text": "(C) $660"
+      },
+      {
+        "key": "D",
+        "text": "(D) $840"
+      }
+    ],
+    "correct": "B",
+    "translation": "Công ty sẽ hoàn lại bao nhiêu tiền phòng khách sạn cho bà Bello? — 630 đô-la.",
+    "explanation": "Đáp án B. Bà Bello ở ba đêm trong thời gian hội nghị: ngày 9, 10 và 11 tháng 6, với giá 210 đô-la/đêm. Nhân ba đêm được 630 đô-la. Chính sách cho phép hoàn tối đa 220 đô-la/đêm ở Chicago, nên mức 210 đô-la nằm trong giới hạn. Hai đêm thêm ngày 12-13 tháng 6 là mục đích cá nhân nên không được hoàn. A tương ứng hai đêm, C là ba đêm tính theo mức trần 220 đô-la, D là bốn đêm — đều không đúng.",
+    "vocab": [
+      {
+        "word": "reimburse",
+        "pos": "v.",
+        "meaning": "hoàn tiền, hoàn trả chi phí"
+      },
+      {
+        "word": "lodging",
+        "pos": "n.",
+        "meaning": "chỗ ở, chi phí lưu trú"
+      },
+      {
+        "word": "nightly rate",
+        "pos": "n.",
+        "meaning": "giá mỗi đêm"
+      },
+      {
+        "word": "cap",
+        "pos": "n.",
+        "meaning": "giới hạn tối đa"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following travel policy and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: Business Travel and Expense Policy (Excerpt)</strong></p>\n<p><strong>Ridgeline Financial</strong></p>\n<p><strong>2. Air travel:</strong> Economy class is required for all domestic flights. Tickets should be booked at least 14 days in advance whenever possible. Business-class travel on flights longer than six hours requires written approval from a vice president.</p>\n<p><strong>3. Lodging:</strong> Room rates are reimbursed up to $220 per night in Tier 1 cities, including Chicago, and up to $160 per night elsewhere. Taxes and mandatory fees may be claimed separately. Employees should request the conference or corporate rate when available.</p>\n<p><strong>4. Meals:</strong> Up to $65 per day. Receipts are required for any single expense over $25.</p>\n<p><strong>5. Conferences:</strong> Registration fees are reimbursed only when attendance has been approved in advance by the employee's department manager. Employees should take advantage of early-bird rates when available.</p>\n<p><strong>6. Personal travel:</strong> Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.</p>\n<p><strong>7. Ground transportation:</strong> Use an airport shuttle where one is available. Taxis and rideshare services may be claimed when no shuttle operates or when the total cost is lower than the shuttle.</p>\n<p><strong>8. Reporting:</strong> Submit an expense report with itemized receipts within 10 business days after returning.</p>\n<hr>\n<p><strong>Document 2: E-mail</strong></p>\n<p><strong>To:</strong> Thomas Park, Director of Financial Planning<br><strong>From:</strong> Aisha Bello, Senior Financial Analyst<br><strong>Date:</strong> May 6<br><strong>Subject:</strong> Approval requested — Midwest Forecasting Conference</p>\n<p>Dear Mr. Park,</p>\n<p>I would like to attend the Midwest Forecasting Conference in Chicago on June 10 and 11. The early-bird registration fee is $895 until May 23, after which the standard fee is $1,050. I am asking for your approval by May 20 so that I can register at the lower rate.</p>\n<p>The conference hotel has quoted a rate of $210 per night, and I have reserved a room for the nights of June 9, 10, and 11. My original plan was to return on June 12. Because I would like to visit my family in Chicago, I would also like to stay on June 12 and 13 and fly home on June 14. I understand that those two extra nights, as well as the $75 change fee and the $40 fare difference for the later flight, will be my responsibility.</p>\n<p>The round-trip economy airfare is $410. For the trip from O'Hare Airport to the hotel, the airport shuttle costs $32 one way, while a rideshare is estimated at $55.</p>\n<p>Please let me know whether you approve. I will keep all itemized receipts and file my expense report after I return.</p>\n<p>Best regards,<br>Aisha Bello</p>\n</div>",
+    "questionText": "What does the policy say about the two extra nights Ms. Bello wants to stay?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They are not reimbursable because they are for personal travel."
+      },
+      {
+        "key": "B",
+        "text": "(B) They are covered at the conference rate."
+      },
+      {
+        "key": "C",
+        "text": "(C) They require written approval from a vice president."
+      },
+      {
+        "key": "D",
+        "text": "(D) They are covered up to $160 per night."
+      }
+    ],
+    "correct": "A",
+    "translation": "Chính sách nói gì về hai đêm ở thêm mà bà Bello muốn lưu lại? — Chúng không được hoàn tiền vì phục vụ mục đích cá nhân.",
+    "explanation": "Đáp án A. Mục 6 của chính sách ghi rõ: “Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.” E-mail cũng xác nhận bà sẽ tự trả hai đêm này. B sai vì giá hội nghị chỉ áp dụng cho ba đêm phục vụ công tác. C sai vì phê duyệt của phó chủ tịch chỉ cần cho vé hạng thương gia trên chuyến bay dài hơn sáu giờ. D sai vì mức 160 đô-la là giới hạn cho các thành phố không thuộc Nhóm 1, không áp dụng cho đêm cá nhân.",
+    "vocab": [
+      {
+        "word": "personal travel",
+        "pos": "n.",
+        "meaning": "chuyến đi vì mục đích cá nhân"
+      },
+      {
+        "word": "additional night",
+        "pos": "n.",
+        "meaning": "đêm lưu trú thêm"
+      },
+      {
+        "word": "fare difference",
+        "pos": "n.",
+        "meaning": "chênh lệch giá vé"
+      },
+      {
+        "word": "incur",
+        "pos": "v.",
+        "meaning": "phát sinh (chi phí)"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following travel policy and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: Business Travel and Expense Policy (Excerpt)</strong></p>\n<p><strong>Ridgeline Financial</strong></p>\n<p><strong>2. Air travel:</strong> Economy class is required for all domestic flights. Tickets should be booked at least 14 days in advance whenever possible. Business-class travel on flights longer than six hours requires written approval from a vice president.</p>\n<p><strong>3. Lodging:</strong> Room rates are reimbursed up to $220 per night in Tier 1 cities, including Chicago, and up to $160 per night elsewhere. Taxes and mandatory fees may be claimed separately. Employees should request the conference or corporate rate when available.</p>\n<p><strong>4. Meals:</strong> Up to $65 per day. Receipts are required for any single expense over $25.</p>\n<p><strong>5. Conferences:</strong> Registration fees are reimbursed only when attendance has been approved in advance by the employee's department manager. Employees should take advantage of early-bird rates when available.</p>\n<p><strong>6. Personal travel:</strong> Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.</p>\n<p><strong>7. Ground transportation:</strong> Use an airport shuttle where one is available. Taxis and rideshare services may be claimed when no shuttle operates or when the total cost is lower than the shuttle.</p>\n<p><strong>8. Reporting:</strong> Submit an expense report with itemized receipts within 10 business days after returning.</p>\n<hr>\n<p><strong>Document 2: E-mail</strong></p>\n<p><strong>To:</strong> Thomas Park, Director of Financial Planning<br><strong>From:</strong> Aisha Bello, Senior Financial Analyst<br><strong>Date:</strong> May 6<br><strong>Subject:</strong> Approval requested — Midwest Forecasting Conference</p>\n<p>Dear Mr. Park,</p>\n<p>I would like to attend the Midwest Forecasting Conference in Chicago on June 10 and 11. The early-bird registration fee is $895 until May 23, after which the standard fee is $1,050. I am asking for your approval by May 20 so that I can register at the lower rate.</p>\n<p>The conference hotel has quoted a rate of $210 per night, and I have reserved a room for the nights of June 9, 10, and 11. My original plan was to return on June 12. Because I would like to visit my family in Chicago, I would also like to stay on June 12 and 13 and fly home on June 14. I understand that those two extra nights, as well as the $75 change fee and the $40 fare difference for the later flight, will be my responsibility.</p>\n<p>The round-trip economy airfare is $410. For the trip from O'Hare Airport to the hotel, the airport shuttle costs $32 one way, while a rideshare is estimated at $55.</p>\n<p>Please let me know whether you approve. I will keep all itemized receipts and file my expense report after I return.</p>\n<p>Best regards,<br>Aisha Bello</p>\n</div>",
+    "questionText": "What must Ms. Bello do to claim reimbursement for her $410 airfare?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Ask the airline to send the receipt to her manager."
+      },
+      {
+        "key": "B",
+        "text": "(B) Submit the ticket to the conference organizer."
+      },
+      {
+        "key": "C",
+        "text": "(C) Include the receipt in an expense report within 10 business days."
+      },
+      {
+        "key": "D",
+        "text": "(D) Obtain a vice president's approval before booking."
+      }
+    ],
+    "correct": "C",
+    "translation": "Bà Bello phải làm gì để yêu cầu hoàn lại 410 đô-la tiền vé máy bay? — Gửi hóa đơn kèm báo cáo chi phí trong vòng 10 ngày làm việc.",
+    "explanation": "Đáp án C. Mục 8 yêu cầu nộp báo cáo chi phí kèm hóa đơn chi tiết trong vòng 10 ngày làm việc sau khi trở về (“within 10 business days after returning”). Vé 410 đô-la là hạng phổ thông, phù hợp với mục 2, nên không cần phê duyệt của phó chủ tịch; do đó D sai. A và B không phải thủ tục được chính sách yêu cầu.",
+    "vocab": [
+      {
+        "word": "claim",
+        "pos": "v.",
+        "meaning": "yêu cầu hoàn trả"
+      },
+      {
+        "word": "itemized receipt",
+        "pos": "n.",
+        "meaning": "hóa đơn ghi rõ từng khoản"
+      },
+      {
+        "word": "expense report",
+        "pos": "n.",
+        "meaning": "báo cáo chi phí"
+      },
+      {
+        "word": "book",
+        "pos": "v.",
+        "meaning": "đặt vé"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following travel policy and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'>\n<p><strong>Document 1: Business Travel and Expense Policy (Excerpt)</strong></p>\n<p><strong>Ridgeline Financial</strong></p>\n<p><strong>2. Air travel:</strong> Economy class is required for all domestic flights. Tickets should be booked at least 14 days in advance whenever possible. Business-class travel on flights longer than six hours requires written approval from a vice president.</p>\n<p><strong>3. Lodging:</strong> Room rates are reimbursed up to $220 per night in Tier 1 cities, including Chicago, and up to $160 per night elsewhere. Taxes and mandatory fees may be claimed separately. Employees should request the conference or corporate rate when available.</p>\n<p><strong>4. Meals:</strong> Up to $65 per day. Receipts are required for any single expense over $25.</p>\n<p><strong>5. Conferences:</strong> Registration fees are reimbursed only when attendance has been approved in advance by the employee's department manager. Employees should take advantage of early-bird rates when available.</p>\n<p><strong>6. Personal travel:</strong> Additional nights, fare differences, and other costs incurred for personal reasons are not reimbursable.</p>\n<p><strong>7. Ground transportation:</strong> Use an airport shuttle where one is available. Taxis and rideshare services may be claimed when no shuttle operates or when the total cost is lower than the shuttle.</p>\n<p><strong>8. Reporting:</strong> Submit an expense report with itemized receipts within 10 business days after returning.</p>\n<hr>\n<p><strong>Document 2: E-mail</strong></p>\n<p><strong>To:</strong> Thomas Park, Director of Financial Planning<br><strong>From:</strong> Aisha Bello, Senior Financial Analyst<br><strong>Date:</strong> May 6<br><strong>Subject:</strong> Approval requested — Midwest Forecasting Conference</p>\n<p>Dear Mr. Park,</p>\n<p>I would like to attend the Midwest Forecasting Conference in Chicago on June 10 and 11. The early-bird registration fee is $895 until May 23, after which the standard fee is $1,050. I am asking for your approval by May 20 so that I can register at the lower rate.</p>\n<p>The conference hotel has quoted a rate of $210 per night, and I have reserved a room for the nights of June 9, 10, and 11. My original plan was to return on June 12. Because I would like to visit my family in Chicago, I would also like to stay on June 12 and 13 and fly home on June 14. I understand that those two extra nights, as well as the $75 change fee and the $40 fare difference for the later flight, will be my responsibility.</p>\n<p>The round-trip economy airfare is $410. For the trip from O'Hare Airport to the hotel, the airport shuttle costs $32 one way, while a rideshare is estimated at $55.</p>\n<p>Please let me know whether you approve. I will keep all itemized receipts and file my expense report after I return.</p>\n<p>Best regards,<br>Aisha Bello</p>\n</div>",
+    "questionText": "Which airport-to-hotel option does the policy favor?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A taxi, because it is the fastest option"
+      },
+      {
+        "key": "B",
+        "text": "(B) A rental car, because the hotel is outside the city"
+      },
+      {
+        "key": "C",
+        "text": "(C) A premium car service, because it is the most comfortable"
+      },
+      {
+        "key": "D",
+        "text": "(D) The airport shuttle, because it is available and less expensive"
+      }
+    ],
+    "correct": "D",
+    "translation": "Chính sách ưu tiên phương án nào từ sân bay đến khách sạn? — Xe đưa đón sân bay, vì có sẵn và rẻ hơn.",
+    "explanation": "Đáp án D. Mục 7 hướng dẫn dùng xe đưa đón sân bay khi có dịch vụ (“Use an airport shuttle where one is available”). E-mail cho biết xe đưa đón có sẵn với giá 32 đô-la một chiều, còn xe công nghệ khoảng 55 đô-la, nên phương án này vừa phù hợp chính sách vừa rẻ hơn. A và C không được chính sách ưu tiên dù có thể nhanh hoặc thoải mái hơn. B sai vì không có đề cập đến việc thuê xe và khách sạn vẫn ở Chicago.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "rideshare",
+        "pos": "n.",
+        "meaning": "dịch vụ xe công nghệ, xe ghép"
+      },
+      {
+        "word": "ground transportation",
+        "pos": "n.",
+        "meaning": "vận chuyển mặt đất"
+      },
+      {
+        "word": "estimate",
+        "pos": "v.",
+        "meaning": "ước tính"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, program schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Team Leads and Assistant Managers<br><strong>From:</strong> Dana Whitfield, Human Resources Director, Northbridge Insurance<br><strong>Date:</strong> August 18<br><strong>Subject:</strong> Supervisory Skills Program — Fall Cohort</p><hr class=\"my-2 border-neutral-300\"><p>Applications are now open for the fall cohort of the Supervisory Skills Program, a five-week training course designed for newly promoted team leads and assistant managers. The program combines classroom workshops with practical coaching on performance reviews, conflict resolution, and project budgeting.</p><p class=\"mt-2\">Because group discussions are a central part of the curriculum, enrollment is limited to 18 participants. Please consult the attached schedule and submit your registration before the deadline.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Supervisory Skills Program — Fall Cohort Schedule</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date &amp; Time</th><th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th><th class=\"border border-neutral-800 p-2 text-left\">Location / Format</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 10 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 1: Leading Effective Meetings</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 17 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 2: Coaching &amp; Performance Reviews</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 24 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 3: Conflict Resolution</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 1 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 4: Departmental Budgeting</td><td class=\"border border-neutral-800 p-2\"><strong>Online Webinar</strong> (Annual client conference in Room B)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 8 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 5: Workflow Planning</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (10:00 a.m.)</td><td class=\"border border-neutral-800 p-2\">Capstone Presentation to Senior Managers</td><td class=\"border border-neutral-800 p-2\">Executive Boardroom</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Note: Participants must attend at least four of the five weekly sessions and complete the Oct. 22 Capstone Presentation to receive a certificate.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> HR Training Desk &lt;training@northbridgeins.com&gt;<br><strong>From:</strong> Marcus Vance, Claims Department Manager<br><strong>Date:</strong> August 26<br><strong>Subject:</strong> Registration Approval — Hannah Cho</p><hr class=\"my-2 border-neutral-300\"><p>Hello,</p><p class=\"mt-2\">I am writing to approve Assistant Manager Hannah Cho's registration for the fall Supervisory Skills Program ahead of the August 29 application deadline. She has already submitted her enrollment form on the employee portal and has selected a workflow improvement topic for her October 22 capstone presentation.</p><p class=\"mt-2\">Regards,<br>Marcus Vance</p></div>",
+    "questionText": "What is the main purpose of the memo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce a change to the performance review schedule"
+      },
+      {
+        "key": "B",
+        "text": "(B) To describe a training program and its requirements"
+      },
+      {
+        "key": "C",
+        "text": "(C) To invite team leaders to a retirement reception"
+      },
+      {
+        "key": "D",
+        "text": "(D) To summarize feedback from a management workshop"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của biên bản là gì? — Mô tả một chương trình đào tạo và các yêu cầu của chương trình.",
+    "explanation": "Đáp án B. Biên bản giới thiệu Chương trình Kỹ năng Giám sát (“Supervisory Skills Program”), nêu thời gian, nội dung, hình thức, điều kiện đăng ký và chứng chỉ. A sai vì không có thay đổi lịch đánh giá hiệu suất. C sai vì đây là khóa đào tạo, không phải tiệc chia tay. D sai vì văn bản không tóm tắt phản hồi từ một hội thảo trước đó.",
+    "vocab": [
+      {
+        "word": "supervisory",
+        "pos": "adj.",
+        "meaning": "thuộc công tác giám sát"
+      },
+      {
+        "word": "cohort",
+        "pos": "n.",
+        "meaning": "nhóm, khóa học"
+      },
+      {
+        "word": "enrollment",
+        "pos": "n.",
+        "meaning": "việc đăng ký tham gia"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, program schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Team Leads and Assistant Managers<br><strong>From:</strong> Dana Whitfield, Human Resources Director, Northbridge Insurance<br><strong>Date:</strong> August 18<br><strong>Subject:</strong> Supervisory Skills Program — Fall Cohort</p><hr class=\"my-2 border-neutral-300\"><p>Applications are now open for the fall cohort of the Supervisory Skills Program, a five-week training course designed for newly promoted team leads and assistant managers. The program combines classroom workshops with practical coaching on performance reviews, conflict resolution, and project budgeting.</p><p class=\"mt-2\">Because group discussions are a central part of the curriculum, enrollment is limited to 18 participants. Please consult the attached schedule and submit your registration before the deadline.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Supervisory Skills Program — Fall Cohort Schedule</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date &amp; Time</th><th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th><th class=\"border border-neutral-800 p-2 text-left\">Location / Format</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 10 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 1: Leading Effective Meetings</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 17 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 2: Coaching &amp; Performance Reviews</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 24 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 3: Conflict Resolution</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 1 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 4: Departmental Budgeting</td><td class=\"border border-neutral-800 p-2\"><strong>Online Webinar</strong> (Annual client conference in Room B)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 8 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 5: Workflow Planning</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (10:00 a.m.)</td><td class=\"border border-neutral-800 p-2\">Capstone Presentation to Senior Managers</td><td class=\"border border-neutral-800 p-2\">Executive Boardroom</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Note: Participants must attend at least four of the five weekly sessions and complete the Oct. 22 Capstone Presentation to receive a certificate.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> HR Training Desk &lt;training@northbridgeins.com&gt;<br><strong>From:</strong> Marcus Vance, Claims Department Manager<br><strong>Date:</strong> August 26<br><strong>Subject:</strong> Registration Approval — Hannah Cho</p><hr class=\"my-2 border-neutral-300\"><p>Hello,</p><p class=\"mt-2\">I am writing to approve Assistant Manager Hannah Cho's registration for the fall Supervisory Skills Program ahead of the August 29 application deadline. She has already submitted her enrollment form on the employee portal and has selected a workflow improvement topic for her October 22 capstone presentation.</p><p class=\"mt-2\">Regards,<br>Marcus Vance</p></div>",
+    "questionText": "By what date must employees have their manager's approval?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) August 29"
+      },
+      {
+        "key": "B",
+        "text": "(B) September 3"
+      },
+      {
+        "key": "C",
+        "text": "(C) September 10"
+      },
+      {
+        "key": "D",
+        "text": "(D) October 22"
+      }
+    ],
+    "correct": "A",
+    "translation": "Nhân viên phải có phê duyệt của quản lý trước ngày nào? — Ngày 29 tháng 8.",
+    "explanation": "Đáp án A. Biên bản ghi: “Interested employees should ask their manager to approve their application by August 29.” Ngày 3 tháng 9 là ngày điều phối viên xác nhận suất tham dự; ngày 10 tháng 9 là buổi học đầu tiên; ngày 22 tháng 10 là buổi thuyết trình tổng kết. Vì vậy B, C và D đều không phải hạn phê duyệt.",
+    "vocab": [
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "meaning": "hạn chót"
+      },
+      {
+        "word": "approve",
+        "pos": "v.",
+        "meaning": "phê duyệt"
+      },
+      {
+        "word": "coordinator",
+        "pos": "n.",
+        "meaning": "điều phối viên"
+      },
+      {
+        "word": "placement",
+        "pos": "n.",
+        "meaning": "suất tham dự, vị trí được xếp"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, program schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Team Leads and Assistant Managers<br><strong>From:</strong> Dana Whitfield, Human Resources Director, Northbridge Insurance<br><strong>Date:</strong> August 18<br><strong>Subject:</strong> Supervisory Skills Program — Fall Cohort</p><hr class=\"my-2 border-neutral-300\"><p>Applications are now open for the fall cohort of the Supervisory Skills Program, a five-week training course designed for newly promoted team leads and assistant managers. The program combines classroom workshops with practical coaching on performance reviews, conflict resolution, and project budgeting.</p><p class=\"mt-2\">Because group discussions are a central part of the curriculum, enrollment is limited to 18 participants. Please consult the attached schedule and submit your registration before the deadline.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Supervisory Skills Program — Fall Cohort Schedule</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date &amp; Time</th><th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th><th class=\"border border-neutral-800 p-2 text-left\">Location / Format</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 10 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 1: Leading Effective Meetings</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 17 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 2: Coaching &amp; Performance Reviews</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 24 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 3: Conflict Resolution</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 1 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 4: Departmental Budgeting</td><td class=\"border border-neutral-800 p-2\"><strong>Online Webinar</strong> (Annual client conference in Room B)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 8 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 5: Workflow Planning</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (10:00 a.m.)</td><td class=\"border border-neutral-800 p-2\">Capstone Presentation to Senior Managers</td><td class=\"border border-neutral-800 p-2\">Executive Boardroom</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Note: Participants must attend at least four of the five weekly sessions and complete the Oct. 22 Capstone Presentation to receive a certificate.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> HR Training Desk &lt;training@northbridgeins.com&gt;<br><strong>From:</strong> Marcus Vance, Claims Department Manager<br><strong>Date:</strong> August 26<br><strong>Subject:</strong> Registration Approval — Hannah Cho</p><hr class=\"my-2 border-neutral-300\"><p>Hello,</p><p class=\"mt-2\">I am writing to approve Assistant Manager Hannah Cho's registration for the fall Supervisory Skills Program ahead of the August 29 application deadline. She has already submitted her enrollment form on the employee portal and has selected a workflow improvement topic for her October 22 capstone presentation.</p><p class=\"mt-2\">Regards,<br>Marcus Vance</p></div>",
+    "questionText": "What must participants do to receive a certificate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Complete all five sessions online"
+      },
+      {
+        "key": "B",
+        "text": "(B) Submit a written report to their manager"
+      },
+      {
+        "key": "C",
+        "text": "(C) Supervise at least three employees for one year"
+      },
+      {
+        "key": "D",
+        "text": "(D) Attend at least four sessions and give a capstone presentation"
+      }
+    ],
+    "correct": "D",
+    "translation": "Người tham gia phải làm gì để nhận chứng chỉ? — Tham dự ít nhất bốn buổi và thực hiện bài thuyết trình tổng kết.",
+    "explanation": "Đáp án D. Biên bản nêu điều kiện: “attend at least four of the five sessions and give a 10-minute capstone presentation on October 22.” A sai vì chỉ có buổi ngày 1 tháng 10 học trực tuyến, không phải cả năm buổi. B sai vì không có yêu cầu nộp báo cáo bằng văn bản cho quản lý. C sai vì việc giám sát ít nhất ba người là tiêu chí ưu tiên khi đăng ký, không phải điều kiện cấp chứng chỉ.",
+    "vocab": [
+      {
+        "word": "certificate",
+        "pos": "n.",
+        "meaning": "chứng chỉ"
+      },
+      {
+        "word": "capstone presentation",
+        "pos": "n.",
+        "meaning": "bài thuyết trình tổng kết"
+      },
+      {
+        "word": "completion",
+        "pos": "n.",
+        "meaning": "sự hoàn thành"
+      },
+      {
+        "word": "attendance",
+        "pos": "n.",
+        "meaning": "việc tham dự"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, program schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Team Leads and Assistant Managers<br><strong>From:</strong> Dana Whitfield, Human Resources Director, Northbridge Insurance<br><strong>Date:</strong> August 18<br><strong>Subject:</strong> Supervisory Skills Program — Fall Cohort</p><hr class=\"my-2 border-neutral-300\"><p>Applications are now open for the fall cohort of the Supervisory Skills Program, a five-week training course designed for newly promoted team leads and assistant managers. The program combines classroom workshops with practical coaching on performance reviews, conflict resolution, and project budgeting.</p><p class=\"mt-2\">Because group discussions are a central part of the curriculum, enrollment is limited to 18 participants. Please consult the attached schedule and submit your registration before the deadline.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Supervisory Skills Program — Fall Cohort Schedule</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date &amp; Time</th><th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th><th class=\"border border-neutral-800 p-2 text-left\">Location / Format</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 10 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 1: Leading Effective Meetings</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 17 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 2: Coaching &amp; Performance Reviews</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 24 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 3: Conflict Resolution</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 1 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 4: Departmental Budgeting</td><td class=\"border border-neutral-800 p-2\"><strong>Online Webinar</strong> (Annual client conference in Room B)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 8 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 5: Workflow Planning</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (10:00 a.m.)</td><td class=\"border border-neutral-800 p-2\">Capstone Presentation to Senior Managers</td><td class=\"border border-neutral-800 p-2\">Executive Boardroom</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Note: Participants must attend at least four of the five weekly sessions and complete the Oct. 22 Capstone Presentation to receive a certificate.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> HR Training Desk &lt;training@northbridgeins.com&gt;<br><strong>From:</strong> Marcus Vance, Claims Department Manager<br><strong>Date:</strong> August 26<br><strong>Subject:</strong> Registration Approval — Hannah Cho</p><hr class=\"my-2 border-neutral-300\"><p>Hello,</p><p class=\"mt-2\">I am writing to approve Assistant Manager Hannah Cho's registration for the fall Supervisory Skills Program ahead of the August 29 application deadline. She has already submitted her enrollment form on the employee portal and has selected a workflow improvement topic for her October 22 capstone presentation.</p><p class=\"mt-2\">Regards,<br>Marcus Vance</p></div>",
+    "questionText": "Where will the October 1 session be held?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In Training Room B"
+      },
+      {
+        "key": "B",
+        "text": "(B) In the executive boardroom"
+      },
+      {
+        "key": "C",
+        "text": "(C) Online"
+      },
+      {
+        "key": "D",
+        "text": "(D) At the Northbridge conference center"
+      }
+    ],
+    "correct": "C",
+    "translation": "Buổi học ngày 1 tháng 10 sẽ được tổ chức ở đâu? — Trực tuyến.",
+    "explanation": "Đáp án C. Biên bản cho biết các buổi học diễn ra tại Phòng Đào tạo B, “except the October 1 session, which will be delivered online.” A là địa điểm của bốn buổi còn lại. B và D không được nhắc đến trong tài liệu.",
+    "vocab": [
+      {
+        "word": "deliver",
+        "pos": "v.",
+        "meaning": "tổ chức, giảng dạy"
+      },
+      {
+        "word": "online",
+        "pos": "adv.",
+        "meaning": "trực tuyến"
+      },
+      {
+        "word": "except",
+        "pos": "prep.",
+        "meaning": "ngoại trừ"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, program schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Team Leads and Assistant Managers<br><strong>From:</strong> Dana Whitfield, Human Resources Director, Northbridge Insurance<br><strong>Date:</strong> August 18<br><strong>Subject:</strong> Supervisory Skills Program — Fall Cohort</p><hr class=\"my-2 border-neutral-300\"><p>Applications are now open for the fall cohort of the Supervisory Skills Program, a five-week training course designed for newly promoted team leads and assistant managers. The program combines classroom workshops with practical coaching on performance reviews, conflict resolution, and project budgeting.</p><p class=\"mt-2\">Because group discussions are a central part of the curriculum, enrollment is limited to 18 participants. Please consult the attached schedule and submit your registration before the deadline.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Supervisory Skills Program — Fall Cohort Schedule</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date &amp; Time</th><th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th><th class=\"border border-neutral-800 p-2 text-left\">Location / Format</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 10 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 1: Leading Effective Meetings</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 17 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 2: Coaching &amp; Performance Reviews</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Sept. 24 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 3: Conflict Resolution</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 1 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 4: Departmental Budgeting</td><td class=\"border border-neutral-800 p-2\"><strong>Online Webinar</strong> (Annual client conference in Room B)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 8 (9:00–11:30 a.m.)</td><td class=\"border border-neutral-800 p-2\">Week 5: Workflow Planning</td><td class=\"border border-neutral-800 p-2\">Training Room B (3rd Floor)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (10:00 a.m.)</td><td class=\"border border-neutral-800 p-2\">Capstone Presentation to Senior Managers</td><td class=\"border border-neutral-800 p-2\">Executive Boardroom</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Note: Participants must attend at least four of the five weekly sessions and complete the Oct. 22 Capstone Presentation to receive a certificate.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> HR Training Desk &lt;training@northbridgeins.com&gt;<br><strong>From:</strong> Marcus Vance, Claims Department Manager<br><strong>Date:</strong> August 26<br><strong>Subject:</strong> Registration Approval — Hannah Cho</p><hr class=\"my-2 border-neutral-300\"><p>Hello,</p><p class=\"mt-2\">I am writing to approve Assistant Manager Hannah Cho's registration for the fall Supervisory Skills Program ahead of the August 29 application deadline. She has already submitted her enrollment form on the employee portal and has selected a workflow improvement topic for her October 22 capstone presentation.</p><p class=\"mt-2\">Regards,<br>Marcus Vance</p></div>",
+    "questionText": "What is indicated about employees who miss a session?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They must repeat the entire program."
+      },
+      {
+        "key": "B",
+        "text": "(B) They will receive their certificate by mail."
+      },
+      {
+        "key": "C",
+        "text": "(C) They must notify Ms. Whitfield before October 1."
+      },
+      {
+        "key": "D",
+        "text": "(D) They can attend the same session in the winter cohort."
+      }
+    ],
+    "correct": "D",
+    "translation": "Có thông tin gì về những nhân viên bỏ lỡ một buổi học? — Họ có thể học bù buổi đó trong khóa mùa đông.",
+    "explanation": "Đáp án D. Biên bản ghi: “Anyone who misses a session may make it up in the winter cohort, which begins in January.” A sai vì không phải học lại toàn bộ chương trình. B sai vì chứng chỉ phụ thuộc vào việc tham dự và thuyết trình, không được gửi qua thư. C sai vì không có yêu cầu thông báo cho bà Whitfield trước ngày 1 tháng 10.",
+    "vocab": [
+      {
+        "word": "make up",
+        "pos": "phr. v.",
+        "meaning": "học bù, làm bù"
+      },
+      {
+        "word": "cohort",
+        "pos": "n.",
+        "meaning": "khóa, nhóm học"
+      },
+      {
+        "word": "limited",
+        "pos": "adj.",
+        "meaning": "có giới hạn"
+      },
+      {
+        "word": "strongly encouraged",
+        "pos": "phr.",
+        "meaning": "được khuyến khích mạnh mẽ"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following site memorandum, logistics schedule, and weather notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>SITE MEMORANDUM — GRAYSON BUILDERS</strong><br><strong>To:</strong> All Subcontractors, Harbor Point Mixed-Use Project<br><strong>From:</strong> Luis Ortega, Senior Site Superintendent<br><strong>Date:</strong> August 19<br><strong>Subject:</strong> Level 3 Concrete Pour — Saturday, August 23</p><hr class=\"my-2 border-neutral-300\"><p>Please be advised that the concrete pour for Level 3 of the Harbor Point project is scheduled for Saturday, August 23. Because the pour requires continuous delivery of ready-mix concrete, site operations will begin at 5:00 a.m. and continue until approximately 2:00 p.m.</p><p class=\"mt-2\">The city has granted a one-day noise variance allowing work to start two hours earlier than the standard 7:00 a.m. municipal limit. All subcontractors must follow the gate assignments and staging rules in the attached table.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harbor Point Site Access &amp; Logistics Plan — Saturday, August 23</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Gate / Area</th><th class=\"border border-neutral-800 p-2 text-left\">Designated Use</th><th class=\"border border-neutral-800 p-2 text-left\">Operating Rules</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 4 (North Entrance)</td><td class=\"border border-neutral-800 p-2\">Concrete Mixer Trucks &amp; Pump Crew</td><td class=\"border border-neutral-800 p-2\">Open 4:45 a.m.–2:00 p.m.; flaggers on duty</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 2 (West Entrance)</td><td class=\"border border-neutral-800 p-2\">Closed to All Vehicle Traffic</td><td class=\"border border-neutral-800 p-2\">Crane boom positioned across driveway</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">5th Avenue Staging Lot</td><td class=\"border border-neutral-800 p-2\">Non-Concrete Material Deliveries</td><td class=\"border border-neutral-800 p-2\">No non-concrete deliveries admitted before 1:00 p.m.</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Lot C (Across Dock Street)</td><td class=\"border border-neutral-800 p-2\">Worker Personal Vehicles (40 spaces)</td><td class=\"border border-neutral-800 p-2\">Display subcontractor parking pass on dashboard</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">WEATHER CONTINGENCY &amp; SAFETY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Safety Gear:</strong> All personnel working on Level 3 during the pour must wear high-visibility vests, hard hats, and steel-toe rubber boots.</p><p class=\"mt-2\"><strong>Rain Threshold:</strong> A fresh concrete slab cannot be finished properly in heavy rain. If the National Weather Service forecasts more than 0.25 inches of rain for Saturday morning, the pour will be postponed to Saturday, August 30. A final go/no-go decision will be sent by text alert and e-mail no later than 3:00 p.m. on Friday, August 22.</p></div>",
+    "questionText": "What is the main purpose of the memo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To explain arrangements for an upcoming concrete pour"
+      },
+      {
+        "key": "B",
+        "text": "(B) To advertise available parking spaces near the site"
+      },
+      {
+        "key": "C",
+        "text": "(C) To report the results of a city inspection"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request additional workers for a weekend shift"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích chính của biên bản là gì? — Giải thích các sắp xếp cho việc đổ bê tông sắp tới.",
+    "explanation": "Đáp án A. Biên bản thông báo lịch đổ bê tông cho tầng 3 vào ngày 23 tháng 8 và nêu các quy định về cổng giao hàng, nơi chờ xe, thiết bị bảo hộ, đăng ký ra vào và phương án dời lịch nếu mưa. B sai vì bãi đỗ xe chỉ là một thông tin phụ. C sai vì không có kết quả thanh tra nào được báo cáo. D sai vì văn bản không kêu gọi thêm lao động.",
+    "vocab": [
+      {
+        "word": "concrete pour",
+        "pos": "n.",
+        "meaning": "việc đổ bê tông"
+      },
+      {
+        "word": "arrangement",
+        "pos": "n.",
+        "meaning": "sự sắp xếp, bố trí"
+      },
+      {
+        "word": "subcontractor",
+        "pos": "n.",
+        "meaning": "nhà thầu phụ"
+      },
+      {
+        "word": "site",
+        "pos": "n.",
+        "meaning": "công trường"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following site memorandum, logistics schedule, and weather notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>SITE MEMORANDUM — GRAYSON BUILDERS</strong><br><strong>To:</strong> All Subcontractors, Harbor Point Mixed-Use Project<br><strong>From:</strong> Luis Ortega, Senior Site Superintendent<br><strong>Date:</strong> August 19<br><strong>Subject:</strong> Level 3 Concrete Pour — Saturday, August 23</p><hr class=\"my-2 border-neutral-300\"><p>Please be advised that the concrete pour for Level 3 of the Harbor Point project is scheduled for Saturday, August 23. Because the pour requires continuous delivery of ready-mix concrete, site operations will begin at 5:00 a.m. and continue until approximately 2:00 p.m.</p><p class=\"mt-2\">The city has granted a one-day noise variance allowing work to start two hours earlier than the standard 7:00 a.m. municipal limit. All subcontractors must follow the gate assignments and staging rules in the attached table.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harbor Point Site Access &amp; Logistics Plan — Saturday, August 23</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Gate / Area</th><th class=\"border border-neutral-800 p-2 text-left\">Designated Use</th><th class=\"border border-neutral-800 p-2 text-left\">Operating Rules</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 4 (North Entrance)</td><td class=\"border border-neutral-800 p-2\">Concrete Mixer Trucks &amp; Pump Crew</td><td class=\"border border-neutral-800 p-2\">Open 4:45 a.m.–2:00 p.m.; flaggers on duty</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 2 (West Entrance)</td><td class=\"border border-neutral-800 p-2\">Closed to All Vehicle Traffic</td><td class=\"border border-neutral-800 p-2\">Crane boom positioned across driveway</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">5th Avenue Staging Lot</td><td class=\"border border-neutral-800 p-2\">Non-Concrete Material Deliveries</td><td class=\"border border-neutral-800 p-2\">No non-concrete deliveries admitted before 1:00 p.m.</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Lot C (Across Dock Street)</td><td class=\"border border-neutral-800 p-2\">Worker Personal Vehicles (40 spaces)</td><td class=\"border border-neutral-800 p-2\">Display subcontractor parking pass on dashboard</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">WEATHER CONTINGENCY &amp; SAFETY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Safety Gear:</strong> All personnel working on Level 3 during the pour must wear high-visibility vests, hard hats, and steel-toe rubber boots.</p><p class=\"mt-2\"><strong>Rain Threshold:</strong> A fresh concrete slab cannot be finished properly in heavy rain. If the National Weather Service forecasts more than 0.25 inches of rain for Saturday morning, the pour will be postponed to Saturday, August 30. A final go/no-go decision will be sent by text alert and e-mail no later than 3:00 p.m. on Friday, August 22.</p></div>",
+    "questionText": "According to the memo, what will happen if heavy rain is forecast?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The pour will begin two hours later."
+      },
+      {
+        "key": "B",
+        "text": "(B) The site will be closed for the weekend."
+      },
+      {
+        "key": "C",
+        "text": "(C) The pour will be rescheduled to August 30."
+      },
+      {
+        "key": "D",
+        "text": "(D) The city will decide whether work can continue."
+      }
+    ],
+    "correct": "C",
+    "translation": "Theo biên bản, điều gì sẽ xảy ra nếu dự báo có mưa lớn? — Việc đổ bê tông sẽ được dời sang ngày 30 tháng 8.",
+    "explanation": "Đáp án C. Biên bản nêu: “If more than 0.25 inch of rain is forecast for Saturday, the pour will be postponed to August 30.” A sai vì không có việc lùi giờ bắt đầu. B sai vì chỉ hoãn việc đổ bê tông, không đóng công trường cả cuối tuần. D sai vì thành phố đã phê duyệt miễn trừ tiếng ồn; quyết định hoãn do công ty đưa ra và thông báo trước 3 giờ chiều thứ Sáu.",
+    "vocab": [
+      {
+        "word": "forecast",
+        "pos": "v.",
+        "meaning": "dự báo"
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "meaning": "hoãn, dời lại"
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "meaning": "lên lịch lại"
+      },
+      {
+        "word": "decision",
+        "pos": "n.",
+        "meaning": "quyết định"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following site memorandum, logistics schedule, and weather notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>SITE MEMORANDUM — GRAYSON BUILDERS</strong><br><strong>To:</strong> All Subcontractors, Harbor Point Mixed-Use Project<br><strong>From:</strong> Luis Ortega, Senior Site Superintendent<br><strong>Date:</strong> August 19<br><strong>Subject:</strong> Level 3 Concrete Pour — Saturday, August 23</p><hr class=\"my-2 border-neutral-300\"><p>Please be advised that the concrete pour for Level 3 of the Harbor Point project is scheduled for Saturday, August 23. Because the pour requires continuous delivery of ready-mix concrete, site operations will begin at 5:00 a.m. and continue until approximately 2:00 p.m.</p><p class=\"mt-2\">The city has granted a one-day noise variance allowing work to start two hours earlier than the standard 7:00 a.m. municipal limit. All subcontractors must follow the gate assignments and staging rules in the attached table.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harbor Point Site Access &amp; Logistics Plan — Saturday, August 23</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Gate / Area</th><th class=\"border border-neutral-800 p-2 text-left\">Designated Use</th><th class=\"border border-neutral-800 p-2 text-left\">Operating Rules</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 4 (North Entrance)</td><td class=\"border border-neutral-800 p-2\">Concrete Mixer Trucks &amp; Pump Crew</td><td class=\"border border-neutral-800 p-2\">Open 4:45 a.m.–2:00 p.m.; flaggers on duty</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 2 (West Entrance)</td><td class=\"border border-neutral-800 p-2\">Closed to All Vehicle Traffic</td><td class=\"border border-neutral-800 p-2\">Crane boom positioned across driveway</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">5th Avenue Staging Lot</td><td class=\"border border-neutral-800 p-2\">Non-Concrete Material Deliveries</td><td class=\"border border-neutral-800 p-2\">No non-concrete deliveries admitted before 1:00 p.m.</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Lot C (Across Dock Street)</td><td class=\"border border-neutral-800 p-2\">Worker Personal Vehicles (40 spaces)</td><td class=\"border border-neutral-800 p-2\">Display subcontractor parking pass on dashboard</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">WEATHER CONTINGENCY &amp; SAFETY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Safety Gear:</strong> All personnel working on Level 3 during the pour must wear high-visibility vests, hard hats, and steel-toe rubber boots.</p><p class=\"mt-2\"><strong>Rain Threshold:</strong> A fresh concrete slab cannot be finished properly in heavy rain. If the National Weather Service forecasts more than 0.25 inches of rain for Saturday morning, the pour will be postponed to Saturday, August 30. A final go/no-go decision will be sent by text alert and e-mail no later than 3:00 p.m. on Friday, August 22.</p></div>",
+    "questionText": "Where should concrete trucks wait before entering the site?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) On Maple Street near Gate 4"
+      },
+      {
+        "key": "B",
+        "text": "(B) In Lot C on Pine Street"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the site trailer"
+      },
+      {
+        "key": "D",
+        "text": "(D) In the staging lot on 5th Avenue"
+      }
+    ],
+    "correct": "D",
+    "translation": "Xe chở bê tông nên chờ ở đâu trước khi vào công trường? — Ở bãi tập kết trên Đại lộ số 5.",
+    "explanation": "Đáp án D. Biên bản hướng dẫn: “they should proceed to the staging lot on 5th Avenue and wait there until the site crew signals them in.” A sai vì phố Maple là tuyến khẩn cấp và xe không được chờ trên phố. B là bãi đỗ dành cho nhân viên, không phải nơi xe bê tông chờ. C là nơi đăng ký ra vào, không phải bãi chờ xe.",
+    "vocab": [
+      {
+        "word": "staging lot",
+        "pos": "n.",
+        "meaning": "bãi tập kết, bãi chờ"
+      },
+      {
+        "word": "designated",
+        "pos": "adj.",
+        "meaning": "được chỉ định"
+      },
+      {
+        "word": "emergency route",
+        "pos": "n.",
+        "meaning": "tuyến đường khẩn cấp"
+      },
+      {
+        "word": "signal",
+        "pos": "v.",
+        "meaning": "ra hiệu"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following site memorandum, logistics schedule, and weather notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>SITE MEMORANDUM — GRAYSON BUILDERS</strong><br><strong>To:</strong> All Subcontractors, Harbor Point Mixed-Use Project<br><strong>From:</strong> Luis Ortega, Senior Site Superintendent<br><strong>Date:</strong> August 19<br><strong>Subject:</strong> Level 3 Concrete Pour — Saturday, August 23</p><hr class=\"my-2 border-neutral-300\"><p>Please be advised that the concrete pour for Level 3 of the Harbor Point project is scheduled for Saturday, August 23. Because the pour requires continuous delivery of ready-mix concrete, site operations will begin at 5:00 a.m. and continue until approximately 2:00 p.m.</p><p class=\"mt-2\">The city has granted a one-day noise variance allowing work to start two hours earlier than the standard 7:00 a.m. municipal limit. All subcontractors must follow the gate assignments and staging rules in the attached table.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harbor Point Site Access &amp; Logistics Plan — Saturday, August 23</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Gate / Area</th><th class=\"border border-neutral-800 p-2 text-left\">Designated Use</th><th class=\"border border-neutral-800 p-2 text-left\">Operating Rules</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 4 (North Entrance)</td><td class=\"border border-neutral-800 p-2\">Concrete Mixer Trucks &amp; Pump Crew</td><td class=\"border border-neutral-800 p-2\">Open 4:45 a.m.–2:00 p.m.; flaggers on duty</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 2 (West Entrance)</td><td class=\"border border-neutral-800 p-2\">Closed to All Vehicle Traffic</td><td class=\"border border-neutral-800 p-2\">Crane boom positioned across driveway</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">5th Avenue Staging Lot</td><td class=\"border border-neutral-800 p-2\">Non-Concrete Material Deliveries</td><td class=\"border border-neutral-800 p-2\">No non-concrete deliveries admitted before 1:00 p.m.</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Lot C (Across Dock Street)</td><td class=\"border border-neutral-800 p-2\">Worker Personal Vehicles (40 spaces)</td><td class=\"border border-neutral-800 p-2\">Display subcontractor parking pass on dashboard</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">WEATHER CONTINGENCY &amp; SAFETY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Safety Gear:</strong> All personnel working on Level 3 during the pour must wear high-visibility vests, hard hats, and steel-toe rubber boots.</p><p class=\"mt-2\"><strong>Rain Threshold:</strong> A fresh concrete slab cannot be finished properly in heavy rain. If the National Weather Service forecasts more than 0.25 inches of rain for Saturday morning, the pour will be postponed to Saturday, August 30. A final go/no-go decision will be sent by text alert and e-mail no later than 3:00 p.m. on Friday, August 22.</p></div>",
+    "questionText": "What are all visitors required to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Obtain a parking permit from the city"
+      },
+      {
+        "key": "B",
+        "text": "(B) Sign in at the site trailer"
+      },
+      {
+        "key": "C",
+        "text": "(C) Provide their own concrete samples"
+      },
+      {
+        "key": "D",
+        "text": "(D) Report to Gate 2 on Oak Avenue"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tất cả khách đến thăm được yêu cầu làm gì? — Đăng ký tại nhà xe công trường.",
+    "explanation": "Đáp án B. Biên bản quy định: “Everyone entering the site, including visitors and inspectors, must wear a hard hat and a high-visibility vest and must sign in at the site trailer.” A không được đề cập. C sai vì không có yêu cầu về mẫu bê tông. D sai vì cổng 2 đóng trong ngày và mọi xe bê tông phải vào bằng cổng 4 trên Đại lộ Oak.",
+    "vocab": [
+      {
+        "word": "visitor",
+        "pos": "n.",
+        "meaning": "khách đến thăm"
+      },
+      {
+        "word": "sign in",
+        "pos": "phr. v.",
+        "meaning": "đăng ký ra vào, ký tên"
+      },
+      {
+        "word": "site trailer",
+        "pos": "n.",
+        "meaning": "nhà xe, lán điều hành công trường"
+      },
+      {
+        "word": "inspector",
+        "pos": "n.",
+        "meaning": "thanh tra viên"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following site memorandum, logistics schedule, and weather notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>SITE MEMORANDUM — GRAYSON BUILDERS</strong><br><strong>To:</strong> All Subcontractors, Harbor Point Mixed-Use Project<br><strong>From:</strong> Luis Ortega, Senior Site Superintendent<br><strong>Date:</strong> August 19<br><strong>Subject:</strong> Level 3 Concrete Pour — Saturday, August 23</p><hr class=\"my-2 border-neutral-300\"><p>Please be advised that the concrete pour for Level 3 of the Harbor Point project is scheduled for Saturday, August 23. Because the pour requires continuous delivery of ready-mix concrete, site operations will begin at 5:00 a.m. and continue until approximately 2:00 p.m.</p><p class=\"mt-2\">The city has granted a one-day noise variance allowing work to start two hours earlier than the standard 7:00 a.m. municipal limit. All subcontractors must follow the gate assignments and staging rules in the attached table.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harbor Point Site Access &amp; Logistics Plan — Saturday, August 23</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Gate / Area</th><th class=\"border border-neutral-800 p-2 text-left\">Designated Use</th><th class=\"border border-neutral-800 p-2 text-left\">Operating Rules</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 4 (North Entrance)</td><td class=\"border border-neutral-800 p-2\">Concrete Mixer Trucks &amp; Pump Crew</td><td class=\"border border-neutral-800 p-2\">Open 4:45 a.m.–2:00 p.m.; flaggers on duty</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Gate 2 (West Entrance)</td><td class=\"border border-neutral-800 p-2\">Closed to All Vehicle Traffic</td><td class=\"border border-neutral-800 p-2\">Crane boom positioned across driveway</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">5th Avenue Staging Lot</td><td class=\"border border-neutral-800 p-2\">Non-Concrete Material Deliveries</td><td class=\"border border-neutral-800 p-2\">No non-concrete deliveries admitted before 1:00 p.m.</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Lot C (Across Dock Street)</td><td class=\"border border-neutral-800 p-2\">Worker Personal Vehicles (40 spaces)</td><td class=\"border border-neutral-800 p-2\">Display subcontractor parking pass on dashboard</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">WEATHER CONTINGENCY &amp; SAFETY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Safety Gear:</strong> All personnel working on Level 3 during the pour must wear high-visibility vests, hard hats, and steel-toe rubber boots.</p><p class=\"mt-2\"><strong>Rain Threshold:</strong> A fresh concrete slab cannot be finished properly in heavy rain. If the National Weather Service forecasts more than 0.25 inches of rain for Saturday morning, the pour will be postponed to Saturday, August 30. A final go/no-go decision will be sent by text alert and e-mail no later than 3:00 p.m. on Friday, August 22.</p></div>",
+    "questionText": "Why can work begin at 5:00 a.m. on August 23?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The city has approved a noise variance for that day."
+      },
+      {
+        "key": "B",
+        "text": "(B) The project is behind schedule."
+      },
+      {
+        "key": "C",
+        "text": "(C) Nearby businesses will be closed."
+      },
+      {
+        "key": "D",
+        "text": "(D) The concrete supplier requested an early delivery."
+      }
+    ],
+    "correct": "A",
+    "translation": "Vì sao công việc có thể bắt đầu lúc 5 giờ sáng ngày 23 tháng 8? — Thành phố đã phê duyệt miễn trừ tiếng ồn cho ngày hôm đó.",
+    "explanation": "Đáp án A. Biên bản ghi: “The city has approved a noise variance for this date, so early-morning work is permitted.” B không được nêu; không có thông tin dự án chậm tiến độ. C không phải lý do được đưa ra. D sai vì nhà cung cấp bê tông không yêu cầu giao sớm; chính kế hoạch đổ bê tông bắt đầu từ 5 giờ.",
+    "vocab": [
+      {
+        "word": "noise variance",
+        "pos": "n.",
+        "meaning": "giấy phép miễn trừ giới hạn tiếng ồn"
+      },
+      {
+        "word": "permit",
+        "pos": "v.",
+        "meaning": "cho phép"
+      },
+      {
+        "word": "early-morning",
+        "pos": "adj.",
+        "meaning": "vào sáng sớm"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "tiến độ, lịch trình"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following report, performance table, and executive memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">LINDEN &amp; CO. HOME GOODS — CUSTOMER INSIGHTS REPORT</p><p class=\"text-center text-xs mb-2\">Prepared by the Retail Analytics Team • July 15</p><hr class=\"my-2 border-neutral-300\"><p>Between March 1 and May 31, Linden &amp; Co. conducted a three-month pilot of the digital <strong>Linden Rewards</strong> loyalty program at four stores in the Metro North district. Shoppers enrolled through the Linden mobile app and earned points on every qualifying purchase.</p><p class=\"mt-2\">As detailed in the attached performance table, the pilot exceeded our overall enrollment target and drove substantial growth in both basket size and house-brand sales. However, post-pilot surveys revealed two barriers to wider adoption: 1) shoppers over age 60 were reluctant to download a mobile app at the checkout counter, and 2) several cashiers felt rushed when explaining the point-redemption rules during busy weekend hours.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Linden Rewards Pilot Performance (March 1–May 31)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Pilot Result (4 Metro North Stores)</th><th class=\"border border-neutral-800 p-2 text-left\">Benchmark / Comparison</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Total Enrolled Members</td><td class=\"border border-neutral-800 p-2\">6,400 members</td><td class=\"border border-neutral-800 p-2\">28% above initial target of 5,000</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Member Spending &amp; Visits</td><td class=\"border border-neutral-800 p-2\">+18% total spend / +9% store visits</td><td class=\"border border-neutral-800 p-2\">Compared with non-member shoppers</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Average Transaction Value</td><td class=\"border border-neutral-800 p-2\">$64 per visit (up from $54)</td><td class=\"border border-neutral-800 p-2\">31% of member spend on Linden house brands</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Age Distribution of Enrollees</td><td class=\"border border-neutral-800 p-2\">62% under age 40; only 8% age 60+</td><td class=\"border border-neutral-800 p-2\">App-only sign-up cited as barrier by seniors</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Store Directors<br><strong>From:</strong> Executive Committee<br><strong>Date:</strong> July 18<br><strong>Subject:</strong> Company-Wide Rollout of Linden Rewards (September 1)</p><hr class=\"my-2 border-neutral-300\"><p>Based on the strong pilot results in Metro North, the Executive Committee has approved a company-wide rollout of Linden Rewards across all 42 stores on September 1, backed by an $85,000 launch budget.</p><p class=\"mt-2\">To address the feedback from the pilot, we are making three changes before launch: 1) physical plastic membership cards will be available at registers for customers who prefer not to use the mobile app; 2) all cashiers will complete a 20-minute interactive training module in August; and 3) the reward structure will be simplified to 1 point per $1 spent, with an automatic $5 discount issued for every 100 points earned.</p></div>",
+    "questionText": "What is the main purpose of the report?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To compare the performance of eight stores"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce the launch of a mobile app"
+      },
+      {
+        "key": "C",
+        "text": "(C) To evaluate a pilot program and recommend changes"
+      },
+      {
+        "key": "D",
+        "text": "(D) To explain a decline in house-brand sales"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của báo cáo là gì? — Đánh giá một chương trình thí điểm và đề xuất thay đổi.",
+    "explanation": "Đáp án C. Báo cáo trình bày kết quả thí điểm chương trình Linden Rewards tại tám cửa hàng và đưa ra ba thay đổi trước khi mở rộng. A sai vì so sánh tám cửa hàng không phải trọng tâm; báo cáo so sánh thành viên với người không phải thành viên. B sai vì ứng dụng đã tồn tại và là một rào cản, không phải được ra mắt. D sai vì doanh số sản phẩm thương hiệu riêng tăng nhẹ, không giảm.",
+    "vocab": [
+      {
+        "word": "pilot program",
+        "pos": "n.",
+        "meaning": "chương trình thí điểm"
+      },
+      {
+        "word": "evaluate",
+        "pos": "v.",
+        "meaning": "đánh giá"
+      },
+      {
+        "word": "loyalty",
+        "pos": "n.",
+        "meaning": "sự trung thành, lòng trung thành"
+      },
+      {
+        "word": "executive committee",
+        "pos": "n.",
+        "meaning": "ủy ban điều hành"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following report, performance table, and executive memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">LINDEN &amp; CO. HOME GOODS — CUSTOMER INSIGHTS REPORT</p><p class=\"text-center text-xs mb-2\">Prepared by the Retail Analytics Team • July 15</p><hr class=\"my-2 border-neutral-300\"><p>Between March 1 and May 31, Linden &amp; Co. conducted a three-month pilot of the digital <strong>Linden Rewards</strong> loyalty program at four stores in the Metro North district. Shoppers enrolled through the Linden mobile app and earned points on every qualifying purchase.</p><p class=\"mt-2\">As detailed in the attached performance table, the pilot exceeded our overall enrollment target and drove substantial growth in both basket size and house-brand sales. However, post-pilot surveys revealed two barriers to wider adoption: 1) shoppers over age 60 were reluctant to download a mobile app at the checkout counter, and 2) several cashiers felt rushed when explaining the point-redemption rules during busy weekend hours.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Linden Rewards Pilot Performance (March 1–May 31)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Pilot Result (4 Metro North Stores)</th><th class=\"border border-neutral-800 p-2 text-left\">Benchmark / Comparison</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Total Enrolled Members</td><td class=\"border border-neutral-800 p-2\">6,400 members</td><td class=\"border border-neutral-800 p-2\">28% above initial target of 5,000</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Member Spending &amp; Visits</td><td class=\"border border-neutral-800 p-2\">+18% total spend / +9% store visits</td><td class=\"border border-neutral-800 p-2\">Compared with non-member shoppers</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Average Transaction Value</td><td class=\"border border-neutral-800 p-2\">$64 per visit (up from $54)</td><td class=\"border border-neutral-800 p-2\">31% of member spend on Linden house brands</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Age Distribution of Enrollees</td><td class=\"border border-neutral-800 p-2\">62% under age 40; only 8% age 60+</td><td class=\"border border-neutral-800 p-2\">App-only sign-up cited as barrier by seniors</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Store Directors<br><strong>From:</strong> Executive Committee<br><strong>Date:</strong> July 18<br><strong>Subject:</strong> Company-Wide Rollout of Linden Rewards (September 1)</p><hr class=\"my-2 border-neutral-300\"><p>Based on the strong pilot results in Metro North, the Executive Committee has approved a company-wide rollout of Linden Rewards across all 42 stores on September 1, backed by an $85,000 launch budget.</p><p class=\"mt-2\">To address the feedback from the pilot, we are making three changes before launch: 1) physical plastic membership cards will be available at registers for customers who prefer not to use the mobile app; 2) all cashiers will complete a 20-minute interactive training module in August; and 3) the reward structure will be simplified to 1 point per $1 spent, with an automatic $5 discount issued for every 100 points earned.</p></div>",
+    "questionText": "According to the report, how did loyalty members differ from nonmembers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They visited less often."
+      },
+      {
+        "key": "B",
+        "text": "(B) They spent more per visit."
+      },
+      {
+        "key": "C",
+        "text": "(C) They bought fewer house-brand items."
+      },
+      {
+        "key": "D",
+        "text": "(D) They were more likely to shop on weekends."
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo báo cáo, khách hàng thân thiết khác gì so với người không phải thành viên? — Họ chi tiêu nhiều hơn mỗi lần đến.",
+    "explanation": "Đáp án B. Báo cáo nêu: “Compared with nonmembers, participating members spent 18 percent more per visit.” A sai vì tần suất đến của thành viên tăng 9%, không giảm. C sai vì sản phẩm thương hiệu riêng chiếm 31% giao dịch của thành viên và doanh số nhóm này tăng nhẹ. D không được đề cập trong báo cáo.",
+    "vocab": [
+      {
+        "word": "transaction value",
+        "pos": "n.",
+        "meaning": "giá trị giao dịch"
+      },
+      {
+        "word": "frequency",
+        "pos": "n.",
+        "meaning": "tần suất"
+      },
+      {
+        "word": "house brand",
+        "pos": "n.",
+        "meaning": "thương hiệu riêng của cửa hàng"
+      },
+      {
+        "word": "per visit",
+        "pos": "phr.",
+        "meaning": "mỗi lần đến"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following report, performance table, and executive memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">LINDEN &amp; CO. HOME GOODS — CUSTOMER INSIGHTS REPORT</p><p class=\"text-center text-xs mb-2\">Prepared by the Retail Analytics Team • July 15</p><hr class=\"my-2 border-neutral-300\"><p>Between March 1 and May 31, Linden &amp; Co. conducted a three-month pilot of the digital <strong>Linden Rewards</strong> loyalty program at four stores in the Metro North district. Shoppers enrolled through the Linden mobile app and earned points on every qualifying purchase.</p><p class=\"mt-2\">As detailed in the attached performance table, the pilot exceeded our overall enrollment target and drove substantial growth in both basket size and house-brand sales. However, post-pilot surveys revealed two barriers to wider adoption: 1) shoppers over age 60 were reluctant to download a mobile app at the checkout counter, and 2) several cashiers felt rushed when explaining the point-redemption rules during busy weekend hours.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Linden Rewards Pilot Performance (March 1–May 31)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Pilot Result (4 Metro North Stores)</th><th class=\"border border-neutral-800 p-2 text-left\">Benchmark / Comparison</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Total Enrolled Members</td><td class=\"border border-neutral-800 p-2\">6,400 members</td><td class=\"border border-neutral-800 p-2\">28% above initial target of 5,000</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Member Spending &amp; Visits</td><td class=\"border border-neutral-800 p-2\">+18% total spend / +9% store visits</td><td class=\"border border-neutral-800 p-2\">Compared with non-member shoppers</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Average Transaction Value</td><td class=\"border border-neutral-800 p-2\">$64 per visit (up from $54)</td><td class=\"border border-neutral-800 p-2\">31% of member spend on Linden house brands</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Age Distribution of Enrollees</td><td class=\"border border-neutral-800 p-2\">62% under age 40; only 8% age 60+</td><td class=\"border border-neutral-800 p-2\">App-only sign-up cited as barrier by seniors</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Store Directors<br><strong>From:</strong> Executive Committee<br><strong>Date:</strong> July 18<br><strong>Subject:</strong> Company-Wide Rollout of Linden Rewards (September 1)</p><hr class=\"my-2 border-neutral-300\"><p>Based on the strong pilot results in Metro North, the Executive Committee has approved a company-wide rollout of Linden Rewards across all 42 stores on September 1, backed by an $85,000 launch budget.</p><p class=\"mt-2\">To address the feedback from the pilot, we are making three changes before launch: 1) physical plastic membership cards will be available at registers for customers who prefer not to use the mobile app; 2) all cashiers will complete a 20-minute interactive training module in August; and 3) the reward structure will be simplified to 1 point per $1 spent, with an automatic $5 discount issued for every 100 points earned.</p></div>",
+    "questionText": "What concern does the report raise about the pilot?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Older customers were discouraged by the app requirement."
+      },
+      {
+        "key": "B",
+        "text": "(B) The program cost more than the expected budget."
+      },
+      {
+        "key": "C",
+        "text": "(C) House-brand products were unpopular with members."
+      },
+      {
+        "key": "D",
+        "text": "(D) Store managers refused to promote the program."
+      }
+    ],
+    "correct": "A",
+    "translation": "Báo cáo nêu lo ngại gì về chương trình thí điểm? — Khách hàng lớn tuổi bị nản lòng vì yêu cầu sử dụng ứng dụng.",
+    "explanation": "Đáp án A. Báo cáo cho biết khách trên 60 tuổi chỉ chiếm 8% số đăng ký và “the requirement to download a mobile app discouraged many older shoppers.” B sai vì 85.000 đô-la là chi phí ước tính cho các thay đổi đề xuất, không phải vượt ngân sách. C sai vì sản phẩm thương hiệu riêng có mức tăng nhẹ. D sai vì quản lý cửa hàng nói nhân viên thiếu thời gian giải thích, không phải từ chối quảng bá.",
+    "vocab": [
+      {
+        "word": "uneven",
+        "pos": "adj.",
+        "meaning": "không đồng đều"
+      },
+      {
+        "word": "sign-up",
+        "pos": "n.",
+        "meaning": "việc đăng ký"
+      },
+      {
+        "word": "discourage",
+        "pos": "v.",
+        "meaning": "làm nản lòng"
+      },
+      {
+        "word": "exit interview",
+        "pos": "n.",
+        "meaning": "phỏng vấn sau trải nghiệm"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following report, performance table, and executive memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">LINDEN &amp; CO. HOME GOODS — CUSTOMER INSIGHTS REPORT</p><p class=\"text-center text-xs mb-2\">Prepared by the Retail Analytics Team • July 15</p><hr class=\"my-2 border-neutral-300\"><p>Between March 1 and May 31, Linden &amp; Co. conducted a three-month pilot of the digital <strong>Linden Rewards</strong> loyalty program at four stores in the Metro North district. Shoppers enrolled through the Linden mobile app and earned points on every qualifying purchase.</p><p class=\"mt-2\">As detailed in the attached performance table, the pilot exceeded our overall enrollment target and drove substantial growth in both basket size and house-brand sales. However, post-pilot surveys revealed two barriers to wider adoption: 1) shoppers over age 60 were reluctant to download a mobile app at the checkout counter, and 2) several cashiers felt rushed when explaining the point-redemption rules during busy weekend hours.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Linden Rewards Pilot Performance (March 1–May 31)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Pilot Result (4 Metro North Stores)</th><th class=\"border border-neutral-800 p-2 text-left\">Benchmark / Comparison</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Total Enrolled Members</td><td class=\"border border-neutral-800 p-2\">6,400 members</td><td class=\"border border-neutral-800 p-2\">28% above initial target of 5,000</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Member Spending &amp; Visits</td><td class=\"border border-neutral-800 p-2\">+18% total spend / +9% store visits</td><td class=\"border border-neutral-800 p-2\">Compared with non-member shoppers</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Average Transaction Value</td><td class=\"border border-neutral-800 p-2\">$64 per visit (up from $54)</td><td class=\"border border-neutral-800 p-2\">31% of member spend on Linden house brands</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Age Distribution of Enrollees</td><td class=\"border border-neutral-800 p-2\">62% under age 40; only 8% age 60+</td><td class=\"border border-neutral-800 p-2\">App-only sign-up cited as barrier by seniors</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Store Directors<br><strong>From:</strong> Executive Committee<br><strong>Date:</strong> July 18<br><strong>Subject:</strong> Company-Wide Rollout of Linden Rewards (September 1)</p><hr class=\"my-2 border-neutral-300\"><p>Based on the strong pilot results in Metro North, the Executive Committee has approved a company-wide rollout of Linden Rewards across all 42 stores on September 1, backed by an $85,000 launch budget.</p><p class=\"mt-2\">To address the feedback from the pilot, we are making three changes before launch: 1) physical plastic membership cards will be available at registers for customers who prefer not to use the mobile app; 2) all cashiers will complete a 20-minute interactive training module in August; and 3) the reward structure will be simplified to 1 point per $1 spent, with an automatic $5 discount issued for every 100 points earned.</p></div>",
+    "questionText": "Which of the following is one of the changes recommended before the expansion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Reduce the number of participating stores"
+      },
+      {
+        "key": "B",
+        "text": "(B) Eliminate the points structure entirely"
+      },
+      {
+        "key": "C",
+        "text": "(C) Increase the price of house-brand products"
+      },
+      {
+        "key": "D",
+        "text": "(D) Provide paper enrollment cards at every register"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều nào sau đây là một trong những thay đổi được đề xuất trước khi mở rộng? — Cung cấp thẻ đăng ký bằng giấy tại mỗi quầy thu ngân.",
+    "explanation": "Đáp án D. Báo cáo đề xuất ba thay đổi, trong đó đầu tiên là “paper enrollment cards should be available at every register.” A sai vì báo cáo đề nghị mở rộng ra 40 cửa hàng, không giảm số cửa hàng. B sai vì chỉ đề nghị đơn giản hóa cơ cấu điểm, không xóa bỏ hoàn toàn. C không được đề cập; báo cáo không đề xuất tăng giá sản phẩm.",
+    "vocab": [
+      {
+        "word": "expansion",
+        "pos": "n.",
+        "meaning": "việc mở rộng"
+      },
+      {
+        "word": "points structure",
+        "pos": "n.",
+        "meaning": "cơ cấu tích điểm"
+      },
+      {
+        "word": "simplify",
+        "pos": "v.",
+        "meaning": "đơn giản hóa"
+      },
+      {
+        "word": "enrollment card",
+        "pos": "n.",
+        "meaning": "thẻ đăng ký"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following report, performance table, and executive memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">LINDEN &amp; CO. HOME GOODS — CUSTOMER INSIGHTS REPORT</p><p class=\"text-center text-xs mb-2\">Prepared by the Retail Analytics Team • July 15</p><hr class=\"my-2 border-neutral-300\"><p>Between March 1 and May 31, Linden &amp; Co. conducted a three-month pilot of the digital <strong>Linden Rewards</strong> loyalty program at four stores in the Metro North district. Shoppers enrolled through the Linden mobile app and earned points on every qualifying purchase.</p><p class=\"mt-2\">As detailed in the attached performance table, the pilot exceeded our overall enrollment target and drove substantial growth in both basket size and house-brand sales. However, post-pilot surveys revealed two barriers to wider adoption: 1) shoppers over age 60 were reluctant to download a mobile app at the checkout counter, and 2) several cashiers felt rushed when explaining the point-redemption rules during busy weekend hours.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Linden Rewards Pilot Performance (March 1–May 31)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Pilot Result (4 Metro North Stores)</th><th class=\"border border-neutral-800 p-2 text-left\">Benchmark / Comparison</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Total Enrolled Members</td><td class=\"border border-neutral-800 p-2\">6,400 members</td><td class=\"border border-neutral-800 p-2\">28% above initial target of 5,000</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Member Spending &amp; Visits</td><td class=\"border border-neutral-800 p-2\">+18% total spend / +9% store visits</td><td class=\"border border-neutral-800 p-2\">Compared with non-member shoppers</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Average Transaction Value</td><td class=\"border border-neutral-800 p-2\">$64 per visit (up from $54)</td><td class=\"border border-neutral-800 p-2\">31% of member spend on Linden house brands</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Age Distribution of Enrollees</td><td class=\"border border-neutral-800 p-2\">62% under age 40; only 8% age 60+</td><td class=\"border border-neutral-800 p-2\">App-only sign-up cited as barrier by seniors</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Store Directors<br><strong>From:</strong> Executive Committee<br><strong>Date:</strong> July 18<br><strong>Subject:</strong> Company-Wide Rollout of Linden Rewards (September 1)</p><hr class=\"my-2 border-neutral-300\"><p>Based on the strong pilot results in Metro North, the Executive Committee has approved a company-wide rollout of Linden Rewards across all 42 stores on September 1, backed by an $85,000 launch budget.</p><p class=\"mt-2\">To address the feedback from the pilot, we are making three changes before launch: 1) physical plastic membership cards will be available at registers for customers who prefer not to use the mobile app; 2) all cashiers will complete a 20-minute interactive training module in August; and 3) the reward structure will be simplified to 1 point per $1 spent, with an automatic $5 discount issued for every 100 points earned.</p></div>",
+    "questionText": "In the report, the word \"uptick\" in paragraph 1 is closest in meaning to",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) delay"
+      },
+      {
+        "key": "B",
+        "text": "(B) decline"
+      },
+      {
+        "key": "C",
+        "text": "(C) increase"
+      },
+      {
+        "key": "D",
+        "text": "(D) error"
+      }
+    ],
+    "correct": "C",
+    "translation": "Trong báo cáo, từ “uptick” ở đoạn 1 gần nghĩa nhất với từ nào? — “increase” (sự tăng lên).",
+    "explanation": "Đáp án C. “Uptick” có nghĩa là một mức tăng nhẹ. Câu “The program also produced a modest uptick in sales of house-brand products” nói rằng chương trình tạo ra một mức tăng khiêm tốn trong doanh số sản phẩm thương hiệu riêng, phù hợp với các kết quả tích cực trước đó. A “delay” (sự trì hoãn), B “decline” (sự giảm) và D “error” (lỗi) đều trái nghĩa hoặc không liên quan đến ngữ cảnh.",
+    "vocab": [
+      {
+        "word": "uptick",
+        "pos": "n.",
+        "meaning": "sự tăng nhẹ"
+      },
+      {
+        "word": "modest",
+        "pos": "adj.",
+        "meaning": "khiêm tốn, nhỏ"
+      },
+      {
+        "word": "context",
+        "pos": "n.",
+        "meaning": "ngữ cảnh"
+      },
+      {
+        "word": "sales",
+        "pos": "n.",
+        "meaning": "doanh số"
+      }
+    ]
+  }
+]

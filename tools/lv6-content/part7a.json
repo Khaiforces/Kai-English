@@ -1,0 +1,584 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INTERNAL E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: Regional Category Managers<br>From: Priya Raghunathan, Director of Procurement<br>Re: Consolidation of printing-supplies contracts</p><p class=\"mt-2\">As you are aware, our current arrangements with four separate office-supply vendors expire at the end of next quarter. Preliminary analysis suggests that consolidating these purchases under a single strategic supplier would reduce unit costs by roughly nine percent, though it would also concentrate risk in one counterparty. I am therefore asking each of you to submit a short assessment of the vendors you currently oversee, with particular attention to their delivery record over the past eighteen months and to any penalty clauses that might be triggered by early termination.</p><p class=\"mt-2\">Please keep submissions to two pages; anecdote is no substitute for the data held in the procurement dashboard. A shortlist will be circulated ahead of the October steering committee.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "Why did Ms. Raghunathan send this e-mail to the regional category managers?",
+        "options": [
+          "To instruct them to terminate four office-supply contracts before the end of next quarter",
+          "To solicit concise, evidence-based vendor evaluations prior to a consolidation review",
+          "To report that preliminary analysis has guaranteed a nine-percent drop in counterparty risk",
+          "To request historical delivery data from the procurement dashboard ahead of an October audit"
+        ],
+        "answer": "B",
+        "translation": "Vì sao bà Raghunathan gửi e-mail này cho các quản lý ngành hàng khu vực? — Để đề nghị các bản đánh giá nhà cung cấp ngắn gọn, dựa trên dữ liệu trước cuộc rà soát hợp nhất hợp đồng.",
+        "explanation": "Người viết nêu việc hợp nhất đang ở bước phân tích sơ bộ ('Preliminary analysis suggests') và yêu cầu nộp bản đánh giá tối đa hai trang dựa trên dữ liệu dashboard ('keep submissions to two pages; anecdote is no substitute for the data...'). A sai vì chưa ra lệnh chấm dứt hợp đồng; C bóp méo số 9% (giảm đơn giá, trong khi hợp nhất thực chất làm tăng tập trung rủi ro đối tác); D sai vì dữ liệu đã có sẵn trên dashboard và cuộc họp tháng 10 là của ban chỉ đạo chứ không phải kiểm toán.",
+        "vocab": [
+          ["consolidation", "n.", "sự hợp nhất, gộp lại"],
+          ["counterparty", "n.", "bên đối tác trong giao dịch"],
+          ["solicit", "v.", "đề nghị cung cấp, kêu gọi"]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "What is implied about the written assessments that managers are asked to submit?",
+        "options": [
+          "They should exceed two pages only when penalty clauses require legal quotation.",
+          "They must be anchored in quantitative performance metrics rather than informal impressions.",
+          "They are intended to replace the figures recorded in the procurement dashboard.",
+          "They must compare prospective outside vendors against the four incumbent suppliers."
+        ],
+        "answer": "B",
+        "translation": "Điều gì được ngụ ý về các bản đánh giá mà các quản lý được yêu cầu nộp? — Chúng phải dựa trên các chỉ số hiệu suất định lượng thay vì cảm nhận cá nhân rời rạc.",
+        "explanation": "Câu 'anecdote is no substitute for the data held in the procurement dashboard' ngụ ý báo cáo đánh giá phải dựa trên số liệu khách quan trên dashboard thay vì nhận xét cảm tính. A bịa đặt ngoại lệ cho giới hạn hai trang; C đảo ngược quan hệ (không thay thế dữ liệu dashboard); D sai vì bài chỉ yêu cầu đánh giá bốn nhà cung cấp hiện tại ('vendors you currently oversee').",
+        "vocab": [
+          ["substitute", "n.", "vật thay thế"],
+          ["quantitative", "adj.", "mang tính định lượng"],
+          ["incumbent", "adj.", "đương nhiệm, hiện tại"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following policy notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">POLICY NOTICE: AMENDMENT TO THE SUPPLIER CODE OF CONDUCT</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Effective 1 January, all Tier 1 suppliers will be required to disclose the carbon intensity of inbound freight on a quarterly basis. Suppliers falling short of the reporting threshold will not be suspended outright; instead, they will be placed on a remediation schedule lasting no more than two quarters. Only persistent non-disclosure, defined as three consecutive missed submissions, will trigger a formal review of the commercial relationship.</p><p class=\"mt-2\">The revised code stops short of mandating a specific emissions target, a point on which the sustainability committee was divided. Suppliers should note that the disclosure obligation extends to subcontracted carriers, notwithstanding any confidentiality provisions in existing agreements.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "What is the primary purpose of the notice?",
+        "options": [
+          "To notify Tier 1 suppliers that binding emissions targets take effect on 1 January",
+          "To detail revised quarterly emissions reporting mandates and tiered enforcement rules",
+          "To exempt subcontracted carriers from quarterly reporting where confidentiality clauses apply",
+          "To announce that suppliers missing a quarterly threshold face immediate commercial suspension"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của thông báo là trình bày chi tiết nghĩa vụ báo cáo phát thải hằng quý đã sửa đổi và các mức xử lý theo lộ trình.",
+        "explanation": "Văn bản nêu quy định công bố dữ liệu carbon hằng quý từ 1/1 và lộ trình xử lý theo cấp độ (tối đa hai quý khắc phục trước khi rà soát hợp đồng ở lần thứ ba liên tiếp). A sai vì quy định 'stops short of mandating a specific emissions target'; C trái ngược đoạn cuối ('extends to subcontracted carriers, notwithstanding any confidentiality provisions'); D trái với câu 'will not be suspended outright'.",
+        "vocab": [
+          ["disclosure", "n.", "sự công bố, tiết lộ thông tin"],
+          ["remediation", "n.", "việc khắc phục, sửa chữa"],
+          ["persistent", "adj.", "kéo dài, dai dẳng"]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "The phrase \"stops short of\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "refrains from going as far as",
+          "abandons the idea of",
+          "postpones indefinitely",
+          "exceeds the requirements of"
+        ],
+        "answer": "A",
+        "translation": "Cụm \"stops short of\" gần nghĩa nhất với \"không đi xa tới mức\".",
+        "explanation": "\"Stops short of mandating a specific emissions target\" = bộ quy tắc dừng lại trước việc bắt buộc một mục tiêu cụ thể, tức không đi xa đến mức đó. B (từ bỏ) và C (hoãn vô thời hạn) sai vì quy tắc vẫn có nghĩa vụ công bố; D ngược nghĩa.",
+        "vocab": [
+          ["mandate", "v.", "bắt buộc, quy định"],
+          ["threshold", "n.", "ngưỡng"],
+          ["consecutive", "adj.", "liên tiếp"]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "Which of the following is NOT supported by the notice?",
+        "options": [
+          "Suppliers must report emissions data for subcontracted carriers.",
+          "Repeated failure to report may put the commercial relationship under review.",
+          "A supplier that misses a single submission loses its Tier 1 status at once.",
+          "The code does not impose a specific emissions target."
+        ],
+        "answer": "C",
+        "translation": "Điều nào KHÔNG được thông báo ủng hộ? — Việc một nhà cung cấp bỏ lỡ một lần nộp báo cáo sẽ mất ngay trạng thái Tier 1.",
+        "explanation": "Thông báo ghi rõ \"will not be suspended outright\" và chỉ \"three consecutive missed submissions\" mới dẫn tới rà soát chính thức, nên C trái với văn bản. A đúng (\"extends to subcontracted carriers\"), B đúng (\"formal review\"), D đúng (\"stops short of mandating a specific emissions target\").",
+        "vocab": [
+          ["outright", "adv.", "ngay lập tức, hoàn toàn"],
+          ["subcontract", "v.", "thầu phụ, ký hợp đồng phụ"],
+          ["confidentiality", "n.", "tính bảo mật"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following extract from a contract:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MASTER SERVICES AGREEMENT: EXTRACT (CLAUSE 9, LIABILITY)</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">9.1 The Supplier shall indemnify the Client against all direct losses arising from any breach of this Agreement, provided that such losses are notified in writing within ninety days of the event giving rise to the claim.</p><p class=\"mt-2\">9.2 The Supplier's aggregate liability under this Agreement shall not exceed the fees paid by the Client in the twelve months immediately preceding the claim, save where the claim arises from wilful misconduct or gross negligence, in which case no such limitation shall apply.</p><p class=\"mt-2\">9.3 Neither party shall be liable for indirect or consequential loss, including loss of profit, however arising.</p><p class=\"mt-2\">9.4 Nothing in this Clause shall be construed as excluding liability for death or personal injury caused by negligence.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "What can be inferred about a client that wishes to recover profits it claims to have lost?",
+        "options": [
+          "It may do so provided notice is given within ninety days.",
+          "It is unlikely to succeed, because such a loss falls outside the recoverable category.",
+          "It may recover the full amount from the Supplier's insurers.",
+          "It must first demonstrate wilful misconduct by the Supplier."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về khách hàng muốn đòi lại phần lợi nhuận bị mất? — Khó thành công, vì loại thiệt hại đó nằm ngoài phạm vi được bồi thường.",
+        "explanation": "Khoản 9.3 quy định \"Neither party shall be liable for indirect or consequential loss, including loss of profit\", tức lợi nhuận bị mất bị xếp vào thiệt hại gián tiếp và bị loại trừ. Vì vậy thông báo trong 90 ngày (A) không giải quyết được vấn đề; C và D không có căn cứ trong điều khoản.",
+        "vocab": [
+          ["indemnify", "v.", "bồi thường, đền bù"],
+          ["consequential", "adj.", "hệ quả, gián tiếp"],
+          ["breach", "n.", "sự vi phạm"]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "The phrase \"save where\" in clause 9.2 is closest in meaning to",
+        "options": [
+          "except in cases where",
+          "at the same time as",
+          "in the hope that",
+          "regardless of whether"
+        ],
+        "answer": "A",
+        "translation": "\"Save where\" trong khoản 9.2 gần nghĩa nhất với \"trừ những trường hợp mà\".",
+        "explanation": "\"save where the claim arises from wilful misconduct... no such limitation shall apply\" nghĩa là giới hạn trách nhiệm không áp dụng, trừ khi yêu cầu bồi thường phát sinh từ hành vi cố ý. \"Save\" ở đây là giới từ pháp lý mang nghĩa \"except\".",
+        "vocab": [
+          ["aggregate", "adj.", "tổng cộng, gộp lại"],
+          ["wilful misconduct", "n.", "hành vi sai trái cố ý"],
+          ["gross negligence", "n.", "sơ suất nghiêm trọng"]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "Which of the following is NOT supported by the extract?",
+        "options": [
+          "A claim must be notified in writing within ninety days of the triggering event.",
+          "The liability cap is calculated by reference to fees paid over twelve months.",
+          "Liability arising from gross negligence is subject to the same cap as other claims.",
+          "Loss of profit is treated as a form of consequential loss."
+        ],
+        "answer": "C",
+        "translation": "Điều nào KHÔNG được đoạn trích ủng hộ? — Trách nhiệm phát sinh từ sơ suất nghiêm trọng vẫn chịu cùng mức trần như các yêu cầu khác.",
+        "explanation": "Khoản 9.2 nêu rõ với \"wilful misconduct or gross negligence\" thì \"no such limitation shall apply\", tức trần trách nhiệm bị loại bỏ, nên C sai. A (9.1), B (\"fees paid... in the twelve months\") và D (9.3 xếp \"loss of profit\" vào consequential loss) đều được ủng hộ.",
+        "vocab": [
+          ["liability", "n.", "trách nhiệm pháp lý"],
+          ["cap", "n.", "mức trần, giới hạn tối đa"],
+          ["construe", "v.", "diễn giải, hiểu là"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following financial review:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">EXTRACT FROM THE QUARTERLY FINANCIAL REVIEW</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Revenue for the quarter rose 6.2 percent year on year to $48.1 million, although nearly all of the increase is attributable to favourable currency movements; at constant exchange rates, growth was a modest 0.8 percent. Gross margin contracted by 140 basis points, which management ascribes to elevated inbound logistics costs and an unfavourable product mix. Operating expenses were broadly flat, reflecting the hiring freeze imposed in the prior quarter. Free cash flow turned negative, largely because of a one-off settlement with a former distributor.</p><p class=\"mt-2\">The board has declined to reinstate the dividend, noting that leverage remains above the target range. Management reiterated full-year guidance, albeit within a wider range than previously given, citing \"unprecedented volatility in freight markets\".</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "What can be inferred about the company's underlying performance?",
+        "options": [
+          "Demand for its products grew strongly during the quarter.",
+          "The improvement in reported revenue was largely not operational.",
+          "Gross margin improved because of a more favourable product mix.",
+          "Operating expenses rose sharply despite the hiring freeze."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về kết quả kinh doanh thực chất? — Mức tăng doanh thu báo cáo phần lớn không đến từ hoạt động kinh doanh.",
+        "explanation": "Đoạn văn cho biết \"nearly all of the increase is attributable to favourable currency movements\" và tăng trưởng theo tỷ giá cố định chỉ 0,8%, nên cải thiện chủ yếu do tiền tệ. A trái với con số 0,8%; C sai vì biên gộp \"contracted\" do \"unfavourable product mix\"; D sai vì chi phí \"broadly flat\".",
+        "vocab": [
+          ["contract", "v.", "thu hẹp, giảm sút"],
+          ["basis point", "n.", "điểm cơ bản (0,01%)"],
+          ["hiring freeze", "n.", "việc đóng băng tuyển dụng"]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "The word \"ascribes\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "attributes",
+          "subscribes",
+          "restricts",
+          "contrasts"
+        ],
+        "answer": "A",
+        "translation": "\"Ascribes\" trong đoạn 1 gần nghĩa nhất với \"attributes\" (quy cho, cho là do).",
+        "explanation": "\"which management ascribes to elevated inbound logistics costs\" = ban điều hành quy nguyên nhân việc thu hẹp biên gộp cho chi phí logistics đầu vào tăng cao. \"Ascribe... to\" đồng nghĩa \"attribute... to\". Các phương án còn lại không tạo được kết cấu nghĩa này.",
+        "vocab": [
+          ["elevated", "adj.", "tăng cao"],
+          ["inbound", "adj.", "đầu vào, chiều đến"],
+          ["product mix", "n.", "cơ cấu sản phẩm"]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "Which of the following is NOT supported by the review?",
+        "options": [
+          "Currency effects accounted for most of the reported revenue growth.",
+          "Gross margin fell by 140 basis points.",
+          "The company reduced its headcount during the quarter.",
+          "The board chose not to restore the dividend."
+        ],
+        "answer": "C",
+        "translation": "Điều nào KHÔNG được báo cáo ủng hộ? — Công ty đã cắt giảm nhân sự trong quý.",
+        "explanation": "Báo cáo chỉ nêu \"the hiring freeze imposed in the prior quarter\", tức ngừng tuyển mới, không hề nói giảm biên chế. A đúng (\"nearly all of the increase... favourable currency movements\"), B đúng (\"contracted by 140 basis points\"), D đúng (\"declined to reinstate the dividend\").",
+        "vocab": [
+          ["reinstate", "v.", "phục hồi, khôi phục lại"],
+          ["leverage", "n.", "đòn bẩy tài chính, mức vay nợ"],
+          ["guidance", "n.", "dự báo định hướng của doanh nghiệp"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following commentary:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">COMMENTARY: THE QUIET COST OF NEARSHORING</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">The case for nearshoring is usually made in the language of resilience: shorter lead times, fewer disruptions, lower exposure to distant chokepoints. Rarely does the same analysis account for what is quietly surrendered in the process.</p><p class=\"mt-2\">Suppliers closer to home are, almost by definition, fewer; and a shorter supply chain with fewer participants is not necessarily a more robust one. I have sat through enough board presentations to recognise the pattern: a map with three arrows replacing one, a slide announcing a 40 percent cut in transit time, and no mention of the single plant on which the entire arrangement now depends.</p><p class=\"mt-2\">Resilience, it turns out, is less about distance than about redundancy, and redundancy is precisely what consolidation eliminates.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "What is the author's attitude toward the usual case for nearshoring?",
+        "options": [
+          "Cautiously skeptical of its underlying reasoning",
+          "Enthusiastically supportive of its conclusions",
+          "Strictly neutral, offering no evaluative judgement",
+          "Openly contemptuous of the firms that adopt it"
+        ],
+        "answer": "A",
+        "translation": "Thái độ của tác giả với lập luận thông thường ủng hộ nearshoring là gì? — Hoài nghi một cách thận trọng đối với cách lập luận đó.",
+        "explanation": "Tác giả dùng \"Rarely does the same analysis account for...\", \"not necessarily a more robust one\" và kết luận \"resilience... is less about distance than about redundancy\" — phê phán có cân nhắc, không phủ nhận hoàn toàn. Vì vậy B (ủng hộ nhiệt liệt) và D (khinh miệt) quá mức; C sai vì bài rõ ràng có đánh giá.",
+        "vocab": [
+          ["nearshoring", "n.", "chuyển sản xuất về nước gần"],
+          ["chokepoint", "n.", "điểm nghẽn, nút thắt"],
+          ["resilience", "n.", "khả năng chống chịu, phục hồi"]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "What does the author suggest by mentioning \"a map with three arrows replacing one\"?",
+        "options": [
+          "Board presentations are usually factually inaccurate.",
+          "The visual suggests more diversification than the arrangement actually provides.",
+          "Three suppliers are always preferable to a single supplier.",
+          "Transit time is the decisive measure of supply-chain strength."
+        ],
+        "answer": "B",
+        "translation": "Tác giả ngụ ý gì khi nhắc tới \"tấm bản đồ có ba mũi tên thay cho một\"? — Hình ảnh đó gợi cảm giác đa dạng hoá nhiều hơn thực tế.",
+        "explanation": "Ngay sau hình ảnh này, tác giả nhấn mạnh \"no mention of the single plant on which the entire arrangement now depends\", cho thấy sơ đồ ba mũi tên che giấu sự phụ thuộc vào một cơ sở duy nhất. A và D là những khẳng định tuyệt đối không được bài viết nêu; C trái với hàm ý của tác giả.",
+        "vocab": [
+          ["diversification", "n.", "sự đa dạng hoá"],
+          ["depend on", "v.", "phụ thuộc vào"],
+          ["decisive", "adj.", "mang tính quyết định"]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "The word \"redundancy\" in the final paragraph is closest in meaning to",
+        "options": [
+          "duplication of critical capacity",
+          "dismissal of surplus staff",
+          "excessive expenditure on logistics",
+          "repetition of identical information"
+        ],
+        "answer": "A",
+        "translation": "\"Redundancy\" ở đoạn cuối gần nghĩa nhất với \"sự dự phòng, nhân bản năng lực thiết yếu\".",
+        "explanation": "Trong ngữ cảnh chuỗi cung ứng, \"redundancy\" là năng lực dự phòng (backup) giúp hệ thống chịu được gián đoạn; tác giả đối lập nó với \"consolidation\". B là nghĩa thông dụng khác của từ (sa thải lao động dư thừa) nhưng không hợp ngữ cảnh; C và D không liên quan.",
+        "vocab": [
+          ["eliminate", "v.", "loại bỏ"],
+          ["robust", "adj.", "vững chắc, chịu được tác động"],
+          ["lead time", "n.", "thời gian giao hàng, thời gian chờ"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">CARGOLUME: FREIGHT VISIBILITY IS NOT A DASHBOARD PROBLEM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Freight visibility is not a dashboard problem. It is a decision problem. Cargolume's predictive routing engine analyses 140 data signals, from port congestion to customs dwell time and carrier reliability, and recommends the route that minimises total landed cost rather than merely transit time.</p><p class=\"mt-2\">Most platforms tell you where your shipment is. Ours tells you where it should be going. Implementation takes six weeks, not six months: our team migrates your historical lane data and configures exception rules before a single order is rerouted. Existing customers report an average 11 percent reduction in expedited freight spend within two quarters.</p><p class=\"mt-2\">Cargolume does not operate trucks, ships, or warehouses. We are, and will remain, strictly a software provider.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "What is the primary purpose of the advertisement?",
+        "options": [
+          "To advertise an integrated fleet-management service combining software with warehousing",
+          "To promote predictive routing software that recommends cost-optimal shipment paths",
+          "To guarantee a flat eleven-percent cut in carrier rates regardless of transit duration",
+          "To introduce a six-month onboarding programme designed to audit historical lane records"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của quảng cáo là quảng bá phần mềm định tuyến dự báo giúp đề xuất lộ trình vận chuyển tối ưu chi phí.",
+        "explanation": "Quảng cáo nhấn mạnh Cargolume là phần mềm định tuyến dự báo phân tích 140 tín hiệu để tối thiểu hóa tổng chi phí hàng về kho ('total landed cost'), khác với các nền tảng chỉ theo dõi vị trí. A sai vì Cargolume không vận hành xe hay kho bãi ('does not operate trucks, ships, or warehouses'); C bóp méo mức giảm 11% (mức giảm trung bình chi phí gửi nhanh của khách hàng hiện tại trong hai quý, không phải bảo đảm giảm cước cố định); D sai thời gian triển khai ('six weeks, not six months').",
+        "vocab": [
+          ["predictive", "adj.", "mang tính dự báo"],
+          ["dwell time", "n.", "thời gian lưu bãi"],
+          ["landed cost", "n.", "chi phí hàng về đến kho"]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "All of the following are claimed about Cargolume EXCEPT that it",
+        "options": [
+          "draws on a very large number of data signals",
+          "can be implemented in a matter of weeks",
+          "helps clients cut spending on expedited freight",
+          "operates its own fleet of vehicles and vessels"
+        ],
+        "answer": "D",
+        "translation": "Tất cả những điều sau đều được quảng cáo nêu, NGOẠI TRỪ việc công ty tự vận hành đội xe và tàu.",
+        "explanation": "Đoạn cuối phủ định rõ: \"Cargolume does not operate trucks, ships, or warehouses\", nên D trái với quảng cáo. A đúng (\"140 data signals\"), B đúng (\"six weeks, not six months\"), C đúng (\"11 percent reduction in expedited freight spend\").",
+        "vocab": [
+          ["exception rule", "n.", "quy tắc xử lý ngoại lệ"],
+          ["expedited", "adj.", "hàng gửi nhanh, có phụ phí"],
+          ["migrate", "v.", "chuyển dữ liệu sang hệ thống mới"]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "What can be inferred from the statement that Cargolume is strictly a software provider?",
+        "options": [
+          "It intends to acquire a freight forwarder within two quarters.",
+          "Its lack of transport assets is meant to reassure clients of its impartiality.",
+          "It competes with carriers by undercutting their rates.",
+          "It plans to phase out software in favour of managed transport."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì từ việc Cargolume chỉ là nhà cung cấp phần mềm? — Việc không sở hữu tài sản vận tải nhằm trấn an khách hàng về tính khách quan.",
+        "explanation": "Việc nhấn mạnh \"does not operate trucks, ships, or warehouses\" và \"will remain, strictly a software provider\" cho thấy công ty muốn khách hàng thấy mình không có lợi ích riêng trong việc chọn tuyến hay hãng vận chuyển nào. A, C, D đều không có căn cứ, thậm chí trái với đoạn cuối.",
+        "vocab": [
+          ["impartiality", "n.", "tính khách quan, không thiên vị"],
+          ["undercut", "v.", "hạ giá thấp hơn đối thủ"],
+          ["phase out", "v.", "loại bỏ dần"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MINUTES OF THE PRODUCT STEWARDSHIP COMMITTEE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">The committee convened on 4 March with seven of its nine members present. The chair opened by noting that the recall of the Model 12 adapter had consumed resources earmarked for the successor programme, and asked whether the launch date should be treated as fixed.</p><p class=\"mt-2\">After some discussion, the committee resolved that the date be retained but that the scope be reduced to two configurations, with the remainder deferred to a point release. The quality director dissented, arguing that compressing validation to eleven weeks would merely postpone, rather than eliminate, the underlying defect risk; her objection was recorded. The finance representative observed that the deferred configurations account for a substantial share of projected margin, a remark that went unaddressed.</p><p class=\"mt-2\">Action: engineering to circulate a revised validation plan by 18 March.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "What is the primary purpose of this document?",
+        "options": [
+          "To ratify a postponed launch schedule requested jointly by the quality and finance representatives",
+          "To document a scope-reduction compromise along with formal reservations raised during deliberations",
+          "To record unanimous committee approval for compressing product validation to eleven weeks",
+          "To assign engineering teams to resolve the Model 12 adapter recall by 18 March"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của văn bản là ghi nhận thỏa hiệp thu hẹp phạm vi ra mắt cùng với những ý kiến bảo lưu chính thức nêu ra trong phiên họp.",
+        "explanation": "Biên bản ghi lại quyết định giữ nguyên ngày ra mắt nhưng cắt giảm còn hai cấu hình ('scope be reduced to two configurations'), đồng thời ghi nhận sự phản đối chính thức của giám đốc chất lượng ('her objection was recorded'). A sai vì ngày ra mắt được giữ nguyên không hoãn; C sai vì không đạt đồng thuận tuyệt đối ('dissented'); D sai vì mốc 18/3 là hạn gửi kế hoạch kiểm định mới cho sản phẩm kế nhiệm chứ không phải xử lý đợt thu hồi Model 12.",
+        "vocab": [
+          ["convene", "v.", "triệu tập, họp"],
+          ["reservation", "n.", "sự bảo lưu ý kiến, dè dặt"],
+          ["defer", "v.", "hoãn, dời lại"]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "What is the tone of the quality director's contribution?",
+        "options": [
+          "Supportive of the compromise reached by the committee",
+          "Concerned that the compromise defers rather than resolves the risk",
+          "Indifferent to the outcome of the discussion",
+          "Confident that eleven weeks is more than sufficient"
+        ],
+        "answer": "B",
+        "translation": "Giọng điệu trong ý kiến của giám đốc chất lượng là lo ngại rằng thoả hiệp chỉ trì hoãn chứ không giải quyết rủi ro.",
+        "explanation": "Bà \"dissented\" và lập luận \"compressing validation to eleven weeks would merely postpone, rather than eliminate, the underlying defect risk\" — vừa phản đối vừa cảnh báo rủi ro tiềm ẩn. A và D ngược lại; C trái với việc bà đã chính thức phản đối.",
+        "vocab": [
+          ["dissent", "v.", "phản đối, bất đồng ý kiến"],
+          ["validation", "n.", "việc kiểm định, xác nhận"],
+          ["underlying", "adj.", "tiềm ẩn, nằm bên dưới"]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "What can be inferred from the remark that \"went unaddressed\"?",
+        "options": [
+          "The finance representative was absent when the remark was made.",
+          "The financial consequence of the decision was left unresolved.",
+          "The committee had already reviewed detailed margin projections.",
+          "The remark was struck from the official record."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì từ việc lời nhận xét đó \"không được đề cập tới\"? — Hệ quả tài chính của quyết định vẫn chưa được giải quyết.",
+        "explanation": "Nhận xét rằng các cấu hình bị hoãn chiếm \"a substantial share of projected margin\" mà \"went unaddressed\" nghĩa là uỷ ban không bàn tiếp, để ngỏ tác động tài chính. Văn bản ghi \"seven of its nine members present\" và không nói ai vắng, nên A không được chứng minh; D trái với việc biên bản vẫn ghi lại lời nhận xét.",
+        "vocab": [
+          ["projected", "adj.", "dự kiến, dự báo"],
+          ["configuration", "n.", "cấu hình, phiên bản"],
+          ["circulate", "v.", "gửi vòng, lưu hành nội bộ"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following price schedule:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ENTERPRISE SUPPORT PRICING: SCHEDULE B</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">The following schedule supersedes Schedule A of the master support agreement dated 14 April and takes effect on renewal. Fees are quoted per site, in United States dollars, and exclude applicable taxes.</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr><th class=\"border border-neutral-400 px-2 py-1 text-left\">Tier</th><th class=\"border border-neutral-400 px-2 py-1 text-left\">Annual fee</th><th class=\"border border-neutral-400 px-2 py-1 text-left\">Response target</th><th class=\"border border-neutral-400 px-2 py-1 text-left\">Incidents included</th><th class=\"border border-neutral-400 px-2 py-1 text-left\">Overage per incident</th></tr><tr><td class=\"border border-neutral-400 px-2 py-1\">Essential</td><td class=\"border border-neutral-400 px-2 py-1\">12,000</td><td class=\"border border-neutral-400 px-2 py-1\">8 business hours</td><td class=\"border border-neutral-400 px-2 py-1\">10</td><td class=\"border border-neutral-400 px-2 py-1\">450</td></tr><tr><td class=\"border border-neutral-400 px-2 py-1\">Professional</td><td class=\"border border-neutral-400 px-2 py-1\">28,000</td><td class=\"border border-neutral-400 px-2 py-1\">4 business hours</td><td class=\"border border-neutral-400 px-2 py-1\">25</td><td class=\"border border-neutral-400 px-2 py-1\">300</td></tr><tr><td class=\"border border-neutral-400 px-2 py-1\">Enterprise</td><td class=\"border border-neutral-400 px-2 py-1\">54,000</td><td class=\"border border-neutral-400 px-2 py-1\">1 hour, 24/7</td><td class=\"border border-neutral-400 px-2 py-1\">60</td><td class=\"border border-neutral-400 px-2 py-1\">180</td></tr></table><p class=\"mt-2\">Multi-year commitments receive a 7 percent reduction on the second and subsequent years. Incident credits are applied only where a response target is missed by more than two hours; scheduled maintenance windows are excluded from all response calculations.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What applies to a Professional-tier client that logs 30 incidents in a single year?",
+        "options": [
+          "Five incidents are chargeable at the overage rate.",
+          "All thirty incidents are covered by the annual fee.",
+          "The client must upgrade to Enterprise before support continues.",
+          "The client receives a credit for the excess incidents."
+        ],
+        "answer": "A",
+        "translation": "Điều gì áp dụng cho khách hàng gói Professional ghi nhận 30 sự cố trong một năm? — Năm sự cố vượt định mức sẽ bị tính theo giá overage.",
+        "explanation": "Bảng giá nêu Professional gồm \"25\" sự cố, nên 30 − 25 = 5 sự cố vượt mức, mỗi sự cố tính 300 đô-la. B sai vì chỉ 25 sự cố nằm trong phí năm; C và D không xuất hiện trong quy định (credit chỉ áp dụng khi trễ phản hồi quá hai giờ).",
+        "vocab": [
+          ["supersede", "v.", "thay thế, huỷ bỏ cái cũ"],
+          ["overage", "n.", "phần vượt định mức"],
+          ["exclude", "v.", "loại trừ, không bao gồm"]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "Which of the following is NOT supported by the schedule?",
+        "options": [
+          "Response targets apply during scheduled maintenance windows.",
+          "Quoted fees do not include applicable taxes.",
+          "A reduction applies from the second year of a multi-year commitment.",
+          "A credit requires a delay of more than two hours."
+        ],
+        "answer": "A",
+        "translation": "Điều nào KHÔNG được bảng giá ủng hộ? — Cam kết thời gian phản hồi vẫn áp dụng trong các khung bảo trì định kỳ.",
+        "explanation": "Câu cuối ghi \"scheduled maintenance windows are excluded from all response calculations\", tức thời gian bảo trì không tính vào cam kết phản hồi, nên A trái văn bản. B (\"exclude applicable taxes\"), C (\"7 percent reduction on the second and subsequent years\") và D (\"missed by more than two hours\") đều được nêu rõ.",
+        "vocab": [
+          ["maintenance window", "n.", "khung thời gian bảo trì"],
+          ["credit", "n.", "khoản giảm trừ, bù trừ"],
+          ["applicable", "adj.", "áp dụng, có hiệu lực"]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "What can be inferred from the way overage rates change across tiers?",
+        "options": [
+          "Higher tiers are priced on the assumption of proportionally heavier usage.",
+          "Lower tiers are subsidised by clients that never report incidents.",
+          "Support staff assigned to higher tiers are less qualified.",
+          "Enterprise clients are discouraged from reporting incidents."
+        ],
+        "answer": "A",
+        "translation": "Có thể suy ra gì từ cách giá overage thay đổi giữa các gói? — Các gói cao được định giá dựa trên giả định mức sử dụng lớn hơn.",
+        "explanation": "Khi phí năm tăng từ 12.000 lên 54.000, số sự cố bao gồm tăng từ 10 lên 60 và giá mỗi sự cố vượt mức giảm từ 450 xuống 180 — dấu hiệu gói cao giả định khối lượng sử dụng lớn nên đơn giá biên thấp hơn. B, C, D không có căn cứ trong bảng hay ghi chú.",
+        "vocab": [
+          ["proportionally", "adv.", "theo tỷ lệ"],
+          ["subsidise", "v.", "trợ cấp, bù đắp chi phí"],
+          ["assumption", "n.", "giả định"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following itinerary:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SITE VISIT ITINERARY: PORT OF ROTTERDAM EXPANSION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Delegates should note that the 07:40 coach departs from the Amstel annex, not the main terminal, as the latter remains closed for resurfacing. The morning session has been moved forward by 45 minutes to accommodate the harbour master, who must leave by noon; consequently the buffer originally scheduled for document review has been eliminated.</p><p class=\"mt-2\">Access to the northern quay requires photographic identification and, for anyone carrying recording equipment, prior clearance from the terminal operator; requests submitted on the day will not be processed. The closing dinner will proceed as planned, though the venue has been changed to the Boompjes room to accommodate a larger party.</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "What is the main purpose of the itinerary?",
+        "options": [
+          "To notify delegates that the northern quay inspection has been cancelled due to resurfacing",
+          "To inform delegates of logistical, scheduling, and venue modifications for a site visit",
+          "To confirm an extended morning session accommodating additional document-review briefings",
+          "To outline same-day clearance procedures for delegates carrying photographic recording gear"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của lịch trình là thông báo cho đại biểu về các điều chỉnh hậu cần, thời gian và địa điểm của chuyến thăm thực địa.",
+        "explanation": "Văn bản thông báo hàng loạt thay đổi cho chuyến thăm: đổi điểm đón xe buýt sang khu phụ Amstel, đẩy sớm phiên sáng 45 phút (bỏ thời gian xem tài liệu), và đổi địa điểm tiệc tối sang phòng Boompjes. A bóp méo việc đóng cửa nhà ga chính (cầu cảng phía bắc vẫn đón khách có giấy phép); C sai vì thời gian xem tài liệu đã bị cắt bỏ chứ không mở rộng; D trái với quy định yêu cầu xin phép trong ngày sẽ không được xử lý.",
+        "vocab": [
+          ["delegate", "n.", "đại biểu"],
+          ["resurfacing", "n.", "việc làm lại mặt đường"],
+          ["accommodate", "v.", "đáp ứng, tạo điều kiện cho"]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "The word \"buffer\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "a margin of time held in reserve",
+          "a physical barrier at the quay",
+          "a discount on the coach fare",
+          "a summary of the day's documents"
+        ],
+        "answer": "A",
+        "translation": "\"Buffer\" trong đoạn 1 gần nghĩa nhất với \"khoảng thời gian dự trữ\".",
+        "explanation": "\"the buffer originally scheduled for document review has been eliminated\" chỉ khoảng thời gian đệm vốn dành để xem tài liệu, nay bị cắt vì lịch dồn sớm. B là nghĩa vật lý của \"buffer\" nhưng không hợp ngữ cảnh; C và D không liên quan.",
+        "vocab": [
+          ["eliminate", "v.", "loại bỏ, cắt bỏ"],
+          ["quay", "n.", "cầu cảng"],
+          ["clearance", "n.", "sự cho phép, giấy thông hành"]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "Which of the following is NOT supported by the itinerary?",
+        "options": [
+          "The coach leaves from a different location than originally intended.",
+          "The time previously reserved for reviewing documents has been removed.",
+          "Visitors carrying recording equipment must obtain clearance in advance.",
+          "Same-day clearance requests are accepted if identification is presented."
+        ],
+        "answer": "D",
+        "translation": "Điều nào KHÔNG được lịch trình ủng hộ? — Yêu cầu cấp phép trong ngày vẫn được chấp nhận nếu xuất trình giấy tờ tuỳ thân.",
+        "explanation": "Văn bản ghi rõ \"requests submitted on the day will not be processed\", nên D trái nội dung. A đúng (\"not the main terminal\"), B đúng (\"buffer... has been eliminated\"), C đúng (\"prior clearance from the terminal operator\").",
+        "vocab": [
+          ["identification", "n.", "giấy tờ tuỳ thân"],
+          ["venue", "n.", "địa điểm tổ chức"],
+          ["proceed", "v.", "tiến hành, diễn ra"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following survey summary:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">CUSTOMER SATISFACTION SURVEY: MANAGEMENT SUMMARY</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Of the 1,840 clients invited, 612 responded, a rate of 33 percent that is broadly consistent with last year's exercise. Headline satisfaction held at 4.1 out of 5.</p><p class=\"mt-2\">That stability, however, conceals considerable movement beneath the surface: scores for account management improved markedly, while scores for onboarding fell by half a point, the steepest decline recorded in five years. Respondents who had contacted support in the preceding quarter were nearly twice as likely to report dissatisfaction, a pattern that merits more attention than the aggregate figure alone would suggest.</p><p class=\"mt-2\">Written comments were dominated by two themes, clarity of invoicing and the pace of technical onboarding, neither of which can be addressed by the customer-facing teams alone.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "What is the author's attitude toward the headline satisfaction score?",
+        "options": [
+          "It is reassuring on its own but potentially misleading as a summary.",
+          "It is wholly unreliable because the response rate was too low.",
+          "It proves that service quality has improved across every area.",
+          "It should be withdrawn from the report entirely."
+        ],
+        "answer": "A",
+        "translation": "Thái độ của tác giả với điểm hài lòng tổng thể: đáng yên tâm nhưng có thể gây hiểu lầm nếu dùng làm tóm tắt.",
+        "explanation": "Tác giả nêu điểm 4,1 giữ nguyên nhưng ngay sau đó dùng \"however\" và \"conceals considerable movement beneath the surface\", cho thấy con số tổng hợp che khuất biến động thực tế. Không có chỗ nào nói tỷ lệ phản hồi quá thấp (B) — ngược lại là \"broadly consistent\"; C mâu thuẫn với việc điểm onboarding giảm; D quá cực đoan.",
+        "vocab": [
+          ["aggregate", "adj.", "tổng hợp"],
+          ["markedly", "adv.", "rõ rệt"],
+          ["onboarding", "n.", "quá trình tiếp nhận, khởi tạo khách hàng"]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "What does the author imply about the two recurring themes in the comments?",
+        "options": [
+          "They can be resolved by retraining the customer-facing teams.",
+          "They require action from parts of the business outside customer service.",
+          "They are less important than the headline satisfaction score.",
+          "They reflect the views of a small and unrepresentative minority."
+        ],
+        "answer": "B",
+        "translation": "Tác giả ngụ ý hai chủ đề lặp lại cần sự vào cuộc của các bộ phận ngoài nhóm tiếp xúc khách hàng.",
+        "explanation": "Câu cuối khẳng định hai chủ đề \"neither of which can be addressed by the customer-facing teams alone\", tức cần phối hợp liên bộ phận. A trái trực tiếp; C trái với việc tác giả coi trọng các tín hiệu này; D không được dữ liệu khảo sát hỗ trợ.",
+        "vocab": [
+          ["recurring", "adj.", "lặp đi lặp lại"],
+          ["invoicing", "n.", "việc lập và gửi hoá đơn"],
+          ["address", "v.", "xử lý, giải quyết"]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "The phrase \"merits more attention\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "warrants closer scrutiny",
+          "attracts undue criticism",
+          "defies statistical measurement",
+          "precedes formal escalation"
+        ],
+        "answer": "A",
+        "translation": "Cụm 'merits more attention' trong đoạn 2 gần nghĩa nhất với 'xứng đáng được xem xét kỹ lưỡng hơn'.",
+        "explanation": "Trong ngữ cảnh tỷ lệ không hài lòng ở nhóm từng liên hệ bộ phận hỗ trợ tăng gần gấp đôi, cụm 'a pattern that merits more attention than the aggregate figure alone would suggest' nghĩa là xu hướng này đòi hỏi phải được rà soát sâu sát hơn ('warrants closer scrutiny'). B (thu hút chỉ trích quá mức), C (không thể đo lường) và D (diễn ra trước khi leo thang chính thức) đều sai sắc thái nghĩa.",
+        "vocab": [
+          ["warrant", "v.", "xứng đáng, đòi hỏi phải có"],
+          ["scrutiny", "n.", "sự xem xét kỹ lưỡng"],
+          ["merit", "v.", "đáng được, xứng đáng nhận"]
+        ]
+      }
+    ]
+  }
+]

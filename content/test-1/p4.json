@@ -1,0 +1,1638 @@
+[
+  {
+    "id": 71,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t1-p4-g1",
+    "audioScript": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "audioVoiceText": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "questionText": "What is the reason for the delay?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A mechanical failure"
+      },
+      {
+        "key": "B",
+        "text": "(B) Severe weather"
+      },
+      {
+        "key": "C",
+        "text": "(C) A shortage of crew members"
+      },
+      {
+        "key": "D",
+        "text": "(D) A strike by air traffic controllers"
+      }
+    ],
+    "correct": "B",
+    "translation": "Lý do của việc hoãn chuyến bay là gì? — (A) Một sự cố kỹ thuật (B) Thời tiết khắc nghiệt (C) Thiếu nhân viên tổ bay (D) Cuộc đình công của kiểm soát viên không lưu.",
+    "explanation": "Đáp án B. Người thông báo nói rõ: 'Due to heavy snowfall at the destination airport, your departure has been delayed' — tuyết rơi dày tại sân bay đến chính là thời tiết xấu. A sai vì bài không nhắc tới lỗi kỹ thuật (việc de-ice chỉ là quy trình bình thường khi trời tuyết). C sai vì không có thông tin về thiếu phi hành đoàn. D sai vì không hề nhắc đến đình công.",
+    "vocab": [
+      {
+        "word": "departure",
+        "pos": "n.",
+        "meaning": "sự khởi hành, chuyến khởi hành"
+      },
+      {
+        "word": "de-ice",
+        "pos": "v.",
+        "meaning": "khử băng (trên cánh máy bay)"
+      },
+      {
+        "word": "connecting flight",
+        "pos": "n.",
+        "meaning": "chuyến bay nối tiếp"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí, tặng kèm"
+      },
+      {
+        "word": "patience",
+        "pos": "n.",
+        "meaning": "sự kiên nhẫn"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t1-p4-g1",
+    "audioScript": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "audioVoiceText": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "questionText": "What should passengers with connecting flights do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Go to the service desk near Gate 9"
+      },
+      {
+        "key": "B",
+        "text": "(B) Board the aircraft at Gate 12 immediately"
+      },
+      {
+        "key": "C",
+        "text": "(C) Call the airline's head office"
+      },
+      {
+        "key": "D",
+        "text": "(D) Wait in the lounge until 3:45"
+      }
+    ],
+    "correct": "A",
+    "translation": "Hành khách có chuyến bay nối tiếp nên làm gì? — (A) Đến quầy dịch vụ gần cổng số 9 (B) Lên máy bay ở cổng 12 ngay lập tức (C) Gọi cho trụ sở hãng bay (D) Chờ ở phòng chờ đến 3:45.",
+    "explanation": "Đáp án A. Bài nói hướng dẫn: 'Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9'. B sai vì việc lên máy bay bắt đầu lúc 3:45 tại cổng 12, không phải 'ngay lập tức' và đây không phải chỉ dẫn dành riêng cho khách nối chuyến. C sai vì không có số điện thoại hay yêu cầu gọi trụ sở. D sai vì phòng chờ chỉ phục vụ cà phê, trà miễn phí.",
+    "vocab": [
+      {
+        "word": "representative",
+        "pos": "n.",
+        "meaning": "nhân viên đại diện"
+      },
+      {
+        "word": "rebook",
+        "pos": "v.",
+        "meaning": "đặt lại vé/chuyến"
+      },
+      {
+        "word": "at no charge",
+        "pos": "phrase",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "lounge",
+        "pos": "n.",
+        "meaning": "phòng chờ"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t1-p4-g1",
+    "audioScript": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "audioVoiceText": "Good afternoon, passengers traveling on Flight 482 to Vancouver. Due to heavy snowfall at the destination airport, your departure has been delayed by approximately ninety minutes. The aircraft is currently being de-iced at Gate 12, so boarding will begin at 3:45 p.m. instead of 2:15. Passengers with connecting flights in Vancouver should speak with a representative at the service desk near Gate 9, who will rebook you at no charge. Complimentary coffee and tea are available in the lounge next to Gate 12. We appreciate your patience and will provide another update at 3:30.",
+    "questionText": "What will happen at 3:30?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Boarding will close."
+      },
+      {
+        "key": "B",
+        "text": "(B) The aircraft will depart."
+      },
+      {
+        "key": "C",
+        "text": "(C) Another announcement will be made."
+      },
+      {
+        "key": "D",
+        "text": "(D) Refreshments will be served."
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì sẽ xảy ra lúc 3:30? — (A) Việc lên máy bay sẽ kết thúc (B) Máy bay sẽ khởi hành (C) Một thông báo khác sẽ được đưa ra (D) Đồ ăn nhẹ sẽ được phục vụ.",
+    "explanation": "Đáp án C. Câu cuối bài nói: 'we will provide another update at 3:30' — sẽ có thêm một bản cập nhật (tức thông báo mới) lúc 3:30. A sai vì không có mốc giờ đóng cửa boarding. B sai vì boarding bắt đầu lúc 3:45 nên máy bay không thể khởi hành lúc 3:30. D sai vì cà phê và trà đã có sẵn ở phòng chờ, không gắn với mốc 3:30.",
+    "vocab": [
+      {
+        "word": "boarding",
+        "pos": "n.",
+        "meaning": "việc lên máy bay"
+      },
+      {
+        "word": "update",
+        "pos": "n.",
+        "meaning": "bản cập nhật, thông tin mới"
+      },
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "meaning": "khoảng, xấp xỉ"
+      },
+      {
+        "word": "refreshments",
+        "pos": "n.",
+        "meaning": "đồ ăn nhẹ, nước uống"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t1-p4-g2",
+    "audioScript": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "audioVoiceText": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "questionText": "Why is the speaker calling?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To return a call about a furniture order"
+      },
+      {
+        "key": "B",
+        "text": "(B) To complain about a late delivery"
+      },
+      {
+        "key": "C",
+        "text": "(C) To cancel a trade show reservation"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request a renovation permit"
+      }
+    ],
+    "correct": "A",
+    "translation": "Vì sao người nói gọi điện? — (A) Để gọi lại về một đơn hàng nội thất (B) Để phàn nàn về giao hàng trễ (C) Để hủy đặt chỗ hội chợ thương mại (D) Để xin giấy phép cải tạo.",
+    "explanation": "Đáp án A. Ngay câu đầu: 'this is Priya from the procurement team returning your call about the office furniture order'. B sai vì chưa có giao hàng nào bị trễ — mới chỉ đang xem báo giá. C sai vì cô ấy sẽ đến hội chợ, không hủy. D sai vì không nhắc đến giấy phép, chỉ nói lịch cải tạo văn phòng.",
+    "vocab": [
+      {
+        "word": "procurement",
+        "pos": "n.",
+        "meaning": "việc mua sắm, thu mua"
+      },
+      {
+        "word": "quote",
+        "pos": "n.",
+        "meaning": "báo giá"
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      },
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "meaning": "sự cải tạo, sửa chữa"
+      },
+      {
+        "word": "trade show",
+        "pos": "n.",
+        "meaning": "hội chợ triển lãm thương mại"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t1-p4-g2",
+    "audioScript": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "audioVoiceText": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "questionText": "Why does the speaker prefer Harborline?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It offers the lowest price."
+      },
+      {
+        "key": "B",
+        "text": "(B) It can deliver much sooner."
+      },
+      {
+        "key": "C",
+        "text": "(C) It provides a longer warranty."
+      },
+      {
+        "key": "D",
+        "text": "(D) It has a showroom nearby."
+      }
+    ],
+    "correct": "B",
+    "translation": "Vì sao người nói thích Harborline? — (A) Vì giá thấp nhất (B) Vì giao hàng nhanh hơn nhiều (C) Vì bảo hành dài hơn (D) Vì có showroom gần đó.",
+    "explanation": "Đáp án B. Bài nói: 'their prices are about eight percent higher, but they can deliver in two weeks rather than six'. A sai rõ ràng vì giá của họ cao hơn 8%. C và D không hề được nhắc đến trong tin nhắn.",
+    "vocab": [
+      {
+        "word": "deliver",
+        "pos": "v.",
+        "meaning": "giao hàng"
+      },
+      {
+        "word": "rather than",
+        "pos": "phrase",
+        "meaning": "thay vì"
+      },
+      {
+        "word": "fit",
+        "pos": "v.",
+        "meaning": "phù hợp với"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch trình, tiến độ"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t1-p4-g2",
+    "audioScript": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "audioVoiceText": "Hi Daniel, this is Priya from the procurement team returning your call about the office furniture order. I have reviewed the quotes from the three suppliers you sent over, and I think we should go with Harborline. Their prices are about eight percent higher, but they can deliver in two weeks rather than six, which fits our renovation schedule much better. Could you confirm the exact number of desks we need by Thursday? I will be at the regional trade show until Wednesday, so email is probably better than calling. Thanks, and talk soon.",
+    "questionText": "What does the speaker ask Daniel to do by Thursday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Send new quotes to the suppliers"
+      },
+      {
+        "key": "B",
+        "text": "(B) Book a visit to the showroom"
+      },
+      {
+        "key": "C",
+        "text": "(C) Approve the renovation budget"
+      },
+      {
+        "key": "D",
+        "text": "(D) Confirm how many desks are needed"
+      }
+    ],
+    "correct": "D",
+    "translation": "Người nói yêu cầu Daniel làm gì trước thứ Năm? — (A) Gửi báo giá mới cho các nhà cung cấp (B) Đặt lịch tham quan showroom (C) Duyệt ngân sách cải tạo (D) Xác nhận số lượng bàn cần thiết.",
+    "explanation": "Đáp án D. Câu đề nghị: 'Could you confirm the exact number of desks we need by Thursday?' — xác nhận số bàn chính xác trước thứ Năm. A sai vì báo giá đã được gửi và Priya đã xem xong. B, C không được nhắc tới trong bài.",
+    "vocab": [
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "exact",
+        "pos": "adj.",
+        "meaning": "chính xác"
+      },
+      {
+        "word": "desk",
+        "pos": "n.",
+        "meaning": "bàn làm việc"
+      },
+      {
+        "word": "regional",
+        "pos": "adj.",
+        "meaning": "thuộc khu vực"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t1-p4-g3",
+    "audioScript": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "audioVoiceText": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "questionText": "What is being advertised?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A tax preparation office"
+      },
+      {
+        "key": "B",
+        "text": "(B) Bookkeeping software for small businesses"
+      },
+      {
+        "key": "C",
+        "text": "(C) A personal banking service"
+      },
+      {
+        "key": "D",
+        "text": "(D) A document delivery application"
+      }
+    ],
+    "correct": "B",
+    "translation": "Quảng cáo giới thiệu sản phẩm gì? — (A) Một văn phòng làm thuế (B) Phần mềm kế toán cho doanh nghiệp nhỏ (C) Dịch vụ ngân hàng cá nhân (D) Ứng dụng giao tài liệu.",
+    "explanation": "Đáp án B. Bài quảng cáo nói: 'LedgerPro, the bookkeeping app designed for small businesses' — ứng dụng ghi sổ kế toán dành cho doanh nghiệp nhỏ. A sai vì chỉ có buổi hướng dẫn với kế toán viên, không phải dịch vụ làm thuế. C sai vì ngân hàng chỉ được nhắc là nền tảng tích hợp. D sai vì không có dịch vụ giao tài liệu.",
+    "vocab": [
+      {
+        "word": "bookkeeping",
+        "pos": "n.",
+        "meaning": "công việc ghi sổ kế toán"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "meaning": "biên lai"
+      },
+      {
+        "word": "expense",
+        "pos": "n.",
+        "meaning": "chi phí, khoản chi"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t1-p4-g3",
+    "audioScript": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "audioVoiceText": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "questionText": "What is offered to customers who sign up before March 31?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A discount on computer equipment"
+      },
+      {
+        "key": "B",
+        "text": "(B) Three months free of charge"
+      },
+      {
+        "key": "C",
+        "text": "(C) Free tax filing for one year"
+      },
+      {
+        "key": "D",
+        "text": "(D) A gift card for the app store"
+      }
+    ],
+    "correct": "B",
+    "translation": "Khách hàng đăng ký trước 31 tháng 3 được ưu đãi gì? — (A) Giảm giá thiết bị máy tính (B) Miễn phí ba tháng (C) Miễn phí khai thuế một năm (D) Thẻ quà tặng cửa hàng ứng dụng.",
+    "explanation": "Đáp án B. Cụ thể: 'new customers who sign up before March 31 receive three months free and a complimentary onboarding session'. A sai vì không có ưu đãi thiết bị. C sai vì chỉ có buổi onboarding với kế toán viên chứ không phải khai thuế miễn phí. D sai vì không có thẻ quà tặng.",
+    "vocab": [
+      {
+        "word": "sign up",
+        "pos": "phr. v.",
+        "meaning": "đăng ký"
+      },
+      {
+        "word": "for a limited time",
+        "pos": "phrase",
+        "meaning": "trong thời gian có hạn"
+      },
+      {
+        "word": "onboarding",
+        "pos": "n.",
+        "meaning": "buổi hướng dẫn làm quen/khởi động"
+      },
+      {
+        "word": "certified",
+        "pos": "adj.",
+        "meaning": "được chứng nhận, có chứng chỉ"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t1-p4-g3",
+    "audioScript": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "audioVoiceText": "Are you tired of spending your weekends sorting invoices? LedgerPro, the bookkeeping app designed for small businesses, can help. Our software automatically scans receipts, categorizes expenses, and prepares monthly reports in minutes. For a limited time, new customers who sign up before March 31 receive three months free and a complimentary onboarding session with one of our certified accountants. LedgerPro works on any device and integrates with most banking platforms. Visit our website to start your free trial today. No credit card required.",
+    "questionText": "What is mentioned about the product?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It requires a credit card to start."
+      },
+      {
+        "key": "B",
+        "text": "(B) It is designed only for large firms."
+      },
+      {
+        "key": "C",
+        "text": "(C) It is sold only in retail stores."
+      },
+      {
+        "key": "D",
+        "text": "(D) It works with most banking platforms."
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì được nói về sản phẩm? — (A) Cần thẻ tín dụng để bắt đầu (B) Chỉ dành cho công ty lớn (C) Chỉ bán ở cửa hàng bán lẻ (D) Tương thích với hầu hết nền tảng ngân hàng.",
+    "explanation": "Đáp án D. Bài nói: 'LedgerPro works on any device and integrates with most banking platforms'. A sai vì cuối bài nói rõ 'No credit card required'. B sai vì sản phẩm 'designed for small businesses'. C sai vì khách được mời 'Visit our website', không bán tại cửa hàng.",
+    "vocab": [
+      {
+        "word": "integrate",
+        "pos": "v.",
+        "meaning": "tích hợp"
+      },
+      {
+        "word": "platform",
+        "pos": "n.",
+        "meaning": "nền tảng"
+      },
+      {
+        "word": "free trial",
+        "pos": "n.",
+        "meaning": "dùng thử miễn phí"
+      },
+      {
+        "word": "retail store",
+        "pos": "n.",
+        "meaning": "cửa hàng bán lẻ"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t1-p4-g4",
+    "audioScript": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "audioVoiceText": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "questionText": "What must workers wear beyond the yellow line?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Steel-toed boots only"
+      },
+      {
+        "key": "B",
+        "text": "(B) Ear protection"
+      },
+      {
+        "key": "C",
+        "text": "(C) High-visibility vests and safety goggles"
+      },
+      {
+        "key": "D",
+        "text": "(D) Company uniforms"
+      }
+    ],
+    "correct": "C",
+    "translation": "Người lao động phải mặc gì khi vượt qua vạch vàng? — (A) Chỉ giày mũi thép (B) Thiết bị bảo vệ tai (C) Áo phản quang và kính bảo hộ (D) Đồng phục công ty.",
+    "explanation": "Đáp án C. Bài nói: 'High-visibility vests and safety goggles must be worn at all times beyond the yellow line'. A, B, D đều không được nhắc đến trong bài — đây là các phương án gây nhiễu dựa trên kiến thức chung về an toàn lao động.",
+    "vocab": [
+      {
+        "word": "high-visibility vest",
+        "pos": "n.",
+        "meaning": "áo phản quang"
+      },
+      {
+        "word": "goggles",
+        "pos": "n.",
+        "meaning": "kính bảo hộ"
+      },
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      },
+      {
+        "word": "production floor",
+        "pos": "n.",
+        "meaning": "khu vực sản xuất"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t1-p4-g4",
+    "audioScript": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "audioVoiceText": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "questionText": "What should workers do if they see a spill?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Report it to their supervisor"
+      },
+      {
+        "key": "B",
+        "text": "(B) Clean it up themselves"
+      },
+      {
+        "key": "C",
+        "text": "(C) Ignore it until the end of the shift"
+      },
+      {
+        "key": "D",
+        "text": "(D) Call the fire department"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người lao động nên làm gì nếu thấy vũng tràn? — (A) Báo cho giám sát viên (B) Tự dọn dẹp (C) Bỏ qua đến cuối ca (D) Gọi cứu hỏa.",
+    "explanation": "Đáp án A. Bài nói: 'If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself'. B trái ngược hoàn toàn với 'rather than cleaning it yourself'. C sai vì phải báo 'immediately'. D sai vì chỉ gọi cứu hỏa khi có hỏa hoạn, bài chỉ nói về diễn tập lúc 10:15.",
+    "vocab": [
+      {
+        "word": "spill",
+        "pos": "n.",
+        "meaning": "chỗ chất lỏng bị tràn/đổ"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "người giám sát"
+      },
+      {
+        "word": "immediately",
+        "pos": "adv.",
+        "meaning": "ngay lập tức"
+      },
+      {
+        "word": "damaged pallet",
+        "pos": "n.",
+        "meaning": "pallet bị hư hỏng"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t1-p4-g4",
+    "audioScript": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "audioVoiceText": "Before you begin your shift on the production floor, please note the following safety rules. High-visibility vests and safety goggles must be worn at all times beyond the yellow line. Forklift traffic has the right of way, so always make eye contact with the driver before crossing an aisle. If you notice a spill or a damaged pallet, report it to your line supervisor immediately rather than cleaning it yourself. Emergency exits are located on the north and east walls, and the assembly point is the parking lot behind the loading dock. Today's fire drill starts at 10:15.",
+    "questionText": "Where is the assembly point?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Along the north wall"
+      },
+      {
+        "key": "B",
+        "text": "(B) In the loading dock office"
+      },
+      {
+        "key": "C",
+        "text": "(C) In the staff cafeteria"
+      },
+      {
+        "key": "D",
+        "text": "(D) In the parking lot behind the loading dock"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điểm tập trung nằm ở đâu? — (A) Dọc bức tường phía bắc (B) Trong văn phòng bốc xếp (C) Trong căng tin nhân viên (D) Ở bãi đỗ xe phía sau khu bốc xếp.",
+    "explanation": "Đáp án D. Bài nói: 'the assembly point is the parking lot behind the loading dock'. A sai vì bức tường phía bắc là vị trí cửa thoát hiểm, không phải điểm tập trung. B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "assembly point",
+        "pos": "n.",
+        "meaning": "điểm tập trung"
+      },
+      {
+        "word": "emergency exit",
+        "pos": "n.",
+        "meaning": "cửa thoát hiểm"
+      },
+      {
+        "word": "loading dock",
+        "pos": "n.",
+        "meaning": "khu bốc xếp hàng"
+      },
+      {
+        "word": "fire drill",
+        "pos": "n.",
+        "meaning": "diễn tập phòng cháy chữa cháy"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t1-p4-g5",
+    "audioScript": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "audioVoiceText": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "questionText": "What was the total revenue in the third quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) 4.2 million dollars"
+      },
+      {
+        "key": "B",
+        "text": "(B) 3.8 million dollars"
+      },
+      {
+        "key": "C",
+        "text": "(C) 11 million dollars"
+      },
+      {
+        "key": "D",
+        "text": "(D) 4.9 million dollars"
+      }
+    ],
+    "correct": "A",
+    "translation": "Tổng doanh thu quý ba là bao nhiêu? — (A) 4,2 triệu đô la (B) 3,8 triệu đô la (C) 11 triệu đô la (D) 4,9 triệu đô la.",
+    "explanation": "Đáp án A. Bài báo cáo: 'total revenue reached 4.2 million dollars'. C là bẫy vì con số 11 xuất hiện trong 'up eleven percent' (tăng 11 phần trăm), không phải doanh thu. B và D là số liệu bịa ra, không có trong bài.",
+    "vocab": [
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "meaning": "doanh thu"
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "meaning": "quý (ba tháng)"
+      },
+      {
+        "word": "account for",
+        "pos": "phr. v.",
+        "meaning": "chiếm (tỷ lệ)"
+      },
+      {
+        "word": "operating costs",
+        "pos": "n.",
+        "meaning": "chi phí vận hành"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t1-p4-g5",
+    "audioScript": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "audioVoiceText": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "questionText": "What helped keep the increase in operating costs small?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lower salaries for new staff"
+      },
+      {
+        "key": "B",
+        "text": "(B) Cheaper raw materials"
+      },
+      {
+        "key": "C",
+        "text": "(C) The automated warehouse in Dayton"
+      },
+      {
+        "key": "D",
+        "text": "(D) A reduction in the workforce"
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì giúp mức tăng chi phí vận hành ở mức thấp? — (A) Lương thấp hơn cho nhân viên mới (B) Nguyên liệu thô rẻ hơn (C) Nhà kho tự động ở Dayton (D) Việc cắt giảm nhân sự.",
+    "explanation": "Đáp án C. Bài nói: 'Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton' — nhờ nhà kho tự động hóa. A, B, D đều không được nhắc đến; đây là các lý do nghe hợp lý nhưng không có trong bài.",
+    "vocab": [
+      {
+        "word": "automated",
+        "pos": "adj.",
+        "meaning": "được tự động hóa"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n.",
+        "meaning": "nhà kho"
+      },
+      {
+        "word": "workforce",
+        "pos": "n.",
+        "meaning": "lực lượng lao động"
+      },
+      {
+        "word": "raw materials",
+        "pos": "n.",
+        "meaning": "nguyên liệu thô"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t1-p4-g5",
+    "audioScript": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "audioVoiceText": "Turning to the third-quarter results, total revenue reached 4.2 million dollars, up eleven percent from the same period last year. Growth was driven mainly by our online sales channel, which now accounts for nearly half of all orders. Operating costs rose by only three percent, thanks to the new automated warehouse in Dayton. However, our European division continued to struggle, with sales falling for a second consecutive quarter. For the coming quarter, we plan to reduce marketing spending in Europe and redirect those funds toward product development here at home.",
+    "questionText": "What does the company plan to do in the next quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Close the Dayton facility"
+      },
+      {
+        "key": "B",
+        "text": "(B) Hire more staff in Europe"
+      },
+      {
+        "key": "C",
+        "text": "(C) Launch a new online store"
+      },
+      {
+        "key": "D",
+        "text": "(D) Cut marketing spending in Europe"
+      }
+    ],
+    "correct": "D",
+    "translation": "Công ty dự định làm gì trong quý tới? — (A) Đóng cơ sở ở Dayton (B) Tuyển thêm nhân viên ở châu Âu (C) Ra mắt cửa hàng trực tuyến mới (D) Cắt giảm chi phí tiếp thị ở châu Âu.",
+    "explanation": "Đáp án D. Bài nói: 'we plan to reduce marketing spending in Europe and redirect those funds toward product development'. A sai vì Dayton là cơ sở mới giúp giảm chi phí, không bị đóng. B ngược lại vì bộ phận châu Âu đang làm ăn kém. C sai vì kênh bán hàng trực tuyến đã tồn tại.",
+    "vocab": [
+      {
+        "word": "redirect",
+        "pos": "v.",
+        "meaning": "chuyển hướng, tái phân bổ"
+      },
+      {
+        "word": "marketing spending",
+        "pos": "n.",
+        "meaning": "chi tiêu tiếp thị"
+      },
+      {
+        "word": "division",
+        "pos": "n.",
+        "meaning": "bộ phận, chi nhánh"
+      },
+      {
+        "word": "consecutive",
+        "pos": "adj.",
+        "meaning": "liên tiếp"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t1-p4-g6",
+    "audioScript": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "audioVoiceText": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "questionText": "Where will the expo take place?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) At the company headquarters"
+      },
+      {
+        "key": "B",
+        "text": "(B) At the Riverside Convention Center"
+      },
+      {
+        "key": "C",
+        "text": "(C) At a hotel downtown"
+      },
+      {
+        "key": "D",
+        "text": "(D) At the main hall of the Northside campus"
+      }
+    ],
+    "correct": "B",
+    "translation": "Hội chợ sẽ diễn ra ở đâu? — (A) Tại trụ sở công ty (B) Tại Trung tâm Hội nghị Riverside (C) Tại một khách sạn trung tâm (D) Tại sảnh chính của khu Northside.",
+    "explanation": "Đáp án B. Bài nói: 'will be held on June 12 at the Riverside Convention Center'. D là bẫy vì 'main hall' chỉ là nơi phục vụ bữa trưa, không phải địa điểm tổ chức. A và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "expo",
+        "pos": "n.",
+        "meaning": "hội chợ triển lãm"
+      },
+      {
+        "word": "convention center",
+        "pos": "n.",
+        "meaning": "trung tâm hội nghị"
+      },
+      {
+        "word": "register",
+        "pos": "v.",
+        "meaning": "đăng ký"
+      },
+      {
+        "word": "keynote address",
+        "pos": "n.",
+        "meaning": "bài phát biểu chính"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t1-p4-g6",
+    "audioScript": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "audioVoiceText": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "questionText": "What is new at this year's event?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A keynote address"
+      },
+      {
+        "key": "B",
+        "text": "(B) A free lunch for visitors"
+      },
+      {
+        "key": "C",
+        "text": "(C) An evening reception"
+      },
+      {
+        "key": "D",
+        "text": "(D) Workshops on digital marketing and supply chains"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì mới tại sự kiện năm nay? — (A) Bài phát biểu chính (B) Bữa trưa miễn phí cho khách (C) Tiệc chiêu đãi buổi tối (D) Các buổi hội thảo về tiếp thị số và chuỗi cung ứng.",
+    "explanation": "Đáp án D. Bài nói: 'this year we have added a series of workshops on digital marketing and supply chain management' — cụm 'have added' chỉ ra điểm mới. A và B là hoạt động thường lệ, không phải điểm mới. C hoàn toàn không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi hội thảo, lớp thực hành"
+      },
+      {
+        "word": "supply chain",
+        "pos": "n.",
+        "meaning": "chuỗi cung ứng"
+      },
+      {
+        "word": "digital marketing",
+        "pos": "n.",
+        "meaning": "tiếp thị số"
+      },
+      {
+        "word": "reception",
+        "pos": "n.",
+        "meaning": "tiệc chiêu đãi"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t1-p4-g6",
+    "audioScript": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "audioVoiceText": "Good morning, everyone. I am pleased to announce that this year's Northside Business Expo will be held on June 12 at the Riverside Convention Center. More than eighty companies have already registered, and this year we have added a series of workshops on digital marketing and supply chain management. Registration opens at eight o'clock, and the keynote address by Dr. Lena Ortiz begins at nine sharp. Lunch will be provided in the main hall, and the exhibition floor stays open until six. Employees who wish to attend should request approval from their department manager by May 30.",
+    "questionText": "What must employees do by May 30?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Obtain their manager's approval"
+      },
+      {
+        "key": "B",
+        "text": "(B) Register on the expo website"
+      },
+      {
+        "key": "C",
+        "text": "(C) Pay a registration fee"
+      },
+      {
+        "key": "D",
+        "text": "(D) Reserve a parking space"
+      }
+    ],
+    "correct": "A",
+    "translation": "Nhân viên phải làm gì trước ngày 30 tháng 5? — (A) Xin sự chấp thuận của quản lý (B) Đăng ký trên trang web hội chợ (C) Trả phí đăng ký (D) Đặt chỗ đỗ xe.",
+    "explanation": "Đáp án A. Bài nói: 'Employees who wish to attend should request approval from their department manager by May 30'. B sai vì việc đăng ký do công ty/hội chợ thực hiện, không phải yêu cầu với nhân viên. C và D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "request approval",
+        "pos": "phrase",
+        "meaning": "xin phê duyệt"
+      },
+      {
+        "word": "department manager",
+        "pos": "n.",
+        "meaning": "trưởng bộ phận"
+      },
+      {
+        "word": "exhibition floor",
+        "pos": "n.",
+        "meaning": "khu trưng bày"
+      },
+      {
+        "word": "attend",
+        "pos": "v.",
+        "meaning": "tham dự"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t1-p4-g7",
+    "audioScript": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "audioVoiceText": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "questionText": "What is the purpose of the talk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce job openings at a new facility"
+      },
+      {
+        "key": "B",
+        "text": "(B) To describe a two-week training program only"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain a delay in warehouse deliveries"
+      },
+      {
+        "key": "D",
+        "text": "(D) To welcome a newly hired manager"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của bài nói là gì? — (A) Thông báo vị trí tuyển dụng tại một cơ sở mới (B) Chỉ để mô tả chương trình đào tạo hai tuần (C) Để giải thích việc giao hàng ở kho bị trễ (D) Để chào mừng một quản lý mới được tuyển.",
+    "explanation": "Đáp án A. Bài nói mở đầu bằng việc mở trung tâm phân phối thứ hai và 'we need to fill roughly forty positions' — thông báo tuyển dụng. B sai vì đào tạo chỉ là một chi tiết. C sai vì không có giao hàng trễ. D sai vì không có quản lý mới nào được giới thiệu.",
+    "vocab": [
+      {
+        "word": "distribution center",
+        "pos": "n.",
+        "meaning": "trung tâm phân phối"
+      },
+      {
+        "word": "fill a position",
+        "pos": "phrase",
+        "meaning": "tuyển người vào một vị trí"
+      },
+      {
+        "word": "warehouse associate",
+        "pos": "n.",
+        "meaning": "nhân viên kho"
+      },
+      {
+        "word": "logistics coordinator",
+        "pos": "n.",
+        "meaning": "điều phối viên hậu cần"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t1-p4-g7",
+    "audioScript": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "audioVoiceText": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "questionText": "According to the speaker, what is most important in an applicant?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Previous experience in a warehouse"
+      },
+      {
+        "key": "B",
+        "text": "(B) A college degree"
+      },
+      {
+        "key": "C",
+        "text": "(C) Flexible working hours"
+      },
+      {
+        "key": "D",
+        "text": "(D) Reliability and a willingness to learn"
+      }
+    ],
+    "correct": "D",
+    "translation": "Theo người nói, điều gì quan trọng nhất ở ứng viên? — (A) Kinh nghiệm làm kho trước đây (B) Bằng đại học (C) Giờ làm việc linh hoạt (D) Sự đáng tin cậy và tinh thần ham học hỏi.",
+    "explanation": "Đáp án D. Bài nói: 'What matters most to us is reliability and a willingness to learn' — chính là sự đáng tin cậy và ham học hỏi. A sai vì 'Experience is welcome but not required'. B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "reliability",
+        "pos": "n.",
+        "meaning": "sự đáng tin cậy"
+      },
+      {
+        "word": "willingness",
+        "pos": "n.",
+        "meaning": "sự sẵn lòng"
+      },
+      {
+        "word": "applicant",
+        "pos": "n.",
+        "meaning": "ứng viên"
+      },
+      {
+        "word": "new hire",
+        "pos": "n.",
+        "meaning": "nhân viên mới"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t1-p4-g7",
+    "audioScript": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "audioVoiceText": "Thank you for coming to today's session. As you know, we are opening a second distribution center in Riverside next month, and we need to fill roughly forty positions, including warehouse associates, shift supervisors, and two logistics coordinators. Experience is welcome but not required, since all new hires will complete a two-week paid training program. What matters most to us is reliability and a willingness to learn. Applications are being accepted online through Friday, and interviews will be scheduled the following week. If you have friends or family who might be interested, please encourage them to apply.",
+    "questionText": "What will happen next week?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The distribution center will open."
+      },
+      {
+        "key": "B",
+        "text": "(B) Interviews will take place."
+      },
+      {
+        "key": "C",
+        "text": "(C) Training will begin for new hires."
+      },
+      {
+        "key": "D",
+        "text": "(D) Online applications will close."
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì sẽ diễn ra vào tuần sau? — (A) Trung tâm phân phối sẽ khai trương (B) Các buổi phỏng vấn sẽ diễn ra (C) Đào tạo sẽ bắt đầu cho nhân viên mới (D) Đơn ứng tuyển trực tuyến sẽ đóng.",
+    "explanation": "Đáp án B. Bài nói: 'Applications are being accepted online through Friday, and interviews will be scheduled the following week'. A sai vì trung tâm mở 'next month'. C sai vì đào tạo hai tuần diễn ra sau khi được tuyển. D sai vì hạn nộp là thứ Sáu tuần này.",
+    "vocab": [
+      {
+        "word": "schedule",
+        "pos": "v.",
+        "meaning": "lên lịch"
+      },
+      {
+        "word": "application",
+        "pos": "n.",
+        "meaning": "đơn ứng tuyển"
+      },
+      {
+        "word": "encourage",
+        "pos": "v.",
+        "meaning": "khuyến khích"
+      },
+      {
+        "word": "roughly",
+        "pos": "adv.",
+        "meaning": "khoảng chừng"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t1-p4-g8",
+    "audioScript": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "audioVoiceText": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "questionText": "What is expected overnight?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Strong winds and heavy rain"
+      },
+      {
+        "key": "B",
+        "text": "(B) Light snow"
+      },
+      {
+        "key": "C",
+        "text": "(C) Dense fog"
+      },
+      {
+        "key": "D",
+        "text": "(D) Extremely high temperatures"
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì được dự báo trong đêm? — (A) Gió mạnh và mưa lớn (B) Tuyết nhẹ (C) Sương mù dày (D) Nhiệt độ rất cao.",
+    "explanation": "Đáp án A. Bản tin: 'expected to bring winds of up to seventy kilometers per hour and heavy rain overnight'. B, C, D đều không được nhắc đến — đây là các hiện tượng thời tiết gây nhiễu.",
+    "vocab": [
+      {
+        "word": "advisory",
+        "pos": "n.",
+        "meaning": "bản tin cảnh báo"
+      },
+      {
+        "word": "low-lying",
+        "pos": "adj.",
+        "meaning": "thấp, trũng"
+      },
+      {
+        "word": "flooding",
+        "pos": "n.",
+        "meaning": "ngập lụt"
+      },
+      {
+        "word": "suspend",
+        "pos": "v.",
+        "meaning": "tạm ngưng"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t1-p4-g8",
+    "audioScript": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "audioVoiceText": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "questionText": "What are residents in low-lying areas advised to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Evacuate the region immediately"
+      },
+      {
+        "key": "B",
+        "text": "(B) Move valuable items to higher floors"
+      },
+      {
+        "key": "C",
+        "text": "(C) Close their businesses for a week"
+      },
+      {
+        "key": "D",
+        "text": "(D) Avoid drinking tap water"
+      }
+    ],
+    "correct": "B",
+    "translation": "Cư dân vùng trũng được khuyên làm gì? — (A) Sơ tán khỏi khu vực ngay lập tức (B) Chuyển đồ có giá trị lên tầng cao hơn (C) Đóng cửa hàng một tuần (D) Không uống nước máy.",
+    "explanation": "Đáp án B. Bản tin: 'Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors'. A sai vì không có lệnh sơ tán. C sai vì không nhắc đến việc đóng cửa. D sai vì không có cảnh báo về nước sinh hoạt.",
+    "vocab": [
+      {
+        "word": "resident",
+        "pos": "n.",
+        "meaning": "cư dân"
+      },
+      {
+        "word": "valuable",
+        "pos": "adj.",
+        "meaning": "có giá trị"
+      },
+      {
+        "word": "advise",
+        "pos": "v.",
+        "meaning": "khuyên"
+      },
+      {
+        "word": "evacuate",
+        "pos": "v.",
+        "meaning": "sơ tán"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t1-p4-g8",
+    "audioScript": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "audioVoiceText": "This is a weather advisory for the Coastal Region, effective until Thursday evening. A strong storm system moving in from the northwest is expected to bring winds of up to seventy kilometers per hour and heavy rain overnight. Residents in low-lying areas should prepare for possible flooding and are advised to move valuable items to higher floors. Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow. If you must travel, allow extra time and avoid coastal roads. We will issue the next update at noon tomorrow.",
+    "questionText": "What will be suspended starting at six p.m. tomorrow?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Coastal roads"
+      },
+      {
+        "key": "B",
+        "text": "(B) Local schools"
+      },
+      {
+        "key": "C",
+        "text": "(C) Ferry services"
+      },
+      {
+        "key": "D",
+        "text": "(D) Regional flights"
+      }
+    ],
+    "correct": "C",
+    "translation": "Dịch vụ nào sẽ bị tạm ngưng từ 6 giờ chiều mai? — (A) Các tuyến đường ven biển (B) Trường học địa phương (C) Dịch vụ phà (D) Các chuyến bay trong khu vực.",
+    "explanation": "Đáp án C. Bản tin: 'Ferry services between Harbor Island and the mainland will be suspended from six p.m. tomorrow'. A sai vì đường ven biển chỉ được khuyên tránh, không bị chặn. B và D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "ferry",
+        "pos": "n.",
+        "meaning": "phà"
+      },
+      {
+        "word": "mainland",
+        "pos": "n.",
+        "meaning": "đất liền"
+      },
+      {
+        "word": "issue",
+        "pos": "v.",
+        "meaning": "phát hành, đưa ra"
+      },
+      {
+        "word": "allow extra time",
+        "pos": "phrase",
+        "meaning": "dành thêm thời gian"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following talk and store directory:",
+    "audioGroup": "t1-p4-g9",
+    "audioScript": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "audioVoiceText": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "questionText": "What is the occasion for the talk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The approval of a renovation permit"
+      },
+      {
+        "key": "B",
+        "text": "(B) The grand opening of a store"
+      },
+      {
+        "key": "C",
+        "text": "(C) The retirement of a longtime employee"
+      },
+      {
+        "key": "D",
+        "text": "(D) The launch of a new product line"
+      }
+    ],
+    "correct": "B",
+    "translation": "Dịp diễn ra bài nói là gì? — (A) Việc phê duyệt giấy phép cải tạo (B) Lễ khai trương cửa hàng (C) Lễ nghỉ hưu của một nhân viên lâu năm (D) Ra mắt dòng sản phẩm mới.",
+    "explanation": "Đáp án B. Bài nói: 'After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open' — khai trương chi nhánh mới. A sai vì cải tạo đã hoàn tất, không phải đang xin phép. C, D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "branch",
+        "pos": "n.",
+        "meaning": "chi nhánh"
+      },
+      {
+        "word": "officially",
+        "pos": "adv.",
+        "meaning": "một cách chính thức"
+      },
+      {
+        "word": "hardware",
+        "pos": "n.",
+        "meaning": "đồ kim khí, dụng cụ (cửa hàng)"
+      },
+      {
+        "word": "grand opening",
+        "pos": "n.",
+        "meaning": "lễ khai trương"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Greenfield Hardware — Willow Creek Branch Grand Opening</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Store Section</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Opening Weekend Promotion (Through Sunday)</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Entrance</td>\n                            <td class=\"border border-neutral-800 p-2\">Free reusable shopping bag (First 100 customers)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Paint &amp; Garden Center</td>\n                            <td class=\"border border-neutral-800 p-2\">20% off all paint and gardening supplies</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Tool Rental Counter &amp; Café</td>\n                            <td class=\"border border-neutral-800 p-2\">Expanded floor area (2x previous store size)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 96,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following talk and store directory:",
+    "audioGroup": "t1-p4-g9",
+    "audioScript": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "audioVoiceText": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "questionText": "Which items are on sale?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Power tools"
+      },
+      {
+        "key": "B",
+        "text": "(B) Cafe drinks"
+      },
+      {
+        "key": "C",
+        "text": "(C) Paint and gardening supplies"
+      },
+      {
+        "key": "D",
+        "text": "(D) Reusable shopping bags"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mặt hàng nào đang được giảm giá? — (A) Dụng cụ điện (B) Đồ uống ở quán cà phê (C) Sơn và vật tư làm vườn (D) Túi mua sắm tái sử dụng.",
+    "explanation": "Đáp án C. Bài nói: 'we are offering twenty percent off all paint and gardening supplies through Sunday'. A sai vì chỉ có 'tool rental counter' (quầy cho thuê dụng cụ), không nói giảm giá. B sai vì quán cà phê chỉ được nhắc là tiện ích. D sai vì túi là quà tặng, không phải hàng giảm giá.",
+    "vocab": [
+      {
+        "word": "twenty percent off",
+        "pos": "phrase",
+        "meaning": "giảm giá 20%"
+      },
+      {
+        "word": "gardening supplies",
+        "pos": "n.",
+        "meaning": "vật tư làm vườn"
+      },
+      {
+        "word": "rental counter",
+        "pos": "n.",
+        "meaning": "quầy cho thuê"
+      },
+      {
+        "word": "on sale",
+        "pos": "phrase",
+        "meaning": "đang được giảm giá"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Greenfield Hardware — Willow Creek Branch Grand Opening</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Store Section</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Opening Weekend Promotion (Through Sunday)</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Entrance</td>\n                            <td class=\"border border-neutral-800 p-2\">Free reusable shopping bag (First 100 customers)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Paint &amp; Garden Center</td>\n                            <td class=\"border border-neutral-800 p-2\">20% off all paint and gardening supplies</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Tool Rental Counter &amp; Café</td>\n                            <td class=\"border border-neutral-800 p-2\">Expanded floor area (2x previous store size)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 97,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following talk and store directory:",
+    "audioGroup": "t1-p4-g9",
+    "audioScript": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "audioVoiceText": "Welcome, everyone, and thank you for joining us on this special day. After six months of renovation, the Willow Creek branch of Greenfield Hardware is officially open. Our new store is nearly twice the size of the old one and includes a garden center, a tool rental counter, and a cafe. To celebrate, we are offering twenty percent off all paint and gardening supplies through Sunday. The first hundred customers will also receive a reusable shopping bag. I would like to thank our staff, who worked incredibly hard, and welcome our first shoppers.",
+    "questionText": "What will the first hundred customers receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A reusable shopping bag"
+      },
+      {
+        "key": "B",
+        "text": "(B) A free cup of coffee"
+      },
+      {
+        "key": "C",
+        "text": "(C) A discount card"
+      },
+      {
+        "key": "D",
+        "text": "(D) A small gardening tool"
+      }
+    ],
+    "correct": "A",
+    "translation": "100 khách hàng đầu tiên sẽ nhận được gì? — (A) Một chiếc túi mua sắm tái sử dụng (B) Một ly cà phê miễn phí (C) Một thẻ giảm giá (D) Một dụng cụ làm vườn nhỏ.",
+    "explanation": "Đáp án A. Bài nói: 'The first hundred customers will also receive a reusable shopping bag'. B sai vì chỉ có quán cà phê trong cửa hàng, không nói tặng cà phê. C, D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "reusable",
+        "pos": "adj.",
+        "meaning": "có thể tái sử dụng"
+      },
+      {
+        "word": "customer",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      },
+      {
+        "word": "incredibly",
+        "pos": "adv.",
+        "meaning": "vô cùng, cực kỳ"
+      },
+      {
+        "word": "staff",
+        "pos": "n.",
+        "meaning": "đội ngũ nhân viên"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Greenfield Hardware — Willow Creek Branch Grand Opening</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Store Section</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Opening Weekend Promotion (Through Sunday)</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Entrance</td>\n                            <td class=\"border border-neutral-800 p-2\">Free reusable shopping bag (First 100 customers)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Paint &amp; Garden Center</td>\n                            <td class=\"border border-neutral-800 p-2\">20% off all paint and gardening supplies</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Tool Rental Counter &amp; Café</td>\n                            <td class=\"border border-neutral-800 p-2\">Expanded floor area (2x previous store size)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 98,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and training schedule:",
+    "audioGroup": "t1-p4-g10",
+    "audioScript": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "audioVoiceText": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "questionText": "What is the main purpose of the talk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To give new employees a building tour"
+      },
+      {
+        "key": "B",
+        "text": "(B) To explain a change in the refund policy"
+      },
+      {
+        "key": "C",
+        "text": "(C) To welcome participants to a training program"
+      },
+      {
+        "key": "D",
+        "text": "(D) To announce that a computer system has failed"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của bài nói là gì? — (A) Đưa nhân viên mới đi tham quan tòa nhà (B) Giải thích thay đổi trong chính sách hoàn tiền (C) Chào mừng học viên đến chương trình đào tạo (D) Thông báo hệ thống máy tính bị lỗi.",
+    "explanation": "Đáp án C. Câu mở đầu: 'Welcome to the first day of our customer service training'. A sai vì không có hoạt động tham quan. B sai vì 'process returns' là nội dung đào tạo, không phải chính sách hoàn tiền mới. D sai vì hệ thống mới sẽ 'goes live next Monday', không phải bị lỗi.",
+    "vocab": [
+      {
+        "word": "handle complaints",
+        "pos": "phrase",
+        "meaning": "xử lý khiếu nại"
+      },
+      {
+        "word": "process returns",
+        "pos": "phrase",
+        "meaning": "xử lý hàng trả lại"
+      },
+      {
+        "word": "ticketing system",
+        "pos": "n.",
+        "meaning": "hệ thống quản lý yêu cầu hỗ trợ"
+      },
+      {
+        "word": "hands-on practice",
+        "pos": "n.",
+        "meaning": "thực hành trực tiếp"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Training Schedule (3-Day Program)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Day</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Training Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Item / Note</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 1 (Wed.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Handling Customer Complaints</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop (50% hands-on practice)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 2 (Thu.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Processing Returns &amp; Exchanges</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 3 (Fri.)</td>\n                            <td class=\"border border-neutral-800 p-2\">New Ticketing System &amp; Final Assessment</td>\n                            <td class=\"border border-neutral-800 p-2\">Minimum 80% score required for system access</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 99,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and training schedule:",
+    "audioGroup": "t1-p4-g10",
+    "audioScript": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "audioVoiceText": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "questionText": "What are participants asked to bring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A printed manual"
+      },
+      {
+        "key": "B",
+        "text": "(B) A company identification card"
+      },
+      {
+        "key": "C",
+        "text": "(C) Their laptops"
+      },
+      {
+        "key": "D",
+        "text": "(D) A completed assessment form"
+      }
+    ],
+    "correct": "C",
+    "translation": "Học viên được yêu cầu mang theo gì? — (A) Sách hướng dẫn bản in (B) Thẻ nhân viên công ty (C) Máy tính xách tay (D) Phiếu đánh giá đã hoàn thành.",
+    "explanation": "Đáp án C. Bài nói: 'Please bring your laptop to every session, as about half of each workshop is hands-on practice'. A sai vì sách in đã có sẵn ở cuối phòng. B không được nhắc. D sai vì bài đánh giá diễn ra vào chiều thứ Sáu, chưa cần mang theo.",
+    "vocab": [
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, phiên làm việc"
+      },
+      {
+        "word": "assessment",
+        "pos": "n.",
+        "meaning": "bài đánh giá, kiểm tra"
+      },
+      {
+        "word": "printed manual",
+        "pos": "n.",
+        "meaning": "sách hướng dẫn bản in"
+      },
+      {
+        "word": "participant",
+        "pos": "n.",
+        "meaning": "người tham gia"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Training Schedule (3-Day Program)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Day</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Training Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Item / Note</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 1 (Wed.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Handling Customer Complaints</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop (50% hands-on practice)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 2 (Thu.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Processing Returns &amp; Exchanges</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 3 (Fri.)</td>\n                            <td class=\"border border-neutral-800 p-2\">New Ticketing System &amp; Final Assessment</td>\n                            <td class=\"border border-neutral-800 p-2\">Minimum 80% score required for system access</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 100,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and training schedule:",
+    "audioGroup": "t1-p4-g10",
+    "audioScript": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "audioVoiceText": "Welcome to the first day of our customer service training. Over the next three days, we will cover how to handle complaints, how to process returns, and how to use the new ticketing system that goes live next Monday. Please bring your laptop to every session, as about half of each workshop is hands-on practice. On Friday afternoon, you will take a short assessment; a score of eighty percent or higher is required to access the new system. Printed manuals are available at the back of the room, but the digital version is updated more often.",
+    "questionText": "What is required in order to access the new system?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A manager's written approval"
+      },
+      {
+        "key": "B",
+        "text": "(B) Attendance at all three sessions"
+      },
+      {
+        "key": "C",
+        "text": "(C) A new password from the IT team"
+      },
+      {
+        "key": "D",
+        "text": "(D) A score of at least eighty percent"
+      }
+    ],
+    "correct": "D",
+    "translation": "Cần điều kiện gì để được truy cập hệ thống mới? — (A) Sự phê duyệt bằng văn bản của quản lý (B) Tham dự đủ cả ba buổi (C) Mật khẩu mới từ bộ phận CNTT (D) Điểm tối thiểu 80 phần trăm.",
+    "explanation": "Đáp án D. Bài nói: 'a score of eighty percent or higher is required to access the new system'. A, B, C đều không được nhắc đến trong bài; đây là các điều kiện nghe có vẻ hợp lý nhưng không có trong nội dung.",
+    "vocab": [
+      {
+        "word": "access",
+        "pos": "v.",
+        "meaning": "truy cập"
+      },
+      {
+        "word": "require",
+        "pos": "v.",
+        "meaning": "yêu cầu, đòi hỏi"
+      },
+      {
+        "word": "score",
+        "pos": "n.",
+        "meaning": "điểm số"
+      },
+      {
+        "word": "go live",
+        "pos": "phrase",
+        "meaning": "chính thức đi vào hoạt động"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Training Schedule (3-Day Program)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Day</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Training Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Item / Note</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 1 (Wed.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Handling Customer Complaints</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop (50% hands-on practice)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 2 (Thu.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Processing Returns &amp; Exchanges</td>\n                            <td class=\"border border-neutral-800 p-2\">Bring laptop</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Day 3 (Fri.)</td>\n                            <td class=\"border border-neutral-800 p-2\">New Ticketing System &amp; Final Assessment</td>\n                            <td class=\"border border-neutral-800 p-2\">Minimum 80% score required for system access</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  }
+]

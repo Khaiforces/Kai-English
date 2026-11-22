@@ -1,0 +1,787 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Sales Staff<br>From: Daniel Reyes, Sales Director<br>Date: May 6<br>Subject: Visit from Halston Foods</p><p class=\"mt-2\">The Halston Foods buying team will visit our office on Friday, May 15, to discuss a possible annual supply contract. They have asked to see our production line as well as our packaging samples.</p><p class=\"mt-2\">Please make sure the sample room is tidy by Wednesday afternoon. I also need two people to help set up the meeting room on Wednesday at 3 p.m.</p><p class=\"mt-2\">Lunch will be provided for the visitors and the staff who take part. If you can help, reply to me by Tuesday, May 12.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To ask staff to prepare for a client visit",
+          "To announce a change in office hours",
+          "To introduce a new sales director",
+          "To request feedback on a contract"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của email là gì? — Để đề nghị nhân viên chuẩn bị cho chuyến thăm của khách hàng.",
+        "explanation": "Người viết nhờ nhân viên dọn phòng mẫu, sắp xếp phòng họp và đăng ký hỗ trợ cho buổi tiếp đoàn mua hàng của Halston Foods.",
+        "vocab": [
+          [
+            "purpose",
+            "n",
+            "mục đích"
+          ],
+          [
+            "contract",
+            "n",
+            "hợp đồng"
+          ]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "What are employees asked to do by May 12?",
+        "options": [
+          "Finish the packaging samples",
+          "Reply to confirm they can help",
+          "Reserve a meeting room",
+          "Order lunch for the visitors"
+        ],
+        "answer": "B",
+        "translation": "Nhân viên được đề nghị làm gì trước ngày 12 tháng 5? — Trả lời để xác nhận có thể giúp hay không.",
+        "explanation": "Câu cuối ghi rõ: nếu có thể giúp thì trả lời cho người viết trước thứ Hai, ngày 12 tháng 5.",
+        "vocab": [
+          [
+            "confirm",
+            "v",
+            "xác nhận"
+          ],
+          [
+            "staff",
+            "n",
+            "nhân viên"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE</p><p class=\"font-bold text-center\">Water Service Interruption</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">October 3, 8 a.m. - 1 p.m.</p><p class=\"mt-2\">Maintenance crews will repair a broken pipe in the basement. Water will be shut off to the entire building during this work.</p><p class=\"mt-2\">Restrooms on the ground floor will remain available because they are connected to a separate water line. Bottled water will be placed in the break room on each floor.</p><p class=\"mt-2\">The cafeteria will close at 8 a.m. and will reopen at 1:30 p.m. We apologize for the inconvenience.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "What will happen on October 3?",
+        "options": [
+          "The building will be closed all day.",
+          "Water will be shut off for several hours.",
+          "The basement will be repainted.",
+          "New pipes will be delivered."
+        ],
+        "answer": "B",
+        "translation": "Điều gì sẽ xảy ra vào ngày 3 tháng 10? — Nước sẽ bị ngắt trong vài giờ.",
+        "explanation": "Thông báo nêu rõ nước sẽ bị ngắt cho toàn bộ tòa nhà từ 8 giờ sáng đến 1 giờ chiều để sửa đường ống bị hỏng.",
+        "vocab": [
+          [
+            "pipe",
+            "n",
+            "đường ống"
+          ],
+          [
+            "shut off",
+            "phr",
+            "ngắt, cắt"
+          ]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "Why will the ground-floor restrooms stay open?",
+        "options": [
+          "They were recently renovated.",
+          "They are on a separate water line.",
+          "They are reserved for maintenance crews.",
+          "They are located outside the building."
+        ],
+        "answer": "B",
+        "translation": "Vì sao nhà vệ sinh tầng trệt vẫn mở? — Vì chúng nối với một đường ống nước riêng.",
+        "explanation": "Thông báo giải thích các nhà vệ sinh này dùng đường nước riêng nên không bị ảnh hưởng khi ngắt nước toàn tòa nhà.",
+        "vocab": [
+          [
+            "separate",
+            "adj",
+            "riêng biệt"
+          ],
+          [
+            "available",
+            "adj",
+            "có sẵn, dùng được"
+          ]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "What is indicated about the cafeteria?",
+        "options": [
+          "It will serve only bottled water.",
+          "It will close for the whole day.",
+          "It will reopen in the afternoon.",
+          "It will move to the ground floor."
+        ],
+        "answer": "C",
+        "translation": "Thông tin nào đúng về nhà ăn? — Nhà ăn sẽ mở lại vào buổi chiều.",
+        "explanation": "Nhà ăn đóng cửa lúc 8 giờ sáng và mở lại lúc 1 giờ 30 chiều, tức là buổi chiều.",
+        "vocab": [
+          [
+            "reopen",
+            "v",
+            "mở lại"
+          ],
+          [
+            "inconvenience",
+            "n",
+            "sự bất tiện"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following advertisement.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ADVERTISEMENT</p><p class=\"font-bold text-center\">Greenfield Fitness - Summer Membership</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Join before June 30 and pay no registration fee (regularly $40).</p><p class=\"mt-2\">Monthly membership: $35 for one person, or $60 for two people living at the same address.</p><p class=\"mt-2\">All members receive two free guest passes each month. Personal training sessions are available for $25 per hour and must be booked at least 24 hours in advance.</p><p class=\"mt-2\">The pool is open from 6 a.m. to 10 p.m. daily.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "How much would two people at the same address pay per month?",
+        "options": [
+          "$35",
+          "$40",
+          "$60",
+          "$95"
+        ],
+        "answer": "C",
+        "translation": "Hai người sống cùng địa chỉ sẽ trả bao nhiêu mỗi tháng? — 60 đô la.",
+        "explanation": "Quảng cáo ghi rõ gói cho hai người sống cùng địa chỉ là 60 đô la một tháng. Mức 95 đô la là cộng hai gói riêng lẻ (35 + 60), không đúng.",
+        "vocab": [
+          [
+            "monthly",
+            "adj",
+            "hàng tháng"
+          ],
+          [
+            "membership",
+            "n",
+            "thẻ hội viên"
+          ]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "What is required to book a personal training session?",
+        "options": [
+          "Paying the registration fee",
+          "Booking at least 24 hours in advance",
+          "Bringing a guest",
+          "Joining before June 30"
+        ],
+        "answer": "B",
+        "translation": "Cần gì để đặt một buổi tập với huấn luyện viên cá nhân? — Đặt trước ít nhất 24 giờ.",
+        "explanation": "Quảng cáo nêu các buổi tập cá nhân phải được đặt trước ít nhất 24 giờ.",
+        "vocab": [
+          [
+            "personal training",
+            "n",
+            "tập luyện cá nhân"
+          ],
+          [
+            "in advance",
+            "phr",
+            "trước"
+          ]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "What do all members receive at no extra cost?",
+        "options": [
+          "Two guest passes each month",
+          "One personal training session",
+          "A free registration",
+          "Unlimited pool access for guests"
+        ],
+        "answer": "A",
+        "translation": "Mọi hội viên được nhận miễn phí gì? — Hai vé mời khách mỗi tháng.",
+        "explanation": "Quảng cáo cho biết mọi hội viên nhận hai vé mời khách miễn phí mỗi tháng.",
+        "vocab": [
+          [
+            "guest pass",
+            "n",
+            "vé mời khách"
+          ],
+          [
+            "at no extra cost",
+            "phr",
+            "không tính thêm phí"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following letter.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LETTER</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Ms. Whitaker,</p><p class=\"mt-2\">Thank you for your order of April 12. We are sorry to learn that the desk lamp you received had a cracked base.</p><p class=\"mt-2\">We have shipped a replacement at no charge; it should arrive within three business days. You may keep the damaged lamp or dispose of it.</p><p class=\"mt-2\">We have also added a 10 percent credit to your account for use on your next purchase.</p><p class=\"mt-2\">Please accept our apologies for the inconvenience.</p><p class=\"mt-2\">Sincerely,<br>Alan Fong, Customer Service</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "Why was the letter written?",
+        "options": [
+          "To respond to a complaint about a damaged product",
+          "To confirm a new order",
+          "To announce a price increase",
+          "To request payment for an item"
+        ],
+        "answer": "A",
+        "translation": "Vì sao lá thư được viết? — Để phản hồi khiếu nại về một sản phẩm bị hỏng.",
+        "explanation": "Người viết xin lỗi vì chiếc đèn bàn giao đến bị nứt đế, tức là đang phản hồi một phản ánh của khách.",
+        "vocab": [
+          [
+            "complaint",
+            "n",
+            "khiếu nại"
+          ],
+          [
+            "damaged",
+            "adj",
+            "bị hư hỏng"
+          ]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "What has the company done?",
+        "options": [
+          "Refunded the full purchase price",
+          "Sent a replacement at no charge",
+          "Repaired the lamp at the customer's home",
+          "Canceled the customer's account"
+        ],
+        "answer": "B",
+        "translation": "Công ty đã làm gì? — Gửi một sản phẩm thay thế miễn phí.",
+        "explanation": "Thư nêu công ty đã gửi hàng thay thế miễn phí và hàng sẽ đến trong vòng ba ngày làm việc.",
+        "vocab": [
+          [
+            "replacement",
+            "n",
+            "hàng thay thế"
+          ],
+          [
+            "at no charge",
+            "phr",
+            "miễn phí"
+          ]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "What is offered to Ms. Whitaker?",
+        "options": [
+          "A free extended warranty",
+          "A credit on her next purchase",
+          "A discount on shipping",
+          "A gift card for a friend"
+        ],
+        "answer": "B",
+        "translation": "Cô Whitaker được đề nghị gì? — Một khoản tín dụng cho lần mua tiếp theo.",
+        "explanation": "Thư cho biết công ty đã cộng 10 phần trăm tín dụng vào tài khoản để dùng cho lần mua sau.",
+        "vocab": [
+          [
+            "credit",
+            "n",
+            "khoản tín dụng, tiền bù"
+          ],
+          [
+            "purchase",
+            "n",
+            "việc mua hàng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following agenda.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">AGENDA</p><p class=\"font-bold text-center\">Regional Sales Meeting</p><hr class=\"my-2 border-neutral-300\"><table class=\"mt-2 w-full border-collapse text-sm\"><tr><td class=\"py-1 pr-3 align-top font-semibold\">9:00 a.m.</td><td class=\"py-1\">Registration and coffee</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">9:30 a.m.</td><td class=\"py-1\">Welcome - Karen Liu</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">9:45 a.m.</td><td class=\"py-1\">Review of first-quarter results - Tom Braddock</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">10:30 a.m.</td><td class=\"py-1\">Break</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">10:45 a.m.</td><td class=\"py-1\">New product demonstration</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">12:00 p.m.</td><td class=\"py-1\">Lunch</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">1:15 p.m.</td><td class=\"py-1\">Workshop: Working with difficult clients</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">3:00 p.m.</td><td class=\"py-1\">Closing remarks</td></tr></table><p class=\"mt-2\">All sessions take place in the Cedar Room. Attendees should bring their own notebooks, as printed materials will not be provided.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "At what time will the new product demonstration begin?",
+        "options": [
+          "9:45 a.m.",
+          "10:30 a.m.",
+          "10:45 a.m.",
+          "1:15 p.m."
+        ],
+        "answer": "C",
+        "translation": "Buổi giới thiệu sản phẩm mới bắt đầu lúc mấy giờ? — 10 giờ 45 phút sáng.",
+        "explanation": "Chương trình ghi phần giới thiệu sản phẩm mới bắt đầu lúc 10 giờ 45 phút sáng, ngay sau giờ giải lao.",
+        "vocab": [
+          [
+            "demonstration",
+            "n",
+            "buổi trình diễn, giới thiệu"
+          ],
+          [
+            "quarter",
+            "n",
+            "quý"
+          ]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "What should attendees bring?",
+        "options": [
+          "Their own notebooks",
+          "Printed agendas",
+          "Name badges",
+          "Lunch"
+        ],
+        "answer": "A",
+        "translation": "Người tham dự nên mang theo gì? — Sổ tay của riêng họ.",
+        "explanation": "Ghi chú cuối trang yêu cầu người tham dự tự mang sổ tay vì tài liệu in sẽ không được phát.",
+        "vocab": [
+          [
+            "attendee",
+            "n",
+            "người tham dự"
+          ],
+          [
+            "printed materials",
+            "n",
+            "tài liệu in"
+          ]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "Who will give the welcome?",
+        "options": [
+          "Tom Braddock",
+          "Karen Liu",
+          "The sales director",
+          "A guest speaker"
+        ],
+        "answer": "B",
+        "translation": "Ai sẽ phát biểu chào mừng? — Karen Liu.",
+        "explanation": "Dòng 9 giờ 30 ghi rõ phần chào mừng do Karen Liu phụ trách.",
+        "vocab": [
+          [
+            "welcome",
+            "n",
+            "lời chào mừng"
+          ],
+          [
+            "closing remarks",
+            "n",
+            "lời kết"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following memorandum.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEMORANDUM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Employees<br>From: Facilities Office<br>Date: November 4<br>Re: Desk Assignment Changes</p><p class=\"mt-2\">Because our company is adding twelve employees in December, the third floor will be reorganized. Employees currently seated on the third floor will move to the fifth floor between December 8 and December 10.</p><p class=\"mt-2\">During the move, please place all personal items in the boxes provided. Boxes must be labeled with your name and department. The facilities team will transport furniture and computer equipment; employees should not move these items themselves.</p><p class=\"mt-2\">Questions about the new seating plan should be sent to facilities@northbridge.com.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "Why will the third floor be reorganized?",
+        "options": [
+          "To make room for new employees",
+          "To repair damaged furniture",
+          "To create a larger meeting room",
+          "To install new computers"
+        ],
+        "answer": "A",
+        "translation": "Vì sao tầng ba sẽ được sắp xếp lại? — Để có chỗ cho nhân viên mới.",
+        "explanation": "Mở đầu bản ghi nhớ nêu công ty sẽ tuyển thêm mười hai nhân viên vào tháng 12 nên tầng ba phải tổ chức lại.",
+        "vocab": [
+          [
+            "reorganize",
+            "v",
+            "sắp xếp lại"
+          ],
+          [
+            "assignment",
+            "n",
+            "sự phân công"
+          ]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "What must employees do with the boxes?",
+        "options": [
+          "Return them to the facilities office",
+          "Label them with their name and department",
+          "Leave them in the hallway",
+          "Fill them with computer equipment"
+        ],
+        "answer": "B",
+        "translation": "Nhân viên phải làm gì với các thùng? — Ghi tên và bộ phận lên đó.",
+        "explanation": "Bản ghi nhớ yêu cầu mọi thùng phải được dán nhãn ghi rõ tên và bộ phận của nhân viên.",
+        "vocab": [
+          [
+            "label",
+            "v",
+            "dán nhãn"
+          ],
+          [
+            "department",
+            "n",
+            "bộ phận, phòng ban"
+          ]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "What are employees asked NOT to do?",
+        "options": [
+          "Work on the fifth floor",
+          "Pack their personal items",
+          "Move furniture and computer equipment",
+          "Contact the facilities office"
+        ],
+        "answer": "C",
+        "translation": "Nhân viên được yêu cầu KHÔNG làm gì? — Tự di chuyển đồ đạc và thiết bị máy tính.",
+        "explanation": "Bản ghi nhớ nói rõ nhóm cơ sở vật chất sẽ vận chuyển đồ đạc và máy tính, nhân viên không nên tự làm việc đó.",
+        "vocab": [
+          [
+            "transport",
+            "v",
+            "vận chuyển"
+          ],
+          [
+            "equipment",
+            "n",
+            "thiết bị"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following invoice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INVOICE</p><p class=\"font-bold text-center\">Lakeview Printing</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Invoice No. 3392<br>Invoice date: February 6<br>Bill to: Harbor Lane Cafe</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"py-1 text-left\">Item</th><th class=\"py-1 text-right\">Qty</th><th class=\"py-1 text-right\">Unit price</th><th class=\"py-1 text-right\">Amount</th></tr><tr><td class=\"py-1\">Menus (laminated)</td><td class=\"py-1 text-right\">50</td><td class=\"py-1 text-right\">$4.00</td><td class=\"py-1 text-right\">$200.00</td></tr><tr><td class=\"py-1\">Business cards</td><td class=\"py-1 text-right\">500</td><td class=\"py-1 text-right\">$0.08</td><td class=\"py-1 text-right\">$40.00</td></tr><tr><td class=\"py-1\">Design fee</td><td class=\"py-1 text-right\">-</td><td class=\"py-1 text-right\">-</td><td class=\"py-1 text-right\">$75.00</td></tr><tr class=\"border-t border-neutral-300\"><td class=\"py-1\">Shipping</td><td class=\"py-1\"></td><td class=\"py-1\"></td><td class=\"py-1 text-right\">$15.00</td></tr><tr><td class=\"py-1 font-semibold\">Total</td><td class=\"py-1\"></td><td class=\"py-1\"></td><td class=\"py-1 text-right font-semibold\">$330.00</td></tr></table><p class=\"mt-2\">Payment is due within 20 days of the invoice date. A 5 percent late fee applies to payments received after the due date.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "What is the total amount of the invoice?",
+        "options": [
+          "$315.00",
+          "$330.00",
+          "$340.00",
+          "$355.00"
+        ],
+        "answer": "B",
+        "translation": "Tổng số tiền trên hóa đơn là bao nhiêu? — 330 đô la.",
+        "explanation": "Hóa đơn ghi tổng cộng là 330 đô la, gồm 200 + 40 + 75 đô la tiền hàng và phí thiết kế, cộng 15 đô la vận chuyển.",
+        "vocab": [
+          [
+            "invoice",
+            "n",
+            "hóa đơn"
+          ],
+          [
+            "total",
+            "n",
+            "tổng cộng"
+          ]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "How much was charged for the business cards?",
+        "options": [
+          "$8.00",
+          "$40.00",
+          "$75.00",
+          "$200.00"
+        ],
+        "answer": "B",
+        "translation": "Tiền danh thiếp được tính là bao nhiêu? — 40 đô la.",
+        "explanation": "Dòng danh thiếp ghi 500 chiếc với đơn giá 0,08 đô la, thành tiền 40 đô la.",
+        "vocab": [
+          [
+            "charge",
+            "v",
+            "tính phí"
+          ],
+          [
+            "unit price",
+            "n",
+            "đơn giá"
+          ]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "What happens if payment is late?",
+        "options": [
+          "The order is canceled.",
+          "A 5 percent fee is added.",
+          "The invoice is reissued.",
+          "Shipping is charged again."
+        ],
+        "answer": "B",
+        "translation": "Điều gì xảy ra nếu thanh toán muộn? — Bị cộng thêm phí 5 phần trăm.",
+        "explanation": "Phần cuối hóa đơn nêu phí trả muộn 5 phần trăm áp dụng cho các khoản thanh toán sau hạn.",
+        "vocab": [
+          [
+            "late fee",
+            "n",
+            "phí trả muộn"
+          ],
+          [
+            "due date",
+            "n",
+            "ngày đến hạn"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following article.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">BUSINESS NEWS</p><p class=\"font-bold text-center\">Hotel Chain to Drop Plastic Bottles</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Harborview Hotels announced this week that it will stop providing single-use plastic bottles at its 24 properties by the end of next year. Instead, each room will have a glass bottle that guests can refill at water stations on every floor.</p><p class=\"mt-2\">The company tested the program at three hotels in April and reported that guest satisfaction scores remained unchanged. \"Guests told us they preferred the refill stations once they knew where to find them,\" said operations director Nina Roth.</p><p class=\"mt-2\">The change is expected to remove more than two million bottles from the company's waste each year.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What is Harborview Hotels planning to do?",
+        "options": [
+          "Open three new hotels",
+          "Stop providing single-use plastic bottles",
+          "Close its water stations",
+          "Raise the price of its rooms"
+        ],
+        "answer": "B",
+        "translation": "Harborview Hotels dự định làm gì? — Ngừng cung cấp chai nhựa dùng một lần.",
+        "explanation": "Ngay câu đầu bài báo nêu chuỗi khách sạn sẽ ngừng cung cấp chai nhựa dùng một lần tại 24 cơ sở.",
+        "vocab": [
+          [
+            "single-use",
+            "adj",
+            "dùng một lần"
+          ],
+          [
+            "guest",
+            "n",
+            "khách"
+          ]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "What did the test program show?",
+        "options": [
+          "Guests disliked the glass bottles.",
+          "Guest satisfaction did not decline.",
+          "Water stations were expensive to build.",
+          "The program saved two million dollars."
+        ],
+        "answer": "B",
+        "translation": "Chương trình thử nghiệm cho thấy điều gì? — Mức độ hài lòng của khách không giảm.",
+        "explanation": "Bài báo cho biết điểm hài lòng của khách vẫn không thay đổi sau khi thử nghiệm tại ba khách sạn.",
+        "vocab": [
+          [
+            "satisfaction",
+            "n",
+            "sự hài lòng"
+          ],
+          [
+            "unchanged",
+            "adj",
+            "không thay đổi"
+          ]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "According to the article, what will result from the change?",
+        "options": [
+          "Fewer plastic bottles in the company's waste",
+          "Shorter hotel stays",
+          "Higher water costs for guests",
+          "More jobs at the water stations"
+        ],
+        "answer": "A",
+        "translation": "Theo bài báo, thay đổi này sẽ mang lại kết quả gì? — Ít chai nhựa hơn trong rác thải của công ty.",
+        "explanation": "Câu cuối dự đoán thay đổi sẽ loại bỏ hơn hai triệu chai khỏi lượng rác thải mỗi năm.",
+        "vocab": [
+          [
+            "waste",
+            "n",
+            "rác thải"
+          ],
+          [
+            "remove",
+            "v",
+            "loại bỏ"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following online chat.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ONLINE CHAT</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\"><strong>Marcus:</strong> Hi Priya, the brochures for the trade show just arrived, but the printer used the old logo.</p><p class=\"mt-2\"><strong>Priya:</strong> That is a problem. We leave for the show on Tuesday.</p><p class=\"mt-2\"><strong>Marcus:</strong> I called them. They can reprint 500 copies by Monday afternoon, but they cannot deliver them.</p><p class=\"mt-2\"><strong>Priya:</strong> Can you pick them up? I will be at the airport Monday morning.</p><p class=\"mt-2\"><strong>Marcus:</strong> Sure. I will drive over after my 10 a.m. meeting.</p><p class=\"mt-2\"><strong>Priya:</strong> Great. I will let the marketing team know.</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "What is the problem?",
+        "options": [
+          "The brochures have the wrong logo.",
+          "The trade show was canceled.",
+          "The printer is out of paper.",
+          "The brochures arrived too early."
+        ],
+        "answer": "A",
+        "translation": "Vấn đề là gì? — Các tờ rơi in sai logo.",
+        "explanation": "Marcus cho biết tờ rơi vừa đến nhưng nhà in đã dùng logo cũ.",
+        "vocab": [
+          [
+            "brochure",
+            "n",
+            "tờ rơi, ấn phẩm giới thiệu"
+          ],
+          [
+            "logo",
+            "n",
+            "biểu trưng, logo"
+          ]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "What will the printer do?",
+        "options": [
+          "Deliver the brochures on Sunday",
+          "Reprint the brochures by Monday afternoon",
+          "Refund the cost of the order",
+          "Design a new logo"
+        ],
+        "answer": "B",
+        "translation": "Nhà in sẽ làm gì? — In lại tờ rơi trước chiều thứ Hai.",
+        "explanation": "Marcus nói nhà in có thể in lại 500 bản trước chiều thứ Hai nhưng không giao hàng được.",
+        "vocab": [
+          [
+            "reprint",
+            "v",
+            "in lại"
+          ],
+          [
+            "deliver",
+            "v",
+            "giao hàng"
+          ]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "What will Marcus most likely do next?",
+        "options": [
+          "Fly to the trade show",
+          "Pick up the brochures",
+          "Call the marketing team",
+          "Change the logo himself"
+        ],
+        "answer": "B",
+        "translation": "Marcus nhiều khả năng sẽ làm gì tiếp theo? — Đến lấy các tờ rơi.",
+        "explanation": "Anh ấy đồng ý đi lấy hàng và nói sẽ lái xe đến sau cuộc họp lúc 10 giờ.",
+        "vocab": [
+          [
+            "pick up",
+            "phr",
+            "đến lấy"
+          ],
+          [
+            "trade show",
+            "n",
+            "hội chợ thương mại"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following workshop notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">WORKSHOP REGISTRATION</p><p class=\"font-bold text-center\">Grant Writing for Nonprofits</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Date: Saturday, March 21, 9:30 a.m. - 4:00 p.m.<br>Location: Riverside Community Center, 240 Elm Street<br>Fee: $45 (includes lunch and a workbook)</p><p class=\"mt-2\">Space is limited to 30 participants. Registration closes on March 14 or when all places are filled.</p><p class=\"mt-2\">To register, complete the form at riversidecc.org/workshops and pay the fee online. Confirmation will be sent by e-mail within two business days.</p><p class=\"mt-2\">Participants who cancel at least one week before the workshop will receive a full refund. No refunds are given after that date.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "What is the deadline for registration?",
+        "options": [
+          "March 14",
+          "March 20",
+          "March 22",
+          "March 24"
+        ],
+        "answer": "A",
+        "translation": "Hạn đăng ký là khi nào? — Ngày 14 tháng 3.",
+        "explanation": "Thông báo ghi đăng ký kết thúc vào ngày 14 tháng 3 hoặc khi hết chỗ.",
+        "vocab": [
+          [
+            "deadline",
+            "n",
+            "hạn chót"
+          ],
+          [
+            "registration",
+            "n",
+            "việc đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "What does the fee include?",
+        "options": [
+          "Parking and a workbook",
+          "Lunch and a workbook",
+          "A certificate and lunch",
+          "A workbook and two workshops"
+        ],
+        "answer": "B",
+        "translation": "Lệ phí bao gồm những gì? — Bữa trưa và một cuốn sách bài tập.",
+        "explanation": "Dòng phí ghi rõ 45 đô la đã bao gồm bữa trưa và sách bài tập.",
+        "vocab": [
+          [
+            "fee",
+            "n",
+            "lệ phí"
+          ],
+          [
+            "workbook",
+            "n",
+            "sách bài tập"
+          ]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "What is required to receive a full refund?",
+        "options": [
+          "Canceling at least one week before the workshop",
+          "Paying an additional fee",
+          "Finding another participant",
+          "Calling the community center"
+        ],
+        "answer": "A",
+        "translation": "Cần gì để được hoàn tiền đầy đủ? — Hủy trước buổi tập huấn ít nhất một tuần.",
+        "explanation": "Thông báo nêu người hủy trước ít nhất một tuần sẽ được hoàn lại toàn bộ lệ phí; sau đó thì không.",
+        "vocab": [
+          [
+            "cancel",
+            "v",
+            "hủy"
+          ],
+          [
+            "refund",
+            "n",
+            "tiền hoàn lại"
+          ]
+        ]
+      }
+    ]
+  }
+]

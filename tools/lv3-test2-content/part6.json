@@ -1,0 +1,426 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Department Heads<br>From: Rebecca Ortiz, Human Resources<br>Date: June 4<br>Re: New Employee Orientation</p><p class=\"mt-2\">Our office will hold an orientation session for new employees on June 18. The session will begin at 9 a.m. and <strong>[131]</strong> until about 3 p.m.</p><p class=\"mt-2\">All department heads are asked to <strong>[132]</strong> a short presentation about their team's main responsibilities. Please keep each presentation to ten minutes or less.</p><p class=\"mt-2\">Lunch will be provided in the cafeteria at noon. Employees who have dietary restrictions should inform the cafeteria manager <strong>[133]</strong> June 11.</p><p class=\"mt-2\"><strong>[134]</strong></p><p class=\"mt-2\">If you have any questions, please contact me at extension 412.</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": [
+          "last",
+          "lasts",
+          "lasting",
+          "lasted"
+        ],
+        "answer": "A",
+        "translation": "Buổi định hướng sẽ bắt đầu lúc 9 giờ sáng và kéo dài đến khoảng 3 giờ chiều.",
+        "explanation": "Hai động từ \"begin\" và \"last\" cùng chia sau trợ động từ \"will\", nên cả hai phải ở dạng nguyên mẫu. Trích đáp án đúng: last.",
+        "vocab": [
+          [
+            "orientation",
+            "n",
+            "buổi định hướng"
+          ],
+          [
+            "session",
+            "n",
+            "buổi, phiên họp"
+          ]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the best answer to complete blank [132].",
+        "options": [
+          "give",
+          "giving",
+          "gave",
+          "given"
+        ],
+        "answer": "A",
+        "translation": "Các trưởng bộ phận được đề nghị trình bày ngắn gọn về trách nhiệm chính của nhóm mình.",
+        "explanation": "Cấu trúc bị động \"be asked to + động từ nguyên mẫu\", nên dùng \"give\". Trích đáp án đúng: give.",
+        "vocab": [
+          [
+            "presentation",
+            "n",
+            "bài trình bày"
+          ],
+          [
+            "team",
+            "n",
+            "nhóm"
+          ]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Select the best answer to complete blank [133].",
+        "options": [
+          "by",
+          "until",
+          "since",
+          "during"
+        ],
+        "answer": "A",
+        "translation": "Nhân viên có chế độ ăn kiêng đặc biệt cần thông báo cho quản lý nhà ăn trước ngày 11 tháng 6.",
+        "explanation": "\"By + mốc thời gian\" chỉ hạn chót; \"until\" chỉ việc kéo dài đến mốc đó. Trích đáp án đúng: by.",
+        "vocab": [
+          [
+            "dietary restriction",
+            "n",
+            "hạn chế về ăn uống"
+          ],
+          [
+            "inform",
+            "v",
+            "thông báo"
+          ]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Which of the following sentences best fits in blank [134]?",
+        "options": [
+          "Please send your presentation slides to me by June 15.",
+          "The cafeteria will be closed for the holiday.",
+          "Last year's session lasted only two hours.",
+          "New employees should bring their own laptops."
+        ],
+        "answer": "A",
+        "translation": "Vị trí phù hợp nhất cho câu \"Vui lòng gửi slide trình bày cho tôi trước ngày 15 tháng 6\" là chỗ trống [134].",
+        "explanation": "Câu này nối tiếp yêu cầu chuẩn bị bài trình bày ở đoạn trên và đặt ra hạn chót hợp lý trước ngày diễn ra buổi định hướng. Các phương án còn lại nói về nhà ăn, buổi học năm ngoái hoặc máy tính cá nhân, không liên quan đến mạch văn. Trích đáp án đúng: câu yêu cầu gửi slide trước 15 tháng 6.",
+        "vocab": [
+          [
+            "slide",
+            "n",
+            "trang trình chiếu"
+          ],
+          [
+            "session",
+            "n",
+            "buổi, phiên"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE</p><p class=\"font-bold text-center\">North Parking Lot Maintenance</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From July 8 to July 12, the north parking lot will be resurfaced. About 120 spaces will be <strong>[135]</strong> during this period, so employees should park in the south lot or use the shuttle service.</p><p class=\"mt-2\">The shuttle will run every 15 minutes from 7 a.m. to 7 p.m. and will <strong>[136]</strong> at the main entrance.</p><p class=\"mt-2\">We apologize for the inconvenience. The work is expected to <strong>[137]</strong> by July 13, weather permitting.</p><p class=\"mt-2\">Employees who normally use the north lot should allow extra time for their commute.</p><p class=\"mt-2\"><strong>[138]</strong></p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": [
+          "unavailable",
+          "unavailability",
+          "unavailablely",
+          "avail"
+        ],
+        "answer": "A",
+        "translation": "Khoảng 120 chỗ đỗ sẽ không thể sử dụng trong thời gian này.",
+        "explanation": "Sau động từ \"be\" cần một tính từ bổ nghĩa cho chủ ngữ \"spaces\", nên dùng \"unavailable\". Trích đáp án đúng: unavailable.",
+        "vocab": [
+          [
+            "resurface",
+            "v",
+            "làm lại mặt đường"
+          ],
+          [
+            "space",
+            "n",
+            "chỗ (đỗ xe)"
+          ]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": [
+          "stop",
+          "stops",
+          "stopped",
+          "stopping"
+        ],
+        "answer": "A",
+        "translation": "Xe đưa đón sẽ chạy 15 phút một chuyến và sẽ dừng ở cổng chính.",
+        "explanation": "Sau \"will\" dùng động từ nguyên mẫu, và hai động từ \"run\", \"stop\" phải song song. Trích đáp án đúng: stop.",
+        "vocab": [
+          [
+            "shuttle",
+            "n",
+            "xe đưa đón"
+          ],
+          [
+            "entrance",
+            "n",
+            "lối vào, cổng"
+          ]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the best answer to complete blank [137].",
+        "options": [
+          "complete",
+          "completes",
+          "be completed",
+          "completing"
+        ],
+        "answer": "C",
+        "translation": "Công việc dự kiến sẽ hoàn thành trước ngày 13 tháng 7, nếu thời tiết cho phép.",
+        "explanation": "Công việc không tự hoàn thành mà được hoàn thành, nên dùng bị động \"be + quá khứ phân từ\" sau \"be expected to\". Trích đáp án đúng: be completed.",
+        "vocab": [
+          [
+            "expected",
+            "adj",
+            "được dự kiến"
+          ],
+          [
+            "weather permitting",
+            "phr",
+            "nếu thời tiết cho phép"
+          ]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Which of the following sentences best fits in blank [138]?",
+        "options": [
+          "The south lot is reserved for visitors only.",
+          "We appreciate your patience while this work is being done.",
+          "Parking permits cost $20 per month.",
+          "The shuttle drivers will attend a safety class."
+        ],
+        "answer": "B",
+        "translation": "Vị trí phù hợp nhất cho câu \"Chúng tôi cảm ơn sự kiên nhẫn của quý vị trong khi công việc này được thực hiện\" là chỗ trống [138].",
+        "explanation": "Đây là câu cảm ơn kết thúc thông báo, sau khi đã nêu lịch thi công và lời khuyên cho nhân viên. Các phương án còn lại là thông tin về bãi xe, phí gửi xe hoặc lớp tập huấn, không phù hợp để kết đoạn. Trích đáp án đúng: câu cảm ơn sự kiên nhẫn.",
+        "vocab": [
+          [
+            "patience",
+            "n",
+            "sự kiên nhẫn"
+          ],
+          [
+            "appreciate",
+            "v",
+            "cảm kích, trân trọng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following memorandum.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEMORANDUM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Staff<br>From: Finance Department<br>Date: September 2<br>Re: Travel Expense Reports</p><p class=\"mt-2\">Beginning October 1, all travel expense reports must be submitted <strong>[139]</strong> through the online portal.</p><p class=\"mt-2\">Paper forms will no longer be accepted. Employees who <strong>[140]</strong> need help using the portal can attend a training session on September 25.</p><p class=\"mt-2\">Receipts must be uploaded with each report. Reports submitted without receipts will <strong>[141]</strong>.</p><p class=\"mt-2\"><strong>[142]</strong></p><p class=\"mt-2\">Please direct any questions to the finance team at extension 208.</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": [
+          "electronic",
+          "electric",
+          "electronically",
+          "electricity"
+        ],
+        "answer": "C",
+        "translation": "Kể từ ngày 1 tháng 10, mọi báo cáo chi phí công tác phải được nộp dưới dạng điện tử qua cổng thông tin trực tuyến.",
+        "explanation": "Trạng từ bổ nghĩa cho động từ \"submitted\", nên dùng \"electronically\". Trích đáp án đúng: electronically.",
+        "vocab": [
+          [
+            "submit",
+            "v",
+            "nộp"
+          ],
+          [
+            "portal",
+            "n",
+            "cổng thông tin"
+          ]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the best answer to complete blank [140].",
+        "options": [
+          "still",
+          "yet",
+          "already",
+          "ever"
+        ],
+        "answer": "A",
+        "translation": "Những nhân viên vẫn cần trợ giúp khi dùng cổng thông tin có thể tham gia buổi đào tạo ngày 25 tháng 9.",
+        "explanation": "\"Still\" diễn tả việc gì đó vẫn tiếp diễn đến hiện tại, phù hợp với nghĩa câu; \"yet\" thường dùng trong câu phủ định và nghi vấn. Trích đáp án đúng: still.",
+        "vocab": [
+          [
+            "training session",
+            "n",
+            "buổi đào tạo"
+          ],
+          [
+            "portal",
+            "n",
+            "cổng thông tin"
+          ]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": [
+          "return",
+          "returning",
+          "be returned",
+          "returns"
+        ],
+        "answer": "C",
+        "translation": "Báo cáo nộp mà không kèm hóa đơn sẽ bị trả lại.",
+        "explanation": "Chủ ngữ \"Reports\" là đối tượng bị trả lại, nên dùng bị động \"will be returned\". Trích đáp án đúng: be returned.",
+        "vocab": [
+          [
+            "receipt",
+            "n",
+            "hóa đơn, biên lai"
+          ],
+          [
+            "upload",
+            "v",
+            "tải lên"
+          ]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Which of the following sentences best fits in blank [142]?",
+        "options": [
+          "The finance team meets every Monday morning.",
+          "We thank you for your cooperation during this transition.",
+          "Paper forms are available at the front desk.",
+          "The training session was canceled last year."
+        ],
+        "answer": "B",
+        "translation": "Vị trí phù hợp nhất cho câu \"Chúng tôi cảm ơn sự hợp tác của quý vị trong giai đoạn chuyển đổi này\" là chỗ trống [142].",
+        "explanation": "Câu cảm ơn phù hợp để kết thúc thông báo về thay đổi quy trình, ngay trước phần liên hệ khi có thắc mắc. Các phương án còn lại mâu thuẫn với nội dung (báo cáo giấy không còn được nhận) hoặc lạc đề. Trích đáp án đúng: câu cảm ơn sự hợp tác.",
+        "vocab": [
+          [
+            "cooperation",
+            "n",
+            "sự hợp tác"
+          ],
+          [
+            "transition",
+            "n",
+            "sự chuyển đổi"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following article.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LOCAL BUSINESS</p><p class=\"font-bold text-center\">Riverside Books to Open Second Location</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Riverside Books, a family-owned store on Oak Street, has announced that it will open a second location next spring. The new store will be <strong>[143]</strong> larger than the original.</p><p class=\"mt-2\">Owner Maria Salas said the expansion became possible after the store's online sales <strong>[144]</strong> over the past two years. \"Our customers kept asking for a store closer to the north side of town,\" she explained.</p><p class=\"mt-2\">The new location will also include a small cafe. Construction is scheduled to begin in November and <strong>[145]</strong> approximately six months.</p><p class=\"mt-2\">The store plans to hire about fifteen part-time employees before the opening.</p><p class=\"mt-2\"><strong>[146]</strong></p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": [
+          "significant",
+          "significance",
+          "significantly",
+          "signify"
+        ],
+        "answer": "C",
+        "translation": "Cửa hàng mới sẽ lớn hơn đáng kể so với cửa hàng ban đầu.",
+        "explanation": "Trạng từ bổ nghĩa cho tính từ so sánh \"larger\", nên dùng \"significantly\". Trích đáp án đúng: significantly.",
+        "vocab": [
+          [
+            "location",
+            "n",
+            "địa điểm"
+          ],
+          [
+            "original",
+            "adj",
+            "ban đầu"
+          ]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the best answer to complete blank [144].",
+        "options": [
+          "grew",
+          "grow",
+          "have grown",
+          "growing"
+        ],
+        "answer": "C",
+        "translation": "Việc mở rộng trở nên khả thi sau khi doanh số bán hàng trực tuyến tăng trưởng trong hai năm qua.",
+        "explanation": "Cụm \"over the past two years\" chỉ khoảng thời gian kéo dài đến hiện tại nên dùng thì hiện tại hoàn thành. Trích đáp án đúng: have grown.",
+        "vocab": [
+          [
+            "expansion",
+            "n",
+            "sự mở rộng"
+          ],
+          [
+            "sales",
+            "n",
+            "doanh số"
+          ]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": [
+          "last",
+          "lasts",
+          "lasted",
+          "to last"
+        ],
+        "answer": "A",
+        "translation": "Việc xây dựng dự kiến bắt đầu vào tháng 11 và kéo dài khoảng sáu tháng.",
+        "explanation": "\"begin\" và \"last\" là hai động từ song song sau \"is scheduled to\", nên dùng dạng nguyên mẫu. Trích đáp án đúng: last.",
+        "vocab": [
+          [
+            "construction",
+            "n",
+            "việc xây dựng"
+          ],
+          [
+            "approximately",
+            "adv",
+            "khoảng chừng"
+          ]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Which of the following sentences best fits in blank [146]?",
+        "options": [
+          "Applications will be accepted starting in January.",
+          "The cafe will serve coffee and pastries.",
+          "Ms. Salas opened the store in 2004.",
+          "Construction began last November."
+        ],
+        "answer": "A",
+        "translation": "Vị trí phù hợp nhất cho câu \"Đơn ứng tuyển sẽ được nhận bắt đầu từ tháng 1\" là chỗ trống [146].",
+        "explanation": "Câu này nối trực tiếp với thông tin tuyển dụng nhân viên bán thời gian ở ngay trước đó. Các phương án còn lại lặp lại chi tiết đã nêu hoặc mâu thuẫn với thời gian trong bài (công trình chưa khởi công). Trích đáp án đúng: câu về việc nhận đơn từ tháng 1.",
+        "vocab": [
+          [
+            "application",
+            "n",
+            "đơn ứng tuyển"
+          ],
+          [
+            "part-time",
+            "adj",
+            "bán thời gian"
+          ]
+        ]
+      }
+    ]
+  }
+]

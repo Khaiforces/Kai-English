@@ -1,0 +1,1655 @@
+[
+  {
+    "id": 147,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following advertisement:",
+    "passageHtml": "<p><strong>HARBOR &amp; PINE HOME GOODS</strong><br>Grand Opening — Saturday, 12 April<br>218 Alder Street, Riverton</p>\n<p>After fifteen years of selling handcrafted furniture online, Harbor &amp; Pine is opening its first showroom. The new space will display more than 300 pieces, including dining tables, reading chairs, and storage units made from reclaimed oak and walnut. Every item is finished by hand in our workshop in nearby Colton.</p>\n<p>Visitors to the grand opening will receive a 15 percent discount on any single item purchased that day. Members of our free loyalty program also qualify for free delivery within 30 miles of Riverton; nonmembers pay a flat rate of $40. The first 50 guests will receive a canvas tote bag made from leftover upholstery fabric.</p>\n<p>Because showroom parking is limited, we encourage guests to use the free shuttle service, which will run every 20 minutes from the Riverton train station between 9 a.m. and 6 p.m. For a complete schedule and a preview of our collection, visit harborandpine.com/showroom.</p>",
+    "questionText": "What is the main purpose of the advertisement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce a factory relocation"
+      },
+      {
+        "key": "B",
+        "text": "(B) To promote the opening of a new showroom"
+      },
+      {
+        "key": "C",
+        "text": "(C) To advertise a clearance sale at an online store"
+      },
+      {
+        "key": "D",
+        "text": "(D) To recruit skilled furniture makers"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của quảng cáo là gì? (A) Thông báo việc di dời nhà máy (B) Quảng bá lễ khai trương showroom mới (C) Quảng cáo đợt xả hàng của một cửa hàng trực tuyến (D) Tuyển dụng thợ làm đồ nội thất lành nghề.",
+    "explanation": "Đáp án B. Tiêu đề 'Grand Opening' và câu 'Harbor & Pine is opening its first showroom' cho thấy mục đích là giới thiệu showroom mới. A sai vì không có việc di dời nhà máy; xưởng vẫn đặt tại Colton. C sai vì đây là khai trương showroom, không phải xả hàng, và công ty đã bán trực tuyến 15 năm. D sai vì quảng cáo không đề cập đến việc tuyển dụng.",
+    "vocab": [
+      {
+        "word": "showroom",
+        "pos": "n.",
+        "meaning": "phòng trưng bày sản phẩm"
+      },
+      {
+        "word": "reclaimed",
+        "pos": "adj.",
+        "meaning": "được tái chế, tận dụng lại"
+      },
+      {
+        "word": "loyalty program",
+        "pos": "n. phr.",
+        "meaning": "chương trình khách hàng thân thiết"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "upholstery",
+        "pos": "n.",
+        "meaning": "vải bọc đồ nội thất"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following advertisement:",
+    "passageHtml": "<p><strong>HARBOR &amp; PINE HOME GOODS</strong><br>Grand Opening — Saturday, 12 April<br>218 Alder Street, Riverton</p>\n<p>After fifteen years of selling handcrafted furniture online, Harbor &amp; Pine is opening its first showroom. The new space will display more than 300 pieces, including dining tables, reading chairs, and storage units made from reclaimed oak and walnut. Every item is finished by hand in our workshop in nearby Colton.</p>\n<p>Visitors to the grand opening will receive a 15 percent discount on any single item purchased that day. Members of our free loyalty program also qualify for free delivery within 30 miles of Riverton; nonmembers pay a flat rate of $40. The first 50 guests will receive a canvas tote bag made from leftover upholstery fabric.</p>\n<p>Because showroom parking is limited, we encourage guests to use the free shuttle service, which will run every 20 minutes from the Riverton train station between 9 a.m. and 6 p.m. For a complete schedule and a preview of our collection, visit harborandpine.com/showroom.</p>",
+    "questionText": "What is true about members of the loyalty program?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They receive a 20 percent discount on all items."
+      },
+      {
+        "key": "B",
+        "text": "(B) They may attend a private preview on Friday."
+      },
+      {
+        "key": "C",
+        "text": "(C) They receive a free tote bag at every visit."
+      },
+      {
+        "key": "D",
+        "text": "(D) They qualify for free delivery within 30 miles."
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì đúng về các thành viên của chương trình khách hàng thân thiết? (A) Họ được giảm 20% cho mọi sản phẩm. (B) Họ có thể tham dự buổi xem trước riêng vào thứ Sáu. (C) Họ nhận một túi tote miễn phí trong mỗi lần ghé. (D) Họ đủ điều kiện được giao hàng miễn phí trong phạm vi 30 dặm.",
+    "explanation": "Đáp án D. Quảng cáo nêu rõ: 'Members of our free loyalty program also qualify for free delivery within 30 miles of Riverton'. A sai vì mức giảm 15% chỉ áp dụng cho một sản phẩm trong ngày khai trương, không phải 20% cho mọi sản phẩm. B sai vì không có buổi xem trước riêng nào được nhắc đến. C sai vì túi tote dành cho 50 khách đầu tiên, không phải mọi thành viên và không phải mỗi lần ghé.",
+    "vocab": [
+      {
+        "word": "qualify for",
+        "pos": "v. phr.",
+        "meaning": "đủ điều kiện để được hưởng"
+      },
+      {
+        "word": "flat rate",
+        "pos": "n. phr.",
+        "meaning": "mức phí cố định"
+      },
+      {
+        "word": "tote bag",
+        "pos": "n. phr.",
+        "meaning": "túi tote (túi vải lớn)"
+      },
+      {
+        "word": "leftover",
+        "pos": "adj.",
+        "meaning": "còn thừa, dư"
+      },
+      {
+        "word": "preview",
+        "pos": "n.",
+        "meaning": "buổi xem trước"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following advertisement:",
+    "passageHtml": "<p><strong>HARBOR &amp; PINE HOME GOODS</strong><br>Grand Opening — Saturday, 12 April<br>218 Alder Street, Riverton</p>\n<p>After fifteen years of selling handcrafted furniture online, Harbor &amp; Pine is opening its first showroom. The new space will display more than 300 pieces, including dining tables, reading chairs, and storage units made from reclaimed oak and walnut. Every item is finished by hand in our workshop in nearby Colton.</p>\n<p>Visitors to the grand opening will receive a 15 percent discount on any single item purchased that day. Members of our free loyalty program also qualify for free delivery within 30 miles of Riverton; nonmembers pay a flat rate of $40. The first 50 guests will receive a canvas tote bag made from leftover upholstery fabric.</p>\n<p>Because showroom parking is limited, we encourage guests to use the free shuttle service, which will run every 20 minutes from the Riverton train station between 9 a.m. and 6 p.m. For a complete schedule and a preview of our collection, visit harborandpine.com/showroom.</p>",
+    "questionText": "Why is the shuttle service being offered?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To reduce parking problems at the showroom"
+      },
+      {
+        "key": "B",
+        "text": "(B) To replace a discontinued train route"
+      },
+      {
+        "key": "C",
+        "text": "(C) To deliver furniture to customers' homes"
+      },
+      {
+        "key": "D",
+        "text": "(D) To transport employees to the workshop"
+      }
+    ],
+    "correct": "A",
+    "translation": "Vì sao dịch vụ xe đưa đón được cung cấp? (A) Để giảm vấn đề đỗ xe tại showroom (B) Để thay thế một tuyến tàu đã ngừng hoạt động (C) Để giao đồ nội thất đến nhà khách hàng (D) Để đưa nhân viên đến xưởng.",
+    "explanation": "Đáp án A. Nguyên nhân được nêu trực tiếp: 'Because showroom parking is limited, we encourage guests to use the free shuttle service'. B sai vì không có tuyến tàu nào bị ngừng; xe đưa đón chạy từ ga Riverton. C sai vì dịch vụ giao đồ nội thất là một chính sách riêng, không phải xe đưa đón. D sai vì xe phục vụ khách tham quan showroom, không phải nhân viên đến xưởng.",
+    "vocab": [
+      {
+        "word": "encourage",
+        "pos": "v.",
+        "meaning": "khuyến khích"
+      },
+      {
+        "word": "limited",
+        "pos": "adj.",
+        "meaning": "hạn chế, có giới hạn"
+      },
+      {
+        "word": "run",
+        "pos": "v.",
+        "meaning": "chạy, hoạt động theo lịch"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch trình"
+      },
+      {
+        "word": "discontinued",
+        "pos": "adj.",
+        "meaning": "đã ngừng, không còn tiếp tục"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Lena Choi, Finance Director<br><strong>Date:</strong> 8 September<br><strong>Subject:</strong> FY2026 budget proposals — new submission process</p>\n<p>Dear colleagues,</p>\n<p>To shorten the annual planning cycle, the Finance Department is revising how budget proposals are submitted. Beginning this year, all requests must be entered in the BudgetTrack system rather than sent as spreadsheets by e-mail. The system will open on 22 September and close at 6 p.m. on 3 October. Late submissions cannot be accepted because the figures must be consolidated for the board meeting on 10 October.</p>\n<p>Each department should submit two documents: a one-page summary of planned spending and a detailed line-item forecast. Please note that travel requests above $8,000 now require written approval from both the department head and the regional vice president before they are entered. This change follows a review that found several trips had been booked without prior authorization.</p>\n<p>Training sessions on BudgetTrack will be held on 15 and 17 September. Attendance is recommended for anyone who has not used the system. Recordings and a user guide will be posted on the intranet afterward.</p>\n<p>If you have questions, contact me or Marcus Bell in Financial Planning.</p>\n<p>Regards,<br>Lena Choi</p>",
+    "questionText": "What is the main purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce the results of a board meeting"
+      },
+      {
+        "key": "B",
+        "text": "(B) To introduce a newly appointed finance director"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain a new procedure for submitting budget proposals"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request additional staff for the planning department"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của e-mail là gì? (A) Thông báo kết quả một cuộc họp hội đồng quản trị (B) Giới thiệu giám đốc tài chính mới được bổ nhiệm (C) Giải thích quy trình mới để nộp đề xuất ngân sách (D) Yêu cầu thêm nhân sự cho phòng kế hoạch.",
+    "explanation": "Đáp án C. Mở đầu thư nêu: 'the Finance Department is revising how budget proposals are submitted', sau đó giải thích hệ thống BudgetTrack, hạn chót và các tài liệu phải nộp. A sai vì cuộc họp hội đồng ngày 10 tháng 10 chỉ là mốc thời gian, chưa có kết quả nào. B sai vì Lena Choi đã giữ chức Giám đốc Tài chính, không phải người mới. D sai vì thư không đề cập việc xin thêm nhân sự.",
+    "vocab": [
+      {
+        "word": "submission",
+        "pos": "n.",
+        "meaning": "việc nộp, hồ sơ nộp"
+      },
+      {
+        "word": "consolidate",
+        "pos": "v.",
+        "meaning": "tổng hợp, hợp nhất"
+      },
+      {
+        "word": "line-item forecast",
+        "pos": "n. phr.",
+        "meaning": "dự báo chi tiết từng khoản mục"
+      },
+      {
+        "word": "authorization",
+        "pos": "n.",
+        "meaning": "sự cho phép, phê duyệt"
+      },
+      {
+        "word": "intranet",
+        "pos": "n.",
+        "meaning": "mạng nội bộ của công ty"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Lena Choi, Finance Director<br><strong>Date:</strong> 8 September<br><strong>Subject:</strong> FY2026 budget proposals — new submission process</p>\n<p>Dear colleagues,</p>\n<p>To shorten the annual planning cycle, the Finance Department is revising how budget proposals are submitted. Beginning this year, all requests must be entered in the BudgetTrack system rather than sent as spreadsheets by e-mail. The system will open on 22 September and close at 6 p.m. on 3 October. Late submissions cannot be accepted because the figures must be consolidated for the board meeting on 10 October.</p>\n<p>Each department should submit two documents: a one-page summary of planned spending and a detailed line-item forecast. Please note that travel requests above $8,000 now require written approval from both the department head and the regional vice president before they are entered. This change follows a review that found several trips had been booked without prior authorization.</p>\n<p>Training sessions on BudgetTrack will be held on 15 and 17 September. Attendance is recommended for anyone who has not used the system. Recordings and a user guide will be posted on the intranet afterward.</p>\n<p>If you have questions, contact me or Marcus Bell in Financial Planning.</p>\n<p>Regards,<br>Lena Choi</p>",
+    "questionText": "What is required for travel requests above $8,000?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Written approval from two officials"
+      },
+      {
+        "key": "B",
+        "text": "(B) Receipts submitted before the trip"
+      },
+      {
+        "key": "C",
+        "text": "(C) A presentation to the board"
+      },
+      {
+        "key": "D",
+        "text": "(D) Booking through a preferred airline"
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì được yêu cầu đối với đề nghị công tác trên 8.000 đô la? (A) Sự phê duyệt bằng văn bản của hai người có thẩm quyền (B) Biên lai phải được nộp trước chuyến đi (C) Một bài thuyết trình trước hội đồng quản trị (D) Đặt vé qua một hãng hàng không ưu tiên.",
+    "explanation": "Đáp án A. Thư quy định: 'travel requests above $8,000 now require written approval from both the department head and the regional vice president'. Như vậy cần chữ ký/phê duyệt của hai chức danh. B sai vì thư không nói nộp biên lai trước chuyến đi. C sai vì chỉ có cuộc họp hội đồng để tổng hợp số liệu, không yêu cầu thuyết trình. D sai vì không có quy định về hãng hàng không ưu tiên.",
+    "vocab": [
+      {
+        "word": "regional vice president",
+        "pos": "n. phr.",
+        "meaning": "phó chủ tịch khu vực"
+      },
+      {
+        "word": "prior",
+        "pos": "adj.",
+        "meaning": "trước đó, từ trước"
+      },
+      {
+        "word": "review",
+        "pos": "n.",
+        "meaning": "cuộc rà soát, đánh giá"
+      },
+      {
+        "word": "planned spending",
+        "pos": "n. phr.",
+        "meaning": "chi tiêu dự kiến"
+      },
+      {
+        "word": "department head",
+        "pos": "n. phr.",
+        "meaning": "trưởng bộ phận"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Lena Choi, Finance Director<br><strong>Date:</strong> 8 September<br><strong>Subject:</strong> FY2026 budget proposals — new submission process</p>\n<p>Dear colleagues,</p>\n<p>To shorten the annual planning cycle, the Finance Department is revising how budget proposals are submitted. Beginning this year, all requests must be entered in the BudgetTrack system rather than sent as spreadsheets by e-mail. The system will open on 22 September and close at 6 p.m. on 3 October. Late submissions cannot be accepted because the figures must be consolidated for the board meeting on 10 October.</p>\n<p>Each department should submit two documents: a one-page summary of planned spending and a detailed line-item forecast. Please note that travel requests above $8,000 now require written approval from both the department head and the regional vice president before they are entered. This change follows a review that found several trips had been booked without prior authorization.</p>\n<p>Training sessions on BudgetTrack will be held on 15 and 17 September. Attendance is recommended for anyone who has not used the system. Recordings and a user guide will be posted on the intranet afterward.</p>\n<p>If you have questions, contact me or Marcus Bell in Financial Planning.</p>\n<p>Regards,<br>Lena Choi</p>",
+    "questionText": "What is the purpose of the training sessions?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To review the results of last year's budget"
+      },
+      {
+        "key": "B",
+        "text": "(B) To prepare employees to lead board meetings"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain changes to the travel policy only"
+      },
+      {
+        "key": "D",
+        "text": "(D) To help staff use the new budget system"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục đích của các buổi đào tạo là gì? (A) Để xem lại kết quả ngân sách năm ngoái (B) Để chuẩn bị cho nhân viên chủ trì các cuộc họp hội đồng (C) Chỉ để giải thích những thay đổi trong chính sách công tác (D) Để giúp nhân viên sử dụng hệ thống ngân sách mới.",
+    "explanation": "Đáp án D. Thư nêu 'Training sessions on BudgetTrack' và khuyến nghị người chưa dùng hệ thống tham dự; sau đó sẽ có bản ghi và hướng dẫn sử dụng. Vậy mục đích là hướng dẫn hệ thống ngân sách mới. A sai vì không có nội dung xem lại ngân sách năm trước. B sai vì đào tạo về BudgetTrack, không phải kỹ năng chủ trì họp. C sai vì chính sách công tác chỉ là một phần nội dung của thư, không phải mục đích của buổi đào tạo.",
+    "vocab": [
+      {
+        "word": "attendance",
+        "pos": "n.",
+        "meaning": "việc tham dự"
+      },
+      {
+        "word": "recording",
+        "pos": "n.",
+        "meaning": "bản ghi hình/ghi âm"
+      },
+      {
+        "word": "user guide",
+        "pos": "n. phr.",
+        "meaning": "hướng dẫn sử dụng"
+      },
+      {
+        "word": "revise",
+        "pos": "v.",
+        "meaning": "sửa đổi, điều chỉnh"
+      },
+      {
+        "word": "annual planning cycle",
+        "pos": "n. phr.",
+        "meaning": "chu kỳ lập kế hoạch hằng năm"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following notice:",
+    "passageHtml": "<p><strong>TRAVEL NOTICE — NORTHSTAR CONSULTING</strong><br><strong>Effective:</strong> 1 June<br><strong>Issued by:</strong> Corporate Services</p>\n<p>To simplify booking and improve cost tracking, Northstar has selected Meridian Travel as its sole travel management provider. From 1 June, all business flights, rail tickets, and hotel reservations must be booked through Meridian's online portal or its 24-hour service desk. Bookings made through other agencies will not be reimbursed unless a written exception is approved in advance by the head of Corporate Services.</p>\n<p>Employees should continue to use their existing corporate card for airfare and lodging. Meals and local transportation may be charged to the same card, but receipts must be uploaded to the expense system within five business days of returning from a trip. Meridian will automatically add the company's negotiated rate codes to each reservation; travelers do not need to enter them manually.</p>\n<p>Meridian is also offering a 30-minute webinar on 27 May at 10 a.m. and 2 p.m. The session will demonstrate how to book a trip, change a reservation, and request approval for travel outside the standard policy. Employees who attend will receive a quick-reference guide. To register, visit the Corporate Services page on the intranet.</p>",
+    "questionText": "What is the main purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce a change in the corporate card provider"
+      },
+      {
+        "key": "B",
+        "text": "(B) To introduce a new travel management provider and its procedures"
+      },
+      {
+        "key": "C",
+        "text": "(C) To remind employees to submit past expense reports"
+      },
+      {
+        "key": "D",
+        "text": "(D) To advertise discounted vacation packages"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của thông báo là gì? (A) Thông báo thay đổi nhà cung cấp thẻ công ty (B) Giới thiệu nhà cung cấp dịch vụ quản lý công tác mới và các thủ tục của họ (C) Nhắc nhân viên nộp các báo cáo chi phí cũ (D) Quảng cáo các gói nghỉ dưỡng giảm giá.",
+    "explanation": "Đáp án B. Thông báo cho biết Northstar 'has selected Meridian Travel as its sole travel management provider' và trình bày cách đặt chỗ, hoàn tiền, lưu biên lai. A sai vì thẻ công ty hiện tại vẫn được dùng, chỉ nhà cung cấp dịch vụ du lịch thay đổi. C sai vì hạn năm ngày áp dụng cho biên lai của chuyến đi sắp tới, không phải báo cáo cũ. D sai vì đây là quy định công tác, không bán kỳ nghỉ.",
+    "vocab": [
+      {
+        "word": "sole",
+        "pos": "adj.",
+        "meaning": "duy nhất"
+      },
+      {
+        "word": "reimburse",
+        "pos": "v.",
+        "meaning": "hoàn trả chi phí"
+      },
+      {
+        "word": "lodging",
+        "pos": "n.",
+        "meaning": "chỗ ở, nơi lưu trú"
+      },
+      {
+        "word": "negotiated rate",
+        "pos": "n. phr.",
+        "meaning": "giá đã thương lượng"
+      },
+      {
+        "word": "exception",
+        "pos": "n.",
+        "meaning": "trường hợp ngoại lệ"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following notice:",
+    "passageHtml": "<p><strong>TRAVEL NOTICE — NORTHSTAR CONSULTING</strong><br><strong>Effective:</strong> 1 June<br><strong>Issued by:</strong> Corporate Services</p>\n<p>To simplify booking and improve cost tracking, Northstar has selected Meridian Travel as its sole travel management provider. From 1 June, all business flights, rail tickets, and hotel reservations must be booked through Meridian's online portal or its 24-hour service desk. Bookings made through other agencies will not be reimbursed unless a written exception is approved in advance by the head of Corporate Services.</p>\n<p>Employees should continue to use their existing corporate card for airfare and lodging. Meals and local transportation may be charged to the same card, but receipts must be uploaded to the expense system within five business days of returning from a trip. Meridian will automatically add the company's negotiated rate codes to each reservation; travelers do not need to enter them manually.</p>\n<p>Meridian is also offering a 30-minute webinar on 27 May at 10 a.m. and 2 p.m. The session will demonstrate how to book a trip, change a reservation, and request approval for travel outside the standard policy. Employees who attend will receive a quick-reference guide. To register, visit the Corporate Services page on the intranet.</p>",
+    "questionText": "According to the notice, what happens if an employee books through another agency without a written exception?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The booking is automatically upgraded."
+      },
+      {
+        "key": "B",
+        "text": "(B) The employee must use personal leave."
+      },
+      {
+        "key": "C",
+        "text": "(C) The reservation is transferred to Meridian."
+      },
+      {
+        "key": "D",
+        "text": "(D) The cost will not be reimbursed."
+      }
+    ],
+    "correct": "D",
+    "translation": "Theo thông báo, điều gì xảy ra nếu nhân viên đặt chỗ qua một đại lý khác mà không có văn bản ngoại lệ? (A) Việc đặt chỗ được tự động nâng hạng. (B) Nhân viên phải dùng ngày phép cá nhân. (C) Đơn đặt chỗ được chuyển sang Meridian. (D) Chi phí sẽ không được hoàn trả.",
+    "explanation": "Đáp án D. Thông báo ghi: 'Bookings made through other agencies will not be reimbursed unless a written exception is approved in advance'. A, B và C đều không được nhắc đến; thông báo chỉ nói về việc không hoàn tiền, không nói đặt chỗ bị nâng hạng, buộc dùng phép hay chuyển sang Meridian.",
+    "vocab": [
+      {
+        "word": "in advance",
+        "pos": "adv. phr.",
+        "meaning": "trước, từ trước"
+      },
+      {
+        "word": "corporate card",
+        "pos": "n. phr.",
+        "meaning": "thẻ tín dụng công ty"
+      },
+      {
+        "word": "airfare",
+        "pos": "n.",
+        "meaning": "tiền vé máy bay"
+      },
+      {
+        "word": "expense system",
+        "pos": "n. phr.",
+        "meaning": "hệ thống báo cáo chi phí"
+      },
+      {
+        "word": "service desk",
+        "pos": "n. phr.",
+        "meaning": "bộ phận hỗ trợ khách hàng"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following notice:",
+    "passageHtml": "<p><strong>TRAVEL NOTICE — NORTHSTAR CONSULTING</strong><br><strong>Effective:</strong> 1 June<br><strong>Issued by:</strong> Corporate Services</p>\n<p>To simplify booking and improve cost tracking, Northstar has selected Meridian Travel as its sole travel management provider. From 1 June, all business flights, rail tickets, and hotel reservations must be booked through Meridian's online portal or its 24-hour service desk. Bookings made through other agencies will not be reimbursed unless a written exception is approved in advance by the head of Corporate Services.</p>\n<p>Employees should continue to use their existing corporate card for airfare and lodging. Meals and local transportation may be charged to the same card, but receipts must be uploaded to the expense system within five business days of returning from a trip. Meridian will automatically add the company's negotiated rate codes to each reservation; travelers do not need to enter them manually.</p>\n<p>Meridian is also offering a 30-minute webinar on 27 May at 10 a.m. and 2 p.m. The session will demonstrate how to book a trip, change a reservation, and request approval for travel outside the standard policy. Employees who attend will receive a quick-reference guide. To register, visit the Corporate Services page on the intranet.</p>",
+    "questionText": "What will the webinar demonstrate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) How to book and modify business trips"
+      },
+      {
+        "key": "B",
+        "text": "(B) How to apply for a corporate credit card"
+      },
+      {
+        "key": "C",
+        "text": "(C) How to negotiate lower hotel rates"
+      },
+      {
+        "key": "D",
+        "text": "(D) How to prepare a travel budget for clients"
+      }
+    ],
+    "correct": "A",
+    "translation": "Buổi hội thảo trực tuyến sẽ hướng dẫn điều gì? (A) Cách đặt và thay đổi các chuyến công tác (B) Cách xin cấp thẻ tín dụng công ty (C) Cách thương lượng giá phòng khách sạn thấp hơn (D) Cách lập ngân sách công tác cho khách hàng.",
+    "explanation": "Đáp án A. Thông báo nêu buổi hội thảo 'will demonstrate how to book a trip, change a reservation, and request approval for travel outside the standard policy'. Đây chính là đặt và sửa chuyến đi. B sai vì thẻ công ty đã có sẵn, không phải nội dung hội thảo. C sai vì Meridian tự động thêm mã giá đã thương lượng, không dạy thương lượng. D sai vì không có nội dung lập ngân sách cho khách hàng.",
+    "vocab": [
+      {
+        "word": "webinar",
+        "pos": "n.",
+        "meaning": "hội thảo trực tuyến"
+      },
+      {
+        "word": "modify",
+        "pos": "v.",
+        "meaning": "thay đổi, chỉnh sửa"
+      },
+      {
+        "word": "quick-reference guide",
+        "pos": "n. phr.",
+        "meaning": "tài liệu hướng dẫn tra cứu nhanh"
+      },
+      {
+        "word": "standard policy",
+        "pos": "n. phr.",
+        "meaning": "chính sách tiêu chuẩn"
+      },
+      {
+        "word": "portal",
+        "pos": "n.",
+        "meaning": "cổng thông tin trực tuyến"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following article:",
+    "passageHtml": "<p><strong>Learning That Sticks: Cobalt Engineering's Peer Mentoring Program</strong></p>\n<p>When Cobalt Engineering hired 40 junior project managers last year, the company's human resources team expected the usual six-month onboarding period. Instead, new employees were paired with experienced staff members for weekly one-hour meetings during their first three months. The results surprised even the program's designers: retention among the new hires rose from 78 percent to 91 percent, and managers reported that newcomers were independently leading small client meetings nearly a month earlier than in previous years.</p>\n<p>The program differs from traditional mentoring in one important way. Rather than assigning mentors by seniority, Cobalt matches people based on the skills the newcomer most wants to develop. A junior manager who struggles with cost estimating, for example, may be paired with a senior estimator from another division. Mentors receive a modest stipend and are recognized at the company's quarterly town hall.</p>\n<p>According to Learning Director Amara Osei, the next step is to extend the program to field engineers. 'We are not trying to replace formal training,' she explains. 'We are giving people a reliable relationship to turn to when a textbook answer is not enough.'</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A decline in retention among senior managers"
+      },
+      {
+        "key": "B",
+        "text": "(B) A new method for evaluating job applicants"
+      },
+      {
+        "key": "C",
+        "text": "(C) A company's peer mentoring program and its results"
+      },
+      {
+        "key": "D",
+        "text": "(D) A textbook-based engineering course"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bài viết chủ yếu nói về điều gì? (A) Sự sụt giảm tỷ lệ giữ chân nhân viên quản lý cấp cao (B) Một phương pháp mới để đánh giá ứng viên (C) Chương trình cố vấn đồng nghiệp của một công ty và kết quả của nó (D) Một khóa học kỹ thuật dựa trên sách giáo khoa.",
+    "explanation": "Đáp án C. Tiêu đề và toàn bộ bài viết mô tả chương trình 'Peer Mentoring Program' của Cobalt Engineering, cách ghép cặp và kết quả như tỷ lệ giữ chân tăng từ 78% lên 91%. A sai vì tỷ lệ giữ chân tăng, không giảm, và đối tượng là nhân viên mới. B sai vì bài viết không nói về tuyển dụng hay đánh giá ứng viên. D sai vì chương trình dựa trên quan hệ cố vấn, không phải khóa học từ sách giáo khoa.",
+    "vocab": [
+      {
+        "word": "retention",
+        "pos": "n.",
+        "meaning": "tỷ lệ giữ chân nhân viên"
+      },
+      {
+        "word": "onboarding",
+        "pos": "n.",
+        "meaning": "quá trình hòa nhập nhân viên mới"
+      },
+      {
+        "word": "mentor",
+        "pos": "n.",
+        "meaning": "người cố vấn, người hướng dẫn"
+      },
+      {
+        "word": "seniority",
+        "pos": "n.",
+        "meaning": "thâm niên, thứ bậc theo thời gian làm việc"
+      },
+      {
+        "word": "stipend",
+        "pos": "n.",
+        "meaning": "khoản phụ cấp"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following article:",
+    "passageHtml": "<p><strong>Learning That Sticks: Cobalt Engineering's Peer Mentoring Program</strong></p>\n<p>When Cobalt Engineering hired 40 junior project managers last year, the company's human resources team expected the usual six-month onboarding period. Instead, new employees were paired with experienced staff members for weekly one-hour meetings during their first three months. The results surprised even the program's designers: retention among the new hires rose from 78 percent to 91 percent, and managers reported that newcomers were independently leading small client meetings nearly a month earlier than in previous years.</p>\n<p>The program differs from traditional mentoring in one important way. Rather than assigning mentors by seniority, Cobalt matches people based on the skills the newcomer most wants to develop. A junior manager who struggles with cost estimating, for example, may be paired with a senior estimator from another division. Mentors receive a modest stipend and are recognized at the company's quarterly town hall.</p>\n<p>According to Learning Director Amara Osei, the next step is to extend the program to field engineers. 'We are not trying to replace formal training,' she explains. 'We are giving people a reliable relationship to turn to when a textbook answer is not enough.'</p>",
+    "questionText": "According to the article, how are mentors matched with new employees?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By the mentor's length of service"
+      },
+      {
+        "key": "B",
+        "text": "(B) By the skills the new employee wants to develop"
+      },
+      {
+        "key": "C",
+        "text": "(C) By the mentor's division only"
+      },
+      {
+        "key": "D",
+        "text": "(D) By the results of a written test"
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo bài viết, người cố vấn được ghép với nhân viên mới như thế nào? (A) Dựa trên thời gian làm việc của người cố vấn (B) Dựa trên kỹ năng mà nhân viên mới muốn phát triển (C) Chỉ dựa trên bộ phận của người cố vấn (D) Dựa trên kết quả một bài kiểm tra viết.",
+    "explanation": "Đáp án B. Bài viết nêu rõ: 'Cobalt matches people based on the skills the newcomer most wants to develop', và ví dụ về quản lý trẻ yếu kỹ năng ước tính chi phí được ghép với chuyên gia ước tính. A sai vì chương trình 'Rather than assigning mentors by seniority' — không dựa vào thâm niên. C sai vì ví dụ cho thấy người cố vấn có thể đến từ bộ phận khác. D sai vì không có bài kiểm tra viết nào.",
+    "vocab": [
+      {
+        "word": "match",
+        "pos": "v.",
+        "meaning": "ghép cặp, kết nối"
+      },
+      {
+        "word": "division",
+        "pos": "n.",
+        "meaning": "bộ phận, phòng ban"
+      },
+      {
+        "word": "cost estimating",
+        "pos": "n. phr.",
+        "meaning": "ước tính chi phí"
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "meaning": "phân công, chỉ định"
+      },
+      {
+        "word": "newcomer",
+        "pos": "n.",
+        "meaning": "người mới đến, nhân viên mới"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following article:",
+    "passageHtml": "<p><strong>Learning That Sticks: Cobalt Engineering's Peer Mentoring Program</strong></p>\n<p>When Cobalt Engineering hired 40 junior project managers last year, the company's human resources team expected the usual six-month onboarding period. Instead, new employees were paired with experienced staff members for weekly one-hour meetings during their first three months. The results surprised even the program's designers: retention among the new hires rose from 78 percent to 91 percent, and managers reported that newcomers were independently leading small client meetings nearly a month earlier than in previous years.</p>\n<p>The program differs from traditional mentoring in one important way. Rather than assigning mentors by seniority, Cobalt matches people based on the skills the newcomer most wants to develop. A junior manager who struggles with cost estimating, for example, may be paired with a senior estimator from another division. Mentors receive a modest stipend and are recognized at the company's quarterly town hall.</p>\n<p>According to Learning Director Amara Osei, the next step is to extend the program to field engineers. 'We are not trying to replace formal training,' she explains. 'We are giving people a reliable relationship to turn to when a textbook answer is not enough.'</p>",
+    "questionText": "What does Ms. Osei say about formal training?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It should be discontinued."
+      },
+      {
+        "key": "B",
+        "text": "(B) It is more effective than mentoring."
+      },
+      {
+        "key": "C",
+        "text": "(C) It is too expensive for junior staff."
+      },
+      {
+        "key": "D",
+        "text": "(D) It is supported by, not replaced by, mentoring."
+      }
+    ],
+    "correct": "D",
+    "translation": "Bà Osei nói gì về đào tạo chính quy? (A) Nên ngừng đào tạo chính quy. (B) Nó hiệu quả hơn cố vấn. (C) Nó quá tốn kém đối với nhân viên cấp dưới. (D) Nó được hỗ trợ chứ không bị thay thế bởi cố vấn.",
+    "explanation": "Đáp án D. Bà Osei nói: 'We are not trying to replace formal training... We are giving people a reliable relationship to turn to when a textbook answer is not enough.' Như vậy cố vấn bổ trợ cho đào tạo chính quy. A và B trái với phát biểu. C sai vì không có thông tin nào về chi phí đào tạo chính quy.",
+    "vocab": [
+      {
+        "word": "formal training",
+        "pos": "n. phr.",
+        "meaning": "đào tạo chính quy"
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "meaning": "thay thế"
+      },
+      {
+        "word": "reliable",
+        "pos": "adj.",
+        "meaning": "đáng tin cậy"
+      },
+      {
+        "word": "turn to",
+        "pos": "v. phr.",
+        "meaning": "tìm đến để được giúp đỡ"
+      },
+      {
+        "word": "field engineer",
+        "pos": "n. phr.",
+        "meaning": "kỹ sư hiện trường"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following advertisement:",
+    "passageHtml": "<p><strong>SUMMIT BUILDING SUPPLY</strong><br><strong>Contractor Advantage Program</strong></p>\n<p>Running a construction business means juggling deadlines, suppliers, and tight margins. Summit's Contractor Advantage Program is designed to make at least one of those easier. Members receive tiered pricing on lumber, cement, and structural steel, with discounts starting at 8 percent on orders of $5,000 or more. Orders placed before 2 p.m. are delivered to job sites within a 60-mile radius the next business day.</p>\n<p>Membership is free for licensed contractors. To join, provide a copy of your contractor license and a completed application at any Summit branch. Once approved, you will receive a member number that can be used online or by phone. A dedicated account representative will contact you within two business days to discuss your typical material needs and set up recurring orders.</p>\n<p>For projects requiring specialized products, Summit's estimating team can prepare a detailed materials list from your blueprints at no charge. Send drawings to estimates@summitbuild.com at least five business days before you need pricing. Please note that promotional discounts cannot be combined with member pricing.</p>",
+    "questionText": "What is the purpose of the advertisement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To describe a discount program for contractors"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce a new line of power tools"
+      },
+      {
+        "key": "C",
+        "text": "(C) To recruit construction project managers"
+      },
+      {
+        "key": "D",
+        "text": "(D) To promote a series of safety classes"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của quảng cáo là gì? (A) Mô tả một chương trình giảm giá dành cho nhà thầu (B) Thông báo dòng dụng cụ điện mới (C) Tuyển dụng quản lý dự án xây dựng (D) Quảng bá một loạt lớp học an toàn.",
+    "explanation": "Đáp án A. Quảng cáo giới thiệu 'Contractor Advantage Program' với giá theo bậc, giảm từ 8% cho đơn từ 5.000 đô la và quyền lợi thành viên. B sai vì không có dụng cụ điện nào được nhắc đến. C sai vì không tuyển dụng. D sai vì không có lớp an toàn; sản phẩm là vật liệu xây dựng.",
+    "vocab": [
+      {
+        "word": "tiered pricing",
+        "pos": "n. phr.",
+        "meaning": "giá theo bậc số lượng"
+      },
+      {
+        "word": "margin",
+        "pos": "n.",
+        "meaning": "biên lợi nhuận"
+      },
+      {
+        "word": "contractor",
+        "pos": "n.",
+        "meaning": "nhà thầu"
+      },
+      {
+        "word": "lumber",
+        "pos": "n.",
+        "meaning": "gỗ xẻ, gỗ xây dựng"
+      },
+      {
+        "word": "recurring order",
+        "pos": "n. phr.",
+        "meaning": "đơn hàng định kỳ"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following advertisement:",
+    "passageHtml": "<p><strong>SUMMIT BUILDING SUPPLY</strong><br><strong>Contractor Advantage Program</strong></p>\n<p>Running a construction business means juggling deadlines, suppliers, and tight margins. Summit's Contractor Advantage Program is designed to make at least one of those easier. Members receive tiered pricing on lumber, cement, and structural steel, with discounts starting at 8 percent on orders of $5,000 or more. Orders placed before 2 p.m. are delivered to job sites within a 60-mile radius the next business day.</p>\n<p>Membership is free for licensed contractors. To join, provide a copy of your contractor license and a completed application at any Summit branch. Once approved, you will receive a member number that can be used online or by phone. A dedicated account representative will contact you within two business days to discuss your typical material needs and set up recurring orders.</p>\n<p>For projects requiring specialized products, Summit's estimating team can prepare a detailed materials list from your blueprints at no charge. Send drawings to estimates@summitbuild.com at least five business days before you need pricing. Please note that promotional discounts cannot be combined with member pricing.</p>",
+    "questionText": "What must applicants provide to join the program?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A list of completed projects"
+      },
+      {
+        "key": "B",
+        "text": "(B) A deposit of $5,000"
+      },
+      {
+        "key": "C",
+        "text": "(C) A copy of their contractor license and an application"
+      },
+      {
+        "key": "D",
+        "text": "(D) A letter from their bank"
+      }
+    ],
+    "correct": "C",
+    "translation": "Ứng viên phải cung cấp gì để tham gia chương trình? (A) Danh sách các dự án đã hoàn thành (B) Khoản đặt cọc 5.000 đô la (C) Bản sao giấy phép nhà thầu và đơn đăng ký (D) Thư từ ngân hàng của họ.",
+    "explanation": "Đáp án C. Quảng cáo hướng dẫn: 'provide a copy of your contractor license and a completed application at any Summit branch'. A, B và D không được nhắc đến. Con số 5.000 đô la là ngưỡng đơn hàng để bắt đầu được giảm giá, không phải tiền đặt cọc.",
+    "vocab": [
+      {
+        "word": "licensed",
+        "pos": "adj.",
+        "meaning": "có giấy phép hành nghề"
+      },
+      {
+        "word": "application",
+        "pos": "n.",
+        "meaning": "đơn đăng ký"
+      },
+      {
+        "word": "branch",
+        "pos": "n.",
+        "meaning": "chi nhánh"
+      },
+      {
+        "word": "dedicated",
+        "pos": "adj.",
+        "meaning": "chuyên trách, dành riêng"
+      },
+      {
+        "word": "account representative",
+        "pos": "n. phr.",
+        "meaning": "nhân viên phụ trách tài khoản"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following advertisement:",
+    "passageHtml": "<p><strong>SUMMIT BUILDING SUPPLY</strong><br><strong>Contractor Advantage Program</strong></p>\n<p>Running a construction business means juggling deadlines, suppliers, and tight margins. Summit's Contractor Advantage Program is designed to make at least one of those easier. Members receive tiered pricing on lumber, cement, and structural steel, with discounts starting at 8 percent on orders of $5,000 or more. Orders placed before 2 p.m. are delivered to job sites within a 60-mile radius the next business day.</p>\n<p>Membership is free for licensed contractors. To join, provide a copy of your contractor license and a completed application at any Summit branch. Once approved, you will receive a member number that can be used online or by phone. A dedicated account representative will contact you within two business days to discuss your typical material needs and set up recurring orders.</p>\n<p>For projects requiring specialized products, Summit's estimating team can prepare a detailed materials list from your blueprints at no charge. Send drawings to estimates@summitbuild.com at least five business days before you need pricing. Please note that promotional discounts cannot be combined with member pricing.</p>",
+    "questionText": "What free service does Summit offer?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Delivery within 30 miles"
+      },
+      {
+        "key": "B",
+        "text": "(B) A materials list prepared from blueprints"
+      },
+      {
+        "key": "C",
+        "text": "(C) Installation of structural steel"
+      },
+      {
+        "key": "D",
+        "text": "(D) A two-day estimating course"
+      }
+    ],
+    "correct": "B",
+    "translation": "Summit cung cấp dịch vụ miễn phí nào? (A) Giao hàng trong phạm vi 30 dặm (B) Danh sách vật tư được lập từ bản vẽ thiết kế (C) Lắp đặt thép kết cấu (D) Khóa học ước tính hai ngày.",
+    "explanation": "Đáp án B. Quảng cáo nêu: 'Summit's estimating team can prepare a detailed materials list from your blueprints at no charge'. A sai vì giao hàng trong bán kính 60 dặm, không phải 30 dặm, và không nói miễn phí. C sai vì Summit bán thép kết cấu, không lắp đặt. D sai vì không có khóa học nào.",
+    "vocab": [
+      {
+        "word": "blueprint",
+        "pos": "n.",
+        "meaning": "bản vẽ thiết kế kỹ thuật"
+      },
+      {
+        "word": "estimating",
+        "pos": "n.",
+        "meaning": "công tác ước tính, dự toán"
+      },
+      {
+        "word": "structural steel",
+        "pos": "n. phr.",
+        "meaning": "thép kết cấu"
+      },
+      {
+        "word": "at no charge",
+        "pos": "adv. phr.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "promotional discount",
+        "pos": "n. phr.",
+        "meaning": "chiết khấu khuyến mại"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following chat:",
+    "passageHtml": "<p><strong>Live Chat — Bellamy Outfitters</strong><br><strong>Customer:</strong> Grace Lin<br><strong>Agent:</strong> Theo</p>\n<p><strong>Theo:</strong> Hello, Grace. How can I help you today?</p>\n<p><strong>Grace:</strong> Hi. I ordered a rain jacket (order #RB-20881) on 3 October, but the one that arrived is dark green. I ordered slate blue. I'd like the correct color, but I leave for a hiking trip on 18 October.</p>\n<p><strong>Theo:</strong> I'm sorry about the mix-up. Let me check stock. The slate blue jacket is available in your size. Because the error was ours, I can send it by express shipping at no extra cost. It would arrive on 14 October, well before your trip.</p>\n<p><strong>Grace:</strong> That works. Do I need to return the green one first?</p>\n<p><strong>Theo:</strong> No. I'll e-mail you a prepaid return label. Please drop the green jacket at any Bellamy store or with the courier within 21 days. Your card will be charged for the new jacket now, and the refund for the returned item will be processed within five business days after it reaches our warehouse.</p>\n<p><strong>Grace:</strong> Great, please go ahead. Could you also send the tracking number to my e-mail?</p>\n<p><strong>Theo:</strong> Certainly. You'll receive it as soon as the package leaves our facility.</p>",
+    "questionText": "Why does Ms. Lin contact Bellamy Outfitters?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To cancel an order"
+      },
+      {
+        "key": "B",
+        "text": "(B) To ask about a delayed delivery"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request a larger size"
+      },
+      {
+        "key": "D",
+        "text": "(D) To report receiving the wrong color"
+      }
+    ],
+    "correct": "D",
+    "translation": "Vì sao bà Lin liên hệ với Bellamy Outfitters? (A) Để hủy đơn hàng (B) Để hỏi về một đơn giao hàng bị trễ (C) Để yêu cầu cỡ lớn hơn (D) Để báo rằng đã nhận sai màu.",
+    "explanation": "Đáp án D. Grace cho biết chiếc áo khoác nhận được là 'dark green' trong khi cô đã đặt màu 'slate blue'. A sai vì cô muốn đổi sang đúng màu, không hủy đơn. B sai vì vấn đề là màu sắc chứ không phải thời gian giao hàng. C sai vì cô không yêu cầu cỡ khác; Theo xác nhận áo màu xanh đá có sẵn 'in your size'.",
+    "vocab": [
+      {
+        "word": "mix-up",
+        "pos": "n.",
+        "meaning": "sự nhầm lẫn"
+      },
+      {
+        "word": "exchange",
+        "pos": "v.",
+        "meaning": "đổi hàng"
+      },
+      {
+        "word": "express shipping",
+        "pos": "n. phr.",
+        "meaning": "giao hàng nhanh"
+      },
+      {
+        "word": "prepaid",
+        "pos": "adj.",
+        "meaning": "đã trả trước"
+      },
+      {
+        "word": "courier",
+        "pos": "n.",
+        "meaning": "nhân viên chuyển phát"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following chat:",
+    "passageHtml": "<p><strong>Live Chat — Bellamy Outfitters</strong><br><strong>Customer:</strong> Grace Lin<br><strong>Agent:</strong> Theo</p>\n<p><strong>Theo:</strong> Hello, Grace. How can I help you today?</p>\n<p><strong>Grace:</strong> Hi. I ordered a rain jacket (order #RB-20881) on 3 October, but the one that arrived is dark green. I ordered slate blue. I'd like the correct color, but I leave for a hiking trip on 18 October.</p>\n<p><strong>Theo:</strong> I'm sorry about the mix-up. Let me check stock. The slate blue jacket is available in your size. Because the error was ours, I can send it by express shipping at no extra cost. It would arrive on 14 October, well before your trip.</p>\n<p><strong>Grace:</strong> That works. Do I need to return the green one first?</p>\n<p><strong>Theo:</strong> No. I'll e-mail you a prepaid return label. Please drop the green jacket at any Bellamy store or with the courier within 21 days. Your card will be charged for the new jacket now, and the refund for the returned item will be processed within five business days after it reaches our warehouse.</p>\n<p><strong>Grace:</strong> Great, please go ahead. Could you also send the tracking number to my e-mail?</p>\n<p><strong>Theo:</strong> Certainly. You'll receive it as soon as the package leaves our facility.</p>",
+    "questionText": "What does Theo offer Ms. Lin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A full refund without returning the jacket"
+      },
+      {
+        "key": "B",
+        "text": "(B) Free express shipping for the replacement"
+      },
+      {
+        "key": "C",
+        "text": "(C) A discount on her next order"
+      },
+      {
+        "key": "D",
+        "text": "(D) A different style of jacket"
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo đề nghị gì với bà Lin? (A) Hoàn tiền toàn bộ mà không cần trả lại áo (B) Miễn phí giao hàng nhanh cho chiếc áo thay thế (C) Giảm giá cho đơn hàng tiếp theo (D) Một kiểu áo khác.",
+    "explanation": "Đáp án B. Theo nói: 'Because the error was ours, I can send it by express shipping at no extra cost.' A sai vì cô vẫn bị trừ tiền cho áo mới và phải trả lại áo cũ để được hoàn tiền. C sai vì không có ưu đãi giảm giá cho đơn sau. D sai vì anh gửi lại đúng mẫu áo màu xanh đá, không phải kiểu khác.",
+    "vocab": [
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "meaning": "hàng thay thế"
+      },
+      {
+        "word": "at no extra cost",
+        "pos": "adv. phr.",
+        "meaning": "không phát sinh thêm chi phí"
+      },
+      {
+        "word": "stock",
+        "pos": "n.",
+        "meaning": "hàng tồn kho"
+      },
+      {
+        "word": "refund",
+        "pos": "n.",
+        "meaning": "tiền hoàn lại"
+      },
+      {
+        "word": "process",
+        "pos": "v.",
+        "meaning": "xử lý"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following chat:",
+    "passageHtml": "<p><strong>Live Chat — Bellamy Outfitters</strong><br><strong>Customer:</strong> Grace Lin<br><strong>Agent:</strong> Theo</p>\n<p><strong>Theo:</strong> Hello, Grace. How can I help you today?</p>\n<p><strong>Grace:</strong> Hi. I ordered a rain jacket (order #RB-20881) on 3 October, but the one that arrived is dark green. I ordered slate blue. I'd like the correct color, but I leave for a hiking trip on 18 October.</p>\n<p><strong>Theo:</strong> I'm sorry about the mix-up. Let me check stock. The slate blue jacket is available in your size. Because the error was ours, I can send it by express shipping at no extra cost. It would arrive on 14 October, well before your trip.</p>\n<p><strong>Grace:</strong> That works. Do I need to return the green one first?</p>\n<p><strong>Theo:</strong> No. I'll e-mail you a prepaid return label. Please drop the green jacket at any Bellamy store or with the courier within 21 days. Your card will be charged for the new jacket now, and the refund for the returned item will be processed within five business days after it reaches our warehouse.</p>\n<p><strong>Grace:</strong> Great, please go ahead. Could you also send the tracking number to my e-mail?</p>\n<p><strong>Theo:</strong> Certainly. You'll receive it as soon as the package leaves our facility.</p>",
+    "questionText": "What is Ms. Lin required to do with the green jacket?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Return it within 21 days using a prepaid label"
+      },
+      {
+        "key": "B",
+        "text": "(B) Bring it to a warehouse in person"
+      },
+      {
+        "key": "C",
+        "text": "(C) Pay for the return shipping"
+      },
+      {
+        "key": "D",
+        "text": "(D) Keep it until the new jacket arrives"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bà Lin phải làm gì với chiếc áo màu xanh lá? (A) Trả lại trong vòng 21 ngày bằng nhãn trả hàng trả trước (B) Tự mang đến kho (C) Trả phí vận chuyển hàng hoàn (D) Giữ lại cho đến khi áo mới đến.",
+    "explanation": "Đáp án A. Theo hướng dẫn: 'I'll e-mail you a prepaid return label. Please drop the green jacket at any Bellamy store or with the courier within 21 days.' B sai vì có thể trả tại bất kỳ cửa hàng Bellamy hoặc cho đơn vị chuyển phát, không bắt buộc đến kho. C sai vì nhãn đã trả trước. D sai vì cô không cần chờ áo mới mới trả áo cũ.",
+    "vocab": [
+      {
+        "word": "return label",
+        "pos": "n. phr.",
+        "meaning": "nhãn dán trả hàng"
+      },
+      {
+        "word": "drop off",
+        "pos": "v. phr.",
+        "meaning": "gửi, để lại hàng"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n.",
+        "meaning": "kho hàng"
+      },
+      {
+        "word": "tracking number",
+        "pos": "n. phr.",
+        "meaning": "mã vận đơn để theo dõi"
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở, nhà xưởng"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Simone Duarte, Events Coordinator, Halden Robotics<br><strong>From:</strong> Peter Lang, Accounts Payable, Halden Robotics<br><strong>Date:</strong> 11 November<br><strong>Subject:</strong> Invoice 8842 — Robotics Expo</p>\n<p>Hi Simone,</p>\n<p>I'm reviewing the invoices for last month's Robotics Expo, and I need your help clarifying invoice 8842 from EventPro Logistics. The invoice lists a charge of $6,400 for booth setup and an additional $1,150 labeled 'electrical connection.' Our signed contract with EventPro states that standard electrical service is included in the booth package. I don't see any approved change order for extra work.</p>\n<p>I've asked EventPro to provide a revised invoice or documentation supporting the additional charge. Until we receive that, I will hold the entire payment rather than pay the undisputed portion, because our policy requires matching invoices to an approved purchase order. The current purchase order covers only the $6,400 base amount.</p>\n<p>Could you confirm whether anyone on your team requested additional electrical equipment on site? If so, please send me the name of the person who approved it and the date. I need this information by Friday so I can resolve the matter before the vendor's payment deadline on 20 November.</p>\n<p>Thanks,<br>Peter</p>",
+    "questionText": "Why is Mr. Lang writing to Ms. Duarte?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To approve a purchase order"
+      },
+      {
+        "key": "B",
+        "text": "(B) To request a booth at a trade show"
+      },
+      {
+        "key": "C",
+        "text": "(C) To question an additional charge on an invoice"
+      },
+      {
+        "key": "D",
+        "text": "(D) To complain about a late payment"
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao ông Lang viết thư cho bà Duarte? (A) Để phê duyệt một đơn đặt hàng (B) Để xin một gian hàng tại hội chợ (C) Để chất vấn một khoản phí phát sinh trên hóa đơn (D) Để phàn nàn về việc thanh toán muộn.",
+    "explanation": "Đáp án C. Ông Lang nói cần bà Duarte giúp 'clarifying invoice 8842' và tập trung vào khoản phí thêm 1.150 đô la cho 'electrical connection'. A sai vì ông đang giữ thanh toán, không phê duyệt đơn hàng. B sai vì hội chợ đã diễn ra tháng trước. D sai vì hạn thanh toán là ngày 20 tháng 11, chưa phải khoản thanh toán muộn.",
+    "vocab": [
+      {
+        "word": "accounts payable",
+        "pos": "n. phr.",
+        "meaning": "bộ phận công nợ phải trả"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      },
+      {
+        "word": "clarify",
+        "pos": "v.",
+        "meaning": "làm rõ"
+      },
+      {
+        "word": "booth setup",
+        "pos": "n. phr.",
+        "meaning": "việc lắp đặt gian hàng"
+      },
+      {
+        "word": "change order",
+        "pos": "n. phr.",
+        "meaning": "lệnh thay đổi phạm vi công việc"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Simone Duarte, Events Coordinator, Halden Robotics<br><strong>From:</strong> Peter Lang, Accounts Payable, Halden Robotics<br><strong>Date:</strong> 11 November<br><strong>Subject:</strong> Invoice 8842 — Robotics Expo</p>\n<p>Hi Simone,</p>\n<p>I'm reviewing the invoices for last month's Robotics Expo, and I need your help clarifying invoice 8842 from EventPro Logistics. The invoice lists a charge of $6,400 for booth setup and an additional $1,150 labeled 'electrical connection.' Our signed contract with EventPro states that standard electrical service is included in the booth package. I don't see any approved change order for extra work.</p>\n<p>I've asked EventPro to provide a revised invoice or documentation supporting the additional charge. Until we receive that, I will hold the entire payment rather than pay the undisputed portion, because our policy requires matching invoices to an approved purchase order. The current purchase order covers only the $6,400 base amount.</p>\n<p>Could you confirm whether anyone on your team requested additional electrical equipment on site? If so, please send me the name of the person who approved it and the date. I need this information by Friday so I can resolve the matter before the vendor's payment deadline on 20 November.</p>\n<p>Thanks,<br>Peter</p>",
+    "questionText": "Why will Mr. Lang hold the entire payment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The vendor missed the payment deadline."
+      },
+      {
+        "key": "B",
+        "text": "(B) Company policy requires an invoice to match an approved purchase order."
+      },
+      {
+        "key": "C",
+        "text": "(C) The event was canceled at the last minute."
+      },
+      {
+        "key": "D",
+        "text": "(D) His department has exceeded its budget."
+      }
+    ],
+    "correct": "B",
+    "translation": "Vì sao ông Lang sẽ giữ toàn bộ khoản thanh toán? (A) Nhà cung cấp đã bỏ lỡ hạn thanh toán. (B) Chính sách công ty yêu cầu hóa đơn phải khớp với đơn đặt hàng đã được phê duyệt. (C) Sự kiện đã bị hủy vào phút chót. (D) Bộ phận của ông đã vượt ngân sách.",
+    "explanation": "Đáp án B. Ông giải thích: 'our policy requires matching invoices to an approved purchase order. The current purchase order covers only the $6,400 base amount.' Vì hóa đơn có khoản 1.150 đô la chưa được đơn hàng phê duyệt bao gồm, ông giữ toàn bộ. A sai vì hạn thanh toán là 20 tháng 11, chưa tới. C sai vì không có thông tin hủy sự kiện. D sai vì thư không nhắc đến ngân sách bộ phận.",
+    "vocab": [
+      {
+        "word": "hold payment",
+        "pos": "v. phr.",
+        "meaning": "giữ lại khoản thanh toán"
+      },
+      {
+        "word": "undisputed",
+        "pos": "adj.",
+        "meaning": "không có tranh chấp"
+      },
+      {
+        "word": "purchase order",
+        "pos": "n. phr.",
+        "meaning": "đơn đặt hàng"
+      },
+      {
+        "word": "base amount",
+        "pos": "n. phr.",
+        "meaning": "số tiền cơ bản"
+      },
+      {
+        "word": "documentation",
+        "pos": "n.",
+        "meaning": "tài liệu chứng minh"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Simone Duarte, Events Coordinator, Halden Robotics<br><strong>From:</strong> Peter Lang, Accounts Payable, Halden Robotics<br><strong>Date:</strong> 11 November<br><strong>Subject:</strong> Invoice 8842 — Robotics Expo</p>\n<p>Hi Simone,</p>\n<p>I'm reviewing the invoices for last month's Robotics Expo, and I need your help clarifying invoice 8842 from EventPro Logistics. The invoice lists a charge of $6,400 for booth setup and an additional $1,150 labeled 'electrical connection.' Our signed contract with EventPro states that standard electrical service is included in the booth package. I don't see any approved change order for extra work.</p>\n<p>I've asked EventPro to provide a revised invoice or documentation supporting the additional charge. Until we receive that, I will hold the entire payment rather than pay the undisputed portion, because our policy requires matching invoices to an approved purchase order. The current purchase order covers only the $6,400 base amount.</p>\n<p>Could you confirm whether anyone on your team requested additional electrical equipment on site? If so, please send me the name of the person who approved it and the date. I need this information by Friday so I can resolve the matter before the vendor's payment deadline on 20 November.</p>\n<p>Thanks,<br>Peter</p>",
+    "questionText": "What does Mr. Lang ask Ms. Duarte to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Send a revised contract to EventPro"
+      },
+      {
+        "key": "B",
+        "text": "(B) Approve an increase to the purchase order"
+      },
+      {
+        "key": "C",
+        "text": "(C) Contact the vendor's legal department"
+      },
+      {
+        "key": "D",
+        "text": "(D) Confirm whether extra equipment was requested and who approved it"
+      }
+    ],
+    "correct": "D",
+    "translation": "Ông Lang yêu cầu bà Duarte làm gì? (A) Gửi hợp đồng sửa đổi cho EventPro (B) Phê duyệt việc tăng đơn đặt hàng (C) Liên hệ bộ phận pháp lý của nhà cung cấp (D) Xác nhận liệu có ai yêu cầu thêm thiết bị và ai đã phê duyệt.",
+    "explanation": "Đáp án D. Ông hỏi: 'Could you confirm whether anyone on your team requested additional electrical equipment on site? If so, please send me the name of the person who approved it and the date.' A sai vì ông đã tự yêu cầu EventPro cung cấp hóa đơn sửa đổi. B sai vì ông không đề nghị tăng đơn hàng; ông nói đơn hiện tại chỉ chi trả 6.400 đô la. C sai vì không nhắc đến bộ phận pháp lý.",
+    "vocab": [
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "on site",
+        "pos": "adv. phr.",
+        "meaning": "tại chỗ, tại hiện trường"
+      },
+      {
+        "word": "approve",
+        "pos": "v.",
+        "meaning": "phê duyệt"
+      },
+      {
+        "word": "resolve",
+        "pos": "v.",
+        "meaning": "giải quyết"
+      },
+      {
+        "word": "vendor",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following notice:",
+    "passageHtml": "<p><strong>SITE SAFETY NOTICE — RIVERBEND CONSTRUCTION</strong><br><strong>Project:</strong> Eastgate Medical Center<br><strong>Date:</strong> 5 May</p>\n<p>All personnel working on the Eastgate site must complete the updated fall-protection training by 30 May. The training is required for anyone who works at heights above two meters, including subcontractors. Workers who have not completed the course will not be permitted on the upper floors after 30 May.</p>\n<p>Sessions will be held in the site trailer on 13 May (7 a.m. and 4 p.m.), 20 May (7 a.m.), and 27 May (4 p.m.). Each session lasts approximately 90 minutes and includes a practical demonstration of harness inspection. Space is limited to 20 participants per session. To reserve a place, contact site administrator Rosa Mendes at least two days in advance and bring your safety badge to the session.</p>\n<p>Employees who completed the previous version of the course in the past 12 months may take a 30-minute refresher instead of the full session. Refresher times are posted on the bulletin board near the main gate. If you are unsure whether you qualify, speak with your supervisor before registering.</p>",
+    "questionText": "What is the purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce new working hours at Eastgate"
+      },
+      {
+        "key": "B",
+        "text": "(B) To explain mandatory updated safety training"
+      },
+      {
+        "key": "C",
+        "text": "(C) To introduce a new site administrator"
+      },
+      {
+        "key": "D",
+        "text": "(D) To report an accident on the project"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích của thông báo là gì? (A) Thông báo giờ làm việc mới tại Eastgate (B) Giải thích buổi đào tạo an toàn cập nhật bắt buộc (C) Giới thiệu quản trị viên công trường mới (D) Báo cáo một vụ tai nạn tại dự án.",
+    "explanation": "Đáp án B. Thông báo mở đầu: 'All personnel working on the Eastgate site must complete the updated fall-protection training by 30 May', sau đó nêu lịch học và yêu cầu. A sai vì không có giờ làm việc mới. C sai vì Rosa Mendes chỉ là người liên hệ để đăng ký, không phải nhân sự mới được giới thiệu. D sai vì không có tai nạn nào được báo cáo.",
+    "vocab": [
+      {
+        "word": "fall protection",
+        "pos": "n. phr.",
+        "meaning": "bảo hộ chống ngã cao"
+      },
+      {
+        "word": "personnel",
+        "pos": "n.",
+        "meaning": "nhân sự"
+      },
+      {
+        "word": "subcontractor",
+        "pos": "n.",
+        "meaning": "nhà thầu phụ"
+      },
+      {
+        "word": "site trailer",
+        "pos": "n. phr.",
+        "meaning": "nhà container tại công trường"
+      },
+      {
+        "word": "refresher",
+        "pos": "n.",
+        "meaning": "buổi ôn tập, cập nhật ngắn"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following notice:",
+    "passageHtml": "<p><strong>SITE SAFETY NOTICE — RIVERBEND CONSTRUCTION</strong><br><strong>Project:</strong> Eastgate Medical Center<br><strong>Date:</strong> 5 May</p>\n<p>All personnel working on the Eastgate site must complete the updated fall-protection training by 30 May. The training is required for anyone who works at heights above two meters, including subcontractors. Workers who have not completed the course will not be permitted on the upper floors after 30 May.</p>\n<p>Sessions will be held in the site trailer on 13 May (7 a.m. and 4 p.m.), 20 May (7 a.m.), and 27 May (4 p.m.). Each session lasts approximately 90 minutes and includes a practical demonstration of harness inspection. Space is limited to 20 participants per session. To reserve a place, contact site administrator Rosa Mendes at least two days in advance and bring your safety badge to the session.</p>\n<p>Employees who completed the previous version of the course in the past 12 months may take a 30-minute refresher instead of the full session. Refresher times are posted on the bulletin board near the main gate. If you are unsure whether you qualify, speak with your supervisor before registering.</p>",
+    "questionText": "What must workers do to attend a training session?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Arrive without registering in advance"
+      },
+      {
+        "key": "B",
+        "text": "(B) Bring their own safety harness"
+      },
+      {
+        "key": "C",
+        "text": "(C) Reserve a place two days ahead and bring their safety badge"
+      },
+      {
+        "key": "D",
+        "text": "(D) Pay a registration fee"
+      }
+    ],
+    "correct": "C",
+    "translation": "Công nhân phải làm gì để tham dự một buổi đào tạo? (A) Đến mà không cần đăng ký trước (B) Mang theo dây an toàn của riêng mình (C) Đăng ký chỗ trước hai ngày và mang thẻ an toàn (D) Trả lệ phí đăng ký.",
+    "explanation": "Đáp án C. Thông báo yêu cầu: 'contact site administrator Rosa Mendes at least two days in advance and bring your safety badge'. A sai vì phải đăng ký trước và chỗ giới hạn 20 người. B sai vì buổi học có phần trình diễn kiểm tra dây an toàn, nhưng không yêu cầu tự mang dây. D sai vì không có lệ phí.",
+    "vocab": [
+      {
+        "word": "harness",
+        "pos": "n.",
+        "meaning": "dây đai an toàn"
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "meaning": "việc kiểm tra"
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "meaning": "đặt trước, giữ chỗ"
+      },
+      {
+        "word": "badge",
+        "pos": "n.",
+        "meaning": "thẻ nhận diện"
+      },
+      {
+        "word": "participant",
+        "pos": "n.",
+        "meaning": "người tham gia"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following notice:",
+    "passageHtml": "<p><strong>SITE SAFETY NOTICE — RIVERBEND CONSTRUCTION</strong><br><strong>Project:</strong> Eastgate Medical Center<br><strong>Date:</strong> 5 May</p>\n<p>All personnel working on the Eastgate site must complete the updated fall-protection training by 30 May. The training is required for anyone who works at heights above two meters, including subcontractors. Workers who have not completed the course will not be permitted on the upper floors after 30 May.</p>\n<p>Sessions will be held in the site trailer on 13 May (7 a.m. and 4 p.m.), 20 May (7 a.m.), and 27 May (4 p.m.). Each session lasts approximately 90 minutes and includes a practical demonstration of harness inspection. Space is limited to 20 participants per session. To reserve a place, contact site administrator Rosa Mendes at least two days in advance and bring your safety badge to the session.</p>\n<p>Employees who completed the previous version of the course in the past 12 months may take a 30-minute refresher instead of the full session. Refresher times are posted on the bulletin board near the main gate. If you are unsure whether you qualify, speak with your supervisor before registering.</p>",
+    "questionText": "Who is eligible for the shorter refresher session?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) All subcontractors on the project"
+      },
+      {
+        "key": "B",
+        "text": "(B) Workers who have never taken the course"
+      },
+      {
+        "key": "C",
+        "text": "(C) Anyone who completed the course over a year ago"
+      },
+      {
+        "key": "D",
+        "text": "(D) Those who completed the previous version within the past 12 months"
+      }
+    ],
+    "correct": "D",
+    "translation": "Ai đủ điều kiện tham dự buổi ôn tập ngắn hơn? (A) Tất cả nhà thầu phụ tại dự án (B) Công nhân chưa từng học khóa này (C) Bất kỳ ai đã hoàn thành khóa học hơn một năm trước (D) Những người đã hoàn thành phiên bản trước trong vòng 12 tháng qua.",
+    "explanation": "Đáp án D. Thông báo nêu: 'Employees who completed the previous version of the course in the past 12 months may take a 30-minute refresher instead of the full session.' A sai vì điều kiện áp dụng theo khóa học đã hoàn thành, không phải theo vai trò nhà thầu phụ. B sai vì người chưa học phải học buổi đầy đủ. C sai vì 'hơn một năm' ngược với yêu cầu 'trong 12 tháng qua'.",
+    "vocab": [
+      {
+        "word": "eligible",
+        "pos": "adj.",
+        "meaning": "đủ điều kiện"
+      },
+      {
+        "word": "previous version",
+        "pos": "n. phr.",
+        "meaning": "phiên bản trước"
+      },
+      {
+        "word": "bulletin board",
+        "pos": "n. phr.",
+        "meaning": "bảng tin"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "người giám sát"
+      },
+      {
+        "word": "register",
+        "pos": "v.",
+        "meaning": "đăng ký"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following article:",
+    "passageHtml": "<p><strong>Business Travel's New Overnight Guest: The Extended Stay</strong></p>\n<p>Corporate travel managers have noticed a quiet shift in hotel bookings. According to a survey of 1,200 companies conducted by the Global Travel Association, 38 percent now allow employees to add up to two personal nights to a business trip, provided the traveler covers any additional cost. The practice, often called 'bleisure' travel, was once limited to senior executives. Today it is increasingly offered to mid-level staff as a low-cost benefit.</p>\n<p>Hotels are responding. Properties in cities such as Lisbon, Singapore, and Denver are redesigning lobbies to serve both work and leisure guests, adding co-working tables, late-night cafés, and laundry services. Some chains now offer a single rate that includes breakfast on workdays and a late checkout on weekends. Others provide discounted tickets to local attractions when a guest extends a stay by at least one night.</p>\n<p>Not everyone is convinced. Critics argue that mixing work and leisure can blur boundaries and leave employees exhausted. Still, the survey found that 71 percent of travelers who extended a trip reported higher satisfaction with their employer. For companies competing for skilled staff, that figure is difficult to ignore.</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A trend in business travel and how hotels are adapting"
+      },
+      {
+        "key": "B",
+        "text": "(B) A shortage of hotel rooms in major cities"
+      },
+      {
+        "key": "C",
+        "text": "(C) A decline in corporate travel budgets"
+      },
+      {
+        "key": "D",
+        "text": "(D) New rules for international travel visas"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bài viết chủ yếu nói về điều gì? (A) Một xu hướng trong du lịch công tác và cách các khách sạn thích ứng (B) Tình trạng thiếu phòng khách sạn ở các thành phố lớn (C) Sự sụt giảm ngân sách du lịch của doanh nghiệp (D) Các quy định mới về thị thực du lịch quốc tế.",
+    "explanation": "Đáp án A. Bài viết mô tả xu hướng nhân viên kéo dài chuyến công tác để nghỉ ngơi ('bleisure' travel) và việc khách sạn thiết kế lại sảnh, thêm dịch vụ, ưu đãi. B sai vì không nói thiếu phòng. C sai vì không có số liệu về ngân sách giảm. D sai vì bài viết không đề cập thị thực.",
+    "vocab": [
+      {
+        "word": "extended stay",
+        "pos": "n. phr.",
+        "meaning": "kỳ lưu trú kéo dài"
+      },
+      {
+        "word": "bleisure travel",
+        "pos": "n. phr.",
+        "meaning": "du lịch kết hợp công tác và nghỉ ngơi"
+      },
+      {
+        "word": "mid-level staff",
+        "pos": "n. phr.",
+        "meaning": "nhân viên cấp trung"
+      },
+      {
+        "word": "co-working",
+        "pos": "adj.",
+        "meaning": "dùng chung không gian làm việc"
+      },
+      {
+        "word": "late checkout",
+        "pos": "n. phr.",
+        "meaning": "trả phòng muộn"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following article:",
+    "passageHtml": "<p><strong>Business Travel's New Overnight Guest: The Extended Stay</strong></p>\n<p>Corporate travel managers have noticed a quiet shift in hotel bookings. According to a survey of 1,200 companies conducted by the Global Travel Association, 38 percent now allow employees to add up to two personal nights to a business trip, provided the traveler covers any additional cost. The practice, often called 'bleisure' travel, was once limited to senior executives. Today it is increasingly offered to mid-level staff as a low-cost benefit.</p>\n<p>Hotels are responding. Properties in cities such as Lisbon, Singapore, and Denver are redesigning lobbies to serve both work and leisure guests, adding co-working tables, late-night cafés, and laundry services. Some chains now offer a single rate that includes breakfast on workdays and a late checkout on weekends. Others provide discounted tickets to local attractions when a guest extends a stay by at least one night.</p>\n<p>Not everyone is convinced. Critics argue that mixing work and leisure can blur boundaries and leave employees exhausted. Still, the survey found that 71 percent of travelers who extended a trip reported higher satisfaction with their employer. For companies competing for skilled staff, that figure is difficult to ignore.</p>",
+    "questionText": "What do some hotels offer guests who extend their stay?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Free airport transfers"
+      },
+      {
+        "key": "B",
+        "text": "(B) Complimentary breakfast every day"
+      },
+      {
+        "key": "C",
+        "text": "(C) Discounted tickets to local attractions"
+      },
+      {
+        "key": "D",
+        "text": "(D) A second room at no charge"
+      }
+    ],
+    "correct": "C",
+    "translation": "Một số khách sạn cung cấp gì cho khách kéo dài kỳ lưu trú? (A) Đưa đón sân bay miễn phí (B) Bữa sáng miễn phí mỗi ngày (C) Vé giảm giá đến các điểm tham quan địa phương (D) Phòng thứ hai miễn phí.",
+    "explanation": "Đáp án C. Bài viết nêu: 'Others provide discounted tickets to local attractions when a guest extends a stay by at least one night.' A sai vì không có dịch vụ đưa đón sân bay. B sai vì một số khách sạn chỉ gộp bữa sáng vào giá cho ngày làm việc, không phải miễn phí mỗi ngày. D sai vì không có ưu đãi phòng thứ hai.",
+    "vocab": [
+      {
+        "word": "attraction",
+        "pos": "n.",
+        "meaning": "điểm tham quan"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "chain",
+        "pos": "n.",
+        "meaning": "chuỗi khách sạn"
+      },
+      {
+        "word": "rate",
+        "pos": "n.",
+        "meaning": "mức giá"
+      },
+      {
+        "word": "property",
+        "pos": "n.",
+        "meaning": "cơ sở lưu trú, khách sạn"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following article:",
+    "passageHtml": "<p><strong>Business Travel's New Overnight Guest: The Extended Stay</strong></p>\n<p>Corporate travel managers have noticed a quiet shift in hotel bookings. According to a survey of 1,200 companies conducted by the Global Travel Association, 38 percent now allow employees to add up to two personal nights to a business trip, provided the traveler covers any additional cost. The practice, often called 'bleisure' travel, was once limited to senior executives. Today it is increasingly offered to mid-level staff as a low-cost benefit.</p>\n<p>Hotels are responding. Properties in cities such as Lisbon, Singapore, and Denver are redesigning lobbies to serve both work and leisure guests, adding co-working tables, late-night cafés, and laundry services. Some chains now offer a single rate that includes breakfast on workdays and a late checkout on weekends. Others provide discounted tickets to local attractions when a guest extends a stay by at least one night.</p>\n<p>Not everyone is convinced. Critics argue that mixing work and leisure can blur boundaries and leave employees exhausted. Still, the survey found that 71 percent of travelers who extended a trip reported higher satisfaction with their employer. For companies competing for skilled staff, that figure is difficult to ignore.</p>",
+    "questionText": "What concern about bleisure travel is mentioned?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It increases companies' travel costs."
+      },
+      {
+        "key": "B",
+        "text": "(B) It may leave employees exhausted."
+      },
+      {
+        "key": "C",
+        "text": "(C) It reduces hotel availability."
+      },
+      {
+        "key": "D",
+        "text": "(D) It is limited to senior executives."
+      }
+    ],
+    "correct": "B",
+    "translation": "Mối lo ngại nào về du lịch kết hợp công tác và nghỉ ngơi được đề cập? (A) Nó làm tăng chi phí công tác của công ty. (B) Nó có thể khiến nhân viên kiệt sức. (C) Nó làm giảm nguồn phòng khách sạn. (D) Nó chỉ dành cho lãnh đạo cấp cao.",
+    "explanation": "Đáp án B. Bài viết dẫn ý kiến phê bình: 'mixing work and leisure can blur boundaries and leave employees exhausted'. A sai vì nhân viên tự trả phần chi phí phát sinh. C sai vì không nói đến nguồn cung phòng. D sai vì trước đây chỉ dành cho lãnh đạo cấp cao, nay mở rộng cho nhân viên cấp trung.",
+    "vocab": [
+      {
+        "word": "blur",
+        "pos": "v.",
+        "meaning": "làm mờ, xóa nhòa"
+      },
+      {
+        "word": "boundary",
+        "pos": "n.",
+        "meaning": "ranh giới"
+      },
+      {
+        "word": "exhausted",
+        "pos": "adj.",
+        "meaning": "kiệt sức"
+      },
+      {
+        "word": "satisfaction",
+        "pos": "n.",
+        "meaning": "sự hài lòng"
+      },
+      {
+        "word": "compete for",
+        "pos": "v. phr.",
+        "meaning": "cạnh tranh để có được"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 174-175 refer to the following advertisement:",
+    "passageHtml": "<p><strong>UPTOWN BUSINESS CENTER — WORKSHOP SERIES</strong><br><strong>Presenting with Confidence: A One-Day Workshop</strong></p>\n<p>Strong ideas deserve a clear delivery. This practical workshop is designed for professionals who present to clients, lead team meetings, or speak at conferences. Participants will practice structuring a message, designing effective slides, and handling difficult questions. Each attendee will record a short presentation and receive individual feedback from a communications coach.</p>\n<p>The workshop will be held on Friday, 14 November, from 9 a.m. to 4 p.m. in the Uptown Business Center's seminar room. The fee is $245, which includes lunch, a workbook, and access to a follow-up online session two weeks later. Groups of three or more from the same organization receive a 15 percent discount. Registration closes on 7 November, and places are limited to 16 participants to ensure individual attention.</p>\n<p>No prior public speaking experience is required. To register, visit uptownbusinesscenter.com/workshops or call 555-0142. Please indicate any dietary requirements when you sign up.</p>",
+    "questionText": "What is included in the workshop fee?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A recording of the workshop"
+      },
+      {
+        "key": "B",
+        "text": "(B) A private coaching session"
+      },
+      {
+        "key": "C",
+        "text": "(C) Parking at the business center"
+      },
+      {
+        "key": "D",
+        "text": "(D) Lunch, a workbook, and a follow-up online session"
+      }
+    ],
+    "correct": "D",
+    "translation": "Lệ phí hội thảo bao gồm những gì? (A) Bản ghi hình của hội thảo (B) Một buổi huấn luyện riêng (C) Chỗ đỗ xe tại trung tâm doanh nghiệp (D) Bữa trưa, sách bài tập và một buổi trực tuyến tiếp theo.",
+    "explanation": "Đáp án D. Quảng cáo ghi: 'The fee is $245, which includes lunch, a workbook, and access to a follow-up online session two weeks later.' A sai vì người học tự ghi hình bài thuyết trình ngắn của mình, không phải nhận bản ghi của toàn bộ hội thảo. B sai vì họ nhận góp ý cá nhân, không phải buổi huấn luyện riêng. C sai vì không có thông tin về chỗ đỗ xe.",
+    "vocab": [
+      {
+        "word": "workbook",
+        "pos": "n.",
+        "meaning": "sách bài tập"
+      },
+      {
+        "word": "follow-up",
+        "pos": "adj.",
+        "meaning": "tiếp theo, bổ sung sau"
+      },
+      {
+        "word": "fee",
+        "pos": "n.",
+        "meaning": "lệ phí"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      },
+      {
+        "word": "coach",
+        "pos": "n.",
+        "meaning": "huấn luyện viên"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 174-175 refer to the following advertisement:",
+    "passageHtml": "<p><strong>UPTOWN BUSINESS CENTER — WORKSHOP SERIES</strong><br><strong>Presenting with Confidence: A One-Day Workshop</strong></p>\n<p>Strong ideas deserve a clear delivery. This practical workshop is designed for professionals who present to clients, lead team meetings, or speak at conferences. Participants will practice structuring a message, designing effective slides, and handling difficult questions. Each attendee will record a short presentation and receive individual feedback from a communications coach.</p>\n<p>The workshop will be held on Friday, 14 November, from 9 a.m. to 4 p.m. in the Uptown Business Center's seminar room. The fee is $245, which includes lunch, a workbook, and access to a follow-up online session two weeks later. Groups of three or more from the same organization receive a 15 percent discount. Registration closes on 7 November, and places are limited to 16 participants to ensure individual attention.</p>\n<p>No prior public speaking experience is required. To register, visit uptownbusinesscenter.com/workshops or call 555-0142. Please indicate any dietary requirements when you sign up.</p>",
+    "questionText": "What is suggested about the workshop?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is intended only for senior executives."
+      },
+      {
+        "key": "B",
+        "text": "(B) It focuses mainly on slide design."
+      },
+      {
+        "key": "C",
+        "text": "(C) Enrollment is capped to allow individual attention."
+      },
+      {
+        "key": "D",
+        "text": "(D) Participants must have prior speaking experience."
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì được ngụ ý về hội thảo? (A) Hội thảo chỉ dành cho lãnh đạo cấp cao. (B) Hội thảo chủ yếu tập trung vào thiết kế slide. (C) Số lượng học viên bị giới hạn để đảm bảo sự quan tâm cá nhân. (D) Người tham gia phải có kinh nghiệm thuyết trình trước đó.",
+    "explanation": "Đáp án C. Quảng cáo nêu: 'places are limited to 16 participants to ensure individual attention'. A sai vì hội thảo dành cho các chuyên gia nói chung, không giới hạn lãnh đạo cấp cao. B sai vì nội dung gồm cấu trúc thông điệp, thiết kế slide và xử lý câu hỏi, không chỉ slide. D sai vì 'No prior public speaking experience is required.'",
+    "vocab": [
+      {
+        "word": "enrollment",
+        "pos": "n.",
+        "meaning": "việc ghi danh, số lượng học viên"
+      },
+      {
+        "word": "cap",
+        "pos": "v.",
+        "meaning": "giới hạn ở mức tối đa"
+      },
+      {
+        "word": "individual attention",
+        "pos": "n. phr.",
+        "meaning": "sự quan tâm, hướng dẫn riêng"
+      },
+      {
+        "word": "prior",
+        "pos": "adj.",
+        "meaning": "trước đó"
+      },
+      {
+        "word": "dietary requirement",
+        "pos": "n. phr.",
+        "meaning": "yêu cầu về chế độ ăn"
+      }
+    ]
+  }
+]

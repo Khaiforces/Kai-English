@@ -1,0 +1,752 @@
+[
+  {
+    "n": 101,
+    "q": "The marketing team ---------- a new advertising campaign last month.",
+    "options": [
+      "launch",
+      "launched",
+      "launching",
+      "to launch"
+    ],
+    "answer": "B",
+    "translation": "Nhóm tiếp thị đã khởi động một chiến dịch quảng cáo mới vào tháng trước.",
+    "explanation": "Cụm trạng từ chỉ thời gian \"last month\" đòi hỏi động từ ở thì quá khứ đơn, nên dùng dạng quá khứ của launch.",
+    "vocab": [
+      [
+        "launch",
+        "v",
+        "khởi động, tung ra"
+      ],
+      [
+        "campaign",
+        "n",
+        "chiến dịch"
+      ]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "Please submit your expense report ---------- Friday afternoon.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng nộp báo cáo chi phí của bạn trước chiều thứ Sáu.",
+    "explanation": "\"By\" dùng với mốc thời gian để chỉ hạn chót phải hoàn thành việc gì đó.",
+    "vocab": [
+      [
+        "submit",
+        "v",
+        "nộp, đệ trình"
+      ],
+      [
+        "expense",
+        "n",
+        "chi phí"
+      ]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "Ms. Tran is responsible ---------- training all new employees.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "to"
+    ],
+    "answer": "B",
+    "translation": "Cô Trần chịu trách nhiệm đào tạo toàn bộ nhân viên mới.",
+    "explanation": "Cấu trúc cố định \"be responsible for + V-ing/danh từ\" nghĩa là chịu trách nhiệm về việc gì.",
+    "vocab": [
+      [
+        "responsible",
+        "adj",
+        "chịu trách nhiệm"
+      ],
+      [
+        "employee",
+        "n",
+        "nhân viên"
+      ]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "The printer is broken again, so we need to have it ---------- this week.",
+    "options": [
+      "repair",
+      "repaired",
+      "repairing",
+      "repairs"
+    ],
+    "answer": "B",
+    "translation": "Máy in lại hỏng, nên tuần này chúng ta phải cho người sửa nó.",
+    "explanation": "Cấu trúc nhờ vả \"have + tân ngữ + quá khứ phân từ\" (have it repaired) nghĩa là nhờ người khác làm.",
+    "vocab": [
+      [
+        "repair",
+        "v",
+        "sửa chữa"
+      ],
+      [
+        "broken",
+        "adj",
+        "bị hỏng"
+      ]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "All visitors must ---------- their badges at the security desk.",
+    "options": [
+      "show",
+      "shows",
+      "showing",
+      "shown"
+    ],
+    "answer": "A",
+    "translation": "Mọi khách đến thăm phải xuất trình thẻ ra vào tại bàn bảo vệ.",
+    "explanation": "Sau động từ khuyết thiếu \"must\" luôn dùng động từ nguyên mẫu không \"to\".",
+    "vocab": [
+      [
+        "visitor",
+        "n",
+        "khách đến thăm"
+      ],
+      [
+        "badge",
+        "n",
+        "thẻ ra vào, phù hiệu"
+      ]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The new software is much ---------- to use than the old version.",
+    "options": [
+      "easy",
+      "easier",
+      "easiest",
+      "easily"
+    ],
+    "answer": "B",
+    "translation": "Phần mềm mới dễ sử dụng hơn nhiều so với phiên bản cũ.",
+    "explanation": "Có \"much\" và \"than\" nên phải dùng dạng so sánh hơn của tính từ ngắn: easier.",
+    "vocab": [
+      [
+        "version",
+        "n",
+        "phiên bản"
+      ],
+      [
+        "software",
+        "n",
+        "phần mềm"
+      ]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "---------- the heavy rain, the outdoor event was canceled.",
+    "options": [
+      "Because",
+      "Despite",
+      "Although",
+      "Due"
+    ],
+    "answer": "B",
+    "translation": "Bất chấp trời mưa to, sự kiện ngoài trời vẫn bị hủy.",
+    "explanation": "\"Despite + cụm danh từ\" diễn tả sự tương phản; ở đây theo sau là cụm danh từ \"the heavy rain\".",
+    "vocab": [
+      [
+        "cancel",
+        "v",
+        "hủy bỏ"
+      ],
+      [
+        "outdoor",
+        "adj",
+        "ngoài trời"
+      ]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "Our company has been in business ---------- 1998.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "at"
+    ],
+    "answer": "A",
+    "translation": "Công ty chúng tôi đã hoạt động từ năm 1998.",
+    "explanation": "\"Since\" đứng trước một mốc thời gian cụ thể trong quá khứ, đi với thì hiện tại hoàn thành.",
+    "vocab": [
+      [
+        "in business",
+        "phr",
+        "đang hoạt động kinh doanh"
+      ],
+      [
+        "company",
+        "n",
+        "công ty"
+      ]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "The manager asked me ---------- the report by Monday morning.",
+    "options": [
+      "finish",
+      "finishing",
+      "to finish",
+      "finished"
+    ],
+    "answer": "C",
+    "translation": "Người quản lý yêu cầu tôi hoàn thành báo cáo trước sáng thứ Hai.",
+    "explanation": "Động từ \"ask\" đi với cấu trúc \"ask somebody to do something\".",
+    "vocab": [
+      [
+        "manager",
+        "n",
+        "quản lý"
+      ],
+      [
+        "report",
+        "n",
+        "báo cáo"
+      ]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "This is the ---------- office in the entire building.",
+    "options": [
+      "large",
+      "larger",
+      "largest",
+      "largely"
+    ],
+    "answer": "C",
+    "translation": "Đây là văn phòng lớn nhất trong toàn bộ tòa nhà.",
+    "explanation": "Có \"the\" và phạm vi \"in the entire building\" nên dùng so sánh nhất: largest.",
+    "vocab": [
+      [
+        "entire",
+        "adj",
+        "toàn bộ"
+      ],
+      [
+        "office",
+        "n",
+        "văn phòng"
+      ]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "Employees are encouraged to ---------- ideas for improving efficiency.",
+    "options": [
+      "submit",
+      "submits",
+      "submitting",
+      "submission"
+    ],
+    "answer": "A",
+    "translation": "Nhân viên được khuyến khích đóng góp ý tưởng nâng cao hiệu quả công việc.",
+    "explanation": "Sau \"to\" trong cấu trúc bị động \"be encouraged to\" phải là động từ nguyên mẫu.",
+    "vocab": [
+      [
+        "encourage",
+        "v",
+        "khuyến khích"
+      ],
+      [
+        "efficiency",
+        "n",
+        "hiệu quả, năng suất"
+      ]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "The conference room ---------- for maintenance next week.",
+    "options": [
+      "will close",
+      "will be closed",
+      "closing",
+      "closes"
+    ],
+    "answer": "B",
+    "translation": "Phòng hội nghị sẽ được đóng cửa để bảo trì vào tuần sau.",
+    "explanation": "Phòng hội nghị không tự đóng cửa mà được đóng, nên dùng bị động thì tương lai: will be closed.",
+    "vocab": [
+      [
+        "maintenance",
+        "n",
+        "bảo trì"
+      ],
+      [
+        "conference room",
+        "n",
+        "phòng hội nghị"
+      ]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "We received ---------- applications than we expected this year.",
+    "options": [
+      "few",
+      "fewer",
+      "less",
+      "little"
+    ],
+    "answer": "B",
+    "translation": "Năm nay chúng tôi nhận được ít đơn ứng tuyển hơn dự kiến.",
+    "explanation": "\"Applications\" là danh từ đếm được số nhiều, có \"than\" nên dùng so sánh hơn \"fewer\".",
+    "vocab": [
+      [
+        "application",
+        "n",
+        "đơn ứng tuyển"
+      ],
+      [
+        "expect",
+        "v",
+        "mong đợi"
+      ]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "The shipment arrived ---------- schedule despite the storm.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "of"
+    ],
+    "answer": "A",
+    "translation": "Lô hàng đã đến đúng lịch dù có bão.",
+    "explanation": "Cụm cố định \"on schedule\" nghĩa là đúng tiến độ, đúng lịch.",
+    "vocab": [
+      [
+        "shipment",
+        "n",
+        "lô hàng"
+      ],
+      [
+        "despite",
+        "prep",
+        "mặc dù, bất chấp"
+      ]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "Ms. Park, ---------- works in the accounting department, will lead the meeting.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": "A",
+    "translation": "Cô Park, người làm ở phòng kế toán, sẽ chủ trì cuộc họp.",
+    "explanation": "Đại từ quan hệ thay cho người và làm chủ ngữ của mệnh đề sau là \"who\".",
+    "vocab": [
+      [
+        "accounting",
+        "n",
+        "kế toán"
+      ],
+      [
+        "lead",
+        "v",
+        "chủ trì, dẫn dắt"
+      ]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "The report must be submitted ---------- the end of the month.",
+    "options": [
+      "by",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": "A",
+    "translation": "Báo cáo phải được nộp trước cuối tháng.",
+    "explanation": "\"By the end of...\" là cụm chỉ hạn chót rất thường gặp.",
+    "vocab": [
+      [
+        "submit",
+        "v",
+        "nộp"
+      ],
+      [
+        "report",
+        "n",
+        "báo cáo"
+      ]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "If the client ---------- the contract, we will begin production immediately.",
+    "options": [
+      "signs",
+      "will sign",
+      "signed",
+      "signing"
+    ],
+    "answer": "A",
+    "translation": "Nếu khách hàng ký hợp đồng, chúng tôi sẽ bắt đầu sản xuất ngay.",
+    "explanation": "Trong câu điều kiện loại 1, mệnh đề \"if\" dùng thì hiện tại đơn, không dùng will.",
+    "vocab": [
+      [
+        "contract",
+        "n",
+        "hợp đồng"
+      ],
+      [
+        "production",
+        "n",
+        "sản xuất"
+      ]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "The technician checked all the equipment ---------- to the inspection.",
+    "options": [
+      "prior",
+      "previously",
+      "before",
+      "ahead"
+    ],
+    "answer": "A",
+    "translation": "Kỹ thuật viên đã kiểm tra toàn bộ thiết bị trước khi tiến hành thanh tra.",
+    "explanation": "Cụm \"prior to + danh từ\" nghĩa là trước khi; các phương án còn lại không đi với \"to\" trong câu này.",
+    "vocab": [
+      [
+        "technician",
+        "n",
+        "kỹ thuật viên"
+      ],
+      [
+        "inspection",
+        "n",
+        "việc thanh tra, kiểm tra"
+      ]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "Our products are well known ---------- their durability.",
+    "options": [
+      "as",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": "B",
+    "translation": "Sản phẩm của chúng tôi nổi tiếng về độ bền.",
+    "explanation": "Cấu trúc \"be known for + đặc điểm\" nghĩa là nổi tiếng vì điều gì.",
+    "vocab": [
+      [
+        "durability",
+        "n",
+        "độ bền"
+      ],
+      [
+        "product",
+        "n",
+        "sản phẩm"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "The company plans ---------- a new branch in Singapore next year.",
+    "options": [
+      "open",
+      "opening",
+      "to open",
+      "opened"
+    ],
+    "answer": "C",
+    "translation": "Công ty dự định mở một chi nhánh mới tại Singapore vào năm sau.",
+    "explanation": "Động từ \"plan\" đi với \"to + động từ nguyên mẫu\" (plan to do something).",
+    "vocab": [
+      [
+        "branch",
+        "n",
+        "chi nhánh"
+      ],
+      [
+        "plan",
+        "v",
+        "dự định"
+      ]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "Customers who spend over $100 will receive a ---------- on their next purchase.",
+    "options": [
+      "discount",
+      "discounted",
+      "discounting",
+      "discounts"
+    ],
+    "answer": "A",
+    "translation": "Khách hàng chi trên 100 đô la sẽ được giảm giá cho lần mua tiếp theo.",
+    "explanation": "Sau mạo từ \"a\" cần một danh từ số ít, nên dùng \"discount\".",
+    "vocab": [
+      [
+        "discount",
+        "n",
+        "sự giảm giá"
+      ],
+      [
+        "purchase",
+        "n",
+        "việc mua hàng"
+      ]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "The meeting has been postponed ---------- further notice.",
+    "options": [
+      "until",
+      "since",
+      "during",
+      "within"
+    ],
+    "answer": "A",
+    "translation": "Cuộc họp đã bị hoãn cho đến khi có thông báo tiếp theo.",
+    "explanation": "\"Until further notice\" là cụm cố định nghĩa là cho đến khi có thông báo mới.",
+    "vocab": [
+      [
+        "postpone",
+        "v",
+        "hoãn lại"
+      ],
+      [
+        "notice",
+        "n",
+        "thông báo"
+      ]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "All confidential documents should be kept in a ---------- place.",
+    "options": [
+      "secure",
+      "securely",
+      "security",
+      "secured"
+    ],
+    "answer": "A",
+    "translation": "Mọi tài liệu mật phải được cất giữ ở một nơi an toàn.",
+    "explanation": "Trước danh từ \"place\" cần một tính từ, nên dùng \"secure\".",
+    "vocab": [
+      [
+        "confidential",
+        "adj",
+        "bảo mật, mật"
+      ],
+      [
+        "secure",
+        "adj",
+        "an toàn"
+      ]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "Neither the manager nor the employees ---------- aware of the change.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has"
+    ],
+    "answer": "B",
+    "translation": "Cả người quản lý lẫn nhân viên đều không biết về sự thay đổi.",
+    "explanation": "Với \"neither... nor...\", động từ chia theo chủ ngữ gần nhất là \"employees\" (số nhiều) nên dùng \"were\".",
+    "vocab": [
+      [
+        "aware",
+        "adj",
+        "biết, nhận thức được"
+      ],
+      [
+        "change",
+        "n",
+        "sự thay đổi"
+      ]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "The new policy will take ---------- on January 1.",
+    "options": [
+      "effect",
+      "affect",
+      "effective",
+      "effectively"
+    ],
+    "answer": "A",
+    "translation": "Chính sách mới sẽ có hiệu lực từ ngày 1 tháng 1.",
+    "explanation": "Cụm cố định \"take effect\" nghĩa là bắt đầu có hiệu lực.",
+    "vocab": [
+      [
+        "policy",
+        "n",
+        "chính sách"
+      ],
+      [
+        "effect",
+        "n",
+        "hiệu lực"
+      ]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "We appreciate ---------- patience during the renovation.",
+    "options": [
+      "you",
+      "your",
+      "yours",
+      "yourself"
+    ],
+    "answer": "B",
+    "translation": "Chúng tôi trân trọng sự kiên nhẫn của quý vị trong thời gian cải tạo.",
+    "explanation": "Trước danh từ \"patience\" cần tính từ sở hữu \"your\".",
+    "vocab": [
+      [
+        "appreciate",
+        "v",
+        "trân trọng, cảm kích"
+      ],
+      [
+        "renovation",
+        "n",
+        "việc cải tạo, sửa sang"
+      ]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The training session was ---------- informative that everyone stayed until the end.",
+    "options": [
+      "so",
+      "such",
+      "too",
+      "very"
+    ],
+    "answer": "A",
+    "translation": "Buổi đào tạo bổ ích đến mức mọi người đều ở lại đến cuối.",
+    "explanation": "Cấu trúc \"so + tính từ + that + mệnh đề\" diễn tả kết quả; \"such\" cần danh từ theo sau.",
+    "vocab": [
+      [
+        "informative",
+        "adj",
+        "bổ ích, nhiều thông tin"
+      ],
+      [
+        "training session",
+        "n",
+        "buổi đào tạo"
+      ]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "Please ---------- that all lights are turned off before leaving the office.",
+    "options": [
+      "ensure",
+      "insure",
+      "assure",
+      "assumption"
+    ],
+    "answer": "A",
+    "translation": "Hãy bảo đảm rằng mọi đèn đã được tắt trước khi rời văn phòng.",
+    "explanation": "\"Ensure that + mệnh đề\" nghĩa là bảo đảm điều gì sẽ xảy ra; \"assure\" cần tân ngữ là người.",
+    "vocab": [
+      [
+        "ensure",
+        "v",
+        "bảo đảm"
+      ],
+      [
+        "light",
+        "n",
+        "đèn"
+      ]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "The company's profits have increased ---------- 15 percent this year.",
+    "options": [
+      "by",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": "A",
+    "translation": "Lợi nhuận của công ty đã tăng 15 phần trăm trong năm nay.",
+    "explanation": "\"Increase by + mức chênh lệch\" dùng để nêu mức tăng cụ thể.",
+    "vocab": [
+      [
+        "profit",
+        "n",
+        "lợi nhuận"
+      ],
+      [
+        "increase",
+        "v",
+        "tăng"
+      ]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "Mr. Chen is the only employee ---------- has completed the certification program.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "what"
+    ],
+    "answer": "A",
+    "translation": "Ông Chen là nhân viên duy nhất đã hoàn thành chương trình chứng nhận.",
+    "explanation": "Đại từ quan hệ làm chủ ngữ chỉ người là \"who\"; \"whom\" làm tân ngữ.",
+    "vocab": [
+      [
+        "certification",
+        "n",
+        "chứng nhận"
+      ],
+      [
+        "complete",
+        "v",
+        "hoàn thành"
+      ]
+    ]
+  }
+]

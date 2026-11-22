@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 32,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g1",
+    "audioScript": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "audioVoiceText": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "questionText": "What portfolio vulnerability does the man point out?",
+    "options": [
+      "The portfolio carries excessive sensitivity to sustained high interest rates.",
+      "Foreign equities have consistently underperformed the quarterly benchmark.",
+      "Central banks failed to disclose upcoming monetary policy adjustments.",
+      "Currency-hedging contracts expired prior to last month's rate hike."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông chỉ ra điểm yếu nào trong danh mục đầu tư?\n(A) Danh mục đang chịu mức độ nhạy cảm quá lớn trước lãi suất cao kéo dài.\n(B) Cổ phiếu nước ngoài liên tục kém hiệu quả so với chỉ số chuẩn hàng quý.\n(C) Các ngân hàng trung ương không công bố các điều chỉnh chính sách tiền tệ sắp tới.\n(D) Các hợp đồng phòng hộ tỷ giá đã hết hạn trước đợt tăng lãi suất tháng trước.",
+    "explanation": "Đáp án đúng là (A). Người đàn ông nói kỳ hạn hiệu dụng (effective duration) bị lệch gần 2 năm so với chỉ số chuẩn, khiến danh mục \"overexposed if central banks hold policy rates higher for longer\". (B) sai vì không nói cổ phiếu nước ngoài kém hiệu quả mà là trái phiếu chính phủ kéo lùi sức chống chịu; (C) không được nhắc tới; (D) bóp méo chi tiết về chi phí phòng hộ tỷ giá khi tái phân bổ xuyên biên giới.",
+    "vocab": [
+      [
+        "sovereign bond",
+        "n.",
+        "trái phiếu chính phủ"
+      ],
+      [
+        "effective duration",
+        "n.",
+        "kỳ hạn hiệu dụng (độ nhạy giá trái phiếu với lãi suất)"
+      ],
+      [
+        "overexposed",
+        "adj.",
+        "phơi nhiễm rủi ro quá mức"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g1",
+    "audioScript": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "audioVoiceText": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "questionText": "What approach does the woman favor for the long-dated treasuries?",
+    "options": [
+      "Selling the entire position immediately to lock in losses",
+      "Phasing down holdings incrementally to fund shorter-term corporate debt",
+      "Holding the bonds until maturity to avoid transaction fees",
+      "Swapping them directly for high-yield emerging-market equities"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ ủng hộ hướng xử lý nào đối với trái phiếu kho bạc dài hạn?\n(A) Bán tháo toàn bộ vị thế ngay lập tức để chốt lỗ\n(B) Giảm dần tỷ trọng từng bước để chuyển sang trái phiếu doanh nghiệp kỳ hạn ngắn\n(C) Nắm giữ trái phiếu đến khi đáo hạn để tránh phí giao dịch\n(D) Hoán đổi trực tiếp sang cổ phiếu thị trường mới nổi lợi suất cao",
+    "explanation": "Đáp án đúng là (B). Cô ấy đề xuất \"trimming them gradually and rotating the proceeds into short-duration investment-grade credit\". (A) trái ngược với cụm \"Rather than dumping... right away\"; (C) và (D) không được đề cập.",
+    "vocab": [
+      [
+        "trim",
+        "v.",
+        "cắt giảm dần (tỷ trọng nắm giữ)"
+      ],
+      [
+        "investment-grade credit",
+        "n.",
+        "tín dụng/trái phiếu doanh nghiệp xếp hạng đầu tư"
+      ],
+      [
+        "dampen volatility",
+        "v.",
+        "giảm bớt biến động"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g1",
+    "audioScript": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "audioVoiceText": "Woman: Daniel, looking at the quarterly attribution report, our sovereign bond sleeves are still dragging down overall portfolio resilience after last month's rate surprise.\nMan: Right, our effective duration drifted nearly two years above the benchmark, leaving us overexposed if central banks hold policy rates higher for longer.\nWoman: Rather than dumping those long-dated treasuries at a loss right away, I propose trimming them gradually and rotating the proceeds into short-duration investment-grade credit.\nMan: That dampens volatility, though reallocating cross-border carries nontrivial currency-hedging costs. Should we offset that by liquidating our overweight defensive equities?\nWoman: Only selectively. Let's run a tax-lot simulation on the older equity tranches first so we don't trigger avoidable capital gains before the committee meets.",
+    "questionText": "What does the woman mean when she says, \"Only selectively\"?",
+    "options": [
+      "Only a subset of committee members should vote on the rebalancing plan.",
+      "Only domestic hedging providers should be hired for the transition.",
+      "Defensive stock sales must be limited to avoid unnecessary tax liabilities.",
+      "New capital allocations should wait until the next fiscal quarter."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói \"Only selectively\"?\n(A) Chỉ một nhóm thành viên ủy ban nên bỏ phiếu cho kế hoạch tái cân bằng.\n(B) Chỉ nên thuê các đơn vị phòng hộ trong nước cho giai đoạn chuyển đổi.\n(C) Việc bán cổ phiếu phòng thủ phải có chọn lọc để tránh nghĩa vụ thuế không đáng có.\n(D) Các khoản phân bổ vốn mới nên chờ đến quý tài chính tiếp theo.",
+    "explanation": "Đáp án đúng là (C). Khi người đàn ông hỏi có nên thanh lý nhóm cổ phiếu phòng thủ đang vượt tỷ trọng không, cô trả lời \"Only selectively\" và giải thích ngay là cần mô phỏng lô thuế trên các phần cổ phiếu cũ để không phát sinh thuế lãi vốn có thể tránh được (avoidable capital gains). (A), (B), (D) đều sai ngữ cảnh.",
+    "vocab": [
+      [
+        "liquidate",
+        "v.",
+        "thanh lý, bán chuyển thành tiền mặt"
+      ],
+      [
+        "tax-lot simulation",
+        "n.",
+        "mô phỏng lô thuế khi giao dịch chứng khoán"
+      ],
+      [
+        "capital gains",
+        "n.",
+        "lãi vốn (lợi nhuận chịu thuế khi bán tài sản)"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g2",
+    "audioScript": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "audioVoiceText": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "questionText": "What vulnerability did the penetration testers uncover?",
+    "options": [
+      "A recently modified firewall rule exposed an internal subnet.",
+      "External auditors lacked credentials to access compliance logs.",
+      "An unmaintained system account retained active access pathways.",
+      "Multifactor authentication software failed to install across finance laptops."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhóm kiểm thử xâm nhập đã phát hiện lỗ hổng gì?\n(A) Một quy tắc tường lửa mới sửa đã làm lộ phân mạng nội bộ.\n(B) Kiểm toán viên bên ngoài thiếu thông tin đăng nhập vào nhật ký tuân thủ.\n(C) Một tài khoản hệ thống không còn được quản lý vẫn giữ quyền truy cập hoạt động.\n(D) Phần mềm xác thực đa yếu tố cài đặt thất bại trên máy tính bộ phận tài chính.",
+    "explanation": "Đáp án đúng là (C). Người phụ nữ thứ nhất cho biết nhóm kiểm thử đã vượt qua xác thực đa yếu tố bằng cách khai thác một tài khoản dịch vụ bị bỏ rơi (orphaned service account) gắn với cổng thanh toán cũ. (A) là bẫy từ khóa vì sự cố tường lửa đã được vá hôm qua; (B) và (D) không đúng sự thật.",
+    "vocab": [
+      [
+        "penetration test",
+        "n.",
+        "kiểm thử xâm nhập (đánh giá bảo mật)"
+      ],
+      [
+        "orphaned account",
+        "n.",
+        "tài khoản bị bỏ quên không còn người quản lý"
+      ],
+      [
+        "credential",
+        "n.",
+        "thông tin xác thực đăng nhập"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g2",
+    "audioScript": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "audioVoiceText": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "questionText": "Why is the second woman surprised by the finding?",
+    "options": [
+      "She assumed the external audit had been postponed until next month.",
+      "She thought the legacy application had already been shut down.",
+      "She had personally deleted the finance department's invoice records.",
+      "She believed token permissions expired automatically every week."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ thứ hai ngạc nhiên về phát hiện này?\n(A) Cô ấy cho rằng cuộc kiểm toán bên ngoài đã bị hoãn sang tháng sau.\n(B) Cô ấy nghĩ rằng ứng dụng cũ đó đã được ngừng vận hành từ trước.\n(C) Cô ấy đã đích thân xóa hồ sơ hóa đơn của phòng tài chính.\n(D) Cô ấy tin rằng quyền mã thông báo tự động hết hạn hằng tuần.",
+    "explanation": "Đáp án đúng là (B). Người phụ nữ thứ hai thốt lên: \"that billing portal was supposed to be decommissioned last quarter\" (cổng thanh toán đó lẽ ra đã bị gỡ bỏ/ngừng hoạt động từ quý trước). (A), (C), (D) không có căn cứ trong hội thoại.",
+    "vocab": [
+      [
+        "decommission",
+        "v.",
+        "ngừng vận hành, tháo dỡ hệ thống"
+      ],
+      [
+        "identity directory",
+        "n.",
+        "thư mục quản lý danh tính người dùng"
+      ],
+      [
+        "revoke",
+        "v.",
+        "thu hồi, hủy bỏ (quyền truy cập)"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g2",
+    "audioScript": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "audioVoiceText": "Woman: Before the external auditors begin our annual SOC Two compliance review on Monday morning, we have a serious red flag from the penetration test.\nMan: Is it the firewall rule change? Our network team already patched that subnet yesterday.\nWoman: Actually, the testers bypassed multifactor authentication by exploiting an orphaned service account linked to our legacy billing portal.\nWoman 2: Wait, that old billing portal was supposed to be completely decommissioned last quarter. Why are its credentials still active in the identity directory?\nMan: Finance kept read-only access open for historical invoice lookups, and nobody revoked the underlying token permissions.\nWoman: Then I'll freeze that service account immediately, and let's have identity engineering compile an audit trail before Monday's kickoff.",
+    "questionText": "What will the first woman do next?",
+    "options": [
+      "Grant the finance team temporary administrative rights",
+      "Reschedule Monday's compliance review with the auditors",
+      "Disable the compromised service account right away",
+      "Ask the network team to recheck yesterday's firewall patch"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đầu tiên sẽ làm gì tiếp theo?\n(A) Cấp quyền quản trị tạm thời cho nhóm tài chính\n(B) Dời lịch đánh giá tuân thủ vào thứ Hai với kiểm toán viên\n(C) Vô hiệu hóa ngay tài khoản dịch vụ bị khai thác\n(D) Yêu cầu nhóm mạng kiểm tra lại bản vá tường lửa hôm qua",
+    "explanation": "Đáp án đúng là (C). Ở lượt cuối, người phụ nữ đầu tiên khẳng định: \"Then I'll freeze that service account immediately\" (Tôi sẽ đóng băng/vô hiệu hóa tài khoản dịch vụ đó ngay lập tức) và giao nhóm kỹ thuật danh tính lập nhật ký kiểm toán. (A), (B), (D) đều trái với nội dung.",
+    "vocab": [
+      [
+        "freeze",
+        "v.",
+        "đóng băng, tạm khóa"
+      ],
+      [
+        "audit trail",
+        "n.",
+        "nhật ký truy vết phục vụ kiểm toán"
+      ],
+      [
+        "read-only access",
+        "n.",
+        "quyền truy cập chỉ đọc"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g3",
+    "audioScript": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "audioVoiceText": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "questionText": "What is the woman's initial concern about the supplier advisory?",
+    "options": [
+      "The defect might force the entire aircraft fleet out of operation.",
+      "The Tulsa depot lacks skilled technicians for titanium welding.",
+      "Maintenance logs from November were accidentally erased.",
+      "Supplier shipments will face customs delays next month."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mối lo ban đầu của người phụ nữ về thông báo từ nhà cung cấp là gì?\n(A) Lỗi kỹ thuật có thể buộc toàn bộ đội bay phải ngừng khai thác.\n(B) Kho bảo dưỡng Tulsa thiếu kỹ thuật viên lành nghề về hàn titan.\n(C) Nhật ký bảo trì từ tháng Mười Một đã vô tình bị xóa.\n(D) Các lô hàng của nhà cung cấp sẽ gặp chậm trễ hải quan tháng tới.",
+    "explanation": "Đáp án đúng là (A). Ngay khi nghe cảnh báo, cô hỏi: \"Are we talking about a fleet-wide grounding...?\" (Chúng ta có đang đối mặt với việc đình chỉ bay toàn bộ đội bay không?). (B), (C), (D) không được đề cập.",
+    "vocab": [
+      [
+        "metallurgical advisory",
+        "n.",
+        "cảnh báo kỹ thuật luyện kim"
+      ],
+      [
+        "fleet-wide grounding",
+        "n.",
+        "lệnh đình chỉ bay toàn bộ đội tàu bay"
+      ],
+      [
+        "overhaul",
+        "n.",
+        "đại tu, bảo dưỡng toàn diện"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g3",
+    "audioScript": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "audioVoiceText": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "questionText": "Why is the impact of the component flaw relatively contained?",
+    "options": [
+      "The faulty brackets failed inspection before leaving the supplier's factory.",
+      "Only aircraft already undergoing planned maintenance received the affected batch.",
+      "Regulators waived traceability requirements for regional aircraft.",
+      "The supplier repaired the flawed parts before shipping them in November."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao tác động của lỗi linh kiện này tương đối giới hạn?\n(A) Các giá đỡ lỗi đã trượt kiểm định trước khi rời nhà máy của nhà cung cấp.\n(B) Chỉ những máy bay đang trong kỳ bảo dưỡng định kỳ mới lắp lô linh kiện bị ảnh hưởng.\n(C) Cơ quan quản lý đã miễn yêu cầu truy xuất nguồn gốc cho máy bay khu vực.\n(D) Nhà cung cấp đã sửa các linh kiện lỗi trước khi giao vào tháng Mười Một.",
+    "explanation": "Đáp án đúng là (B). Người đàn ông giải thích lỗi xử lý nhiệt chỉ giới hạn trong mẻ lò 42 và \"went strictly into twenty-eight regional jets undergoing scheduled overhaul\" (chỉ lắp trên 28 máy bay khu vực đang đại tu theo lịch). (A) và (D) sai vì linh kiện đã được giao và lắp đặt; (C) ngược lại vì cơ quan hàng không vẫn đòi truy xuất bằng văn bản.",
+    "vocab": [
+      [
+        "heat-treatment flaw",
+        "n.",
+        "lỗi trong quá trình xử lý nhiệt"
+      ],
+      [
+        "traceability",
+        "n.",
+        "khả năng truy xuất nguồn gốc"
+      ],
+      [
+        "quarantine",
+        "v.",
+        "cách ly, niêm phong khoanh vùng"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g3",
+    "audioScript": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "audioVoiceText": "Man: Claire, our supplier just issued an urgent metallurgical advisory covering titanium actuator brackets shipped in November.\nWoman: Are we talking about a fleet-wide grounding, or can we isolate the affected serial batches through our maintenance logs?\nMan: Thankfully, the heat-treatment flaw was confined to a single batch from furnace run forty-two, which went strictly into twenty-eight regional jets undergoing scheduled overhaul.\nWoman: That's a relief, though aviation regulators will still expect documented traceability before approving any return-to-service sign-offs.\nMan: Exactly. I've instructed the Tulsa depot to quarantine every suspect bracket and dispatch certified replacements overnight so the overhaul schedule stays intact.\nWoman: Good, I'll notify the aviation compliance liaison this afternoon and prepare the formal airworthiness response dossier.",
+    "questionText": "What will the woman do later today?",
+    "options": [
+      "Fly to the Tulsa depot to inspect replacement hardware",
+      "Terminate the contract with the titanium component vendor",
+      "Postpone scheduled overhauls on twenty-eight aircraft",
+      "Compile regulatory documentation for the compliance representative"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì vào cuối ngày hôm nay?\n(A) Bay tới kho Tulsa để kiểm tra linh kiện thay thế\n(B) Chấm dứt hợp đồng với nhà cung cấp linh kiện titan\n(C) Hoãn lịch đại tu trên hai mươi tám máy bay\n(D) Chuẩn bị hồ sơ quy định cho đại diện phụ trách tuân thủ",
+    "explanation": "Đáp án đúng là (D). Ở câu cuối, cô nói: \"I'll notify the compliance liaison this afternoon and prepare the airworthiness response dossier\" (chiều nay tôi sẽ báo cho đầu mối tuân thủ và chuẩn bị hồ sơ phản hồi đủ điều kiện bay). (A), (B), (C) đều sai lệch với hành động của cô.",
+    "vocab": [
+      [
+        "compliance liaison",
+        "n.",
+        "đầu mối liên hệ phụ trách tuân thủ"
+      ],
+      [
+        "airworthiness",
+        "n.",
+        "tính đủ điều kiện bay an toàn"
+      ],
+      [
+        "dossier",
+        "n.",
+        "bộ hồ sơ tài liệu chi tiết"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g4",
+    "audioScript": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "audioVoiceText": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "questionText": "What concession did Meridian Pharma attach to its higher signing fee?",
+    "options": [
+      "Reduced initial royalty rates below a high revenue target",
+      "Exclusive manufacturing rights outside the Asia-Pacific region",
+      "Elimination of all late-stage regulatory milestone payments",
+      "Extended patent protection for competing oncology products"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Meridian Pharma đã gắn điều kiện nhượng bộ nào vào mức phí ký kết cao hơn?\n(A) Tỷ lệ tiền bản quyền ban đầu thấp hơn cho đến khi đạt ngưỡng doanh thu cao\n(B) Quyền sản xuất độc quyền ngoài khu vực châu Á - Thái Bình Dương\n(C) Loại bỏ toàn bộ các khoản thanh toán theo cột mốc pháp lý giai đoạn cuối\n(D) Gia hạn bảo hộ bằng sáng chế cho các sản phẩm ung thư cạnh tranh",
+    "explanation": "Đáp án đúng là (A). Người phụ nữ cho biết họ tăng nhẹ phí ký kết nhưng kèm điều kiện công ty phải chấp nhận bậc bản quyền cơ sở thấp hơn cho tới khi doanh thu ròng hằng năm vượt 400 triệu USD. (B), (C), (D) đều không có trong đề nghị.",
+    "vocab": [
+      [
+        "term sheet",
+        "n.",
+        "bản tóm tắt các điều khoản thỏa thuận chính"
+      ],
+      [
+        "royalty tier",
+        "n.",
+        "bậc tỷ lệ tiền bản quyền"
+      ],
+      [
+        "milestone",
+        "n.",
+        "cột mốc thanh toán theo tiến độ"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g4",
+    "audioScript": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "audioVoiceText": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "questionText": "What does the man mean when he says, \"That threshold is far too steep for initial launch trajectories\"?",
+    "options": [
+      "The licensing fee exceeds Meridian Pharma's annual budget.",
+      "The proposed sales trigger is unrealistically high for early market years.",
+      "Regulatory approval in the region takes longer than initially modeled.",
+      "Production capacity cannot support launch across multiple countries."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông có ý gì khi nói \"That threshold is far too steep for initial launch trajectories\"?\n(A) Phí nhượng quyền vượt quá ngân sách hằng năm của Meridian Pharma.\n(B) Ngưỡng doanh thu đề xuất quá cao một cách thiếu thực tế cho những năm đầu ra mắt.\n(C) Phê duyệt pháp lý trong khu vực mất nhiều thời gian hơn mô hình ban đầu.\n(D) Công suất sản xuất không đủ đáp ứng việc ra mắt ở nhiều quốc gia.",
+    "explanation": "Đáp án đúng là (B). \"Threshold\" ở đây chỉ mức doanh thu 400 triệu USD để được nâng tỷ lệ bản quyền, và \"too steep for initial launch trajectories\" nghĩa là mục tiêu đó quá cao so với đà bán hàng giai đoạn đầu, đẩy rủi ro về phía công ty mình. (A), (C), (D) suy diễn sai đối tượng.",
+    "vocab": [
+      [
+        "trajectory",
+        "n.",
+        "quỹ đạo, lộ trình tăng trưởng"
+      ],
+      [
+        "steep",
+        "adj.",
+        "quá cao, khó đạt"
+      ],
+      [
+        "absorb risk",
+        "v.",
+        "gánh chịu rủi ro"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g4",
+    "audioScript": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "audioVoiceText": "Woman: Meridian Pharma just sent over a revised term sheet for licensing our oncology biologic across the Asia-Pacific region.\nMan: Did they finally budge on the upfront payment, or are they still pushing most of the compensation into late-stage regulatory milestones?\nWoman: They raised the signing fee modestly, yet only on condition that we accept a lower baseline royalty tier until annual net sales surpass four hundred million dollars.\nMan: Hold on. That threshold is far too steep for initial launch trajectories. We'd absorb virtually all of the early commercial delay risk.\nWoman: Agreed. That's why I'm countering with a blended structure—keep the upfront moderate, but attach enforceable commercialization minimums so they can't slow-walk the rollout.",
+    "questionText": "How does the woman intend to guard against a sluggish market launch?",
+    "options": [
+      "By requiring binding marketing and sales commitments in the contract",
+      "By reclaiming distribution rights in smaller Asia-Pacific markets",
+      "By demanding full reimbursement of research expenses at signing",
+      "By outsourcing clinical trials to a separate regional partner"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ dự định phòng ngừa việc ra mắt thị trường chậm chạp bằng cách nào?\n(A) Bằng cách yêu cầu các cam kết tối thiểu có tính ràng buộc về thương mại hóa trong hợp đồng\n(B) Bằng cách thu hồi quyền phân phối ở các thị trường châu Á - Thái Bình Dương nhỏ hơn\n(C) Bằng cách đòi hoàn trả toàn bộ chi phí nghiên cứu ngay khi ký\n(D) Bằng cách thuê ngoài thử nghiệm lâm sàng cho một đối tác khu vực khác",
+    "explanation": "Đáp án đúng là (A). Cô ấy nói sẽ đề xuất lại cơ cấu kết hợp kèm \"enforceable commercialization minimums so they can't slow-walk the rollout\" (mức cam kết thương mại hóa tối thiểu có hiệu lực cưỡng chế để đối tác không trì hoãn tung sản phẩm). (B), (C), (D) không được nhắc đến.",
+    "vocab": [
+      [
+        "enforceable",
+        "adj.",
+        "có thể thực thi, có giá trị ràng buộc pháp lý"
+      ],
+      [
+        "commercialization",
+        "n.",
+        "hoạt động thương mại hóa sản phẩm"
+      ],
+      [
+        "slow-walk",
+        "v.",
+        "trì hoãn, kéo dài tiến độ"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g5",
+    "audioScript": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "audioVoiceText": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "questionText": "According to the first man, what primarily depressed the property's appraised value?",
+    "options": [
+      "Declining occupancy rates among regional logistics tenants",
+      "An outdated cooling system requiring near-term capital expenditure",
+      "Unfavorable municipal zoning changes near the harbor",
+      "Discrepancies in historical utility billing statements"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Theo người đàn ông đầu tiên, yếu tố chính nào kéo giảm giá trị thẩm định của bất động sản?\n(A) Tỷ lệ lấp đầy giảm ở các khách thuê logistics trong khu vực\n(B) Hệ thống làm lạnh xuống cấp cần chi phí đầu tư nâng cấp trong ngắn hạn\n(C) Thay đổi quy hoạch đô thị bất lợi gần khu vực cảng\n(D) Sai lệch trong hóa đơn điện nước lịch sử",
+    "explanation": "Đáp án đúng là (B). Người đàn ông thứ nhất nói dù chênh lệch lãi suất vay có ảnh hưởng một phần, lực kéo giảm lớn hơn (the bigger drag) là hệ thống làm lạnh amoniac đã cũ cần nâng cấp vốn trong vòng 3 năm. (A), (C), (D) không có trong bài.",
+    "vocab": [
+      [
+        "appraisal",
+        "n.",
+        "sự thẩm định giá"
+      ],
+      [
+        "capitalization rate",
+        "n.",
+        "tỷ suất vốn hóa (trong định giá bất động sản)"
+      ],
+      [
+        "capital upgrade",
+        "n.",
+        "khoản đầu tư nâng cấp tài sản cố định"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g5",
+    "audioScript": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "audioVoiceText": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "questionText": "What additional risk does the second man introduce?",
+    "options": [
+      "The current tenant intends to terminate its lease early.",
+      "Financing institutions refused to underwrite cold-storage facilities.",
+      "Potential cleanup liabilities linked to former industrial operations",
+      "Missing architectural permits for an adjacent warehouse wing"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông thứ hai nêu thêm rủi ro nào?\n(A) Khách thuê hiện tại dự định chấm dứt hợp đồng thuê sớm.\n(B) Các tổ chức tài chính từ chối cấp vốn cho cơ sở kho lạnh.\n(C) Nghĩa vụ xử lý ô nhiễm tiềm tàng liên quan đến hoạt động công nghiệp trước đây\n(D) Thiếu giấy phép kiến trúc cho một dãy kho liền kề",
+    "explanation": "Đáp án đúng là (C). Người đàn ông thứ hai nói đội môi trường cảnh báo kết quả xét nghiệm đất tồn dư từ xưởng đúc thuê trước đó có thể dẫn tới nghĩa vụ khắc phục ô nhiễm (remediation obligations). (A), (B), (D) là thông tin sai.",
+    "vocab": [
+      [
+        "foundry",
+        "n.",
+        "xưởng đúc kim loại"
+      ],
+      [
+        "remediation",
+        "n.",
+        "việc khắc phục, xử lý ô nhiễm môi trường"
+      ],
+      [
+        "subsurface",
+        "adj.",
+        "dưới bề mặt đất"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g5",
+    "audioScript": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "audioVoiceText": "Man: Before we finalize the acquisition bid on the Harborview cold-storage park, we need to reconcile the independent appraisal gap.\nWoman: Why did the valuation come in eight percent below the seller's asking price? Was it the capitalization rate assumption?\nMan: Partly, since financing spreads widened, but the bigger drag is an aging ammonia refrigeration plant needing capital upgrades within three years.\nMan 2: Actually, our environmental team also flagged residual soil testing from the prior foundry tenant, which could trigger remediation obligations.\nWoman: Wait—doesn't the current triple-net lease shift facility maintenance and compliance costs onto the logistics operator?\nMan 2: Only for routine upkeep, not preexisting subsurface contamination, so we should carve out a seller indemnity before signing.",
+    "questionText": "Why does the woman's point about the lease fail to resolve the second man's concern?",
+    "options": [
+      "The logistics operator is exempt from environmental laws.",
+      "The lease holds the tenant liable solely for ongoing maintenance.",
+      "The triple-net structure expired when the foundry vacated.",
+      "Seller indemnities are prohibited in municipal industrial zones."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao ý kiến của người phụ nữ về hợp đồng thuê không giải tỏa được lo ngại của người đàn ông thứ hai?\n(A) Đơn vị vận hành logistics được miễn áp dụng luật môi trường.\n(B) Hợp đồng thuê chỉ buộc khách thuê chịu trách nhiệm bảo trì thường xuyên.\n(C) Cơ cấu hợp đồng thuê ròng ba bên đã hết hạn khi xưởng đúc dọn đi.\n(D) Điều khoản bên bán bồi hoàn bị cấm tại các khu công nghiệp đô thị.",
+    "explanation": "Đáp án đúng là (B). Khi người phụ nữ hỏi hợp đồng triple-net đã chuyển chi phí bảo trì và tuân thủ sang bên vận hành logistics rồi mà, người đàn ông thứ hai đáp lại rằng hợp đồng chỉ áp dụng cho \"routine upkeep, not preexisting subsurface contamination\" (bảo trì định kỳ chứ không bao gồm ô nhiễm tầng đất có sẵn từ trước), nên cần tách điều khoản bên bán bồi hoàn. (A), (C), (D) đều sai.",
+    "vocab": [
+      [
+        "triple-net lease",
+        "n.",
+        "hợp đồng thuê mà bên thuê chịu cả thuế, bảo hiểm và bảo trì"
+      ],
+      [
+        "routine upkeep",
+        "n.",
+        "bảo dưỡng định kỳ thông thường"
+      ],
+      [
+        "indemnity",
+        "n.",
+        "cam kết bồi hoàn, miễn trừ trách nhiệm"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g6",
+    "audioScript": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "audioVoiceText": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "questionText": "What grid inefficiency are the speakers discussing?",
+    "options": [
+      "Excess daytime solar output is wasted despite costly evening shortages.",
+      "Transmission cables in the northern corridor suffered physical storm damage.",
+      "Gas peaker turbines operate below minimum regulatory efficiency standards.",
+      "Residential customers refuse to adopt smart-meter time-of-use billing."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người đang thảo luận về sự kém hiệu quả nào trên lưới điện?\n(A) Sản lượng điện mặt trời dư thừa ban ngày bị cắt bỏ dù buổi tối vẫn thiếu điện tốn kém.\n(B) Dây truyền tải ở hành lang phía bắc bị hư hại vật lý do bão.\n(C) Tua-bin khí chạy giờ cao điểm vận hành dưới chuẩn hiệu suất quy định.\n(D) Khách hàng dân cư từ chối áp dụng đồng hồ thông minh tính giá theo khung giờ.",
+    "explanation": "Đáp án đúng là (A). Người phụ nữ nêu trạm biến áp phải cắt giảm gần 40 MW điện mặt trời buổi trưa vì giới hạn nhiệt đường dây, trong khi người đàn ông chỉ ra đến 7 giờ tối vẫn phải khởi động tua-bin khí phủ đỉnh (gas peaker turbines) để đáp ứng nhu cầu điều hòa. (B), (C), (D) không có trong bài.",
+    "vocab": [
+      [
+        "substation telemetry",
+        "n.",
+        "dữ liệu đo lường từ xa của trạm biến áp"
+      ],
+      [
+        "curtail",
+        "v.",
+        "cắt giảm công suất phát (bỏ phí nguồn dư)"
+      ],
+      [
+        "peaker turbine",
+        "n.",
+        "tua-bin phát điện chạy bổ sung giờ cao điểm"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g6",
+    "audioScript": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "audioVoiceText": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "questionText": "What does the man imply when he says, \"the storage arrays end up sitting half-empty right before peak ramp\"?",
+    "options": [
+      "Battery cells are degrading faster than manufacturer warranties allow.",
+      "Rigid day-ahead scheduling fails to capture energy before demand surges.",
+      "Technicians mistakenly discharged stored power during midday congestion.",
+      "Northern transmission lines cannot carry battery output in the evening."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông ngụ ý gì khi nói \"the storage arrays end up sitting half-empty right before peak ramp\"?\n(A) Các pin lưu trữ xuống cấp nhanh hơn mức bảo hành của nhà sản xuất.\n(B) Lịch trình cố định từ ngày hôm trước không kịp tích điện trước khi phụ tải tăng vọt.\n(C) Kỹ thuật viên vô tình xả hết điện tích trữ trong lúc nghẽn mạch buổi trưa.\n(D) Đường dây truyền tải phía bắc không tải nổi điện từ pin vào buổi tối.",
+    "explanation": "Đáp án đúng là (B). Do mô hình điều độ pin chỉ lập lịch sạc dựa trên dự báo giá từ ngày hôm trước (day-ahead), khi mây thay đổi thực tế thì hệ thống pin lưu trữ bị hụt sạc (ngồi chờ trong trạng thái chỉ đầy một nửa) ngay trước giờ tăng tải cao điểm (peak ramp). (A), (C), (D) đều sai nguyên nhân.",
+    "vocab": [
+      [
+        "dispatch model",
+        "n.",
+        "mô hình điều độ phát/sạc điện"
+      ],
+      [
+        "storage array",
+        "n.",
+        "tổ hợp pin lưu trữ năng lượng"
+      ],
+      [
+        "peak ramp",
+        "n.",
+        "giai đoạn phụ tải tăng dốc lên mức đỉnh"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g6",
+    "audioScript": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "audioVoiceText": "Woman: Look at yesterday's regional substation telemetry—we curtailed nearly forty megawatts of midday solar generation because transmission lines into the northern corridor hit thermal limits.\nMan: Yet by seven in the evening, we still had to fire up expensive gas peaker turbines to satisfy surging residential air-conditioning demand.\nWoman: Exactly, and that mismatch is eating into our operating margins. Our current battery dispatch model schedules charging strictly on day-ahead price forecasts.\nMan: So when unexpected cloud cover shifts generation patterns in real time, the storage arrays end up sitting half-empty right before peak ramp.\nWoman: Right. If we integrate live fifteen-minute weather feeds into the automated dispatch engine, we can absorb surplus midday solar power instead of wasting it.",
+    "questionText": "What improvement does the woman propose?",
+    "options": [
+      "Upgrading high-voltage cables along the northern corridor",
+      "Installing extra gas turbines at regional substations",
+      "Feeding frequent meteorological updates into the dispatch software",
+      "Selling surplus solar electricity directly to industrial plants"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất giải pháp cải thiện nào?\n(A) Nâng cấp dây cáp cao thế dọc hành lang phía bắc\n(B) Lắp thêm tua-bin khí tại các trạm biến áp khu vực\n(C) Tích hợp dữ liệu thời tiết cập nhật dày vào phần mềm điều độ\n(D) Bán trực tiếp điện mặt trời dư thừa cho các nhà máy công nghiệp",
+    "explanation": "Đáp án đúng là (C). Cô ấy đề nghị tích hợp dữ liệu thời tiết theo chu kỳ 15 phút (fifteen-minute weather feeds) vào hệ thống điều độ tự động để hấp thụ phần điện dư buổi trưa thay vì cắt bỏ. (A), (B), (D) không được đề xuất.",
+    "vocab": [
+      [
+        "weather feed",
+        "n.",
+        "luồng dữ liệu thời tiết trực tiếp"
+      ],
+      [
+        "thermal limit",
+        "n.",
+        "giới hạn nhiệt cho phép của đường dây"
+      ],
+      [
+        "absorb surplus",
+        "v.",
+        "hấp thụ phần công suất dư thừa"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g7",
+    "audioScript": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "audioVoiceText": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "questionText": "Why is the shipment currently held at the Rotterdam port?",
+    "options": [
+      "The customs broker omitted values on the commercial invoice.",
+      "Authorities reassigned components to a more restrictive tariff category.",
+      "Container cranes are experiencing an inspection backlog.",
+      "The Zurich office forgot to insure the optical equipment."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao lô hàng hiện bị giữ tại cảng Rotterdam?\n(A) Đại lý hải quan bỏ sót giá trị trên hóa đơn thương mại.\n(B) Nhà chức trách phân loại lại linh kiện vào mã thuế kiểm soát chặt hơn.\n(C) Cần cẩu container đang bị ùn ứ kiểm tra hàng loạt.\n(D) Văn phòng Zurich quên mua bảo hiểm cho thiết bị quang học.",
+    "explanation": "Đáp án đúng là (B). Người đàn ông bác bỏ hai giả thuyết hóa đơn sai và ùn ứ kiểm hóa (\"Neither\"), nêu rõ hải quan châu Âu đã phân loại lại cảm biến quang học sang mã thuế lưỡng dụng (dual-use tariff code) nghiêm ngặt hơn, làm giấy chứng nhận xuất xứ thông thường mất hiệu lực. (A) và (C) là bẫy từ câu hỏi đoán của người phụ nữ; (D) không đề cập.",
+    "vocab": [
+      [
+        "demurrage",
+        "n.",
+        "phí lưu bãi/lưu container quá hạn tại cảng"
+      ],
+      [
+        "dual-use tariff code",
+        "n.",
+        "mã thuế hàng hóa lưỡng dụng (dân sự và kiểm soát xuất khẩu)"
+      ],
+      [
+        "certificate of origin",
+        "n.",
+        "giấy chứng nhận xuất xứ hàng hóa"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g7",
+    "audioScript": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "audioVoiceText": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "questionText": "Why is the woman particularly concerned about the contractual shipping terms?",
+    "options": [
+      "The buyer can cancel the entire contract after three days of delay.",
+      "Additional import duties directly reduce her company's profit.",
+      "Insurance coverage ends once goods enter Rotterdam harbor.",
+      "The customs broker charges a percentage of total tariff value."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ đặc biệt lo lắng về điều khoản giao hàng trong hợp đồng?\n(A) Bên mua có thể hủy toàn bộ hợp đồng sau ba ngày chậm trễ.\n(B) Các khoản thuế nhập khẩu phát sinh sẽ trừ thẳng vào lợi nhuận công ty họ.\n(C) Phạm vi bảo hiểm chấm dứt khi hàng vào cảng Rotterdam.\n(D) Đại lý hải quan thu phí theo phần trăm tổng tiền thuế.",
+    "explanation": "Đáp án đúng là (B). Cô ấy giải thích họ đã chốt điều khoản Giao hàng đã nộp thuế (Delivered Duty Paid), nghĩa là mọi khoản thuế nhập khẩu ngoài dự kiến sẽ ăn thẳng vào biên lợi nhuận của công ty (\"comes straight out of our margin\"). (A), (C), (D) không được đề cập.",
+    "vocab": [
+      [
+        "Delivered Duty Paid",
+        "n.",
+        "điều kiện giao hàng đã nộp thuế (bên bán chịu thuế nhập khẩu)"
+      ],
+      [
+        "unforeseen",
+        "adj.",
+        "ngoài dự kiến, bất ngờ"
+      ],
+      [
+        "margin",
+        "n.",
+        "biên lợi nhuận"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g7",
+    "audioScript": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "audioVoiceText": "Man: Priya, our medical-imaging shipment is still stalled at the Rotterdam port, and demurrage penalties are accumulating daily.\nWoman: Did the customs broker misfile the commercial invoice again, or is it an inspection backlog?\nMan: Neither—European customs reclassified the optical sensors under a stricter dual-use tariff code, which invalidates our standard certificate of origin.\nWoman: That's problematic because we agreed to Delivered Duty Paid terms, meaning any unforeseen import tariff comes straight out of our margin.\nMan: Worse still, releasing the goods requires an engineering specification sheet signed by our Zurich compliance officer.\nWoman: Let's route the container into a bonded warehouse temporarily while Zurich prepares the documentation, so we at least halt the port storage fees.",
+    "questionText": "What measure does the woman recommend to limit expenses while awaiting paperwork?",
+    "options": [
+      "Shipping the sensors back to Zurich for reassembly",
+      "Hiring a European law firm to challenge customs rules",
+      "Transferring the container to a duty-deferred storage facility",
+      "Paying port storage fees upfront in exchange for a discount"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất biện pháp nào để hạn chế chi phí trong lúc chờ hồ sơ?\n(A) Gửi trả các cảm biến về Zurich để lắp ráp lại\n(B) Thuê hãng luật châu Âu khiếu nại quy định hải quan\n(C) Chuyển container vào kho ngoại quan tạm hoãn nộp thuế\n(D) Trả trước phí lưu cảng để đổi lấy mức chiết khấu",
+    "explanation": "Đáp án đúng là (C). Cô ấy đề xuất đưa container vào kho ngoại quan tạm thời (\"bonded warehouse\" — cơ sở lưu giữ tạm chưa phải nộp thuế nhập khẩu) trong lúc văn phòng Zurich làm hồ sơ, qua đó chặn được phí lưu bãi tại cảng. (A), (B), (D) đều sai.",
+    "vocab": [
+      [
+        "bonded warehouse",
+        "n.",
+        "kho ngoại quan"
+      ],
+      [
+        "compliance officer",
+        "n.",
+        "chuyên viên phụ trách tuân thủ quy định"
+      ],
+      [
+        "halt",
+        "v.",
+        "chặn đứng, làm ngưng lại"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g8",
+    "audioScript": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "audioVoiceText": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "questionText": "What issue emerged during the Munich subsidiary's parallel run?",
+    "options": [
+      "Procurement approvals stalled after a software update.",
+      "Migrated accounts-payable figures diverged from the older accounting ledger.",
+      "Munich staff missed the deadline for submitting vendor invoices.",
+      "Currency conversion rules were deleted from the legacy database."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vấn đề gì đã nảy sinh trong đợt chạy song song của chi nhánh Munich?\n(A) Phê duyệt mua sắm bị đình trệ sau một bản cập nhật phần mềm.\n(B) Số liệu phải trả sau di trú bị lệch so với sổ cái kế toán cũ.\n(C) Nhân sự ở Munich trễ hạn nộp hóa đơn nhà cung cấp.\n(D) Quy tắc quy đổi tiền tệ bị xóa khỏi cơ sở dữ liệu cũ.",
+    "explanation": "Đáp án đúng là (B). Người đàn ông báo cáo hầu hết quy trình mua sắm đều đạt kiểm định, ngoại trừ sổ phụ phải trả (accounts-payable sub-ledger) bị lệch khoảng 300.000 euro so với bảng cân đối thử hệ thống cũ (legacy trial balance). Nguyên nhân là trùng lặp hồ sơ chuẩn nhà cung cấp dùng bảng tỷ giá cũ khi tải dữ liệu, nên (A), (C), (D) sai.",
+    "vocab": [
+      [
+        "cutover",
+        "n.",
+        "thời điểm chuyển đổi sang hệ thống mới"
+      ],
+      [
+        "parallel run",
+        "n.",
+        "giai đoạn chạy song song hai hệ thống để đối chiếu"
+      ],
+      [
+        "sub-ledger",
+        "n.",
+        "sổ cái phụ (chi tiết theo từng khoản mục)"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g8",
+    "audioScript": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "audioVoiceText": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "questionText": "What does the woman mean when she says, \"Hold everything\"?",
+    "options": [
+      "The migration cannot advance until the accounting mismatch is resolved.",
+      "Munich employees must retain all paper invoices for seven years.",
+      "External auditors should delay reviewing other global subsidiaries.",
+      "The procurement team ought to pause supplier payments indefinitely."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói \"Hold everything\"?\n(A) Quá trình chuyển đổi không thể tiến hành tiếp cho tới khi xử lý dứt điểm sai lệch kế toán.\n(B) Nhân viên ở Munich phải lưu giữ toàn bộ hóa đơn giấy trong bảy năm.\n(C) Kiểm toán viên bên ngoài nên hoãn kiểm tra các công ty con khác.\n(D) Đội mua sắm cần tạm dừng thanh toán cho nhà cung cấp vô thời hạn.",
+    "explanation": "Đáp án đúng là (A). Thành ngữ \"Hold everything\" nghĩa là dừng mọi bước tiếp theo lại ngay: cô nhấn mạnh nếu số dư không khớp tuyệt đối đến từng xu, kiểm toán sẽ không phê duyệt khóa sổ hợp nhất, và ngay sau đó cô yêu cầu đóng băng tải dữ liệu trước khi đụng vào môi trường vận hành chính thức. (B), (C), (D) diễn giải sai.",
+    "vocab": [
+      [
+        "reconcile",
+        "v.",
+        "đối chiếu khớp số liệu"
+      ],
+      [
+        "consolidated financial close",
+        "n.",
+        "kỳ khóa sổ báo cáo tài chính hợp nhất"
+      ],
+      [
+        "master record",
+        "n.",
+        "bản ghi dữ liệu gốc (dùng chung toàn hệ thống)"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g8",
+    "audioScript": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "audioVoiceText": "Woman: With the global ERP cutover scheduled for next weekend, where do we stand on the Munich subsidiary's parallel run?\nMan: Most procurement workflows cleared validation, except the accounts-payable sub-ledger is off by roughly three hundred thousand euros against the legacy trial balance.\nWoman: Hold everything—if those balances don't reconcile to the cent, external auditors won't sign off on our consolidated financial close.\nMan: We traced the discrepancy to duplicate vendor master records that used outdated exchange-rate tables during yesterday's batch upload.\nWoman: Then freeze further uploads in Munich tonight and run the cleansing script before touching the live production environment.\nMan: Understood. I'll get our database architect on the bridge call immediately to verify the fix by morning.",
+    "questionText": "What will the man do right away?",
+    "options": [
+      "Travel to Munich to audit vendor files in person",
+      "Deploy the new ERP interface directly to production",
+      "Notify external auditors about a week-long cutover delay",
+      "Convene a technical call with a database specialist"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì ngay lập tức?\n(A) Đi công tác tới Munich để tự tay kiểm tra hồ sơ nhà cung cấp\n(B) Triển khai giao diện ERP mới trực tiếp lên môi trường vận hành chính thức\n(C) Thông báo cho kiểm toán bên ngoài về việc dời lịch chuyển đổi một tuần\n(D) Tổ chức cuộc gọi kỹ thuật ngay với chuyên gia kiến trúc cơ sở dữ liệu",
+    "explanation": "Đáp án đúng là (D). Ở lượt cuối, anh nói: \"I'll get our database architect on the bridge call immediately to verify the fix by morning\" (Tôi sẽ gọi kiến trúc sư cơ sở dữ liệu vào cuộc họp cầu nối ngay để xác minh bản sửa lỗi trước sáng mai). (A), (B), (C) đều sai.",
+    "vocab": [
+      [
+        "cleansing script",
+        "n.",
+        "đoạn mã tự động làm sạch và chuẩn hóa dữ liệu"
+      ],
+      [
+        "production environment",
+        "n.",
+        "môi trường vận hành chính thức (live)"
+      ],
+      [
+        "bridge call",
+        "n.",
+        "cuộc họp thoại trực tuyến nhiều bên"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g9",
+    "audioScript": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "audioVoiceText": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "questionText": "What does the first woman report about the green bond offering?",
+    "options": [
+      "Investor demand far exceeded the initial issuance size.",
+      "Trading in London was paused due to pricing volatility.",
+      "A sovereign wealth fund withdrew its entire purchase order.",
+      "The maturity period was shortened from ten years to five."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ đầu tiên báo cáo điều gì về đợt chào bán trái phiếu xanh?\n(A) Nhu cầu của nhà đầu tư vượt xa quy mô phát hành ban đầu.\n(B) Giao dịch tại London bị tạm dừng do biến động định giá.\n(C) Một quỹ đầu tư quốc gia đã rút toàn bộ lệnh mua.\n(D) Kỳ hạn trái phiếu bị rút ngắn từ mười năm xuống năm năm.",
+    "explanation": "Đáp án đúng là (A). Cô ấy thông báo sổ lệnh cho đợt phát hành trái phiếu xanh kỳ hạn 10 năm đã đạt mức đăng ký vượt gấp ba lần khối lượng chào bán (\"three times oversubscription\") chỉ trong hai giờ mở sổ ở London. (B), (C), (D) đều sai sự thật.",
+    "vocab": [
+      [
+        "oversubscription",
+        "n.",
+        "tình trạng đặt mua vượt khối lượng phát hành"
+      ],
+      [
+        "pricing guidance",
+        "n.",
+        "khung lãi suất/giá chào bán định hướng"
+      ],
+      [
+        "basis point",
+        "n.",
+        "điểm cơ bản (1/100 của 1%)"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g9",
+    "audioScript": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "audioVoiceText": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "questionText": "Why does the second woman advise against cutting the yield by ten basis points?",
+    "options": [
+      "Underwriting regulations prohibit revising yield mid-offering.",
+      "A major cornerstone investor might reduce its commitment.",
+      "The ESG rating agency linked its fee to the higher coupon.",
+      "Electrified-rail construction costs require extra borrowing."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ thứ hai khuyên không nên cắt giảm lợi suất tới mười điểm cơ bản?\n(A) Quy định bảo lãnh phát hành cấm điều chỉnh lợi suất giữa đợt chào bán.\n(B) Một nhà đầu tư chủ chốt lớn có thể thu hẹp mức cam kết mua.\n(C) Tổ chức xếp hạng ESG gắn phí dịch vụ với mức lãi suất cao hơn.\n(D) Chi phí xây dựng đường sắt điện khí hóa đòi hỏi phải vay thêm.",
+    "explanation": "Đáp án đúng là (B). Khi người đàn ông đề xuất siết biên giá thêm 10 điểm cơ bản (tức giảm lợi suất chào bán), người phụ nữ thứ hai cảnh báo quỹ đầu tư quốc gia chủ chốt (anchor sovereign wealth fund) đã báo hiệu sẽ cắt giảm tỷ trọng phân bổ nếu lợi suất cuối rơi xuống dưới tỷ suất tối thiểu nội bộ (hurdle rate) của họ. Do đó hai người chốt giảm nhẹ 5 điểm cơ bản.",
+    "vocab": [
+      [
+        "sovereign wealth fund",
+        "n.",
+        "quỹ đầu tư tài sản quốc gia"
+      ],
+      [
+        "hurdle rate",
+        "n.",
+        "tỷ suất sinh lời tối thiểu chấp nhận được"
+      ],
+      [
+        "cornerstone buyer",
+        "n.",
+        "nhà đầu tư chủ chốt đặt nền móng cho đợt phát hành"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g9",
+    "audioScript": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "audioVoiceText": "Woman: Order books for our ten-year green bond offering just reached three times oversubscription within two hours of launching in London.\nMan: Institutional appetite for certified decarbonization debt is remarkably strong. Should we tighten the pricing guidance by another ten basis points?\nWoman 2: Careful—our anchor sovereign wealth fund signaled they'll trim their allocation if the final yield drops below their internal hurdle rate.\nWoman: Good point, so tightening by five basis points strikes a safer balance without alienating cornerstone buyers.\nMan: Also, did the ESG rating agency deliver the final second-party opinion verifying our electrified-rail use-of-proceeds covenant?\nWoman 2: Yes, they issued clearance this morning, though we are legally bound to publish audited impact metrics annually to preserve the green label.",
+    "questionText": "What continuing obligation accompanies the green certification?",
+    "options": [
+      "Obtaining quarterly sign-offs from London exchange officials",
+      "Restricting bond resales exclusively to European funds",
+      "Refinancing existing corporate debt within eighteen months",
+      "Disclosing independently verified environmental outcomes every year"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Nghĩa vụ duy trì nào đi kèm với chứng nhận trái phiếu xanh?\n(A) Xin phê duyệt hằng quý từ giới chức sở giao dịch London\n(B) Hạn chế việc bán lại trái phiếu chỉ cho các quỹ châu Âu\n(C) Tái cấp vốn cho khoản nợ doanh nghiệp hiện hữu trong vòng mười tám tháng\n(D) Công bố hằng năm các chỉ số tác động môi trường đã qua kiểm toán độc lập",
+    "explanation": "Đáp án đúng là (D). Người phụ nữ thứ hai xác nhận tổ chức xếp hạng ESG đã cấp ý kiến đánh giá độc lập sáng nay, nhưng tổ chức phát hành bị ràng buộc pháp lý phải công bố các chỉ số tác động đã được kiểm toán hằng năm (\"publish audited impact metrics annually\") để giữ nhãn xanh. (A), (B), (C) không được nhắc đến.",
+    "vocab": [
+      [
+        "second-party opinion",
+        "n.",
+        "ý kiến thẩm định độc lập từ bên thứ hai (cho tài chính xanh)"
+      ],
+      [
+        "use-of-proceeds covenant",
+        "n.",
+        "điều khoản cam kết mục đích sử dụng vốn huy động"
+      ],
+      [
+        "audited metric",
+        "n.",
+        "chỉ số đo lường đã được kiểm toán"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g10",
+    "audioScript": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "audioVoiceText": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "questionText": "What manufacturing anomaly does the man report?",
+    "options": [
+      "Defect rates spiked specifically around the borders of silicon discs.",
+      "Output volume dropped across every cleanroom facility overnight.",
+      "Three-nanometer chips failed final voltage testing after packaging.",
+      "Preventive maintenance ran four hours behind schedule."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông báo cáo sự cố bất thường nào trong sản xuất?\n(A) Tỷ lệ lỗi tăng vọt tập trung quanh phần rìa ngoài của các đĩa bán dẫn.\n(B) Sản lượng giảm đồng loạt tại mọi phòng sạch qua đêm.\n(C) Chip ba nanomet trượt kiểm tra điện áp cuối cùng sau đóng gói.\n(D) Bảo trì phòng ngừa bị chậm bốn tiếng so với lịch trình.",
+    "explanation": "Đáp án đúng là (A). Người đàn ông báo tỷ lệ sản phẩm đạt chuẩn (wafer yield) của lô 3 nm giảm gần 4 điểm phần trăm qua đêm, tập trung dọc theo mép ngoài tấm bán dẫn (\"concentrated along the outer wafer edges\"). (B) mở rộng quá mức ra mọi phòng sạch; (C) và (D) không đúng chi tiết.",
+    "vocab": [
+      [
+        "wafer yield",
+        "n.",
+        "tỷ lệ đế bán dẫn/chip đạt chuẩn trên mỗi tấm wafer"
+      ],
+      [
+        "peripheral die",
+        "n.",
+        "mạch chip nằm ở vùng rìa ngoài tấm wafer"
+      ],
+      [
+        "annealing",
+        "n.",
+        "quá trình ủ nhiệt ổn định cấu trúc bán dẫn"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g10",
+    "audioScript": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "audioVoiceText": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "questionText": "Why does the man rule out lithography drift as the root cause?",
+    "options": [
+      "The lithography machine was offline for maintenance all night.",
+      "Automated process charts confirmed alignment stayed within limits.",
+      "Optical sensors were recently replaced by the vendor.",
+      "Thermal annealing runs after lithography errors are corrected."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông loại trừ nguyên nhân do sai lệch quang khắc?\n(A) Máy quang khắc đã tắt để bảo trì suốt cả đêm.\n(B) Biểu đồ kiểm soát quy trình xác nhận độ căn chỉnh vẫn nằm trong giới hạn cho phép.\n(C) Cảm biến quang học vừa được nhà cung cấp thay thế gần đây.\n(D) Quá trình ủ nhiệt diễn ra sau khi các lỗi quang khắc được khắc phục.",
+    "explanation": "Đáp án đúng là (B). Anh ấy chỉ ra biểu đồ kiểm soát quy trình thống kê (statistical process control charts) cho thấy tia laser căn chỉnh giữ chặt trong mức dung sai (\"held tightly within tolerance\"), vì vậy hiệu chuẩn quang khắc không phải thủ phạm. (A), (C), (D) đều sai.",
+    "vocab": [
+      [
+        "overlay drift",
+        "n.",
+        "độ trôi lệch chồng lớp trong sản xuất vi mạch"
+      ],
+      [
+        "within tolerance",
+        "prep. phr.",
+        "trong ngưỡng dung sai cho phép"
+      ],
+      [
+        "lithography",
+        "n.",
+        "công nghệ quang khắc chế tạo chip"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g10",
+    "audioScript": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "audioVoiceText": "Man: Min-ji, wafer yield across our latest three-nanometer production lot fell nearly four percentage points overnight, concentrated along the outer wafer edges.\nWoman: Peripheral die failures typically stem from either uneven thermal gradients during annealing or subtle overlay drift in the extreme-ultraviolet lithography step.\nMan: Actually, our statistical process control charts show the alignment lasers held tightly within tolerance, so lithography calibration doesn't appear to be the culprit.\nWoman: Wait—didn't the night crew replace a polymeric transfer seal inside vacuum chamber four during yesterday's scheduled preventive maintenance window?\nMan: Yes, they did. If that replacement gasket is releasing chemical vapors under heat, it would explain why only outer dies are corroding.\nWoman: Agreed. Put chamber four on engineering hold and send the suspect seal to metrology for outgassing spectroscopy.",
+    "questionText": "What action does the woman direct the team to take?",
+    "options": [
+      "Halt operations in chamber four and test the newly installed gasket",
+      "Reprogram the alignment lasers across all vacuum chambers",
+      "Discard the entire three-nanometer lot from yesterday's shift",
+      "Switch immediately to a different supplier of silicon wafers"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ chỉ đạo nhóm thực hiện hành động nào?\n(A) Tạm dừng vận hành buồng số bốn và mang gioăng mới lắp đi kiểm nghiệm\n(B) Lập trình lại tia laser căn chỉnh trên toàn bộ các buồng chân không\n(C) Loại bỏ toàn bộ lô chip ba nanomet từ ca làm hôm qua\n(D) Chuyển ngay sang một nhà cung cấp tấm silicon khác",
+    "explanation": "Đáp án đúng là (A). Cô yêu cầu đưa buồng số 4 vào trạng thái tạm ngưng kỹ thuật (\"Put chamber four on engineering hold\") và gửi chiếc gioăng khả nghi tới phòng đo lường để phân tích quang phổ thoát khí. (B), (C), (D) không được đề cập.",
+    "vocab": [
+      [
+        "engineering hold",
+        "n.",
+        "lệnh tạm dừng thiết bị/lô hàng để kiểm tra kỹ thuật"
+      ],
+      [
+        "outgassing",
+        "n.",
+        "hiện tượng thoát hơi hóa chất từ vật liệu trong môi trường chân không/nhiệt"
+      ],
+      [
+        "metrology",
+        "n.",
+        "bộ phận đo lường và phân tích chính xác"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g11",
+    "audioScript": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "audioVoiceText": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "questionText": "Why is the turbine display currently delayed at airport customs?",
+    "options": [
+      "The crate exceeded weight limits for standard cargo aircraft.",
+      "Documentation for temporary duty-free entry was incomplete.",
+      "The Brussels chamber of commerce misplaced shipping labels.",
+      "Venue marshalling fees had not been paid in advance."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao mô hình tua-bin hiện bị kẹt lại tại hải quan sân bay?\n(A) Thùng hàng vượt giới hạn trọng lượng đối với máy bay chở hàng tiêu chuẩn.\n(B) Hồ sơ xin thông quan miễn thuế tạm nhập tái xuất còn thiếu sót.\n(C) Phòng thương mại Brussels làm thất lạc nhãn vận chuyển.\n(D) Phí điều phối bãi tập kết tại địa điểm triển lãm chưa được thanh toán trước.",
+    "explanation": "Đáp án đúng là (B). Người phụ nữ báo mô hình bị giữ do sổ tạm nhập tái xuất (ATA Carnet) chưa hoàn chỉnh, mà người đàn ông gọi là \"temporary import passport\" giúp thông quan máy móc triển lãm miễn thuế. (A) bẫy từ cụm \"four-ton display\"; (C) và (D) không đúng.",
+    "vocab": [
+      [
+        "freight forwarder",
+        "n.",
+        "đơn vị giao nhận vận tải quốc tế"
+      ],
+      [
+        "ATA Carnet",
+        "n.",
+        "sổ thông hành tạm nhập tái xuất hàng triển lãm miễn thuế"
+      ],
+      [
+        "marshalling yard",
+        "n.",
+        "bãi tập kết phương tiện và kiện hàng trước khi vào sảnh triển lãm"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g11",
+    "audioScript": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "audioVoiceText": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "questionText": "Why does the man say, \"leaving barely sixty minutes to position a four-ton display\"?",
+    "options": [
+      "To request a postponement of the opening ribbon-cutting ceremony",
+      "To criticize the forklift drivers for working too slowly",
+      "To argue that the remaining unloading window seems inadequate for heavy installation",
+      "To confirm that the rigging crew can assemble the mockup ahead of schedule"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông nói \"leaving barely sixty minutes to position a four-ton display\"?\n(A) Để đề nghị hoãn lễ cắt băng khai mạc\n(B) Để chỉ trích đội lái xe nâng làm việc quá chậm chạp\n(C) Để nhấn mạnh khoảng thời gian dỡ hàng còn lại quá eo hẹp cho việc lắp đặt hạng nặng\n(D) Để xác nhận đội lắp dựng có thể hoàn thành mô hình trước tiến độ",
+    "explanation": "Đáp án đúng là (C). Vì hàng về bãi lúc 6 giờ sáng mà ca đêm của đội lắp dựng hạng nặng kết thúc lúc 7 giờ, anh lo ngại vẻn vẹn 60 phút không đủ để đưa mô hình nặng 4 tấn vào vị trí. (A), (B), (D) đều sai ý định.",
+    "vocab": [
+      [
+        "heavy-rigging crew",
+        "n.",
+        "đội ngũ nâng hạ và lắp đặt thiết bị siêu trường siêu trọng"
+      ],
+      [
+        "pavilion",
+        "n.",
+        "khu gian hàng quốc gia/chủ đề tại triển lãm"
+      ],
+      [
+        "ribbon-cutting",
+        "n.",
+        "lễ cắt băng khai mạc"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g11",
+    "audioScript": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "audioVoiceText": "Woman: Henrik, the freight forwarder just warned me that our Belgian pavilion's turbine mockup is held up at airport customs over an incomplete ATA Carnet.\nMan: You're kidding—without that temporary import passport, we can't clear exhibition machinery duty-free before tomorrow's ribbon-cutting.\nWoman: Our Brussels chamber of commerce is wiring the stamped amendment tonight, so the crate should hit the marshalling yard by six tomorrow morning.\nMan: Even if it arrives at six, the hall's dedicated heavy-rigging crew finishes its overnight shift at seven, leaving barely sixty minutes to position a four-ton display.\nWoman: I already thought of that. I negotiated an overtime dock slot with the venue director so our forklift team can bypass the main queuing lane.",
+    "questionText": "How has the woman mitigated the scheduling bottleneck?",
+    "options": [
+      "She hired an external freight forwarder based in Brussels.",
+      "She secured priority dock access and extended crew hours with venue management.",
+      "She replaced the four-ton turbine with a digital scale model.",
+      "She arranged for customs inspectors to clear cargo inside the exhibition hall."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đã giảm nhẹ nút thắt lịch trình bằng cách nào?\n(A) Cô thuê một công ty giao nhận bên ngoài đặt trụ sở tại Brussels.\n(B) Cô thu xếp suất bốc dỡ ưu tiên và giờ làm thêm với ban quản lý trung tâm triển lãm.\n(C) Cô thay thế tua-bin bốn tấn bằng mô hình thu nhỏ kỹ thuật số.\n(D) Cô thu xếp để hải quan kiểm tra hàng ngay bên trong sảnh triển lãm.",
+    "explanation": "Đáp án đúng là (B). Cô trấn an đồng nghiệp rằng đã đàm phán xong một khung giờ bến bãi ngoài giờ (\"overtime dock slot\") với giám đốc địa điểm để đội xe nâng đi thẳng qua làn ưu tiên, tránh xếp hàng ở làn chính (\"bypass the main queuing lane\"). (A), (C), (D) đều sai.",
+    "vocab": [
+      [
+        "dock slot",
+        "n.",
+        "khung giờ tiếp nhận hàng tại bến bốc dỡ"
+      ],
+      [
+        "queuing lane",
+        "n.",
+        "làn xe xếp hàng chờ làm thủ tục vào sảnh"
+      ],
+      [
+        "amendment",
+        "n.",
+        "văn bản sửa đổi, bổ sung"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g12",
+    "audioScript": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "audioVoiceText": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "questionText": "On what basis is Apex Fintech demanding service credits?",
+    "options": [
+      "Core cloud clusters experienced an unexpected overnight outage.",
+      "Slow system response times met a contractual threshold for unavailability.",
+      "Quarterly hosting rates increased without prior written notice.",
+      "Customer records were lost during a Tuesday software migration."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Apex Fintech yêu cầu khoản bồi thường cước dịch vụ trên cơ sở nào?\n(A) Các cụm máy chủ đám mây lõi gặp sự cố sập nguồn qua đêm ngoài ý muốn.\n(B) Thời gian phản hồi hệ thống chậm đã chạm ngưỡng định nghĩa mất khả dụng trong hợp đồng.\n(C) Giá thuê lưu trữ hằng quý tăng mà không có thông báo bằng văn bản trước.\n(D) Dữ liệu khách hàng bị thất lạc trong lần di trú phần mềm ngày thứ Ba.",
+    "explanation": "Đáp án đúng là (B). Dù cụm máy chủ lõi không sập (nên (A) sai), luật sư của Apex viện dẫn Điều khoản Tám của hợp đồng khung rằng độ trễ phản hồi vượt quá 2 giây được coi là mất khả dụng gián tiếp (\"constructive unavailability\"). (C) và (D) không có trong bài.",
+    "vocab": [
+      [
+        "service credit",
+        "n.",
+        "khoản khấu trừ/bồi hoàn phí dịch vụ do vi phạm SLA"
+      ],
+      [
+        "latency spike",
+        "n.",
+        "hiện tượng độ trễ phản hồi tăng vọt đột ngột"
+      ],
+      [
+        "constructive unavailability",
+        "n.",
+        "tình trạng gián tiếp coi như mất khả năng truy cập dịch vụ"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g12",
+    "audioScript": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "audioVoiceText": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "questionText": "What evidence strengthens the speakers' defense against the claim?",
+    "options": [
+      "Clause Eight explicitly excludes batch queries from uptime guarantees.",
+      "A third-party fiber cut caused the latency spike across the region.",
+      "Logs and client correspondence confirm the client exceeded agreed traffic limits.",
+      "Apex Fintech failed to file its breach notice within the required window."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bằng chứng nào củng cố lập luận phản bác của hai người trước yêu sách này?\n(A) Điều khoản Tám loại trừ rõ ràng truy vấn hàng loạt khỏi cam kết độ khả dụng.\n(B) Sự cố đứt cáp quang bên thứ ba đã gây ra độ trễ trên toàn khu vực.\n(C) Nhật ký máy chủ và email của khách hàng xác nhận chính khách hàng đã vượt ngưỡng lưu lượng thỏa thuận.\n(D) Apex Fintech không gửi thông báo vi phạm trong thời hạn quy định.",
+    "explanation": "Đáp án đúng là (C). Dữ liệu đo lường cho thấy Apex tự gây tắc nghẽn khi chạy truy vấn hàng loạt không giới hạn tốc độ vượt trần lưu lượng đã thỏa thuận, và giám đốc kỹ thuật của Apex cũng đã thừa nhận lỗi cấu hình trong email sau buổi rà soát nguyên nhân gốc rễ. (A), (B), (D) đều không có trong hội thoại.",
+    "vocab": [
+      [
+        "unthrottled",
+        "adj.",
+        "không bị giới hạn băng thông/tần suất truy vấn"
+      ],
+      [
+        "rate ceiling",
+        "n.",
+        "giới hạn trần tần suất truy cập"
+      ],
+      [
+        "rebuttal",
+        "n.",
+        "văn bản phản bác chính thức"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g12",
+    "audioScript": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "audioVoiceText": "Man: Nora, Apex Fintech just filed a formal breach notice demanding forty percent in quarterly service credits under our ninety-nine point nine-nine percent uptime SLA.\nWoman: Wait—our core cloud clusters never went offline last month. Are they counting Tuesday's API latency spike as downtime?\nMan: According to their legal counsel, response delays exceeding two seconds qualify as constructive unavailability under Clause Eight of the master agreement.\nWoman: Perhaps, except telemetry proves Apex triggered that bottleneck themselves by running unthrottled batch queries that bypassed our agreed rate ceiling.\nMan: Even better, their engineering director acknowledged the configuration slip in an email after our root-cause review.\nWoman: Let's attach both the server logs and that email to our rebuttal, though offer a goodwill migration credit to preserve the renewal.",
+    "questionText": "Why does the woman propose offering a goodwill migration credit despite having proof?",
+    "options": [
+      "To avoid expensive arbitration under Clause Eight",
+      "To safeguard the commercial relationship ahead of contract renewal",
+      "To compensate for deleting Apex Fintech's server logs",
+      "To encourage the client to upgrade to higher-priced clusters"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ đề xuất tặng khoản tín dụng di trú thiện chí dù đã nắm bằng chứng?\n(A) Để tránh thủ tục trọng tài tốn kém theo Điều khoản Tám\n(B) Để bảo vệ mối quan hệ thương mại trước kỳ gia hạn hợp đồng\n(C) Để đền bù cho việc xóa nhật ký máy chủ của Apex Fintech\n(D) Để khuyến khích khách hàng nâng cấp lên cụm máy chủ đắt tiền hơn",
+    "explanation": "Đáp án đúng là (B). Ở câu cuối, cô đề nghị đính kèm nhật ký máy chủ và email vào văn bản phản bác, nhưng vẫn tặng một khoản tín dụng thiện chí nhằm \"preserve the renewal\" (giữ giao dịch gia hạn hợp đồng). (A), (C), (D) suy diễn sai mục đích.",
+    "vocab": [
+      [
+        "goodwill credit",
+        "n.",
+        "khoản hỗ trợ/khấu trừ mang tính thiện chí"
+      ],
+      [
+        "root-cause review",
+        "n.",
+        "đánh giá truy tìm nguyên nhân gốc rễ sự cố"
+      ],
+      [
+        "preserve the renewal",
+        "v.",
+        "giữ vững khả năng gia hạn hợp đồng"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g13",
+    "audioScript": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "audioVoiceText": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "questionText": "Why is the woman dissatisfied with third-party department store distribution?",
+    "options": [
+      "Retailers frequently delay payments for seasonal leather goods.",
+      "Promotional discounting by partners weakens the brand's prestige.",
+      "Department stores lack space for private client fitting rooms.",
+      "Shipping leather goods globally incurs prohibitive tariff costs."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ không hài lòng với kênh phân phối qua các trung tâm bách hóa bên thứ ba?\n(A) Các nhà bán lẻ thường xuyên chậm thanh toán tiền hàng đồ da theo mùa.\n(B) Việc đối tác giảm giá khuyến mãi làm suy yếu đẳng cấp danh tiếng của thương hiệu.\n(C) Các cửa hàng bách hóa thiếu không gian cho phòng thử đồ khách hàng riêng.\n(D) Vận chuyển đồ da toàn cầu phát sinh chi phí thuế quan quá cao.",
+    "explanation": "Đáp án đúng là (B). Cô cho rằng việc bán tại bách hóa bên thứ ba đang làm xói mòn tính độc quyền trong mắt giới sưu tầm thượng lưu, và người đàn ông đồng tình rằng các nhà bán lẻ đó thường gộp sản phẩm theo mùa vào chương trình khuyến mãi thành viên, phá vỡ định vị nguyên giá. (A), (C), (D) không được nhắc đến.",
+    "vocab": [
+      [
+        "brand-equity audit",
+        "n.",
+        "đánh giá kiểm toán giá trị tài sản thương hiệu"
+      ],
+      [
+        "perceived exclusivity",
+        "n.",
+        "tính độc quyền và khan hiếm được cảm nhận"
+      ],
+      [
+        "full-price positioning",
+        "n.",
+        "định vị bán đúng nguyên giá, không giảm giá"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g13",
+    "audioScript": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "audioVoiceText": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "questionText": "What does the woman mean when she says, \"In the near term, yes\"?",
+    "options": [
+      "The Milan flagship will take eighteen months to turn profitable.",
+      "Total sales revenue will initially drop after leaving wholesale channels.",
+      "Gross margins remain depressed during seasonal promotions.",
+      "Wholesale partners agreed to extend contracts temporarily."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói \"In the near term, yes\"?\n(A) Cửa hàng chủ lực tại Milan sẽ mất mười tám tháng để có lãi.\n(B) Tổng doanh thu bán hàng ban đầu sẽ giảm sau khi rút khỏi kênh bán sỉ.\n(C) Biên lợi nhuận gộp duy trì ở mức thấp trong các đợt khuyến mãi theo mùa.\n(D) Đối tác bán sỉ đồng ý gia hạn hợp đồng tạm thời.",
+    "explanation": "Đáp án đúng là (B). Ngay trước đó người đàn ông cảnh báo rằng rời bỏ bán sỉ sẽ làm giảm gần 15% tổng doanh thu (top-line volume); cô đáp \"In the near term, yes\" nhằm thừa nhận doanh thu ngắn hạn có sụt giảm, nhưng lập luận biên lợi nhuận gộp sẽ mở rộng nhờ thu hồi phần chênh lệch bán lẻ tại cửa hàng trực thuộc. (A), (C), (D) đều sai.",
+    "vocab": [
+      [
+        "top-line volume",
+        "n.",
+        "tổng quy mô doanh thu (trước khi trừ chi phí)"
+      ],
+      [
+        "retail markup",
+        "n.",
+        "phần chênh lệch giá bán lẻ"
+      ],
+      [
+        "atelier",
+        "n.",
+        "xưởng chế tác và không gian trưng bày thủ công cao cấp"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t2-p3-g13",
+    "audioScript": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "audioVoiceText": "Woman: Looking at our global brand-equity audit, keeping our leather goods inside third-party department stores is steadily eroding our perceived exclusivity among high-net-worth collectors.\nMan: True, those retailers routinely bundle seasonal pieces into loyalty promotions, which undermines our full-price positioning. Still, exiting wholesale cuts nearly fifteen percent of top-line volume.\nWoman: In the near term, yes, yet overall gross margins actually expand once we recapture retail markups through owned flagship ateliers and private client salons.\nMan: That model worked brilliantly for our Milan flagship, provided we invest heavily in bespoke repair services and archival storytelling rather than flashy billboards.\nWoman: Exactly—let's gradually phase out non-strategic wholesale accounts over eighteen months while reallocating advertising funds toward invitation-only heritage exhibitions.",
+    "questionText": "What marketing adjustment do the speakers agree to implement?",
+    "options": [
+      "Replacing billboard campaigns with exclusive brand heritage events",
+      "Launching targeted digital promotions for seasonal leather accessories",
+      "Expanding department store partnerships outside major European cities",
+      "Offering complimentary repair warranties at wholesale outlets"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người thống nhất điều chỉnh chiến lược tiếp thị như thế nào?\n(A) Thay thế các chiến dịch biển quảng cáo đại chúng bằng triển lãm di sản thương hiệu dành riêng cho khách mời\n(B) Tung các chương trình khuyến mãi số nhắm mục tiêu cho phụ kiện da theo mùa\n(C) Mở rộng hợp tác cửa hàng bách hóa ra ngoài các thành phố lớn châu Âu\n(D) Cung cấp bảo hành sửa chữa miễn phí tại các điểm bán sỉ",
+    "explanation": "Đáp án đúng là (A). Người đàn ông nhấn mạnh đầu tư vào dịch vụ sửa chữa may đo riêng và kể chuyện lưu trữ lịch sử thay vì biển quảng cáo hào nhoáng (\"rather than flashy billboards\"), và người phụ nữ tán thành chuyển ngân sách quảng cáo sang các triển lãm di sản chỉ dành cho khách mời (\"invitation-only heritage exhibitions\"). (B), (C), (D) trái với định hướng tái định vị.",
+    "vocab": [
+      [
+        "bespoke",
+        "adj.",
+        "đặt làm riêng, cá nhân hóa cao"
+      ],
+      [
+        "archival storytelling",
+        "n.",
+        "nghệ thuật kể chuyện dựa trên tư liệu di sản lịch sử"
+      ],
+      [
+        "phase out",
+        "v.",
+        "cắt giảm và loại bỏ dần theo lộ trình"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Morales. This is Owen Cho calling from Silverline Printing Systems regarding the wide-format plotter at Beacon Architectural Studio. Our technician inspected the unit yesterday and confirmed that the paper-feed roller assembly needs to be replaced. Unfortunately, that specific component is currently backordered at our regional warehouse, so we will not be able to finish the repair by Wednesday as scheduled. The shipment should arrive Thursday afternoon, meaning we can complete the service on Friday morning instead. In the meantime, if you have urgent client blueprints due before the weekend, we can deliver a temporary loaner machine at no extra charge. Please call me back before four o'clock today so I can reserve that unit for you.",
+    "questionText": "Why is the speaker calling?",
+    "options": [
+      "To confirm a delivery address for paper supplies",
+      "To report a parts delay and propose an alternative",
+      "To schedule a technician's initial inspection",
+      "To negotiate a lower fee on a service invoice"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin chào cô Morales. Tôi là Owen Cho gọi từ công ty Silverline Printing Systems liên quan đến máy vẽ khổ lớn tại văn phòng kiến trúc Beacon. Kỹ thuật viên của chúng tôi đã kiểm tra máy hôm qua và xác nhận bộ trục cuốn giấy cần được thay thế. Đáng tiếc là linh kiện này hiện đang tạm hết hàng tại kho khu vực, nên chúng tôi không thể hoàn thành việc sửa chữa vào thứ Tư như lịch hẹn. Lô hàng dự kiến sẽ về vào chiều thứ Năm, nghĩa là chúng tôi có thể xử lý xong vào sáng thứ Sáu. Trong lúc chờ đợi, nếu cô có bản vẽ khách hàng gấp trước cuối tuần, chúng tôi có thể giao một máy dùng tạm hoàn toàn miễn phí. Vui lòng gọi lại cho tôi trước bốn giờ chiều nay để tôi giữ máy đó cho cô.\n\nCâu hỏi: Tại sao người nói lại gọi điện?\n(A) Để xác nhận địa chỉ giao vật tư giấy\n(B) Để thông báo sự chậm trễ linh kiện và đề xuất phương án thay thế\n(C) Để đặt lịch kiểm tra ban đầu cho kỹ thuật viên\n(D) Để thương lượng giảm phí trên hóa đơn dịch vụ",
+    "explanation": "Phương án (B) đúng vì người gọi thông báo linh kiện thay thế đang hết hàng khiến lịch sửa chữa bị lùi sang thứ Sáu, đồng thời đề xuất cho mượn máy dùng tạm (alternative). (A) sai vì không nói về giao vật tư giấy; (C) sai vì kỹ thuật viên đã kiểm tra ngày hôm qua rồi; (D) sai vì máy dùng tạm được cung cấp miễn phí chứ không thương lượng hóa đơn.",
+    "vocab": [
+      ["regarding", "prep", "liên quan đến"],
+      ["component", "n", "linh kiện, bộ phận"],
+      ["backordered", "adj", "tạm hết hàng chờ nhập về"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Morales. This is Owen Cho calling from Silverline Printing Systems regarding the wide-format plotter at Beacon Architectural Studio. Our technician inspected the unit yesterday and confirmed that the paper-feed roller assembly needs to be replaced. Unfortunately, that specific component is currently backordered at our regional warehouse, so we will not be able to finish the repair by Wednesday as scheduled. The shipment should arrive Thursday afternoon, meaning we can complete the service on Friday morning instead. In the meantime, if you have urgent client blueprints due before the weekend, we can deliver a temporary loaner machine at no extra charge. Please call me back before four o'clock today so I can reserve that unit for you.",
+    "questionText": "What problem does the speaker mention?",
+    "options": [
+      "A required replacement part is temporarily out of stock.",
+      "The studio's blueprints were printed in the wrong size.",
+      "No repair technician is available until Friday morning.",
+      "A service warranty agreement has recently expired."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nXin chào cô Morales. Tôi là Owen Cho gọi từ công ty Silverline Printing Systems liên quan đến máy vẽ khổ lớn tại văn phòng kiến trúc Beacon. Kỹ thuật viên của chúng tôi đã kiểm tra máy hôm qua và xác nhận bộ trục cuốn giấy cần được thay thế. Đáng tiếc là linh kiện này hiện đang tạm hết hàng tại kho khu vực, nên chúng tôi không thể hoàn thành việc sửa chữa vào thứ Tư như lịch hẹn. Lô hàng dự kiến sẽ về vào chiều thứ Năm, nghĩa là chúng tôi có thể xử lý xong vào sáng thứ Sáu. Trong lúc chờ đợi, nếu cô có bản vẽ khách hàng gấp trước cuối tuần, chúng tôi có thể giao một máy dùng tạm hoàn toàn miễn phí. Vui lòng gọi lại cho tôi trước bốn giờ chiều nay để tôi giữ máy đó cho cô.\n\nCâu hỏi: Người nói đề cập đến vấn đề gì?\n(A) Một linh kiện thay thế cần thiết hiện tạm thời hết hàng.\n(B) Các bản vẽ của văn phòng bị in sai kích thước.\n(C) Không có kỹ thuật viên sửa chữa nào rảnh cho đến sáng thứ Sáu.\n(D) Thỏa thuận bảo hành dịch vụ vừa mới hết hạn.",
+    "explanation": "Phương án (A) đúng vì 'currently backordered at our regional warehouse' (hiện đang hết hàng chờ nhập tại kho khu vực) được diễn đạt lại thành 'temporarily out of stock'. (B) là bẫy từ khóa 'blueprints' và 'wide-format'; (C) sai vì sửa chữa hoãn do thiếu linh kiện chứ không phải thiếu kỹ thuật viên; (D) không được đề cập.",
+    "vocab": [
+      ["assembly", "n", "cụm bộ phận lắp ráp"],
+      ["regional", "adj", "thuộc khu vực"],
+      ["blueprint", "n", "bản vẽ thiết kế kỹ thuật"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Morales. This is Owen Cho calling from Silverline Printing Systems regarding the wide-format plotter at Beacon Architectural Studio. Our technician inspected the unit yesterday and confirmed that the paper-feed roller assembly needs to be replaced. Unfortunately, that specific component is currently backordered at our regional warehouse, so we will not be able to finish the repair by Wednesday as scheduled. The shipment should arrive Thursday afternoon, meaning we can complete the service on Friday morning instead. In the meantime, if you have urgent client blueprints due before the weekend, we can deliver a temporary loaner machine at no extra charge. Please call me back before four o'clock today so I can reserve that unit for you.",
+    "questionText": "What does the speaker ask Ms. Morales to do before four o'clock?",
+    "options": [
+      "Submit an online request for emergency maintenance",
+      "Email her office's printing schedule for next week",
+      "Pick up a spare roller from the regional warehouse",
+      "Confirm whether she needs a temporary machine"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nXin chào cô Morales. Tôi là Owen Cho gọi từ công ty Silverline Printing Systems liên quan đến máy vẽ khổ lớn tại văn phòng kiến trúc Beacon. Kỹ thuật viên của chúng tôi đã kiểm tra máy hôm qua và xác nhận bộ trục cuốn giấy cần được thay thế. Đáng tiếc là linh kiện này hiện đang tạm hết hàng tại kho khu vực, nên chúng tôi không thể hoàn thành việc sửa chữa vào thứ Tư như lịch hẹn. Lô hàng dự kiến sẽ về vào chiều thứ Năm, nghĩa là chúng tôi có thể xử lý xong vào sáng thứ Sáu. Trong lúc chờ đợi, nếu cô có bản vẽ khách hàng gấp trước cuối tuần, chúng tôi có thể giao một máy dùng tạm hoàn toàn miễn phí. Vui lòng gọi lại cho tôi trước bốn giờ chiều nay để tôi giữ máy đó cho cô.\n\nCâu hỏi: Người nói yêu cầu cô Morales làm gì trước bốn giờ chiều?\n(A) Gửi yêu cầu trực tuyến để bảo trì khẩn cấp\n(B) Gửi email lịch trình in ấn tuần tới của văn phòng cô\n(C) Đến kho khu vực nhận một trục cuốn dự phòng\n(D) Xác nhận xem cô có cần một máy dùng tạm hay không",
+    "explanation": "Phương án (D) đúng vì câu cuối người nói dặn cô Morales gọi lại trước 4 giờ chiều nay để anh đặt giữ chiếc máy dùng tạm ('reserve that unit'). (A) và (B) sai hình thức liên lạc; (C) sai vì công ty sẽ giao máy tận nơi chứ khách không tự ra kho lấy linh kiện.",
+    "vocab": [
+      ["urgent", "adj", "khẩn cấp, gấp"],
+      ["loaner", "n", "thiết bị cho mượn dùng tạm"],
+      ["reserve", "v", "đặt giữ trước"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Attention all Clearwater Medical staff. Starting next Monday, our facility is transitioning to a contactless keycard system to tighten access to the assembly wing and packaging rooms. Because older barcode badges will no longer unlock those doors after Sunday, every employee must pick up an upgraded badge at the ground-floor security desk no later than Thursday at five. Please bring your current identification card so the guards can verify your clearance level. Also, contractors will be installing card readers along the East Corridor this Saturday and Sunday. That hallway will be closed during the installation, so weekend shift workers must enter through the West Receiving Dock instead. Please allow an extra five minutes on Saturday night.",
+    "questionText": "What is the main topic of the announcement?",
+    "options": [
+      "A schedule change for packaging deliveries",
+      "Updates to the building's security access procedures",
+      "Mandatory safety training for outside contractors",
+      "Renovations to the ground-floor reception lobby"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin toàn thể nhân viên Clearwater Medical chú ý. Bắt đầu từ thứ Hai tới, cơ sở của chúng ta sẽ chuyển sang hệ thống thẻ từ không chạm để siết chặt quyền ra vào khu lắp ráp và các phòng đóng gói. Vì thẻ mã vạch cũ sẽ không còn mở được các cửa đó sau Chủ nhật, mọi nhân viên phải đến nhận thẻ nâng cấp tại bàn an ninh tầng trệt chậm nhất là năm giờ chiều thứ Năm. Vui lòng mang theo thẻ nhận diện hiện tại để bảo vệ xác minh cấp độ quyền hạn của bạn. Ngoài ra, các nhà thầu sẽ lắp đặt đầu đọc thẻ dọc Hành lang phía Đông vào thứ Bảy và Chủ nhật tuần này. Lối đi đó sẽ bị đóng trong quá trình lắp đặt, nên nhân viên ca cuối tuần phải đi qua Cổng Tiếp nhận phía Tây. Vui lòng dự trù thêm năm phút vào tối thứ Bảy.\n\nCâu hỏi: Chủ đề chính của thông báo là gì?\n(A) Sự thay đổi lịch trình cho các chuyến giao hàng đóng gói\n(B) Những cập nhật về quy trình kiểm soát ra vào an ninh của tòa nhà\n(C) Khóa huấn luyện an toàn bắt buộc dành cho nhà thầu bên ngoài\n(D) Việc cải tạo sảnh lễ tân ở tầng trệt",
+    "explanation": "Phương án (B) đúng vì toàn bộ thông báo xoay quanh việc chuyển đổi sang thẻ từ không chạm, quy định đổi thẻ mới và hướng dẫn lối vào thay thế cuối tuần để nâng cấp an ninh tòa nhà. (A) bẫy từ 'packaging'; (C) bẫy từ 'contractors'; (D) ghép sai thông tin về bàn an ninh tầng trệt.",
+    "vocab": [
+      ["transition", "v", "chuyển đổi"],
+      ["clearance", "n", "quyền hạn tiếp cận (an ninh)"],
+      ["verify", "v", "xác minh, kiểm chứng"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Attention all Clearwater Medical staff. Starting next Monday, our facility is transitioning to a contactless keycard system to tighten access to the assembly wing and packaging rooms. Because older barcode badges will no longer unlock those doors after Sunday, every employee must pick up an upgraded badge at the ground-floor security desk no later than Thursday at five. Please bring your current identification card so the guards can verify your clearance level. Also, contractors will be installing card readers along the East Corridor this Saturday and Sunday. That hallway will be closed during the installation, so weekend shift workers must enter through the West Receiving Dock instead. Please allow an extra five minutes on Saturday night.",
+    "questionText": "What are employees instructed to do by Thursday?",
+    "options": [
+      "Obtain new identification badges from security",
+      "Attend a shift briefing at the West Receiving Dock",
+      "Return their work uniforms to the assembly wing",
+      "Update their emergency contact information online"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nXin toàn thể nhân viên Clearwater Medical chú ý. Bắt đầu từ thứ Hai tới, cơ sở của chúng ta sẽ chuyển sang hệ thống thẻ từ không chạm để siết chặt quyền ra vào khu lắp ráp và các phòng đóng gói. Vì thẻ mã vạch cũ sẽ không còn mở được các cửa đó sau Chủ nhật, mọi nhân viên phải đến nhận thẻ nâng cấp tại bàn an ninh tầng trệt chậm nhất là năm giờ chiều thứ Năm. Vui lòng mang theo thẻ nhận diện hiện tại để bảo vệ xác minh cấp độ quyền hạn của bạn. Ngoài ra, các nhà thầu sẽ lắp đặt đầu đọc thẻ dọc Hành lang phía Đông vào thứ Bảy và Chủ nhật tuần này. Lối đi đó sẽ bị đóng trong quá trình lắp đặt, nên nhân viên ca cuối tuần phải đi qua Cổng Tiếp nhận phía Tây. Vui lòng dự trù thêm năm phút vào tối thứ Bảy.\n\nCâu hỏi: Nhân viên được hướng dẫn làm gì trước hạn thứ Năm?\n(A) Nhận thẻ nhận diện mới tại quầy an ninh\n(B) Tham dự buổi họp giao ban tại Cổng Tiếp nhận phía Tây\n(C) Trả lại đồng phục làm việc tại khu lắp ráp\n(D) Cập nhật thông tin liên hệ khẩn cấp trực tuyến",
+    "explanation": "Phương án (A) đúng vì 'pick up an upgraded badge at the ground-floor security desk no later than Thursday at five' được diễn đạt lại thành 'obtain new identification badges from security'. (B) nhầm với lối đi tạm vào cuối tuần; (C) và (D) không có trong bài.",
+    "vocab": [
+      ["upgraded", "adj", "được nâng cấp"],
+      ["identification", "n", "sự nhận diện, giấy tờ tùy thân"],
+      ["corridor", "n", "hành lang"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Attention all Clearwater Medical staff. Starting next Monday, our facility is transitioning to a contactless keycard system to tighten access to the assembly wing and packaging rooms. Because older barcode badges will no longer unlock those doors after Sunday, every employee must pick up an upgraded badge at the ground-floor security desk no later than Thursday at five. Please bring your current identification card so the guards can verify your clearance level. Also, contractors will be installing card readers along the East Corridor this Saturday and Sunday. That hallway will be closed during the installation, so weekend shift workers must enter through the West Receiving Dock instead. Please allow an extra five minutes on Saturday night.",
+    "questionText": "What does the speaker mean when saying, \"Please allow an extra five minutes on Saturday night\"?",
+    "options": [
+      "The evening shift will start five minutes later than normal.",
+      "Staff will need more time to reach their workspace using the alternate entrance.",
+      "Security guards will lock the main gate earlier than scheduled.",
+      "Installing the card readers may take longer than anticipated."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin toàn thể nhân viên Clearwater Medical chú ý. Bắt đầu từ thứ Hai tới, cơ sở của chúng ta sẽ chuyển sang hệ thống thẻ từ không chạm để siết chặt quyền ra vào khu lắp ráp và các phòng đóng gói. Vì thẻ mã vạch cũ sẽ không còn mở được các cửa đó sau Chủ nhật, mọi nhân viên phải đến nhận thẻ nâng cấp tại bàn an ninh tầng trệt chậm nhất là năm giờ chiều thứ Năm. Vui lòng mang theo thẻ nhận diện hiện tại để bảo vệ xác minh cấp độ quyền hạn của bạn. Ngoài ra, các nhà thầu sẽ lắp đặt đầu đọc thẻ dọc Hành lang phía Đông vào thứ Bảy và Chủ nhật tuần này. Lối đi đó sẽ bị đóng trong quá trình lắp đặt, nên nhân viên ca cuối tuần phải đi qua Cổng Tiếp nhận phía Tây. Vui lòng dự trù thêm năm phút vào tối thứ Bảy.\n\nCâu hỏi: Người nói có ý gì khi nói, \"Vui lòng dự trù thêm năm phút vào tối thứ Bảy\"?\n(A) Ca tối sẽ bắt đầu muộn hơn năm phút so với bình thường.\n(B) Nhân viên sẽ cần thêm thời gian để đến nơi làm việc khi đi qua lối vào thay thế.\n(C) Nhân viên an ninh sẽ khóa cổng chính sớm hơn dự kiến.\n(D) Việc lắp đặt đầu đọc thẻ có thể mất nhiều thời gian hơn dự tính.",
+    "explanation": "Phương án (B) đúng vì ngay trước đó thông báo nêu Hành lang phía Đông bị đóng nên nhân viên ca cuối tuần phải đi đường vòng qua Cổng Tiếp nhận phía Tây; do đó cần đi sớm hơn để trừ hao 5 phút di chuyển. (A) sai vì giờ vào ca không đổi; (C) và (D) suy diễn sai ngữ cảnh.",
+    "vocab": [
+      ["contractor", "n", "nhà thầu"],
+      ["installation", "n", "quá trình lắp đặt"],
+      ["allow", "v", "dành thêm, dự trù (thời gian/chi phí)"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and welcome to Alderwood Engineering Partners' annual awards banquet. Before we conclude tonight's program, I have the honor of presenting our Mentorship and Process Innovation Award. This year's recipient is Tomasz Kowalski, lead engineer in our embedded software testing group. Over the past twelve months, Tomasz noticed that newly hired developers were struggling with our complex testing protocols. On his own initiative, he designed an interactive training guide that cut onboarding time for new staff from six weeks down to three. Beyond his technical contributions, Tomasz also coordinates our weekend coding workshops for local high school students. Please join me in welcoming Tomasz to the stage to accept his plaque.",
+    "questionText": "What is the purpose of the speech?",
+    "options": [
+      "To welcome a new manager to the software group",
+      "To announce revisions to the company's testing policies",
+      "To honor a colleague's achievements prior to giving an award",
+      "To recruit instructors for a local high school program"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi tối tất cả mọi người, và chào mừng đến với tiệc trao giải thường niên của Alderwood Engineering Partners. Trước khi khép lại chương trình tối nay, tôi vinh dự được trao Giải thưởng Cố vấn và Đổi mới Quy trình. Người nhận giải năm nay là anh Tomasz Kowalski, kỹ sư trưởng nhóm kiểm thử phần mềm nhúng. Trong mười hai tháng qua, Tomasz nhận thấy các lập trình viên mới tuyển thường gặp khó khăn với những quy trình kiểm thử phức tạp của công ty. Với tinh thần chủ động, anh đã thiết kế một tài liệu hướng dẫn tương tác giúp rút ngắn thời gian hội nhập cho nhân viên mới từ sáu tuần xuống còn ba tuần. Ngoài những đóng góp chuyên môn, Tomasz còn điều phối các buổi học lập trình cuối tuần cho học sinh trung học địa phương. Xin mời mọi người cùng chào đón Tomasz bước lên sân khấu nhận kỷ niệm chương.\n\nCâu hỏi: Mục đích của bài phát biểu là gì?\n(A) Để chào đón một quản lý mới gia nhập nhóm phần mềm\n(B) Để thông báo những điều chỉnh trong chính sách kiểm thử của công ty\n(C) Để vinh danh thành tích của một đồng nghiệp trước khi trao giải thưởng\n(D) Để tuyển giảng viên cho một chương trình ở trường trung học địa phương",
+    "explanation": "Phương án (C) đúng vì diễn giả đang nêu các thành tựu nổi bật của Tomasz Kowalski tại lễ trao giải trước khi mời anh lên sân khấu nhận kỷ niệm chương. (A) sai vì anh là nhân viên lâu năm hỗ trợ nhân sự mới; (B) và (D) bẫy lặp từ 'testing' và 'high school'.",
+    "vocab": [
+      ["banquet", "n", "tiệc chiêu đãi trang trọng"],
+      ["recipient", "n", "người nhận (giải thưởng)"],
+      ["protocol", "n", "quy trình, giao thức"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and welcome to Alderwood Engineering Partners' annual awards banquet. Before we conclude tonight's program, I have the honor of presenting our Mentorship and Process Innovation Award. This year's recipient is Tomasz Kowalski, lead engineer in our embedded software testing group. Over the past twelve months, Tomasz noticed that newly hired developers were struggling with our complex testing protocols. On his own initiative, he designed an interactive training guide that cut onboarding time for new staff from six weeks down to three. Beyond his technical contributions, Tomasz also coordinates our weekend coding workshops for local high school students. Please join me in welcoming Tomasz to the stage to accept his plaque.",
+    "questionText": "How did Mr. Kowalski assist newly hired developers?",
+    "options": [
+      "By simplifying the software products sold to clients",
+      "By pairing new employees with local student interns",
+      "By creating resources that shortened their training period",
+      "By extending their evaluation period to six weeks"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi tối tất cả mọi người, và chào mừng đến với tiệc trao giải thường niên của Alderwood Engineering Partners. Trước khi khép lại chương trình tối nay, tôi vinh dự được trao Giải thưởng Cố vấn và Đổi mới Quy trình. Người nhận giải năm nay là anh Tomasz Kowalski, kỹ sư trưởng nhóm kiểm thử phần mềm nhúng. Trong mười hai tháng qua, Tomasz nhận thấy các lập trình viên mới tuyển thường gặp khó khăn với những quy trình kiểm thử phức tạp của công ty. Với tinh thần chủ động, anh đã thiết kế một tài liệu hướng dẫn tương tác giúp rút ngắn thời gian hội nhập cho nhân viên mới từ sáu tuần xuống còn ba tuần. Ngoài những đóng góp chuyên môn, Tomasz còn điều phối các buổi học lập trình cuối tuần cho học sinh trung học địa phương. Xin mời mọi người cùng chào đón Tomasz bước lên sân khấu nhận kỷ niệm chương.\n\nCâu hỏi: Anh Kowalski đã hỗ trợ các lập trình viên mới tuyển bằng cách nào?\n(A) Bằng cách đơn giản hóa các sản phẩm phần mềm bán cho khách hàng\n(B) Bằng cách ghép cặp nhân viên mới với thực tập sinh địa phương\n(C) Bằng cách tạo tài liệu giúp rút ngắn thời gian đào tạo của họ\n(D) Bằng cách kéo dài thời gian đánh giá của họ lên sáu tuần",
+    "explanation": "Phương án (C) đúng vì 'designed an interactive training guide that cut onboarding time for new staff from six weeks down to three' được diễn đạt lại thành 'creating resources that shortened their training period'. (D) là bẫy số: 6 tuần là mức thời gian cũ trước khi được rút ngắn xuống còn 3 tuần.",
+    "vocab": [
+      ["initiative", "n", "sáng kiến, sự chủ động"],
+      ["onboarding", "n", "quá trình hội nhập nhân viên mới"],
+      ["contribution", "n", "sự đóng góp"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and welcome to Alderwood Engineering Partners' annual awards banquet. Before we conclude tonight's program, I have the honor of presenting our Mentorship and Process Innovation Award. This year's recipient is Tomasz Kowalski, lead engineer in our embedded software testing group. Over the past twelve months, Tomasz noticed that newly hired developers were struggling with our complex testing protocols. On his own initiative, he designed an interactive training guide that cut onboarding time for new staff from six weeks down to three. Beyond his technical contributions, Tomasz also coordinates our weekend coding workshops for local high school students. Please join me in welcoming Tomasz to the stage to accept his plaque.",
+    "questionText": "What will most likely happen next?",
+    "options": [
+      "Dinner will be served to the banquet attendees.",
+      "A software demonstration will begin in the main hall.",
+      "The audience will vote on next year's nominees.",
+      "Mr. Kowalski will walk onstage to receive an award."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nChào buổi tối tất cả mọi người, và chào mừng đến với tiệc trao giải thường niên của Alderwood Engineering Partners. Trước khi khép lại chương trình tối nay, tôi vinh dự được trao Giải thưởng Cố vấn và Đổi mới Quy trình. Người nhận giải năm nay là anh Tomasz Kowalski, kỹ sư trưởng nhóm kiểm thử phần mềm nhúng. Trong mười hai tháng qua, Tomasz nhận thấy các lập trình viên mới tuyển thường gặp khó khăn với những quy trình kiểm thử phức tạp của công ty. Với tinh thần chủ động, anh đã thiết kế một tài liệu hướng dẫn tương tác giúp rút ngắn thời gian hội nhập cho nhân viên mới từ sáu tuần xuống còn ba tuần. Ngoài những đóng góp chuyên môn, Tomasz còn điều phối các buổi học lập trình cuối tuần cho học sinh trung học địa phương. Xin mời mọi người cùng chào đón Tomasz bước lên sân khấu nhận kỷ niệm chương.\n\nCâu hỏi: Điều gì có khả năng xảy ra tiếp theo nhất?\n(A) Bữa tối sẽ được dọn ra cho khách tham dự tiệc.\n(B) Một buổi trình diễn phần mềm sẽ bắt đầu ở sảnh chính.\n(C) Khán giả sẽ bỏ phiếu cho các ứng viên năm sau.\n(D) Anh Kowalski sẽ bước lên sân khấu để nhận giải thưởng.",
+    "explanation": "Phương án (D) đúng vì câu kết mời mọi người chào đón anh Tomasz lên sân khấu nhận kỷ niệm chương ('welcoming Tomasz to the stage to accept his plaque'). (A) sai vì bài phát biểu diễn ra ngay trước khi kết thúc chương trình tối ('Before we conclude tonight's program').",
+    "vocab": [
+      ["coordinate", "v", "điều phối, tổ chức"],
+      ["conclude", "v", "khép lại, kết thúc"],
+      ["plaque", "n", "kỷ niệm chương, bảng vinh danh"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following traffic and weather report:",
+    "audioScript": "You are listening to Metro Pulse Radio with your seven forty-five morning traffic and weather update. Commuters heading downtown across the Crescent Bay Bridge are encountering heavy congestion right now. Dense coastal fog has sharply reduced visibility, and a broken-down delivery truck is blocking the far-right inbound lane near the bridge's midpoint. Expect delays of roughly twenty-five minutes in that corridor. To avoid getting stuck, drivers should consider taking the Riverside Tunnel or boarding the Harbor Express Ferry, which has added extra departures every fifteen minutes during the morning rush. Meteorologists expect stronger ocean breezes to clear the fog by around ten o'clock, leaving us with bright, clear skies throughout the afternoon.",
+    "questionText": "What is causing delays on the Crescent Bay Bridge?",
+    "options": [
+      "Scheduled road construction in the far-right lane",
+      "A sharp increase in morning ferry traffic",
+      "Flooding near the Riverside Tunnel entrance",
+      "Poor visibility and a disabled vehicle"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nQuý vị đang nghe đài Metro Pulse với bản tin giao thông và thời tiết buổi sáng lúc bảy giờ bốn mươi lăm. Người đi làm hướng vào trung tâm qua cầu Crescent Bay đang gặp tình trạng ùn tắc nghiêm trọng ngay lúc này. Sương mù ven biển dày đặc đã làm giảm mạnh tầm nhìn, và một xe tải giao hàng bị hỏng đang chắn làn ngoài cùng bên phải hướng vào thành phố gần đoạn giữa cầu. Hãy dự kiến bị chậm khoảng hai mươi lăm phút trên tuyến đường này. Để tránh bị kẹt xe, tài xế nên cân nhắc đi qua đường hầm Riverside hoặc lên phà tốc hành Harbor Express, vốn đã tăng cường thêm chuyến cách nhau mười lăm phút trong giờ cao điểm sáng. Các nhà khí tượng học dự báo gió biển mạnh hơn sẽ thổi tan sương mù vào khoảng mười giờ, mang lại bầu trời quang đãng, nắng ráo suốt buổi chiều.\n\nCâu hỏi: Nguyên nhân nào gây ra sự chậm trễ trên cầu Crescent Bay?\n(A) Thi công sửa đường theo lịch ở làn ngoài cùng bên phải\n(B) Lượng phương tiện đi phà buổi sáng tăng đột biến\n(C) Ngập lụt gần lối vào đường hầm Riverside\n(D) Tầm nhìn kém và một phương tiện bị hỏng",
+    "explanation": "Phương án (D) đúng vì bản tin nêu rõ hai nguyên nhân: sương mù dày đặc làm giảm mạnh tầm nhìn ('sharply reduced visibility') và một xe tải bị hỏng chắn làn đường ('a broken-down delivery truck' -> 'disabled vehicle'). (A) không hề nhắc thi công; (B) và (C) ghép sai chi tiết về phà và đường hầm.",
+    "vocab": [
+      ["commuter", "n", "người đi làm hằng ngày"],
+      ["congestion", "n", "sự ùn tắc giao thông"],
+      ["visibility", "n", "tầm nhìn"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following traffic and weather report:",
+    "audioScript": "You are listening to Metro Pulse Radio with your seven forty-five morning traffic and weather update. Commuters heading downtown across the Crescent Bay Bridge are encountering heavy congestion right now. Dense coastal fog has sharply reduced visibility, and a broken-down delivery truck is blocking the far-right inbound lane near the bridge's midpoint. Expect delays of roughly twenty-five minutes in that corridor. To avoid getting stuck, drivers should consider taking the Riverside Tunnel or boarding the Harbor Express Ferry, which has added extra departures every fifteen minutes during the morning rush. Meteorologists expect stronger ocean breezes to clear the fog by around ten o'clock, leaving us with bright, clear skies throughout the afternoon.",
+    "questionText": "What does the speaker advise commuters to do?",
+    "options": [
+      "Postpone downtown trips until late afternoon",
+      "Check ferry departure times online before leaving",
+      "Use an alternative route or transit option",
+      "Wait at the bridge midpoint for traffic officers"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nQuý vị đang nghe đài Metro Pulse với bản tin giao thông và thời tiết buổi sáng lúc bảy giờ bốn mươi lăm. Người đi làm hướng vào trung tâm qua cầu Crescent Bay đang gặp tình trạng ùn tắc nghiêm trọng ngay lúc này. Sương mù ven biển dày đặc đã làm giảm mạnh tầm nhìn, và một xe tải giao hàng bị hỏng đang chắn làn ngoài cùng bên phải hướng vào thành phố gần đoạn giữa cầu. Hãy dự kiến bị chậm khoảng hai mươi lăm phút trên tuyến đường này. Để tránh bị kẹt xe, tài xế nên cân nhắc đi qua đường hầm Riverside hoặc lên phà tốc hành Harbor Express, vốn đã tăng cường thêm chuyến cách nhau mười lăm phút trong giờ cao điểm sáng. Các nhà khí tượng học dự báo gió biển mạnh hơn sẽ thổi tan sương mù vào khoảng mười giờ, mang lại bầu trời quang đãng, nắng ráo suốt buổi chiều.\n\nCâu hỏi: Người nói khuyên người đi làm nên làm gì?\n(A) Hoãn các chuyến đi vào trung tâm cho đến cuối buổi chiều\n(B) Kiểm tra giờ phà chạy trực tuyến trước khi rời nhà\n(C) Sử dụng một lộ trình hoặc phương tiện thay thế\n(D) Đợi ở đoạn giữa cầu để chờ cảnh sát điều tiết",
+    "explanation": "Phương án (C) đúng vì phát thanh viên gợi ý tài xế đi đường hầm Riverside (alternative route) hoặc đi phà Harbor Express (transit option) để tránh kẹt xe. (A) sai vì không khuyên hoãn việc đến chiều; (B) không nhắc tra cứu trực tuyến.",
+    "vocab": [
+      ["inbound", "adj", "hướng đi vào nội đô"],
+      ["roughly", "adv", "xấp xỉ, khoảng"],
+      ["alternative", "adj", "thay thế, khác"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following traffic and weather report:",
+    "audioScript": "You are listening to Metro Pulse Radio with your seven forty-five morning traffic and weather update. Commuters heading downtown across the Crescent Bay Bridge are encountering heavy congestion right now. Dense coastal fog has sharply reduced visibility, and a broken-down delivery truck is blocking the far-right inbound lane near the bridge's midpoint. Expect delays of roughly twenty-five minutes in that corridor. To avoid getting stuck, drivers should consider taking the Riverside Tunnel or boarding the Harbor Express Ferry, which has added extra departures every fifteen minutes during the morning rush. Meteorologists expect stronger ocean breezes to clear the fog by around ten o'clock, leaving us with bright, clear skies throughout the afternoon.",
+    "questionText": "When are weather conditions expected to improve?",
+    "options": [
+      "By mid-morning",
+      "Shortly after noon",
+      "During the evening rush",
+      "Early tomorrow morning"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nQuý vị đang nghe đài Metro Pulse với bản tin giao thông và thời tiết buổi sáng lúc bảy giờ bốn mươi lăm. Người đi làm hướng vào trung tâm qua cầu Crescent Bay đang gặp tình trạng ùn tắc nghiêm trọng ngay lúc này. Sương mù ven biển dày đặc đã làm giảm mạnh tầm nhìn, và một xe tải giao hàng bị hỏng đang chắn làn ngoài cùng bên phải hướng vào thành phố gần đoạn giữa cầu. Hãy dự kiến bị chậm khoảng hai mươi lăm phút trên tuyến đường này. Để tránh bị kẹt xe, tài xế nên cân nhắc đi qua đường hầm Riverside hoặc lên phà tốc hành Harbor Express, vốn đã tăng cường thêm chuyến cách nhau mười lăm phút trong giờ cao điểm sáng. Các nhà khí tượng học dự báo gió biển mạnh hơn sẽ thổi tan sương mù vào khoảng mười giờ, mang lại bầu trời quang đãng, nắng ráo suốt buổi chiều.\n\nCâu hỏi: Khi nào điều kiện thời tiết được dự báo sẽ cải thiện?\n(A) Vào khoảng giữa buổi sáng\n(B) Ngay sau buổi trưa\n(C) Trong giờ cao điểm buổi tối\n(D) Sáng sớm ngày mai",
+    "explanation": "Phương án (A) đúng vì các nhà khí tượng dự báo gió biển sẽ làm tan sương mù vào khoảng 10 giờ sáng ('by around ten o'clock'), tương đương với giữa buổi sáng (mid-morning). (B) bẫy chi tiết buổi chiều trời nắng ráo, nhưng sương mù đã tan từ 10 giờ sáng.",
+    "vocab": [
+      ["meteorologist", "n", "nhà khí tượng học"],
+      ["breeze", "n", "làn gió nhẹ"],
+      ["clear skies", "phr", "bầu trời quang đãng"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide instructions:",
+    "audioScript": "Welcome, everyone, to the National Maritime and Cartography Museum. I'm pleased to guide your group through our newly opened exhibition, Charting the Pacific. On this ground floor, you'll see seventeenth-century brass compasses and navigation instruments, while the mezzanine upstairs features an interactive digital mapping theater. Before we begin, please note a preservation rule: the hand-drawn leather maps in the center gallery are extremely sensitive to bright light, so you may take photos without a flash in the main hall, but photography is strictly prohibited inside the manuscript archive room. You'll have forty-five minutes to explore at your own pace. Afterward, please gather in the courtyard garden for a live wooden ship-modeling demonstration.",
+    "questionText": "Where is the talk taking place?",
+    "options": [
+      "Inside a university astronomy department",
+      "At a maritime history museum",
+      "Aboard a restored seventeenth-century vessel",
+      "In a commercial map-printing workshop"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào mừng mọi người đến với Bảo tàng Hàng hải và Bản đồ học Quốc gia. Tôi rất hân hạnh được hướng dẫn đoàn tham quan triển lãm vừa khai mạc mang tên Phác họa Thái Bình Dương. Ở tầng trệt này, quý vị sẽ thấy những chiếc la bàn đồng và thiết bị hàng hải thế kỷ mười bảy, còn tầng lửng phía trên có phòng chiếu bản đồ kỹ thuật số tương tác. Trước khi bắt đầu, xin lưu ý một quy định bảo tồn: các tấm bản đồ da vẽ tay ở phòng trưng bày trung tâm cực kỳ nhạy cảm với ánh sáng mạnh, vì vậy quý vị có thể chụp ảnh không bật đèn flash tại sảnh chính, nhưng việc chụp ảnh bị nghiêm cấm bên trong phòng lưu trữ bản thảo. Quý vị sẽ có bốn mươi lăm phút tự do khám phá theo nhịp độ riêng. Sau đó, vui lòng tập trung tại khu vườn sân trong để xem buổi trình diễn đóng mô hình tàu gỗ trực tiếp.\n\nCâu hỏi: Bài nói đang diễn ra ở đâu?\n(A) Bên trong khoa thiên văn học của một trường đại học\n(B) Tại một bảo tàng lịch sử hàng hải\n(C) Trên một con tàu thế kỷ mười bảy được phục dựng\n(D) Trong một xưởng in bản đồ thương mại",
+    "explanation": "Phương án (B) đúng vì hướng dẫn viên mở đầu bằng lời chào mừng đoàn khách đến Bảo tàng Hàng hải và Bản đồ học Quốc gia ('National Maritime and Cartography Museum'). (C) và (D) là bẫy liên tưởng từ các cụm từ 'seventeenth-century' và 'maps'.",
+    "vocab": [
+      ["cartography", "n", "ngành bản đồ học"],
+      ["exhibition", "n", "cuộc triển lãm"],
+      ["mezzanine", "n", "tầng lửng"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide instructions:",
+    "audioScript": "Welcome, everyone, to the National Maritime and Cartography Museum. I'm pleased to guide your group through our newly opened exhibition, Charting the Pacific. On this ground floor, you'll see seventeenth-century brass compasses and navigation instruments, while the mezzanine upstairs features an interactive digital mapping theater. Before we begin, please note a preservation rule: the hand-drawn leather maps in the center gallery are extremely sensitive to bright light, so you may take photos without a flash in the main hall, but photography is strictly prohibited inside the manuscript archive room. You'll have forty-five minutes to explore at your own pace. Afterward, please gather in the courtyard garden for a live wooden ship-modeling demonstration.",
+    "questionText": "Why is flash photography not allowed in the main gallery?",
+    "options": [
+      "It interferes with the digital theater's projections.",
+      "Museum rules restrict photography solely to staff.",
+      "The gallery is booked for a private film shoot.",
+      "It could damage delicate historical artifacts."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nChào mừng mọi người đến với Bảo tàng Hàng hải và Bản đồ học Quốc gia. Tôi rất hân hạnh được hướng dẫn đoàn tham quan triển lãm vừa khai mạc mang tên Phác họa Thái Bình Dương. Ở tầng trệt này, quý vị sẽ thấy những chiếc la bàn đồng và thiết bị hàng hải thế kỷ mười bảy, còn tầng lửng phía trên có phòng chiếu bản đồ kỹ thuật số tương tác. Trước khi bắt đầu, xin lưu ý một quy định bảo tồn: các tấm bản đồ da vẽ tay ở phòng trưng bày trung tâm cực kỳ nhạy cảm với ánh sáng mạnh, vì vậy quý vị có thể chụp ảnh không bật đèn flash tại sảnh chính, nhưng việc chụp ảnh bị nghiêm cấm bên trong phòng lưu trữ bản thảo. Quý vị sẽ có bốn mươi lăm phút tự do khám phá theo nhịp độ riêng. Sau đó, vui lòng tập trung tại khu vườn sân trong để xem buổi trình diễn đóng mô hình tàu gỗ trực tiếp.\n\nCâu hỏi: Tại sao không được phép chụp ảnh dùng đèn flash ở phòng trưng bày chính?\n(A) Nó gây nhiễu cho máy chiếu của phòng chiếu kỹ thuật số.\n(B) Quy định bảo tàng chỉ cho phép nhân viên chụp ảnh.\n(C) Phòng trưng bày đã được đặt riêng cho một buổi quay phim.\n(D) Nó có thể làm hư hại những hiện vật lịch sử mỏng manh.",
+    "explanation": "Phương án (D) đúng vì đây là quy định bảo tồn ('preservation rule'): các bản đồ da cổ vẽ tay cực kỳ nhạy cảm với ánh sáng mạnh nên cấm dùng flash để tránh làm hỏng hiện vật quý giá. (A) bẫy chi tiết phòng chiếu tầng lửng; (B) sai vì khách vẫn được chụp ảnh không flash tại sảnh chính.",
+    "vocab": [
+      ["preservation", "n", "sự bảo tồn, giữ gìn"],
+      ["prohibit", "v", "nghiêm cấm"],
+      ["manuscript", "n", "bản thảo viết tay"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide instructions:",
+    "audioScript": "Welcome, everyone, to the National Maritime and Cartography Museum. I'm pleased to guide your group through our newly opened exhibition, Charting the Pacific. On this ground floor, you'll see seventeenth-century brass compasses and navigation instruments, while the mezzanine upstairs features an interactive digital mapping theater. Before we begin, please note a preservation rule: the hand-drawn leather maps in the center gallery are extremely sensitive to bright light, so you may take photos without a flash in the main hall, but photography is strictly prohibited inside the manuscript archive room. You'll have forty-five minutes to explore at your own pace. Afterward, please gather in the courtyard garden for a live wooden ship-modeling demonstration.",
+    "questionText": "What are visitors instructed to do after forty-five minutes?",
+    "options": [
+      "Return audio headsets to the ground-floor desk",
+      "Purchase exhibition booklets at the museum shop",
+      "Meet in the courtyard for a demonstration",
+      "Enter the manuscript archive room as a group"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào mừng mọi người đến với Bảo tàng Hàng hải và Bản đồ học Quốc gia. Tôi rất hân hạnh được hướng dẫn đoàn tham quan triển lãm vừa khai mạc mang tên Phác họa Thái Bình Dương. Ở tầng trệt này, quý vị sẽ thấy những chiếc la bàn đồng và thiết bị hàng hải thế kỷ mười bảy, còn tầng lửng phía trên có phòng chiếu bản đồ kỹ thuật số tương tác. Trước khi bắt đầu, xin lưu ý một quy định bảo tồn: các tấm bản đồ da vẽ tay ở phòng trưng bày trung tâm cực kỳ nhạy cảm với ánh sáng mạnh, vì vậy quý vị có thể chụp ảnh không bật đèn flash tại sảnh chính, nhưng việc chụp ảnh bị nghiêm cấm bên trong phòng lưu trữ bản thảo. Quý vị sẽ có bốn mươi lăm phút tự do khám phá theo nhịp độ riêng. Sau đó, vui lòng tập trung tại khu vườn sân trong để xem buổi trình diễn đóng mô hình tàu gỗ trực tiếp.\n\nCâu hỏi: Khách tham quan được hướng dẫn làm gì sau bốn mươi lăm phút?\n(A) Trả tai nghe thuyết minh tại quầy tầng trệt\n(B) Mua sách giới thiệu triển lãm tại cửa hàng bảo tàng\n(C) Tập trung ở sân trong để xem một buổi trình diễn\n(D) Bước vào phòng lưu trữ bản thảo theo nhóm",
+    "explanation": "Phương án (C) đúng vì người hướng dẫn dặn sau 45 phút tự do khám phá, mọi người hãy tập trung tại khu vườn sân trong ('gather in the courtyard garden') để xem trình diễn đóng mô hình tàu gỗ. (A) và (B) không được nhắc đến; (D) bẫy từ 'manuscript archive room'.",
+    "vocab": [
+      ["explore", "v", "khám phá, tham quan"],
+      ["gather", "v", "tập trung, tụ họp"],
+      ["demonstration", "n", "buổi trình diễn, minh họa"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Let's move on to the packaging update for our Meadowbrook Botanicals rebranding campaign. Legal counsel approved the revised nutrition labels on Tuesday, so the bottle artwork is finalized. However, our print vendor in Milwaukee just notified me that the metallic foil ink we selected for the label borders came back twelve percent above our allocated budget. We cannot afford to push back our October retail launch. Therefore, I propose switching the first production run to a standard matte finish, which keeps us on budget. Rachel, please contact the Milwaukee plant before Friday to negotiate a bulk discount on future printings. Everyone in marketing should hold off on releasing our online ads until the final printed sample bottles arrive next week.",
+    "questionText": "What issue does the speaker bring up regarding the new packaging?",
+    "options": [
+      "The revised nutrition labels still need legal review.",
+      "A printing material exceeds the projected budget.",
+      "The vendor in Milwaukee missed an important deadline.",
+      "Several sample bottles arrived damaged at the warehouse."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nHãy chuyển sang phần cập nhật bao bì cho chiến dịch tái định vị thương hiệu Meadowbrook Botanicals. Bộ phận pháp lý đã phê duyệt nhãn dinh dưỡng sửa đổi vào thứ Ba, nên thiết kế trên chai đã hoàn tất. Tuy nhiên, nhà cung cấp in ấn ở Milwaukee vừa báo cho tôi biết rằng loại mực nhũ ánh kim mà chúng ta chọn cho viền nhãn có mức giá cao hơn mười hai phần trăm so với ngân sách được phân bổ. Chúng ta không thể để lỡ lịch ra mắt bán lẻ vào tháng Mười. Vì vậy, tôi đề xuất chuyển lô sản xuất đầu tiên sang lớp phủ mờ tiêu chuẩn để đảm bảo đúng ngân sách. Rachel, vui lòng liên hệ với nhà máy Milwaukee trước thứ Sáu để đàm phán chiết khấu theo số lượng lớn cho các đợt in sau. Mọi người ở phòng tiếp thị hãy tạm hoãn tung quảng cáo trực tuyến cho đến khi các chai mẫu in hoàn chỉnh được giao tới vào tuần tới.\n\nCâu hỏi: Người nói nêu lên vấn đề gì liên quan đến bao bì mới?\n(A) Nhãn dinh dưỡng sửa đổi vẫn cần được bộ phận pháp lý xem xét.\n(B) Một loại vật liệu in ấn vượt quá ngân sách dự kiến.\n(C) Nhà cung cấp ở Milwaukee đã lỡ một hạn chót quan trọng.\n(D) Nhiều chai mẫu bị hư hỏng khi giao đến kho.",
+    "explanation": "Phương án (B) đúng vì mực nhũ ánh kim được chọn bị báo giá cao hơn 12% so với ngân sách đã phân bổ ('twelve percent above our allocated budget'). (A) sai vì bộ phận pháp lý đã duyệt hôm thứ Ba; (C) sai vì nhà cung cấp chỉ báo giá cao hơn chứ không trễ hạn.",
+    "vocab": [
+      ["rebranding", "n", "tái định vị thương hiệu"],
+      ["allocated", "adj", "được phân bổ"],
+      ["vendor", "n", "nhà cung cấp"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Let's move on to the packaging update for our Meadowbrook Botanicals rebranding campaign. Legal counsel approved the revised nutrition labels on Tuesday, so the bottle artwork is finalized. However, our print vendor in Milwaukee just notified me that the metallic foil ink we selected for the label borders came back twelve percent above our allocated budget. We cannot afford to push back our October retail launch. Therefore, I propose switching the first production run to a standard matte finish, which keeps us on budget. Rachel, please contact the Milwaukee plant before Friday to negotiate a bulk discount on future printings. Everyone in marketing should hold off on releasing our online ads until the final printed sample bottles arrive next week.",
+    "questionText": "What does the speaker imply when saying, \"We cannot afford to push back our October retail launch\"?",
+    "options": [
+      "The team must adopt a practical solution right away to stay on schedule.",
+      "The company's advertising budget should be increased before October.",
+      "Retail stores are demanding an extra twelve percent discount.",
+      "The Milwaukee vendor will cover the higher ink costs."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nHãy chuyển sang phần cập nhật bao bì cho chiến dịch tái định vị thương hiệu Meadowbrook Botanicals. Bộ phận pháp lý đã phê duyệt nhãn dinh dưỡng sửa đổi vào thứ Ba, nên thiết kế trên chai đã hoàn tất. Tuy nhiên, nhà cung cấp in ấn ở Milwaukee vừa báo cho tôi biết rằng loại mực nhũ ánh kim mà chúng ta chọn cho viền nhãn có mức giá cao hơn mười hai phần trăm so với ngân sách được phân bổ. Chúng ta không thể để lỡ lịch ra mắt bán lẻ vào tháng Mười. Vì vậy, tôi đề xuất chuyển lô sản xuất đầu tiên sang lớp phủ mờ tiêu chuẩn để đảm bảo đúng ngân sách. Rachel, vui lòng liên hệ với nhà máy Milwaukee trước thứ Sáu để đàm phán chiết khấu theo số lượng lớn cho các đợt in sau. Mọi người ở phòng tiếp thị hãy tạm hoãn tung quảng cáo trực tuyến cho đến khi các chai mẫu in hoàn chỉnh được giao tới vào tuần tới.\n\nCâu hỏi: Người nói ngụ ý điều gì khi nói, \"Chúng ta không thể để lỡ lịch ra mắt bán lẻ vào tháng Mười\"?\n(A) Nhóm phải áp dụng ngay một giải pháp thực tế để giữ đúng tiến độ.\n(B) Ngân sách quảng cáo của công ty nên được tăng thêm trước tháng Mười.\n(C) Các cửa hàng bán lẻ đang đòi thêm mười hai phần trăm chiết khấu.\n(D) Nhà cung cấp ở Milwaukee sẽ chịu phần chi phí mực in tăng thêm.",
+    "explanation": "Phương án (A) đúng vì ngay sau câu này người nói đề xuất giải pháp tức thời (đổi sang lớp phủ mờ tiêu chuẩn cho đợt đầu) nhằm đảm bảo vừa kịp ngân sách vừa không trễ ngày ra mắt bán lẻ tháng Mười. (B), (C), (D) đều bóp méo số liệu và nội dung bài nói.",
+    "vocab": [
+      ["push back", "phr v", "trì hoãn, lùi lịch"],
+      ["matte finish", "n", "bề mặt phủ mờ không bóng"],
+      ["negotiate", "v", "đàm phán, thương lượng"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Let's move on to the packaging update for our Meadowbrook Botanicals rebranding campaign. Legal counsel approved the revised nutrition labels on Tuesday, so the bottle artwork is finalized. However, our print vendor in Milwaukee just notified me that the metallic foil ink we selected for the label borders came back twelve percent above our allocated budget. We cannot afford to push back our October retail launch. Therefore, I propose switching the first production run to a standard matte finish, which keeps us on budget. Rachel, please contact the Milwaukee plant before Friday to negotiate a bulk discount on future printings. Everyone in marketing should hold off on releasing our online ads until the final printed sample bottles arrive next week.",
+    "questionText": "What is the marketing team asked to wait for?",
+    "options": [
+      "A signed printing contract from Rachel",
+      "Customer survey results on the new bottle design",
+      "Written confirmation of a bulk shipping rate",
+      "Final printed sample bottles before launching online ads"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nHãy chuyển sang phần cập nhật bao bì cho chiến dịch tái định vị thương hiệu Meadowbrook Botanicals. Bộ phận pháp lý đã phê duyệt nhãn dinh dưỡng sửa đổi vào thứ Ba, nên thiết kế trên chai đã hoàn tất. Tuy nhiên, nhà cung cấp in ấn ở Milwaukee vừa báo cho tôi biết rằng loại mực nhũ ánh kim mà chúng ta chọn cho viền nhãn có mức giá cao hơn mười hai phần trăm so với ngân sách được phân bổ. Chúng ta không thể để lỡ lịch ra mắt bán lẻ vào tháng Mười. Vì vậy, tôi đề xuất chuyển lô sản xuất đầu tiên sang lớp phủ mờ tiêu chuẩn để đảm bảo đúng ngân sách. Rachel, vui lòng liên hệ với nhà máy Milwaukee trước thứ Sáu để đàm phán chiết khấu theo số lượng lớn cho các đợt in sau. Mọi người ở phòng tiếp thị hãy tạm hoãn tung quảng cáo trực tuyến cho đến khi các chai mẫu in hoàn chỉnh được giao tới vào tuần tới.\n\nCâu hỏi: Nhóm tiếp thị được yêu cầu chờ đợi điều gì?\n(A) Một hợp đồng in ấn có chữ ký từ Rachel\n(B) Kết quả khảo sát khách hàng về thiết kế chai mới\n(C) Văn bản xác nhận mức cước vận chuyển số lượng lớn\n(D) Các chai mẫu in hoàn chỉnh trước khi chạy quảng cáo trực tuyến",
+    "explanation": "Phương án (D) đúng vì câu cuối dặn phòng tiếp thị tạm hoãn tung quảng cáo trực tuyến cho đến khi nhận được các chai mẫu in hoàn chỉnh vào tuần tới ('hold off on releasing our online ads until the final printed sample bottles arrive').",
+    "vocab": [
+      ["bulk discount", "n", "chiết khấu số lượng lớn"],
+      ["hold off", "phr v", "tạm hoãn lại"],
+      ["sample", "n", "mẫu thử"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following instructions:",
+    "audioScript": "Good afternoon, team. As you've noticed, we replaced our traditional office printers this morning with secure badge-release printing stations on every floor. This upgrade prevents confidential documents from sitting unattended in output trays and significantly reduces paper waste. Here's how the system works: when you send a file from your computer, it stays queued securely in our internal cloud for up to twenty-four hours. To print it out, simply walk up to any station and tap your employee badge against the card reader beside the touchscreen. Files not released within twenty-four hours are automatically deleted. Should a machine run low on toner or paper, please do not open the side panels yourself; instead, scan the QR code posted above the screen to alert our technology help desk.",
+    "questionText": "What is the main purpose of the instructions?",
+    "options": [
+      "To explain how to operate a newly installed printing system",
+      "To introduce a policy prohibiting personal printing at work",
+      "To announce a software update for employee laptops",
+      "To warn staff about a shortage of paper supplies"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào buổi chiều cả nhóm. Như anh chị đã thấy, sáng nay chúng ta đã thay các máy in văn phòng truyền thống bằng các trạm in bảo mật quẹt thẻ ở mọi tầng. Việc nâng cấp này ngăn tài liệu mật nằm phơi ngoài khay giấy không có người trông coi và giảm đáng kể lượng giấy lãng phí. Hệ thống hoạt động như sau: khi anh chị gửi lệnh in tệp từ máy tính, tệp sẽ được giữ an toàn trong hàng đợi đám mây nội bộ tối đa hai mươi bốn giờ. Để in ra, chỉ cần đi tới trạm in bất kỳ và chạm thẻ nhân viên vào đầu đọc thẻ bên cạnh màn hình cảm ứng. Các tệp không được xuất in trong vòng hai mươi bốn giờ sẽ tự động bị xóa. Nếu máy sắp hết mực hoặc hết giấy, vui lòng không tự ý mở nắp hông máy; thay vào đó, hãy quét mã QR dán phía trên màn hình để báo cho bộ phận hỗ trợ công nghệ.\n\nCâu hỏi: Mục đích chính của đoạn hướng dẫn là gì?\n(A) Giải thích cách vận hành một hệ thống in ấn mới lắp đặt\n(B) Giới thiệu chính sách cấm in ấn việc cá nhân tại nơi làm việc\n(C) Thông báo bản cập nhật phần mềm cho máy tính xách tay của nhân viên\n(D) Cảnh báo nhân viên về tình trạng thiếu hụt nguồn cung giấy",
+    "explanation": "Phương án (A) đúng vì người nói trình bày quy trình sử dụng hệ thống trạm in quẹt thẻ mới từ lúc gửi lệnh trên máy tính đến lúc chạm thẻ in và báo hỗ trợ kỹ thuật. (B) và (D) là bẫy suy diễn từ cụm 'paper waste' và 'run low on toner or paper'.",
+    "vocab": [
+      ["confidential", "adj", "bảo mật, kín"],
+      ["unattended", "adj", "không có người trông coi"],
+      ["queue", "v", "đưa vào hàng đợi xử lý"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following instructions:",
+    "audioScript": "Good afternoon, team. As you've noticed, we replaced our traditional office printers this morning with secure badge-release printing stations on every floor. This upgrade prevents confidential documents from sitting unattended in output trays and significantly reduces paper waste. Here's how the system works: when you send a file from your computer, it stays queued securely in our internal cloud for up to twenty-four hours. To print it out, simply walk up to any station and tap your employee badge against the card reader beside the touchscreen. Files not released within twenty-four hours are automatically deleted. Should a machine run low on toner or paper, please do not open the side panels yourself; instead, scan the QR code posted above the screen to alert our technology help desk.",
+    "questionText": "What happens if a print job is not released within twenty-four hours?",
+    "options": [
+      "It is forwarded to a department supervisor.",
+      "It is automatically removed from the system.",
+      "It prints out at the ground-floor reception desk.",
+      "It requires a password reset from technical support."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi chiều cả nhóm. Như anh chị đã thấy, sáng nay chúng ta đã thay các máy in văn phòng truyền thống bằng các trạm in bảo mật quẹt thẻ ở mọi tầng. Việc nâng cấp này ngăn tài liệu mật nằm phơi ngoài khay giấy không có người trông coi và giảm đáng kể lượng giấy lãng phí. Hệ thống hoạt động như sau: khi anh chị gửi lệnh in tệp từ máy tính, tệp sẽ được giữ an toàn trong hàng đợi đám mây nội bộ tối đa hai mươi bốn giờ. Để in ra, chỉ cần đi tới trạm in bất kỳ và chạm thẻ nhân viên vào đầu đọc thẻ bên cạnh màn hình cảm ứng. Các tệp không được xuất in trong vòng hai mươi bốn giờ sẽ tự động bị xóa. Nếu máy sắp hết mực hoặc hết giấy, vui lòng không tự ý mở nắp hông máy; thay vào đó, hãy quét mã QR dán phía trên màn hình để báo cho bộ phận hỗ trợ công nghệ.\n\nCâu hỏi: Điều gì xảy ra nếu một lệnh in không được giải phóng trong vòng hai mươi bốn giờ?\n(A) Nó được chuyển tiếp đến người giám sát bộ phận.\n(B) Nó tự động bị xóa khỏi hệ thống.\n(C) Nó được in ra tại bàn lễ tân tầng trệt.\n(D) Nó yêu cầu đặt lại mật khẩu từ bộ phận hỗ trợ kỹ thuật.",
+    "explanation": "Phương án (B) đúng vì 'Files not released within twenty-four hours are automatically deleted' được diễn đạt lại thành 'automatically removed from the system'. Các phương án (A), (C), (D) đều không có trong bài.",
+    "vocab": [
+      ["release", "v", "giải phóng lệnh, xuất ra"],
+      ["automatically", "adv", "một cách tự động"],
+      ["toner", "n", "mực máy in"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following instructions:",
+    "audioScript": "Good afternoon, team. As you've noticed, we replaced our traditional office printers this morning with secure badge-release printing stations on every floor. This upgrade prevents confidential documents from sitting unattended in output trays and significantly reduces paper waste. Here's how the system works: when you send a file from your computer, it stays queued securely in our internal cloud for up to twenty-four hours. To print it out, simply walk up to any station and tap your employee badge against the card reader beside the touchscreen. Files not released within twenty-four hours are automatically deleted. Should a machine run low on toner or paper, please do not open the side panels yourself; instead, scan the QR code posted above the screen to alert our technology help desk.",
+    "questionText": "What should employees do if a printer runs low on toner?",
+    "options": [
+      "Open the side panel to inspect the ink cartridge",
+      "Move to a printing station on another floor",
+      "Scan a code to notify the support team",
+      "Call the manufacturer listed on the touchscreen"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi chiều cả nhóm. Như anh chị đã thấy, sáng nay chúng ta đã thay các máy in văn phòng truyền thống bằng các trạm in bảo mật quẹt thẻ ở mọi tầng. Việc nâng cấp này ngăn tài liệu mật nằm phơi ngoài khay giấy không có người trông coi và giảm đáng kể lượng giấy lãng phí. Hệ thống hoạt động như sau: khi anh chị gửi lệnh in tệp từ máy tính, tệp sẽ được giữ an toàn trong hàng đợi đám mây nội bộ tối đa hai mươi bốn giờ. Để in ra, chỉ cần đi tới trạm in bất kỳ và chạm thẻ nhân viên vào đầu đọc thẻ bên cạnh màn hình cảm ứng. Các tệp không được xuất in trong vòng hai mươi bốn giờ sẽ tự động bị xóa. Nếu máy sắp hết mực hoặc hết giấy, vui lòng không tự ý mở nắp hông máy; thay vào đó, hãy quét mã QR dán phía trên màn hình để báo cho bộ phận hỗ trợ công nghệ.\n\nCâu hỏi: Nhân viên nên làm gì nếu một máy in sắp hết mực?\n(A) Mở nắp hông để kiểm tra hộp mực\n(B) Di chuyển sang một trạm in ở tầng khác\n(C) Quét một mã để thông báo cho đội hỗ trợ\n(D) Gọi cho nhà sản xuất được ghi trên màn hình cảm ứng",
+    "explanation": "Phương án (C) đúng vì khi máy sắp hết mực hoặc giấy, nhân viên được yêu cầu quét mã QR dán phía trên màn hình để báo cho bộ phận hỗ trợ công nghệ ('scan the QR code... to alert our technology help desk'). (A) ngược với lời dặn không được tự ý mở nắp hông máy.",
+    "vocab": [
+      ["panel", "n", "tấm nắp, bảng che"],
+      ["alert", "v", "thông báo, báo cho"],
+      ["station", "n", "trạm thiết bị"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "May I have your attention, passengers ticketed for Cascade Express train 308 to Seattle, originally scheduled to depart at two ten this afternoon. Due to an unscheduled signal inspection along the track near Tacoma Junction, train 308 is experiencing a forty-minute delay and is now projected to leave at two fifty. Additionally, please note a boarding change: the train will now depart from platform six rather than platform three as printed on your tickets. Passengers with tight connections in Seattle who wish to adjust their itinerary may visit the customer service counter in the main concourse to rebook onto a later train without a fee. While you wait, please show your boarding pass at the station cafe for a complimentary beverage.",
+    "questionText": "Why has the departure of train 308 been delayed?",
+    "options": [
+      "Track signals are undergoing an unscheduled inspection.",
+      "Heavy rain has flooded the tracks near Seattle.",
+      "Another train is still occupying platform three.",
+      "Ticket kiosks in the main concourse malfunctioned."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nXin quý hành khách có vé đi chuyến tàu tốc hành Cascade Express số 308 tới Seattle, theo lịch ban đầu khởi hành lúc hai giờ mười chiều nay, vui lòng chú ý. Do việc kiểm tra tín hiệu đường ray đột xuất dọc tuyến gần ngã ba Tacoma, chuyến tàu 308 đang bị chậm bốn mươi phút và hiện dự kiến rời ga lúc hai giờ năm mươi. Ngoài ra, xin lưu ý thay đổi nơi lên tàu: tàu hiện sẽ khởi hành từ sân ga số sáu thay vì sân ga số ba như in trên vé của quý vị. Hành khách có chuyến nối tàu sát giờ tại Seattle muốn điều chỉnh lịch trình có thể đến quầy dịch vụ khách hàng ở sảnh chính để đổi sang chuyến tàu sau miễn phí. Trong lúc chờ đợi, vui lòng xuất trình thẻ lên tàu tại quán cà phê trong ga để nhận một thức uống miễn phí.\n\nCâu hỏi: Tại sao chuyến tàu 308 bị hoãn khởi hành?\n(A) Hệ thống tín hiệu đường ray đang được kiểm tra đột xuất.\n(B) Mưa lớn đã làm ngập đường ray gần Seattle.\n(C) Một đoàn tàu khác vẫn đang đậu tại sân ga số ba.\n(D) Các máy bán vé tự động ở sảnh chính gặp trục trặc.",
+    "explanation": "Phương án (A) đúng vì thông báo nêu nguyên nhân chậm 40 phút là do kiểm tra tín hiệu đường ray đột xuất gần Tacoma Junction ('an unscheduled signal inspection along the track'). (B) và (D) không có trong bài; (C) bẫy chi tiết sân ga số 3.",
+    "vocab": [
+      ["unscheduled", "adj", "đột xuất, không nằm trong lịch"],
+      ["projected", "adj", "được dự kiến"],
+      ["concourse", "n", "sảnh lớn (nhà ga/sân bay)"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "May I have your attention, passengers ticketed for Cascade Express train 308 to Seattle, originally scheduled to depart at two ten this afternoon. Due to an unscheduled signal inspection along the track near Tacoma Junction, train 308 is experiencing a forty-minute delay and is now projected to leave at two fifty. Additionally, please note a boarding change: the train will now depart from platform six rather than platform three as printed on your tickets. Passengers with tight connections in Seattle who wish to adjust their itinerary may visit the customer service counter in the main concourse to rebook onto a later train without a fee. While you wait, please show your boarding pass at the station cafe for a complimentary beverage.",
+    "questionText": "What change is announced for passengers traveling on train 308?",
+    "options": [
+      "Seat assignments have been automatically upgraded.",
+      "The train will skip its stop at Tacoma Junction.",
+      "Passengers must pay a fee to change connecting trips.",
+      "The boarding platform has been relocated."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nXin quý hành khách có vé đi chuyến tàu tốc hành Cascade Express số 308 tới Seattle, theo lịch ban đầu khởi hành lúc hai giờ mười chiều nay, vui lòng chú ý. Do việc kiểm tra tín hiệu đường ray đột xuất dọc tuyến gần ngã ba Tacoma, chuyến tàu 308 đang bị chậm bốn mươi phút và hiện dự kiến rời ga lúc hai giờ năm mươi. Ngoài ra, xin lưu ý thay đổi nơi lên tàu: tàu hiện sẽ khởi hành từ sân ga số sáu thay vì sân ga số ba như in trên vé của quý vị. Hành khách có chuyến nối tàu sát giờ tại Seattle muốn điều chỉnh lịch trình có thể đến quầy dịch vụ khách hàng ở sảnh chính để đổi sang chuyến tàu sau miễn phí. Trong lúc chờ đợi, vui lòng xuất trình thẻ lên tàu tại quán cà phê trong ga để nhận một thức uống miễn phí.\n\nCâu hỏi: Thay đổi nào được thông báo cho hành khách đi chuyến tàu 308?\n(A) Vị trí ghế ngồi đã được nâng hạng tự động.\n(B) Tàu sẽ bỏ qua trạm dừng tại ngã ba Tacoma.\n(C) Hành khách phải trả phí để đổi các chuyến nối tiếp.\n(D) Sân ga lên tàu đã được chuyển sang vị trí khác.",
+    "explanation": "Phương án (D) đúng vì thông báo cho biết nơi lên tàu thay đổi từ sân ga số ba sang sân ga số sáu ('depart from platform six rather than platform three'). (C) sai ngược với bài vì việc đổi sang chuyến tàu sau là miễn phí ('without a fee').",
+    "vocab": [
+      ["relocate", "v", "dời sang vị trí khác"],
+      ["connection", "n", "chuyến nối tiếp"],
+      ["itinerary", "n", "lịch trình chuyến đi"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "May I have your attention, passengers ticketed for Cascade Express train 308 to Seattle, originally scheduled to depart at two ten this afternoon. Due to an unscheduled signal inspection along the track near Tacoma Junction, train 308 is experiencing a forty-minute delay and is now projected to leave at two fifty. Additionally, please note a boarding change: the train will now depart from platform six rather than platform three as printed on your tickets. Passengers with tight connections in Seattle who wish to adjust their itinerary may visit the customer service counter in the main concourse to rebook onto a later train without a fee. While you wait, please show your boarding pass at the station cafe for a complimentary beverage.",
+    "questionText": "What are waiting passengers offered at the station cafe?",
+    "options": [
+      "Free access to high-speed wireless internet",
+      "A discount on packaged snacks and sandwiches",
+      "A complimentary drink upon showing a ticket",
+      "Priority seating for connecting trips"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nXin quý hành khách có vé đi chuyến tàu tốc hành Cascade Express số 308 tới Seattle, theo lịch ban đầu khởi hành lúc hai giờ mười chiều nay, vui lòng chú ý. Do việc kiểm tra tín hiệu đường ray đột xuất dọc tuyến gần ngã ba Tacoma, chuyến tàu 308 đang bị chậm bốn mươi phút và hiện dự kiến rời ga lúc hai giờ năm mươi. Ngoài ra, xin lưu ý thay đổi nơi lên tàu: tàu hiện sẽ khởi hành từ sân ga số sáu thay vì sân ga số ba như in trên vé của quý vị. Hành khách có chuyến nối tàu sát giờ tại Seattle muốn điều chỉnh lịch trình có thể đến quầy dịch vụ khách hàng ở sảnh chính để đổi sang chuyến tàu sau miễn phí. Trong lúc chờ đợi, vui lòng xuất trình thẻ lên tàu tại quán cà phê trong ga để nhận một thức uống miễn phí.\n\nCâu hỏi: Hành khách đang chờ đợi được mời ưu đãi gì tại quán cà phê trong ga?\n(A) Truy cập miễn phí mạng không dây tốc độ cao\n(B) Giảm giá đồ ăn nhẹ và bánh mì kẹp đóng gói\n(C) Một đồ uống miễn phí khi xuất trình vé\n(D) Chỗ ngồi ưu tiên cho các chuyến nối tiếp",
+    "explanation": "Phương án (C) đúng vì câu cuối hướng dẫn hành khách xuất trình vé lên tàu ('boarding pass') tại quán cà phê trong ga để được nhận một đồ uống miễn phí ('complimentary beverage' -> 'complimentary drink').",
+    "vocab": [
+      ["rebook", "v", "đặt lại vé"],
+      ["boarding pass", "n", "thẻ/vé lên tàu"],
+      ["complimentary", "adj", "miễn phí, tặng kèm"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Are utility bills taking too large a bite out of your company's operating budget? Many mid-sized offices and warehouses waste nearly thirty percent of their electricity simply because lighting and climate systems run unnecessarily after hours. GridWise Energy Consulting offers comprehensive commercial energy audits tailored to facilities like yours. Our certified engineers evaluate your building's power usage completely on-site without interrupting your daily business schedule. Within five business days, we deliver a clear, actionable roadmap outlining immediate cost-saving adjustments. Plus, businesses that schedule an energy audit before the end of April will receive complimentary installation of smart temperature sensors in their primary work zone. Call GridWise today or visit our website to book your consultation.",
+    "questionText": "Who is this advertisement primarily intended for?",
+    "options": [
+      "Operators of mid-sized commercial facilities",
+      "Homeowners planning energy-saving renovations",
+      "Engineers seeking professional licensing",
+      "Manufacturers designing smart thermostats"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nHóa đơn điện nước có đang ngốn quá nhiều ngân sách vận hành của công ty bạn không? Nhiều văn phòng và nhà kho quy mô vừa lãng phí gần ba mươi phần trăm lượng điện chỉ vì hệ thống chiếu sáng và điều hòa nhiệt độ chạy không cần thiết ngoài giờ làm việc. Công ty tư vấn năng lượng GridWise cung cấp dịch vụ kiểm toán năng lượng thương mại toàn diện được thiết kế riêng cho các cơ sở như của bạn. Các kỹ sư được chứng nhận của chúng tôi sẽ đánh giá mức tiêu thụ điện của tòa nhà hoàn toàn tại chỗ mà không làm gián đoạn lịch kinh doanh hằng ngày của bạn. Trong vòng năm ngày làm việc, chúng tôi bàn giao một lộ trình rõ ràng, khả thi nêu bật các điều chỉnh tiết kiệm chi phí ngay lập tức. Thêm vào đó, những doanh nghiệp đặt lịch kiểm toán năng lượng trước cuối tháng Tư sẽ được lắp đặt miễn phí các cảm biến nhiệt độ thông minh tại khu vực làm việc chính. Hãy gọi cho GridWise ngay hôm nay hoặc truy cập trang web để đặt lịch tư vấn.\n\nCâu hỏi: Quảng cáo này chủ yếu hướng đến đối tượng nào?\n(A) Người điều hành các cơ sở thương mại quy mô vừa\n(B) Chủ nhà đang lên kế hoạch cải tạo tiết kiệm năng lượng\n(C) Các kỹ sư đang tìm kiếm chứng chỉ hành nghề\n(D) Các nhà sản xuất thiết kế bộ điều nhiệt thông minh",
+    "explanation": "Phương án (A) đúng vì quảng cáo nhắm đến các công ty sở hữu văn phòng và nhà kho quy mô vừa ('mid-sized offices and warehouses', 'commercial energy audits tailored to facilities like yours'). (B) sai vì đây là dịch vụ thương mại (commercial), không phải hộ gia đình.",
+    "vocab": [
+      ["utility bill", "n", "hóa đơn điện nước"],
+      ["comprehensive", "adj", "toàn diện, đầy đủ"],
+      ["audit", "n", "cuộc kiểm toán, rà soát"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Are utility bills taking too large a bite out of your company's operating budget? Many mid-sized offices and warehouses waste nearly thirty percent of their electricity simply because lighting and climate systems run unnecessarily after hours. GridWise Energy Consulting offers comprehensive commercial energy audits tailored to facilities like yours. Our certified engineers evaluate your building's power usage completely on-site without interrupting your daily business schedule. Within five business days, we deliver a clear, actionable roadmap outlining immediate cost-saving adjustments. Plus, businesses that schedule an energy audit before the end of April will receive complimentary installation of smart temperature sensors in their primary work zone. Call GridWise today or visit our website to book your consultation.",
+    "questionText": "What does GridWise guarantee about its evaluation process?",
+    "options": [
+      "It can be completed remotely using past bills.",
+      "It will not disrupt the client's regular operations.",
+      "It guarantees a thirty percent drop in monthly rent.",
+      "It produces a finished energy report the same day."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nHóa đơn điện nước có đang ngốn quá nhiều ngân sách vận hành của công ty bạn không? Nhiều văn phòng và nhà kho quy mô vừa lãng phí gần ba mươi phần trăm lượng điện chỉ vì hệ thống chiếu sáng và điều hòa nhiệt độ chạy không cần thiết ngoài giờ làm việc. Công ty tư vấn năng lượng GridWise cung cấp dịch vụ kiểm toán năng lượng thương mại toàn diện được thiết kế riêng cho các cơ sở như của bạn. Các kỹ sư được chứng nhận của chúng tôi sẽ đánh giá mức tiêu thụ điện của tòa nhà hoàn toàn tại chỗ mà không làm gián đoạn lịch kinh doanh hằng ngày của bạn. Trong vòng năm ngày làm việc, chúng tôi bàn giao một lộ trình rõ ràng, khả thi nêu bật các điều chỉnh tiết kiệm chi phí ngay lập tức. Thêm vào đó, những doanh nghiệp đặt lịch kiểm toán năng lượng trước cuối tháng Tư sẽ được lắp đặt miễn phí các cảm biến nhiệt độ thông minh tại khu vực làm việc chính. Hãy gọi cho GridWise ngay hôm nay hoặc truy cập trang web để đặt lịch tư vấn.\n\nCâu hỏi: GridWise cam kết điều gì về quy trình đánh giá của mình?\n(A) Có thể hoàn tất từ xa dựa trên các hóa đơn cũ.\n(B) Quy trình sẽ không làm gián đoạn hoạt động thường nhật của khách hàng.\n(C) Cam kết giảm ba mươi phần trăm tiền thuê mặt bằng hằng tháng.\n(D) Bàn giao báo cáo năng lượng hoàn chỉnh ngay trong ngày.",
+    "explanation": "Phương án (B) đúng vì 'without interrupting your daily business schedule' được diễn đạt lại thành 'will not disrupt the client's regular operations'. (A) sai vì kỹ sư kiểm tra trực tiếp tại chỗ (on-site); (C) bẫy con số 30% điện năng lãng phí; (D) sai vì báo cáo được giao trong vòng 5 ngày làm việc.",
+    "vocab": [
+      ["certified", "adj", "được cấp chứng nhận"],
+      ["interrupt", "v", "làm gián đoạn"],
+      ["actionable", "adj", "có thể thực thi ngay"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Are utility bills taking too large a bite out of your company's operating budget? Many mid-sized offices and warehouses waste nearly thirty percent of their electricity simply because lighting and climate systems run unnecessarily after hours. GridWise Energy Consulting offers comprehensive commercial energy audits tailored to facilities like yours. Our certified engineers evaluate your building's power usage completely on-site without interrupting your daily business schedule. Within five business days, we deliver a clear, actionable roadmap outlining immediate cost-saving adjustments. Plus, businesses that schedule an energy audit before the end of April will receive complimentary installation of smart temperature sensors in their primary work zone. Call GridWise today or visit our website to book your consultation.",
+    "questionText": "What special incentive is available until the end of April?",
+    "options": [
+      "A thirty percent discount on initial consultation fees",
+      "A five-year warranty on new lighting equipment",
+      "Priority weekend maintenance for warehouse coolers",
+      "Free installation of smart temperature sensors"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nHóa đơn điện nước có đang ngốn quá nhiều ngân sách vận hành của công ty bạn không? Nhiều văn phòng và nhà kho quy mô vừa lãng phí gần ba mươi phần trăm lượng điện chỉ vì hệ thống chiếu sáng và điều hòa nhiệt độ chạy không cần thiết ngoài giờ làm việc. Công ty tư vấn năng lượng GridWise cung cấp dịch vụ kiểm toán năng lượng thương mại toàn diện được thiết kế riêng cho các cơ sở như của bạn. Các kỹ sư được chứng nhận của chúng tôi sẽ đánh giá mức tiêu thụ điện của tòa nhà hoàn toàn tại chỗ mà không làm gián đoạn lịch kinh doanh hằng ngày của bạn. Trong vòng năm ngày làm việc, chúng tôi bàn giao một lộ trình rõ ràng, khả thi nêu bật các điều chỉnh tiết kiệm chi phí ngay lập tức. Thêm vào đó, những doanh nghiệp đặt lịch kiểm toán năng lượng trước cuối tháng Tư sẽ được lắp đặt miễn phí các cảm biến nhiệt độ thông minh tại khu vực làm việc chính. Hãy gọi cho GridWise ngay hôm nay hoặc truy cập trang web để đặt lịch tư vấn.\n\nCâu hỏi: Ưu đãi đặc biệt nào được áp dụng cho đến hết tháng Tư?\n(A) Giảm ba mươi phần trăm phí tư vấn ban đầu\n(B) Bảo hành năm năm cho thiết bị chiếu sáng mới\n(C) Bảo trì ưu tiên vào cuối tuần cho hệ thống làm mát nhà kho\n(D) Lắp đặt miễn phí các cảm biến nhiệt độ thông minh",
+    "explanation": "Phương án (D) đúng vì doanh nghiệp đặt lịch kiểm toán năng lượng trước cuối tháng Tư sẽ được 'complimentary installation of smart temperature sensors' (lắp đặt miễn phí cảm biến nhiệt độ thông minh).",
+    "vocab": [
+      ["roadmap", "n", "lộ trình kế hoạch"],
+      ["sensor", "n", "cảm biến"],
+      ["consultation", "n", "buổi tư vấn chuyên môn"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following opening remarks:",
+    "audioScript": "Good morning, distinguished guests, and welcome to the twelfth annual Urban Sustainable Architecture Forum here at Harborfront Convention Hall. We are thrilled to host more than six hundred architects, city planners, and green-material suppliers from fourteen countries. Shortly, Dr. Helena Novak will deliver our opening keynote on carbon-absorbing recycled concrete. Before I introduce her, please note an important change this year: rather than handing out bulky printed guidebooks at registration, we moved the full workshop schedule and exhibitor floor map into our official conference mobile app. You will want to keep notifications turned on in the conference app. Immediately following Dr. Novak's address, please join us in the South Exhibit Hall for our morning networking coffee break.",
+    "questionText": "What type of event is the speaker opening?",
+    "options": [
+      "A university engineering graduation ceremony",
+      "A municipal construction budget hearing",
+      "An international conference on sustainable design",
+      "A product launch for smartphone software"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng quý vị đại biểu đáng kính, và chào mừng đến với Diễn đàn Kiến trúc Đô thị Bền vững thường niên lần thứ mười hai tại Trung tâm Hội nghị Harborfront. Chúng tôi rất vui mừng đón tiếp hơn sáu trăm kiến trúc sư, nhà quy hoạch đô thị và nhà cung cấp vật liệu xanh đến từ mười bốn quốc gia. Ít phút nữa, Tiến sĩ Helena Novak sẽ trình bày bài phát biểu khai mạc chủ đạo về bê tông tái chế hấp thụ carbon. Trước khi giới thiệu bà, xin lưu ý một thay đổi quan trọng trong năm nay: thay vì phát sách hướng dẫn bản in dày cộp tại bàn đăng ký, chúng tôi đã đưa toàn bộ lịch trình hội thảo và sơ đồ gian hàng triển lãm lên ứng dụng di động chính thức của hội nghị. Quý vị sẽ muốn giữ bật thông báo trên ứng dụng hội nghị này. Ngay sau bài phát biểu của Tiến sĩ Novak, xin mời quý vị đến Sảnh Triển lãm phía Nam để dự tiệc trà giao lưu buổi sáng.\n\nCâu hỏi: Người nói đang khai mạc loại sự kiện nào?\n(A) Lễ tốt nghiệp ngành kỹ thuật của một trường đại học\n(B) Phiên điều trần ngân sách xây dựng cấp thành phố\n(C) Một hội nghị quốc tế về thiết kế bền vững\n(D) Buổi ra mắt sản phẩm phần mềm điện thoại thông minh",
+    "explanation": "Phương án (C) đúng vì diễn giả chào mừng hơn 600 kiến trúc sư, nhà quy hoạch và nhà cung cấp vật liệu xanh từ 14 quốc gia đến Diễn đàn Kiến trúc Đô thị Bền vững lần thứ 12. (D) là bẫy từ chi tiết ứng dụng di động hội nghị.",
+    "vocab": [
+      ["distinguished", "adj", "đáng kính, xuất chúng"],
+      ["keynote", "n", "bài phát biểu chủ đạo"],
+      ["recycled", "adj", "được tái chế"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following opening remarks:",
+    "audioScript": "Good morning, distinguished guests, and welcome to the twelfth annual Urban Sustainable Architecture Forum here at Harborfront Convention Hall. We are thrilled to host more than six hundred architects, city planners, and green-material suppliers from fourteen countries. Shortly, Dr. Helena Novak will deliver our opening keynote on carbon-absorbing recycled concrete. Before I introduce her, please note an important change this year: rather than handing out bulky printed guidebooks at registration, we moved the full workshop schedule and exhibitor floor map into our official conference mobile app. You will want to keep notifications turned on in the conference app. Immediately following Dr. Novak's address, please join us in the South Exhibit Hall for our morning networking coffee break.",
+    "questionText": "How does this year's event differ from previous ones?",
+    "options": [
+      "It is being held at a much larger convention venue.",
+      "Registration is processed online rather than at the desk.",
+      "Refreshments are served prior to the keynote address.",
+      "Event guides are provided digitally instead of on paper."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng quý vị đại biểu đáng kính, và chào mừng đến với Diễn đàn Kiến trúc Đô thị Bền vững thường niên lần thứ mười hai tại Trung tâm Hội nghị Harborfront. Chúng tôi rất vui mừng đón tiếp hơn sáu trăm kiến trúc sư, nhà quy hoạch đô thị và nhà cung cấp vật liệu xanh đến từ mười bốn quốc gia. Ít phút nữa, Tiến sĩ Helena Novak sẽ trình bày bài phát biểu khai mạc chủ đạo về bê tông tái chế hấp thụ carbon. Trước khi giới thiệu bà, xin lưu ý một thay đổi quan trọng trong năm nay: thay vì phát sách hướng dẫn bản in dày cộp tại bàn đăng ký, chúng tôi đã đưa toàn bộ lịch trình hội thảo và sơ đồ gian hàng triển lãm lên ứng dụng di động chính thức của hội nghị. Quý vị sẽ muốn giữ bật thông báo trên ứng dụng hội nghị này. Ngay sau bài phát biểu của Tiến sĩ Novak, xin mời quý vị đến Sảnh Triển lãm phía Nam để dự tiệc trà giao lưu buổi sáng.\n\nCâu hỏi: Sự kiện năm nay khác với những năm trước như thế nào?\n(A) Sự kiện được tổ chức tại một địa điểm hội nghị lớn hơn nhiều.\n(B) Việc đăng ký được xử lý trực tuyến thay vì tại quầy.\n(C) Tiệc trà giải lao được phục vụ trước bài phát biểu chủ đạo.\n(D) Tài liệu hướng dẫn sự kiện được cung cấp dạng kỹ thuật số thay vì bản giấy.",
+    "explanation": "Phương án (D) đúng vì thay vì phát sách hướng dẫn in giấy dày cộp ('bulky printed guidebooks'), ban tổ chức chuyển lịch trình hội thảo và sơ đồ gian hàng lên ứng dụng di động chính thức. (C) sai vì tiệc trà diễn ra ngay sau ('Immediately following') bài phát biểu của Tiến sĩ Novak.",
+    "vocab": [
+      ["bulky", "adj", "cồng kềnh, dày cộp"],
+      ["exhibitor", "n", "đơn vị tham gia triển lãm"],
+      ["address", "n", "bài diễn văn, phát biểu"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following opening remarks:",
+    "audioScript": "Good morning, distinguished guests, and welcome to the twelfth annual Urban Sustainable Architecture Forum here at Harborfront Convention Hall. We are thrilled to host more than six hundred architects, city planners, and green-material suppliers from fourteen countries. Shortly, Dr. Helena Novak will deliver our opening keynote on carbon-absorbing recycled concrete. Before I introduce her, please note an important change this year: rather than handing out bulky printed guidebooks at registration, we moved the full workshop schedule and exhibitor floor map into our official conference mobile app. You will want to keep notifications turned on in the conference app. Immediately following Dr. Novak's address, please join us in the South Exhibit Hall for our morning networking coffee break.",
+    "questionText": "What does the speaker mean when saying, \"You will want to keep notifications turned on in the conference app\"?",
+    "options": [
+      "Participants must check in digitally before entering any workshop.",
+      "Session rooms or schedules may be updated during the conference.",
+      "Complimentary Wi-Fi access requires logging into the mobile app.",
+      "Attendees can win door prizes through random app messages."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng quý vị đại biểu đáng kính, và chào mừng đến với Diễn đàn Kiến trúc Đô thị Bền vững thường niên lần thứ mười hai tại Trung tâm Hội nghị Harborfront. Chúng tôi rất vui mừng đón tiếp hơn sáu trăm kiến trúc sư, nhà quy hoạch đô thị và nhà cung cấp vật liệu xanh đến từ mười bốn quốc gia. Ít phút nữa, Tiến sĩ Helena Novak sẽ trình bày bài phát biểu khai mạc chủ đạo về bê tông tái chế hấp thụ carbon. Trước khi giới thiệu bà, xin lưu ý một thay đổi quan trọng trong năm nay: thay vì phát sách hướng dẫn bản in dày cộp tại bàn đăng ký, chúng tôi đã đưa toàn bộ lịch trình hội thảo và sơ đồ gian hàng triển lãm lên ứng dụng di động chính thức của hội nghị. Quý vị sẽ muốn giữ bật thông báo trên ứng dụng hội nghị này. Ngay sau bài phát biểu của Tiến sĩ Novak, xin mời quý vị đến Sảnh Triển lãm phía Nam để dự tiệc trà giao lưu buổi sáng.\n\nCâu hỏi: Người nói có ý gì khi nói, \"Quý vị sẽ muốn giữ bật thông báo trên ứng dụng hội nghị này\"?\n(A) Người tham dự phải điểm danh kỹ thuật số trước khi vào bất kỳ hội thảo nào.\n(B) Phòng họp hoặc lịch trình các phiên có thể được cập nhật trong suốt hội nghị.\n(C) Việc truy cập Wi-Fi miễn phí yêu cầu đăng nhập vào ứng dụng di động.\n(D) Khách tham dự có thể trúng quà tặng qua các tin nhắn ngẫu nhiên trên ứng dụng.",
+    "explanation": "Phương án (B) đúng vì sau khi chuyển lịch trình và sơ đồ sang ứng dụng di động, lời khuyên bật thông báo hàm ý người tham dự cần nhận cập nhật tức thời nếu có thay đổi phòng họp hay giờ giấc của các phiên thảo luận. (A), (C), (D) đều không có căn cứ trong bài nói.",
+    "vocab": [
+      ["notification", "n", "thông báo trên ứng dụng"],
+      ["networking", "n", "giao lưu mở rộng kết nối"],
+      ["registration", "n", "việc đăng ký tham dự"]
+    ]
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL: QUARTERLY SALES MEETING</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All sales staff<br>From: Rita Gomez, Sales Manager<br>Subject: Meeting on Thursday, 14 March</p><p class=\"mt-2\">Dear team,</p><p class=\"mt-2\">Our quarterly review will take place in Room 3B from 9:30 until 11:00. Please arrive five minutes early so that we can begin on time.</p><p class=\"mt-2\"><strong>Agenda</strong></p><p class=\"mt-2\">1. January and February sales figures<br>2. New customers in the northern region<br>3. Summer price list<br>4. Open discussion</p><p class=\"mt-2\">Bring your own printouts, because the printer on our floor is being repaired. Lunch will be provided afterwards.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To welcome a new member of the sales team",
+          "To ask staff to repair a printer",
+          "To inform employees about an upcoming meeting",
+          "To announce changes to the summer price list"
+        ],
+        "answer": "C",
+        "translation": "Mục đích của e-mail là gì? — Để thông báo cho nhân viên về một cuộc họp sắp diễn ra.",
+        "explanation": "Thư do trưởng phòng kinh doanh gửi toàn bộ nhân viên, nêu rõ thời gian, địa điểm và chương trình họp nên đây là thư thông báo về cuộc họp. Bảng giá mùa hè chỉ là một mục trong chương trình chứ không phải nội dung được thay đổi, còn máy in chỉ được nhắc để giải thích vì sao nhân viên phải tự mang bản in.",
+        "vocab": [
+          [
+            "quarterly",
+            "adj",
+            "hàng quý"
+          ],
+          [
+            "agenda",
+            "n",
+            "chương trình họp"
+          ],
+          [
+            "printout",
+            "n",
+            "bản in"
+          ]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "What will happen after the meeting?",
+        "options": [
+          "A meal will be served.",
+          "The sales figures will be printed.",
+          "Staff will move to Room 3B.",
+          "The manager will check the printer."
+        ],
+        "answer": "A",
+        "translation": "Điều gì sẽ diễn ra sau cuộc họp? — Một bữa ăn sẽ được phục vụ.",
+        "explanation": "Cuối thư ghi rằng bữa trưa sẽ được phục vụ sau đó, tức là có một bữa ăn sau cuộc họp. Phòng 3B là nơi diễn ra cuộc họp chứ không phải nơi nhân viên chuyển đến sau đó, và máy in đang được sửa nên không ai in số liệu tại buổi họp.",
+        "vocab": [
+          [
+            "provide",
+            "v",
+            "cung cấp, phục vụ"
+          ],
+          [
+            "afterwards",
+            "adv",
+            "sau đó"
+          ],
+          [
+            "repair",
+            "v",
+            "sửa chữa"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following shipping rate table:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SHIPPING RATES — FASTRIDE DELIVERY</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">The prices below are for one parcel. Pickups are made from Monday to Friday only.</p><table class=\"w-full text-sm mt-2\"><tr><td><strong>Service</strong></td><td><strong>Up to 5 kg</strong></td><td><strong>Up to 20 kg</strong></td></tr><tr><td>Standard (3–4 working days)</td><td>$8</td><td>$15</td></tr><tr><td>Express (next day)</td><td>$18</td><td>$32</td></tr><tr><td>Same day (city only)</td><td>$40</td><td>—</td></tr></table><p class=\"mt-2\">Insurance is not included in these prices; it costs $3 per parcel. Parcels heavier than 50 kg receive a 10% discount. Call 555-0182 before 3 p.m. to arrange a pickup.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "How much does it cost to send a 15-kilogram parcel by express service?",
+        "options": [
+          "$15",
+          "$18",
+          "$32",
+          "$40"
+        ],
+        "answer": "C",
+        "translation": "Gửi một bưu kiện 15 kg bằng dịch vụ hỏa tốc tốn bao nhiêu tiền? — 32 đô la.",
+        "explanation": "Bưu kiện 15 kg nằm trong cột 'đến 20 kg', và dòng dịch vụ hỏa tốc ghi 32 đô la cho mức cân nặng này. Mức 15 đô la là giá hàng tiêu chuẩn, 18 đô la chỉ áp dụng cho hàng hỏa tốc dưới 5 kg, còn 40 đô la là giá giao trong ngày.",
+        "vocab": [
+          [
+            "parcel",
+            "n",
+            "bưu kiện, gói hàng"
+          ],
+          [
+            "express",
+            "adj",
+            "hỏa tốc, nhanh"
+          ],
+          [
+            "rate",
+            "n",
+            "giá, mức phí"
+          ]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "What is true about the express service?",
+        "options": [
+          "It is limited to the city area.",
+          "It reaches the receiver one day after pickup.",
+          "It includes insurance at no extra charge.",
+          "It is cheaper than the standard service."
+        ],
+        "answer": "B",
+        "translation": "Điều gì đúng về dịch vụ hỏa tốc? — Hàng đến tay người nhận một ngày sau khi được lấy.",
+        "explanation": "Bảng giá ghi dịch vụ hỏa tốc là 'next day', nghĩa là hàng tới nơi vào ngày hôm sau. Chỉ dịch vụ giao trong ngày mới giới hạn trong thành phố, bảo hiểm phải trả thêm 3 đô la, và giá hỏa tốc cao hơn giá tiêu chuẩn.",
+        "vocab": [
+          [
+            "pickup",
+            "n",
+            "việc lấy hàng"
+          ],
+          [
+            "next day",
+            "n",
+            "ngày hôm sau"
+          ],
+          [
+            "insurance",
+            "n",
+            "bảo hiểm"
+          ]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "All of the following are true EXCEPT:",
+        "options": [
+          "Same-day delivery is offered only in the city.",
+          "Parcels over 50 kilograms cost 10% less.",
+          "Pickups can be arranged on Saturdays.",
+          "Insurance costs an additional three dollars."
+        ],
+        "answer": "C",
+        "translation": "Tất cả các ý sau đều đúng NGOẠI TRỪ: — Việc lấy hàng có thể sắp xếp vào thứ Bảy.",
+        "explanation": "Bảng giá nói rõ việc lấy hàng chỉ diễn ra từ thứ Hai đến thứ Sáu, nên không thể hẹn lấy hàng vào thứ Bảy. Các ý còn lại đều có trong bảng: giao trong ngày chỉ trong thành phố, hàng trên 50 kg được giảm 10%, và bảo hiểm tính thêm 3 đô la.",
+        "vocab": [
+          [
+            "arrange",
+            "v",
+            "sắp xếp"
+          ],
+          [
+            "rate",
+            "n",
+            "giá, mức phí"
+          ],
+          [
+            "discount",
+            "n",
+            "mức giảm giá"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following job notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOW HIRING: DELIVERY DRIVERS</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Bluebird Bakery needs two delivery drivers for its morning route.</p><p class=\"mt-2\">You will drive a small van, load bread and cakes at 5:00 a.m., and finish by 11:00 a.m. from Monday to Saturday. The route stays inside the city.</p><p class=\"mt-2\">Requirements: a clean driving record, at least one year of experience, and the ability to lift 15 kg. A valid health certificate must be shown before the first working day.</p><p class=\"mt-2\">Pay: $22 per hour, plus free bread each week. To apply, e-mail your name and phone number to jobs@bluebirdbakery.com by 30 April. Interviews begin on 5 May.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "What must a new driver present before starting work?",
+        "options": [
+          "A health certificate",
+          "A van of their own",
+          "Two years of baking experience",
+          "A letter from a former customer"
+        ],
+        "answer": "A",
+        "translation": "Người tài xế mới phải xuất trình gì trước khi bắt đầu làm việc? — Giấy chứng nhận sức khỏe.",
+        "explanation": "Thông báo nêu rõ phải có giấy chứng nhận sức khỏe còn hiệu lực trước ngày làm việc đầu tiên. Xe van do công ty cung cấp, chỉ cần một năm kinh nghiệm lái xe chứ không phải hai năm làm bánh, và không có yêu cầu nào về thư giới thiệu của khách hàng.",
+        "vocab": [
+          [
+            "valid",
+            "adj",
+            "còn hiệu lực"
+          ],
+          [
+            "requirement",
+            "n",
+            "yêu cầu"
+          ],
+          [
+            "ability",
+            "n",
+            "khả năng"
+          ]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "How can someone apply for the job?",
+        "options": [
+          "By visiting the bakery in person",
+          "By sending an e-mail with their details",
+          "By calling the manager after 11 a.m.",
+          "By filling in a form on the website"
+        ],
+        "answer": "B",
+        "translation": "Một người có thể ứng tuyển bằng cách nào? — Bằng cách gửi e-mail kèm thông tin cá nhân.",
+        "explanation": "Thông báo hướng dẫn ứng viên gửi tên và số điện thoại tới địa chỉ e-mail của tiệm trước ngày 30 tháng 4. Không có hướng dẫn nào về việc đến trực tiếp, gọi điện cho quản lý hay điền biểu mẫu trên trang web.",
+        "vocab": [
+          [
+            "apply",
+            "v",
+            "ứng tuyển"
+          ],
+          [
+            "experience",
+            "n",
+            "kinh nghiệm"
+          ],
+          [
+            "interview",
+            "n",
+            "buổi phỏng vấn"
+          ]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "What can be inferred about the working hours?",
+        "options": [
+          "Drivers work only on Sundays.",
+          "Each shift lasts ten hours.",
+          "Drivers make deliveries at night.",
+          "Most of the work is done in the morning."
+        ],
+        "answer": "D",
+        "translation": "Có thể suy ra gì về giờ làm việc? — Phần lớn công việc diễn ra vào buổi sáng.",
+        "explanation": "Ca làm bắt đầu lúc 5 giờ sáng và kết thúc trước 11 giờ trưa, từ thứ Hai đến thứ Bảy, nên công việc chủ yếu diễn ra vào buổi sáng. Ca chỉ kéo dài khoảng sáu tiếng, không phải mười tiếng, và không có ca đêm hay làm việc Chủ nhật.",
+        "vocab": [
+          [
+            "load",
+            "v",
+            "chất hàng lên"
+          ],
+          [
+            "route",
+            "n",
+            "lộ trình giao hàng"
+          ],
+          [
+            "van",
+            "n",
+            "xe tải nhỏ"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following maintenance notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">EQUIPMENT MAINTENANCE — MAY</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: Building Services<br>To: All staff on floors 2 to 5<br>Subject: May maintenance visits</p><p class=\"mt-2\">Our service team will check office equipment on the dates below. Each visit takes about two hours, and the machines on that floor cannot be used during the visit.</p><table class=\"w-full text-sm mt-2\"><tr><td><strong>Floor</strong></td><td><strong>Date</strong></td><td><strong>Equipment</strong></td></tr><tr><td>2</td><td>6 May</td><td>printers</td></tr><tr><td>3</td><td>8 May</td><td>photocopier</td></tr><tr><td>4</td><td>13 May</td><td>air conditioners</td></tr><tr><td>5</td><td>15 May</td><td>water coolers</td></tr></table><p class=\"mt-2\">Please save your work and turn off your computer before the team arrives. Report any faults to Ms. Duong at extension 21 at least two days before your floor's visit.</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "What should employees do before the service team arrives?",
+        "options": [
+          "Clear everything from their desks",
+          "Leave the building for two hours",
+          "Call extension 21 to confirm",
+          "Store their files and shut down their computers"
+        ],
+        "answer": "D",
+        "translation": "Nhân viên nên làm gì trước khi đội bảo trì đến? — Lưu tài liệu và tắt máy tính.",
+        "explanation": "Thông báo yêu cầu nhân viên lưu công việc đang làm và tắt máy tính trước khi đội kỹ thuật đến. Không ai yêu cầu dọn sạch bàn làm việc hay rời tòa nhà, còn việc gọi điện chỉ dành cho trường hợp báo hỏng thiết bị.",
+        "vocab": [
+          [
+            "maintenance",
+            "n",
+            "bảo trì"
+          ],
+          [
+            "arrive",
+            "v",
+            "đến"
+          ],
+          [
+            "save",
+            "v",
+            "lưu lại"
+          ]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "On which date will the photocopier be serviced?",
+        "options": [
+          "6 May",
+          "13 May",
+          "8 May",
+          "15 May"
+        ],
+        "answer": "C",
+        "translation": "Máy photocopy sẽ được bảo trì vào ngày nào? — Ngày 8 tháng 5.",
+        "explanation": "Trong bảng, dòng ghi tầng 3 ứng với ngày 8 tháng 5 và thiết bị là máy photocopy. Ngày 6 tháng 5 dành cho máy in ở tầng 2, ngày 13 tháng 5 cho điều hòa, và ngày 15 tháng 5 cho cây nước nóng lạnh.",
+        "vocab": [
+          [
+            "photocopier",
+            "n",
+            "máy photocopy"
+          ],
+          [
+            "service",
+            "v",
+            "bảo dưỡng"
+          ],
+          [
+            "floor",
+            "n",
+            "tầng"
+          ]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "In the notice, the word \"faults\" is closest in meaning to",
+        "options": [
+          "typing mistakes",
+          "equipment problems",
+          "missed appointments",
+          "extra payments"
+        ],
+        "answer": "B",
+        "translation": "Trong thông báo, từ \"faults\" gần nghĩa nhất với — các sự cố của thiết bị.",
+        "explanation": "Thông báo đề nghị báo 'faults' cho bà Duong trước ngày bảo trì, trong ngữ cảnh nói về máy móc nên từ này chỉ những lỗi hay sự cố của thiết bị. Đây không phải lỗi đánh máy, cuộc hẹn bị lỡ hay khoản tiền phải trả thêm.",
+        "vocab": [
+          [
+            "fault",
+            "n",
+            "lỗi, sự cố"
+          ],
+          [
+            "extension",
+            "n",
+            "số máy lẻ"
+          ],
+          [
+            "report",
+            "v",
+            "báo cáo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following registration form:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SHORT COURSE REGISTRATION FORM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Course: Basic Spreadsheet Skills<br>Dates: 3 to 14 June, weekday evenings, 7:00 to 8:30<br>Fee: $120 (members $95)<br>Place: Computer room, second floor<br>Class size: 12 people</p><p class=\"mt-2\">Only twelve places are available, so please send the form early.</p><p class=\"mt-2\">Name: Daniel Park<br>Membership number: R-2087<br>E-mail: d.park@mailbox.net<br>Payment: bank transfer, sent 28 May</p><p class=\"mt-2\">Office use only: fee received (checked) 29 May; textbook ordered (not checked); certificate needed (checked)</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "According to the office section, which task has not been done yet?",
+        "options": [
+          "Receiving the course fee",
+          "Sending out the certificate",
+          "Ordering the textbook",
+          "Confirming the course dates"
+        ],
+        "answer": "C",
+        "translation": "Theo phần dành cho văn phòng, việc nào chưa được thực hiện? — Đặt sách giáo trình.",
+        "explanation": "Ô 'textbook ordered' không được đánh dấu, nên việc đặt sách vẫn chưa làm. Học phí đã được ghi nhận vào ngày 29 tháng 5, giấy chứng nhận đã được đánh dấu là cần cấp, và ngày khóa học đã có sẵn trên phiếu.",
+        "vocab": [
+          [
+            "fee",
+            "n",
+            "học phí, lệ phí"
+          ],
+          [
+            "order",
+            "v",
+            "đặt mua"
+          ],
+          [
+            "membership",
+            "n",
+            "tư cách hội viên"
+          ]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "What can be inferred about Mr. Park?",
+        "options": [
+          "He has taken this course before.",
+          "He is a member of the center.",
+          "He works in the computer room.",
+          "He will pay in cash."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về ông Park? — Ông ấy là hội viên của trung tâm.",
+        "explanation": "Phiếu có ghi số hội viên R-2087, và biểu phí nêu rõ hội viên chỉ trả 95 đô la thay vì 120 đô la, nên ông Park là hội viên. Không có thông tin nào cho thấy ông đã học khóa này, làm việc ở phòng máy hay sẽ trả bằng tiền mặt, vì hình thức thanh toán là chuyển khoản.",
+        "vocab": [
+          [
+            "registration",
+            "n",
+            "việc đăng ký"
+          ],
+          [
+            "transfer",
+            "n",
+            "việc chuyển khoản"
+          ],
+          [
+            "basic",
+            "adj",
+            "cơ bản"
+          ]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "When do the classes take place?",
+        "options": [
+          "On weekend mornings",
+          "Every afternoon",
+          "On weekday evenings",
+          "Only on 3 June"
+        ],
+        "answer": "C",
+        "translation": "Các buổi học diễn ra khi nào? — Vào các buổi tối ngày thường.",
+        "explanation": "Phiếu ghi khóa học kéo dài từ 3 đến 14 tháng 6, vào các buổi tối ngày thường từ 7 giờ đến 8 giờ 30. Không có buổi sáng cuối tuần hay buổi chiều, và khóa học kéo dài nhiều ngày chứ không chỉ một ngày.",
+        "vocab": [
+          [
+            "weekday",
+            "n",
+            "ngày thường trong tuần"
+          ],
+          [
+            "course",
+            "n",
+            "khóa học"
+          ],
+          [
+            "date",
+            "n",
+            "ngày, thời gian"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NEW ADDRESS FOR THE HARBOR BRANCH</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear customers,</p><p class=\"mt-2\">On 1 July, our Harbor Branch will move from 12 Quay Street to 480 Lantern Road, about a ten-minute walk from the old office. The new space has a larger parking area and a separate room for account services.</p><p class=\"mt-2\">The branch will be closed from 28 to 30 June while we move. During those three days, please use the North Gate Branch or our mobile app for payments and transfers.</p><p class=\"mt-2\">All telephone numbers and account details stay the same. We look forward to welcoming you to the new branch.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "What is the main purpose of the notice?",
+        "options": [
+          "To introduce a new branch manager",
+          "To announce that a branch is moving",
+          "To advertise a new mobile app",
+          "To explain new account fees"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của thông báo là gì? — Để thông báo rằng một chi nhánh đang chuyển địa điểm.",
+        "explanation": "Thông báo cho khách hàng biết chi nhánh Harbor sẽ chuyển từ phố Quay sang đường Lantern từ ngày 1 tháng 7, kèm thời gian đóng cửa để chuyển đi, nên mục đích là báo việc đổi địa điểm. Ứng dụng di động chỉ được nhắc như một cách giao dịch tạm thời, không phải để quảng cáo.",
+        "vocab": [
+          [
+            "branch",
+            "n",
+            "chi nhánh"
+          ],
+          [
+            "move",
+            "v",
+            "chuyển đi"
+          ],
+          [
+            "customer",
+            "n",
+            "khách hàng"
+          ]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "What will be unavailable from 28 to 30 June?",
+        "options": [
+          "The parking area",
+          "The North Gate Branch",
+          "The Harbor Branch",
+          "The telephone lines"
+        ],
+        "answer": "C",
+        "translation": "Điều gì sẽ không dùng được từ ngày 28 đến 30 tháng 6? — Chi nhánh Harbor.",
+        "explanation": "Thông báo nêu chi nhánh Harbor đóng cửa trong ba ngày đó để chuyển địa điểm. Chi nhánh North Gate vẫn mở và được giới thiệu để khách dùng thay, còn số điện thoại được khẳng định là giữ nguyên.",
+        "vocab": [
+          [
+            "closed",
+            "adj",
+            "đóng cửa"
+          ],
+          [
+            "unavailable",
+            "adj",
+            "không dùng được"
+          ],
+          [
+            "payments",
+            "n",
+            "các khoản thanh toán"
+          ]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "What is mentioned as an improvement at the new location?",
+        "options": [
+          "Longer opening hours",
+          "Lower service fees",
+          "More employees",
+          "A larger parking area"
+        ],
+        "answer": "D",
+        "translation": "Điều gì được nêu là cải thiện ở địa điểm mới? — Bãi đỗ xe rộng hơn.",
+        "explanation": "Thông báo nói không gian mới có bãi đỗ xe lớn hơn và một phòng riêng cho dịch vụ tài khoản. Không có thông tin về việc mở cửa lâu hơn, giảm phí dịch vụ hay tăng thêm nhân viên.",
+        "vocab": [
+          [
+            "space",
+            "n",
+            "không gian"
+          ],
+          [
+            "separate",
+            "adj",
+            "riêng biệt"
+          ],
+          [
+            "account",
+            "n",
+            "tài khoản"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following quotation:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">REPAIR QUOTATION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Prepared for: Green Leaf Cafe<br>Prepared by: Delta Appliance Service<br>Date: 9 April<br>Quote number: 3312</p><p class=\"mt-2\">Item: commercial refrigerator (model CR-90)<br>Problem: the door does not close tightly and cold air escapes</p><table class=\"w-full text-sm mt-2\"><tr><td>Door seal (part)</td><td>$65</td></tr><tr><td>Labour, 2 hours</td><td>$90</td></tr><tr><td>Call-out charge</td><td>$35</td></tr><tr><td><strong>Total</strong></td><td><strong>$190</strong></td></tr></table><p class=\"mt-2\">This price is valid for 30 days, and the work can be completed in one visit. If the compressor also needs replacing, we will send a second quote before doing any extra work.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "What is the problem with the refrigerator?",
+        "options": [
+          "It makes a loud noise at night.",
+          "Its door does not shut properly.",
+          "It is too old to be repaired.",
+          "Its compressor has already failed."
+        ],
+        "answer": "B",
+        "translation": "Tủ lạnh gặp vấn đề gì? — Cửa của nó không đóng kín.",
+        "explanation": "Báo giá ghi cửa không đóng chặt và không khí lạnh bị thoát ra ngoài, tức là cửa bị hở. Không có thông tin về tiếng ồn, về việc tủ quá cũ, và máy nén chỉ được nhắc như một khả năng có thể phát sinh chứ chưa hỏng.",
+        "vocab": [
+          [
+            "quotation",
+            "n",
+            "báo giá"
+          ],
+          [
+            "tightly",
+            "adv",
+            "chặt, kín"
+          ],
+          [
+            "escape",
+            "v",
+            "thoát ra"
+          ]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "Which item makes up the largest part of the total?",
+        "options": [
+          "The parts",
+          "The call-out charge",
+          "The delivery",
+          "The labour"
+        ],
+        "answer": "D",
+        "translation": "Khoản nào chiếm phần lớn nhất trong tổng chi phí? — Tiền công.",
+        "explanation": "Tiền công hai giờ là 90 đô la, cao hơn phụ tùng 65 đô la và phí đến tận nơi 35 đô la, nên đây là khoản lớn nhất trong tổng 190 đô la. Báo giá cũng không có khoản phí giao hàng nào.",
+        "vocab": [
+          [
+            "labour",
+            "n",
+            "tiền công"
+          ],
+          [
+            "charge",
+            "n",
+            "khoản phí"
+          ],
+          [
+            "total",
+            "n",
+            "tổng cộng"
+          ]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "What does the company say about the compressor?",
+        "options": [
+          "It must be replaced at once.",
+          "It is included in the total price.",
+          "A separate quote will be sent before any extra work.",
+          "It is still covered by a warranty."
+        ],
+        "answer": "C",
+        "translation": "Công ty nói gì về máy nén? — Một báo giá riêng sẽ được gửi trước khi làm thêm bất cứ việc gì.",
+        "explanation": "Báo giá cho biết nếu máy nén cũng cần thay thì công ty sẽ gửi báo giá thứ hai trước khi tiến hành công việc phát sinh. Vì vậy việc thay máy nén chưa nằm trong tổng 190 đô la và cũng không được nói là phải làm ngay.",
+        "vocab": [
+          [
+            "compressor",
+            "n",
+            "máy nén"
+          ],
+          [
+            "quote",
+            "n",
+            "báo giá"
+          ],
+          [
+            "extra",
+            "adj",
+            "phát sinh, thêm"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SUNRISE COPY AND CLEAN</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">We are the only shop on King Street that offers printing and dry cleaning under one roof.</p><p class=\"mt-2\"><strong>Printing:</strong> black-and-white copies are 5 cents a page, colour copies are 25 cents, and posters start at $4. Send your file by e-mail and collect it two hours later.</p><p class=\"mt-2\"><strong>Dry cleaning:</strong> shirts are $3 each or five for $12; winter coats are $9. Clothes are ready the next morning if they are dropped off before 10 a.m.</p><p class=\"mt-2\">Students with a card get 20% off printing every Wednesday. We are open from 8 a.m. to 7 p.m., Monday to Saturday.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What makes the shop different from other businesses on King Street?",
+        "options": [
+          "It is the only shop with a delivery service.",
+          "It opens seven days a week.",
+          "It offers two different services under one roof.",
+          "It has the lowest prices in the city."
+        ],
+        "answer": "C",
+        "translation": "Điều gì khiến cửa hàng khác với các cơ sở khác trên phố King? — Nó cung cấp hai dịch vụ khác nhau trong cùng một địa điểm.",
+        "explanation": "Câu mở đầu khẳng định đây là cửa hàng duy nhất trên phố King vừa in ấn vừa giặt khô, tức là hai dịch vụ trong cùng một nơi. Quảng cáo không nói đến dịch vụ giao hàng, cửa hàng chỉ mở sáu ngày một tuần, và không có so sánh giá với toàn thành phố.",
+        "vocab": [
+          [
+            "roof",
+            "n",
+            "mái nhà (under one roof: cùng một nơi)"
+          ],
+          [
+            "offer",
+            "v",
+            "cung cấp"
+          ],
+          [
+            "dry cleaning",
+            "n",
+            "giặt khô"
+          ]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "When will clothes be ready if a customer drops them off at 9 a.m.?",
+        "options": [
+          "Two hours later",
+          "Two days later",
+          "That evening at 7 p.m.",
+          "The following morning"
+        ],
+        "answer": "D",
+        "translation": "Quần áo sẽ sẵn sàng khi nào nếu khách mang đến lúc 9 giờ sáng? — Sáng hôm sau.",
+        "explanation": "Quảng cáo hứa quần áo xong vào sáng hôm sau nếu được mang đến trước 10 giờ sáng, và 9 giờ là trước mốc đó. Hai giờ là thời gian chờ của dịch vụ in, còn 7 giờ tối chỉ là giờ đóng cửa.",
+        "vocab": [
+          [
+            "drop off",
+            "v",
+            "mang đến, gửi đồ"
+          ],
+          [
+            "ready",
+            "adj",
+            "sẵn sàng"
+          ],
+          [
+            "collect",
+            "v",
+            "đến lấy"
+          ]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "What can students do on Wednesdays?",
+        "options": [
+          "Get free posters",
+          "Collect a free winter coat",
+          "Pay less for printing",
+          "Stay in the shop until midnight"
+        ],
+        "answer": "C",
+        "translation": "Sinh viên có thể làm gì vào các ngày thứ Tư? — Trả ít tiền hơn cho dịch vụ in.",
+        "explanation": "Quảng cáo nêu sinh viên có thẻ được giảm 20% giá in vào mỗi thứ Tư, tức là trả ít tiền hơn cho việc in. Áp phích vẫn tính từ 4 đô la, giặt khô không miễn phí, và cửa hàng đóng cửa lúc 7 giờ tối.",
+        "vocab": [
+          [
+            "student",
+            "n",
+            "sinh viên"
+          ],
+          [
+            "poster",
+            "n",
+            "áp phích"
+          ],
+          [
+            "cent",
+            "n",
+            "xu (đơn vị tiền)"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following meeting notes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SAFETY COMMITTEE MEETING NOTES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Date: 4 March, 2:00 p.m.<br>Present: Mr. Luis Ortega (chair), Ms. Priya Nair, Mr. Ken Sato</p><p class=\"mt-2\">1. Last month's fire drill took nine minutes, but the target is six. Mr. Sato will put new exit maps on every floor by 20 March.</p><p class=\"mt-2\">2. Two workers cut their hands on boxes in the storeroom. The committee agreed to buy 200 pairs of strong gloves.</p><p class=\"mt-2\">3. The light near the back stairs has been broken since January. Ms. Nair will contact the building owner this week.</p><p class=\"mt-2\">4. The next meeting is on 1 April. Training on lifting heavy objects will be arranged before then.</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "What was the result of the fire drill?",
+        "options": [
+          "It took longer than the target time.",
+          "It was cancelled at the last minute.",
+          "It was the first drill of the year.",
+          "It was completed in six minutes."
+        ],
+        "answer": "A",
+        "translation": "Kết quả buổi diễn tập chữa cháy thế nào? — Buổi diễn tập mất nhiều thời gian hơn mục tiêu đề ra.",
+        "explanation": "Biên bản ghi buổi diễn tập mất chín phút trong khi mục tiêu là sáu phút, nên chậm hơn mục tiêu. Không có thông tin về việc hủy buổi diễn tập, và đây là buổi của tháng trước chứ không phải đầu tiên trong năm.",
+        "vocab": [
+          [
+            "drill",
+            "n",
+            "buổi diễn tập"
+          ],
+          [
+            "target",
+            "n",
+            "mục tiêu"
+          ],
+          [
+            "exit",
+            "n",
+            "lối ra"
+          ]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "Why did the committee decide to buy gloves?",
+        "options": [
+          "To keep the storeroom warm",
+          "To replace old machines",
+          "To prevent hand injuries",
+          "To follow the owner's request"
+        ],
+        "answer": "C",
+        "translation": "Vì sao ủy ban quyết định mua găng tay? — Để phòng tránh thương tích ở tay.",
+        "explanation": "Hai công nhân bị đứt tay vì thùng hàng trong kho, nên ủy ban mua 200 đôi găng tay chắc để tránh tình trạng này lặp lại. Găng tay không liên quan đến việc giữ ấm kho, thay máy móc hay yêu cầu của chủ tòa nhà.",
+        "vocab": [
+          [
+            "agree",
+            "v",
+            "đồng ý"
+          ],
+          [
+            "storeroom",
+            "n",
+            "kho chứa"
+          ],
+          [
+            "glove",
+            "n",
+            "găng tay"
+          ]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "What will Ms. Nair do this week?",
+        "options": [
+          "Repair the back stairs",
+          "Speak to the building owner",
+          "Order new gloves",
+          "Lead the next meeting"
+        ],
+        "answer": "B",
+        "translation": "Bà Nair sẽ làm gì trong tuần này? — Liên hệ với chủ tòa nhà.",
+        "explanation": "Đèn gần cầu thang sau bị hỏng từ tháng Giêng và bà Nair sẽ liên hệ với chủ tòa nhà trong tuần này. Việc mua găng tay do cả ủy ban quyết định, còn người sửa cầu thang không được nêu tên.",
+        "vocab": [
+          [
+            "contact",
+            "v",
+            "liên hệ"
+          ],
+          [
+            "owner",
+            "n",
+            "chủ sở hữu"
+          ],
+          [
+            "broken",
+            "adj",
+            "bị hỏng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following refund policy:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">TICKET REFUND POLICY — CITYLINE BUSES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Passengers may cancel a ticket and receive a refund under these conditions:</p><p class=\"mt-2\">More than 24 hours before departure: full refund.<br>Between 2 and 24 hours before departure: 50% refund.<br>Less than 2 hours before departure: no refund.</p><p class=\"mt-2\">Refunds are paid to the card used for the purchase and usually arrive within seven working days. A $2 service charge is taken from every refund. Tickets bought at the station desk must be returned to the same desk with the printed receipt.</p><p class=\"mt-2\">Tickets for airport routes cannot be refunded, but the travel date may be changed once without charge.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "A passenger cancels a ticket ten hours before departure. What will she receive?",
+        "options": [
+          "The full fare",
+          "Nothing at all",
+          "Half of the fare, minus a small fee",
+          "Twice the fare"
+        ],
+        "answer": "C",
+        "translation": "Một hành khách hủy vé mười giờ trước giờ khởi hành. Cô ấy sẽ nhận được gì? — Một nửa giá vé, trừ đi một khoản phí nhỏ.",
+        "explanation": "Mười giờ nằm trong khoảng từ 2 đến 24 giờ trước giờ khởi hành nên được hoàn 50% giá vé, và mỗi lần hoàn tiền bị trừ 2 đô la phí dịch vụ. Hoàn toàn bộ chỉ áp dụng khi hủy sớm hơn 24 giờ, còn hủy trong vòng 2 giờ thì không được hoàn.",
+        "vocab": [
+          [
+            "passenger",
+            "n",
+            "hành khách"
+          ],
+          [
+            "refund",
+            "n",
+            "tiền hoàn lại"
+          ],
+          [
+            "departure",
+            "n",
+            "giờ khởi hành"
+          ]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "According to the policy, refunds are NOT available for",
+        "options": [
+          "tickets bought online",
+          "tickets for airport routes",
+          "tickets cancelled three days early",
+          "tickets paid by bank card"
+        ],
+        "answer": "B",
+        "translation": "Theo chính sách, tiền vé KHÔNG được hoàn với — vé của tuyến sân bay.",
+        "explanation": "Chính sách nêu rõ vé tuyến sân bay không được hoàn tiền, chỉ được đổi ngày một lần miễn phí. Vé mua trực tuyến hay trả bằng thẻ vẫn được hoàn về thẻ đã dùng, và vé hủy trước ba ngày thuộc diện hoàn toàn bộ.",
+        "vocab": [
+          [
+            "route",
+            "n",
+            "tuyến đường"
+          ],
+          [
+            "available",
+            "adj",
+            "có sẵn, được áp dụng"
+          ],
+          [
+            "policy",
+            "n",
+            "chính sách"
+          ]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "In the policy, the word \"charge\" is closest in meaning to",
+        "options": [
+          "an extra cost",
+          "a delay",
+          "a complaint",
+          "a discount"
+        ],
+        "answer": "A",
+        "translation": "Trong chính sách, từ \"charge\" gần nghĩa nhất với — một khoản chi phí thêm.",
+        "explanation": "Cụm 'a $2 service charge is taken from every refund' nghĩa là mỗi lần hoàn tiền bị trừ 2 đô la, nên 'charge' ở đây là khoản tiền phải trả thêm. Từ này không có nghĩa là sự chậm trễ, lời phàn nàn hay mức giảm giá.",
+        "vocab": [
+          [
+            "charge",
+            "n",
+            "khoản phí"
+          ],
+          [
+            "receipt",
+            "n",
+            "hóa đơn"
+          ],
+          [
+            "purchase",
+            "n",
+            "việc mua hàng"
+          ]
+        ]
+      }
+    ]
+  }
+]

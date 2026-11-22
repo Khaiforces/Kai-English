@@ -1,0 +1,392 @@
+[
+  {
+    "n": 101,
+    "q": "The auditors reviewed the transaction records, most of _______ were authorized by a single regional manager without adequate oversight.",
+    "options": ["whose", "them", "which", "what"],
+    "answer": "C",
+    "translation": "Các kiểm toán viên đã rà soát hồ sơ giao dịch, phần lớn trong số đó được phê duyệt bởi một quản lý khu vực duy nhất mà không có sự giám sát đầy đủ.",
+    "explanation": "Sau dấu phẩy, để nối hai mệnh đề hoàn chỉnh cần đại từ quan hệ 'which' ('most of which' thay cho 'the transaction records'). Dùng 'them' sẽ gây lỗi nối hai mệnh đề bằng dấu phẩy; 'whose' đòi hỏi danh từ theo sau.",
+    "vocab": [
+      ["oversight", "n.", "sự giám sát"],
+      ["authorize", "v.", "phê duyệt, cấp phép"],
+      ["transaction", "n.", "giao dịch"]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "To offset rising energy costs at the assembly plant, the operations director proposed measures to _______ nonessential overtime during the third quarter.",
+    "options": ["curtail", "allocate", "substantiate", "disperse"],
+    "answer": "A",
+    "translation": "Để bù đắp chi phí năng lượng tăng cao tại nhà máy lắp ráp, giám đốc vận hành đã đề xuất các biện pháp cắt giảm giờ làm thêm không thiết yếu trong quý ba.",
+    "explanation": "Động từ 'curtail' nghĩa là cắt giảm, hạn chế (phù hợp với mục tiêu bù đắp chi phí tăng cao). 'allocate' (phân bổ), 'substantiate' (chứng minh) và 'disperse' (phân tán) không hợp ngữ cảnh giảm chi phí.",
+    "vocab": [
+      ["curtail", "v.", "cắt giảm, thu hẹp"],
+      ["offset", "v.", "bù đắp"],
+      ["nonessential", "adj.", "không thiết yếu"]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "_______ any discrepancy arise between the shipping manifest and the customs declaration, the warehouse supervisor must notify the broker immediately.",
+    "options": ["Should", "Were", "Had", "Unless"],
+    "answer": "A",
+    "translation": "Nếu có bất kỳ sự sai lệch nào phát sinh giữa bản kê khai hàng hóa và tờ khai hải quan, giám sát viên kho phải thông báo ngay cho đại lý hải quan.",
+    "explanation": "Đảo ngữ câu điều kiện loại 1 diễn tả tình huống có thể xảy ra: 'Should + S + V nguyên mẫu (arise)...'. 'Were' đòi hỏi 'to arise', 'Had' đòi hỏi V3 'arisen', còn 'Unless' không đảo ngữ trước động từ nguyên mẫu.",
+    "vocab": [
+      ["discrepancy", "n.", "sự sai lệch"],
+      ["manifest", "n.", "bản kê khai hàng hóa"],
+      ["broker", "n.", "đại lý, người môi giới"]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "The revised logistics platform reduced regional dispatch times, _______ at a higher monthly licensing cost than originally projected.",
+    "options": ["albeit", "whereas", "moreover", "unless"],
+    "answer": "A",
+    "translation": "Nền tảng logistics sửa đổi đã rút ngắn thời gian điều phối khu vực, mặc dù với mức phí cấp phép hằng tháng cao hơn dự kiến ban đầu.",
+    "explanation": "Sau dấu phẩy chỉ có cụm giới từ ('at a higher monthly licensing cost...'), không phải mệnh đề đầy đủ, nên dùng liên từ rút gọn 'albeit' (mặc dù). 'whereas' và 'unless' đòi hỏi mệnh đề đầy đủ; 'moreover' không diễn tả nhượng bộ.",
+    "vocab": [
+      ["albeit", "conj.", "mặc dù (rút gọn)"],
+      ["dispatch", "n.", "việc điều phối, xuất hàng"],
+      ["project", "v.", "dự báo, ước tính"]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "By the time the board convened to discuss the acquisition, the due-diligence team _______ a thorough review of the target company's financial records.",
+    "options": ["had completed", "has completed", "completes", "completed"],
+    "answer": "A",
+    "translation": "Vào thời điểm hội đồng quản trị họp để bàn về thương vụ mua lại, nhóm thẩm định đã hoàn tất việc rà soát kỹ lưỡng hồ sơ tài chính của công ty mục tiêu.",
+    "explanation": "Hành động hoàn tất việc rà soát xảy ra trước một mốc trong quá khứ ('By the time the board convened') nên phải chia thì quá khứ hoàn thành 'had completed'.",
+    "vocab": [
+      ["due diligence", "n.", "quá trình thẩm định chi tiết"],
+      ["convene", "v.", "triệu tập, họp"],
+      ["acquisition", "n.", "thương vụ mua lại"]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "Following a six-week pilot in the Munich branch, the enterprise plans to _______ the updated expense-tracking module across all European offices.",
+    "options": ["roll out", "phase out", "draw up", "turn down"],
+    "answer": "A",
+    "translation": "Sau giai đoạn thử nghiệm sáu tuần tại chi nhánh Munich, doanh nghiệp dự kiến triển khai mô-đun theo dõi chi phí cập nhật trên toàn bộ các văn phòng châu Âu.",
+    "explanation": "Cụm động từ 'roll out' nghĩa là triển khai, đưa vào áp dụng rộng rãi (tiếp nối giai đoạn thử nghiệm 'pilot'). 'phase out' (loại bỏ dần), 'draw up' (soạn thảo văn bản) và 'turn down' (từ chối) đều không hợp nghĩa.",
+    "vocab": [
+      ["roll out", "phr. v.", "triển khai rộng rãi"],
+      ["pilot", "n.", "chương trình thử nghiệm"],
+      ["module", "n.", "mô-đun, phân hệ"]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "_______ the preliminary audit findings, the finance committee deferred its decision on the proposed dividend until next month.",
+    "options": ["Having reviewed", "Having been reviewed", "Reviewed", "To review"],
+    "answer": "A",
+    "translation": "Sau khi đã xem xét kết quả kiểm toán sơ bộ, ủy ban tài chính đã hoãn quyết định về mức cổ tức đề xuất sang tháng tới.",
+    "explanation": "Chủ ngữ mệnh đề chính là 'the finance committee' trực tiếp thực hiện hành động xem xét trước khi hoãn quyết định, nên rút gọn ở thể chủ động hoàn thành: 'Having reviewed'. 'Having been reviewed' và 'Reviewed' mang nghĩa bị động (sai logic).",
+    "vocab": [
+      ["preliminary", "adj.", "sơ bộ, ban đầu"],
+      ["defer", "v.", "hoãn, dời lại"],
+      ["dividend", "n.", "cổ tức"]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "The meeting room is empty and the projector is still running, so the participants _______ in a hurry to attend to an urgent matter.",
+    "options": ["should have left", "must leave", "must have left", "might leave"],
+    "answer": "C",
+    "translation": "Phòng họp trống không và máy chiếu vẫn đang chạy, vì vậy những người tham dự chắc hẳn đã rời đi vội vã để xử lý một việc khẩn cấp.",
+    "explanation": "Dựa vào bằng chứng hiện tại ('empty', 'still running') để suy đoán chắc chắn về sự việc đã xảy ra trong quá khứ: dùng 'must have + V3' ('must have left'). 'should have left' mang nghĩa lẽ ra nên rời đi (sai ngữ cảnh).",
+    "vocab": [
+      ["attend to", "phr. v.", "xử lý, giải quyết"],
+      ["in a hurry", "phr.", "vội vã"],
+      ["urgent", "adj.", "khẩn cấp"]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "Because the revised launch schedule leaves little _______ for customs delays, the logistics manager recommended shipping the critical components by air.",
+    "options": ["leeway", "proximity", "restraint", "precedent"],
+    "answer": "A",
+    "translation": "Vì lịch trình ra mắt sửa đổi còn rất ít khoảng dự phòng cho việc chậm trễ hải quan, quản lý logistics đã khuyến nghị vận chuyển các linh kiện trọng yếu bằng đường hàng không.",
+    "explanation": "'Leeway' nghĩa là khoảng thời gian hoặc biên độ linh hoạt dự phòng ('leave little leeway for...'). 'proximity' (sự gần kề), 'restraint' (sự kiềm chế) và 'precedent' (tiền lệ) đều không hợp nghĩa.",
+    "vocab": [
+      ["leeway", "n.", "khoảng dự phòng, sự linh hoạt"],
+      ["customs", "n.", "hải quan"],
+      ["component", "n.", "linh kiện, bộ phận"]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "_______ domestic retail sales expanded steadily throughout the second quarter, export volume contracted owing to port congestion.",
+    "options": ["Whereas", "Provided that", "Inasmuch as", "So that"],
+    "answer": "A",
+    "translation": "Trong khi doanh số bán lẻ trong nước tăng trưởng ổn định suốt quý hai, khối lượng xuất khẩu lại sụt giảm do tình trạng ùn tắc cảng biển.",
+    "explanation": "'Whereas' nối hai mệnh đề có nội dung đối lập rõ rệt (tăng trưởng ổn định >< sụt giảm). 'Provided that' (với điều kiện là), 'Inasmuch as' (bởi vì) và 'So that' (để mà) không chỉ quan hệ tương phản.",
+    "vocab": [
+      ["whereas", "conj.", "trong khi (đối lập)"],
+      ["contract", "v.", "thu hẹp, sụt giảm"],
+      ["congestion", "n.", "sự ùn tắc"]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "To qualify for the preferred-vendor tier, suppliers must meet _______ quality-assurance benchmarks verified through annual on-site inspections.",
+    "options": ["stringent", "tentative", "ambiguous", "negligible"],
+    "answer": "A",
+    "translation": "Để đủ điều kiện vào hạng nhà cung cấp ưu tiên, các nhà cung cấp phải đáp ứng các chuẩn mực đảm bảo chất lượng nghiêm ngặt được xác minh qua kiểm tra thực địa hằng năm.",
+    "explanation": "'Stringent' nghĩa là nghiêm ngặt, khắt khe ('stringent benchmarks'). 'tentative' (tạm thời), 'ambiguous' (mơ hồ) và 'negligible' (không đáng kể) không phù hợp với tiêu chuẩn đánh giá nhà cung cấp ưu tiên.",
+    "vocab": [
+      ["stringent", "adj.", "nghiêm ngặt, khắt khe"],
+      ["benchmark", "n.", "ngưỡng chuẩn"],
+      ["on-site", "adj.", "tại hiện trường, thực địa"]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "The engineering team simplified the reporting interface _______ nontechnical staff could interpret the monthly performance data without assistance.",
+    "options": ["so that", "even though", "as though", "unless"],
+    "answer": "A",
+    "translation": "Đội ngũ kỹ thuật đã đơn giản hóa giao diện báo cáo để nhân viên không chuyên kỹ thuật có thể tự đọc hiểu dữ liệu hiệu suất hằng tháng mà không cần trợ giúp.",
+    "explanation": "Liên từ 'so that' diễn tả mục đích và đi với mệnh đề hoàn chỉnh ('nontechnical staff could interpret...'). 'even though' (mặc dù), 'as though' (như thể) và 'unless' (trừ khi) sai quan hệ mục đích.",
+    "vocab": [
+      ["interface", "n.", "giao diện"],
+      ["interpret", "v.", "diễn giải, đọc hiểu"],
+      ["simplify", "v.", "đơn giản hóa"]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "If the logistics provider _______ the seasonal capacity constraints earlier, the distributor would have avoided the stockouts that occurred in December.",
+    "options": ["anticipated", "would anticipate", "has anticipated", "had anticipated"],
+    "answer": "D",
+    "translation": "Nếu nhà cung cấp dịch vụ logistics lường trước được các giới hạn công suất theo mùa sớm hơn, nhà phân phối đã tránh được tình trạng hết hàng xảy ra vào tháng Mười Hai.",
+    "explanation": "Câu điều kiện loại 3 giả định tình huống trái với quá khứ: mệnh đề chính dùng 'would have avoided' nên mệnh đề 'If' phải dùng quá khứ hoàn thành 'had anticipated'.",
+    "vocab": [
+      ["anticipate", "v.", "lường trước, dự đoán"],
+      ["capacity constraint", "n.", "giới hạn công suất"],
+      ["stockout", "n.", "tình trạng hết hàng tồn kho"]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "The audit committee convened with a view to _______ the accounting discrepancies before the external regulators began their review.",
+    "options": ["resolve", "resolved", "the resolution", "resolving"],
+    "answer": "D",
+    "translation": "Ủy ban kiểm toán đã họp với mục tiêu giải quyết các sai lệch kế toán trước khi cơ quan quản lý bên ngoài bắt đầu cuộc rà soát.",
+    "explanation": "Cụm cố định 'with a view to + V-ing' mang nghĩa 'nhằm mục đích làm gì', nên cần danh động từ 'resolving'. 'the resolution' không nhận trực tiếp tân ngữ 'the accounting discrepancies' phía sau mà thiếu 'of'.",
+    "vocab": [
+      ["with a view to", "phr.", "với mục tiêu nhằm"],
+      ["accounting", "n.", "kế toán"],
+      ["regulator", "n.", "cơ quan quản lý"]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "The regional distribution schedule has been _______ set for mid-October, pending final route confirmation from the primary carrier.",
+    "options": ["tentatively", "unanimously", "inadvertently", "exclusively"],
+    "answer": "A",
+    "translation": "Lịch phân phối khu vực đã được ấn định dự kiến vào giữa tháng Mười, trong lúc chờ xác nhận tuyến đường chính thức từ đơn vị vận tải chính.",
+    "explanation": "'Tentatively' nghĩa là tạm thời, dự kiến (chưa chốt hẳn), khớp hoàn hảo với cụm 'pending final route confirmation'. 'unanimously' (nhất trí), 'inadvertently' (vô ý) và 'exclusively' (độc quyền) đều sai nghĩa.",
+    "vocab": [
+      ["tentatively", "adv.", "tạm thời, dự kiến"],
+      ["pending", "prep.", "trong lúc chờ đợi"],
+      ["carrier", "n.", "đơn vị vận tải"]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "Since the new procurement platform was launched, the purchasing department _______ supplier invoices far more efficiently than in previous years.",
+    "options": ["had processed", "processed", "processes", "has been processing"],
+    "answer": "D",
+    "translation": "Kể từ khi nền tảng thu mua mới được ra mắt, bộ phận mua hàng đã và đang xử lý hóa đơn nhà cung cấp hiệu quả hơn nhiều so với những năm trước.",
+    "explanation": "Mệnh đề 'Since + quá khứ đơn' chỉ mốc thời gian bắt đầu từ quá khứ kéo dài liên tục đến hiện tại, nên mệnh đề chính dùng thì hiện tại hoàn thành tiếp diễn 'has been processing'.",
+    "vocab": [
+      ["procurement", "n.", "việc thu mua"],
+      ["efficiently", "adv.", "một cách hiệu quả"],
+      ["invoice", "n.", "hóa đơn"]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "Full-time employees who have completed five years of continuous service are _______ for an additional week of paid annual leave.",
+    "options": ["eligible", "entitled", "subject", "exempt"],
+    "answer": "A",
+    "translation": "Nhân viên toàn thời gian đã hoàn thành năm năm làm việc liên tục đủ điều kiện được hưởng thêm một tuần nghỉ phép năm có lương.",
+    "explanation": "Chỉ có tính từ 'eligible' đi với giới từ 'for' ('be eligible for' = đủ điều kiện hưởng). 'entitled' đi với 'to', 'subject' đi với 'to', và 'exempt' đi với 'from'.",
+    "vocab": [
+      ["eligible for", "adj.", "đủ điều kiện hưởng"],
+      ["continuous service", "n.", "thâm niên làm việc liên tục"],
+      ["annual leave", "n.", "nghỉ phép năm"]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "_______ the substantial rise in maritime freight rates, the export division managed to preserve its profit margin throughout the third quarter.",
+    "options": ["Notwithstanding", "Although", "Whereas", "Provided that"],
+    "answer": "A",
+    "translation": "Bất chấp sự gia tăng đáng kể của cước vận tải đường biển, bộ phận xuất khẩu vẫn giữ vững được biên lợi nhuận trong suốt quý ba.",
+    "explanation": "Theo sau chỗ trống là một cụm danh từ ('the substantial rise in maritime freight rates') nên phải dùng giới từ 'Notwithstanding' (bất chấp). Ba lựa chọn còn lại đều là liên từ đòi hỏi mệnh đề có động từ chia thì.",
+    "vocab": [
+      ["notwithstanding", "prep.", "bất chấp, mặc dù"],
+      ["maritime", "adj.", "thuộc đường biển, hàng hải"],
+      ["preserve", "v.", "duy trì, giữ vững"]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "By the end of this fiscal year, the logistics group _______ the automated inventory system across all twelve regional warehouses.",
+    "options": ["will install", "will have installed", "installs", "has installed"],
+    "answer": "B",
+    "translation": "Tính đến cuối năm tài chính này, tập đoàn logistics sẽ đã hoàn tất lắp đặt hệ thống quản lý tồn kho tự động trên toàn bộ mười hai kho khu vực.",
+    "explanation": "Cụm thời gian 'By the end of + mốc tương lai' diễn tả hành động hoàn tất trước một thời điểm trong tương lai, nên chia thì tương lai hoàn thành 'will have installed'.",
+    "vocab": [
+      ["fiscal year", "n.", "năm tài chính"],
+      ["inventory", "n.", "hàng tồn kho"],
+      ["automated", "adj.", "tự động hóa"]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "To prevent delays in the seasonal launch, the warehouse director instructed staff to _______ shipments bound for flagship retail stores.",
+    "options": ["expedite", "defer", "substantiate", "fluctuate"],
+    "answer": "A",
+    "translation": "Để ngăn ngừa chậm trễ trong đợt ra mắt theo mùa, giám đốc kho yêu cầu nhân viên đẩy nhanh các lô hàng chuyển tới những cửa hàng bán lẻ chủ lực.",
+    "explanation": "'Expedite' nghĩa là xúc tiến, đẩy nhanh tiến độ xử lý ('expedite shipments'). 'defer' (hoãn lại) ngược mục tiêu; 'substantiate' (chứng minh) và 'fluctuate' (biến động) sai nghĩa.",
+    "vocab": [
+      ["expedite", "v.", "đẩy nhanh, xúc tiến"],
+      ["flagship", "adj.", "chủ lực, hàng đầu"],
+      ["bound for", "adj. phr.", "hướng tới, chuyển tới"]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "The contract renewal deadline passed last Friday, so the procurement team _______ the vendor's revised proposal much earlier.",
+    "options": ["should review", "had reviewed", "must review", "should have reviewed"],
+    "answer": "D",
+    "translation": "Hạn chót gia hạn hợp đồng đã trôi qua vào thứ Sáu tuần trước, vì vậy nhóm thu mua lẽ ra đã phải xem xét đề xuất sửa đổi của nhà cung cấp sớm hơn nhiều.",
+    "explanation": "Cấu trúc 'should have + V3' diễn tả một trách nhiệm hoặc việc lẽ ra nên làm trong quá khứ nhưng đã bỏ lỡ ('passed last Friday').",
+    "vocab": [
+      ["renewal", "n.", "sự gia hạn"],
+      ["proposal", "n.", "đề xuất"],
+      ["deadline", "n.", "hạn chót"]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "_______ the recent contraction in discretionary spending, the retailer postponed opening two additional regional branches.",
+    "options": ["In light of", "On behalf of", "In accordance with", "By means of"],
+    "answer": "A",
+    "translation": "Trước sự sụt giảm gần đây trong chi tiêu không thiết yếu, nhà bán lẻ đã hoãn khai trương thêm hai chi nhánh khu vực.",
+    "explanation": "'In light of' nghĩa là 'xét thấy, trước tình hình', chỉ nguyên nhân dẫn đến quyết định hoãn mở rộng. 'On behalf of' (thay mặt cho), 'In accordance with' (tuân theo) và 'By means of' (bằng phương tiện) đều sai quan hệ nguyên nhân – kết quả.",
+    "vocab": [
+      ["in light of", "prep.", "xét thấy, trước tình hình"],
+      ["contraction", "n.", "sự thu hẹp, sụt giảm"],
+      ["discretionary", "adj.", "không thiết yếu, tùy ý chi"]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "The regional analyst's role entails preparing monthly forecasts, coordinating with overseas hubs, and _______ audit summaries for senior leadership.",
+    "options": ["compiling", "compile", "to compile", "compiled"],
+    "answer": "A",
+    "translation": "Vai trò của chuyên viên phân tích khu vực bao gồm lập dự báo hằng tháng, phối hợp với các trung tâm nước ngoài và tổng hợp báo cáo kiểm toán cho ban lãnh đạo cấp cao.",
+    "explanation": "Cấu trúc song song nối ba cụm danh động từ sau động từ 'entails': 'preparing..., coordinating..., and compiling...'.",
+    "vocab": [
+      ["entail", "v.", "bao gồm, đòi hỏi"],
+      ["compile", "v.", "tổng hợp, biên soạn"],
+      ["forecast", "n.", "dự báo"]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "_______ the board to authorize the capital expenditure this week, construction on the automated sorting facility could begin in April.",
+    "options": ["Were", "Should", "Had", "If"],
+    "answer": "A",
+    "translation": "Giả sử hội đồng quản trị phê duyệt khoản chi tiêu vốn trong tuần này, việc xây dựng cơ sở phân loại tự động có thể khởi công vào tháng Tư.",
+    "explanation": "Đảo ngữ câu điều kiện loại 2: 'Were + S + to V (to authorize), S + could + V'. 'Should' không đi với 'to authorize', 'Had' dùng cho V3, còn 'If' cần động từ chia thì.",
+    "vocab": [
+      ["capital expenditure", "n.", "chi tiêu vốn đầu tư"],
+      ["authorize", "v.", "phê duyệt"],
+      ["sorting facility", "n.", "cơ sở phân loại hàng hóa"]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "The pilot survey results were encouraging; _______, several department heads questioned whether the sample was representative of the entire client base.",
+    "options": ["nevertheless", "therefore", "consequently", "furthermore"],
+    "answer": "A",
+    "translation": "Kết quả khảo sát thử nghiệm khá khả quan; tuy nhiên, nhiều trưởng bộ phận đặt nghi vấn liệu mẫu khảo sát có đại diện cho toàn bộ tệp khách hàng hay không.",
+    "explanation": "Hai vế mang nghĩa đối lập nhau (khả quan >< đặt nghi vấn về độ tin cậy), nên cần trạng từ liên kết tương phản 'nevertheless' (tuy nhiên). Các từ còn lại chỉ kết quả hoặc bổ sung ý cùng chiều.",
+    "vocab": [
+      ["representative", "adj.", "mang tính đại diện"],
+      ["client base", "n.", "tệp khách hàng"],
+      ["encouraging", "adj.", "khả quan, đáng khích lệ"]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "The legal counsel was instructed to _______ a formal service-level agreement before the client's executives arrive for the signing ceremony.",
+    "options": ["draw up", "call off", "put forward", "turn over"],
+    "answer": "A",
+    "translation": "Cố vấn pháp lý được chỉ đạo soạn thảo một thỏa thuận mức dịch vụ chính thức trước khi các lãnh đạo của khách hàng đến dự lễ ký kết.",
+    "explanation": "'Draw up' mang nghĩa soạn thảo văn bản chính thức hoặc hợp đồng ('draw up an agreement'). 'call off' (hủy bỏ), 'put forward' (đề xuất ý kiến/ứng viên) và 'turn over' (bàn giao/chuyển giao) không khớp bối cảnh chuẩn bị văn bản ký kết.",
+    "vocab": [
+      ["draw up", "phr. v.", "soạn thảo (hợp đồng, kế hoạch)"],
+      ["service-level agreement", "n.", "thỏa thuận cam kết chất lượng dịch vụ"],
+      ["signing ceremony", "n.", "lễ ký kết"]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The independent auditor devoted a _______ share of the review to verifying inventory transfers between regional distribution hubs.",
+    "options": ["considerable", "considerate", "consecutive", "compatible"],
+    "answer": "A",
+    "translation": "Kiểm toán viên độc lập đã dành một phần đáng kể của cuộc rà soát để xác minh các giao dịch điều chuyển hàng tồn kho giữa các trung tâm phân phối khu vực.",
+    "explanation": "'Considerable' nghĩa là đáng kể, lớn ('a considerable share'). 'considerate' nghĩa là chu đáo (chỉ người); 'consecutive' (liên tiếp) và 'compatible' (tương thích) không đi với 'share of the review'.",
+    "vocab": [
+      ["considerable", "adj.", "đáng kể, lớn"],
+      ["verify", "v.", "xác minh, kiểm chứng"],
+      ["hub", "n.", "trung tâm đầu mối"]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "The proposed merger enters a ninety-day regulatory review period, _______ both firms must continue operating as independent competitors.",
+    "options": ["during which", "in that", "whereby", "which"],
+    "answer": "A",
+    "translation": "Thương vụ sáp nhập dự kiến bước vào giai đoạn rà soát pháp lý chín mươi ngày, trong suốt thời gian đó cả hai công ty phải tiếp tục hoạt động như những đối thủ độc lập.",
+    "explanation": "Tiền ngữ là khoảng thời gian ('a ninety-day regulatory review period'), và mệnh đề sau đã đủ chủ ngữ – vị ngữ, nên cần cụm giới từ + đại từ quan hệ chỉ thời gian 'during which'. 'which' thiếu giới từ; 'in that' mang nghĩa 'bởi vì'; 'whereby' nghĩa 'nhờ đó/theo đó' không dùng cho khoảng thời gian.",
+    "vocab": [
+      ["regulatory review", "n.", "cuộc rà soát theo quy định pháp luật"],
+      ["competitor", "n.", "đối thủ cạnh tranh"],
+      ["independent", "adj.", "độc lập"]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "Given that several signed addenda are missing from the binder, the clerk _______ them under the wrong client code during last week's reorganization.",
+    "options": ["might have filed", "had filed", "will have filed", "might file"],
+    "answer": "A",
+    "translation": "Xét thấy nhiều phụ lục đã ký đang bị thiếu khỏi tập hồ sơ, nhân viên văn phòng có thể đã lưu nhầm chúng dưới mã khách hàng khác trong đợt sắp xếp lại tuần trước.",
+    "explanation": "Dựa vào dấu hiệu hiện tại để suy đoán một khả năng đã xảy ra trong quá khứ ('last week's reorganization'): dùng 'might have + V3' ('might have filed').",
+    "vocab": [
+      ["addendum", "n.", "phụ lục bổ sung (số nhiều: addenda)"],
+      ["file", "v.", "lưu trữ hồ sơ"],
+      ["reorganization", "n.", "việc sắp xếp, tổ chức lại"]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "The revised overtime compensation policy will _______ on the first day of the following month, giving supervisors time to adjust shift rosters.",
+    "options": ["take effect", "take precedence", "take place", "take shape"],
+    "answer": "A",
+    "translation": "Chính sách thù lao làm thêm giờ sửa đổi sẽ có hiệu lực vào ngày đầu tiên của tháng tiếp theo, giúp các giám sát viên có thời gian điều chỉnh bảng phân ca.",
+    "explanation": "'Take effect' là cụm cố định dùng cho luật lệ hoặc chính sách bắt đầu có hiệu lực. 'take precedence' cần giới từ 'over'; 'take place' dùng cho sự kiện diễn ra; 'take shape' nghĩa là dần thành hình.",
+    "vocab": [
+      ["take effect", "phr.", "có hiệu lực"],
+      ["shift roster", "n.", "bảng phân ca làm việc"],
+      ["compensation", "n.", "thù lao, đãi ngộ"]
+    ]
+  }
+]

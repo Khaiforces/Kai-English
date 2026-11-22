@@ -1,0 +1,468 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Staff<br>From: Priya Raman, Operations Manager<br>Re: Expense reports moving to Expensio</p><p class=\"mt-2\">Starting April 2, we will stop accepting expense reports submitted on the old spreadsheet. All claims must be entered in Expensio, the new online system, and each receipt has to be photographed and attached to the matching line.</p><p class=\"mt-2\">Expensio is simple, but the first report always takes longer than expected. I have scheduled two 30-minute training sessions on March 28, one at 10 a.m. and one at 2 p.m., in the training room on the fourth floor. Anyone who submits claims is expected to attend one of them; no registration is needed.</p><p class=\"mt-2\">Please note one rule that has not changed: any single expense above $500 still requires written approval from a director before it is submitted. Claims sent without that approval will be returned.</p><p class=\"mt-2\">Your first Expensio report, covering March, is due by April 10. If you have trouble logging in, contact the help desk at extension 4120 rather than e-mailing me directly.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To announce an office relocation",
+          "To introduce a new finance director",
+          "To ask employees to attend a training session",
+          "To explain a new method for submitting expenses"
+        ],
+        "answer": "D",
+        "translation": "Mục đích của thư điện tử là gì? — Giải thích một cách thức mới để gửi báo cáo chi phí.",
+        "explanation": "Toàn bộ thư nói về việc chuyển báo cáo chi phí sang hệ thống Expensio, cách đính kèm hóa đơn, lịch tập huấn và hạn nộp. Buổi tập huấn chỉ là một bước trong quy trình mới nên không phải mục đích chính; thư không nhắc đến việc chuyển văn phòng hay một giám đốc tài chính mới.",
+        "vocab": [["submit", "v", "nộp, gửi"], ["receipt", "n", "hóa đơn, biên lai"], ["approval", "n", "sự phê duyệt"], ["extension", "n", "số máy lẻ"]]
+      },
+      {
+        "n": 148,
+        "q": "According to the e-mail, what is required for any single expense above $500?",
+        "options": [
+          "A director's written approval",
+          "A copy of the original invoice sent to the help desk",
+          "A separate report for each item",
+          "Permission from the training room staff"
+        ],
+        "answer": "A",
+        "translation": "Theo thư, một khoản chi đơn lẻ trên 500 đô cần điều gì? — Sự phê duyệt bằng văn bản của một giám đốc.",
+        "explanation": "Thư ghi rõ khoản chi trên 500 đô vẫn cần giấy phê duyệt bằng văn bản của giám đốc trước khi nộp, và đơn thiếu giấy này sẽ bị trả lại. Hóa đơn chỉ cần chụp ảnh và đính kèm trong Expensio, không gửi cho bộ phận hỗ trợ; thư cũng không yêu cầu báo cáo riêng cho từng món.",
+        "vocab": [["expense", "n", "khoản chi"], ["director", "n", "giám đốc"], ["written", "adj", "bằng văn bản"], ["claim", "n", "yêu cầu thanh toán"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE</p><p class=\"font-bold text-center\">Brightline Distribution — Holiday Closure and Year-End Schedule</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Our offices and warehouse will be closed from Monday, December 24 through Tuesday, January 1. Normal operations resume on Wednesday, January 2, at 7:00 a.m.</p><p class=\"mt-2\"><strong>Customer orders:</strong> Only urgent orders will be processed during the closure. A small team will work on Thursday, December 27, to handle them. All other orders received after December 21 will be held until we reopen.</p><p class=\"mt-2\"><strong>Payroll:</strong> December timesheets must be approved by supervisors no later than December 15. The December 19 pay date is unchanged and covers all hours worked through December 14.</p><p class=\"mt-2\"><strong>Parking:</strong> The main lot will be repaved during the closure. Employees who come in on December 27 should use the Oak Street entrance and park on the street.</p><p class=\"mt-2\"><strong>Building access:</strong> Badge readers will be switched off from December 24. Anyone working on December 27 must sign in at the security desk and collect a temporary badge.</p><p class=\"mt-2\">Questions about the schedule can be sent to facilities@brightline.example.com. Thank you for another strong year, and enjoy the holiday.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "What is the main purpose of the notice?",
+        "options": [
+          "To describe arrangements during a holiday closure",
+          "To announce a change to the payroll system",
+          "To recruit volunteers for a warehouse shift",
+          "To explain new security procedures for visitors"
+        ],
+        "answer": "A",
+        "translation": "Mục đích chính của thông báo là gì? — Mô tả các sắp xếp trong kỳ nghỉ lễ.",
+        "explanation": "Thông báo cho biết thời gian đóng cửa, cách xử lý đơn hàng khẩn, hạn nộp bảng chấm công, chỗ đỗ xe và thủ tục ra vào tòa nhà trong dịp nghỉ. Hệ thống lương không thay đổi, và thông báo chỉ nêu một nhóm nhỏ làm việc ngày 27 chứ không kêu gọi tình nguyện.",
+        "vocab": [["closure", "n", "việc đóng cửa"], ["urgent", "adj", "khẩn cấp"], ["resume", "v", "hoạt động trở lại"], ["payroll", "n", "bảng lương"]]
+      },
+      {
+        "n": 150,
+        "q": "Why should employees use the Oak Street entrance on December 27?",
+        "options": [
+          "The security desk is located there",
+          "The main parking lot is being repaved",
+          "The warehouse doors are locked for the season",
+          "Temporary badges are issued at that gate"
+        ],
+        "answer": "B",
+        "translation": "Vì sao nhân viên nên dùng lối vào phố Oak ngày 27 tháng 12? — Vì bãi đỗ xe chính đang được lát lại.",
+        "explanation": "Mục Parking nêu rõ bãi chính sẽ được lát lại trong kỳ nghỉ, nên người vào làm ngày 27 dùng lối Oak Street và đỗ xe trên phố. Thẻ tạm được phát ở bàn bảo vệ, không phải ở cổng Oak, và thông báo không nói cửa kho bị khóa.",
+        "vocab": [["entrance", "n", "lối vào"], ["repave", "v", "lát lại mặt đường"], ["badge", "n", "thẻ ra vào"], ["temporary", "adj", "tạm thời"]]
+      },
+      {
+        "n": 151,
+        "q": "What can be inferred about a routine order received on December 28?",
+        "options": [
+          "It will be shipped from another warehouse.",
+          "It will be handled by the security desk.",
+          "It will not be processed until January 2.",
+          "It will be canceled automatically."
+        ],
+        "answer": "C",
+        "translation": "Có thể suy ra điều gì về một đơn hàng thông thường nhận ngày 28 tháng 12? — Đơn đó sẽ không được xử lý cho đến ngày 2 tháng 1.",
+        "explanation": "Thông báo nói chỉ đơn khẩn mới được xử lý trong kỳ nghỉ, còn mọi đơn khác nhận sau ngày 21 sẽ được giữ lại đến khi mở cửa lại vào ngày 2 tháng 1. Vì vậy đơn thường ngày 28 phải chờ; bài không nói đơn bị hủy hay chuyển kho khác.",
+        "vocab": [["schedule", "n", "lịch trình"], ["process", "v", "xử lý"], ["order", "n", "đơn hàng"], ["reopen", "v", "mở cửa lại"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ADVERTISEMENT</p><p class=\"font-bold text-center\">Northgate Office Solutions — IT support that fits a small business budget</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Downtime costs more than any service plan. For one flat monthly fee, Northgate keeps your computers, network, and printers running so your team can focus on customers instead of error messages.</p><p class=\"mt-2\"><strong>Standard Plan — $149 per month</strong></p><ul class=\"list-disc pl-6\"><li>Remote support for up to 15 devices, Monday to Friday, 8 a.m. to 7 p.m.</li><li>On-site visits within four business hours anywhere in the city</li><li>Monthly security updates and data backups</li><li>Additional devices billed at $6 each per month</li></ul><p class=\"mt-2\"><strong>Growth Plan — $279 per month</strong></p><ul class=\"list-disc pl-6\"><li>Everything in the Standard Plan for up to 40 devices</li><li>A named technician who learns your business</li><li>Quarterly performance reports</li></ul><p class=\"mt-2\">New clients who sign a twelve-month agreement before June 30 receive a free network audit, a $450 value, and pay no setup fee.</p><p class=\"mt-2\">“Northgate found the problem our previous provider missed for two years,” says Carla Mendes, office manager at Bellweather Design. “Now I call one number and it is handled.”</p><p class=\"mt-2\">Call 555-0142 or visit northgate.example.com for a quote.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "What is the purpose of the advertisement?",
+        "options": [
+          "To promote monthly IT support plans",
+          "To sell used office computers",
+          "To announce a job opening for a technician",
+          "To review several software providers"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của quảng cáo là gì? — Quảng bá các gói hỗ trợ kỹ thuật hàng tháng.",
+        "explanation": "Quảng cáo giới thiệu hai gói dịch vụ với mức phí hàng tháng, phạm vi thiết bị, thời gian hỗ trợ và ưu đãi cho khách mới. Bài không bán máy tính cũ, không tuyển dụng kỹ thuật viên và không đánh giá các nhà cung cấp phần mềm.",
+        "vocab": [["fee", "n", "phí"], ["downtime", "n", "thời gian ngừng hoạt động"], ["provider", "n", "nhà cung cấp"], ["quote", "n", "báo giá"]]
+      },
+      {
+        "n": 153,
+        "q": "What do new clients receive at no charge when they sign a twelve-month agreement?",
+        "options": [
+          "A second technician",
+          "Quarterly reports",
+          "A network audit",
+          "Replacement printers"
+        ],
+        "answer": "C",
+        "translation": "Khách hàng mới ký hợp đồng mười hai tháng được nhận miễn phí gì? — Một cuộc kiểm tra hệ thống mạng.",
+        "explanation": "Câu gần cuối nêu khách mới ký hợp đồng mười hai tháng trước 30 tháng 6 được kiểm tra mạng miễn phí trị giá 450 đô và không mất phí cài đặt. Báo cáo theo quý chỉ có trong gói Growth, còn kỹ thuật viên thứ hai và máy in thay thế không được nhắc đến.",
+        "vocab": [["audit", "n", "kiểm tra, đánh giá"], ["setup fee", "n", "phí cài đặt"], ["agreement", "n", "hợp đồng"], ["quarterly", "adj", "hàng quý"]]
+      },
+      {
+        "n": 154,
+        "q": "What is suggested about a business with 20 devices on the Standard Plan?",
+        "options": [
+          "It must upgrade to the Growth Plan.",
+          "It will pay an additional monthly charge.",
+          "It will receive free on-site visits.",
+          "It cannot use remote support."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về một doanh nghiệp có 20 thiết bị dùng gói Standard? — Doanh nghiệp đó sẽ phải trả thêm một khoản phí hàng tháng.",
+        "explanation": "Gói Standard hỗ trợ tối đa 15 thiết bị và tính 6 đô mỗi thiết bị thêm mỗi tháng, nên 20 thiết bị đồng nghĩa phải trả thêm cho 5 thiết bị. Bài không bắt buộc nâng lên gói Growth, và hỗ trợ từ xa vẫn nằm trong gói.",
+        "vocab": [["additional", "adj", "thêm"], ["device", "n", "thiết bị"], ["remote", "adj", "từ xa"], ["upgrade", "v", "nâng cấp"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following article:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ARTICLE</p><p class=\"font-bold text-center\">Harborview Foods to Open Second Plant in Millbrook County</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Harborview Foods announced Tuesday that it will open a second processing plant in Millbrook County, a move expected to create 60 full-time jobs by the end of next year.</p><p class=\"mt-2\">The $12 million project received a $1.5 million grant from the state's rural development fund. In exchange, the company must retain all of its current employees for at least three years and hire at least half of the new workers from the county.</p><p class=\"mt-2\">Plant manager Denise Alvarado said the company will work with Millbrook Community College to design a six-week training program for production line staff. “We would rather train people who already live here than recruit from three states away,” she said.</p><p class=\"mt-2\">Local officials welcomed the news. The county's unemployment rate has stayed above the state average for four years, and the plant will become the largest private employer in the area.</p><p class=\"mt-2\">Construction is scheduled to begin in March. Harborview currently employs 140 people at its original facility in Dover, where it has operated since 1998.</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "What is the article mainly about?",
+        "options": [
+          "A company's plan to expand and add jobs",
+          "A college's new training program",
+          "A county's effort to lower taxes",
+          "A factory that is closing in Dover"
+        ],
+        "answer": "A",
+        "translation": "Bài báo chủ yếu nói về điều gì? — Kế hoạch mở rộng và tạo thêm việc làm của một công ty.",
+        "explanation": "Bài tập trung vào việc Harborview Foods mở nhà máy thứ hai, tạo 60 việc làm, nhận trợ cấp và xây dựng từ tháng 3. Chương trình đào tạo chỉ là một chi tiết, và bài không nói nhà máy Dover đóng cửa.",
+        "vocab": [["plant", "n", "nhà máy"], ["expand", "v", "mở rộng"], ["full-time", "adj", "toàn thời gian"], ["facility", "n", "cơ sở"]]
+      },
+      {
+        "n": 156,
+        "q": "What must Harborview Foods do to receive the state grant?",
+        "options": [
+          "Build its plant within six months",
+          "Hire at least half of its new workers locally",
+          "Move its Dover operation to Millbrook",
+          "Pay back the money within three years"
+        ],
+        "answer": "B",
+        "translation": "Harborview Foods phải làm gì để nhận trợ cấp của bang? — Tuyển ít nhất một nửa số lao động mới từ địa phương.",
+        "explanation": "Bài nêu điều kiện của khoản trợ cấp 1,5 triệu đô: giữ toàn bộ nhân viên hiện tại ít nhất ba năm và tuyển ít nhất một nửa số nhân viên mới từ trong quận. Bài không đặt ra thời hạn sáu tháng, không yêu cầu chuyển nhà máy Dover và không nói phải hoàn tiền.",
+        "vocab": [["grant", "n", "khoản trợ cấp"], ["retain", "v", "giữ lại"], ["in exchange", "phrase", "đổi lại"], ["county", "n", "quận"]]
+      },
+      {
+        "n": 157,
+        "q": "Why will Harborview work with Millbrook Community College?",
+        "options": [
+          "To prepare local residents for the new positions",
+          "To sell part of the plant site to the college",
+          "To help the college build a new cafeteria",
+          "To recruit managers from other states"
+        ],
+        "answer": "A",
+        "translation": "Vì sao Harborview hợp tác với trường cao đẳng cộng đồng Millbrook? — Để chuẩn bị cho cư dân địa phương đảm nhận các vị trí mới.",
+        "explanation": "Giám đốc nhà máy nói công ty muốn đào tạo những người đang sống tại đây hơn là tuyển từ nơi xa, nên chương trình sáu tuần nhằm trang bị kỹ năng cho lao động địa phương. Bài không đề cập việc bán đất, xây nhà ăn hay tuyển quản lý từ bang khác.",
+        "vocab": [["train", "v", "đào tạo"], ["resident", "n", "cư dân"], ["recruit", "v", "tuyển dụng"], ["unemployment", "n", "tình trạng thất nghiệp"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following schedule:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SCHEDULE</p><p class=\"font-bold text-center\">Riverdale Chamber of Commerce — Small Business Expo</p><p class=\"text-center\">Saturday, May 17 • Grand Hall, 400 Market Street</p><p class=\"text-center\">The $40 expo pass covers all sessions, morning coffee, and lunch.</p><table class=\"w-full text-left border-collapse mt-3\"><thead><tr class=\"border-b border-neutral-400\"><th class=\"py-1 pr-2\">Time</th><th class=\"py-1 pr-2\">Session</th><th class=\"py-1\">Location</th></tr></thead><tbody><tr><td class=\"py-1 pr-2\">8:30 a.m.</td><td class=\"py-1 pr-2\">Registration and coffee</td><td class=\"py-1\">Lobby</td></tr><tr><td class=\"py-1 pr-2\">9:15 a.m.</td><td class=\"py-1 pr-2\">Opening remarks — Mayor Linda Chen</td><td class=\"py-1\">Grand Hall</td></tr><tr><td class=\"py-1 pr-2\">10:00 a.m.</td><td class=\"py-1 pr-2\">Workshop A: Online marketing on a small budget</td><td class=\"py-1\">Room 201</td></tr><tr><td class=\"py-1 pr-2\">10:00 a.m.</td><td class=\"py-1 pr-2\">Workshop B: Managing cash flow</td><td class=\"py-1\">Room 205</td></tr><tr><td class=\"py-1 pr-2\">11:30 a.m.</td><td class=\"py-1 pr-2\">Panel: Hiring your first employees</td><td class=\"py-1\">Grand Hall</td></tr><tr><td class=\"py-1 pr-2\">12:30 p.m.</td><td class=\"py-1 pr-2\">Lunch</td><td class=\"py-1\">Terrace</td></tr><tr><td class=\"py-1 pr-2\">1:45 p.m.</td><td class=\"py-1 pr-2\">Workshop A (repeat)</td><td class=\"py-1\">Room 201</td></tr><tr><td class=\"py-1 pr-2\">1:45 p.m.</td><td class=\"py-1 pr-2\">Workshop C: Negotiating with suppliers</td><td class=\"py-1\">Room 205</td></tr><tr><td class=\"py-1 pr-2\">3:00 p.m.</td><td class=\"py-1 pr-2\">Keynote: “Growing without borrowing” — André Villalobos</td><td class=\"py-1\">Grand Hall</td></tr><tr><td class=\"py-1 pr-2\">4:00 p.m.</td><td class=\"py-1 pr-2\">Networking reception</td><td class=\"py-1\">Lobby</td></tr></tbody></table><p class=\"mt-2\">Workshops are limited to 30 participants. Sign up for workshops at the registration desk when you arrive. Parking in the lot behind Grand Hall is free for attendees.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "What time does the panel discussion begin?",
+        "options": [
+          "10:00 a.m.",
+          "11:30 a.m.",
+          "1:45 p.m.",
+          "3:00 p.m."
+        ],
+        "answer": "B",
+        "translation": "Phiên thảo luận bắt đầu lúc mấy giờ? — 11 giờ 30 phút sáng.",
+        "explanation": "Bảng lịch ghi phiên Panel: Hiring your first employees lúc 11:30 a.m. tại Grand Hall. Các mốc 10:00, 1:45 và 3:00 là giờ của các hội thảo và bài phát biểu kết thúc.",
+        "vocab": [["panel", "n", "phiên thảo luận"], ["session", "n", "phiên, buổi"], ["attendee", "n", "người tham dự"], ["registration", "n", "việc đăng ký"]]
+      },
+      {
+        "n": 159,
+        "q": "All of the following take place in the Grand Hall EXCEPT",
+        "options": [
+          "the opening remarks",
+          "the panel on hiring employees",
+          "the 10:00 a.m. workshops",
+          "the closing keynote"
+        ],
+        "answer": "C",
+        "translation": "Tất cả các hoạt động sau đều diễn ra ở Grand Hall NGOẠI TRỪ — các hội thảo lúc 10 giờ sáng.",
+        "explanation": "Bảng lịch ghi phát biểu khai mạc, phiên thảo luận và bài phát biểu kết thúc đều ở Grand Hall, còn hai hội thảo lúc 10 giờ diễn ra ở Room 201 và Room 205.",
+        "vocab": [["remarks", "n", "lời phát biểu"], ["keynote", "n", "bài phát biểu chính"], ["closing", "adj", "kết thúc"], ["hall", "n", "hội trường"]]
+      },
+      {
+        "n": 160,
+        "q": "What can be inferred about Workshop A?",
+        "options": [
+          "It is the most popular workshop of the day.",
+          "It is offered twice so attendees can choose a time.",
+          "It is led by the mayor of Riverdale.",
+          "It is held outside the main building."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về Hội thảo A? — Hội thảo được tổ chức hai lần để người tham dự chọn thời điểm phù hợp.",
+        "explanation": "Hội thảo A xuất hiện lúc 10:00 sáng và lặp lại lúc 1:45 chiều cùng phòng 201, cho thấy ban tổ chức tạo cơ hội thứ hai cho người bỏ lỡ buổi sáng. Lịch không nói đây là hội thảo đông nhất, không ghi thị trưởng dẫn dắt và địa điểm vẫn trong tòa nhà.",
+        "vocab": [["repeat", "n", "buổi lặp lại"], ["attendee", "n", "người tham dự"], ["choose", "v", "chọn"], ["session", "n", "buổi, phiên"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEETING MINUTES</p><p class=\"font-bold text-center\">Westbrook Furniture — Marketing Team</p><p class=\"text-center\">March 6, 2:00–3:15 p.m., Conference Room B</p><p class=\"text-center\">Present: Lena Ortiz (chair), Marco Silva, Priya Nair, Tom Becker, Aisha Rahman, Jon Park</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\"><strong>1. Spring catalog.</strong> The printer returned the photo files because several images were below the required resolution. Lena will resend corrected images by March 10. The catalog's print date moves from March 20 to April 3, and delivery to customers is now expected in mid-April. Lena will check color proofs before the full run.</p><p class=\"mt-2\"><strong>2. Trade show.</strong> Booth space for the May 12–14 Home Goods Expo is confirmed. The team approved $8,000 for the booth, banners, and samples. Marco will order banners by March 20. The group agreed to replace the usual giveaway pens with reusable cotton tote bags, which cost slightly more but are more likely to be kept.</p><p class=\"mt-2\"><strong>3. Website.</strong> Tom reported that site traffic fell 12 percent last quarter. The team decided to postpone the full redesign until the third quarter and to focus first on updating product pages.</p><p class=\"mt-2\"><strong>4. Next meeting:</strong> April 2, 2:00 p.m.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "What is the purpose of the document?",
+        "options": [
+          "To record discussions and decisions from a meeting",
+          "To advertise a trade show booth",
+          "To propose a new website design",
+          "To report the company's quarterly profits"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của tài liệu là gì? — Ghi lại các thảo luận và quyết định của một cuộc họp.",
+        "explanation": "Tài liệu có người chủ trì, thành phần tham dự, các mục bàn luận và quyết định cụ thể, tức là biên bản cuộc họp. Bài không quảng cáo gian hàng, không đề xuất thiết kế mới mà chỉ hoãn việc đó, và không nêu lợi nhuận quý.",
+        "vocab": [["minutes", "n", "biên bản cuộc họp"], ["decision", "n", "quyết định"], ["chair", "n", "người chủ trì"], ["quarter", "n", "quý"]]
+      },
+      {
+        "n": 162,
+        "q": "What did the team decide to give away at the trade show instead of pens?",
+        "options": [
+          "Printed catalogs",
+          "Cotton tote bags",
+          "Product samples",
+          "Booth photographs"
+        ],
+        "answer": "B",
+        "translation": "Nhóm quyết định tặng gì tại hội chợ thay cho bút? — Túi vải cotton.",
+        "explanation": "Mục Trade show ghi nhóm đồng ý thay bút tặng thông thường bằng túi vải cotton có thể tái sử dụng vì dù đắt hơn một chút nhưng khách dễ giữ lại. Catalog, mẫu sản phẩm và ảnh không được nêu là quà tặng thay thế.",
+        "vocab": [["giveaway", "n", "quà tặng"], ["reusable", "adj", "dùng lại được"], ["tote bag", "n", "túi vải"], ["booth", "n", "gian hàng"]]
+      },
+      {
+        "n": 163,
+        "q": "What can be inferred about the spring catalog?",
+        "options": [
+          "It will reach customers later than originally planned.",
+          "It will be printed without photographs.",
+          "It will be handed out only at the trade show.",
+          "It will be produced by a different printer."
+        ],
+        "answer": "A",
+        "translation": "Có thể suy ra gì về catalog mùa xuân? — Khách hàng sẽ nhận được nó muộn hơn kế hoạch ban đầu.",
+        "explanation": "Ngày in bị đẩy từ 20 tháng 3 sang 3 tháng 4 và thời điểm giao cho khách giờ là giữa tháng 4, nên catalog đến tay khách muộn hơn dự kiến. Biên bản vẫn nói về ảnh và nhà in cũ, không nói bỏ ảnh hay đổi nhà in, cũng không giới hạn việc phát tại hội chợ.",
+        "vocab": [["print date", "n", "ngày in"], ["proof", "n", "bản in thử"], ["resolution", "n", "độ phân giải"], ["delivery", "n", "việc giao hàng"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following invoice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INVOICE</p><p class=\"font-bold text-center\">Summit Office Interiors</p><p class=\"text-center\">Invoice No. 20841 • Date: September 12</p><p class=\"text-center\">Bill to: Larkin &amp; Cole Accounting, 88 Harbor Road, Suite 300</p><table class=\"w-full text-left border-collapse mt-3\"><thead><tr class=\"border-b border-neutral-400\"><th class=\"py-1 pr-2\">Item</th><th class=\"py-1 pr-2\">Qty</th><th class=\"py-1 pr-2\">Unit price</th><th class=\"py-1\">Amount</th></tr></thead><tbody><tr><td class=\"py-1 pr-2\">Ergonomic desk chair (Model E-40)</td><td class=\"py-1 pr-2\">12</td><td class=\"py-1 pr-2\">$185.00</td><td class=\"py-1\">$2,220.00</td></tr><tr><td class=\"py-1 pr-2\">Height-adjustable desk</td><td class=\"py-1 pr-2\">6</td><td class=\"py-1 pr-2\">$410.00</td><td class=\"py-1\">$2,460.00</td></tr><tr><td class=\"py-1 pr-2\">Assembly service</td><td class=\"py-1 pr-2\">6</td><td class=\"py-1 pr-2\">$45.00</td><td class=\"py-1\">$270.00</td></tr><tr><td class=\"py-1 pr-2\">Delivery</td><td class=\"py-1 pr-2\">1</td><td class=\"py-1 pr-2\">$120.00</td><td class=\"py-1\">$120.00</td></tr><tr class=\"border-t border-neutral-400\"><td class=\"py-1 pr-2\" colspan=\"3\">Subtotal</td><td class=\"py-1\">$5,070.00</td></tr><tr><td class=\"py-1 pr-2\" colspan=\"3\">Tax (8%)</td><td class=\"py-1\">$405.60</td></tr><tr><td class=\"py-1 pr-2 font-bold\" colspan=\"3\">Total due</td><td class=\"py-1 font-bold\">$5,475.60</td></tr></tbody></table><p class=\"mt-2\">Assembly was completed on September 10 by our own technicians. All chairs include a five-year warranty on the frame and a two-year warranty on upholstery.</p><p class=\"mt-2\"><strong>Terms:</strong> Payment is due within 30 days, by October 12. A 2 percent discount is available if the full amount is paid within 10 days of the invoice date. Furniture may be returned within 14 days only if it arrives damaged; delivery charges are not refundable. Please quote the invoice number with any payment. Questions? Contact billing@summit.example.com or call 555-0177.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "How much is the total amount due?",
+        "options": [
+          "$5,070.00",
+          "$5,475.60",
+          "$4,950.00",
+          "$5,190.00"
+        ],
+        "answer": "B",
+        "translation": "Tổng số tiền phải trả là bao nhiêu? — 5.475,60 đô la.",
+        "explanation": "Bảng hóa đơn ghi tạm tính 5.070,00 đô, thuế 8% là 405,60 đô và tổng phải trả 5.475,60 đô. Con số 5.070,00 chỉ là tạm tính trước thuế; các mức còn lại không xuất hiện trong hóa đơn.",
+        "vocab": [["subtotal", "n", "tạm tính"], ["tax", "n", "thuế"], ["amount", "n", "số tiền"], ["invoice", "n", "hóa đơn"]]
+      },
+      {
+        "n": 165,
+        "q": "What can Larkin & Cole Accounting do if it pays the full amount on September 20?",
+        "options": [
+          "Deduct 2 percent from the total",
+          "Delay payment until November",
+          "Avoid paying the delivery fee",
+          "Return the desks without charge"
+        ],
+        "answer": "A",
+        "translation": "Larkin & Cole Accounting có thể làm gì nếu thanh toán đủ vào ngày 20 tháng 9? — Trừ đi 2% trên tổng số tiền.",
+        "explanation": "Điều khoản cho biết nếu trả đủ trong vòng 10 ngày kể từ ngày lập hóa đơn 12 tháng 9 thì được giảm 2%, tức là trả trước ngày 22 tháng 9. Ngày 20 tháng 9 nằm trong hạn đó; hóa đơn không cho lùi thanh toán, miễn phí giao hàng hay đổi trả miễn phí.",
+        "vocab": [["discount", "n", "khoản giảm giá"], ["due", "adj", "đến hạn"], ["within", "prep", "trong vòng"], ["refundable", "adj", "có thể hoàn lại"]]
+      },
+      {
+        "n": 166,
+        "q": "Under what condition can the furniture be returned?",
+        "options": [
+          "If the buyer orders the wrong model",
+          "If the return is made within 30 days",
+          "If the items arrive damaged",
+          "If the assembly service is refused"
+        ],
+        "answer": "C",
+        "translation": "Trong điều kiện nào thì đồ nội thất có thể được trả lại? — Nếu hàng giao đến bị hư hỏng.",
+        "explanation": "Điều khoản nêu đồ nội thất chỉ được trả trong 14 ngày và chỉ khi giao đến bị hỏng; phí giao hàng không được hoàn. Hóa đơn không cho đổi vì đặt sai mẫu, không gia hạn trả hàng 30 ngày và không liên quan đến việc từ chối dịch vụ lắp ráp.",
+        "vocab": [["return", "v", "trả lại"], ["damaged", "adj", "bị hư hỏng"], ["charge", "n", "khoản phí"], ["warranty", "n", "bảo hành"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following review:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">PRODUCT REVIEW</p><p class=\"font-bold text-center\">BrewMate 3000 Commercial Coffee Maker</p><p class=\"text-center\">Reviewed by Dana Reyes, office manager • Rating: 4 out of 5</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">We installed the BrewMate 3000 in our 20-person office four months ago, and it has become the most used machine in the building. It brews a full pot in under four minutes, and the sturdy stainless body has survived daily use without a scratch.</p><p class=\"mt-2\">The 2.5-liter tank is the main weakness. On busy mornings someone has to refill it by 10 a.m., and the machine stops until the tank is filled. The descaling reminder flashes every 60 days; it is easy to ignore, but the one time we did, the coffee started tasting flat.</p><p class=\"mt-2\">Our first unit arrived with a grinder that sounded like a small aircraft. Customer service sent a replacement burr set within two days at no charge, and the noise dropped noticeably.</p><p class=\"mt-2\">At $399, the BrewMate is not cheap, but we calculated that it replaced about $180 of café purchases each month, so it paid for itself quickly. I would recommend it to any office with fewer than 25 people; larger teams should look at a model with a bigger tank.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What is the purpose of the review?",
+        "options": [
+          "To compare prices at local cafés",
+          "To share an opinion after using a product",
+          "To explain how to repair a coffee grinder",
+          "To advertise a new office supply store"
+        ],
+        "answer": "B",
+        "translation": "Mục đích của bài đánh giá là gì? — Chia sẻ ý kiến sau khi sử dụng một sản phẩm.",
+        "explanation": "Người viết kể trải nghiệm bốn tháng với máy pha cà phê, nêu ưu điểm, nhược điểm, chấm 4/5 và khuyên dùng cho văn phòng nhỏ, tức là đánh giá sản phẩm. Bài không so sánh giá quán cà phê, không hướng dẫn sửa chữa và không quảng cáo cửa hàng.",
+        "vocab": [["review", "n", "bài đánh giá"], ["rating", "n", "điểm đánh giá"], ["recommend", "v", "khuyên dùng"], ["purchase", "n", "việc mua hàng"]]
+      },
+      {
+        "n": 168,
+        "q": "What problem did customer service resolve?",
+        "options": [
+          "A leaking water tank",
+          "A broken descaling reminder",
+          "A noisy grinder",
+          "A damaged stainless body"
+        ],
+        "answer": "C",
+        "translation": "Bộ phận chăm sóc khách hàng đã giải quyết vấn đề gì? — Một bộ nghiền cà phê gây tiếng ồn.",
+        "explanation": "Người viết cho biết chiếc máy đầu tiên có bộ nghiền kêu như máy bay nhỏ, và bộ phận chăm sóc khách hàng gửi bộ lưỡi nghiền thay thế trong hai ngày, sau đó tiếng ồn giảm rõ rệt. Bình nước và thân máy không bị hỏng, còn lời nhắc khử cặn chỉ gây khó chịu chứ không hỏng.",
+        "vocab": [["grinder", "n", "bộ nghiền"], ["replacement", "n", "phần thay thế"], ["noise", "n", "tiếng ồn"], ["customer service", "n", "bộ phận chăm sóc khách hàng"]]
+      },
+      {
+        "n": 169,
+        "q": "What does the reviewer imply about using the machine in a 40-person office?",
+        "options": [
+          "It would require too many refills.",
+          "It would brew coffee too slowly.",
+          "It would be too expensive to maintain.",
+          "It would not fit on a standard counter."
+        ],
+        "answer": "A",
+        "translation": "Người đánh giá ngụ ý gì về việc dùng máy trong văn phòng 40 người? — Máy sẽ phải tiếp nước quá nhiều lần.",
+        "explanation": "Người viết khuyên dùng máy cho văn phòng dưới 25 người và nói nhóm đông hơn nên chọn loại có bình lớn hơn, vì bình 2,5 lít đã phải tiếp nước ngay buổi sáng ở văn phòng 20 người. Bài ca ngợi tốc độ pha dưới bốn phút, không nói chi phí bảo trì cao hay kích thước không vừa quầy.",
+        "vocab": [["brew", "v", "pha (cà phê)"], ["refill", "n", "lần tiếp nước"], ["tank", "n", "bình chứa"], ["larger", "adj", "lớn hơn"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following letter:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LETTER</p><p class=\"text-right\">Riverside Business Alliance<br>1200 Canal Street, Riverside</p><p>October 3</p><p>Ms. Adaeze Okafor<br>Director of Operations, Kestrel Logistics</p><p>Dear Ms. Okafor,</p><p class=\"mt-2\">On behalf of the Riverside Business Alliance, I am delighted to invite you to our annual Distinguished Service Awards dinner, where we will recognize you for your work connecting small suppliers with larger manufacturers in the region.</p><p class=\"mt-2\">The dinner will be held on Thursday, November 6, in the Crystal Ballroom of the Fairmont Hotel. A reception begins at 6:30 p.m., and dinner is served at 7:00. Business attire is requested, and complimentary parking is available in the hotel garage.</p><p class=\"mt-2\">Each honoree may bring up to four guests. Please reply by October 24 with the names of your guests and any meal requirements, so that we can give the hotel final numbers. If you would like a table reserved for your group, let us know and we will arrange it.</p><p class=\"mt-2\">We hope you will join us for an evening celebrating the people who keep our local economy strong.</p><p>Sincerely,<br>Marcus Feld<br>President, Riverside Business Alliance<br>events@riversidealliance.example.com</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "What is the purpose of the letter?",
+        "options": [
+          "To invite someone to an awards dinner",
+          "To confirm a hotel reservation",
+          "To request a donation from a logistics firm",
+          "To offer someone a position at the alliance"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của lá thư là gì? — Mời ai đó dự một bữa tiệc trao giải.",
+        "explanation": "Thư mời bà Okafor đến bữa tiệc thường niên Distinguished Service Awards, nơi bà sẽ được vinh danh. Thư không xác nhận đặt phòng, không xin tài trợ và không đề nghị tuyển dụng.",
+        "vocab": [["invite", "v", "mời"], ["recognize", "v", "vinh danh, ghi nhận"], ["annual", "adj", "thường niên"], ["honoree", "n", "người được vinh danh"]]
+      },
+      {
+        "n": 171,
+        "q": "What is Ms. Okafor asked to do by October 24?",
+        "options": [
+          "Send a copy of her business license",
+          "Pay for her guests' meals",
+          "Reserve a hotel room for the night",
+          "Provide guest names and meal requirements"
+        ],
+        "answer": "D",
+        "translation": "Bà Okafor được đề nghị làm gì trước ngày 24 tháng 10? — Cung cấp tên khách mời và yêu cầu về bữa ăn.",
+        "explanation": "Thư đề nghị hồi âm trước 24 tháng 10 kèm tên khách mời và các yêu cầu về bữa ăn để ban tổ chức báo số lượng cuối cùng cho khách sạn. Thư không yêu cầu giấy phép kinh doanh, không nói khách phải trả tiền ăn và không yêu cầu đặt phòng ngủ.",
+        "vocab": [["reply", "v", "hồi âm"], ["requirement", "n", "yêu cầu"], ["guest", "n", "khách mời"], ["reserve", "v", "đặt trước"]]
+      },
+      {
+        "n": 172,
+        "q": "What can be inferred about an honoree who wants to bring six family members?",
+        "options": [
+          "They will need to pay for extra parking.",
+          "They cannot invite all six as guests.",
+          "They must request approval from the hotel.",
+          "They will receive additional tickets at the door."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về một người được vinh danh muốn đưa sáu người thân? — Họ không thể mời cả sáu người với tư cách khách.",
+        "explanation": "Thư giới hạn mỗi người được vinh danh chỉ được mời tối đa bốn khách, nên sáu người là vượt mức. Thư không nói phải trả thêm phí đỗ xe, không cần khách sạn phê duyệt và không hứa phát thêm vé tại cửa.",
+        "vocab": [["guest", "n", "khách mời"], ["dinner", "n", "bữa tiệc tối"], ["up to", "phrase", "tối đa"], ["arrange", "v", "sắp xếp"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following procedure:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">PROCEDURE</p><p class=\"font-bold text-center\">Halden Media — Facilities Department</p><p class=\"text-center\">Borrowing Equipment for Off-Site Events</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Follow these steps when you need cameras, projectors, or audio equipment outside the building.</p><ol class=\"list-decimal pl-6\"><li>Submit the equipment request form at least ten business days before your event. Requests with shorter notice will be filled only if the item is in stock.</li><li>List every item you need, including its asset tag number. Any request totaling more than $1,000 also requires your supervisor's signature.</li><li>Collect the equipment from storage room B2 between 8:00 and 10:00 a.m. on the last working day before the event. Bring your employee ID; staff will not release items without it.</li><li>Return everything by 10:00 a.m. on the next working day. Equipment must be cleaned and fully charged. A $15 fee is charged for each missing cable.</li><li>Report damage or loss within 24 hours. If no report is received, the requesting department will be billed for the full cost of repairs.</li></ol><p class=\"mt-2\">Bookings are recorded in the facilities calendar, so check availability before promising equipment to a client.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "What is the purpose of the document?",
+        "options": [
+          "To explain how to borrow equipment for events",
+          "To list the prices of cameras and projectors",
+          "To report damage to company property",
+          "To announce new storage room hours"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của tài liệu là gì? — Giải thích cách mượn thiết bị cho các sự kiện.",
+        "explanation": "Tài liệu hướng dẫn từng bước gửi phiếu yêu cầu, liệt kê thiết bị, nhận tại phòng kho B2, hoàn trả và báo hư hỏng khi mượn thiết bị ra ngoài. Bài không nêu giá bán, không phải mẫu báo hỏng và không công bố giờ mở cửa mới.",
+        "vocab": [["borrow", "v", "mượn"], ["procedure", "n", "quy trình"], ["equipment", "n", "thiết bị"], ["availability", "n", "sự sẵn có"]]
+      },
+      {
+        "n": 174,
+        "q": "All of the following are required when collecting equipment EXCEPT",
+        "options": [
+          "bringing an employee ID",
+          "paying a deposit",
+          "going to storage room B2",
+          "arriving between 8:00 and 10:00 a.m."
+        ],
+        "answer": "B",
+        "translation": "Tất cả các yêu cầu sau đều cần khi nhận thiết bị NGOẠI TRỪ — trả tiền đặt cọc.",
+        "explanation": "Bước 3 yêu cầu nhận tại phòng kho B2 trong khung 8–10 giờ sáng và mang theo thẻ nhân viên, nhưng toàn bộ quy trình không hề nhắc đến tiền đặt cọc. Vì vậy khoản đặt cọc là yêu cầu không tồn tại trong tài liệu.",
+        "vocab": [["deposit", "n", "tiền đặt cọc"], ["storage", "n", "kho chứa"], ["release", "v", "giao, phát"], ["collect", "v", "nhận, thu gom"]]
+      },
+      {
+        "n": 175,
+        "q": "Why is it advisable to submit the request well in advance?",
+        "options": [
+          "To avoid the $15 cable fee",
+          "To get a discount on the equipment",
+          "To increase the chance that the item is available",
+          "To avoid having a supervisor sign the form"
+        ],
+        "answer": "C",
+        "translation": "Vì sao nên gửi phiếu yêu cầu sớm? — Để tăng khả năng thiết bị còn sẵn.",
+        "explanation": "Tài liệu nêu yêu cầu gửi trước ít nhất mười ngày làm việc, còn phiếu đến muộn chỉ được đáp ứng nếu món đồ còn trong kho, nên gửi sớm giúp chắc chắn có thiết bị. Việc gửi sớm không liên quan đến phí dây cáp, không có giảm giá và không miễn chữ ký của quản lý.",
+        "vocab": [["form", "n", "biểu mẫu"], ["notice", "n", "thông báo trước"], ["in stock", "phrase", "còn hàng trong kho"], ["supervisor", "n", "người quản lý trực tiếp"]]
+      }
+    ]
+  }
+]

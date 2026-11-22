@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "reception_desk",
+    "imageCaption": "Một nữ nhân viên lễ tân đang ngồi sau quầy và gõ bàn phím máy tính trước màn hình trong sảnh văn phòng hiện đại.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A receptionist is typing on a computer behind a counter.",
+      "A visitor is handing a package to a security guard.",
+      "Some office chairs are being stacked in the hallway.",
+      "A technician is fixing a monitor near the front door."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên lễ tân đang gõ máy tính phía sau quầy.\n(B) Một khách tham quan đang đưa gói hàng cho nhân viên bảo vệ.\n(C) Một vài chiếc ghế văn phòng đang được xếp chồng ngoài hành lang.\n(D) Một kỹ thuật viên đang sửa màn hình gần cửa chính.",
+    "explanation": "Phương án (A) mô tả đúng hành động nhân viên lễ tân đang ngồi làm việc với máy tính sau quầy. Các phương án (B), (C), (D) nói về việc giao gói hàng, xếp ghế và sửa màn hình đều không đúng ngữ cảnh.",
+    "vocab": [
+      ["receptionist", "n", "nhân viên lễ tân"],
+      ["counter", "n", "quầy (lễ tân, giao dịch)"],
+      ["stack", "v", "xếp chồng lên"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "kitchen_counter",
+    "imageCaption": "Một đầu bếp mặc đồng phục bếp đang dùng hai tay bày biện các đĩa thức ăn lên mặt quầy bếp inox.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A customer is paying for a meal at a cash register.",
+      "Plates of food are being arranged on a kitchen counter.",
+      "A waiter is wiping down an empty dining table.",
+      "Several pots are being washed in a deep sink."
+    ],
+    "correct": "B",
+    "translation": "(A) Một khách hàng đang thanh toán bữa ăn tại máy tính tiền.\n(B) Các đĩa thức ăn đang được bày lên quầy bếp.\n(C) Một bồi bàn đang lau sạch chiếc bàn ăn trống.\n(D) Vài chiếc nồi đang được rửa trong bồn rửa sâu.",
+    "explanation": "Phương án (B) dùng bị động hiện tại tiếp diễn 'are being arranged' mô tả chính xác việc các đĩa thức ăn được bày biện trên quầy bếp. (A), (C), (D) mô tả các hành động thanh toán, lau bàn hay rửa nồi không khớp.",
+    "vocab": [
+      ["arrange", "v", "sắp xếp, bày biện"],
+      ["cash register", "n", "máy tính tiền"],
+      ["wipe down", "phr", "lau sạch"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "library_shelf",
+    "imageCaption": "Một người đàn ông đứng trong lối đi thư viện, đang giơ tay với lấy một cuốn sách trên kệ cao.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A woman is carrying a pile of magazines toward a desk.",
+      "Books are being packed into cardboard boxes on the floor.",
+      "A man is reaching for a book on an upper shelf.",
+      "Students are reading newspapers together at a wooden table."
+    ],
+    "correct": "C",
+    "translation": "(A) Một phụ nữ đang ôm chồng tạp chí đi về phía bàn.\n(B) Sách đang được đóng vào các thùng các-tông trên sàn.\n(C) Một người đàn ông đang với tay lấy cuốn sách trên kệ cao.\n(D) Sinh viên đang cùng đọc báo tại một chiếc bàn gỗ.",
+    "explanation": "Phương án (C) diễn tả đúng động tác 'reaching for a book' (với tay lấy sách trên kệ cao). (A), (B) và (D) nhắc đến tạp chí, đóng thùng và đọc báo đều sai hành động.",
+    "vocab": [
+      ["reach for", "phr", "với tay lấy"],
+      ["upper", "adj", "ở phía trên, cao hơn"],
+      ["pile", "n", "chồng, đống"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "cafe_patio",
+    "imageCaption": "Những chiếc ghế gỗ được xếp quanh các bàn tròn nhỏ tại sân ngoài trời của một quán cà phê; phía sau có hai vị khách đang ngồi trò chuyện.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A gardener is watering potted plants along a brick wall.",
+      "Waiters are folding umbrellas before closing the cafe.",
+      "Customers are standing in line outside a bakery window.",
+      "Wooden chairs have been placed around small tables on a patio."
+    ],
+    "correct": "D",
+    "translation": "(A) Một người làm vườn đang tưới các chậu cây dọc theo tường gạch.\n(B) Nhân viên phục vụ đang gập ô trước khi đóng cửa quán cà phê.\n(C) Khách hàng đang xếp hàng bên ngoài cửa sổ tiệm bánh.\n(D) Những chiếc ghế gỗ đã được đặt quanh các bàn nhỏ ngoài sân.",
+    "explanation": "Phương án (D) dùng bị động hiện tại hoàn thành 'have been placed' để tả trạng thái bàn ghế gỗ được sắp xếp ngoài sân. Các câu (A), (B), (C) mô tả người tưới cây, gập ô và xếp hàng đều không có.",
+    "vocab": [
+      ["wooden", "adj", "bằng gỗ"],
+      ["patio", "n", "sân ngoài trời"],
+      ["potted plant", "n", "cây trồng trong chậu"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "garage_van",
+    "imageCaption": "Một thợ máy đang quỳ bên cạnh một chiếc xe tải giao hàng trong gara, kiểm tra bánh xe phía trước.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A mechanic is inspecting the front wheel of a delivery van.",
+      "Workers are loading heavy crates into the back of a truck.",
+      "A driver is pumping gas at a service station.",
+      "Two vans are parked side by side inside a garage."
+    ],
+    "correct": "A",
+    "translation": "(A) Một thợ máy đang kiểm tra bánh trước của xe tải giao hàng.\n(B) Công nhân đang chất các thùng gỗ nặng lên phía sau xe tải.\n(C) Một tài xế đang đổ xăng tại trạm dịch vụ.\n(D) Hai chiếc xe van đang đỗ cạnh nhau bên trong nhà xe.",
+    "explanation": "Phương án (A) mô tả đúng việc thợ máy kiểm tra bánh trước của xe tải giao hàng. Các phương án (B), (C) và (D) mô tả bốc xếp thùng hàng, đổ xăng và đỗ hai xe song song đều sai.",
+    "vocab": [
+      ["mechanic", "n", "thợ sửa xe, thợ máy"],
+      ["inspect", "v", "kiểm tra kỹ"],
+      ["delivery van", "n", "xe tải nhỏ giao hàng"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "airport_walkway",
+    "imageCaption": "Nhiều hành khách đang kéo vali có bánh xe đi ngang qua một dãy cửa hàng bên trong hành lang nhà ga sân bay.",
+    "imageUrl": "listening/images/lv2-test-01/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A clerk is checking tickets at a train platform gate.",
+      "Travelers are walking past a row of shops with rolling luggage.",
+      "Passengers are sitting quietly on benches near an exit sign.",
+      "A cleaner is sweeping the floor near an escalator."
+    ],
+    "correct": "B",
+    "translation": "(A) Một nhân viên đang kiểm tra vé tại cổng sân ga tàu hỏa.\n(B) Hành khách đang kéo hành lý đi ngang qua một dãy cửa hàng.\n(C) Hành khách đang ngồi yên lặng trên ghế băng gần biển lối ra.\n(D) Một nhân viên vệ sinh đang quét sàn gần thang cuốn.",
+    "explanation": "Phương án (B) diễn tả chính xác hành khách đang đi bộ qua dãy cửa hàng cùng vali kéo ('rolling luggage'). (A), (C) và (D) mô tả kiểm tra vé, ngồi trên ghế hoặc quét sàn đều không đúng.",
+    "vocab": [
+      ["traveler", "n", "hành khách, người đi lại"],
+      ["rolling luggage", "n", "vali kéo có bánh xe"],
+      ["escalator", "n", "thang cuốn"]
+    ]
+  }
+]

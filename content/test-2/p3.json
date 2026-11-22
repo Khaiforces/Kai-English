@@ -1,0 +1,2014 @@
+[
+  {
+    "id": 32,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "t2-p3-g1",
+    "audioScript": "Man: Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nWoman: Let me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nMan: Should I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nWoman: Returning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nMan: What about the signs for the store windows? They have the correct logo.\nWoman: Good—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "audioVoiceText": "Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nLet me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nShould I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nReturning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nWhat about the signs for the store windows? They have the correct logo.\nGood—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "questionText": "What problem does the man report?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The anniversary sale has been postponed."
+      },
+      {
+        "key": "B",
+        "text": "(B) The loyalty cards were printed incorrectly."
+      },
+      {
+        "key": "C",
+        "text": "(C) The store windows are too small for the signs."
+      },
+      {
+        "key": "D",
+        "text": "(D) The printer has not delivered the order."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông báo cáo vấn đề gì?\n(A) Buổi bán hàng kỷ niệm đã bị hoãn.\n(B) Thẻ khách hàng thân thiết được in sai.\n(C) Cửa sổ cửa hàng quá nhỏ so với biển hiệu.\n(D) Công ty in chưa giao đơn hàng.",
+    "explanation": "Đáp án đúng: B. Người đàn ông nói: “the design doesn't match the proof we approved”, sau đó người phụ nữ xác nhận logo sai màu và thiếu khẩu hiệu. Thẻ đã được giao nên D sai; buổi bán vẫn diễn ra vào thứ Sáu nên A sai; biển hiệu có logo đúng và không có vấn đề kích thước nên C sai.",
+    "vocab": [
+      {
+        "word": "loyalty card",
+        "pos": "n.",
+        "meaning": "thẻ khách hàng thân thiết"
+      },
+      {
+        "word": "proof",
+        "pos": "n.",
+        "meaning": "bản in duyệt thử"
+      },
+      {
+        "word": "tagline",
+        "pos": "n.",
+        "meaning": "khẩu hiệu"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "t2-p3-g1",
+    "audioScript": "Man: Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nWoman: Let me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nMan: Should I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nWoman: Returning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nMan: What about the signs for the store windows? They have the correct logo.\nWoman: Good—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "audioVoiceText": "Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nLet me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nShould I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nReturning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nWhat about the signs for the store windows? They have the correct logo.\nGood—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "questionText": "What does the woman suggest doing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Keeping the cards and asking for a discount"
+      },
+      {
+        "key": "B",
+        "text": "(B) Returning the cards to the printer"
+      },
+      {
+        "key": "C",
+        "text": "(C) Delaying the anniversary sale"
+      },
+      {
+        "key": "D",
+        "text": "(D) Ordering a new batch of signs"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị làm gì?\n(A) Giữ lại thẻ và yêu cầu giảm giá\n(B) Trả thẻ lại cho công ty in\n(C) Hoãn buổi bán hàng kỷ niệm\n(D) Đặt một lô biển hiệu mới",
+    "explanation": "Đáp án đúng: A. Người phụ nữ nói: “Call the printer and ask for a discount; we can use the cards as they are.” Cô ấy từ chối trả lại vì mất ít nhất một tuần nên B sai; không có ý định hoãn buổi bán nên C sai; biển hiệu đã có logo đúng nên không cần đặt mới, D sai.",
+    "vocab": [
+      {
+        "word": "discount",
+        "pos": "n.",
+        "meaning": "khoản giảm giá"
+      },
+      {
+        "word": "return",
+        "pos": "v.",
+        "meaning": "trả lại"
+      },
+      {
+        "word": "hand out",
+        "pos": "phr.",
+        "meaning": "phát ra, phân phát"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "t2-p3-g1",
+    "audioScript": "Man: Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nWoman: Let me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nMan: Should I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nWoman: Returning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nMan: What about the signs for the store windows? They have the correct logo.\nWoman: Good—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "audioVoiceText": "Ms. Alvarez, the printer delivered the new loyalty cards this morning, but the design doesn't match the proof we approved.\nLet me see... You're right. The logo is gray instead of navy, and the tagline is missing.\nShould I send them back? We're supposed to start handing them out at the anniversary sale on Friday.\nReturning them would take at least a week. Call the printer and ask for a discount; we can use the cards as they are.\nWhat about the signs for the store windows? They have the correct logo.\nGood—put those up on Thursday evening. And ask the staff to mention the loyalty program at checkout.",
+    "questionText": "When will the signs be put up?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Friday morning"
+      },
+      {
+        "key": "B",
+        "text": "(B) Saturday afternoon"
+      },
+      {
+        "key": "C",
+        "text": "(C) Wednesday evening"
+      },
+      {
+        "key": "D",
+        "text": "(D) Thursday evening"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Khi nào biển hiệu sẽ được treo lên?\n(A) Sáng thứ Sáu\n(B) Chiều thứ Bảy\n(C) Tối thứ Tư\n(D) Tối thứ Năm",
+    "explanation": "Đáp án đúng: D. Người phụ nữ nói: “put those up on Thursday evening”; “those” chỉ các biển hiệu cho cửa sổ cửa hàng vừa được nhắc đến. Thứ Sáu là ngày bắt đầu phát thẻ, không phải ngày treo biển, nên A sai; B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "put up",
+        "pos": "phr.",
+        "meaning": "treo lên"
+      },
+      {
+        "word": "checkout",
+        "pos": "n.",
+        "meaning": "quầy thanh toán"
+      },
+      {
+        "word": "mention",
+        "pos": "v.",
+        "meaning": "nhắc đến"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "t2-p3-g2",
+    "audioScript": "Woman: Daniel, have you finished reviewing the marketing budget for next quarter?\nMan: Almost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nWoman: I thought the trade show fee was already included in the original estimate.\nMan: It was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nWoman: Can we reduce the travel budget instead? We could book economy seats and take the early train.\nMan: We could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nWoman: Then let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nMan: That works. I'll update the spreadsheet and send it to you before noon.",
+    "audioVoiceText": "Daniel, have you finished reviewing the marketing budget for next quarter?\nAlmost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nI thought the trade show fee was already included in the original estimate.\nIt was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nCan we reduce the travel budget instead? We could book economy seats and take the early train.\nWe could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nThen let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nThat works. I'll update the spreadsheet and send it to you before noon.",
+    "questionText": "What is the main reason the budget is over the agreed amount?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The trade show fee was raised."
+      },
+      {
+        "key": "B",
+        "text": "(B) The sales team booked late flights."
+      },
+      {
+        "key": "C",
+        "text": "(C) Extra booth staff and a larger display were added."
+      },
+      {
+        "key": "D",
+        "text": "(D) The printed brochures cost more than expected."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Lý do chính khiến ngân sách vượt mức đã thống nhất là gì?\n(A) Phí hội chợ thương mại đã tăng.\n(B) Nhóm bán hàng đã đặt chuyến bay muộn.\n(C) Đã bổ sung thêm nhân viên gian hàng và một màn trưng bày lớn hơn.\n(D) Brochure in giấy tốn kém hơn dự kiến.",
+    "explanation": "Đáp án đúng: C. Người đàn ông giải thích: “we added two extra booth staff and a larger display. Those costs weren't in the first draft.” Phí hội chợ đã nằm trong dự toán ban đầu nên A sai; chưa có việc đặt vé máy bay muộn nên B sai; brochure in giấy mới chỉ là khoản đang cân nhắc cắt, chưa phải nguyên nhân vượt ngân sách, nên D sai.",
+    "vocab": [
+      {
+        "word": "budget",
+        "pos": "n.",
+        "meaning": "ngân sách"
+      },
+      {
+        "word": "estimate",
+        "pos": "n.",
+        "meaning": "dự toán"
+      },
+      {
+        "word": "booth",
+        "pos": "n.",
+        "meaning": "gian hàng"
+      },
+      {
+        "word": "display",
+        "pos": "n.",
+        "meaning": "màn trưng bày"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "t2-p3-g2",
+    "audioScript": "Woman: Daniel, have you finished reviewing the marketing budget for next quarter?\nMan: Almost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nWoman: I thought the trade show fee was already included in the original estimate.\nMan: It was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nWoman: Can we reduce the travel budget instead? We could book economy seats and take the early train.\nMan: We could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nWoman: Then let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nMan: That works. I'll update the spreadsheet and send it to you before noon.",
+    "audioVoiceText": "Daniel, have you finished reviewing the marketing budget for next quarter?\nAlmost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nI thought the trade show fee was already included in the original estimate.\nIt was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nCan we reduce the travel budget instead? We could book economy seats and take the early train.\nWe could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nThen let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nThat works. I'll update the spreadsheet and send it to you before noon.",
+    "questionText": "What does the woman propose?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Taking an earlier train"
+      },
+      {
+        "key": "B",
+        "text": "(B) Replacing printed brochures with a digital catalog"
+      },
+      {
+        "key": "C",
+        "text": "(C) Canceling the trade show"
+      },
+      {
+        "key": "D",
+        "text": "(D) Hiring fewer booth staff"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất điều gì?\n(A) Đi chuyến tàu sớm hơn\n(B) Thay brochure in giấy bằng danh mục kỹ thuật số\n(C) Hủy hội chợ thương mại\n(D) Thuê ít nhân viên gian hàng hơn",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói: “let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.” Chuyến tàu sớm từng được nêu nhưng bị loại vì đội bán hàng cần đến từ đêm trước, nên A sai; không ai đề nghị hủy hội chợ hay giảm nhân viên, nên C và D sai.",
+    "vocab": [
+      {
+        "word": "digital catalog",
+        "pos": "n.",
+        "meaning": "danh mục kỹ thuật số"
+      },
+      {
+        "word": "brochure",
+        "pos": "n.",
+        "meaning": "tài liệu quảng cáo"
+      },
+      {
+        "word": "propose",
+        "pos": "v.",
+        "meaning": "đề xuất"
+      },
+      {
+        "word": "cut",
+        "pos": "v.",
+        "meaning": "cắt giảm"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "t2-p3-g2",
+    "audioScript": "Woman: Daniel, have you finished reviewing the marketing budget for next quarter?\nMan: Almost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nWoman: I thought the trade show fee was already included in the original estimate.\nMan: It was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nWoman: Can we reduce the travel budget instead? We could book economy seats and take the early train.\nMan: We could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nWoman: Then let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nMan: That works. I'll update the spreadsheet and send it to you before noon.",
+    "audioVoiceText": "Daniel, have you finished reviewing the marketing budget for next quarter?\nAlmost. The total is about 8 percent over what we agreed on, mostly because of the trade show in Chicago.\nI thought the trade show fee was already included in the original estimate.\nIt was, but we added two extra booth staff and a larger display. Those costs weren't in the first draft.\nCan we reduce the travel budget instead? We could book economy seats and take the early train.\nWe could, but the sales team needs to arrive the night before. The earliest train gets in at ten.\nThen let's cut the printed brochures. A digital catalog would save us nearly three thousand dollars.\nThat works. I'll update the spreadsheet and send it to you before noon.",
+    "questionText": "When will the man send the updated spreadsheet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Before noon"
+      },
+      {
+        "key": "B",
+        "text": "(B) By the end of the week"
+      },
+      {
+        "key": "C",
+        "text": "(C) Tomorrow morning"
+      },
+      {
+        "key": "D",
+        "text": "(D) After the trade show"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Khi nào người đàn ông sẽ gửi bảng tính đã cập nhật?\n(A) Trước buổi trưa\n(B) Trước cuối tuần\n(C) Sáng mai\n(D) Sau hội chợ thương mại",
+    "explanation": "Đáp án đúng: A. Người đàn ông nói: “I'll update the spreadsheet and send it to you before noon.” Các mốc cuối tuần, sáng mai và sau hội chợ đều không được nhắc đến trong hội thoại.",
+    "vocab": [
+      {
+        "word": "spreadsheet",
+        "pos": "n.",
+        "meaning": "bảng tính"
+      },
+      {
+        "word": "update",
+        "pos": "v.",
+        "meaning": "cập nhật"
+      },
+      {
+        "word": "noon",
+        "pos": "n.",
+        "meaning": "buổi trưa"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "t2-p3-g3",
+    "audioScript": "Man: Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nWoman: Yes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nMan: That's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWoman: We're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nMan: Hmm, that might be awkward. Is there another hotel nearby that could take the rest?\nWoman: The Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nMan: Please do. And could you send the updated confirmation to my assistant?\nWoman: Certainly. I'll email it this afternoon.",
+    "audioVoiceText": "Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nYes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nThat's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWe're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nHmm, that might be awkward. Is there another hotel nearby that could take the rest?\nThe Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nPlease do. And could you send the updated confirmation to my assistant?\nCertainly. I'll email it this afternoon.",
+    "questionText": "What problem does the man have?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) His flight has been canceled."
+      },
+      {
+        "key": "B",
+        "text": "(B) The hotel has lost his reservation."
+      },
+      {
+        "key": "C",
+        "text": "(C) The conference has been moved to another date."
+      },
+      {
+        "key": "D",
+        "text": "(D) Four colleagues will arrive a day earlier than planned."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông gặp vấn đề gì?\n(A) Chuyến bay của ông ấy đã bị hủy.\n(B) Khách sạn đã làm mất đặt phòng của ông ấy.\n(C) Hội nghị đã được dời sang ngày khác.\n(D) Bốn đồng nghiệp sẽ đến sớm hơn kế hoạch một ngày.",
+    "explanation": "Đáp án đúng: D. Người đàn ông nói: “our flight was moved, so four of us will now arrive a day early.” Chuyến bay bị dời giờ chứ không bị hủy nên A sai; khách sạn vẫn thấy đặt phòng nên B sai; hội nghị vẫn diễn ra vào tháng sau nên C sai.",
+    "vocab": [
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "meaning": "đặt phòng"
+      },
+      {
+        "word": "check out",
+        "pos": "phr.",
+        "meaning": "trả phòng"
+      },
+      {
+        "word": "suite",
+        "pos": "n.",
+        "meaning": "phòng hạng sang"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "t2-p3-g3",
+    "audioScript": "Man: Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nWoman: Yes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nMan: That's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWoman: We're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nMan: Hmm, that might be awkward. Is there another hotel nearby that could take the rest?\nWoman: The Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nMan: Please do. And could you send the updated confirmation to my assistant?\nWoman: Certainly. I'll email it this afternoon.",
+    "audioVoiceText": "Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nYes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nThat's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWe're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nHmm, that might be awkward. Is there another hotel nearby that could take the rest?\nThe Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nPlease do. And could you send the updated confirmation to my assistant?\nCertainly. I'll email it this afternoon.",
+    "questionText": "What does the woman offer to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Upgrade all twelve rooms"
+      },
+      {
+        "key": "B",
+        "text": "(B) Cancel the wedding booking"
+      },
+      {
+        "key": "C",
+        "text": "(C) Contact another hotel and arrange a shuttle"
+      },
+      {
+        "key": "D",
+        "text": "(D) Change the group's check-out date"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị làm gì?\n(A) Nâng cấp cả mười hai phòng\n(B) Hủy đặt phòng của tiệc cưới\n(C) Liên hệ khách sạn khác và thu xếp xe đưa đón\n(D) Đổi ngày trả phòng của đoàn",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói: “The Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.” Cô ấy chỉ có hai phòng suite và một phòng đôi, không thể nâng cấp cả mười hai phòng, nên A sai; cô ấy không hủy tiệc cưới và ngày trả phòng vẫn là ngày mười bảy, nên B và D sai.",
+    "vocab": [
+      {
+        "word": "upgrade",
+        "pos": "v.",
+        "meaning": "nâng cấp"
+      },
+      {
+        "word": "arrange",
+        "pos": "v.",
+        "meaning": "thu xếp"
+      },
+      {
+        "word": "availability",
+        "pos": "n.",
+        "meaning": "khả năng còn phòng"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "t2-p3-g3",
+    "audioScript": "Man: Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nWoman: Yes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nMan: That's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWoman: We're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nMan: Hmm, that might be awkward. Is there another hotel nearby that could take the rest?\nWoman: The Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nMan: Please do. And could you send the updated confirmation to my assistant?\nWoman: Certainly. I'll email it this afternoon.",
+    "audioVoiceText": "Hello, I'm calling about the reservation for the Latham Group. We booked twelve rooms for the conference next month.\nYes, I see the booking. You're arriving on the fourteenth and checking out on the seventeenth.\nThat's right. But our flight was moved, so four of us will now arrive a day early. Do you have rooms available on the thirteenth?\nWe're nearly full that night because of a wedding. I can offer two suites and one double, but not twelve singles.\nHmm, that might be awkward. Is there another hotel nearby that could take the rest?\nThe Parkview Inn is a five-minute walk away. I can call them and arrange a shuttle for your group.\nPlease do. And could you send the updated confirmation to my assistant?\nCertainly. I'll email it this afternoon.",
+    "questionText": "How will the woman send the confirmation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By fax"
+      },
+      {
+        "key": "B",
+        "text": "(B) By email"
+      },
+      {
+        "key": "C",
+        "text": "(C) By text message"
+      },
+      {
+        "key": "D",
+        "text": "(D) By mail"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ sẽ gửi xác nhận bằng cách nào?\n(A) Bằng fax\n(B) Bằng email\n(C) Bằng tin nhắn văn bản\n(D) Bằng thư",
+    "explanation": "Đáp án đúng: B. Người phụ nữ đáp: “Certainly. I'll email it this afternoon.” Fax, tin nhắn và thư đều không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "confirmation",
+        "pos": "n.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "assistant",
+        "pos": "n.",
+        "meaning": "trợ lý"
+      },
+      {
+        "word": "afternoon",
+        "pos": "n.",
+        "meaning": "buổi chiều"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "t2-p3-g4",
+    "audioScript": "Woman: How did the first training session on the new inventory system go?\nMan: Better than I expected, but several people said the user guide is too technical.\nWoman: I was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nMan: Could we record a short video that shows the most common tasks? That might be more useful than another meeting.\nWoman: I like that idea. You could film it in the training room tomorrow morning.\nMan: I'll need a microphone. The room's built-in one picks up too much background noise.\nWoman: I'll borrow one from the media department and leave it at the front desk this afternoon.\nMan: Thanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "audioVoiceText": "How did the first training session on the new inventory system go?\nBetter than I expected, but several people said the user guide is too technical.\nI was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nCould we record a short video that shows the most common tasks? That might be more useful than another meeting.\nI like that idea. You could film it in the training room tomorrow morning.\nI'll need a microphone. The room's built-in one picks up too much background noise.\nI'll borrow one from the media department and leave it at the front desk this afternoon.\nThanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "questionText": "What concern do employees have about the user guide?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is too technical."
+      },
+      {
+        "key": "B",
+        "text": "(B) It is too long."
+      },
+      {
+        "key": "C",
+        "text": "(C) It lacks pictures."
+      },
+      {
+        "key": "D",
+        "text": "(D) It is out of date."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Nhân viên có lo ngại gì về tài liệu hướng dẫn sử dụng?\n(A) Nó quá chuyên môn.\n(B) Nó quá dài.\n(C) Nó thiếu hình ảnh.\n(D) Nó đã lỗi thời.",
+    "explanation": "Đáp án đúng: A. Người đàn ông cho biết: “several people said the user guide is too technical”, và người phụ nữ giải thích nhà cung cấp viết tài liệu cho nhân viên IT. Không có ý kiến nào nói tài liệu quá dài, thiếu hình hay lỗi thời, nên B, C, D sai.",
+    "vocab": [
+      {
+        "word": "technical",
+        "pos": "adj.",
+        "meaning": "mang tính chuyên môn"
+      },
+      {
+        "word": "user guide",
+        "pos": "n.",
+        "meaning": "tài liệu hướng dẫn sử dụng"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học"
+      },
+      {
+        "word": "inventory system",
+        "pos": "n.",
+        "meaning": "hệ thống kiểm kê"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "t2-p3-g4",
+    "audioScript": "Woman: How did the first training session on the new inventory system go?\nMan: Better than I expected, but several people said the user guide is too technical.\nWoman: I was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nMan: Could we record a short video that shows the most common tasks? That might be more useful than another meeting.\nWoman: I like that idea. You could film it in the training room tomorrow morning.\nMan: I'll need a microphone. The room's built-in one picks up too much background noise.\nWoman: I'll borrow one from the media department and leave it at the front desk this afternoon.\nMan: Thanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "audioVoiceText": "How did the first training session on the new inventory system go?\nBetter than I expected, but several people said the user guide is too technical.\nI was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nCould we record a short video that shows the most common tasks? That might be more useful than another meeting.\nI like that idea. You could film it in the training room tomorrow morning.\nI'll need a microphone. The room's built-in one picks up too much background noise.\nI'll borrow one from the media department and leave it at the front desk this afternoon.\nThanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "questionText": "What does the man suggest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Hiring the vendor for another session"
+      },
+      {
+        "key": "B",
+        "text": "(B) Moving the training to a larger room"
+      },
+      {
+        "key": "C",
+        "text": "(C) Printing a shorter guide"
+      },
+      {
+        "key": "D",
+        "text": "(D) Recording a video of common tasks"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông đề xuất điều gì?\n(A) Thuê nhà cung cấp tổ chức thêm một buổi\n(B) Chuyển buổi đào tạo sang phòng lớn hơn\n(C) In một tài liệu hướng dẫn ngắn hơn\n(D) Quay video về các tác vụ thường gặp",
+    "explanation": "Đáp án đúng: D. Người đàn ông nói: “Could we record a short video that shows the most common tasks?” Anh ấy muốn video thay cho một cuộc họp nữa. Không có đề xuất thuê nhà cung cấp, đổi phòng hay in tài liệu ngắn hơn, nên A, B, C sai.",
+    "vocab": [
+      {
+        "word": "record",
+        "pos": "v.",
+        "meaning": "quay, ghi lại"
+      },
+      {
+        "word": "common",
+        "pos": "adj.",
+        "meaning": "thường gặp"
+      },
+      {
+        "word": "draft",
+        "pos": "n.",
+        "meaning": "bản nháp"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "t2-p3-g4",
+    "audioScript": "Woman: How did the first training session on the new inventory system go?\nMan: Better than I expected, but several people said the user guide is too technical.\nWoman: I was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nMan: Could we record a short video that shows the most common tasks? That might be more useful than another meeting.\nWoman: I like that idea. You could film it in the training room tomorrow morning.\nMan: I'll need a microphone. The room's built-in one picks up too much background noise.\nWoman: I'll borrow one from the media department and leave it at the front desk this afternoon.\nMan: Thanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "audioVoiceText": "How did the first training session on the new inventory system go?\nBetter than I expected, but several people said the user guide is too technical.\nI was afraid of that. The vendor wrote it for IT staff, not for warehouse employees.\nCould we record a short video that shows the most common tasks? That might be more useful than another meeting.\nI like that idea. You could film it in the training room tomorrow morning.\nI'll need a microphone. The room's built-in one picks up too much background noise.\nI'll borrow one from the media department and leave it at the front desk this afternoon.\nThanks. I'll send the draft to you by Friday so we can review it before the next session.",
+    "questionText": "What will the woman provide?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new computer"
+      },
+      {
+        "key": "B",
+        "text": "(B) A list of employees"
+      },
+      {
+        "key": "C",
+        "text": "(C) A microphone"
+      },
+      {
+        "key": "D",
+        "text": "(D) A copy of the vendor's manual"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ sẽ cung cấp gì?\n(A) Một máy tính mới\n(B) Một danh sách nhân viên\n(C) Một chiếc micro\n(D) Một bản hướng dẫn của nhà cung cấp",
+    "explanation": "Đáp án đúng: C. Sau khi người đàn ông nói cần micro, người phụ nữ đáp: “I'll borrow one from the media department and leave it at the front desk this afternoon.” “One” chính là chiếc micro. Không có máy tính, danh sách nhân viên hay bản hướng dẫn nào được nhắc đến, nên A, B, D sai.",
+    "vocab": [
+      {
+        "word": "microphone",
+        "pos": "n.",
+        "meaning": "micro"
+      },
+      {
+        "word": "built-in",
+        "pos": "adj.",
+        "meaning": "gắn sẵn"
+      },
+      {
+        "word": "background noise",
+        "pos": "n.",
+        "meaning": "tiếng ồn xung quanh"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "t2-p3-g5",
+    "audioScript": "Man: Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow.\nWoman: Why not? The weather forecast is clear.\nMan: The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue.\nWoman: I thought the revision was submitted last week.\nMan: It was, but the inspector's office says one page is missing—the map showing the new pipe route.\nWoman: I have that map on my laptop. I'll email it to them right away and ask for an expedited review.\nMan: That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it.\nWoman: Then let's also ask the supplier to hold the delivery for three days.\nMan 2: I will call the steel supplier this morning and confirm the revised delivery window.\nWoman: Thanks. Please copy me on the confirmation e-mail.",
+    "audioVoiceText": "Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow. Why not? The weather forecast is clear. The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue. I thought the revision was submitted last week. It was, but the inspector's office says one page is missing—the map showing the new pipe route. I have that map on my laptop. I'll email it to them right away and ask for an expedited review. That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it. Then let's also ask the supplier to hold the delivery for three days. I will call the steel supplier this morning and confirm the revised delivery window. Thanks. Please copy me on the confirmation e-mail.",
+    "questionText": "Why can't the crew pour the foundation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Bad weather is expected."
+      },
+      {
+        "key": "B",
+        "text": "(B) A revised plan has not been approved."
+      },
+      {
+        "key": "C",
+        "text": "(C) The steel delivery is late."
+      },
+      {
+        "key": "D",
+        "text": "(D) The crew is working at another site."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao đội thi công không thể đổ móng?\n(A) Dự báo thời tiết xấu.\n(B) Một bản kế hoạch sửa đổi chưa được phê duyệt.\n(C) Đơn giao thép bị chậm.\n(D) Đội thi công đang làm ở một công trường khác.",
+    "explanation": "Đáp án đúng: B. Người đàn ông nói: “The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue.” Dự báo thời tiết đẹp nên A sai; thép sẽ đến nếu không khởi công kịp, nhưng chưa bị chậm, nên C sai; không có thông tin đội đang ở công trường khác, nên D sai.",
+    "vocab": [
+      {
+        "word": "foundation",
+        "pos": "n.",
+        "meaning": "móng công trình"
+      },
+      {
+        "word": "crew",
+        "pos": "n.",
+        "meaning": "đội thi công"
+      },
+      {
+        "word": "inspector",
+        "pos": "n.",
+        "meaning": "thanh tra viên"
+      },
+      {
+        "word": "approval",
+        "pos": "n.",
+        "meaning": "sự phê duyệt"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "t2-p3-g5",
+    "audioScript": "Man: Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow.\nWoman: Why not? The weather forecast is clear.\nMan: The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue.\nWoman: I thought the revision was submitted last week.\nMan: It was, but the inspector's office says one page is missing—the map showing the new pipe route.\nWoman: I have that map on my laptop. I'll email it to them right away and ask for an expedited review.\nMan: That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it.\nWoman: Then let's also ask the supplier to hold the delivery for three days.\nMan 2: I will call the steel supplier this morning and confirm the revised delivery window.\nWoman: Thanks. Please copy me on the confirmation e-mail.",
+    "audioVoiceText": "Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow. Why not? The weather forecast is clear. The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue. I thought the revision was submitted last week. It was, but the inspector's office says one page is missing—the map showing the new pipe route. I have that map on my laptop. I'll email it to them right away and ask for an expedited review. That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it. Then let's also ask the supplier to hold the delivery for three days. I will call the steel supplier this morning and confirm the revised delivery window. Thanks. Please copy me on the confirmation e-mail.",
+    "questionText": "What is missing from the submission?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A payment receipt"
+      },
+      {
+        "key": "B",
+        "text": "(B) The inspector's signature"
+      },
+      {
+        "key": "C",
+        "text": "(C) A map of the new pipe route"
+      },
+      {
+        "key": "D",
+        "text": "(D) The original drainage plan"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Hồ sơ nộp còn thiếu gì?\n(A) Một biên lai thanh toán\n(B) Chữ ký của thanh tra viên\n(C) Một bản đồ tuyến ống mới\n(D) Bản kế hoạch thoát nước ban đầu",
+    "explanation": "Đáp án đúng: C. Người đàn ông nói: “one page is missing—the map showing the new pipe route.” Bản sửa đổi đã được nộp, chỉ thiếu trang bản đồ. Không có biên lai hay chữ ký nào được nhắc đến; bản gốc không phải tài liệu bị thiếu, nên A, B, D sai.",
+    "vocab": [
+      {
+        "word": "drainage",
+        "pos": "n.",
+        "meaning": "hệ thống thoát nước"
+      },
+      {
+        "word": "pipe",
+        "pos": "n.",
+        "meaning": "ống"
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "meaning": "nộp"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được sửa đổi"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "t2-p3-g5",
+    "audioScript": "Man: Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow.\nWoman: Why not? The weather forecast is clear.\nMan: The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue.\nWoman: I thought the revision was submitted last week.\nMan: It was, but the inspector's office says one page is missing—the map showing the new pipe route.\nWoman: I have that map on my laptop. I'll email it to them right away and ask for an expedited review.\nMan: That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it.\nWoman: Then let's also ask the supplier to hold the delivery for three days.\nMan 2: I will call the steel supplier this morning and confirm the revised delivery window.\nWoman: Thanks. Please copy me on the confirmation e-mail.",
+    "audioVoiceText": "Ms. Chen, the crew can't pour the foundation at the Riverside site tomorrow. Why not? The weather forecast is clear. The city inspector hasn't approved the revised drainage plan. Without that approval, we're not allowed to continue. I thought the revision was submitted last week. It was, but the inspector's office says one page is missing—the map showing the new pipe route. I have that map on my laptop. I'll email it to them right away and ask for an expedited review. That would help. If we don't start by Monday, the steel delivery will arrive before we have anywhere to store it. Then let's also ask the supplier to hold the delivery for three days. I will call the steel supplier this morning and confirm the revised delivery window. Thanks. Please copy me on the confirmation e-mail.",
+    "questionText": "What does the woman suggest doing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Hiring another inspector"
+      },
+      {
+        "key": "B",
+        "text": "(B) Moving the steel to a different site"
+      },
+      {
+        "key": "C",
+        "text": "(C) Starting the work without approval"
+      },
+      {
+        "key": "D",
+        "text": "(D) Asking the supplier to delay delivery"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị làm gì?\n(A) Thuê một thanh tra viên khác\n(B) Chuyển số thép sang công trường khác\n(C) Khởi công mà không có phê duyệt\n(D) Yêu cầu nhà cung cấp hoãn giao hàng",
+    "explanation": "Đáp án đúng: D. Người phụ nữ nói: “let's also ask the supplier to hold the delivery for three days.” Bà ấy muốn hoãn giao thép để có chỗ chứa. Không có ý thuê thanh tra khác, chuyển thép đi nơi khác hay làm trái phép, nên A, B, C sai.",
+    "vocab": [
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      },
+      {
+        "word": "hold",
+        "pos": "v.",
+        "meaning": "giữ lại, hoãn"
+      },
+      {
+        "word": "delivery",
+        "pos": "n.",
+        "meaning": "việc giao hàng"
+      },
+      {
+        "word": "expedited",
+        "pos": "adj.",
+        "meaning": "được xử lý nhanh"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "t2-p3-g6",
+    "audioScript": "Woman: Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nMan: I haven't posted it yet. What's going on?\nWoman: My sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nMan: Let me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nWoman: Maybe she'd take my Saturday shift. She knows the register and the delivery process.\nMan: I'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nWoman: I can come in early on Saturday to help with the count before I leave for the ceremony.\nMan: That would work. I'll confirm the change by Thursday.",
+    "audioVoiceText": "Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nI haven't posted it yet. What's going on?\nMy sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nLet me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nMaybe she'd take my Saturday shift. She knows the register and the delivery process.\nI'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nI can come in early on Saturday to help with the count before I leave for the ceremony.\nThat would work. I'll confirm the change by Thursday.",
+    "questionText": "Why does the woman want to change her schedule?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) She has a doctor's appointment."
+      },
+      {
+        "key": "B",
+        "text": "(B) She is taking a vacation."
+      },
+      {
+        "key": "C",
+        "text": "(C) She is attending her sister's graduation."
+      },
+      {
+        "key": "D",
+        "text": "(D) She has to work at another store."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ muốn đổi lịch làm việc?\n(A) Cô ấy có cuộc hẹn với bác sĩ.\n(B) Cô ấy đang đi nghỉ.\n(C) Cô ấy tham dự lễ tốt nghiệp của em gái.\n(D) Cô ấy phải làm việc ở một cửa hàng khác.",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói: “My sister's graduation is that afternoon.” Cô ấy muốn đổi ca thứ Bảy để dự lễ. Không có cuộc hẹn bác sĩ, kỳ nghỉ hay việc làm ở cửa hàng khác, nên A, B, D sai.",
+    "vocab": [
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      },
+      {
+        "word": "swap",
+        "pos": "v.",
+        "meaning": "đổi, hoán đổi"
+      },
+      {
+        "word": "graduation",
+        "pos": "n.",
+        "meaning": "lễ tốt nghiệp"
+      },
+      {
+        "word": "ceremony",
+        "pos": "n.",
+        "meaning": "buổi lễ"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "t2-p3-g6",
+    "audioScript": "Woman: Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nMan: I haven't posted it yet. What's going on?\nWoman: My sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nMan: Let me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nWoman: Maybe she'd take my Saturday shift. She knows the register and the delivery process.\nMan: I'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nWoman: I can come in early on Saturday to help with the count before I leave for the ceremony.\nMan: That would work. I'll confirm the change by Thursday.",
+    "audioVoiceText": "Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nI haven't posted it yet. What's going on?\nMy sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nLet me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nMaybe she'd take my Saturday shift. She knows the register and the delivery process.\nI'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nI can come in early on Saturday to help with the count before I leave for the ceremony.\nThat would work. I'll confirm the change by Thursday.",
+    "questionText": "What does the man remind the woman about Saturday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is the day of the inventory count."
+      },
+      {
+        "key": "B",
+        "text": "(B) The store closes early."
+      },
+      {
+        "key": "C",
+        "text": "(C) Priya will train a new employee."
+      },
+      {
+        "key": "D",
+        "text": "(D) The delivery arrives in the morning."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông nhắc người phụ nữ điều gì về thứ Bảy?\n(A) Đó là ngày kiểm kê hàng hóa.\n(B) Cửa hàng đóng cửa sớm.\n(C) Priya sẽ đào tạo một nhân viên mới.\n(D) Hàng giao sẽ đến vào buổi sáng.",
+    "explanation": "Đáp án đúng: A. Người đàn ông nói: “Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.” Cửa hàng đóng cửa như thường lệ chứ không sớm, nên B sai; không có việc Priya đào tạo nhân viên mới hay hàng giao buổi sáng, nên C và D sai.",
+    "vocab": [
+      {
+        "word": "inventory count",
+        "pos": "n.",
+        "meaning": "việc kiểm kê hàng hóa"
+      },
+      {
+        "word": "cover",
+        "pos": "v.",
+        "meaning": "trực thay, làm thay"
+      },
+      {
+        "word": "register",
+        "pos": "n.",
+        "meaning": "máy tính tiền"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "t2-p3-g6",
+    "audioScript": "Woman: Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nMan: I haven't posted it yet. What's going on?\nWoman: My sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nMan: Let me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nWoman: Maybe she'd take my Saturday shift. She knows the register and the delivery process.\nMan: I'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nWoman: I can come in early on Saturday to help with the count before I leave for the ceremony.\nMan: That would work. I'll confirm the change by Thursday.",
+    "audioVoiceText": "Marcus, do you have the schedule for next week? I need to swap my Saturday shift.\nI haven't posted it yet. What's going on?\nMy sister's graduation is that afternoon. I could work Sunday instead if someone covers the morning.\nLet me check. Priya is already scheduled for Sunday, but she asked for fewer hours.\nMaybe she'd take my Saturday shift. She knows the register and the delivery process.\nI'll ask her this afternoon. Just remember that Saturday is our inventory count, so whoever covers it needs to stay until the store closes.\nI can come in early on Saturday to help with the count before I leave for the ceremony.\nThat would work. I'll confirm the change by Thursday.",
+    "questionText": "When will the man confirm the schedule change?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wednesday"
+      },
+      {
+        "key": "B",
+        "text": "(B) Thursday"
+      },
+      {
+        "key": "C",
+        "text": "(C) Friday"
+      },
+      {
+        "key": "D",
+        "text": "(D) Sunday"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Khi nào người đàn ông sẽ xác nhận việc đổi lịch?\n(A) Thứ Tư\n(B) Thứ Năm\n(C) Thứ Sáu\n(D) Chủ Nhật",
+    "explanation": "Đáp án đúng: B. Người đàn ông kết luận: “I'll confirm the change by Thursday.” Thứ Tư, thứ Sáu và Chủ Nhật không phải mốc xác nhận, dù Chủ Nhật được nhắc đến như một ngày làm việc thay thế.",
+    "vocab": [
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch làm việc"
+      },
+      {
+        "word": "post",
+        "pos": "v.",
+        "meaning": "đăng lên"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "t2-p3-g7",
+    "audioScript": "Man: Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nWoman: How much is the difference?\nMan: They charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nWoman: Did anyone sign for thirty or forty?\nMan: The delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nWoman: Good. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nMan: Should I also hold payment until they respond?\nWoman: Yes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "audioVoiceText": "Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nHow much is the difference?\nThey charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nDid anyone sign for thirty or forty?\nThe delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nGood. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nShould I also hold payment until they respond?\nYes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "questionText": "What is the discrepancy in the invoice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The unit price is too high."
+      },
+      {
+        "key": "B",
+        "text": "(B) The wrong company is listed."
+      },
+      {
+        "key": "C",
+        "text": "(C) The payment is overdue."
+      },
+      {
+        "key": "D",
+        "text": "(D) The quantity charged is incorrect."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Sự sai lệch trong hóa đơn là gì?\n(A) Đơn giá quá cao.\n(B) Sai tên công ty.\n(C) Khoản thanh toán đã quá hạn.\n(D) Số lượng bị tính tiền không đúng.",
+    "explanation": "Đáp án đúng: D. Người đàn ông nói: “They charged us for forty boxes of paper, but we only received thirty. The unit price is correct.” Hóa đơn tính bốn mươi thùng nhưng chỉ giao ba mươi. Đơn giá đúng nên A sai; không có sai tên công ty hay thanh toán quá hạn, nên B và C sai.",
+    "vocab": [
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      },
+      {
+        "word": "purchase order",
+        "pos": "n.",
+        "meaning": "đơn đặt hàng"
+      },
+      {
+        "word": "discrepancy",
+        "pos": "n.",
+        "meaning": "sự sai lệch"
+      },
+      {
+        "word": "unit price",
+        "pos": "n.",
+        "meaning": "đơn giá"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "t2-p3-g7",
+    "audioScript": "Man: Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nWoman: How much is the difference?\nMan: They charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nWoman: Did anyone sign for thirty or forty?\nMan: The delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nWoman: Good. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nMan: Should I also hold payment until they respond?\nWoman: Yes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "audioVoiceText": "Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nHow much is the difference?\nThey charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nDid anyone sign for thirty or forty?\nThe delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nGood. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nShould I also hold payment until they respond?\nYes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "questionText": "What does the woman ask the man to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Pay the invoice immediately"
+      },
+      {
+        "key": "B",
+        "text": "(B) Request a corrected invoice"
+      },
+      {
+        "key": "C",
+        "text": "(C) Call the warehouse manager"
+      },
+      {
+        "key": "D",
+        "text": "(D) Order more paper"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ yêu cầu người đàn ông làm gì?\n(A) Thanh toán hóa đơn ngay lập tức\n(B) Yêu cầu một hóa đơn đã sửa\n(C) Gọi cho quản lý kho\n(D) Đặt thêm giấy",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói: “Send the receipt and the purchase order to their billing department and ask for a corrected invoice.” Bà ấy còn đồng ý giữ lại khoản thanh toán, tức là không trả ngay, nên A sai; không yêu cầu gọi quản lý kho hay đặt thêm giấy, nên C và D sai.",
+    "vocab": [
+      {
+        "word": "billing department",
+        "pos": "n.",
+        "meaning": "bộ phận thanh toán"
+      },
+      {
+        "word": "corrected",
+        "pos": "adj.",
+        "meaning": "đã được sửa"
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "meaning": "biên nhận"
+      },
+      {
+        "word": "hold",
+        "pos": "v.",
+        "meaning": "giữ lại, tạm hoãn"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "t2-p3-g7",
+    "audioScript": "Man: Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nWoman: How much is the difference?\nMan: They charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nWoman: Did anyone sign for thirty or forty?\nMan: The delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nWoman: Good. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nMan: Should I also hold payment until they respond?\nWoman: Yes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "audioVoiceText": "Ms. Okafor, I'm reviewing the invoice from Northline Supplies, and the amount doesn't match our purchase order.\nHow much is the difference?\nThey charged us for forty boxes of paper, but we only received thirty. The unit price is correct.\nDid anyone sign for thirty or forty?\nThe delivery receipt says thirty. I think the warehouse manager noted the shortage on the copy.\nGood. Send the receipt and the purchase order to their billing department and ask for a corrected invoice.\nShould I also hold payment until they respond?\nYes. And copy me on the email so I can follow up if we don't hear back by Friday.",
+    "questionText": "What does the woman want to receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A copy of the email"
+      },
+      {
+        "key": "B",
+        "text": "(B) A new purchase order"
+      },
+      {
+        "key": "C",
+        "text": "(C) A phone call from Northline"
+      },
+      {
+        "key": "D",
+        "text": "(D) The original delivery receipt"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ muốn nhận được gì?\n(A) Một bản sao của email\n(B) Một đơn đặt hàng mới\n(C) Một cuộc gọi từ Northline\n(D) Biên nhận giao hàng gốc",
+    "explanation": "Đáp án đúng: A. Người phụ nữ nói: “copy me on the email so I can follow up if we don't hear back by Friday.” Bà ấy muốn được cc vào email. Không cần đơn đặt hàng mới, không yêu cầu Northline gọi lại và không yêu cầu nhận biên nhận gốc, nên B, C, D sai.",
+    "vocab": [
+      {
+        "word": "copy",
+        "pos": "v.",
+        "meaning": "gửi bản sao"
+      },
+      {
+        "word": "follow up",
+        "pos": "phr.",
+        "meaning": "theo dõi, liên hệ lại"
+      },
+      {
+        "word": "shortage",
+        "pos": "n.",
+        "meaning": "sự thiếu hụt"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "t2-p3-g8",
+    "audioScript": "Woman: I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m.\nMan: Good. Is the hotel close to the client's office?\nWoman: It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning.\nMan: Wednesday morning? I thought the client meeting was on Thursday.\nWoman: It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up.\nMan: That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier.\nWoman: I'll do it right after lunch. Do you want me to arrange a car to the airport?\nMan: No, thanks. The hotel shuttle is included in the room rate.\nWoman 2: I have already printed the client agenda. Should I leave a copy at the front desk?\nMan: Yes, and put one in the meeting room as well.",
+    "audioVoiceText": "I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m. Good. Is the hotel close to the client's office? It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning. Wednesday morning? I thought the client meeting was on Thursday. It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up. That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier. I'll do it right after lunch. Do you want me to arrange a car to the airport? No, thanks. The hotel shuttle is included in the room rate. I have already printed the client agenda. Should I leave a copy at the front desk? Yes, and put one in the meeting room as well.",
+    "questionText": "When is the client meeting now?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wednesday morning"
+      },
+      {
+        "key": "B",
+        "text": "(B) Tuesday afternoon"
+      },
+      {
+        "key": "C",
+        "text": "(C) Thursday morning"
+      },
+      {
+        "key": "D",
+        "text": "(D) Friday afternoon"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Bây giờ cuộc họp với khách hàng diễn ra khi nào?\n(A) Sáng thứ Tư\n(B) Chiều thứ Ba\n(C) Sáng thứ Năm\n(D) Chiều thứ Sáu",
+    "explanation": "Đáp án đúng: A. Người phụ nữ cho biết đã đặt phòng họp cho sáng thứ Tư, sau đó giải thích cuộc họp với khách được dời lên vì ông Tan phải bay sang Bangkok vào thứ Năm. Thứ Năm là lịch cũ nên C sai; chiều thứ Ba là giờ hạ cánh, không phải giờ họp, nên B sai; thứ Sáu không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "itinerary",
+        "pos": "n.",
+        "meaning": "lịch trình"
+      },
+      {
+        "word": "conference room",
+        "pos": "n.",
+        "meaning": "phòng hội nghị"
+      },
+      {
+        "word": "move up",
+        "pos": "phr.",
+        "meaning": "dời lên sớm hơn"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "t2-p3-g8",
+    "audioScript": "Woman: I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m.\nMan: Good. Is the hotel close to the client's office?\nWoman: It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning.\nMan: Wednesday morning? I thought the client meeting was on Thursday.\nWoman: It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up.\nMan: That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier.\nWoman: I'll do it right after lunch. Do you want me to arrange a car to the airport?\nMan: No, thanks. The hotel shuttle is included in the room rate.\nWoman 2: I have already printed the client agenda. Should I leave a copy at the front desk?\nMan: Yes, and put one in the meeting room as well.",
+    "audioVoiceText": "I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m. Good. Is the hotel close to the client's office? It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning. Wednesday morning? I thought the client meeting was on Thursday. It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up. That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier. I'll do it right after lunch. Do you want me to arrange a car to the airport? No, thanks. The hotel shuttle is included in the room rate. I have already printed the client agenda. Should I leave a copy at the front desk? Yes, and put one in the meeting room as well.",
+    "questionText": "Why was the meeting moved?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The client's office is being renovated."
+      },
+      {
+        "key": "B",
+        "text": "(B) The man's flight was delayed."
+      },
+      {
+        "key": "C",
+        "text": "(C) Mr. Tan has to travel to Bangkok."
+      },
+      {
+        "key": "D",
+        "text": "(D) The hotel conference room is unavailable."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao cuộc họp bị dời?\n(A) Văn phòng khách hàng đang được cải tạo.\n(B) Chuyến bay của người đàn ông bị hoãn.\n(C) Ông Tan phải đi công tác ở Bangkok.\n(D) Phòng hội nghị của khách sạn không còn trống.",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói: “He has to fly to Bangkok on Thursday, so he asked to move our meeting up.” Không có việc cải tạo văn phòng, chuyến bay bị hoãn hay phòng họp không trống, nên A, B, D sai.",
+    "vocab": [
+      {
+        "word": "assistant",
+        "pos": "n.",
+        "meaning": "trợ lý"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được điều chỉnh"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch trình"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "t2-p3-g8",
+    "audioScript": "Woman: I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m.\nMan: Good. Is the hotel close to the client's office?\nWoman: It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning.\nMan: Wednesday morning? I thought the client meeting was on Thursday.\nWoman: It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up.\nMan: That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier.\nWoman: I'll do it right after lunch. Do you want me to arrange a car to the airport?\nMan: No, thanks. The hotel shuttle is included in the room rate.\nWoman 2: I have already printed the client agenda. Should I leave a copy at the front desk?\nMan: Yes, and put one in the meeting room as well.",
+    "audioVoiceText": "I've drafted the itinerary for your trip to Singapore. You leave on Tuesday at 8:40 a.m. and arrive at 1:15 p.m. Good. Is the hotel close to the client's office? It's about a ten-minute walk. I've also booked a conference room at the hotel for Wednesday morning. Wednesday morning? I thought the client meeting was on Thursday. It was, but Mr. Tan's assistant called this morning. He has to fly to Bangkok on Thursday, so he asked to move our meeting up. That's fine. Could you send the revised schedule to the project team? They need to prepare the slides a day earlier. I'll do it right after lunch. Do you want me to arrange a car to the airport? No, thanks. The hotel shuttle is included in the room rate. I have already printed the client agenda. Should I leave a copy at the front desk? Yes, and put one in the meeting room as well.",
+    "questionText": "How will the man get to the airport?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By taxi"
+      },
+      {
+        "key": "B",
+        "text": "(B) By train"
+      },
+      {
+        "key": "C",
+        "text": "(C) By rental car"
+      },
+      {
+        "key": "D",
+        "text": "(D) By hotel shuttle"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông sẽ đến sân bay bằng cách nào?\n(A) Bằng taxi\n(B) Bằng tàu\n(C) Bằng xe thuê\n(D) Bằng xe đưa đón của khách sạn",
+    "explanation": "Đáp án đúng: D. Người đàn ông từ chối việc thu xếp xe và nói: “The hotel shuttle is included in the room rate.” Taxi, tàu và xe thuê đều không được nhắc đến, nên A, B, C sai.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "room rate",
+        "pos": "n.",
+        "meaning": "giá phòng"
+      },
+      {
+        "word": "include",
+        "pos": "v.",
+        "meaning": "bao gồm"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "t2-p3-g9",
+    "audioScript": "Man: Ms. Harlow, have you looked at the bids for the new library branch?\nWoman: I have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nMan: Which two?\nWoman: Bell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nMan: The grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nWoman: Yes, they estimate sixteen months. However, their bid is about 12 percent higher.\nMan: Can we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nWoman: Good point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "audioVoiceText": "Ms. Harlow, have you looked at the bids for the new library branch?\nI have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nWhich two?\nBell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nThe grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nYes, they estimate sixteen months. However, their bid is about 12 percent higher.\nCan we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nGood point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "questionText": "What is the woman's concern about Bell & Sons?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Its bid is too expensive."
+      },
+      {
+        "key": "B",
+        "text": "(B) Its timeline is too long."
+      },
+      {
+        "key": "C",
+        "text": "(C) It lacks accessibility features."
+      },
+      {
+        "key": "D",
+        "text": "(D) It has no experience with libraries."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ lo ngại điều gì về Bell & Sons?\n(A) Giá thầu của họ quá cao.\n(B) Thời gian thi công của họ quá dài.\n(C) Họ thiếu các tính năng tiếp cận.\n(D) Họ không có kinh nghiệm xây thư viện.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói: “Bell's price is lower, but their timeline is six months longer.” Giá của Bell thấp hơn nên A sai; Bell nằm trong hai công ty có tính năng tiếp cận nên C sai; không có thông tin về kinh nghiệm xây thư viện nên D sai.",
+    "vocab": [
+      {
+        "word": "bid",
+        "pos": "n.",
+        "meaning": "giá thầu, hồ sơ dự thầu"
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "meaning": "đề xuất"
+      },
+      {
+        "word": "timeline",
+        "pos": "n.",
+        "meaning": "tiến độ, thời gian thực hiện"
+      },
+      {
+        "word": "accessibility",
+        "pos": "n.",
+        "meaning": "khả năng tiếp cận"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "t2-p3-g9",
+    "audioScript": "Man: Ms. Harlow, have you looked at the bids for the new library branch?\nWoman: I have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nMan: Which two?\nWoman: Bell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nMan: The grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nWoman: Yes, they estimate sixteen months. However, their bid is about 12 percent higher.\nMan: Can we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nWoman: Good point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "audioVoiceText": "Ms. Harlow, have you looked at the bids for the new library branch?\nI have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nWhich two?\nBell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nThe grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nYes, they estimate sixteen months. However, their bid is about 12 percent higher.\nCan we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nGood point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "questionText": "What does the man suggest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Rejecting both proposals"
+      },
+      {
+        "key": "B",
+        "text": "(B) Hiring Bell & Sons immediately"
+      },
+      {
+        "key": "C",
+        "text": "(C) Reducing the size of the library"
+      },
+      {
+        "key": "D",
+        "text": "(D) Asking Harbor Construction for a cost breakdown"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông đề xuất điều gì?\n(A) Từ chối cả hai đề xuất\n(B) Thuê Bell & Sons ngay lập tức\n(C) Giảm quy mô thư viện\n(D) Yêu cầu Harbor Construction giải trình chi tiết chi phí",
+    "explanation": "Đáp án đúng: D. Người đàn ông nói: “Can we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.” “Them” là Harbor Construction. Người phụ nữ đồng ý và sẽ yêu cầu bảng phân tích chi phí. Không ai đề nghị từ chối cả hai, thuê Bell ngay hay thu nhỏ thư viện, nên A, B, C sai.",
+    "vocab": [
+      {
+        "word": "breakdown",
+        "pos": "n.",
+        "meaning": "sự phân tích chi tiết"
+      },
+      {
+        "word": "optional",
+        "pos": "adj.",
+        "meaning": "tùy chọn"
+      },
+      {
+        "word": "courtyard",
+        "pos": "n.",
+        "meaning": "sân trong"
+      },
+      {
+        "word": "estimate",
+        "pos": "v.",
+        "meaning": "ước tính"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "t2-p3-g9",
+    "audioScript": "Man: Ms. Harlow, have you looked at the bids for the new library branch?\nWoman: I have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nMan: Which two?\nWoman: Bell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nMan: The grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nWoman: Yes, they estimate sixteen months. However, their bid is about 12 percent higher.\nMan: Can we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nWoman: Good point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "audioVoiceText": "Ms. Harlow, have you looked at the bids for the new library branch?\nI have. Three companies submitted proposals, but only two included the accessibility features required by the grant.\nWhich two?\nBell & Sons and Harbor Construction. Bell's price is lower, but their timeline is six months longer.\nThe grant requires us to open within eighteen months. Would Harbor's schedule meet that?\nYes, they estimate sixteen months. However, their bid is about 12 percent higher.\nCan we ask them to explain the difference? Maybe some of the cost is for the optional courtyard.\nGood point. I'll request a breakdown of their costs and compare it with Bell's.",
+    "questionText": "What will the woman do next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Apply for a new grant"
+      },
+      {
+        "key": "B",
+        "text": "(B) Visit the construction site"
+      },
+      {
+        "key": "C",
+        "text": "(C) Request detailed cost information"
+      },
+      {
+        "key": "D",
+        "text": "(D) Sign a contract with Harbor"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì tiếp theo?\n(A) Nộp đơn xin khoản tài trợ mới\n(B) Thăm công trường\n(C) Yêu cầu thông tin chi phí chi tiết\n(D) Ký hợp đồng với Harbor",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói: “I'll request a breakdown of their costs and compare it with Bell's.” Bà ấy chưa chọn nhà thầu nên chưa ký hợp đồng, D sai; không có việc xin tài trợ mới hay thăm công trường, nên A và B sai.",
+    "vocab": [
+      {
+        "word": "grant",
+        "pos": "n.",
+        "meaning": "khoản tài trợ"
+      },
+      {
+        "word": "contract",
+        "pos": "n.",
+        "meaning": "hợp đồng"
+      },
+      {
+        "word": "compare",
+        "pos": "v.",
+        "meaning": "so sánh"
+      },
+      {
+        "word": "branch",
+        "pos": "n.",
+        "meaning": "chi nhánh"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "t2-p3-g10",
+    "audioScript": "Man: I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nWoman: I'm sorry about that. Could you give me your order number?\nMan: It's 48217. I need the other two chairs before my parents visit on the twentieth.\nWoman: Let me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nMan: I'd prefer to keep the set matching. Is there any way to get oak?\nWoman: I can order them from our other warehouse. They should arrive in five business days.\nMan: That works. And what about the damaged box? Should I send it back?\nWoman: No need. Our courier will collect it when the new chairs are delivered.",
+    "audioVoiceText": "I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nI'm sorry about that. Could you give me your order number?\nIt's 48217. I need the other two chairs before my parents visit on the twentieth.\nLet me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nI'd prefer to keep the set matching. Is there any way to get oak?\nI can order them from our other warehouse. They should arrive in five business days.\nThat works. And what about the damaged box? Should I send it back?\nNo need. Our courier will collect it when the new chairs are delivered.",
+    "questionText": "What is the customer's problem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) He received the wrong color chairs."
+      },
+      {
+        "key": "B",
+        "text": "(B) His order arrived late."
+      },
+      {
+        "key": "C",
+        "text": "(C) Only part of his order was delivered."
+      },
+      {
+        "key": "D",
+        "text": "(D) The chairs were more expensive than advertised."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khách hàng gặp vấn đề gì?\n(A) Anh ấy nhận được ghế sai màu.\n(B) Đơn hàng của anh ấy đến muộn.\n(C) Chỉ một phần đơn hàng được giao.\n(D) Ghế đắt hơn giá quảng cáo.",
+    "explanation": "Đáp án đúng: C. Người đàn ông nói: “I ordered a set of four dining chairs last week, but only two arrived.” Anh ấy đặt bốn chiếc nhưng chỉ nhận hai. Không có việc nhận sai màu, giao muộn hay giá cao hơn quảng cáo, nên A, B, D sai.",
+    "vocab": [
+      {
+        "word": "dining chair",
+        "pos": "n.",
+        "meaning": "ghế ăn"
+      },
+      {
+        "word": "damaged",
+        "pos": "adj.",
+        "meaning": "bị hư hỏng"
+      },
+      {
+        "word": "order number",
+        "pos": "n.",
+        "meaning": "mã đơn hàng"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "t2-p3-g10",
+    "audioScript": "Man: I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nWoman: I'm sorry about that. Could you give me your order number?\nMan: It's 48217. I need the other two chairs before my parents visit on the twentieth.\nWoman: Let me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nMan: I'd prefer to keep the set matching. Is there any way to get oak?\nWoman: I can order them from our other warehouse. They should arrive in five business days.\nMan: That works. And what about the damaged box? Should I send it back?\nWoman: No need. Our courier will collect it when the new chairs are delivered.",
+    "audioVoiceText": "I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nI'm sorry about that. Could you give me your order number?\nIt's 48217. I need the other two chairs before my parents visit on the twentieth.\nLet me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nI'd prefer to keep the set matching. Is there any way to get oak?\nI can order them from our other warehouse. They should arrive in five business days.\nThat works. And what about the damaged box? Should I send it back?\nNo need. Our courier will collect it when the new chairs are delivered.",
+    "questionText": "What does the woman offer to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Order the missing chairs from another warehouse"
+      },
+      {
+        "key": "B",
+        "text": "(B) Refund the full purchase price"
+      },
+      {
+        "key": "C",
+        "text": "(C) Sending a floor model as a temporary replacement"
+      },
+      {
+        "key": "D",
+        "text": "(D) Arrange free assembly"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị làm gì?\n(A) Đặt hai chiếc ghế còn thiếu từ kho khác\n(B) Hoàn lại toàn bộ tiền mua\n(C) Gửi một chiếc ghế trưng bày để thay thế tạm thời\n(D) Thu xếp lắp ráp miễn phí",
+    "explanation": "Đáp án đúng: A. Người phụ nữ nói: “I can order them from our other warehouse. They should arrive in five business days.” Bà ấy có đề nghị mẫu walnut nhưng khách từ chối, và đó không phải phương án cuối cùng; không có hoàn tiền, gửi ghế trưng bày hay lắp ráp miễn phí, nên B, C, D sai.",
+    "vocab": [
+      {
+        "word": "stock",
+        "pos": "n.",
+        "meaning": "hàng tồn kho"
+      },
+      {
+        "word": "walnut",
+        "pos": "n.",
+        "meaning": "gỗ óc chó"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n.",
+        "meaning": "nhà kho"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "t2-p3-g10",
+    "audioScript": "Man: I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nWoman: I'm sorry about that. Could you give me your order number?\nMan: It's 48217. I need the other two chairs before my parents visit on the twentieth.\nWoman: Let me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nMan: I'd prefer to keep the set matching. Is there any way to get oak?\nWoman: I can order them from our other warehouse. They should arrive in five business days.\nMan: That works. And what about the damaged box? Should I send it back?\nWoman: No need. Our courier will collect it when the new chairs are delivered.",
+    "audioVoiceText": "I ordered a set of four dining chairs last week, but only two arrived. The box was damaged on one side.\nI'm sorry about that. Could you give me your order number?\nIt's 48217. I need the other two chairs before my parents visit on the twentieth.\nLet me check the stock... We have the same model in walnut, but not in oak. Would you accept walnut for the missing chairs?\nI'd prefer to keep the set matching. Is there any way to get oak?\nI can order them from our other warehouse. They should arrive in five business days.\nThat works. And what about the damaged box? Should I send it back?\nNo need. Our courier will collect it when the new chairs are delivered.",
+    "questionText": "What does the woman say about the damaged box?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The customer should return it to a store."
+      },
+      {
+        "key": "B",
+        "text": "(B) A courier will collect it with the delivery."
+      },
+      {
+        "key": "C",
+        "text": "(C) It must be photographed for insurance."
+      },
+      {
+        "key": "D",
+        "text": "(D) It will be replaced separately."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ nói gì về chiếc hộp bị hỏng?\n(A) Khách hàng nên mang nó trả lại cửa hàng.\n(B) Nhân viên giao hàng sẽ thu gom nó cùng lúc giao ghế mới.\n(C) Nó phải được chụp ảnh để làm bảo hiểm.\n(D) Nó sẽ được thay thế riêng.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói: “No need. Our courier will collect it when the new chairs are delivered.” Không cần khách mang trả, chụp ảnh hay thay hộp riêng, nên A, C, D sai.",
+    "vocab": [
+      {
+        "word": "courier",
+        "pos": "n.",
+        "meaning": "nhân viên giao nhận"
+      },
+      {
+        "word": "collect",
+        "pos": "v.",
+        "meaning": "thu gom, lấy về"
+      },
+      {
+        "word": "assembly",
+        "pos": "n.",
+        "meaning": "việc lắp ráp"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "t2-p3-g11",
+    "audioScript": "Man: The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWoman: We can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nMan: Could we use the online module instead? It covers the same material and takes about two hours.\nWoman: The online module is fine for the written part, but they also need hands-on practice with the forklift.\nMan: I can lead that session myself. I have the trainer certification.\nWoman: Perfect. I'll reserve the training room and send the online link to the group this afternoon.\nMan: Make sure they finish the module before they come. Otherwise, we'll lose time.\nWoman: I'll tell them it's due by Sunday evening.",
+    "audioVoiceText": "The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWe can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nCould we use the online module instead? It covers the same material and takes about two hours.\nThe online module is fine for the written part, but they also need hands-on practice with the forklift.\nI can lead that session myself. I have the trainer certification.\nPerfect. I'll reserve the training room and send the online link to the group this afternoon.\nMake sure they finish the module before they come. Otherwise, we'll lose time.\nI'll tell them it's due by Sunday evening.",
+    "questionText": "Why does the training need to take place as scheduled?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The instructor is leaving the company."
+      },
+      {
+        "key": "B",
+        "text": "(B) The warehouse opens on Monday."
+      },
+      {
+        "key": "C",
+        "text": "(C) The staff have requested overtime."
+      },
+      {
+        "key": "D",
+        "text": "(D) An audit is scheduled for Wednesday."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao buổi đào tạo phải diễn ra đúng lịch?\n(A) Giảng viên sắp rời công ty.\n(B) Nhà kho khai trương vào thứ Hai.\n(C) Nhân viên đã yêu cầu làm thêm giờ.\n(D) Một cuộc kiểm toán được lên lịch vào thứ Tư.",
+    "explanation": "Đáp án đúng: D. Người phụ nữ nói: “We can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.” Giảng viên chỉ gọi báo ốm chứ không rời công ty, nên A sai; không có việc nhà kho khai trương hay nhân viên xin làm thêm giờ, nên B và C sai.",
+    "vocab": [
+      {
+        "word": "audit",
+        "pos": "n.",
+        "meaning": "cuộc kiểm toán, kiểm tra"
+      },
+      {
+        "word": "certify",
+        "pos": "v.",
+        "meaning": "chứng nhận"
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "meaning": "hoãn"
+      },
+      {
+        "word": "safety training",
+        "pos": "n.",
+        "meaning": "huấn luyện an toàn"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "t2-p3-g11",
+    "audioScript": "Man: The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWoman: We can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nMan: Could we use the online module instead? It covers the same material and takes about two hours.\nWoman: The online module is fine for the written part, but they also need hands-on practice with the forklift.\nMan: I can lead that session myself. I have the trainer certification.\nWoman: Perfect. I'll reserve the training room and send the online link to the group this afternoon.\nMan: Make sure they finish the module before they come. Otherwise, we'll lose time.\nWoman: I'll tell them it's due by Sunday evening.",
+    "audioVoiceText": "The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWe can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nCould we use the online module instead? It covers the same material and takes about two hours.\nThe online module is fine for the written part, but they also need hands-on practice with the forklift.\nI can lead that session myself. I have the trainer certification.\nPerfect. I'll reserve the training room and send the online link to the group this afternoon.\nMake sure they finish the module before they come. Otherwise, we'll lose time.\nI'll tell them it's due by Sunday evening.",
+    "questionText": "What does the woman say the online module cannot replace?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The written test"
+      },
+      {
+        "key": "B",
+        "text": "(B) The instructor's introduction"
+      },
+      {
+        "key": "C",
+        "text": "(C) Hands-on forklift practice"
+      },
+      {
+        "key": "D",
+        "text": "(D) The safety video"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ nói mô-đun trực tuyến không thể thay thế điều gì?\n(A) Bài kiểm tra viết\n(B) Phần giới thiệu của giảng viên\n(C) Thực hành trực tiếp với xe nâng\n(D) Video an toàn",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói: “The online module is fine for the written part, but they also need hands-on practice with the forklift.” Như vậy phần viết có thể học trực tuyến, còn thực hành xe nâng thì không, nên A sai và C đúng. Không có phần giới thiệu hay video an toàn nào được nhắc đến, nên B và D sai.",
+    "vocab": [
+      {
+        "word": "module",
+        "pos": "n.",
+        "meaning": "mô-đun, bài học"
+      },
+      {
+        "word": "hands-on",
+        "pos": "adj.",
+        "meaning": "thực hành trực tiếp"
+      },
+      {
+        "word": "forklift",
+        "pos": "n.",
+        "meaning": "xe nâng"
+      },
+      {
+        "word": "written",
+        "pos": "adj.",
+        "meaning": "bằng văn bản"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "t2-p3-g11",
+    "audioScript": "Man: The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWoman: We can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nMan: Could we use the online module instead? It covers the same material and takes about two hours.\nWoman: The online module is fine for the written part, but they also need hands-on practice with the forklift.\nMan: I can lead that session myself. I have the trainer certification.\nWoman: Perfect. I'll reserve the training room and send the online link to the group this afternoon.\nMan: Make sure they finish the module before they come. Otherwise, we'll lose time.\nWoman: I'll tell them it's due by Sunday evening.",
+    "audioVoiceText": "The safety training for the new warehouse staff is scheduled for Monday, but the instructor just called in sick.\nWe can't postpone it. The audit is on Wednesday, and everyone needs to be certified before then.\nCould we use the online module instead? It covers the same material and takes about two hours.\nThe online module is fine for the written part, but they also need hands-on practice with the forklift.\nI can lead that session myself. I have the trainer certification.\nPerfect. I'll reserve the training room and send the online link to the group this afternoon.\nMake sure they finish the module before they come. Otherwise, we'll lose time.\nI'll tell them it's due by Sunday evening.",
+    "questionText": "What will the man do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lead the hands-on session"
+      },
+      {
+        "key": "B",
+        "text": "(B) Postpone the audit"
+      },
+      {
+        "key": "C",
+        "text": "(C) Contact the instructor"
+      },
+      {
+        "key": "D",
+        "text": "(D) Reserve the training room"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì?\n(A) Dẫn buổi thực hành\n(B) Hoãn cuộc kiểm toán\n(C) Liên hệ giảng viên\n(D) Đặt phòng đào tạo",
+    "explanation": "Đáp án đúng: A. Người đàn ông nói: “I can lead that session myself. I have the trainer certification.” Anh ấy sẽ phụ trách phần thực hành. Người phụ nữ mới là người đặt phòng và gửi link, nên D sai; không ai hoãn kiểm toán hay yêu cầu anh ấy gọi giảng viên, nên B và C sai.",
+    "vocab": [
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, buổi thực hành"
+      },
+      {
+        "word": "certification",
+        "pos": "n.",
+        "meaning": "chứng chỉ"
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "meaning": "đặt trước"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation and loan checklist:",
+    "audioGroup": "t2-p3-g12",
+    "audioScript": "Woman: Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nMan: That's right. We need two new ovens for the bakery, and the installation is included in that figure.\nWoman: Your revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMan: My accountant has the previous year's records. I can have them sent over this afternoon.\nWoman: Good. We'll also need a list of the equipment and a quote from the supplier.\nMan: I have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nWoman: That would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "audioVoiceText": "Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nThat's right. We need two new ovens for the bakery, and the installation is included in that figure.\nYour revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMy accountant has the previous year's records. I can have them sent over this afternoon.\nGood. We'll also need a list of the equipment and a quote from the supplier.\nI have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nThat would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "questionText": "What does the woman say is missing from the application?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The previous year's financial statements"
+      },
+      {
+        "key": "B",
+        "text": "(B) A copy of the business license"
+      },
+      {
+        "key": "C",
+        "text": "(C) The supplier's contact information"
+      },
+      {
+        "key": "D",
+        "text": "(D) A description of the bakery"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ nói hồ sơ còn thiếu gì?\n(A) Báo cáo tài chính của năm trước\n(B) Một bản sao giấy phép kinh doanh\n(C) Thông tin liên hệ của nhà cung cấp\n(D) Mô tả về tiệm bánh",
+    "explanation": "Đáp án đúng: A. Người phụ nữ nói: “the bank usually asks for two years of financial statements. You've only provided last year's.” Như vậy hồ sơ thiếu báo cáo tài chính của năm trước. Không có giấy phép kinh doanh, thông tin liên hệ hay bản mô tả tiệm bánh nào được nhắc đến, nên B, C, D sai.",
+    "vocab": [
+      {
+        "word": "loan",
+        "pos": "n.",
+        "meaning": "khoản vay"
+      },
+      {
+        "word": "financial statement",
+        "pos": "n.",
+        "meaning": "báo cáo tài chính"
+      },
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "meaning": "doanh thu"
+      },
+      {
+        "word": "accountant",
+        "pos": "n.",
+        "meaning": "kế toán viên"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">First Commercial Bank — Small Business Equipment Loan Checklist</p>\n                <p class=\"mb-2 text-xs\"><strong>Applicant:</strong> Patel Bakery &nbsp;|&nbsp; <strong>Requested Amount:</strong> $50,000 (2 Commercial Ovens + Installation)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Document</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Current Status</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Loan Application Form</td>\n                            <td class=\"border border-neutral-800 p-2\">Received</td>\n                            <td class=\"border border-neutral-800 p-2\">Complete</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2 Years of Financial Statements</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Incomplete</td>\n                            <td class=\"border border-neutral-800 p-2\">Last year on file; previous year needed</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Equipment List &amp; Supplier Quote</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Pending Revision</td>\n                            <td class=\"border border-neutral-800 p-2\">Itemize installation cost separately</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Standard processing time: 10 business days upon receipt of complete single-email submission.</p>\n            </div>"
+  },
+  {
+    "id": 66,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation and loan checklist:",
+    "audioGroup": "t2-p3-g12",
+    "audioScript": "Woman: Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nMan: That's right. We need two new ovens for the bakery, and the installation is included in that figure.\nWoman: Your revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMan: My accountant has the previous year's records. I can have them sent over this afternoon.\nWoman: Good. We'll also need a list of the equipment and a quote from the supplier.\nMan: I have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nWoman: That would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "audioVoiceText": "Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nThat's right. We need two new ovens for the bakery, and the installation is included in that figure.\nYour revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMy accountant has the previous year's records. I can have them sent over this afternoon.\nGood. We'll also need a list of the equipment and a quote from the supplier.\nI have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nThat would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "questionText": "What will the man ask the supplier to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lower the price of the ovens"
+      },
+      {
+        "key": "B",
+        "text": "(B) Separate the installation cost from the equipment cost"
+      },
+      {
+        "key": "C",
+        "text": "(C) Deliver the ovens earlier"
+      },
+      {
+        "key": "D",
+        "text": "(D) Provide a longer warranty"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ yêu cầu nhà cung cấp làm gì?\n(A) Giảm giá lò nướng\n(B) Tách chi phí lắp đặt khỏi chi phí thiết bị\n(C) Giao lò nướng sớm hơn\n(D) Cung cấp bảo hành dài hơn",
+    "explanation": "Đáp án đúng: B. Người đàn ông nói: “I'll ask the supplier to break down the installation cost separately.” Anh ấy muốn tách riêng chi phí lắp đặt. Không có yêu cầu giảm giá, giao sớm hay bảo hành dài hơn, nên A, C, D sai.",
+    "vocab": [
+      {
+        "word": "quote",
+        "pos": "n.",
+        "meaning": "báo giá"
+      },
+      {
+        "word": "installation",
+        "pos": "n.",
+        "meaning": "việc lắp đặt"
+      },
+      {
+        "word": "break down",
+        "pos": "phr.",
+        "meaning": "phân tách, phân tích"
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">First Commercial Bank — Small Business Equipment Loan Checklist</p>\n                <p class=\"mb-2 text-xs\"><strong>Applicant:</strong> Patel Bakery &nbsp;|&nbsp; <strong>Requested Amount:</strong> $50,000 (2 Commercial Ovens + Installation)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Document</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Current Status</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Loan Application Form</td>\n                            <td class=\"border border-neutral-800 p-2\">Received</td>\n                            <td class=\"border border-neutral-800 p-2\">Complete</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2 Years of Financial Statements</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Incomplete</td>\n                            <td class=\"border border-neutral-800 p-2\">Last year on file; previous year needed</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Equipment List &amp; Supplier Quote</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Pending Revision</td>\n                            <td class=\"border border-neutral-800 p-2\">Itemize installation cost separately</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Standard processing time: 10 business days upon receipt of complete single-email submission.</p>\n            </div>"
+  },
+  {
+    "id": 67,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation and loan checklist:",
+    "audioGroup": "t2-p3-g12",
+    "audioScript": "Woman: Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nMan: That's right. We need two new ovens for the bakery, and the installation is included in that figure.\nWoman: Your revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMan: My accountant has the previous year's records. I can have them sent over this afternoon.\nWoman: Good. We'll also need a list of the equipment and a quote from the supplier.\nMan: I have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nWoman: That would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "audioVoiceText": "Mr. Patel, I've reviewed your application for the equipment loan. The amount you requested is fifty thousand dollars.\nThat's right. We need two new ovens for the bakery, and the installation is included in that figure.\nYour revenue has grown steadily, but the bank usually asks for two years of financial statements. You've only provided last year's.\nMy accountant has the previous year's records. I can have them sent over this afternoon.\nGood. We'll also need a list of the equipment and a quote from the supplier.\nI have the quote. I'll ask the supplier to break down the installation cost separately. Is there anything I can do to speed up the review?\nThat would help. As for speeding things up, the review usually takes about ten business days, so submit the documents together in one email rather than sending them one at a time.",
+    "questionText": "What does the woman recommend?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Applying for a larger loan"
+      },
+      {
+        "key": "B",
+        "text": "(B) Waiting until next year"
+      },
+      {
+        "key": "C",
+        "text": "(C) Visiting the bank in person"
+      },
+      {
+        "key": "D",
+        "text": "(D) Sending all the documents in one email"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ khuyến nghị điều gì?\n(A) Xin một khoản vay lớn hơn\n(B) Chờ đến năm sau\n(C) Đến ngân hàng trực tiếp\n(D) Gửi tất cả tài liệu trong một email",
+    "explanation": "Đáp án đúng: D. Người phụ nữ nói: “Submit the documents together in one email rather than sending them one at a time.” Bà ấy muốn nhận đủ hồ sơ trong một lần để xử lý nhanh. Không có đề nghị vay thêm, chờ sang năm hay đến ngân hàng, nên A, B, C sai.",
+    "vocab": [
+      {
+        "word": "submit",
+        "pos": "v.",
+        "meaning": "nộp"
+      },
+      {
+        "word": "review",
+        "pos": "n.",
+        "meaning": "việc xem xét"
+      },
+      {
+        "word": "business day",
+        "pos": "n.",
+        "meaning": "ngày làm việc"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">First Commercial Bank — Small Business Equipment Loan Checklist</p>\n                <p class=\"mb-2 text-xs\"><strong>Applicant:</strong> Patel Bakery &nbsp;|&nbsp; <strong>Requested Amount:</strong> $50,000 (2 Commercial Ovens + Installation)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Document</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Current Status</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Loan Application Form</td>\n                            <td class=\"border border-neutral-800 p-2\">Received</td>\n                            <td class=\"border border-neutral-800 p-2\">Complete</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2 Years of Financial Statements</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Incomplete</td>\n                            <td class=\"border border-neutral-800 p-2\">Last year on file; previous year needed</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Equipment List &amp; Supplier Quote</td>\n                            <td class=\"border border-neutral-800 p-2 font-bold\">Pending Revision</td>\n                            <td class=\"border border-neutral-800 p-2\">Itemize installation cost separately</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Standard processing time: 10 business days upon receipt of complete single-email submission.</p>\n            </div>"
+  },
+  {
+    "id": 68,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation and venue comparison:",
+    "audioGroup": "t2-p3-g13",
+    "audioScript": "Man: I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nWoman: Have you compared the two hotels we discussed?\nMan: Yes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nWoman: But the eighth is the only date the keynote speaker can attend.\nMan: I know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nWoman: The deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nMan: That's true. Should I ask them to hold the date while we finalize the menu?\nWoman: Yes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "audioVoiceText": "I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nHave you compared the two hotels we discussed?\nYes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nBut the eighth is the only date the keynote speaker can attend.\nI know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nThe deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nThat's true. Should I ask them to hold the date while we finalize the menu?\nYes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "questionText": "What is the man trying to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Hire a keynote speaker"
+      },
+      {
+        "key": "B",
+        "text": "(B) Change the conference date"
+      },
+      {
+        "key": "C",
+        "text": "(C) Choose a venue for a conference"
+      },
+      {
+        "key": "D",
+        "text": "(D) Negotiate a lower room rate"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông đang cố gắng làm gì?\n(A) Thuê diễn giả chính\n(B) Đổi ngày hội nghị\n(C) Chọn địa điểm cho một hội nghị\n(D) Thương lượng giá phòng thấp hơn",
+    "explanation": "Đáp án đúng: C. Người đàn ông nói: “I'm planning the sales conference for October, and I need to confirm the venue by Friday.” Anh ấy đang so sánh hai khách sạn để chọn địa điểm. Diễn giả đã có ngày cố định, không phải đang thuê, nên A sai; ngày hội nghị không đổi, nên B sai; giá phòng của Riverside vốn đã thấp hơn, không có thương lượng, nên D sai.",
+    "vocab": [
+      {
+        "word": "venue",
+        "pos": "n.",
+        "meaning": "địa điểm tổ chức"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "conference",
+        "pos": "n.",
+        "meaning": "hội nghị"
+      },
+      {
+        "word": "ballroom",
+        "pos": "n.",
+        "meaning": "phòng khiêu vũ lớn"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">October Sales Conference — Venue Comparison (October 8–10)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Venue</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Oct. 8 Availability</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Deposit</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">3-Day Total Cost</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Grandview Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Fully Booked</td>\n                            <td class=\"border border-neutral-800 p-2\">10%</td>\n                            <td class=\"border border-neutral-800 p-2\">$14,500</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Available</td>\n                            <td class=\"border border-neutral-800 p-2\">30%</td>\n                            <td class=\"border border-neutral-800 p-2\">$12,500 (Saves $2,000)</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">*Confirm with venue whether audio-visual equipment rental is included in the room rate.</p>\n            </div>"
+  },
+  {
+    "id": 69,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation and venue comparison:",
+    "audioGroup": "t2-p3-g13",
+    "audioScript": "Man: I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nWoman: Have you compared the two hotels we discussed?\nMan: Yes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nWoman: But the eighth is the only date the keynote speaker can attend.\nMan: I know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nWoman: The deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nMan: That's true. Should I ask them to hold the date while we finalize the menu?\nWoman: Yes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "audioVoiceText": "I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nHave you compared the two hotels we discussed?\nYes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nBut the eighth is the only date the keynote speaker can attend.\nI know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nThe deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nThat's true. Should I ask them to hold the date while we finalize the menu?\nYes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "questionText": "What is the disadvantage of the Riverside Hotel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It has a smaller ballroom."
+      },
+      {
+        "key": "B",
+        "text": "(B) It is unavailable on the eighth."
+      },
+      {
+        "key": "C",
+        "text": "(C) Its room rate is higher."
+      },
+      {
+        "key": "D",
+        "text": "(D) It requires a larger deposit."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Điểm bất lợi của khách sạn Riverside là gì?\n(A) Phòng tiệc của khách sạn nhỏ hơn.\n(B) Khách sạn không còn trống vào ngày mùng tám.\n(C) Giá phòng của khách sạn cao hơn.\n(D) Khách sạn yêu cầu tiền đặt cọc lớn hơn.",
+    "explanation": "Đáp án đúng: D. Người đàn ông nói: “The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.” Đặt cọc 30% thay vì 10% là bất lợi. Riverside còn trống ngày mùng tám nên B sai; giá phòng thấp hơn nên C sai; phòng tiệc lớn hơn là của Grandview, không có thông tin Riverside nhỏ hơn, nên A sai.",
+    "vocab": [
+      {
+        "word": "deposit",
+        "pos": "n.",
+        "meaning": "tiền đặt cọc"
+      },
+      {
+        "word": "fully booked",
+        "pos": "phr.",
+        "meaning": "được đặt kín"
+      },
+      {
+        "word": "room rate",
+        "pos": "n.",
+        "meaning": "giá phòng"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">October Sales Conference — Venue Comparison (October 8–10)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Venue</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Oct. 8 Availability</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Deposit</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">3-Day Total Cost</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Grandview Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Fully Booked</td>\n                            <td class=\"border border-neutral-800 p-2\">10%</td>\n                            <td class=\"border border-neutral-800 p-2\">$14,500</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Available</td>\n                            <td class=\"border border-neutral-800 p-2\">30%</td>\n                            <td class=\"border border-neutral-800 p-2\">$12,500 (Saves $2,000)</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">*Confirm with venue whether audio-visual equipment rental is included in the room rate.</p>\n            </div>"
+  },
+  {
+    "id": 70,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation and venue comparison:",
+    "audioGroup": "t2-p3-g13",
+    "audioScript": "Man: I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nWoman: Have you compared the two hotels we discussed?\nMan: Yes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nWoman: But the eighth is the only date the keynote speaker can attend.\nMan: I know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nWoman: The deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nMan: That's true. Should I ask them to hold the date while we finalize the menu?\nWoman: Yes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "audioVoiceText": "I'm planning the sales conference for October, and I need to confirm the venue by Friday.\nHave you compared the two hotels we discussed?\nYes. The Grandview has a larger ballroom, but it's fully booked on the eighth.\nBut the eighth is the only date the keynote speaker can attend.\nI know. The Riverside Hotel is available, but they require a deposit of 30 percent instead of 10.\nThe deposit is higher, but their room rate is lower. Over three days, we'd still save about two thousand dollars.\nThat's true. Should I ask them to hold the date while we finalize the menu?\nYes, and ask whether the rate includes the audio equipment. We spent a lot on rentals last year.",
+    "questionText": "What does the woman want the man to ask about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The menu options"
+      },
+      {
+        "key": "B",
+        "text": "(B) The audio equipment"
+      },
+      {
+        "key": "C",
+        "text": "(C) The parking facilities"
+      },
+      {
+        "key": "D",
+        "text": "(D) The cancellation policy"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ muốn người đàn ông hỏi về điều gì?\n(A) Các lựa chọn thực đơn\n(B) Thiết bị âm thanh\n(C) Cơ sở đậu xe\n(D) Chính sách hủy",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói: “ask whether the rate includes the audio equipment. We spent a lot on rentals last year.” Bà ấy muốn biết giá phòng có gồm thiết bị âm thanh không. Thực đơn đang được hoàn thiện chứ không phải điều cần hỏi khách sạn, nên A sai; không nhắc đến bãi đỗ xe hay chính sách hủy, nên C và D sai.",
+    "vocab": [
+      {
+        "word": "audio equipment",
+        "pos": "n.",
+        "meaning": "thiết bị âm thanh"
+      },
+      {
+        "word": "rental",
+        "pos": "n.",
+        "meaning": "việc thuê"
+      },
+      {
+        "word": "finalize",
+        "pos": "v.",
+        "meaning": "hoàn tất"
+      },
+      {
+        "word": "include",
+        "pos": "v.",
+        "meaning": "bao gồm"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">October Sales Conference — Venue Comparison (October 8–10)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Venue</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Oct. 8 Availability</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Required Deposit</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">3-Day Total Cost</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Grandview Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Fully Booked</td>\n                            <td class=\"border border-neutral-800 p-2\">10%</td>\n                            <td class=\"border border-neutral-800 p-2\">$14,500</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Hotel</td>\n                            <td class=\"border border-neutral-800 p-2\">Available</td>\n                            <td class=\"border border-neutral-800 p-2\">30%</td>\n                            <td class=\"border border-neutral-800 p-2\">$12,500 (Saves $2,000)</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">*Confirm with venue whether audio-visual equipment rental is included in the room rate.</p>\n            </div>"
+  }
+]

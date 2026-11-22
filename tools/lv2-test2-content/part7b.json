@@ -1,0 +1,782 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following order form and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">GREENLEAF CAF&Eacute; &mdash; PURCHASE ORDER</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 1: Order form</p><p class=\"mt-2\">Company: Greenleaf Caf&eacute;, 27 Mill Street<br>Order number: GR-2085<br>Order date: March 4</p>\n       <p class=\"mt-2\">8 bags of Colombian coffee (1 kg), $22 each<br>4 bags of decaf blend (1 kg), $19 each<br><strong>Total: $252</strong></p>\n       <p class=\"mt-2\">Requested delivery: before March 10<br>Note: our storage room is on the second floor and the building has no elevator. Please call 555-0142 if there is any problem with this order.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: E-mail</p><p class=\"mt-2\"><strong>To:</strong> orders@greenleafcafe.com<br><strong>From:</strong> Dan Ruiz, Harvest Roasters<br><strong>Date:</strong> March 6<br><strong>Subject:</strong> About order GR-2085</p>\n       <p class=\"mt-2\">Thank you for your order. The Colombian coffee is in stock and will be delivered on March 8. The decaf blend is out of stock for now; our next shipment arrives on March 12, so we can bring it to you on March 13.</p>\n       <p class=\"mt-2\">Our driver usually arrives between 9 and 11 a.m., but he can carry boxes only to the ground floor. If the later date is a problem, you may collect the decaf blend at our shop on River Road.</p>\n       <p class=\"mt-2\">Best regards,<br>Dan Ruiz</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To ask for a new order form",
+          "To explain a change in a delivery",
+          "To offer a lower price on coffee",
+          "To complain about a late payment"
+        ],
+        "answer": "B",
+        "translation": "Mục đích của e-mail là gì?",
+        "explanation": "Thư cho biết cà phê Colombia sẽ giao ngày 8 tháng 3, còn loại decaf đang hết hàng nên phải giao ngày 13 tháng 3; như vậy thư dùng để thông báo thay đổi về việc giao hàng.",
+        "vocab": [
+          [
+            "order",
+            "n",
+            "đơn hàng"
+          ],
+          [
+            "deliver",
+            "v",
+            "giao hàng"
+          ],
+          [
+            "shipment",
+            "n",
+            "lô hàng nhập về"
+          ]
+        ]
+      },
+      {
+        "n": 177,
+        "q": "What does the café ask for that the driver cannot provide?",
+        "options": [
+          "Delivery on a weekend",
+          "Help carrying boxes to the second floor",
+          "A receipt for the payment",
+          "Smaller bags of coffee"
+        ],
+        "answer": "B",
+        "translation": "Quán cà phê yêu cầu điều gì mà tài xế không thể đáp ứng?",
+        "explanation": "Phiếu đặt hàng cho biết phòng kho ở tầng hai và tòa nhà không có thang máy, trong khi e-mail nói tài xế chỉ mang được hộp lên tầng trệt; vì vậy việc mang hàng lên tầng hai là không thực hiện được.",
+        "vocab": [
+          [
+            "carry",
+            "v",
+            "mang, vác"
+          ],
+          [
+            "ground floor",
+            "n",
+            "tầng trệt"
+          ],
+          [
+            "storage room",
+            "n",
+            "phòng kho"
+          ]
+        ]
+      },
+      {
+        "n": 178,
+        "q": "How much does one bag of decaf blend cost?",
+        "options": [
+          "$19",
+          "$22",
+          "$4",
+          "$76"
+        ],
+        "answer": "A",
+        "translation": "Một bao cà phê decaf có giá bao nhiêu?",
+        "explanation": "Phiếu đặt hàng ghi rõ 4 bao decaf loại 1 kg với giá 19 đô-la mỗi bao.",
+        "vocab": [
+          [
+            "blend",
+            "n",
+            "hỗn hợp (cà phê)"
+          ],
+          [
+            "bag",
+            "n",
+            "bao, túi"
+          ],
+          [
+            "each",
+            "adv",
+            "mỗi cái"
+          ]
+        ]
+      },
+      {
+        "n": 179,
+        "q": "What will the café most likely do if it needs the decaf coffee before March 13?",
+        "options": [
+          "Place a second order",
+          "Buy it at the shop on River Road",
+          "Ask for a refund",
+          "Change to Colombian coffee"
+        ],
+        "answer": "B",
+        "translation": "Quán cà phê nhiều khả năng sẽ làm gì nếu cần cà phê decaf trước ngày 13 tháng 3?",
+        "explanation": "E-mail nói nếu ngày giao muộn là một vấn đề thì có thể đến lấy cà phê decaf tại cửa hàng trên đường River Road, nên đây là cách khách sẽ chọn.",
+        "vocab": [
+          [
+            "collect",
+            "v",
+            "đến lấy"
+          ],
+          [
+            "problem",
+            "n",
+            "vấn đề"
+          ],
+          [
+            "later",
+            "adj",
+            "muộn hơn"
+          ]
+        ]
+      },
+      {
+        "n": 180,
+        "q": "All of the following are mentioned in the documents EXCEPT",
+        "options": [
+          "the number of bags in the order",
+          "the time of day when deliveries arrive",
+          "a discount for caf&eacute; owners",
+          "the telephone number of the caf&eacute;"
+        ],
+        "answer": "C",
+        "translation": "Tất cả các mục sau đều được nhắc đến trong tài liệu NGOẠI TRỪ",
+        "explanation": "Tài liệu có số bao đặt hàng, khung giờ tài xế thường đến và số 555-0142 của quán; không có chỗ nào nói về ưu đãi giảm giá cho chủ quán.",
+        "vocab": [
+          [
+            "delivery",
+            "n",
+            "việc giao hàng"
+          ],
+          [
+            "arrive",
+            "v",
+            "đến"
+          ],
+          [
+            "order",
+            "n",
+            "đơn hàng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and online message.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">RIVERSIDE COMMUNITY COLLEGE &mdash; EVENING CLASSES</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 1: Advertisement</p><p class=\"mt-2\"><strong>Excel for Office Work</strong><br>Build practical skills for reports, schedules and simple charts. This six-week course meets on Tuesdays and Thursdays from 7 to 9 p.m. and begins on April 8. The fee is $120 and includes a workbook.</p>\n       <p class=\"mt-2\">Classes are limited to 16 students, so please register at the front desk or on our website by April 3. Students must bring their own laptop. No refunds are given after the first class.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Online message</p><p class=\"mt-2\">Hi, this is Marco Silva. I read about the Excel class on your website and would like to join it. I work until 8 p.m. on Tuesdays, so I could come only on Thursdays. Would it still be possible to finish the course?</p>\n       <p class=\"mt-2\">I am also a full-time student at another college &mdash; do you offer a student discount? I can pay in cash on the first night.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "What is the advertisement mainly about?",
+        "options": [
+          "A new college building",
+          "An evening computer course",
+          "A job opening at a school",
+          "A website design service"
+        ],
+        "answer": "B",
+        "translation": "Quảng cáo chủ yếu nói về điều gì?",
+        "explanation": "Quảng cáo giới thiệu khóa học Excel cho công việc văn phòng, học vào buổi tối các ngày thứ Ba và thứ Năm, tức là một khóa máy tính buổi tối.",
+        "vocab": [
+          [
+            "advertisement",
+            "n",
+            "quảng cáo"
+          ],
+          [
+            "course",
+            "n",
+            "khóa học"
+          ],
+          [
+            "evening",
+            "adj",
+            "buổi tối"
+          ]
+        ]
+      },
+      {
+        "n": 182,
+        "q": "By what date should students register?",
+        "options": [
+          "April 3",
+          "April 8",
+          "May 30",
+          "June 16"
+        ],
+        "answer": "A",
+        "translation": "Học viên phải đăng ký trước ngày nào?",
+        "explanation": "Quảng cáo yêu cầu đăng ký tại quầy lễ tân hoặc trên trang web trước ngày 3 tháng 4.",
+        "vocab": [
+          [
+            "register",
+            "v",
+            "đăng ký"
+          ],
+          [
+            "fee",
+            "n",
+            "học phí, lệ phí"
+          ],
+          [
+            "website",
+            "n",
+            "trang web"
+          ]
+        ]
+      },
+      {
+        "n": 183,
+        "q": "What can be inferred about Mr. Silva?",
+        "options": [
+          "He works every evening.",
+          "He cannot attend all of the Tuesday classes.",
+          "He has already taken the course.",
+          "He lives far from the college."
+        ],
+        "answer": "B",
+        "translation": "Có thể suy ra gì về ông Silva?",
+        "explanation": "Quảng cáo cho biết lớp học vào thứ Ba và thứ Năm, còn tin nhắn nói ông làm việc đến 8 giờ tối thứ Ba nên không thể dự các buổi thứ Ba.",
+        "vocab": [
+          [
+            "attend",
+            "v",
+            "tham dự, đến lớp"
+          ],
+          [
+            "schedule",
+            "n",
+            "lịch làm việc"
+          ],
+          [
+            "until",
+            "prep",
+            "đến (một thời điểm)"
+          ]
+        ]
+      },
+      {
+        "n": 184,
+        "q": "In the message, the word “join” is closest in meaning to",
+        "options": [
+          "enroll in",
+          "visit",
+          "call",
+          "finish"
+        ],
+        "answer": "A",
+        "translation": "Trong tin nhắn, từ “join” gần nghĩa nhất với",
+        "explanation": "Ông Silva muốn “join” lớp học, tức là ghi danh vào lớp chứ không chỉ ghé thăm hay gọi điện.",
+        "vocab": [
+          [
+            "join",
+            "v",
+            "tham gia"
+          ],
+          [
+            "possible",
+            "adj",
+            "có thể"
+          ],
+          [
+            "discount",
+            "n",
+            "giảm giá"
+          ]
+        ]
+      },
+      {
+        "n": 185,
+        "q": "The advertisement mentions all of the following EXCEPT",
+        "options": [
+          "the size of the class",
+          "the name of the instructor",
+          "the cost of the course",
+          "the days of the week"
+        ],
+        "answer": "B",
+        "translation": "Quảng cáo nhắc đến tất cả các mục sau NGOẠI TRỪ",
+        "explanation": "Quảng cáo nêu sĩ số tối đa 16 học viên, học phí 120 đô-la và các ngày học, nhưng không cho biết tên giảng viên.",
+        "vocab": [
+          [
+            "limited",
+            "adj",
+            "bị giới hạn"
+          ],
+          [
+            "include",
+            "v",
+            "bao gồm"
+          ],
+          [
+            "refund",
+            "n",
+            "việc hoàn tiền"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following room list, e-mail and confirmation.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LAKEVIEW HOTEL &mdash; MEETING ROOMS</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 1: Room list</p><p class=\"mt-2\">Maple Room: up to 20 guests, projector, $150 per day<br>Cedar Room: up to 40 guests, projector and video screen, $260 per day<br>Birch Room: up to 10 guests, whiteboard only, $90 per day</p>\n       <p class=\"mt-2\">Coffee service is included in every room. Lunch can be ordered at $18 per person when requested two days in advance.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: E-mail</p><p class=\"mt-2\"><strong>To:</strong> events@lakeviewhotel.com<br><strong>From:</strong> Rita Ong, Northline Design<br><strong>Subject:</strong> Sales meeting in June</p>\n       <p class=\"mt-2\">Hello, we would like to hold our yearly sales meeting at your hotel on June 18. About 34 people will attend. We will show a video from a laptop, so a screen is necessary. Please also order lunch for the group. Our budget for the room is $300.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: Confirmation</p><p class=\"mt-2\">Booking: Northline Design, June 18<br>Room: Cedar<br>Rate: $260 per day; video screen included<br>Lunch: 34 guests at $18 each<br>Please confirm the final number of guests by June 15.</p>\n       <p class=\"mt-2\">Note: our parking lot will be closed on June 18 for repairs. Guests may use the public garage on King Street, two minutes away.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What is the purpose of Ms. Ong’s e-mail?",
+        "options": [
+          "To ask about lunch prices",
+          "To reserve a meeting room",
+          "To change the date of a booking",
+          "To apply for a job at the hotel"
+        ],
+        "answer": "B",
+        "translation": "Mục đích e-mail của bà Ong là gì?",
+        "explanation": "Bà Ong viết rằng công ty muốn tổ chức buổi họp bán hàng tại khách sạn vào ngày 18 tháng 6, tức là đặt một phòng họp.",
+        "vocab": [
+          [
+            "hold",
+            "v",
+            "tổ chức"
+          ],
+          [
+            "attend",
+            "v",
+            "tham dự"
+          ],
+          [
+            "budget",
+            "n",
+            "ngân sách"
+          ]
+        ]
+      },
+      {
+        "n": 187,
+        "q": "Which room will Northline Design most likely use?",
+        "options": [
+          "Maple Room, because it is the cheapest",
+          "Cedar Room, because it holds 34 guests and has a screen",
+          "Birch Room, because it has a whiteboard",
+          "No room, because the group is too large"
+        ],
+        "answer": "B",
+        "translation": "Northline Design nhiều khả năng sẽ dùng phòng nào?",
+        "explanation": "Công ty có khoảng 34 người và cần màn hình để chiếu video; chỉ phòng Cedar chứa được tới 40 khách và có sẵn màn hình video.",
+        "vocab": [
+          [
+            "screen",
+            "n",
+            "màn hình"
+          ],
+          [
+            "guest",
+            "n",
+            "khách"
+          ],
+          [
+            "include",
+            "v",
+            "bao gồm"
+          ]
+        ]
+      },
+      {
+        "n": 188,
+        "q": "How much will the lunch cost in total?",
+        "options": [
+          "$260",
+          "$594",
+          "$612",
+          "$680"
+        ],
+        "answer": "C",
+        "translation": "Bữa trưa sẽ tốn tổng cộng bao nhiêu?",
+        "explanation": "Bữa trưa có giá 18 đô-la mỗi người cho 34 khách, nên tổng chi phí là 34 × 18 = 612 đô-la.",
+        "vocab": [
+          [
+            "per",
+            "prep",
+            "mỗi"
+          ],
+          [
+            "lunch",
+            "n",
+            "bữa trưa"
+          ],
+          [
+            "order",
+            "v",
+            "đặt"
+          ]
+        ]
+      },
+      {
+        "n": 189,
+        "q": "What does the confirmation suggest about the hotel’s parking lot?",
+        "options": [
+          "It is free for all guests.",
+          "It will not be available on June 18.",
+          "It is located on King Street.",
+          "It is being expanded this summer."
+        ],
+        "answer": "B",
+        "translation": "Thư xác nhận cho thấy điều gì về bãi đỗ xe của khách sạn?",
+        "explanation": "Thư ghi bãi đỗ xe sẽ đóng cửa ngày 18 tháng 6 để sửa chữa, nên khách phải dùng ga-ra công cộng trên đường King Street.",
+        "vocab": [
+          [
+            "parking lot",
+            "n",
+            "bãi đỗ xe"
+          ],
+          [
+            "repair",
+            "n",
+            "việc sửa chữa"
+          ],
+          [
+            "garage",
+            "n",
+            "ga-ra, bãi giữ xe"
+          ]
+        ]
+      },
+      {
+        "n": 190,
+        "q": "In Document 3, the word “rate” is closest in meaning to",
+        "options": [
+          "speed",
+          "price",
+          "quality",
+          "size"
+        ],
+        "answer": "B",
+        "translation": "Trong Tài liệu 3, từ “rate” gần nghĩa nhất với",
+        "explanation": "“Rate: $260 per day” nói về mức giá thuê phòng mỗi ngày, nên “rate” ở đây nghĩa là giá.",
+        "vocab": [
+          [
+            "rate",
+            "n",
+            "mức giá"
+          ],
+          [
+            "per",
+            "prep",
+            "mỗi"
+          ],
+          [
+            "confirm",
+            "v",
+            "xác nhận"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following price list, registration form and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SAFEWORK TRAINING CENTER &mdash; COURSE PRICES</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 1: Price list</p><p class=\"mt-2\">Basic First Aid (4 hours): $65 per person<br>First Aid and CPR (8 hours): $110 per person<br>Fire Safety (3 hours): $50 per person</p>\n       <p class=\"mt-2\">Groups of six or more in the same course receive a 10 percent discount. Certificates cost $5 each.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Registration form</p><p class=\"mt-2\">Company: Brightline Ltd<br>Contact: Olga Petrov<br>Course: First Aid and CPR<br>Number of participants: 8<br>Preferred date: May 9<br>Location: our office, 14 Harper Road<br>Certificates: yes</p>\n       <p class=\"mt-2\">Note: our staff work in two buildings, so we would like the trainer to come to us.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: E-mail</p><p class=\"mt-2\"><strong>To:</strong> o.petrov@brightlineltd.com<br><strong>From:</strong> SafeWork Training Center</p>\n       <p class=\"mt-2\">We have received your form and can send a trainer to your office on May 9. For eight participants the regular price is $880; with the group discount the total is $792. Certificates are free for groups of eight or more.</p>\n       <p class=\"mt-2\">Please pay within 14 days after the class. The trainer will arrive at 8:30 a.m. and needs a room with a table for each participant.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "What is the purpose of the price list?",
+        "options": [
+          "To announce a new office",
+          "To show the cost of training courses",
+          "To introduce the company&rsquo;s staff",
+          "To explain safety rules"
+        ],
+        "answer": "B",
+        "translation": "Mục đích của bảng giá là gì?",
+        "explanation": "Bảng giá liệt kê ba khóa đào tạo kèm học phí mỗi người, tức là cho biết chi phí của các khóa học.",
+        "vocab": [
+          [
+            "price",
+            "n",
+            "giá"
+          ],
+          [
+            "course",
+            "n",
+            "khóa học"
+          ],
+          [
+            "per",
+            "prep",
+            "mỗi"
+          ]
+        ]
+      },
+      {
+        "n": 192,
+        "q": "How much is the group discount?",
+        "options": [
+          "$8",
+          "$65",
+          "$88",
+          "$110"
+        ],
+        "answer": "C",
+        "translation": "Khoản giảm giá cho nhóm là bao nhiêu?",
+        "explanation": "Tám người học khóa 110 đô-la mỗi người nên giá thường là 880 đô-la; sau khi giảm còn 792 đô-la, vậy mức giảm là 88 đô-la.",
+        "vocab": [
+          [
+            "discount",
+            "n",
+            "giảm giá"
+          ],
+          [
+            "regular price",
+            "n",
+            "giá thường"
+          ],
+          [
+            "participant",
+            "n",
+            "người tham gia"
+          ]
+        ]
+      },
+      {
+        "n": 193,
+        "q": "What will the trainer need at Brightline’s office?",
+        "options": [
+          "A large screen",
+          "A table for each participant",
+          "Eight computers",
+          "A separate lunch room"
+        ],
+        "answer": "B",
+        "translation": "Giảng viên sẽ cần gì tại văn phòng của Brightline?",
+        "explanation": "E-mail nói giảng viên cần một phòng có bàn cho mỗi người tham gia.",
+        "vocab": [
+          [
+            "trainer",
+            "n",
+            "giảng viên, huấn luyện viên"
+          ],
+          [
+            "arrive",
+            "v",
+            "đến"
+          ],
+          [
+            "table",
+            "n",
+            "bàn"
+          ]
+        ]
+      },
+      {
+        "n": 194,
+        "q": "What can be inferred about the certificates for Brightline’s group?",
+        "options": [
+          "They will be mailed later.",
+          "They will cost $5 each.",
+          "They will be provided at no charge.",
+          "They are not offered for this course."
+        ],
+        "answer": "C",
+        "translation": "Có thể suy ra gì về chứng chỉ của nhóm Brightline?",
+        "explanation": "Nhóm có tám người, đúng mức “tám người trở lên” mà e-mail nói được miễn phí chứng chỉ, nên nhóm sẽ không phải trả thêm.",
+        "vocab": [
+          [
+            "certificate",
+            "n",
+            "chứng chỉ"
+          ],
+          [
+            "free",
+            "adj",
+            "miễn phí"
+          ],
+          [
+            "group",
+            "n",
+            "nhóm"
+          ]
+        ]
+      },
+      {
+        "n": 195,
+        "q": "All of the following are true EXCEPT",
+        "options": [
+          "The class will take place at Brightline&rsquo;s office.",
+          "The trainer will start in the morning.",
+          "Payment is required before the class.",
+          "The group receives a discount."
+        ],
+        "answer": "C",
+        "translation": "Tất cả các mục sau đều đúng NGOẠI TRỪ",
+        "explanation": "E-mail yêu cầu thanh toán trong vòng 14 ngày sau buổi học, không phải trước buổi học; các mục còn lại đều đúng với tài liệu.",
+        "vocab": [
+          [
+            "pay",
+            "v",
+            "thanh toán"
+          ],
+          [
+            "within",
+            "prep",
+            "trong vòng"
+          ],
+          [
+            "discount",
+            "n",
+            "giảm giá"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following notice, desk list and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE TO ALL STAFF &mdash; OFFICE MOVE</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 1: Notice</p><p class=\"mt-2\">On Friday, June 28, our department will move from the third floor to the sixth floor. Packing boxes will be delivered on Wednesday. Please write your name and desk number on each box and leave the boxes by the door before 4 p.m. on Thursday.</p>\n       <p class=\"mt-2\">Computers will be moved by the IT team, so do not pack them. The elevator will be used by the movers from 8 a.m. to noon on Friday.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Desk list</p><p class=\"mt-2\">Anna Kim &mdash; desk 3-12 &rarr; 6-04<br>Peter Lang &mdash; desk 3-15 &rarr; 6-07<br>Maya Roy &mdash; desk 3-18 &rarr; 6-05<br>Tom Reed &mdash; desk 3-21 &rarr; 6-08</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: E-mail</p><p class=\"mt-2\"><strong>From:</strong> Facilities Office<br><strong>Subject:</strong> Friday&rsquo;s move</p>\n       <p class=\"mt-2\">The sixth floor has new desks, but the phone system will not work until Monday, July 1. Please use your mobile phones on Friday. The kitchen on the sixth floor opens on July 3; until then, staff should use the kitchen on the second floor.</p>\n       <p class=\"mt-2\">If you cannot finish packing by Thursday, please tell me before noon on Wednesday.</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "What is the notice mainly about?",
+        "options": [
+          "A plan to move the office to another floor",
+          "A change in the IT team",
+          "A request for new desks",
+          "A schedule for the summer holiday"
+        ],
+        "answer": "A",
+        "translation": "Thông báo chủ yếu nói về điều gì?",
+        "explanation": "Thông báo cho biết phòng ban sẽ chuyển từ tầng ba lên tầng sáu vào thứ Sáu ngày 28 tháng 6 và hướng dẫn cách đóng gói.",
+        "vocab": [
+          [
+            "move",
+            "v",
+            "chuyển (chỗ)"
+          ],
+          [
+            "department",
+            "n",
+            "phòng ban"
+          ],
+          [
+            "floor",
+            "n",
+            "tầng"
+          ]
+        ]
+      },
+      {
+        "n": 197,
+        "q": "Ms. Kim writes “6-04” on her boxes. Why?",
+        "options": [
+          "To mark her old desk",
+          "To show where the boxes should go in the new office",
+          "To record the date of the move",
+          "To identify the members of the IT team"
+        ],
+        "answer": "B",
+        "translation": "Bà Kim ghi “6-04” lên các thùng của mình. Vì sao?",
+        "explanation": "Thông báo yêu cầu ghi tên và số bàn lên mỗi thùng, còn danh sách cho thấy bàn mới của bà Kim là 6-04 ở tầng sáu, nên số đó chỉ nơi đặt thùng.",
+        "vocab": [
+          [
+            "desk",
+            "n",
+            "bàn làm việc"
+          ],
+          [
+            "box",
+            "n",
+            "hộp, thùng"
+          ],
+          [
+            "name",
+            "n",
+            "tên"
+          ]
+        ]
+      },
+      {
+        "n": 198,
+        "q": "According to the notice, what should employees NOT put in boxes?",
+        "options": [
+          "Books",
+          "Computers",
+          "Desk supplies",
+          "Papers"
+        ],
+        "answer": "B",
+        "translation": "Theo thông báo, nhân viên KHÔNG nên đóng gói vật gì?",
+        "explanation": "Thông báo nói máy tính sẽ do nhóm IT chuyển nên nhân viên không được đóng gói chúng.",
+        "vocab": [
+          [
+            "pack",
+            "v",
+            "đóng gói"
+          ],
+          [
+            "mover",
+            "n",
+            "người chuyển đồ"
+          ],
+          [
+            "elevator",
+            "n",
+            "thang máy"
+          ]
+        ]
+      },
+      {
+        "n": 199,
+        "q": "What will staff probably do on Friday if they need to call a client?",
+        "options": [
+          "Use the phone on the second floor",
+          "Wait until Monday",
+          "Use their mobile phones",
+          "Ask the movers for help"
+        ],
+        "answer": "C",
+        "translation": "Nhân viên nhiều khả năng sẽ làm gì vào thứ Sáu nếu cần gọi cho khách hàng?",
+        "explanation": "E-mail nói hệ thống điện thoại chưa hoạt động đến thứ Hai và yêu cầu dùng điện thoại di động trong ngày thứ Sáu.",
+        "vocab": [
+          [
+            "mobile phone",
+            "n",
+            "điện thoại di động"
+          ],
+          [
+            "until",
+            "prep",
+            "cho đến"
+          ],
+          [
+            "system",
+            "n",
+            "hệ thống"
+          ]
+        ]
+      },
+      {
+        "n": 200,
+        "q": "The e-mail mentions all of the following EXCEPT",
+        "options": [
+          "when the phone system will be ready",
+          "when the kitchen will open",
+          "the name of the moving company",
+          "what to do if packing is late"
+        ],
+        "answer": "C",
+        "translation": "E-mail nhắc đến tất cả các mục sau NGOẠI TRỪ",
+        "explanation": "E-mail nêu thời điểm điện thoại hoạt động, ngày mở nhà bếp và cách xử lý khi đóng gói muộn, nhưng không nêu tên công ty chuyển nhà.",
+        "vocab": [
+          [
+            "finish",
+            "v",
+            "hoàn thành"
+          ],
+          [
+            "kitchen",
+            "n",
+            "nhà bếp"
+          ],
+          [
+            "staff",
+            "n",
+            "nhân viên"
+          ]
+        ]
+      }
+    ]
+  }
+]

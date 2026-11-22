@@ -1,0 +1,584 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following order confirmation:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ORDER CONFIRMATION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: grace.tran@lumina-supply.com<br>From: orders@northpeakoffice.com<br>Subject: Your order #4821</p><p class=\"mt-2\">Dear Ms. Tran,</p><p class=\"mt-2\">Thank you for your order. We have packed 12 boxes of A4 paper and 4 whiteboards. The items will leave our storage room on Monday and should reach your office two days later. Please check the boxes when they arrive and sign the delivery form.</p><p class=\"mt-2\">If anything is missing, call our help line within 48 hours. Payment is due 30 days after delivery.</p><p class=\"mt-2\">North Peak Office Supplies</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To ask for payment of an old bill",
+          "To confirm that an order has been received",
+          "To report that an item was damaged",
+          "To change a delivery address"
+        ],
+        "answer": "B",
+        "translation": "Mục đích của e-mail là gì? — Để xác nhận rằng một đơn hàng đã được tiếp nhận.",
+        "explanation": "Thư mở đầu bằng 'Thank you for your order' và thông báo hàng đã được đóng gói, ngày gửi đi cùng điều kiện thanh toán, nên đây là thư xác nhận đơn hàng. Thư không đòi tiền ngay (thanh toán sau 30 ngày) và không nhắc hàng bị hỏng.",
+        "vocab": [
+          ["pack", "v", "đóng gói"],
+          ["delivery", "n", "việc giao hàng"],
+          ["due", "adj", "đến hạn (thanh toán)"]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "According to the e-mail, what should Ms. Tran do when the boxes arrive?",
+        "options": [
+          "Pay the driver within 48 hours",
+          "Send the whiteboards back to the supplier",
+          "Examine the goods and sign a form",
+          "Call the help line before Monday"
+        ],
+        "answer": "C",
+        "translation": "Theo e-mail, bà Tran nên làm gì khi các thùng hàng đến? — Kiểm tra hàng và ký phiếu giao hàng.",
+        "explanation": "E-mail ghi 'check the boxes when they arrive and sign the delivery form'; phương án C diễn đạt lại ý này. Thanh toán là 30 ngày sau khi giao, còn 48 giờ là hạn gọi điện khi thiếu hàng.",
+        "vocab": [
+          ["check", "v", "kiểm tra"],
+          ["sign", "v", "ký"],
+          ["missing", "adj", "bị thiếu"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following price list:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">BRIGHT PRINT SHOP - PRICE LIST</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">All prices are for one copy and do not include tax.</p><table class=\"w-full text-left mt-2 text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"py-1\">Service</th><th class=\"py-1 text-right\">Price</th></tr><tr><td class=\"py-1\">Black-and-white copy (A4)</td><td class=\"py-1 text-right\">$0.10</td></tr><tr><td class=\"py-1\">Colour copy (A4)</td><td class=\"py-1 text-right\">$0.45</td></tr><tr><td class=\"py-1\">Business cards (100 cards)</td><td class=\"py-1 text-right\">$18</td></tr><tr><td class=\"py-1\">Poster (A2)</td><td class=\"py-1 text-right\">$12</td></tr></table><p class=\"mt-2\">Orders of 500 copies or more receive a 10% discount. Most jobs are ready in one day, but orders over 1,000 copies take two days. Customers who bring their own paper pay half the price.</p><p class=\"mt-2\">The shop is closed on public holidays. To place an order, send your file to print@brightprint.com or visit us at 8 King Street.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "A customer orders 600 black-and-white copies. What discount will the shop give?",
+        "options": [
+          "5 percent",
+          "10 percent",
+          "15 percent",
+          "20 percent"
+        ],
+        "answer": "B",
+        "translation": "Một khách đặt 600 bản photo đen trắng. Cửa hàng sẽ giảm giá bao nhiêu? — 10 phần trăm.",
+        "explanation": "Bảng giá ghi 'Orders of 500 copies or more receive a 10% discount'. Đơn 600 bản đã vượt mốc 500 nên được giảm 10%.",
+        "vocab": [
+          ["discount", "n", "mức giảm giá"],
+          ["copy", "n", "bản sao, bản photo"],
+          ["order", "n", "đơn đặt hàng"]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "All of the following are true EXCEPT:",
+        "options": [
+          "Large orders take longer to finish.",
+          "Customers may bring their own paper.",
+          "The shop opens every day of the year.",
+          "List prices do not include tax."
+        ],
+        "answer": "C",
+        "translation": "Tất cả các câu sau đều đúng, NGOẠI TRỪ: — Cửa hàng mở cửa mọi ngày trong năm.",
+        "explanation": "Bài ghi 'The shop is closed on public holidays' nên C sai. A đúng với 'orders over 1,000 copies take two days', B đúng với 'bring their own paper', D đúng với 'do not include tax'.",
+        "vocab": [
+          ["include", "v", "bao gồm"],
+          ["public holiday", "n", "ngày lễ"],
+          ["finish", "v", "hoàn thành"]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "The word 'jobs' in paragraph 2 is closest in meaning to",
+        "options": [
+          "prices",
+          "orders",
+          "workers",
+          "files"
+        ],
+        "answer": "B",
+        "translation": "Từ 'jobs' ở đoạn 2 gần nghĩa nhất với — 'orders' (các đơn hàng).",
+        "explanation": "'Most jobs are ready in one day' nói về các đơn in của khách được làm xong trong một ngày, nên trong ngữ cảnh này 'jobs' chính là các đơn đặt hàng, không phải giá, nhân viên hay tệp tin.",
+        "vocab": [
+          ["ready", "adj", "xong, sẵn sàng"],
+          ["customer", "n", "khách hàng"],
+          ["place an order", "v", "đặt hàng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following job notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOW HIRING: WEEKEND RECEPTIONIST</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Riverside Hotel needs a receptionist for Saturday and Sunday, from 7 a.m. to 3 p.m. The job includes greeting guests, answering the phone, and checking people in and out.</p><p class=\"mt-2\">We are looking for someone who speaks English well and can use a computer. Experience in a hotel is helpful but not required; we will train the right person.</p><p class=\"mt-2\">The pay is $17 per hour. Staff also receive one free meal per shift. To apply, send a short e-mail to hr@riversidehotel.com before 20 May.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "What is the main purpose of this notice?",
+        "options": [
+          "To advertise a hotel room for the summer",
+          "To find a person for a weekend job",
+          "To announce a computer training class",
+          "To explain a new telephone system"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của thông báo là gì? — Tìm một người làm công việc cuối tuần.",
+        "explanation": "Tiêu đề 'NOW HIRING' cùng mức lương, yêu cầu và cách ứng tuyển cho thấy đây là tin tuyển dụng lễ tân làm thứ Bảy và Chủ nhật, không phải quảng cáo phòng hay lớp học.",
+        "vocab": [
+          ["hiring", "n", "việc tuyển dụng"],
+          ["receptionist", "n", "nhân viên lễ tân"],
+          ["shift", "n", "ca làm việc"]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "What is NOT required for the job?",
+        "options": [
+          "Good English",
+          "Computer skills",
+          "Hotel work experience",
+          "Availability at weekends"
+        ],
+        "answer": "C",
+        "translation": "Điều gì KHÔNG bắt buộc đối với công việc này? — Kinh nghiệm làm việc ở khách sạn.",
+        "explanation": "Bài ghi 'Experience in a hotel is helpful but not required'. Trong khi đó tiếng Anh tốt và biết dùng máy tính là yêu cầu, còn ca làm là thứ Bảy và Chủ nhật.",
+        "vocab": [
+          ["required", "adj", "bắt buộc"],
+          ["experience", "n", "kinh nghiệm"],
+          ["apply", "v", "ứng tuyển"]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "What extra benefit does the hotel offer its staff?",
+        "options": [
+          "Free bus travel",
+          "A hotel room for the weekend",
+          "Extra holiday days",
+          "One free meal per shift"
+        ],
+        "answer": "D",
+        "translation": "Khách sạn còn có ưu đãi gì cho nhân viên? — Một bữa ăn miễn phí mỗi ca làm.",
+        "explanation": "Bài ghi 'Staff also receive one free meal per shift' và phương án D diễn đạt lại đúng ý này. Các ưu đãi còn lại không hề được nhắc trong thông báo.",
+        "vocab": [
+          ["benefit", "n", "phúc lợi, ưu đãi"],
+          ["free", "adj", "miễn phí"],
+          ["meal", "n", "bữa ăn"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following trip schedule:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">TRIP SCHEDULE - MS. PARK (CHICAGO)</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Tuesday, 3 June<br>09:20 - Flight KE 821 leaves Incheon.<br>14:05 - Arrive at O'Hare Airport; hotel car picks up Ms. Park.<br>17:00 - Dinner with Mr. Doyle at the Grand Hotel.</p><p class=\"mt-2\">Wednesday, 4 June<br>10:00 - Meeting with the sales team at the Chicago office.<br>13:00 - Lunch with Ms. Alvarez.<br>15:30 - Visit the warehouse on Lake Street.</p><p class=\"mt-2\">Thursday, 5 June<br>08:45 - Flight KE 822 back to Incheon.</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "What will Ms. Park do at 15:30 on Wednesday?",
+        "options": [
+          "Have lunch with Ms. Alvarez",
+          "Meet the sales team",
+          "Tour a storage building",
+          "Fly back to Incheon"
+        ],
+        "answer": "C",
+        "translation": "Bà Park sẽ làm gì lúc 15:30 thứ Tư? — Tham quan một nhà kho.",
+        "explanation": "Lịch ghi '15:30 - Visit the warehouse on Lake Street'; 'warehouse' chính là 'storage building'. Các mốc 13:00 và 10:00 là ăn trưa và họp nhóm bán hàng.",
+        "vocab": [
+          ["warehouse", "n", "nhà kho"],
+          ["visit", "v", "đến thăm, tham quan"],
+          ["schedule", "n", "lịch trình"]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "How will Ms. Park get from the airport to her hotel?",
+        "options": [
+          "She will take a taxi.",
+          "A hotel car will collect her.",
+          "A colleague will drive her.",
+          "She will take a train."
+        ],
+        "answer": "B",
+        "translation": "Bà Park sẽ đi từ sân bay về khách sạn bằng cách nào? — Xe của khách sạn sẽ đón bà.",
+        "explanation": "Lịch ghi 'hotel car picks up Ms. Park' ngay sau giờ hạ cánh, nên xe của khách sạn đón bà. Không có thông tin nào về taxi, đồng nghiệp đưa đón hay tàu hỏa.",
+        "vocab": [
+          ["pick up", "v", "đón"],
+          ["arrive", "v", "đến nơi"],
+          ["flight", "n", "chuyến bay"]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "What can be inferred about Ms. Park's trip?",
+        "options": [
+          "She will spend two nights in Chicago.",
+          "She will return home on Friday.",
+          "She will travel with the sales team.",
+          "She will visit two different offices."
+        ],
+        "answer": "A",
+        "translation": "Có thể suy ra điều gì về chuyến đi của bà Park? — Bà sẽ ở Chicago hai đêm.",
+        "explanation": "Bà đến chiều thứ Ba 3/6, ở lại đêm thứ Ba và đêm thứ Tư, rồi bay về sáng thứ Năm 5/6, tức hai đêm. Các phương án còn lại trái với lịch đã ghi.",
+        "vocab": [
+          ["trip", "n", "chuyến đi"],
+          ["leave", "v", "khởi hành, rời đi"],
+          ["back", "adv", "trở lại"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following customer survey:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">CUSTOMER FEEDBACK FORM - GREEN LEAF CAFE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Thank you for visiting us today. Please take a minute to answer three short questions. Your answers help us improve our service.</p><p class=\"mt-2\">1. How often do you visit Green Leaf Cafe? (Every day / Once a week / Once a month / This is my first visit)</p><p class=\"mt-2\">2. How would you rate the speed of service? (Excellent / Good / Fair / Poor)</p><p class=\"mt-2\">3. Did you find everything you wanted on the menu? If not, please write what was missing.</p><p class=\"mt-2\">Return this form to the counter and receive a free drink on your next visit. We read every form, but we cannot reply to each customer.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "What is the purpose of this form?",
+        "options": [
+          "To take orders for drinks",
+          "To collect customers' opinions",
+          "To show the prices on the menu",
+          "To introduce new staff members"
+        ],
+        "answer": "B",
+        "translation": "Mục đích của phiếu này là gì? — Thu thập ý kiến của khách hàng.",
+        "explanation": "Phiếu ghi 'Your answers help us improve our service' và hỏi về tần suất ghé, tốc độ phục vụ, món còn thiếu, nên đây là phiếu thu thập ý kiến chứ không phải phiếu gọi đồ hay bảng giá.",
+        "vocab": [
+          ["feedback", "n", "ý kiến phản hồi"],
+          ["improve", "v", "cải thiện"],
+          ["service", "n", "dịch vụ"]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "What does a customer receive after returning the form?",
+        "options": [
+          "A discount on that day's bill",
+          "A place on the cafe's member list",
+          "A free drink on a later visit",
+          "A free meal for two people"
+        ],
+        "answer": "C",
+        "translation": "Khách nhận được gì sau khi nộp lại phiếu? — Một đồ uống miễn phí trong lần ghé sau.",
+        "explanation": "Bài ghi 'receive a free drink on your next visit', tức lần đến sau, đúng với 'on a later visit'. Không có giảm giá cho hoá đơn hôm đó và cũng không tặng bữa ăn.",
+        "vocab": [
+          ["return", "v", "nộp lại, trả lại"],
+          ["counter", "n", "quầy"],
+          ["free", "adj", "miễn phí"]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "Which information is NOT asked for on the form?",
+        "options": [
+          "How often the customer comes",
+          "How fast the service was",
+          "Whether any menu item was missing",
+          "The name of the server"
+        ],
+        "answer": "D",
+        "translation": "Thông tin nào KHÔNG được hỏi trên phiếu? — Tên của nhân viên phục vụ.",
+        "explanation": "Ba câu hỏi lần lượt hỏi tần suất ghé ('How often'), tốc độ phục vụ ('speed of service') và món còn thiếu ('what was missing'). Tên nhân viên phục vụ không xuất hiện trong phiếu.",
+        "vocab": [
+          ["rate", "v", "đánh giá"],
+          ["menu", "n", "thực đơn"],
+          ["missing", "adj", "bị thiếu"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NEW WAREHOUSE HOURS</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Starting on 1 July, the Westside warehouse will open at 6 a.m. and close at 8 p.m. from Monday to Friday. On Saturdays it will close at 2 p.m. The building will stay closed on Sundays and public holidays.</p><p class=\"mt-2\">The change is needed because more trucks now arrive in the early morning. Drivers should book a loading time at least one day before they come. Trucks that arrive without a booking may have to wait outside.</p><p class=\"mt-2\">Office staff will keep their usual hours (9 a.m. to 6 p.m.). For questions, contact the warehouse manager, Mr. Okafor, at extension 214.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "Why is the warehouse changing its hours?",
+        "options": [
+          "More trucks now arrive early in the day.",
+          "The warehouse is moving to a new building.",
+          "Office staff want to start work later.",
+          "Fewer drivers are using the warehouse."
+        ],
+        "answer": "A",
+        "translation": "Vì sao nhà kho thay đổi giờ làm việc? — Ngày càng nhiều xe tải đến sớm.",
+        "explanation": "Bài nêu rõ 'The change is needed because more trucks now arrive in the early morning', đúng với phương án A. Việc chuyển nhà kho, đổi giờ nhân viên văn phòng hay giảm lượng tài xế đều không được nhắc.",
+        "vocab": [
+          ["warehouse", "n", "nhà kho"],
+          ["truck", "n", "xe tải"],
+          ["hours", "n", "giờ làm việc"]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "What must drivers do before they arrive?",
+        "options": [
+          "Call Mr. Okafor at extension 214",
+          "Reserve a loading time in advance",
+          "Arrive before 6 a.m.",
+          "Park their trucks outside the gate"
+        ],
+        "answer": "B",
+        "translation": "Tài xế phải làm gì trước khi đến? — Đặt trước giờ bốc hàng.",
+        "explanation": "Bài ghi 'Drivers should book a loading time at least one day before they come', tức phải đặt trước ('in advance'). Gọi ông Okafor chỉ dành cho câu hỏi, không phải thủ tục bắt buộc.",
+        "vocab": [
+          ["book", "v", "đặt trước"],
+          ["loading", "n", "việc bốc hàng, xếp hàng"],
+          ["in advance", "adv", "trước, từ sớm"]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "What may happen to a truck that arrives without a booking?",
+        "options": [
+          "It will be loaded first.",
+          "The driver will pay a fee.",
+          "It will be sent to another warehouse.",
+          "It may have to wait."
+        ],
+        "answer": "D",
+        "translation": "Điều gì có thể xảy ra với xe tải đến mà không đặt trước? — Xe có thể phải chờ.",
+        "explanation": "Bài ghi 'Trucks that arrive without a booking may have to wait outside'; phương án D diễn đạt lại bằng 'may have to wait'. Không có quy định về phí hay chuyển sang kho khác.",
+        "vocab": [
+          ["booking", "n", "sự đặt trước"],
+          ["wait", "v", "chờ đợi"],
+          ["outside", "adv", "ở bên ngoài"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following invoice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INVOICE - LAKESIDE CONFERENCE CENTRE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Invoice no.: 7719<br>Date: 12 April<br>Bill to: Doran Design Studio, 44 Mill Road</p><table class=\"w-full text-left mt-2 text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"py-1\">Item</th><th class=\"py-1 text-right\">Amount</th></tr><tr><td class=\"py-1\">Room rental (1 day)</td><td class=\"py-1 text-right\">$250</td></tr><tr><td class=\"py-1\">Projector</td><td class=\"py-1 text-right\">$40</td></tr><tr><td class=\"py-1\">Lunch (18 people)</td><td class=\"py-1 text-right\">$180</td></tr><tr><td class=\"py-1\">Coffee service</td><td class=\"py-1 text-right\">$35</td></tr><tr class=\"border-t border-neutral-300\"><td class=\"py-1 font-bold\">Total</td><td class=\"py-1 text-right font-bold\">$505</td></tr></table><p class=\"mt-2\">Payment terms: within 14 days of the invoice date.</p><p class=\"mt-2\">Please quote the invoice number with your payment. A late fee of $20 applies after the due date.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "What is the total amount of the invoice?",
+        "options": [
+          "$485",
+          "$505",
+          "$525",
+          "$555"
+        ],
+        "answer": "B",
+        "translation": "Tổng số tiền của hoá đơn là bao nhiêu? — 505 đô la.",
+        "explanation": "Cộng bốn khoản: 250 + 40 + 180 + 35 = 505, khớp với dòng 'Total: $505' ở cuối bảng.",
+        "vocab": [
+          ["invoice", "n", "hoá đơn"],
+          ["total", "n", "tổng cộng"],
+          ["rental", "n", "tiền thuê"]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "By what date must the invoice be paid?",
+        "options": [
+          "12 April",
+          "19 April",
+          "26 April",
+          "30 April"
+        ],
+        "answer": "C",
+        "translation": "Hoá đơn phải được thanh toán trước ngày nào? — Ngày 26 tháng 4.",
+        "explanation": "Hoá đơn đề ngày 12 tháng 4 và ghi 'within 14 days of the invoice date', nên hạn thanh toán là 12 + 14 = ngày 26 tháng 4.",
+        "vocab": [
+          ["payment", "n", "việc thanh toán"],
+          ["terms", "n", "điều khoản"],
+          ["date", "n", "ngày"]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "What happens if the payment is late?",
+        "options": [
+          "A $20 fee is added.",
+          "The room booking is cancelled.",
+          "A second invoice is sent.",
+          "The invoice number changes."
+        ],
+        "answer": "A",
+        "translation": "Điều gì xảy ra nếu thanh toán muộn? — Bị cộng thêm 20 đô la.",
+        "explanation": "Bài ghi 'A late fee of $20 applies after the due date', tức phụ phí 20 đô la. Hoá đơn không nói đến việc huỷ phòng hay gửi hoá đơn thứ hai.",
+        "vocab": [
+          ["late fee", "n", "phụ phí thanh toán muộn"],
+          ["due date", "n", "ngày đến hạn"],
+          ["apply", "v", "áp dụng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">CLEAN-UP OFFICE SERVICES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Do you need help with your office? Our team cleans small offices, shops, and clinics in the city centre. We bring all our own equipment and materials.</p><p class=\"mt-2\">Choose a plan: two visits a week ($120 per month) or four visits a week ($210 per month). Evening and early-morning visits cost $15 more per month.</p><p class=\"mt-2\">Every new customer gets the first visit free. We are fully insured, and all our staff have three years of experience.</p><p class=\"mt-2\">Call 555-0142 or write to hello@cleanupoffice.com. Book before 30 June and receive a $25 voucher for a deep clean.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What is the advertisement mainly about?",
+        "options": [
+          "Office space for rent in the city centre",
+          "A cleaning service for small businesses",
+          "A shop that sells cleaning equipment",
+          "A training course for new workers"
+        ],
+        "answer": "B",
+        "translation": "Quảng cáo chủ yếu nói về điều gì? — Một dịch vụ dọn dẹp cho các doanh nghiệp nhỏ.",
+        "explanation": "Bài giới thiệu dịch vụ dọn dẹp cho 'small offices, shops, and clinics' kèm các gói giá và cách liên hệ. Đây là quảng cáo dịch vụ vệ sinh, không phải cho thuê mặt bằng hay bán thiết bị.",
+        "vocab": [
+          ["cleaning", "n", "việc dọn dẹp"],
+          ["equipment", "n", "thiết bị, dụng cụ"],
+          ["clinic", "n", "phòng khám"]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "What do new customers get?",
+        "options": [
+          "A $120 discount on the first month",
+          "Free cleaning materials",
+          "A first visit at no cost",
+          "A lower monthly plan"
+        ],
+        "answer": "C",
+        "translation": "Khách hàng mới được gì? — Buổi dọn đầu tiên miễn phí.",
+        "explanation": "Bài ghi 'Every new customer gets the first visit free', tức buổi đầu không mất tiền ('at no cost'). Quảng cáo không tặng vật tư và không giảm 120 đô la.",
+        "vocab": [
+          ["customer", "n", "khách hàng"],
+          ["visit", "n", "lần đến, buổi làm việc"],
+          ["free", "adj", "miễn phí"]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "All of the following are stated in the ad EXCEPT:",
+        "options": [
+          "Staff bring their own materials.",
+          "The company is insured.",
+          "All workers have experience.",
+          "Evening visits cost the same as daytime visits."
+        ],
+        "answer": "D",
+        "translation": "Tất cả các ý sau đều được nêu trong quảng cáo, NGOẠI TRỪ: — Buổi tối có giá bằng buổi ban ngày.",
+        "explanation": "Bài ghi 'Evening and early-morning visits cost $15 more per month' nên D sai. A đúng với 'bring all our own equipment and materials', B với 'fully insured', C với 'three years of experience'.",
+        "vocab": [
+          ["material", "n", "vật tư"],
+          ["insured", "adj", "có bảo hiểm"],
+          ["experience", "n", "kinh nghiệm"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MINUTES - MARKETING TEAM MEETING</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Date: 8 September, 10:00-10:45<br>Present: L. Moreau (chair), K. Singh, T. Watanabe<br>Absent: J. Rivera (on leave)</p><p class=\"mt-2\">1. Website: The team agreed to move the new website launch from October to 5 November so that the photos can be finished.</p><p class=\"mt-2\">2. Budget: Ms. Singh reported that the printing budget is almost used up. She will ask for an extra $2,000.</p><p class=\"mt-2\">3. Next meeting: 22 September at 10:00 in Room 3B. Mr. Watanabe will show the first draft of the autumn brochure.</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "Why did the team change the website launch date?",
+        "options": [
+          "The photos were not ready.",
+          "The budget was too small.",
+          "A team member was on leave.",
+          "The printer closed for the summer."
+        ],
+        "answer": "A",
+        "translation": "Vì sao nhóm đổi ngày ra mắt trang web? — Vì ảnh chưa xong.",
+        "explanation": "Biên bản ghi nhóm dời ngày ra mắt 'so that the photos can be finished', tức ảnh chưa hoàn thành. Việc ngân sách in và một thành viên nghỉ phép là các mục khác, không phải lý do dời ngày.",
+        "vocab": [
+          ["launch", "n", "việc ra mắt"],
+          ["budget", "n", "ngân sách"],
+          ["absent", "adj", "vắng mặt"]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "What will Ms. Singh do next?",
+        "options": [
+          "Prepare the autumn brochure",
+          "Ask for more money",
+          "Move the website launch again",
+          "Lead the next meeting"
+        ],
+        "answer": "B",
+        "translation": "Bà Singh sẽ làm gì tiếp theo? — Đề nghị thêm kinh phí.",
+        "explanation": "Biên bản ghi 'the printing budget is almost used up. She will ask for an extra $2,000', tức xin thêm tiền. Việc soạn brochure là của ông Watanabe.",
+        "vocab": [
+          ["budget", "n", "ngân sách"],
+          ["extra", "adj", "thêm"],
+          ["report", "v", "báo cáo, trình bày"]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "The word 'draft' in the minutes is closest in meaning to",
+        "options": [
+          "final copy",
+          "first version",
+          "printed list",
+          "short report"
+        ],
+        "answer": "B",
+        "translation": "Từ 'draft' trong biên bản gần nghĩa nhất với — 'first version' (bản đầu tiên).",
+        "explanation": "'the first draft of the autumn brochure' là bản nháp đầu tiên để nhóm xem và góp ý, chưa phải bản in cuối cùng.",
+        "vocab": [
+          ["draft", "n", "bản nháp"],
+          ["brochure", "n", "tờ rơi, ấn phẩm giới thiệu"],
+          ["meeting", "n", "cuộc họp"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following return policy:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">RETURN POLICY - HARBOR HOME STORE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">You may return most items within 30 days of purchase if you have the receipt. Goods must be unused and in their original packaging.</p><p class=\"mt-2\">Items bought on sale cannot be returned, but they can be exchanged for another size or colour within 14 days. Bedding and opened kitchen tools cannot be returned for health reasons.</p><p class=\"mt-2\">To start a return, bring the item to the service desk on the ground floor. Refunds go back to the card used for payment within five working days. Delivery fees are not refunded.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "What does a customer need to return most items?",
+        "options": [
+          "A membership card",
+          "The delivery form",
+          "The receipt and the original box",
+          "A written letter from the manager"
+        ],
+        "answer": "C",
+        "translation": "Khách cần gì để trả lại phần lớn hàng hoá? — Hoá đơn mua hàng và hộp đóng gói ban đầu.",
+        "explanation": "Bài ghi 'within 30 days of purchase if you have the receipt' và 'in their original packaging', nên cần hoá đơn và bao bì gốc ('original box'). Không yêu cầu thẻ thành viên hay công văn.",
+        "vocab": [
+          ["return", "v", "trả lại hàng"],
+          ["receipt", "n", "hoá đơn mua hàng"],
+          ["packaging", "n", "bao bì đóng gói"]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "What can a customer do with an item bought on sale?",
+        "options": [
+          "Get a cash refund within 30 days",
+          "Exchange it within 14 days",
+          "Return it after the sale ends",
+          "Exchange it for a different kind of product"
+        ],
+        "answer": "B",
+        "translation": "Khách có thể làm gì với món hàng mua trong đợt giảm giá? — Đổi trong vòng 14 ngày.",
+        "explanation": "Bài ghi 'Items bought on sale cannot be returned, but they can be exchanged for another size or colour within 14 days', nên chỉ được đổi, không được trả lại để lấy tiền.",
+        "vocab": [
+          ["on sale", "adj", "đang được giảm giá"],
+          ["exchange", "v", "đổi hàng"],
+          ["size", "n", "kích cỡ"]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "How long does a refund usually take?",
+        "options": [
+          "One day",
+          "Two weeks",
+          "Five working days",
+          "Thirty days"
+        ],
+        "answer": "C",
+        "translation": "Việc hoàn tiền thường mất bao lâu? — Năm ngày làm việc.",
+        "explanation": "Bài ghi 'Refunds go back to the card used for payment within five working days'. Con số 30 ngày là hạn trả hàng, không phải thời gian hoàn tiền.",
+        "vocab": [
+          ["refund", "n", "việc hoàn tiền"],
+          ["working day", "n", "ngày làm việc"],
+          ["fee", "n", "phí"]
+        ]
+      }
+    ]
+  }
+]

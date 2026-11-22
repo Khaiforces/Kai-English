@@ -1,0 +1,635 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, everyone. Beginning next Monday, our facility team will replace the security turnstiles in the main lobby to support our new mobile-badge system. While the installation is under way over a three-day period, the main entrance will be closed to foot traffic. Employees should enter through the side courtyard doors beside the loading bay, where temporary card readers have been set up. Please keep in mind that if you have not yet activated the digital credential on your smartphone, your plastic ID card will continue to grant access until the end of the month. Also, visitors arriving for scheduled appointments must be met in the courtyard by their hosts rather than waiting at reception.",
+    "questionText": "What is the announcement mainly about?",
+    "options": [
+      "Recruiting additional security personnel for the lobby",
+      "Temporary entry procedures during lobby upgrades",
+      "Relocating the reception desk to another building",
+      "Extending operating hours at the loading bay"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Thông báo này chủ yếu nói về điều gì?\n(A) Tuyển thêm nhân viên an ninh cho khu vực sảnh\n(B) Quy trình ra vào tạm thời trong thời gian nâng cấp sảnh\n(C) Di dời quầy lễ tân sang một tòa nhà khác\n(D) Kéo dài giờ hoạt động tại khu bốc dỡ hàng",
+    "explanation": "Đáp án đúng là (B). Người nói thông báo đội cơ sở vật chất sẽ thay các cổng kiểm soát an ninh ở sảnh chính trong ba ngày, khiến lối vào chính đóng cửa và nhân viên cùng khách phải đi qua cửa sân bên (side courtyard doors) — đây là quy trình ra vào tạm thời trong lúc nâng cấp sảnh. (A) sai vì chỉ nhắc đến thiết bị đọc thẻ và cổng an ninh, không tuyển thêm nhân viên. (C) sai vì quầy lễ tân không bị di dời, chỉ là khách không chờ ở đó. (D) sai vì khu bốc dỡ (loading bay) chỉ được nhắc để định vị cửa sân bên.",
+    "vocab": [
+      ["turnstile", "n", "cổng xoay kiểm soát ra vào"],
+      ["credential", "n", "thông tin xác thực, thẻ truy cập"],
+      ["foot traffic", "n", "lưu lượng người đi bộ"],
+      ["installation", "n", "việc lắp đặt"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, everyone. Beginning next Monday, our facility team will replace the security turnstiles in the main lobby to support our new mobile-badge system. While the installation is under way over a three-day period, the main entrance will be closed to foot traffic. Employees should enter through the side courtyard doors beside the loading bay, where temporary card readers have been set up. Please keep in mind that if you have not yet activated the digital credential on your smartphone, your plastic ID card will continue to grant access until the end of the month. Also, visitors arriving for scheduled appointments must be met in the courtyard by their hosts rather than waiting at reception.",
+    "questionText": "What does the speaker say about plastic ID cards?",
+    "options": [
+      "They must be returned to the facility office on Monday.",
+      "They cannot be scanned at the temporary card readers.",
+      "They are required for all visitors arriving for meetings.",
+      "They will remain valid through the end of the month."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người nói cho biết điều gì về thẻ nhân viên bằng nhựa?\n(A) Chúng phải được nộp lại cho văn phòng cơ sở vật chất vào thứ Hai.\n(B) Chúng không thể quét được tại các đầu đọc thẻ tạm thời.\n(C) Chúng là bắt buộc đối với mọi khách đến tham dự cuộc họp.\n(D) Chúng sẽ tiếp tục có hiệu lực cho đến hết tháng.",
+    "explanation": "Đáp án đúng là (D). Người nói nêu rõ: 'your plastic ID card will continue to grant access until the end of the month' (thẻ nhựa vẫn tiếp tục cho phép ra vào đến cuối tháng), được diễn đạt lại thành 'remain valid through the end of the month'. (A) sai vì thứ Hai là ngày bắt đầu lắp đặt, không phải hạn trả thẻ. (B) sai vì không có thông tin máy tạm không đọc được thẻ nhựa. (C) sai vì thẻ nhựa là của nhân viên chưa kích hoạt thẻ điện thoại, không dành cho khách.",
+    "vocab": [
+      ["grant access", "phr", "cho phép truy cập / ra vào"],
+      ["activate", "v", "kích hoạt"],
+      ["valid", "adj", "có hiệu lực, hợp lệ"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, everyone. Beginning next Monday, our facility team will replace the security turnstiles in the main lobby to support our new mobile-badge system. While the installation is under way over a three-day period, the main entrance will be closed to foot traffic. Employees should enter through the side courtyard doors beside the loading bay, where temporary card readers have been set up. Please keep in mind that if you have not yet activated the digital credential on your smartphone, your plastic ID card will continue to grant access until the end of the month. Also, visitors arriving for scheduled appointments must be met in the courtyard by their hosts rather than waiting at reception.",
+    "questionText": "What are employees asked to do when expecting guests?",
+    "options": [
+      "Register guest vehicles near the loading bay",
+      "Issue temporary digital passes at reception",
+      "Greet visitors directly at the courtyard entrance",
+      "Reschedule appointments after the three-day period"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhân viên được yêu cầu làm gì khi có khách hẹn đến?\n(A) Đăng ký phương tiện của khách gần khu bốc dỡ hàng\n(B) Cấp thẻ điện tử tạm thời tại quầy lễ tân\n(C) Trực tiếp ra đón khách tại lối vào sân bên\n(D) Dời lịch hẹn sang sau khoảng thời gian ba ngày",
+    "explanation": "Đáp án đúng là (C). Câu cuối bài nói nêu: 'visitors arriving for scheduled appointments must be met in the courtyard by their hosts rather than waiting at reception' — tức người đón tiếp (nhân viên) phải trực tiếp ra sân bên đón khách thay vì để khách chờ ở lễ tân. (A) là bẫy từ khóa 'loading bay'. (B) là bẫy từ khóa 'reception'. (D) suy diễn sai vì các cuộc hẹn vẫn diễn ra bình thường nếu đón ở sân bên.",
+    "vocab": [
+      ["host", "n", "người đón tiếp, chủ nhà"],
+      ["scheduled appointment", "n", "cuộc hẹn đã lên lịch"],
+      ["courtyard", "n", "sân trong / sân bên"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Alvarez. This is Taylor Brooks calling from Precision Lab Systems regarding your order of twelve portable water-quality meters. Unfortunately, the manufacturer just notified us that a circuit component is backordered, which pushes your delivery date back by about ten business days. Since your field inspection starts on the fifth, I realize waiting two weeks is out of the question. Therefore, I have reserved eight refurbished units from our regional warehouse that we can ship overnight at no additional cost so your team can stay on schedule. Please call me back at extension four-one-two before three P.M. today if you would like me to dispatch those loaner units right away.",
+    "questionText": "Why is the speaker calling Ms. Alvarez?",
+    "options": [
+      "To report a supply delay and propose an interim solution",
+      "To confirm payment for a regional warehouse lease",
+      "To request calibration records for twelve older meters",
+      "To postpone a field inspection until next month"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao người nói lại gọi điện cho bà Alvarez?\n(A) Để thông báo sự chậm trễ nguồn hàng và đề xuất giải pháp tạm thời\n(B) Để xác nhận thanh toán cho hợp đồng thuê kho khu vực\n(C) Để yêu cầu hồ sơ hiệu chuẩn của mười hai máy đo cũ hơn\n(D) Để hoãn chuyến kiểm tra thực địa sang tháng sau",
+    "explanation": "Đáp án đúng là (A). Người nói báo rằng linh kiện mạch bị chậm giao ('backordered') khiến ngày giao hàng lùi lại khoảng 10 ngày làm việc, đồng thời đề xuất gửi gấp 8 thiết bị tân trang cho mượn ('loaner units') để kịp tiến độ. (B) là bẫy từ khóa 'regional warehouse'. (C) sai vì con số 12 là số máy đo mới đặt mua, không phải máy cũ cần hiệu chuẩn. (D) sai vì người gọi cố gắng giúp nhóm của bà Alvarez giữ đúng lịch kiểm tra, không yêu cầu hoãn.",
+    "vocab": [
+      ["backordered", "adj", "tạm hết hàng và đang chờ nhập bổ sung"],
+      ["refurbished", "adj", "được tân trang lại"],
+      ["interim", "adj", "tạm thời, lâm thời"],
+      ["dispatch", "v", "gửi đi, điều động"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Alvarez. This is Taylor Brooks calling from Precision Lab Systems regarding your order of twelve portable water-quality meters. Unfortunately, the manufacturer just notified us that a circuit component is backordered, which pushes your delivery date back by about ten business days. Since your field inspection starts on the fifth, I realize waiting two weeks is out of the question. Therefore, I have reserved eight refurbished units from our regional warehouse that we can ship overnight at no additional cost so your team can stay on schedule. Please call me back at extension four-one-two before three P.M. today if you would like me to dispatch those loaner units right away.",
+    "questionText": "What does the speaker imply when saying, \"waiting two weeks is out of the question\"?",
+    "options": [
+      "The manufacturer refuses to accept expedited orders.",
+      "The client's inspection deadline cannot accommodate the delay.",
+      "The regional warehouse will close for inventory in two weeks.",
+      "The warranty on the refurbished meters expires shortly."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói có hàm ý gì khi nói \"việc chờ đợi hai tuần là điều không thể chấp nhận được\"?\n(A) Nhà sản xuất từ chối nhận các đơn hàng hỏa tốc.\n(B) Hạn kiểm tra của khách hàng không thể đáp ứng sự chậm trễ này.\n(C) Kho khu vực sẽ đóng cửa để kiểm kê sau hai tuần nữa.\n(D) Chế độ bảo hành của các máy tân trang sắp hết hạn.",
+    "explanation": "Đáp án đúng là (B). Ngay trước câu trích dẫn, người nói nhắc đến việc đợt kiểm tra thực địa của bà Alvarez bắt đầu vào ngày mùng năm ('your field inspection starts on the fifth'), nên việc chờ khoảng 10 ngày làm việc (tương đương hai tuần) là bất khả thi đối với lịch trình của khách hàng. (A), (C), (D) đều không được đề cập và suy diễn sai bối cảnh.",
+    "vocab": [
+      ["out of the question", "phr", "không thể bàn tới, bất khả thi"],
+      ["accommodate", "v", "đáp ứng, điều chỉnh cho phù hợp"],
+      ["field inspection", "n", "đợt kiểm tra thực địa"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Alvarez. This is Taylor Brooks calling from Precision Lab Systems regarding your order of twelve portable water-quality meters. Unfortunately, the manufacturer just notified us that a circuit component is backordered, which pushes your delivery date back by about ten business days. Since your field inspection starts on the fifth, I realize waiting two weeks is out of the question. Therefore, I have reserved eight refurbished units from our regional warehouse that we can ship overnight at no additional cost so your team can stay on schedule. Please call me back at extension four-one-two before three P.M. today if you would like me to dispatch those loaner units right away.",
+    "questionText": "What is Ms. Alvarez asked to do before three P.M.?",
+    "options": [
+      "Submit a revised invoice for eight replacement meters",
+      "Arrange pickup of the backordered circuit components",
+      "Pay an overnight shipping surcharge by phone",
+      "Confirm whether temporary units should be shipped"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Bà Alvarez được yêu cầu làm gì trước ba giờ chiều?\n(A) Nộp hóa đơn điều chỉnh cho tám máy đo thay thế\n(B) Sắp xếp việc đến lấy các linh kiện mạch đang chờ hàng\n(C) Thanh toán phụ phí vận chuyển qua đêm qua điện thoại\n(D) Xác nhận xem có nên gửi các thiết bị tạm thời đi hay không",
+    "explanation": "Đáp án đúng là (D). Người nói đề nghị: 'Please call me back at extension four-one-two before three P.M. today if you would like me to dispatch those loaner units right away' (hãy gọi lại để xác nhận việc gửi ngay số máy cho mượn). (A) sai vì đây là máy cho mượn tạm, không phải lập hóa đơn mới. (B) sai vì không có yêu cầu khách tự đi lấy linh kiện. (C) là bẫy trực tiếp vì người nói khẳng định gửi qua đêm hoàn toàn miễn phí ('at no additional cost').",
+    "vocab": [
+      ["loaner unit", "n", "thiết bị cho mượn tạm thời"],
+      ["overnight shipping", "n", "dịch vụ giao hàng qua đêm"],
+      ["at no additional cost", "phr", "không mất thêm chi phí"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following introduction:",
+    "audioScript": "Good morning, everyone, and welcome to the opening session of the Pacific Supply Chain Forum. Our keynote speaker today is Dr. Kenji Takahashi, Chief Operations Advisor at Marlowe Logistics. Over the past fifteen years, Dr. Takahashi has helped midsize retailers cut warehouse energy consumption while speeding up regional order fulfillment. Earlier this spring, his team published a widely cited study on automated cold-storage routing across coastal hubs. Today he will share practical lessons from that project, including common pitfalls companies encounter when upgrading legacy inventory software. Immediately following his talk, Dr. Takahashi will sign copies of his latest handbook at the registration atrium before joining the afternoon panel. Please join me in welcoming him.",
+    "questionText": "What did Dr. Takahashi's team recently research?",
+    "options": [
+      "Lowering staffing expenses at retail stores",
+      "Auditing legacy tax and accounting databases",
+      "Optimizing temperature-controlled distribution",
+      "Training freight drivers on coastal highways"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhóm của Tiến sĩ Takahashi gần đây đã nghiên cứu về lĩnh vực gì?\n(A) Giảm chi phí nhân sự tại các cửa hàng bán lẻ\n(B) Kiểm toán các cơ sở dữ liệu thuế và kế toán cũ\n(C) Tối ưu hóa việc phân phối hàng hóa kiểm soát nhiệt độ\n(D) Đào tạo tài xế chở hàng trên các tuyến cao tốc ven biển",
+    "explanation": "Đáp án đúng là (C). Bài giới thiệu cho biết đầu xuân vừa qua nhóm của ông đã công bố nghiên cứu về 'automated cold-storage routing across coastal hubs' (tuyến phân phối kho lạnh tự động qua các trung tâm ven biển). Cụm 'cold-storage routing' được paraphrase tinh tế thành 'temperature-controlled distribution'. (A) là bẫy từ khóa 'retailers'. (B) trộn nhầm cụm 'legacy inventory software' ở câu sau. (D) là bẫy từ khóa 'coastal'.",
+    "vocab": [
+      ["order fulfillment", "n", "quy trình xử lý và hoàn tất đơn hàng"],
+      ["cold-storage", "adj", "kho lạnh, bảo quản lạnh"],
+      ["optimize", "v", "tối ưu hóa"],
+      ["keynote speaker", "n", "diễn giả chính"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following introduction:",
+    "audioScript": "Good morning, everyone, and welcome to the opening session of the Pacific Supply Chain Forum. Our keynote speaker today is Dr. Kenji Takahashi, Chief Operations Advisor at Marlowe Logistics. Over the past fifteen years, Dr. Takahashi has helped midsize retailers cut warehouse energy consumption while speeding up regional order fulfillment. Earlier this spring, his team published a widely cited study on automated cold-storage routing across coastal hubs. Today he will share practical lessons from that project, including common pitfalls companies encounter when upgrading legacy inventory software. Immediately following his talk, Dr. Takahashi will sign copies of his latest handbook at the registration atrium before joining the afternoon panel. Please join me in welcoming him.",
+    "questionText": "What topic will Dr. Takahashi address during his presentation?",
+    "options": [
+      "Challenges in updating outdated inventory systems",
+      "Tax incentives for building coastal warehouses",
+      "Methods for negotiating shipping insurance contracts",
+      "Regulations affecting international maritime trade"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tiến sĩ Takahashi sẽ đề cập đến chủ đề gì trong bài thuyết trình của mình?\n(A) Những thách thức khi nâng cấp hệ thống quản lý hàng tồn kho lỗi thời\n(B) Ưu đãi thuế khi xây dựng nhà kho ven biển\n(C) Phương pháp đàm phán hợp đồng bảo hiểm vận tải\n(D) Các quy định ảnh hưởng đến thương mại hàng hải quốc tế",
+    "explanation": "Đáp án đúng là (A). Người giới thiệu nói diễn giả sẽ chia sẻ bài học thực tế, bao gồm 'common pitfalls companies encounter when upgrading legacy inventory software' (những cái bẫy/khó khăn phổ biến khi nâng cấp phần mềm kiểm kê cũ kỹ). 'Common pitfalls' tương ứng với 'challenges' và 'legacy inventory software' tương ứng với 'outdated inventory systems'. (B), (C), (D) đều không được nhắc trong bài.",
+    "vocab": [
+      ["pitfall", "n", "cạm bẫy, sai lầm / khó khăn thường gặp"],
+      ["legacy software", "n", "phần mềm hệ thống cũ, lỗi thời"],
+      ["inventory", "n", "hàng tồn kho, việc kiểm kê"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following introduction:",
+    "audioScript": "Good morning, everyone, and welcome to the opening session of the Pacific Supply Chain Forum. Our keynote speaker today is Dr. Kenji Takahashi, Chief Operations Advisor at Marlowe Logistics. Over the past fifteen years, Dr. Takahashi has helped midsize retailers cut warehouse energy consumption while speeding up regional order fulfillment. Earlier this spring, his team published a widely cited study on automated cold-storage routing across coastal hubs. Today he will share practical lessons from that project, including common pitfalls companies encounter when upgrading legacy inventory software. Immediately following his talk, Dr. Takahashi will sign copies of his latest handbook at the registration atrium before joining the afternoon panel. Please join me in welcoming him.",
+    "questionText": "Where can attendees meet Dr. Takahashi right after his talk?",
+    "options": [
+      "Inside the main auditorium",
+      "Near the registration area",
+      "In the afternoon panel room",
+      "At the Marlowe Logistics exhibition booth"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người tham dự có thể gặp Tiến sĩ Takahashi ở đâu ngay sau bài nói của ông?\n(A) Bên trong khán phòng chính\n(B) Gần khu vực đăng ký\n(C) Tại phòng tọa đàm buổi chiều\n(D) Tại gian hàng triển lãm của Marlowe Logistics",
+    "explanation": "Đáp án đúng là (B). Câu gần cuối nêu rõ: 'Immediately following his talk, Dr. Takahashi will sign copies of his latest handbook at the registration atrium' (ngay sau bài nói, ông sẽ ký tặng sách tại sảnh đăng ký), được diễn đạt lại thành 'near the registration area'. (C) sai vì phiên tọa đàm buổi chiều diễn ra sau buổi ký sách. (A) và (D) không được đề cập là nơi gặp sau bài nói.",
+    "vocab": [
+      ["atrium", "n", "sảnh lớn (thường có giếng trời)"],
+      ["handbook", "n", "sổ tay hướng dẫn"],
+      ["panel", "n", "phiên thảo luận, ban tọa đàm"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Thanks for getting here on time. Before we finalize next quarter's packaging budget, let's look at the customer-return figures from our online store. Last month, breakage during transit accounted for nearly sixty percent of all refund requests for our botanical skincare line. Switching from heavy glass jars to lightweight recycled aluminum containers would cut shipping weight by a third and virtually eliminate transit damage. However, our brand survey suggests longtime buyers associate glass with premium quality. That is why I asked Priya Nair from our creative agency to join us after lunch. She has mocked up three brushed-aluminum prototypes that keep an upscale look without adding unnecessary fragility.",
+    "questionText": "What problem is highlighted by the online store's refund data?",
+    "options": [
+      "Shoppers are unhappy with the skincare ingredients.",
+      "Courier companies have raised international shipping rates.",
+      "Warehouse staff are mislabeling online orders.",
+      "Products are frequently arriving damaged."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Vấn đề nào được làm rõ qua số liệu hoàn tiền của cửa hàng trực tuyến?\n(A) Người mua không hài lòng với thành phần sản phẩm chăm sóc da.\n(B) Các hãng chuyển phát đã tăng giá cước vận chuyển quốc tế.\n(C) Nhân viên kho đang dán sai nhãn đơn hàng trực tuyến.\n(D) Sản phẩm thường xuyên bị hư hỏng khi đến tay khách hàng.",
+    "explanation": "Đáp án đúng là (D). Người nói cho biết: 'breakage during transit accounted for nearly sixty percent of all refund requests' (tình trạng vỡ hỏng trong quá trình vận chuyển chiếm gần 60% tổng số yêu cầu hoàn tiền). Cụm 'breakage during transit' tương đương với 'arriving damaged'. (A) là bẫy từ khóa 'skincare'. (B) là bẫy liên quan đến vận chuyển nhưng bài chỉ nói giảm trọng lượng giao hàng chứ không nói tăng cước quốc tế. (C) không có trong bài.",
+    "vocab": [
+      ["breakage", "n", "sự nứt vỡ, hư hại"],
+      ["in transit", "phr", "trong quá trình vận chuyển"],
+      ["account for", "phr", "chiếm (tỷ lệ bao nhiêu)"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Thanks for getting here on time. Before we finalize next quarter's packaging budget, let's look at the customer-return figures from our online store. Last month, breakage during transit accounted for nearly sixty percent of all refund requests for our botanical skincare line. Switching from heavy glass jars to lightweight recycled aluminum containers would cut shipping weight by a third and virtually eliminate transit damage. However, our brand survey suggests longtime buyers associate glass with premium quality. That is why I asked Priya Nair from our creative agency to join us after lunch. She has mocked up three brushed-aluminum prototypes that keep an upscale look without adding unnecessary fragility.",
+    "questionText": "Why does the speaker mention that \"longtime buyers associate glass with premium quality\"?",
+    "options": [
+      "To justify raising the retail price of botanical skincare",
+      "To argue against changing the supplier of glass jars",
+      "To explain a branding concern about switching materials",
+      "To praise the results of a recent customer loyalty campaign"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người nói đề cập rằng \"những khách hàng lâu năm gắn liền thủy tinh với chất lượng cao cấp\"?\n(A) Để biện minh cho việc tăng giá bán lẻ dòng dưỡng da thảo mộc\n(B) Để phản đối việc thay đổi nhà cung cấp hũ thủy tinh\n(C) Để giải thích một mối lo ngại về thương hiệu khi đổi vật liệu\n(D) Để khen ngợi kết quả của chiến dịch tri ân khách hàng gần đây",
+    "explanation": "Đáp án đúng là (C). Sau khi nêu lợi ích của vỏ nhôm tái chế, người nói dùng 'However' để nêu rào cản: khảo sát thương hiệu cho thấy khách hàng lâu năm coi thủy tinh mới là cao cấp — đó chính là lý do phải mời chuyên gia thiết kế mẫu vỏ nhôm vẫn giữ vẻ sang trọng ('upscale look'). (A) và (B) suy diễn sai mục đích. (D) sai vì 'brand survey' là khảo sát nhận diện thương hiệu, không phải chiến dịch tri ân.",
+    "vocab": [
+      ["associate with", "phr", "liên tưởng, gắn liền với"],
+      ["premium quality", "n", "chất lượng cao cấp"],
+      ["fragility", "n", "tính dễ vỡ, mong manh"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Thanks for getting here on time. Before we finalize next quarter's packaging budget, let's look at the customer-return figures from our online store. Last month, breakage during transit accounted for nearly sixty percent of all refund requests for our botanical skincare line. Switching from heavy glass jars to lightweight recycled aluminum containers would cut shipping weight by a third and virtually eliminate transit damage. However, our brand survey suggests longtime buyers associate glass with premium quality. That is why I asked Priya Nair from our creative agency to join us after lunch. She has mocked up three brushed-aluminum prototypes that keep an upscale look without adding unnecessary fragility.",
+    "questionText": "What will happen after lunch?",
+    "options": [
+      "An outside consultant will present sample container designs.",
+      "The team will approve the quarterly advertising budget.",
+      "Online shoppers will be sent a follow-up brand survey.",
+      "Warehouse staff will test heavier protective padding."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì sẽ diễn ra sau bữa trưa?\n(A) Một chuyên gia tư vấn bên ngoài sẽ trình bày các mẫu thiết kế bao bì thử nghiệm.\n(B) Cả nhóm sẽ phê duyệt ngân sách quảng cáo theo quý.\n(C) Khách mua sắm trực tuyến sẽ được gửi khảo sát thương hiệu bổ sung.\n(D) Nhân viên kho sẽ thử nghiệm lớp đệm bảo vệ dày hơn.",
+    "explanation": "Đáp án đúng là (A). Người nói cho biết đã mời Priya Nair từ công ty sáng tạo bên ngoài ('creative agency') tham gia sau bữa trưa để giới thiệu ba mẫu thử nghiệm bằng nhôm phay xước ('mocked up three brushed-aluminum prototypes'). (B) sai vì cuộc họp bàn về ngân sách bao bì ('packaging budget'), không phải quảng cáo, và chưa phê duyệt ngay lúc này. (C) và (D) không được đề cập.",
+    "vocab": [
+      ["mock up", "phr", "làm mẫu thử nghiệm, phác thảo mô hình"],
+      ["prototype", "n", "nguyên mẫu, mẫu thử"],
+      ["upscale", "adj", "sang trọng, cao cấp"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following advertisement:",
+    "audioScript": "Are high commercial rents keeping your food business from expanding? Welcome to Hearthstone Culinary Commons, the city's newest shared commercial kitchen built specifically for independent caterers, specialty bakers, and packaged-food startups. Instead of signing a rigid multi-year lease or buying industrial ovens up front, members book certified prep stations by the hour on a flexible monthly plan. Every membership includes access to walk-in cold storage, loading docks, and on-site food-safety inspection support. Plus, sign up for a tour before May fifteenth and your first ten kitchen hours are completely waived when you enroll in any tier. Visit hearthstonecommons dot com today to check availability and launch without the overhead.",
+    "questionText": "Who is this advertisement primarily aimed at?",
+    "options": [
+      "Office managers ordering weekly group lunches",
+      "Small food-business owners seeking affordable workspace",
+      "Appliance technicians looking for maintenance contracts",
+      "Commercial property brokers leasing downtown storefronts"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Quảng cáo này chủ yếu nhắm tới đối tượng nào?\n(A) Quản lý văn phòng đặt bữa trưa hàng tuần cho nhóm\n(B) Chủ các cơ sở kinh doanh thực phẩm nhỏ đang tìm không gian làm việc tiết kiệm chi phí\n(C) Kỹ thuật viên thiết bị đang tìm kiếm hợp đồng bảo trì\n(D) Môi giới bất động sản thương mại cho thuê mặt bằng trung tâm",
+    "explanation": "Đáp án đúng là (B). Quảng cáo mở đầu bằng câu hỏi về tiền thuê mặt bằng thương mại cao kìm hãm việc mở rộng, rồi giới thiệu bếp thương mại dùng chung dành riêng cho 'independent caterers, specialty bakers, and packaged-food startups' — tức các chủ doanh nghiệp thực phẩm quy mô nhỏ muốn tiết kiệm chi phí đầu tư ban đầu. (A), (C), (D) đều sai đối tượng mục tiêu.",
+    "vocab": [
+      ["commercial rent", "n", "tiền thuê mặt bằng thương mại"],
+      ["caterer", "n", "đơn vị cung cấp dịch vụ ăn uống / tiệc"],
+      ["overhead", "n", "chi phí vận hành cố định"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following advertisement:",
+    "audioScript": "Are high commercial rents keeping your food business from expanding? Welcome to Hearthstone Culinary Commons, the city's newest shared commercial kitchen built specifically for independent caterers, specialty bakers, and packaged-food startups. Instead of signing a rigid multi-year lease or buying industrial ovens up front, members book certified prep stations by the hour on a flexible monthly plan. Every membership includes access to walk-in cold storage, loading docks, and on-site food-safety inspection support. Plus, sign up for a tour before May fifteenth and your first ten kitchen hours are completely waived when you enroll in any tier. Visit hearthstonecommons dot com today to check availability and launch without the overhead.",
+    "questionText": "What advantage of Hearthstone Culinary Commons is mentioned?",
+    "options": [
+      "Members avoid large initial equipment purchases.",
+      "Members receive free ingredient deliveries from local farms.",
+      "Prep stations can be reserved exclusively for multi-year terms.",
+      "Finished meals are sold in an attached retail bakery."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Lợi thế nào của Hearthstone Culinary Commons được nhắc đến?\n(A) Thành viên tránh được các khoản mua sắm thiết bị lớn ban đầu.\n(B) Thành viên được giao nguyên liệu miễn phí từ các nông trại địa phương.\n(C) Khu sơ chế chỉ có thể đặt thuê độc quyền theo kỳ hạn nhiều năm.\n(D) Món ăn chế biến xong được bán tại tiệm bánh bán lẻ liền kề.",
+    "explanation": "Đáp án đúng là (A). Bài quảng cáo nêu rõ: 'Instead of signing a rigid multi-year lease or buying industrial ovens up front, members book certified prep stations by the hour' — tức thành viên không phải chi tiền mua lò nướng công nghiệp ngay từ đầu ('up front' tương ứng với 'initial'). (C) ngược hẳn với thông tin thực tế là thuê linh hoạt theo giờ và theo tháng. (B) và (D) không được đề cập.",
+    "vocab": [
+      ["up front", "adv", "ngay từ đầu, trả trước"],
+      ["rigid", "adj", "cứng nhắc, cố định"],
+      ["certified", "adj", "được cấp phép / đạt chứng nhận"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following advertisement:",
+    "audioScript": "Are high commercial rents keeping your food business from expanding? Welcome to Hearthstone Culinary Commons, the city's newest shared commercial kitchen built specifically for independent caterers, specialty bakers, and packaged-food startups. Instead of signing a rigid multi-year lease or buying industrial ovens up front, members book certified prep stations by the hour on a flexible monthly plan. Every membership includes access to walk-in cold storage, loading docks, and on-site food-safety inspection support. Plus, sign up for a tour before May fifteenth and your first ten kitchen hours are completely waived when you enroll in any tier. Visit hearthstonecommons dot com today to check availability and launch without the overhead.",
+    "questionText": "How can prospective members qualify for ten complimentary kitchen hours?",
+    "options": [
+      "By referring another food startup to the facility",
+      "By choosing the highest monthly membership tier",
+      "By scheduling a facility visit prior to a deadline",
+      "By submitting food-safety certificates online"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Thành viên tiềm năng có thể đủ điều kiện nhận mười giờ sử dụng bếp miễn phí bằng cách nào?\n(A) Bằng cách giới thiệu một công ty khởi nghiệp thực phẩm khác cho cơ sở\n(B) Bằng cách chọn gói thành viên hàng tháng cao nhất\n(C) Bằng cách đặt lịch tham quan cơ sở trước một thời hạn nhất định\n(D) Bằng cách nộp giấy chứng nhận an toàn thực phẩm trực tuyến",
+    "explanation": "Đáp án đúng là (C). Quảng cáo nêu: 'sign up for a tour before May fifteenth and your first ten kitchen hours are completely waived when you enroll in any tier'. Cụm 'sign up for a tour before May fifteenth' được diễn đạt lại thành 'scheduling a facility visit prior to a deadline'. (B) sai vì ưu đãi áp dụng khi đăng ký bất kỳ gói nào ('any tier'), không riêng gói cao nhất. (A) và (D) không có trong bài.",
+    "vocab": [
+      ["waive", "v", "miễn (phí, điều kiện)"],
+      ["enroll", "v", "đăng ký tham gia"],
+      ["complimentary", "adj", "miễn phí, tặng kèm"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "You're listening to Metro Business Radio's seven-thirty regional update. Commuters heading into downtown from the eastern suburbs should prepare for delays this morning after overnight sensors detected structural wear on the Cedar Creek rail bridge. Engineers have restricted trains to single-track operation at reduced speeds until reinforcement work wraps up late Thursday. As a result, commuter rail services are running roughly twenty minutes behind schedule, and regional freight shipments into the port district are being rerouted along the northern corridor. To ease congestion, the transit authority has added three extra express ferries from Oak Harbor pier every half hour through Friday. Stay tuned after the break for an interview with the port director.",
+    "questionText": "What caused the delays on the commuter rail line?",
+    "options": [
+      "A staffing shortage among ferry operators",
+      "Heavy morning fog along the harbor pier",
+      "A software outage at the central train terminal",
+      "Safety restrictions placed on a railway bridge"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Nguyên nhân nào gây ra sự chậm trễ trên tuyến tàu đi làm?\n(A) Tình trạng thiếu nhân lực trong đội ngũ vận hành phà\n(B) Sương mù dày đặc vào buổi sáng dọc bến cảng\n(C) Sự cố mất phần mềm tại nhà ga trung tâm\n(D) Các hạn chế an toàn được áp dụng đối với một cây cầu đường sắt",
+    "explanation": "Đáp án đúng là (D). Bản tin cho biết cảm biến ban đêm phát hiện hao mòn kết cấu trên cầu đường sắt Cedar Creek, nên kỹ sư đã hạn chế tàu chạy trên một đường ray với tốc độ giảm ('restricted trains to single-track operation at reduced speeds'). Điều này dẫn đến chậm trễ khoảng 20 phút. (A) và (B) là bẫy từ khóa liên quan đến phà và bến cảng. (C) là bẫy từ 'sensors' bị biến tấu thành lỗi phần mềm.",
+    "vocab": [
+      ["structural wear", "n", "hao mòn kết cấu"],
+      ["reinforcement", "n", "việc gia cố, tăng cường"],
+      ["reroute", "v", "chuyển hướng tuyến đường"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "You're listening to Metro Business Radio's seven-thirty regional update. Commuters heading into downtown from the eastern suburbs should prepare for delays this morning after overnight sensors detected structural wear on the Cedar Creek rail bridge. Engineers have restricted trains to single-track operation at reduced speeds until reinforcement work wraps up late Thursday. As a result, commuter rail services are running roughly twenty minutes behind schedule, and regional freight shipments into the port district are being rerouted along the northern corridor. To ease congestion, the transit authority has added three extra express ferries from Oak Harbor pier every half hour through Friday. Stay tuned after the break for an interview with the port director.",
+    "questionText": "How is the transit authority helping reduce congestion?",
+    "options": [
+      "By suspending tolls along the northern highway corridor",
+      "By replacing freight trains with express delivery buses",
+      "By increasing the frequency of harbor ferry departures",
+      "By waiving morning passenger fares until late Thursday"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Cơ quan giao thông đang giúp giảm ùn tắc bằng cách nào?\n(A) Bằng cách tạm dừng thu phí dọc hành lang cao tốc phía bắc\n(B) Bằng cách thay thế tàu chở hàng bằng xe buýt giao hàng tốc hành\n(C) Bằng cách tăng tần suất khởi hành của các chuyến phà cảng\n(D) Bằng cách miễn vé hành khách buổi sáng đến hết tối thứ Năm",
+    "explanation": "Đáp án đúng là (C). Bản tin nêu: 'To ease congestion, the transit authority has added three extra express ferries from Oak Harbor pier every half hour through Friday' (bổ sung thêm ba chuyến phà tốc hành mỗi nửa giờ). Đây chính là việc tăng tần suất chuyến phà. (A) là bẫy từ khóa 'northern corridor' (tuyến đường sắt chở hàng phía bắc, không phải đường cao tốc thu phí). (B) và (D) không có trong bài.",
+    "vocab": [
+      ["congestion", "n", "tình trạng ùn tắc"],
+      ["transit authority", "n", "cơ quan quản lý giao thông công cộng"],
+      ["corridor", "n", "hành lang (giao thông / vận tải)"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "You're listening to Metro Business Radio's seven-thirty regional update. Commuters heading into downtown from the eastern suburbs should prepare for delays this morning after overnight sensors detected structural wear on the Cedar Creek rail bridge. Engineers have restricted trains to single-track operation at reduced speeds until reinforcement work wraps up late Thursday. As a result, commuter rail services are running roughly twenty minutes behind schedule, and regional freight shipments into the port district are being rerouted along the northern corridor. To ease congestion, the transit authority has added three extra express ferries from Oak Harbor pier every half hour through Friday. Stay tuned after the break for an interview with the port director.",
+    "questionText": "What will listeners hear immediately after the commercial break?",
+    "options": [
+      "A traffic update from the eastern suburbs",
+      "A conversation with a maritime official",
+      "An engineering report on bridge repairs",
+      "Recommendations for weekend harbor tours"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Thính giả sẽ nghe thấy gì ngay sau giờ giải lao quảng cáo?\n(A) Bản tin cập nhật giao thông từ vùng ngoại ô phía đông\n(B) Cuộc trò chuyện với một quan chức hàng hải\n(C) Báo cáo kỹ thuật về việc sửa chữa cầu\n(D) Gợi ý cho các chuyến tham quan bến cảng cuối tuần",
+    "explanation": "Đáp án đúng là (B). Câu cuối bản tin thông báo: 'Stay tuned after the break for an interview with the port director' (hãy đón nghe cuộc phỏng vấn giám đốc cảng sau giờ nghỉ). 'Port director' được diễn đạt lại là 'a maritime official' và 'interview' là 'conversation'. (A) và (C) là những nội dung đã phát ở phần đầu bản tin. (D) không được đề cập.",
+    "vocab": [
+      ["stay tuned", "phr", "tiếp tục theo dõi / giữ sóng"],
+      ["maritime", "adj", "thuộc về hàng hải, cảng biển"],
+      ["wrap up", "phr", "hoàn tất, kết thúc"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following guided tour:",
+    "audioScript": "Welcome to the Alder Mill Design Center. Before we step into the main gallery, take a moment to look up at the timber ceiling beams and cast-iron columns. This building operated as a wool-weaving factory from 1904 until 1978, and our architects deliberately left those original supports exposed during the restoration. Because the floorboards on the upper mezzanine date back over a century, please keep food and beverages sealed inside your bags throughout the tour. Right now, our East Hall is closed while curators hang a new ceramic exhibition, so we will spend extra time in the printmaking workshop downstairs, where resident artists will demonstrate traditional letterpress techniques. Feel free to take photographs without flash.",
+    "questionText": "Why are the timber ceiling beams visible in the gallery?",
+    "options": [
+      "Designers chose to preserve original factory features.",
+      "Renovation crews have not finished installing ceiling panels.",
+      "They were added recently to hold modern track lighting.",
+      "They display historic wool samples from the 1970s."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao các thanh dầm trần bằng gỗ lại lộ ra ở phòng trưng bày?\n(A) Các nhà thiết kế đã chọn giữ lại những nét kiến trúc nguyên bản của nhà máy.\n(B) Đội cải tạo vẫn chưa lắp xong các tấm trần nhà.\n(C) Chúng mới được lắp thêm gần đây để treo hệ thống đèn rọi hiện đại.\n(D) Chúng trưng bày các mẫu len lịch sử từ thập niên 1970.",
+    "explanation": "Đáp án đúng là (A). Hướng dẫn viên giải thích tòa nhà từng là xưởng dệt len và 'our architects deliberately left those original supports exposed during the restoration' (các kiến trúc sư cố ý để lộ các kết cấu chống đỡ nguyên bản trong quá trình phục dựng). 'Deliberately left ... exposed' tương đương với 'chose to preserve'. (B) sai vì đây là chủ ý thiết kế chứ không phải làm dở dang. (C) và (D) bóp méo thông tin gốc.",
+    "vocab": [
+      ["deliberately", "adv", "có chủ ý, cố ý"],
+      ["restoration", "n", "sự phục dựng, trùng tu"],
+      ["exposed", "adj", "để lộ ra ngoài"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following guided tour:",
+    "audioScript": "Welcome to the Alder Mill Design Center. Before we step into the main gallery, take a moment to look up at the timber ceiling beams and cast-iron columns. This building operated as a wool-weaving factory from 1904 until 1978, and our architects deliberately left those original supports exposed during the restoration. Because the floorboards on the upper mezzanine date back over a century, please keep food and beverages sealed inside your bags throughout the tour. Right now, our East Hall is closed while curators hang a new ceramic exhibition, so we will spend extra time in the printmaking workshop downstairs, where resident artists will demonstrate traditional letterpress techniques. Feel free to take photographs without flash.",
+    "questionText": "What does the speaker imply when saying, \"the floorboards on the upper mezzanine date back over a century\"?",
+    "options": [
+      "Visitors should avoid walking near the cast-iron columns.",
+      "The upper level is undergoing noisy structural repairs.",
+      "Flash photography is strictly banned on the second floor.",
+      "Delicate historic surfaces must be protected from spills."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người nói ngụ ý điều gì khi nói \"với sàn gỗ ở tầng lửng phía trên đã có tuổi đời hơn một thế kỷ\"?\n(A) Khách tham quan nên tránh đi gần các cột gang.\n(B) Tầng trên đang tiến hành sửa chữa kết cấu gây ồn ào.\n(C) Chụp ảnh có đèn flash bị nghiêm cấm riêng ở tầng hai.\n(D) Các bề mặt lịch sử mỏng manh cần được bảo vệ khỏi việc đổ tràn đồ ăn thức uống.",
+    "explanation": "Đáp án đúng là (D). Cả câu trong bài là: 'Because the floorboards on the upper mezzanine date back over a century, please keep food and beverages sealed inside your bags throughout the tour' — tức sàn gỗ cổ hơn trăm năm rất dễ hư hại nếu bị đổ đồ ăn thức uống, nên khách phải cất kín trong túi. (A), (B) không có trong bài. (C) bẫy từ khóa câu cuối bài ('without flash') nhưng quy định không dùng đèn flash áp dụng chung cho chuyến tham quan, không liên quan đến tuổi thọ sàn gỗ.",
+    "vocab": [
+      ["mezzanine", "n", "tầng lửng"],
+      ["date back", "phr", "có từ thời, có niên đại từ"],
+      ["curator", "n", "người phụ trách trưng bày / giám tuyển"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following guided tour:",
+    "audioScript": "Welcome to the Alder Mill Design Center. Before we step into the main gallery, take a moment to look up at the timber ceiling beams and cast-iron columns. This building operated as a wool-weaving factory from 1904 until 1978, and our architects deliberately left those original supports exposed during the restoration. Because the floorboards on the upper mezzanine date back over a century, please keep food and beverages sealed inside your bags throughout the tour. Right now, our East Hall is closed while curators hang a new ceramic exhibition, so we will spend extra time in the printmaking workshop downstairs, where resident artists will demonstrate traditional letterpress techniques. Feel free to take photographs without flash.",
+    "questionText": "What will the listeners probably do next?",
+    "options": [
+      "Help curators unpack a new ceramic display",
+      "Observe artists demonstrating a printing method",
+      "Check their bags at the main reception counter",
+      "Tour the East Hall before heading downstairs"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Những người nghe có khả năng sẽ làm gì tiếp theo?\n(A) Giúp các giám tuyển mở hộp trưng bày gốm mới\n(B) Quan sát các nghệ sĩ trình diễn một phương pháp in ấn\n(C) Gửi túi xách tại quầy lễ tân chính\n(D) Tham quan Sảnh Đông trước khi đi xuống tầng dưới",
+    "explanation": "Đáp án đúng là (B). Do East Hall đang đóng cửa để treo triển lãm gốm mới, hướng dẫn viên thông báo đoàn sẽ dành thêm thời gian tại xưởng in tầng dưới, nơi các nghệ sĩ thường trú trình diễn kỹ thuật in chữ nổi truyền thống ('resident artists will demonstrate traditional letterpress techniques'). (A) sai vì khách không giúp sắp xếp triển lãm. (C) sai vì khách chỉ giữ đồ ăn kín trong túi mang theo. (D) sai vì East Hall đang đóng cửa.",
+    "vocab": [
+      ["printmaking", "n", "nghệ thuật làm tranh in, in ấn"],
+      ["resident artist", "n", "nghệ sĩ lưu trú / làm việc thường trực"],
+      ["letterpress", "n", "kỹ thuật in chữ nổi truyền thống"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Ladies and gentlemen, welcome aboard Silverline Express Train 214 bound for Montreal. We are currently cruising smoothly and expect to pull into Kingston Station right on time at eleven twenty A.M. Please note that due to track maintenance at Kingston, passengers transferring to the Ottawa regional shuttle should proceed to Platform 7 rather than Platform 3 as printed on older schedules. In addition, our café car in Coach 4 will pause hot-meal service for twenty minutes after departing Kingston while staff restock fresh supplies, though cold drinks and snacks will remain available. Finally, if you stored large suitcases in the rear luggage compartment, please wait until the train comes to a complete stop before retrieving them.",
+    "questionText": "Why does the speaker mention older schedules?",
+    "options": [
+      "To explain why Train 214 departed later than planned",
+      "To warn passengers that ticket prices have changed",
+      "To point out a track reassignment for a connecting train",
+      "To advise travelers to exchange printed paper tickets"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người nói lại nhắc đến các lịch trình cũ hơn?\n(A) Để giải thích lý do Tàu 214 khởi hành muộn hơn dự kiến\n(B) Để cảnh báo hành khách rằng giá vé đã thay đổi\n(C) Để chỉ ra sự thay đổi sân ga đối với một chuyến tàu nối chuyến\n(D) Để khuyên hành khách đổi vé giấy đã in",
+    "explanation": "Đáp án đúng là (C). Người thông báo nói hành khách chuyển sang tàu trung chuyển đi Ottawa hãy ra Sân ga 7 thay vì Sân ga 3 như ghi trên các lịch trình cũ ('proceed to Platform 7 rather than Platform 3 as printed on older schedules'). Đây là thông báo thay đổi sân ga cho chuyến nối tiếp. (A) sai vì tàu đang chạy đúng giờ ('right on time'). (B) và (D) không có trong bài.",
+    "vocab": [
+      ["bound for", "phr", "đang trên đường hướng tới"],
+      ["shuttle", "n", "tàu / xe trung chuyển chặng ngắn"],
+      ["reassignment", "n", "sự phân bổ / chuyển đổi lại"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Ladies and gentlemen, welcome aboard Silverline Express Train 214 bound for Montreal. We are currently cruising smoothly and expect to pull into Kingston Station right on time at eleven twenty A.M. Please note that due to track maintenance at Kingston, passengers transferring to the Ottawa regional shuttle should proceed to Platform 7 rather than Platform 3 as printed on older schedules. In addition, our café car in Coach 4 will pause hot-meal service for twenty minutes after departing Kingston while staff restock fresh supplies, though cold drinks and snacks will remain available. Finally, if you stored large suitcases in the rear luggage compartment, please wait until the train comes to a complete stop before retrieving them.",
+    "questionText": "What is indicated about the café car after departing Kingston?",
+    "options": [
+      "Only cold refreshments will be served for a short period.",
+      "It will close entirely for the remainder of the trip.",
+      "Hot meals will be delivered directly to passengers' seats.",
+      "Coach 4 will undergo routine maintenance at the station."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì được đề cập về toa ăn uống sau khi tàu rời Kingston?\n(A) Chỉ đồ giải khát lạnh được phục vụ trong một khoảng thời gian ngắn.\n(B) Toa sẽ đóng cửa hoàn toàn trong suốt phần còn lại của hành trình.\n(C) Các bữa ăn nóng sẽ được mang đến tận ghế cho hành khách.\n(D) Toa số 4 sẽ được bảo trì định kỳ tại nhà ga.",
+    "explanation": "Đáp án đúng là (A). Bài nói nêu toa ăn uống sẽ tạm dừng phục vụ món nóng trong 20 phút sau khi rời Kingston để bổ sung nguyên liệu tươi, nhưng đồ uống lạnh và đồ ăn nhẹ vẫn có sẵn ('cold drinks and snacks will remain available'). (B) sai vì chỉ tạm dừng 20 phút cho món nóng. (C) và (D) trộn nhầm chi tiết.",
+    "vocab": [
+      ["restock", "v", "bổ sung thêm hàng hóa / nguồn cung"],
+      ["refreshments", "n", "đồ uống và thức ăn nhẹ"],
+      ["compartment", "n", "khoang, ngăn chứa"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Ladies and gentlemen, welcome aboard Silverline Express Train 214 bound for Montreal. We are currently cruising smoothly and expect to pull into Kingston Station right on time at eleven twenty A.M. Please note that due to track maintenance at Kingston, passengers transferring to the Ottawa regional shuttle should proceed to Platform 7 rather than Platform 3 as printed on older schedules. In addition, our café car in Coach 4 will pause hot-meal service for twenty minutes after departing Kingston while staff restock fresh supplies, though cold drinks and snacks will remain available. Finally, if you stored large suitcases in the rear luggage compartment, please wait until the train comes to a complete stop before retrieving them.",
+    "questionText": "What are passengers with oversized suitcases instructed to do?",
+    "options": [
+      "Move their luggage to Coach 4 prior to Kingston",
+      "Present a baggage claim receipt to the conductor",
+      "Exit exclusively through the rear train doors",
+      "Remain seated until the train stops completely"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Hành khách có vali cỡ lớn được hướng dẫn làm gì?\n(A) Chuyển hành lý sang toa số 4 trước khi tới Kingston\n(B) Xuất trình biên lai nhận hành lý cho nhân viên soát vé\n(C) Chỉ bước xuống qua cửa phía đuôi tàu\n(D) Ngồi yên cho đến khi tàu dừng hẳn",
+    "explanation": "Đáp án đúng là (D). Câu cuối thông báo: 'please wait until the train comes to a complete stop before retrieving them' (vui lòng đợi cho đến khi tàu dừng hẳn trước khi đi lấy hành lý). Điều này hàm ý hành khách không nên đứng dậy lấy đồ trong khi tàu còn chạy. (A), (B), (C) đều là phương án nhiễu không có trong bài.",
+    "vocab": [
+      ["retrieve", "v", "lấy lại, thu hồi"],
+      ["oversized", "adj", "cỡ lớn, quá khổ"],
+      ["come to a stop", "phr", "dừng hẳn lại"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following training session:",
+    "audioScript": "Welcome to this afternoon's refresher session on client-account security. Since all of you recently stepped into senior support roles, you now have permission to process invoice adjustments over five hundred dollars. Under our updated compliance guidelines, you must verify a caller's identity using two separate methods before opening any payment history. Asking only for an account number and billing zip code is no longer sufficient, as that information appears on mailed statements. Instead, pair the account number with a one-time confirmation code sent to the client's registered email address. If a caller claims they cannot access email during the call, do not bypass the rule; politely offer to schedule a callback once they can retrieve the code.",
+    "questionText": "Who is the speaker most likely addressing?",
+    "options": [
+      "Software developers designing a banking app",
+      "Newly promoted customer-account specialists",
+      "External auditors reviewing corporate tax returns",
+      "Mailroom staff sorting printed billing statements"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói có khả năng cao nhất đang phát biểu trước ai?\n(A) Các lập trình viên phần mềm đang thiết kế ứng dụng ngân hàng\n(B) Các chuyên viên tài khoản khách hàng mới được thăng chức\n(C) Các kiểm toán viên bên ngoài đang rà soát tờ khai thuế doanh nghiệp\n(D) Nhân viên phòng thư từ đang phân loại sao kê thanh toán bản in",
+    "explanation": "Đáp án đúng là (B). Người nói nhắc: 'Since all of you recently stepped into senior support roles, you now have permission to process invoice adjustments' (vì tất cả anh chị vừa đảm nhận vai trò hỗ trợ cấp cao hơn, giờ đây anh chị có quyền xử lý điều chỉnh hóa đơn). Cụm 'stepped into senior support roles' đồng nghĩa với 'newly promoted'. (A), (C), (D) đều sai vai trò người nghe.",
+    "vocab": [
+      ["refresher session", "n", "buổi tập huấn ôn lại nghiệp vụ"],
+      ["compliance", "n", "sự tuân thủ (quy định)"],
+      ["invoice adjustment", "n", "điều chỉnh hóa đơn"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following training session:",
+    "audioScript": "Welcome to this afternoon's refresher session on client-account security. Since all of you recently stepped into senior support roles, you now have permission to process invoice adjustments over five hundred dollars. Under our updated compliance guidelines, you must verify a caller's identity using two separate methods before opening any payment history. Asking only for an account number and billing zip code is no longer sufficient, as that information appears on mailed statements. Instead, pair the account number with a one-time confirmation code sent to the client's registered email address. If a caller claims they cannot access email during the call, do not bypass the rule; politely offer to schedule a callback once they can retrieve the code.",
+    "questionText": "Why is a billing zip code no longer accepted for verification?",
+    "options": [
+      "Callers often forget their postal codes.",
+      "The billing software no longer stores addresses.",
+      "That detail is printed on physical billing documents.",
+      "Email providers block messages containing zip codes."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao mã bưu chính thanh toán không còn được chấp nhận để xác minh?\n(A) Người gọi điện thường quên mã bưu chính của họ.\n(B) Phần mềm thanh toán không còn lưu trữ địa chỉ nữa.\n(C) Thông tin đó được in trên các chứng từ thanh toán bản giấy.\n(D) Các nhà cung cấp email chặn tin nhắn chứa mã bưu chính.",
+    "explanation": "Đáp án đúng là (C). Bài đào tạo giải thích: 'Asking only for an account number and billing zip code is no longer sufficient, as that information appears on mailed statements' — vì thông tin đó xuất hiện ngay trên bảng sao kê gửi qua đường bưu điện (tài liệu vật lý dễ bị người khác đọc được). 'Mailed statements' được diễn đạt lại thành 'physical billing documents'. (A), (B), (D) đều không có căn cứ trong bài.",
+    "vocab": [
+      ["sufficient", "adj", "đủ, đầy đủ"],
+      ["statement", "n", "bảng sao kê, bản kê khai"],
+      ["verify", "v", "xác minh, kiểm chứng"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following training session:",
+    "audioScript": "Welcome to this afternoon's refresher session on client-account security. Since all of you recently stepped into senior support roles, you now have permission to process invoice adjustments over five hundred dollars. Under our updated compliance guidelines, you must verify a caller's identity using two separate methods before opening any payment history. Asking only for an account number and billing zip code is no longer sufficient, as that information appears on mailed statements. Instead, pair the account number with a one-time confirmation code sent to the client's registered email address. If a caller claims they cannot access email during the call, do not bypass the rule; politely offer to schedule a callback once they can retrieve the code.",
+    "questionText": "What should staff do if a customer cannot check email during a call?",
+    "options": [
+      "Process adjustments under five hundred dollars instead",
+      "Ask the caller for a secondary phone number",
+      "Transfer the caller directly to a compliance manager",
+      "Arrange to contact the client again later"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Nhân viên nên làm gì nếu khách hàng không thể kiểm tra email trong lúc đang gọi?\n(A) Thay vào đó hãy xử lý các khoản điều chỉnh dưới năm trăm đô la\n(B) Hỏi người gọi một số điện thoại phụ\n(C) Chuyển thẳng cuộc gọi cho quản lý tuân thủ\n(D) Sắp xếp liên hệ lại với khách hàng sau",
+    "explanation": "Đáp án đúng là (D). Câu cuối nêu rõ: 'do not bypass the rule; politely offer to schedule a callback once they can retrieve the code' (không được bỏ qua quy tắc; hãy lịch sự đề nghị đặt lịch gọi lại khi họ lấy được mã). 'Schedule a callback' tương đương với 'arrange to contact the client again later'. (A) là bẫy con số 500 đô la. (B) và (C) không được nhắc tới.",
+    "vocab": [
+      ["bypass", "v", "bỏ qua, đi đường vòng né quy định"],
+      ["callback", "n", "cuộc gọi lại"],
+      ["confirmation code", "n", "mã xác nhận"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following internal bulletin:",
+    "audioScript": "Hello, team. Here is your weekly internal bulletin for the week of October twelfth. First, our technology department will migrate the shared design archive to a faster cloud platform starting Friday at eight P.M. Through Sunday noon, large project folders will be read-only, so please upload any final print proofs before Friday evening. Second, remember that receipts for this year's professional-development stipend must be submitted through the human-resources portal by October thirty-first; unused balances will not roll over into next year. Finally, congratulations to our editorial staff on winning two regional journalism awards! To celebrate, refreshments will be served in the fourth-floor atrium on Wednesday at four P.M., right after the weekly editorial roundtable.",
+    "questionText": "What is implied about large project folders over the weekend?",
+    "options": [
+      "Employees will be unable to save edits to them.",
+      "The cloud platform will block all login access.",
+      "Older print proofs will be permanently deleted on Friday.",
+      "Designers must back up files onto external drives."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì được ngụ ý về các thư mục dự án dung lượng lớn vào cuối tuần?\n(A) Nhân viên sẽ không thể lưu các chỉnh sửa vào chúng.\n(B) Nền tảng đám mây sẽ chặn toàn bộ quyền đăng nhập.\n(C) Các bản in thử cũ hơn sẽ bị xóa vĩnh viễn vào thứ Sáu.\n(D) Các nhà thiết kế phải sao lưu tệp sang ổ cứng ngoài.",
+    "explanation": "Đáp án đúng là (A). Bản tin thông báo từ 8 giờ tối thứ Sáu đến trưa Chủ nhật, các thư mục dự án lớn sẽ ở chế độ chỉ đọc ('read-only'), nên nhân viên cần tải lên các bản in thử cuối cùng trước tối thứ Sáu. Việc 'read-only' hàm ý nhân viên vẫn xem được nhưng không thể ghi hay lưu thay đổi mới. (B) sai vì không chặn đăng nhập hoàn toàn. (C) và (D) suy diễn sai.",
+    "vocab": [
+      ["migrate", "v", "chuyển đổi (dữ liệu, hệ thống)"],
+      ["read-only", "adj", "chỉ đọc (không chỉnh sửa được)"],
+      ["print proof", "n", "bản in thử kiểm tra trước khi xuất bản"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following internal bulletin:",
+    "audioScript": "Hello, team. Here is your weekly internal bulletin for the week of October twelfth. First, our technology department will migrate the shared design archive to a faster cloud platform starting Friday at eight P.M. Through Sunday noon, large project folders will be read-only, so please upload any final print proofs before Friday evening. Second, remember that receipts for this year's professional-development stipend must be submitted through the human-resources portal by October thirty-first; unused balances will not roll over into next year. Finally, congratulations to our editorial staff on winning two regional journalism awards! To celebrate, refreshments will be served in the fourth-floor atrium on Wednesday at four P.M., right after the weekly editorial roundtable.",
+    "questionText": "What does the speaker state about the professional-development stipend?",
+    "options": [
+      "Paper receipts must be delivered directly to human resources.",
+      "The annual allowance will increase on October thirty-first.",
+      "Remaining funds expire at the end of the year.",
+      "Only editorial team members qualify for reimbursement."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói cho biết điều gì về khoản trợ cấp phát triển chuyên môn?\n(A) Hóa đơn giấy phải được nộp trực tiếp cho phòng nhân sự.\n(B) Mức trợ cấp hàng năm sẽ tăng vào ngày ba mươi mốt tháng Mười.\n(C) Số tiền còn dư sẽ hết hạn vào cuối năm.\n(D) Chỉ thành viên ban biên tập mới đủ điều kiện được hoàn chi phí.",
+    "explanation": "Đáp án đúng là (C). Bản tin nhắc: 'unused balances will not roll over into next year' (số dư chưa sử dụng sẽ không được chuyển sang năm sau) — tức số tiền còn lại sẽ hết hạn vào cuối năm. (A) sai vì hóa đơn phải nộp qua cổng thông tin nhân sự trực tuyến ('human-resources portal'), không phải nộp giấy trực tiếp. (B) là bẫy ngày 31/10 (hạn nộp hóa đơn). (D) trộn nhầm chi tiết về ban biên tập ở câu sau.",
+    "vocab": [
+      ["stipend", "n", "khoản trợ cấp, phụ cấp"],
+      ["roll over", "phr", "chuyển tiếp, cộng dồn sang kỳ sau"],
+      ["reimbursement", "n", "sự hoàn trả chi phí"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following internal bulletin:",
+    "audioScript": "Hello, team. Here is your weekly internal bulletin for the week of October twelfth. First, our technology department will migrate the shared design archive to a faster cloud platform starting Friday at eight P.M. Through Sunday noon, large project folders will be read-only, so please upload any final print proofs before Friday evening. Second, remember that receipts for this year's professional-development stipend must be submitted through the human-resources portal by October thirty-first; unused balances will not roll over into next year. Finally, congratulations to our editorial staff on winning two regional journalism awards! To celebrate, refreshments will be served in the fourth-floor atrium on Wednesday at four P.M., right after the weekly editorial roundtable.",
+    "questionText": "When will the celebration in the fourth-floor atrium take place?",
+    "options": [
+      "Immediately before Friday's server migration",
+      "On October thirty-first at noon",
+      "During next month's regional journalism ceremony",
+      "Following a Wednesday afternoon staff meeting"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Buổi liên hoan chúc mừng tại sảnh tầng bốn sẽ diễn ra khi nào?\n(A) Ngay trước đợt chuyển đổi máy chủ vào thứ Sáu\n(B) Vào trưa ngày ba mươi mốt tháng Mười\n(C) Trong lễ trao giải báo chí khu vực tháng sau\n(D) Sau một cuộc họp nhân viên vào chiều thứ Tư",
+    "explanation": "Đáp án đúng là (D). Câu cuối cho biết tiệc nhẹ ăn mừng sẽ được phục vụ tại sảnh tầng bốn 'on Wednesday at four P.M., right after the weekly editorial roundtable' (vào lúc 4 giờ chiều thứ Tư, ngay sau buổi họp bàn tròn hàng tuần của ban biên tập). 'Weekly editorial roundtable' tương ứng với 'staff meeting'. (A), (B), (C) đều ghép sai mốc thời gian hoặc sự kiện trong bài.",
+    "vocab": [
+      ["editorial", "adj", "thuộc về biên tập, tòa soạn"],
+      ["roundtable", "n", "cuộc họp bàn tròn, thảo luận nhóm"],
+      ["archive", "n", "kho lưu trữ"]
+    ]
+  }
+]

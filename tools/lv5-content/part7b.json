@@ -1,0 +1,287 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following e-mail and invoice:",
+    "passageHtml": "<div class='border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3'><p class='font-bold text-center text-base'>Document 1: E-mail — Invoice Discrepancy</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>From:</strong> David Chen, Operations Manager, NovaTex Fabrics<br><strong>To:</strong> Accounts Receivable, Meridian Uniforms Ltd.<br><strong>Subject:</strong> Invoice #INV-2214 discrepancy</p><p class='mt-2'>Dear Accounts Team, I am writing regarding invoice #INV-2214, which we received on 4 November. Our purchase order #PO-8821 covered 400 uniforms at $38.50 per unit, yet the invoice lists 400 units at $41.00. This $2.50 per-unit difference amounts to $1,000.00, not accounting for the 7% early-payment discount you offered in your October quotation. I also note a separate line for embroidery set-up of $240, which we understood would be waived for orders above 300 units. Could you please reissue the corrected invoice before Friday? We are prepared to remit payment within ten days of receiving an accurate statement. Thank you for your prompt attention.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 2: Invoice</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>INVOICE — Meridian Uniforms Ltd.</strong><br>Invoice No: INV-2214&nbsp;|&nbsp;Date: 2 November<br>Bill to: NovaTex Fabrics, 18 Riverside Ave, Portland<br>PO reference: #PO-8821</p><table class='mt-2 w-full text-left text-sm'><tr><td class='pr-2'><strong>Description</strong></td><td><strong>Qty</strong></td><td><strong>Unit price</strong></td><td><strong>Amount</strong></td></tr><tr><td>Uniform, cotton blend, embroidered</td><td>400</td><td>$41.00</td><td>$16,400.00</td></tr><tr><td>Embroidery set-up</td><td>1</td><td>$240.00</td><td>$240.00</td></tr><tr><td><strong>Subtotal</strong></td><td></td><td></td><td>$16,640.00</td></tr><tr><td>Early-payment discount (5%)</td><td></td><td></td><td>-$832.00</td></tr><tr><td><strong>Total due</strong></td><td></td><td></td><td>$15,808.00</td></tr></table><p class='mt-2'>Payment terms: net 30; 5% discount if paid within 10 days.</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "What is the main purpose of the e-mail?",
+        "options": [
+          "To cancel purchase order #PO-8821 due to a delivery delay",
+          "To request billing revisions before payment is issued",
+          "To challenge the 5% early-payment terms agreed in October",
+          "To report that fewer than 400 uniforms were received"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của e-mail là yêu cầu chỉnh sửa hóa đơn trước khi thực hiện thanh toán.",
+        "explanation": "Người gửi chỉ ra sự chênh lệch đơn giá ($41.00 thay vì $38.50), mức chiết khấu và phí thêu $240, đồng thời đề nghị 'reissue the corrected invoice before Friday' để tiến hành thanh toán trong 10 ngày. A sai vì đơn không bị hủy; C sai vì khách hàng đang đòi mức chiết khấu 7% trong báo giá tháng 10; D sai vì số lượng vẫn là 400 bộ.",
+        "vocab": [["reissue", "v.", "xuất lại, phát hành lại"], ["discrepancy", "n.", "sự sai lệch, chênh lệch"], ["purchase order", "n.", "đơn đặt hàng"]]
+      },
+      {
+        "n": 177,
+        "q": "According to the invoice, how much will NovaTex owe if it pays within ten days?",
+        "options": ["$16,640.00", "$16,400.00", "$15,808.00", "$14,976.00"],
+        "answer": "C",
+        "translation": "Theo hóa đơn, NovaTex sẽ phải trả bao nhiêu nếu thanh toán trong vòng mười ngày? — 15.808,00 đô la.",
+        "explanation": "Tổng phụ 16.640,00 trừ chiết khấu thanh toán sớm 5% (832,00) bằng 15.808,00, đúng như dòng 'Total due' ghi trên hóa đơn.",
+        "vocab": [["subtotal", "n.", "tổng phụ"], ["unit price", "n.", "đơn giá"], ["total due", "n.", "tổng số tiền phải trả"]]
+      },
+      {
+        "n": 178,
+        "q": "Which charge listed on the invoice does the customer believe should not apply?",
+        "options": ["The $240 embroidery set-up fee", "The $41.00 unit price", "The 5% early-payment discount", "The $16,400.00 line total"],
+        "answer": "A",
+        "translation": "Khoản phí nào được liệt kê trên hóa đơn mà khách hàng cho rằng không nên áp dụng? — Phí thiết lập thêu 240 đô la.",
+        "explanation": "Đối chiếu hai tài liệu: e-mail nói phí 'embroidery set-up' đáng lẽ được miễn với đơn trên 300 bộ, nhưng hóa đơn vẫn ghi khoản $240,00 — chỉ đối chiếu cả hai mới trả lời được.",
+        "vocab": [["waive", "v.", "miễn, bỏ qua"], ["set-up", "n.", "phí thiết lập, cài đặt"], ["apply", "v.", "áp dụng"]]
+      },
+      {
+        "n": 179,
+        "q": "The word \"waived\" in the e-mail is closest in meaning to",
+        "options": ["doubled at checkout", "omitted from billing", "applied retroactively", "deferred until delivery"],
+        "answer": "B",
+        "translation": "Từ \"waived\" trong e-mail gần nghĩa nhất với — được miễn tính vào hóa đơn (omitted from billing).",
+        "explanation": "Trong ngữ cảnh 'a separate line for embroidery set-up of $240, which we understood would be waived for orders above 300 units', 'waived' nghĩa là khoản phí này được miễn, tức không tính vào hóa đơn.",
+        "vocab": [["waive", "v.", "miễn trừ, bỏ qua khoản phí"], ["prompt", "adj.", "nhanh chóng, kịp thời"], ["statement", "n.", "bản sao kê, bản kê"]]
+      },
+      {
+        "n": 180,
+        "q": "What can be inferred about the customer's position?",
+        "options": ["It intends to withhold payment entirely.", "It is willing to pay promptly once the invoice is corrected.", "It no longer wishes to do business with the supplier.", "It has already paid the disputed amount."],
+        "answer": "B",
+        "translation": "Có thể suy ra điều gì về lập trường của khách hàng? — Họ sẵn sàng thanh toán ngay khi hóa đơn được sửa đúng.",
+        "explanation": "E-mail viết 'we are prepared to remit payment within ten days of receiving an accurate statement', cho thấy khách hàng có thiện chí thanh toán ngay khi nhận được hóa đơn chính xác — đây là suy luận về thái độ hợp tác.",
+        "vocab": [["withhold", "v.", "giữ lại, khấu trừ"], ["accurate", "adj.", "chính xác"], ["promptly", "adv.", "ngay lập tức, nhanh chóng"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and text message exchange:",
+    "passageHtml": "<div class='border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3'><p class='font-bold text-center text-base'>Document 1: Advertisement</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Introducing ClaritySuite 5.0</strong> — end-to-end compliance management for growing enterprises. Consolidate audit trails, automate regulatory filings, and generate board-ready reports in a single dashboard. ClaritySuite 5.0 now features a real-time risk heat map and role-based access controls certified to ISO 27001. Firms currently spend an average of 14 hours per week reconciling compliance data across spreadsheets; early adopters report a 40% reduction in preparation time. For a limited period, new annual subscribers receive three months of dedicated onboarding support and waived implementation fees. Schedule a live demo before 30 November and receive a complimentary data-migration assessment. Visit claritysuite.com/demo or call 1-800-555-0147.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 2: Text Message Exchange</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>[10:14] Priya:</strong> Saw the ClaritySuite ad in this month's Logistics Digest. Tempting, but the ISO 27001 claim is the only part that matters for our upcoming client audit.<br><strong>[10:16] Marcus:</strong> Agreed, though we already run a compliance tool. Migrating two years of records would be a nightmare — unless the data-migration assessment is genuinely free.<br><strong>[10:18] Priya:</strong> The ad says it's complimentary before 30 Nov. Worth one call. If implementation fees are truly waived, it might beat renewing our current licence.<br><strong>[10:20] Marcus:</strong> Fine. I'll request the demo for Thursday and ask for a written quote confirming both the waiver and the assessment.<br><strong>[10:21] Priya:</strong> Good — get it in writing before our budget review on the 27th.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "What is the primary purpose of the advertisement?",
+        "options": [
+          "To announce that ISO 27001 certification is mandatory after 30 November",
+          "To persuade enterprises to subscribe to an automated compliance platform",
+          "To publish benchmark data showing weekly spreadsheet hours across industries",
+          "To promote a standalone data-migration service for existing licence holders"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của quảng cáo là thuyết phục doanh nghiệp đăng ký sử dụng nền tảng quản lý tuân thủ tự động.",
+        "explanation": "Quảng cáo giới thiệu ClaritySuite 5.0 với các tính năng quản trị tuân thủ, chứng nhận ISO 27001 và ưu đãi miễn phí thiết lập, đánh giá di chuyển dữ liệu trước ngày 30/11 để thu hút doanh nghiệp đặt demo và đăng ký gói năm.",
+        "vocab": [["consolidate", "v.", "hợp nhất, gộp lại"], ["dashboard", "n.", "bảng điều khiển"], ["adopter", "n.", "người áp dụng sớm"]]
+      },
+      {
+        "n": 182,
+        "q": "Which advertised feature does Priya regard as most important?",
+        "options": ["The real-time risk heat map", "The ISO 27001 certification", "The waived implementation fees", "The data-migration assessment"],
+        "answer": "B",
+        "translation": "Tính năng nào trong quảng cáo mà Priya cho là quan trọng nhất? — Chứng nhận ISO 27001.",
+        "explanation": "Đối chiếu hai tài liệu: quảng cáo nêu 'certified to ISO 27001', còn Priya viết 'the ISO 27001 claim is the only part that matters for our upcoming client audit'.",
+        "vocab": [["claim", "n.", "lời khẳng định, tuyên bố"], ["audit", "n.", "kiểm toán"], ["certified", "adj.", "được chứng nhận"]]
+      },
+      {
+        "n": 183,
+        "q": "What can be inferred about the company's current compliance tool?",
+        "options": ["It was recently purchased.", "Its licence is nearing renewal.", "It is certified to ISO 27001.", "It was built in-house."],
+        "answer": "B",
+        "translation": "Có thể suy ra điều gì về công cụ tuân thủ hiện tại của công ty? — Giấy phép của nó sắp đến hạn gia hạn.",
+        "explanation": "Marcus nói phần mềm mới 'might beat renewing our current licence', hàm ý hợp đồng hiện tại sắp đến kỳ gia hạn — đây là suy luận từ tin nhắn.",
+        "vocab": [["licence", "n.", "giấy phép, bản quyền"], ["renewal", "n.", "sự gia hạn"], ["migrate", "v.", "di chuyển (dữ liệu)"]]
+      },
+      {
+        "n": 184,
+        "q": "The word \"reconciling\" in the advertisement is closest in meaning to",
+        "options": ["reviewing", "matching (aligning)", "deleting", "generating"],
+        "answer": "B",
+        "translation": "Từ \"reconciling\" trong quảng cáo gần nghĩa nhất với — đối chiếu, khớp dữ liệu.",
+        "explanation": "Cụm 'reconciling compliance data across spreadsheets' nghĩa là đối chiếu, làm khớp dữ liệu giữa các bảng tính khác nhau.",
+        "vocab": [["reconcile", "v.", "đối chiếu, khớp dữ liệu"], ["spreadsheet", "n.", "bảng tính"], ["audit trail", "n.", "dấu vết kiểm toán"]]
+      },
+      {
+        "n": 185,
+        "q": "Which step do the two colleagues agree must be completed before their budget review?",
+        "options": ["Signing an annual subscription", "Obtaining a written quote confirming the waivers", "Migrating two years of records", "Renewing the current licence"],
+        "answer": "B",
+        "translation": "Bước nào mà hai đồng nghiệp nhất trí phải hoàn thành trước buổi duyệt ngân sách? — Xin một bản báo giá bằng văn bản xác nhận các khoản miễn.",
+        "explanation": "Đối chiếu hai tài liệu: quảng cáo nêu 'waived implementation fees' và 'complimentary data-migration assessment', còn Marcus yêu cầu 'a written quote confirming both the waiver and the assessment' trước buổi duyệt ngân sách ngày 27.",
+        "vocab": [["quote", "n.", "bản báo giá"], ["waiver", "n.", "sự miễn, bỏ qua"], ["complimentary", "adj.", "miễn phí, tặng kèm"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following agenda, e-mail, and feedback:",
+    "passageHtml": "<div class='border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3'><p class='font-bold text-center text-base'>Document 1: Conference Agenda</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Agenda — Regional Sales Enablement Summit, 9–10 December, Harborview Convention Center</strong></p><p class='mt-2'><strong>Day 1 (9 Dec):</strong><br>08:30 Registration and breakfast<br>09:00 Keynote: Selling in a Regulated Market<br>10:30 Breakout A: Negotiation tactics<br>12:00 Lunch<br>13:30 Breakout B: CRM data hygiene<br>15:00 Panel: Forecasting accuracy<br>17:00 Networking reception</p><p class='mt-2'><strong>Day 2 (10 Dec):</strong><br>09:00 Workshop: Account-based marketing<br>11:00 Breakout C: Closing enterprise deals<br>12:30 Working lunch (bring your pipeline)<br>14:00 Certification exam (optional)<br>16:00 Closing remarks</p><p class='mt-2'>Note: Breakout A and B run concurrently; please pre-register for one per time slot. The optional exam is open to attendees who completed both days.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 2: E-mail</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>From:</strong> Events Team, Meridian Training Group<br><strong>To:</strong> Elena Rodriguez<br><strong>Subject:</strong> Your schedule — Sales Enablement Summit</p><p class='mt-2'>Dear Ms. Rodriguez, Thank you for registering for the Sales Enablement Summit. Our records show you selected Breakout A (Negotiation tactics) on Day 1, along with the Account-based marketing workshop and Breakout C (Closing enterprise deals) on Day 2. We note that you also expressed interest in the optional certification exam. Please be aware that the exam draws on content from both Breakout B and the account-based marketing workshop; we therefore strongly recommend attending the latter on Day 2 before sitting the exam and reviewing the Breakout B slide deck. A seat has been reserved for you, and your exam voucher is attached. If you need to change your breakout selection, please reply by 2 December. We look forward to welcoming you in Harborview.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 3: Feedback</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Post-event feedback — Submitted by K. Okafor, 8 December 2023 (previous session)</strong><br>Rating: 4/5</p><p class='mt-2'>Highlights: The negotiation breakout was practical and fast-paced; the facilitator used live role-plays rather than slides. Suggestions: The panel on forecasting felt rushed, and the working lunch left too little time to discuss one's own pipeline with peers. Advice for future attendees: Arrive early on Day 2 — the workshop fills quickly, and latecomers were turned away once the room reached capacity. The certification exam is more demanding than the brochure suggests; budget at least three evenings of review.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "According to the e-mail, which Day 2 session should Elena attend prior to taking the certification exam?",
+        "options": ["Breakout C (Closing enterprise deals)", "The working lunch pipeline review", "The account-based marketing workshop", "The closing remarks"],
+        "answer": "C",
+        "translation": "Theo e-mail, phiên nào trong Ngày 2 mà Elena nên tham dự trước khi thi chứng chỉ? — Hội thảo account-based marketing.",
+        "explanation": "E-mail ghi rõ 'recommend attending the latter [the account-based marketing workshop] on Day 2 before sitting the exam', khớp với lịch 09:00 Ngày 2 trong Document 1.",
+        "vocab": [["workshop", "n.", "hội thảo, buổi thực hành"], ["sit (an exam)", "v.", "dự thi"], ["voucher", "n.", "phiếu, chứng từ"]]
+      },
+      {
+        "n": 187,
+        "q": "What can be inferred about the certification exam from the feedback?",
+        "options": ["It is easier than most attendees expect.", "It requires significant preparation.", "It is offered only to first-time attendees.", "It focuses mainly on negotiation skills."],
+        "answer": "B",
+        "translation": "Từ phản hồi có thể suy ra điều gì về kỳ thi chứng chỉ? — Nó đòi hỏi chuẩn bị đáng kể.",
+        "explanation": "Phản hồi ghi kỳ thi 'more demanding than the brochure suggests' và khuyên 'budget at least three evenings of review' — suy luận rằng cần ôn luyện nhiều.",
+        "vocab": [["demanding", "adj.", "đòi hỏi cao, khắt khe"], ["brochure", "n.", "tờ rơi giới thiệu"], ["budget", "v.", "dự trù, dành ra"]]
+      },
+      {
+        "n": 188,
+        "q": "Based on the schedule and the e-mail, which exam-relevant session is Elena NOT currently registered for?",
+        "options": ["Breakout A", "Breakout B", "Breakout C", "The account-based marketing workshop"],
+        "answer": "B",
+        "translation": "Dựa trên lịch trình và e-mail, phiên nào liên quan đến kỳ thi mà Elena hiện chưa đăng ký? — Breakout B.",
+        "explanation": "E-mail nêu kỳ thi dựa trên nội dung của cả Breakout B và hội thảo account-based marketing, nhưng hồ sơ đăng ký của Elena gồm Breakout A, hội thảo account-based marketing và Breakout C — tức cô chưa đăng ký Breakout B.",
+        "vocab": [["draw on", "phr.", "dựa trên, sử dụng"], ["register", "v.", "đăng ký"], ["slot", "n.", "khoảng thời gian, suất"]]
+      },
+      {
+        "n": 189,
+        "q": "The phrase \"draws on\" in the e-mail is closest in meaning to",
+        "options": ["incorporates", "separates from", "supersedes", "contradicts"],
+        "answer": "A",
+        "translation": "Cụm từ \"draws on\" trong e-mail gần nghĩa nhất với — kết hợp, khai thác từ (incorporates).",
+        "explanation": "Câu 'the exam draws on content from both Breakout B and the account-based marketing workshop' nghĩa là đề thi kết hợp/khai thác kiến thức từ cả hai phiên này ('incorporates').",
+        "vocab": [["draw on", "phr.", "dựa trên, khai thác"], ["incorporate", "v.", "kết hợp, đưa vào"], ["attendee", "n.", "người tham dự"]]
+      },
+      {
+        "n": 190,
+        "q": "Which advice in the feedback is most useful to Elena given her exam plan?",
+        "options": ["Arrive early on Day 2 because the workshop fills quickly.", "Skip the working lunch to save time.", "Avoid the negotiation breakout.", "Change her seat on Day 1."],
+        "answer": "A",
+        "translation": "Lời khuyên nào trong phản hồi hữu ích nhất cho Elena với kế hoạch dự thi của cô? — Đến sớm vào ngày 2 vì hội thảo nhanh hết chỗ.",
+        "explanation": "Elena định dự kỳ thi (theo e-mail), và hội thảo cần thiết cho kỳ thi diễn ra sáng ngày 2; phản hồi cảnh báo 'latecomers were turned away' khi phòng đủ chỗ. Đây là suy luận đối chiếu.",
+        "vocab": [["fill", "v.", "lấp đầy, hết chỗ"], ["latecomer", "n.", "người đến muộn"], ["capacity", "n.", "sức chứa"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following catalog, registration form, and e-mail:",
+    "passageHtml": "<div class='border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3'><p class='font-bold text-center text-base'>Document 1: Course Catalog</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Professional Development Catalog — Q1</strong></p><table class='mt-2 w-full text-left text-sm'><tr><td class='pr-2'><strong>Course</strong></td><td><strong>Format</strong></td><td><strong>Duration</strong></td><td><strong>Fee</strong></td></tr><tr><td>Leadership Fundamentals</td><td>In-person</td><td>2 days</td><td>$1,450</td></tr><tr><td>Conflict Resolution</td><td>Virtual</td><td>4 x 2 hrs</td><td>$640</td></tr><tr><td>Financial Acumen for Managers</td><td>In-person</td><td>3 days</td><td>$1,980</td></tr><tr><td>Data Literacy</td><td>Virtual</td><td>6 x 2 hrs</td><td>$890</td></tr><tr><td>Presentation Mastery</td><td>In-person</td><td>1 day</td><td>$720</td></tr></table><p class='mt-2'>Group discounts: 5% for 3–5 participants; 10% for 6 or more, applied to the same course. All fees include materials and a certificate. In-person courses are held at our downtown campus; lunch is provided. Virtual sessions are live, not recorded, and require a webcam. Registration closes 14 days before each course start date. Cancellations within 7 days incur a 50% fee.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 2: Registration Form</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Training Registration Form — BrightPath Academy</strong><br>Company: ______________<br>Contact name: ______________<br>Course(s): ______________<br>Number of participants: ______________<br>Preferred dates: ______________<br>Format preference: In-person / Virtual</p><p class='mt-2'>Terms: By submitting this form you agree to the group-discount policy and acknowledge that virtual sessions are live and cannot be replayed.</p><p class='mt-2'><strong>Internal use only:</strong><br>Employee: M. Alvarez<br>Requested course: Financial Acumen for Managers<br>Participants: 4<br>Start date preferred: 12 February</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 3: E-mail</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>From:</strong> Laura Kim, Learning &amp; Development Coordinator<br><strong>To:</strong> M. Alvarez<br><strong>Subject:</strong> Re: Registration — Financial Acumen for Managers</p><p class='mt-2'>Hi M., Thank you for submitting the registration form for four participants in Financial Acumen for Managers. I have tentatively reserved seats for the 12 February start. Please note that the group discount of 5% applies to your cohort of four, bringing the per-participant fee to $1,881; the total before tax is $7,524. As this is an in-person course, lunch is included, but you will need to confirm any dietary requirements at least one week in advance. One concern: our downtown campus is undergoing renovation in February, so this session has been relocated to our Riverside annex. If that location is inconvenient, we can move you to the 5 March cohort at the main campus. Kindly confirm by Friday.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "If M. Alvarez's company had enrolled six participants instead of four in the same course, what would the total fee before tax have been?",
+        "options": ["$7,524.00", "$10,692.00", "$11,286.00", "$11,880.00"],
+        "answer": "B",
+        "translation": "Nếu công ty của M. Alvarez đăng ký sáu học viên thay vì bốn cho cùng khóa học, tổng phí trước thuế sẽ là bao nhiêu? — 10.692,00 đô la.",
+        "explanation": "Khóa Financial Acumen for Managers có giá gốc $1,980/người. Với nhóm từ 6 người trở lên, bảng giá áp dụng chiết khấu 10%: 6 × $1,980 × 0,9 = $10,692.00. Mức $11,286.00 là tính nhầm 5%, $11,880.00 là chưa giảm giá, còn $7,524.00 là tổng phí của 4 người.",
+        "vocab": [["cohort", "n.", "nhóm (cùng khóa)"], ["enroll", "v.", "đăng ký học"], ["before tax", "phr.", "trước thuế"]]
+      },
+      {
+        "n": 192,
+        "q": "Which rule in the catalog accounts for the per-participant rate quoted in the e-mail?",
+        "options": [
+          "The seven-day cancellation penalty",
+          "The multi-participant group discount",
+          "The virtual-session equipment policy",
+          "The fourteen-day registration cutoff"
+        ],
+        "answer": "B",
+        "translation": "Quy định nào trong catalog giải thích đơn giá mỗi học viên được báo trong e-mail? — Chiết khấu nhóm cho nhiều học viên.",
+        "explanation": "E-mail ghi 'the group discount of 5% applies to your cohort of four', đối chiếu với catalog nêu mức giảm 5% cho nhóm từ 3–5 người.",
+        "vocab": [["discount", "n.", "chiết khấu"], ["account for", "phr. v.", "giải thích cho"], ["policy", "n.", "chính sách"]]
+      },
+      {
+        "n": 193,
+        "q": "According to the catalog and the e-mail, how will the 12 February session differ from the standard offering?",
+        "options": ["It will be held at a different venue.", "It will be delivered virtually.", "Lunch will not be provided.", "It will last four days."],
+        "answer": "A",
+        "translation": "Theo catalog và e-mail, buổi học ngày 12 tháng 2 sẽ khác gì so với dịch vụ tiêu chuẩn? — Nó sẽ được tổ chức tại một địa điểm khác.",
+        "explanation": "Catalog nói khóa trực tiếp tổ chức tại 'downtown campus', nhưng e-mail báo buổi 12/2 đã 'relocated to our Riverside annex' do cải tạo — đối chiếu để thấy sự khác biệt về địa điểm.",
+        "vocab": [["relocate", "v.", "chuyển địa điểm"], ["annex", "n.", "khu nhà phụ"], ["renovation", "n.", "việc cải tạo, sửa chữa"]]
+      },
+      {
+        "n": 194,
+        "q": "The word \"incur\" in the catalog is closest in meaning to",
+        "options": ["result in", "cancel", "avoid", "reduce"],
+        "answer": "A",
+        "translation": "Từ \"incur\" trong catalog gần nghĩa nhất với — dẫn đến, gánh chịu.",
+        "explanation": "Câu 'Cancellations within 7 days incur a 50% fee' nghĩa là việc hủy trong vòng 7 ngày sẽ dẫn đến một khoản phí 50%.",
+        "vocab": [["incur", "v.", "gánh chịu, dẫn đến"], ["cancellation", "n.", "sự hủy bỏ"], ["fee", "n.", "lệ phí, phí"]]
+      },
+      {
+        "n": 195,
+        "q": "Which of the following is NOT stated in the catalog?",
+        "options": ["Virtual sessions are recorded for later viewing.", "A webcam is required for virtual sessions.", "Lunch is provided at in-person courses.", "Group discounts apply to the same course."],
+        "answer": "A",
+        "translation": "Điều nào sau đây KHÔNG được nêu trong catalog? — Các buổi học trực tuyến được ghi hình để xem lại sau.",
+        "explanation": "Catalog nêu rõ 'Virtual sessions are live, not recorded', nên việc 'recorded for later viewing' là sai; ba phương án còn lại đều được nhắc đến trong văn bản.",
+        "vocab": [["recorded", "adj.", "được ghi hình"], ["webcam", "n.", "camera web"], ["in-person", "adj.", "trực tiếp"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following notice, desk schedule, and e-mail:",
+    "passageHtml": "<div class='border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3'><p class='font-bold text-center text-base'>Document 1: Notice</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Office Closure and Compliance Reminder — Facilities Department</strong></p><p class='mt-2'>As part of the annual fire-safety inspection, Floors 3 through 6 of the Meridian Tower will be closed to all staff on Friday, 21 February, between 07:00 and 13:00. Access cards for these floors will be temporarily suspended during this window. Employees whose desks are located on the affected floors should work from home or use the shared hot-desking area on Floor 2. Please remove all personal items from your workstation by 18:00 on Thursday; items left behind will be moved to the storage room on Floor 1 and can be collected the following Monday. The inspection will not affect the ground-floor café or the mailroom. We thank you for your cooperation.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 2: Hot-Desk Schedule</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>Hot-Desk Availability — Floor 2, Friday 21 February</strong></p><table class='mt-2 w-full text-left text-sm'><tr><td class='pr-2'><strong>Desk</strong></td><td><strong>Time slot</strong></td><td><strong>Reserved for</strong></td></tr><tr><td>D-01</td><td>07:00–10:00</td><td>Operations</td></tr><tr><td>D-02</td><td>07:00–10:00</td><td>Finance</td></tr><tr><td>D-03</td><td>10:00–13:00</td><td>Marketing</td></tr><tr><td>D-04</td><td>10:00–13:00</td><td>Legal</td></tr><tr><td>D-05</td><td>13:00–16:00</td><td>HR</td></tr><tr><td>D-06</td><td>13:00–16:00</td><td>IT</td></tr></table><p class='mt-2'>Note: Each desk seats one person. Booking is on a first-come, first-served basis via the internal portal; slots not claimed by 08:00 are released. Please wipe down your desk at the end of your slot.</p><hr class='my-2 border-neutral-300'><p class='font-bold text-center text-base'>Document 3: E-mail</p><hr class='my-2 border-neutral-300'><p class='mt-2'><strong>From:</strong> R. Patel, Senior Analyst, Finance<br><strong>To:</strong> Facilities Department<br><strong>Subject:</strong> Desk on 21 February</p><p class='mt-2'>Hello, I sit on Floor 4 and plan to use the hot-desking area during the inspection. According to the schedule, the Finance slot is 07:00–10:00, but I have a client call until 10:30 and will not reach the office before 11:00. Is it possible to reserve D-04, which is assigned to Legal in the 10:00–13:00 window? I understand slots are first-come, first-served, but I would prefer a confirmed seat rather than arriving to find all desks released. Alternatively, could I book the HR slot at 13:00? That would mean losing most of my morning, which I would rather avoid. Thank you for your help.</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "Why will R. Patel be unable to work at his regular desk when he arrives at 11:00 on Friday?",
+        "options": [
+          "His workstation will have been relocated to the Floor 1 storage room.",
+          "His floor is inaccessible during the inspection window from 07:00 to 13:00.",
+          "All Floor 4 desks are reserved for Legal staff until 13:00.",
+          "The ground-floor access cards are deactivated until the following Monday."
+        ],
+        "answer": "B",
+        "translation": "Vì sao R. Patel không thể làm việc tại bàn thường lệ khi đến văn phòng lúc 11:00 thứ Sáu? — Tầng của anh nằm trong khu vực đóng cửa kiểm tra từ 07:00 đến 13:00.",
+        "explanation": "E-mail cho biết R. Patel ngồi ở tầng 4; đối chiếu với thông báo ở Tài liệu 1, các tầng 3 đến 6 đều bị đóng cửa và tạm khóa thẻ từ trong khung 07:00–13:00 ngày thứ Sáu 21/2.",
+        "vocab": [["closure", "n.", "sự đóng cửa"], ["inspection", "n.", "cuộc kiểm tra"], ["inaccessible", "adj.", "không thể tiếp cận"]]
+      },
+      {
+        "n": 197,
+        "q": "Why does R. Patel ask for special accommodation?",
+        "options": ["The Finance desk slot ends before he can arrive.", "He lost his access card.", "He prefers to work from home.", "His desk was moved to storage."],
+        "answer": "A",
+        "translation": "Vì sao R. Patel xin được thu xếp đặc biệt? — Vì suất bàn của Finance kết thúc trước khi anh có thể đến.",
+        "explanation": "Đối chiếu danh sách bàn (Finance 07:00–10:00) với e-mail (R. Patel có cuộc gọi khách hàng đến 10:30, tới văn phòng sau 11:00) — suất Finance kết thúc trước khi anh đến.",
+        "vocab": [["accommodation", "n.", "sự thu xếp, điều chỉnh"], ["slot", "n.", "khoảng thời gian, suất"], ["hot-desking", "n.", "bàn làm việc dùng chung"]]
+      },
+      {
+        "n": 198,
+        "q": "What does the note about releasing slots by 08:00 imply?",
+        "options": ["Desks are guaranteed to anyone who books online.", "Unclaimed desks become available to others.", "Staff must arrive by 08:00 or lose their jobs.", "Only managers may release a desk."],
+        "answer": "B",
+        "translation": "Ghi chú về việc nhả suất trước 08:00 ngụ ý điều gì? — Những bàn không được nhận sẽ trở nên sẵn có cho người khác.",
+        "explanation": "Cụm 'slots not claimed by 08:00 are released' hàm ý suất không được nhận trước 8 giờ sẽ được nhả ra cho người khác dùng — suy luận về chính sách.",
+        "vocab": [["release", "v.", "nhả, trả lại (chỗ)"], ["claim", "v.", "nhận, xác nhận"], ["first-come, first-served", "phr.", "đến trước phục vụ trước"]]
+      },
+      {
+        "n": 199,
+        "q": "The word \"released\" in the desk schedule is closest in meaning to",
+        "options": [
+          "reassigned to general availability",
+          "permanently discontinued",
+          "subject to a cancellation charge",
+          "verified by facilities staff"
+        ],
+        "answer": "A",
+        "translation": "Từ \"released\" trong lịch bàn gần nghĩa nhất với — được mở lại cho mọi người đặt (reassigned to general availability).",
+        "explanation": "Cụm 'slots not claimed by 08:00 are released' nghĩa là các suất chưa có người nhận trước 08:00 sẽ được giải phóng để trở nên khả dụng cho nhân viên khác.",
+        "vocab": [["release", "v.", "nhả ra, giải phóng chỗ"], ["claim", "v.", "nhận, xác nhận"], ["portal", "n.", "cổng (nội bộ)"]]
+      },
+      {
+        "n": 200,
+        "q": "According to the notice, which facility or restriction remains unaffected by the Friday inspection?",
+        "options": [
+          "Postal and courier handling in the mailroom",
+          "Card access for workstations on Floors 3 through 6",
+          "Storage of personal items left after Thursday at 18:00",
+          "Shared hot-desking bookings on Floor 2"
+        ],
+        "answer": "A",
+        "translation": "Theo thông báo, khu vực hoặc hoạt động nào không bị ảnh hưởng bởi đợt kiểm tra ngày thứ Sáu? — Hoạt động xử lý thư từ tại phòng thư tín (mailroom).",
+        "explanation": "Thông báo khẳng định 'The inspection will not affect the ground-floor café or the mailroom', trong khi thẻ từ tầng 3–6 bị khóa và đồ cá nhân để lại sau 18:00 thứ Năm sẽ bị dọn xuống kho tầng 1.",
+        "vocab": [["affected", "adj.", "bị ảnh hưởng"], ["mailroom", "n.", "phòng thư từ"], ["workstation", "n.", "bàn làm việc"]]
+      }
+    ]
+  }
+]

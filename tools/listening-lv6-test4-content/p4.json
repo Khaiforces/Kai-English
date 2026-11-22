@@ -1,0 +1,632 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Thank you, members of the selection committee, for honoring Northsea Marine Systems with this Maritime Engineering Distinction Award. When our naval architecture division first proposed integrating retractable rotor sails with an air-lubrication hull system, several industry peers dismissed the concept as a maintenance liability on volatile North Atlantic freight routes. Critics assumed that salt-induced mechanical wear would outweigh any theoretical fuel savings. Over eighteen months of commercial bulk-carrier trials out of Glasgow, however, our hybrid propulsion design slashed heavy fuel consumption by twenty-two percent without sacrificing cargo hold capacity. Needless to say, the maritime insurers' skepticism evaporated faster than sea spray. Although my name is engraved on this trophy, it truly belongs to our hydrodynamicists and structural engineers. In that spirit, we are channeling the entire award endowment into ocean-engineering scholarships for graduating seniors at the Clyde Maritime Institute.",
+    "questionText": "Why was the speaker's engineering project initially doubted?",
+    "options": [
+      "It failed to meet international cargo-capacity benchmarks.",
+      "Peers doubted it could withstand harsh ocean operating conditions.",
+      "Commercial bulk-carrier operators refused to participate in trials.",
+      "The hydrodynamic design violated maritime emissions regulations."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin cảm ơn các thành viên hội đồng tuyển chọn đã vinh danh Northsea Marine Systems với Giải thưởng Thành tựu Xuất sắc về Kỹ thuật Hàng hải này. Khi bộ phận kiến trúc hải quân của chúng tôi lần đầu đề xuất tích hợp cánh buồm rotor thu gọn với hệ thống thân tàu bôi trơn bằng khí, nhiều đồng nghiệp trong ngành đã gạt bỏ ý tưởng này vì cho rằng nó sẽ trở thành gánh nặng bảo trì trên các tuyến vận tải đầy biến động ở Bắc Đại Tây Dương. Giới phê bình cho rằng sự mài mòn cơ khí do muối biển gây ra sẽ lấn át mọi mức tiết kiệm nhiên liệu trên lý thuyết. Tuy nhiên, qua mười tám tháng thử nghiệm thực tế trên tàu chở hàng rời thương mại xuất phát từ Glasgow, thiết kế động cơ đẩy lai của chúng tôi đã cắt giảm hai mươi hai phần trăm lượng tiêu thụ nhiên liệu nặng mà không làm giảm sức chứa khoang hàng. Không cần phải nói, sự hoài nghi của các công ty bảo hiểm hàng hải đã tan biến nhanh hơn cả bọt sóng biển. Dù tên tôi được khắc trên chiếc cúp này, giải thưởng thực sự thuộc về đội ngũ chuyên gia thủy động lực học và kỹ sư kết cấu của chúng tôi. Trên tinh thần đó, chúng tôi sẽ chuyển toàn bộ khoản tiền thưởng kèm theo vào quỹ học bổng kỹ thuật đại dương dành cho sinh viên năm cuối tại Viện Hàng hải Clyde.\n\nCâu hỏi: Tại sao dự án kỹ thuật của người nói ban đầu lại bị nghi ngờ?\n(A) Dự án không đáp ứng được các chuẩn mực quốc tế về sức chứa hàng hóa.\n(B) Các đồng nghiệp nghi ngờ thiết kế này khó trụ vững trong điều kiện vận hành khắc nghiệt trên biển.\n(C) Các nhà khai thác tàu chở hàng rời thương mại từ chối tham gia thử nghiệm.\n(D) Thiết kế thủy động lực học vi phạm các quy định về khí thải hàng hải.",
+    "explanation": "Người nói nhắc lại rằng các đồng nghiệp trong ngành từng xem ý tưởng này là gánh nặng bảo trì trên các tuyến vận tải khắc nghiệt ở Bắc Đại Tây Dương và cho rằng mài mòn cơ khí do muối biển sẽ làm mất hết lợi ích tiết kiệm nhiên liệu ('dismissed the concept as a maintenance liability on volatile North Atlantic freight routes' / 'salt-induced mechanical wear'), khớp với đáp án B. Phương án A sai vì hệ thống không làm giảm sức chứa khoang hàng; C sai vì tàu hàng rời đã thử nghiệm 18 tháng; D không được nhắc tới.",
+    "vocab": [
+      ["retractable", "adj", "có thể thu gọn vào trong"],
+      ["maintenance liability", "n. phr", "gánh nặng bảo trì, rủi ro hỏng hóc"],
+      ["hydrodynamicist", "n", "chuyên gia thủy động lực học"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Thank you, members of the selection committee, for honoring Northsea Marine Systems with this Maritime Engineering Distinction Award. When our naval architecture division first proposed integrating retractable rotor sails with an air-lubrication hull system, several industry peers dismissed the concept as a maintenance liability on volatile North Atlantic freight routes. Critics assumed that salt-induced mechanical wear would outweigh any theoretical fuel savings. Over eighteen months of commercial bulk-carrier trials out of Glasgow, however, our hybrid propulsion design slashed heavy fuel consumption by twenty-two percent without sacrificing cargo hold capacity. Needless to say, the maritime insurers' skepticism evaporated faster than sea spray. Although my name is engraved on this trophy, it truly belongs to our hydrodynamicists and structural engineers. In that spirit, we are channeling the entire award endowment into ocean-engineering scholarships for graduating seniors at the Clyde Maritime Institute.",
+    "questionText": "What does the speaker imply by saying, \"the maritime insurers' skepticism evaporated faster than sea spray\"?",
+    "options": [
+      "Insurance premiums for ocean freight rose unexpectedly during testing.",
+      "Insurers withdrew their coverage once the sea trials began.",
+      "Underwriters quickly became confident in the new technology after seeing trial results.",
+      "Corrosion caused by saltwater remained an unresolved insurance risk."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói hàm ý gì khi nói \"sự hoài nghi của các công ty bảo hiểm hàng hải đã tan biến nhanh hơn cả bọt sóng biển\"?\n(A) Phí bảo hiểm cho vận tải đường biển tăng bất ngờ trong quá trình thử nghiệm.\n(B) Các hãng bảo hiểm đã rút lại hợp đồng bảo trợ ngay khi việc chạy thử trên biển bắt đầu.\n(C) Các nhà thẩm định bảo hiểm nhanh chóng tin tưởng vào công nghệ mới sau khi chứng kiến kết quả thử nghiệm.\n(D) Sự ăn mòn do nước biển gây ra vẫn là một rủi ro bảo hiểm chưa được giải quyết.",
+    "explanation": "Ngay sau khi nêu kết quả cắt giảm 22% nhiên liệu mà không mất dung tích khoang hàng qua 18 tháng thử nghiệm, người nói dùng phép ẩn dụ sự hoài nghi của các hãng bảo hiểm bốc hơi nhanh hơn bọt biển ('skepticism evaporated faster than sea spray'), hàm ý họ nhanh chóng tin tưởng và chấp nhận công nghệ mới (đáp án C). Các lựa chọn A, B và D đều bóp méo theo hướng tiêu cực.",
+    "vocab": [
+      ["skepticism", "n", "sự hoài nghi, thái độ ngờ vực"],
+      ["evaporate", "v", "tan biến nhanh, bốc hơi"],
+      ["underwriter", "n", "nhà thẩm định và bảo lãnh bảo hiểm"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Thank you, members of the selection committee, for honoring Northsea Marine Systems with this Maritime Engineering Distinction Award. When our naval architecture division first proposed integrating retractable rotor sails with an air-lubrication hull system, several industry peers dismissed the concept as a maintenance liability on volatile North Atlantic freight routes. Critics assumed that salt-induced mechanical wear would outweigh any theoretical fuel savings. Over eighteen months of commercial bulk-carrier trials out of Glasgow, however, our hybrid propulsion design slashed heavy fuel consumption by twenty-two percent without sacrificing cargo hold capacity. Needless to say, the maritime insurers' skepticism evaporated faster than sea spray. Although my name is engraved on this trophy, it truly belongs to our hydrodynamicists and structural engineers. In that spirit, we are channeling the entire award endowment into ocean-engineering scholarships for graduating seniors at the Clyde Maritime Institute.",
+    "questionText": "What will happen to the financial grant attached to the award?",
+    "options": [
+      "It will fund additional air-lubrication trials in the North Atlantic.",
+      "It will be distributed as bonuses among the company's engineers.",
+      "It will subsidize maintenance costs for commercial bulk carriers.",
+      "It will support university students studying maritime engineering."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Khoản tiền thưởng kèm theo giải thưởng sẽ được sử dụng vào việc gì?\n(A) Khoản tiền sẽ tài trợ cho các đợt thử nghiệm bôi trơn khí bổ sung ở Bắc Đại Tây Dương.\n(B) Khoản tiền sẽ được chia làm tiền thưởng cho các kỹ sư của công ty.\n(C) Khoản tiền sẽ trợ giá chi phí bảo trì cho các tàu chở hàng rời thương mại.\n(D) Khoản tiền sẽ hỗ trợ các sinh viên đại học theo học ngành kỹ thuật hàng hải.",
+    "explanation": "Câu kết nêu rõ công ty đang chuyển toàn bộ quỹ tiền thưởng vào học bổng kỹ thuật đại dương cho sinh viên năm cuối tại Viện Hàng hải Clyde ('channeling the entire award endowment into ocean-engineering scholarships for graduating seniors at the Clyde Maritime Institute'), tương ứng đáp án D. Bẫy ở B là người nói chỉ tri ân đội ngũ kỹ sư về mặt tinh thần.",
+    "vocab": [
+      ["endowment", "n", "quỹ tài trợ, khoản tiền thưởng kèm giải"],
+      ["channel", "v", "chuyển hướng, phân bổ (nguồn vốn/tiền bạc)"],
+      ["bulk carrier", "n. phr", "tàu chở hàng rời (than, quặng, ngũ cốc)"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Marcus, this is Claire Lindholm, Bid Director at Apex Grid Infrastructure. I just completed an urgent legal review of our technical pre-qualification dossier for Thursday's offshore substation tender, and we face a compliance gap. While our subsea cable credentials and safety certifications easily surpass the scoring threshold, our lead grid-control engineer shifted to a part-time advisory role last month. Unfortunately, his resume lacks a signed exclusivity undertaking committing him to the thirty-six-month construction window. Because the procurement board enforces strict conflict-of-interest rules, we risk being disqualified at the preliminary stage before our commercial bid is even unsealed. Please contact him tonight to secure an electronically countersigned commitment letter by four P.M. tomorrow. If he declines, notify me immediately so I can assign Doctor Sato from our Osaka office as his substitute.",
+    "questionText": "What issue did Claire Lindholm discover during her review?",
+    "options": [
+      "The company's subsea cable certifications have expired.",
+      "The Osaka office submitted an outdated version of the commercial bid.",
+      "The proposed construction timeline exceeds thirty-six months.",
+      "A key specialist has not formally pledged exclusive availability."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nChào Marcus, tôi là Claire Lindholm, Giám đốc Đấu thầu tại Apex Grid Infrastructure đây. Tôi vừa hoàn tất đợt rà soát pháp lý khẩn cấp đối với hồ sơ năng lực kỹ thuật vòng sơ tuyển cho gói thầu trạm biến áp ngoài khơi vào thứ Năm, và chúng ta đang gặp một lỗ hổng tuân thủ. Dù hồ sơ kinh nghiệm cáp ngầm dưới biển và các chứng chỉ an toàn của chúng ta dễ dàng vượt ngưỡng điểm chấm, kỹ sư trưởng phụ trách điều khiển lưới điện lại vừa chuyển sang vai trò cố vấn bán thời gian hồi tháng trước. Thật không may, lý lịch năng lực của anh ấy thiếu bản cam kết độc quyền có chữ ký ràng buộc anh ấy tham gia suốt giai đoạn thi công ba mươi sáu tháng. Vì hội đồng mua sắm áp dụng quy tắc xung đột lợi ích rất nghiêm ngặt, chúng ta có nguy cơ bị loại ngay ở vòng sơ tuyển trước cả khi gói chào giá thương mại được mở niêm phong. Hãy liên hệ với anh ấy ngay tối nay để lấy thư cam kết có chữ ký điện tử xác nhận trước bốn giờ chiều mai. Nếu anh ấy từ chối, hãy báo ngay cho tôi để tôi điều chuyển Tiến sĩ Sato từ văn phòng Osaka sang thay thế.\n\nCâu hỏi: Claire Lindholm đã phát hiện vấn đề gì trong quá trình rà soát?\n(A) Các chứng chỉ cáp ngầm dưới biển của công ty đã hết hạn.\n(B) Văn phòng Osaka đã nộp một phiên bản lỗi thời của hồ sơ chào giá thương mại.\n(C) Tiến độ thi công đề xuất vượt quá ba mươi sáu tháng.\n(D) Một chuyên gia chủ chốt chưa chính thức cam kết làm việc độc quyền cho dự án.",
+    "explanation": "Người nói chỉ ra lý lịch của kỹ sư trưởng điều khiển lưới điện thiếu bản cam kết độc quyền có chữ ký cho suốt 36 tháng thi công ('lacks a signed exclusivity undertaking committing him to the thirty-six-month construction window'), trùng khớp với đáp án D. Phương án A sai vì các chứng chỉ an toàn và cáp ngầm dễ dàng vượt ngưỡng yêu cầu; B và C bóp méo các chi tiết khác trong bài.",
+    "vocab": [
+      ["pre-qualification dossier", "n. phr", "hồ sơ năng lực vòng sơ tuyển"],
+      ["exclusivity undertaking", "n. phr", "văn bản cam kết độc quyền (không làm cho bên khác)"],
+      ["conflict of interest", "n. phr", "xung đột lợi ích"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Marcus, this is Claire Lindholm, Bid Director at Apex Grid Infrastructure. I just completed an urgent legal review of our technical pre-qualification dossier for Thursday's offshore substation tender, and we face a compliance gap. While our subsea cable credentials and safety certifications easily surpass the scoring threshold, our lead grid-control engineer shifted to a part-time advisory role last month. Unfortunately, his resume lacks a signed exclusivity undertaking committing him to the thirty-six-month construction window. Because the procurement board enforces strict conflict-of-interest rules, we risk being disqualified at the preliminary stage before our commercial bid is even unsealed. Please contact him tonight to secure an electronically countersigned commitment letter by four P.M. tomorrow. If he declines, notify me immediately so I can assign Doctor Sato from our Osaka office as his substitute.",
+    "questionText": "What does the speaker imply about the commercial bid?",
+    "options": [
+      "It will not be evaluated if the technical dossier is deemed non-compliant.",
+      "It contains pricing errors that the legal team needs to revise.",
+      "It was already unsealed early by the utility procurement board.",
+      "It relies on lower labor costs from the Osaka division."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người nói hàm ý gì về hồ sơ chào giá thương mại?\n(A) Hồ sơ này sẽ không được xem xét nếu hồ sơ năng lực kỹ thuật bị đánh giá là không đạt chuẩn.\n(B) Hồ sơ này có sai sót về định giá mà bộ phận pháp chế cần chỉnh sửa.\n(C) Hồ sơ này đã bị hội đồng mua sắm mở niêm phong sớm.\n(D) Hồ sơ này phụ thuộc vào chi phí nhân công thấp hơn từ chi nhánh Osaka.",
+    "explanation": "Người nói cảnh báo công ty có nguy cơ bị loại ngay ở vòng sơ tuyển trước cả khi gói chào giá thương mại được mở niêm phong ('disqualified at the preliminary stage before our commercial bid is even unsealed'), hàm ý phần đề xuất tài chính/thương mại sẽ không bao giờ được chấm nếu lỗi hồ sơ kỹ thuật không được khắc phục (đáp án A).",
+    "vocab": [
+      ["commercial bid", "n. phr", "hồ sơ chào giá thương mại / tài chính"],
+      ["unseal", "v", "mở niêm phong (hồ sơ thầu)"],
+      ["disqualify", "v", "loại khỏi cuộc thi hoặc quy trình xét thầu"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Marcus, this is Claire Lindholm, Bid Director at Apex Grid Infrastructure. I just completed an urgent legal review of our technical pre-qualification dossier for Thursday's offshore substation tender, and we face a compliance gap. While our subsea cable credentials and safety certifications easily surpass the scoring threshold, our lead grid-control engineer shifted to a part-time advisory role last month. Unfortunately, his resume lacks a signed exclusivity undertaking committing him to the thirty-six-month construction window. Because the procurement board enforces strict conflict-of-interest rules, we risk being disqualified at the preliminary stage before our commercial bid is even unsealed. Please contact him tonight to secure an electronically countersigned commitment letter by four P.M. tomorrow. If he declines, notify me immediately so I can assign Doctor Sato from our Osaka office as his substitute.",
+    "questionText": "What does the speaker ask Marcus to do first?",
+    "options": [
+      "Transfer Doctor Sato from Osaka to lead the tender team",
+      "Request an extension on Thursday's submission deadline",
+      "Ask the current lead engineer to sign an electronic confirmation",
+      "Draft revised conflict-of-interest guidelines for advisory staff"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói yêu cầu Marcus làm việc gì đầu tiên?\n(A) Điều chuyển Tiến sĩ Sato từ Osaka sang dẫn dắt nhóm đấu thầu\n(B) Xin gia hạn thời hạn nộp hồ sơ vào thứ Năm\n(C) Đề nghị kỹ sư trưởng hiện tại ký thư xác nhận điện tử\n(D) Soạn thảo hướng dẫn xung đột lợi ích sửa đổi cho nhân sự cố vấn",
+    "explanation": "Lời đề nghị trực tiếp trước tiên là liên hệ với kỹ sư đó ngay tối nay để lấy thư cam kết ký điện tử trước 4 giờ chiều mai ('contact him tonight to secure an electronically countersigned commitment letter by four P.M. tomorrow'), khớp với đáp án C. Phương án A chỉ là bước dự phòng nếu anh ta từ chối ('If he declines...').",
+    "vocab": [
+      ["countersign", "v", "ký đối chứng, ký xác nhận bổ sung"],
+      ["substitute", "n", "người thay thế, phương án thay thế"],
+      ["offshore substation", "n. phr", "trạm biến áp ngoài khơi"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all freight carriers, ground handlers, and forwarding agents operating at Midlands Air Cargo Hub. Beginning the first Monday of March, we are restructuring our overnight runway slot allocations to comply with stricter residential noise ceilings enacted by the civil aviation authority. Specifically, older wide-body freighters lacking stage-four acoustic retrofits will be prohibited from landing or departing during the curfew between midnight and five A.M. Those legacy aircraft must reschedule into daytime windows or divert to our northern auxiliary strip. Conversely, next-generation cargo jets certified under modern acoustic benchmarks will retain their nocturnal slots and receive priority access to automated loading bridges adjacent to our pharmaceutical cold-storage facility. Additionally, to alleviate apron congestion, the cutoff for submitting electronic pre-arrival customs manifests is being shortened from four hours to two hours prior to touchdown.",
+    "questionText": "What prompted the upcoming changes at Midlands Air Cargo Hub?",
+    "options": [
+      "Increased freight demand for pharmaceutical shipments",
+      "Construction work on the northern auxiliary runway",
+      "Updated regulatory limits on nighttime aircraft noise",
+      "Software upgrades to the electronic customs system"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nXin lưu ý tất cả các hãng vận tải hàng hóa, đơn vị phục vụ mặt đất và đại lý giao nhận đang hoạt động tại Trung tâm Hàng hóa Hàng không Midlands. Bắt đầu từ thứ Hai đầu tiên của tháng Ba, chúng tôi sẽ cơ cấu lại việc phân bổ khung giờ đường băng ban đêm nhằm tuân thủ các giới hạn tiếng ồn khu dân cư nghiêm ngặt hơn do cục hàng không dân dụng ban hành. Cụ thể, các máy bay chở hàng thân rộng đời cũ chưa được nâng cấp bộ giảm thanh thế hệ bốn sẽ bị cấm hạ cánh hoặc cất cánh trong khung giờ giới nghiêm từ nửa đêm đến năm giờ sáng. Các tàu bay cũ này phải dời sang khung giờ ban ngày hoặc chuyển hướng sang đường băng phụ phía Bắc. Ngược lại, các dòng máy bay chở hàng thế hệ mới đạt chứng nhận theo chuẩn âm thanh hiện đại vẫn giữ nguyên khung giờ ban đêm và được ưu tiên tiếp cận cầu bốc xếp tự động nằm sát kho lạnh dược phẩm của chúng tôi. Ngoài ra, để giảm ùn tắc tại sân đỗ, thời hạn chót nộp bản kê khai hải quan điện tử trước khi máy bay hạ cánh sẽ được rút ngắn từ bốn giờ xuống còn hai giờ trước lúc chạm đường băng.\n\nCâu hỏi: Điều gì đã dẫn đến những thay đổi sắp tới tại Trung tâm Hàng hóa Hàng không Midlands?\n(A) Nhu cầu vận chuyển tăng cao đối với các lô hàng dược phẩm\n(B) Công tác thi công trên đường băng phụ phía Bắc\n(C) Các quy định giới hạn mới được cập nhật về tiếng ồn máy bay ban đêm\n(D) Việc nâng cấp phần mềm cho hệ thống hải quan điện tử",
+    "explanation": "Thông báo nêu rõ việc cơ cấu lại khung giờ bay đêm là để tuân thủ các ngưỡng giới hạn tiếng ồn khu dân cư nghiêm ngặt hơn do cơ quan hàng không dân dụng ban hành ('comply with stricter residential noise ceilings enacted by the civil aviation authority'), tương ứng với đáp án C. Các phương án A, B và D trộn lẫn chi tiết trong bài thành nguyên nhân sai.",
+    "vocab": [
+      ["noise ceiling", "n. phr", "ngưỡng giới hạn tiếng ồn tối đa"],
+      ["acoustic retrofit", "n. phr", "nâng cấp cải tạo giảm thanh"],
+      ["curfew", "n", "giờ giới nghiêm, khung giờ hạn chế hoạt động"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all freight carriers, ground handlers, and forwarding agents operating at Midlands Air Cargo Hub. Beginning the first Monday of March, we are restructuring our overnight runway slot allocations to comply with stricter residential noise ceilings enacted by the civil aviation authority. Specifically, older wide-body freighters lacking stage-four acoustic retrofits will be prohibited from landing or departing during the curfew between midnight and five A.M. Those legacy aircraft must reschedule into daytime windows or divert to our northern auxiliary strip. Conversely, next-generation cargo jets certified under modern acoustic benchmarks will retain their nocturnal slots and receive priority access to automated loading bridges adjacent to our pharmaceutical cold-storage facility. Additionally, to alleviate apron congestion, the cutoff for submitting electronic pre-arrival customs manifests is being shortened from four hours to two hours prior to touchdown.",
+    "questionText": "Which flights will still be allowed between midnight and five A.M.?",
+    "options": [
+      "Any wide-body aircraft carrying temperature-sensitive medicine",
+      "Cargo planes meeting updated sound-reduction standards",
+      "All flights rerouted from the northern auxiliary strip",
+      "Freighters whose customs manifests were filed four hours early"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Những chuyến bay nào vẫn được phép hoạt động trong khoảng từ nửa đêm đến năm giờ sáng?\n(A) Bất kỳ máy bay thân rộng nào chở thuốc nhạy cảm với nhiệt độ\n(B) Các máy bay chở hàng đáp ứng tiêu chuẩn giảm tiếng ồn cập nhật\n(C) Mọi chuyến bay được chuyển hướng từ đường băng phụ phía Bắc\n(D) Các máy bay chở hàng có bản kê khai hải quan nộp sớm bốn giờ",
+    "explanation": "Bài nói nêu máy bay thế hệ mới được chứng nhận theo tiêu chuẩn âm thanh hiện đại vẫn giữ được khung giờ ban đêm ('next-generation cargo jets certified under modern acoustic benchmarks will retain their nocturnal slots'), khớp với đáp án B. Lựa chọn A gài bẫy bằng cách ghép chi tiết thân rộng cũ với kho lạnh dược phẩm.",
+    "vocab": [
+      ["nocturnal", "adj", "vào ban đêm"],
+      ["auxiliary strip", "n. phr", "đường băng phụ trợ"],
+      ["touchdown", "n", "thời điểm máy bay tiếp đất, hạ cánh"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all freight carriers, ground handlers, and forwarding agents operating at Midlands Air Cargo Hub. Beginning the first Monday of March, we are restructuring our overnight runway slot allocations to comply with stricter residential noise ceilings enacted by the civil aviation authority. Specifically, older wide-body freighters lacking stage-four acoustic retrofits will be prohibited from landing or departing during the curfew between midnight and five A.M. Those legacy aircraft must reschedule into daytime windows or divert to our northern auxiliary strip. Conversely, next-generation cargo jets certified under modern acoustic benchmarks will retain their nocturnal slots and receive priority access to automated loading bridges adjacent to our pharmaceutical cold-storage facility. Additionally, to alleviate apron congestion, the cutoff for submitting electronic pre-arrival customs manifests is being shortened from four hours to two hours prior to touchdown.",
+    "questionText": "What operational adjustment will affect customs paperwork?",
+    "options": [
+      "Carriers may file arrival documents closer to landing time.",
+      "Paper manifests will temporarily replace electronic filings.",
+      "Ground handlers must verify cargo declarations upon unloading.",
+      "Customs inspections will be relocated inside the cold-storage facility."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều chỉnh vận hành nào sẽ ảnh hưởng đến thủ tục giấy tờ hải quan?\n(A) Các hãng vận tải có thể nộp chứng từ hàng đến sát thời điểm hạ cánh hơn.\n(B) Bản kê khai giấy sẽ tạm thời thay thế hồ sơ nộp điện tử.\n(C) Nhân viên mặt đất phải xác minh tờ khai hàng hóa khi dỡ hàng.\n(D) Việc kiểm tra hải quan sẽ được dời vào bên trong cơ sở kho lạnh.",
+    "explanation": "Câu cuối cho biết hạn chót nộp bản kê khai hải quan điện tử được rút ngắn từ 4 giờ xuống còn 2 giờ trước khi hạ cánh ('shortened from four hours to two hours prior to touchdown'). Điều này đồng nghĩa hãng bay được phép nộp chứng từ sát giờ hạ cánh hơn trước (đáp án A).",
+    "vocab": [
+      ["apron congestion", "n. phr", "tình trạng ùn ứ tại sân đỗ máy bay"],
+      ["customs manifest", "n. phr", "bản kê khai hàng hóa nộp hải quan"],
+      ["alleviate", "v", "làm giảm bớt, xoa dịu"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Colleagues on the Credit Risk Committee, let us turn to our commercial real estate loan book. On the surface, our ninety-day delinquency rate ticked up just two-tenths of a percent this quarter, which might appear benign. However, a granular audit of recent loan modifications reveals a far more fragile picture. Nearly a quarter of our mid-tier office borrowers are servicing their interest payments not from actual tenant rental receipts, but by drawing down secondary liquidity reserves through amend-and-extend restructurings. We cannot afford to let headline ratios lull us into complacency. Consequently, starting next Monday, we are raising loss-provision reserves on all office properties with occupancy below seventy-five percent. Furthermore, credit officers must commission an independent collateral reappraisal before approving any second-quarter loan extension, regardless of the borrower's historical repayment record.",
+    "questionText": "What hidden vulnerability did the speaker's audit uncover?",
+    "options": [
+      "Several borrowers are using borrowed reserves rather than rental income to pay interest.",
+      "Delinquency rates have risen dramatically across residential mortgages.",
+      "Credit officers failed to record ninety-day overdue payments accurately.",
+      "Occupancy levels in mid-tier office buildings have fallen below twenty-five percent."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nThưa các đồng nghiệp trong Ủy ban Rủi ro Tín dụng, chúng ta hãy chuyển sang danh mục cho vay bất động sản thương mại. Nhìn trên bề mặt, tỷ lệ nợ quá hạn chín mươi ngày trong quý này chỉ nhích lên hai phần mười phần trăm, trông có vẻ vô hại. Tuy nhiên, một cuộc kiểm toán chi tiết các khoản điều chỉnh nợ gần đây lại hé lộ một bức tranh mong manh hơn nhiều. Gần một phần tư số khách hàng vay thuộc phân khúc văn phòng tầm trung đang trả lãi không phải từ tiền thuê thực tế của khách thuê, mà bằng cách rút từ các quỹ dự phòng thanh khoản thứ cấp thông qua các đợt tái cơ cấu gia hạn nợ. Chúng ta không thể để những tỷ lệ bề nổi ru ngủ mình vào tâm lý chủ quan. Do đó, bắt đầu từ thứ Hai tuần tới, chúng ta sẽ tăng quỹ dự phòng rủi ro mất vốn đối với toàn bộ bất động sản văn phòng có tỷ lệ lấp đầy dưới bảy mươi lăm phần trăm. Hơn nữa, các chuyên viên tín dụng phải thuê định giá lại tài sản bảo đảm một cách độc lập trước khi phê duyệt bất kỳ đợt gia hạn khoản vay nào trong quý hai, bất kể lịch sử trả nợ trước đây của bên vay tốt đến đâu.\n\nCâu hỏi: Điểm yếu tiềm ẩn nào đã được cuộc kiểm toán của người nói phát hiện ra?\n(A) Nhiều bên vay đang dùng nguồn dự phòng vay thêm thay vì thu nhập từ cho thuê để trả lãi.\n(B) Tỷ lệ nợ quá hạn đã tăng mạnh trên các khoản vay thế chấp nhà ở.\n(C) Các chuyên viên tín dụng đã không ghi nhận chính xác các khoản quá hạn chín mươi ngày.\n(D) Mức độ lấp đầy tại các tòa nhà văn phòng tầm trung đã giảm xuống dưới hai mươi lăm phần trăm.",
+    "explanation": "Người nói giải thích gần một phần tư bên vay văn phòng hạng trung trả lãi bằng cách rút từ nguồn dự phòng thanh khoản phụ thay vì tiền thuê thực tế ('servicing their interest payments not from actual tenant rental receipts, but by drawing down secondary liquidity reserves'), tương ứng với đáp án A. Phương án D tráo 'nearly a quarter' (gần 25% số khách vay) thành tỷ lệ lấp đầy dưới 25%.",
+    "vocab": [
+      ["delinquency rate", "n. phr", "tỷ lệ nợ quá hạn thanh toán"],
+      ["granular", "adj", "chi tiết, đi sâu từng hạng mục nhỏ"],
+      ["loss-provision reserve", "n. phr", "quỹ dự phòng rủi ro tổn thất tín dụng"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Colleagues on the Credit Risk Committee, let us turn to our commercial real estate loan book. On the surface, our ninety-day delinquency rate ticked up just two-tenths of a percent this quarter, which might appear benign. However, a granular audit of recent loan modifications reveals a far more fragile picture. Nearly a quarter of our mid-tier office borrowers are servicing their interest payments not from actual tenant rental receipts, but by drawing down secondary liquidity reserves through amend-and-extend restructurings. We cannot afford to let headline ratios lull us into complacency. Consequently, starting next Monday, we are raising loss-provision reserves on all office properties with occupancy below seventy-five percent. Furthermore, credit officers must commission an independent collateral reappraisal before approving any second-quarter loan extension, regardless of the borrower's historical repayment record.",
+    "questionText": "Why does the speaker say, \"We cannot afford to let headline ratios lull us into complacency\"?",
+    "options": [
+      "To criticize the audit team for submitting incomplete quarterly figures",
+      "To propose eliminating quarterly delinquency reporting altogether",
+      "To reassure committee members that overall portfolio losses remain minimal",
+      "To warn the committee against misinterpreting a seemingly reassuring metric"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao người nói lại phát biểu, \"Chúng ta không thể để những tỷ lệ bề nổi ru ngủ mình vào tâm lý chủ quan\"?\n(A) Để chỉ trích nhóm kiểm toán vì đã nộp các số liệu hàng quý chưa đầy đủ\n(B) Để đề xuất bãi bỏ hoàn toàn việc báo cáo nợ quá hạn hàng quý\n(C) Để trấn an các thành viên ủy ban rằng tổng mức thua lỗ danh mục vẫn ở mức tối thiểu\n(D) Để cảnh báo ủy ban không nên hiểu nhầm một chỉ số bề ngoài có vẻ khả quan",
+    "explanation": "Trước câu này, người nói nêu tỷ lệ quá hạn bề mặt chỉ tăng 0,2% trông có vẻ an toàn ('which might appear benign'), nhưng thực chất danh mục rất mong manh vì nhiều bên vay đang dùng dự phòng để che đậy khó khăn dòng tiền. Do đó câu nói nhằm cảnh báo ủy ban đừng chủ quan trước một chỉ số tổng hợp trông có vẻ yên tâm (đáp án D).",
+    "vocab": [
+      ["benign", "adj", "có vẻ vô hại, không đáng ngại"],
+      ["complacency", "n", "sự tự mãn, tâm lý chủ quan"],
+      ["headline ratio", "n. phr", "tỷ lệ/chỉ số tổng hợp bề nổi"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Colleagues on the Credit Risk Committee, let us turn to our commercial real estate loan book. On the surface, our ninety-day delinquency rate ticked up just two-tenths of a percent this quarter, which might appear benign. However, a granular audit of recent loan modifications reveals a far more fragile picture. Nearly a quarter of our mid-tier office borrowers are servicing their interest payments not from actual tenant rental receipts, but by drawing down secondary liquidity reserves through amend-and-extend restructurings. We cannot afford to let headline ratios lull us into complacency. Consequently, starting next Monday, we are raising loss-provision reserves on all office properties with occupancy below seventy-five percent. Furthermore, credit officers must commission an independent collateral reappraisal before approving any second-quarter loan extension, regardless of the borrower's historical repayment record.",
+    "questionText": "What must happen before a loan modification is approved in the second quarter?",
+    "options": [
+      "The borrower must secure tenants to reach seventy-five percent occupancy.",
+      "A neutral third party must reassess the value of the pledged property.",
+      "The committee must review the borrower's full ten-year repayment history.",
+      "Interest payments must be suspended for ninety days."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì phải được thực hiện trước khi một yêu cầu điều chỉnh gia hạn khoản vay được phê duyệt trong quý hai?\n(A) Bên vay phải tìm đủ khách thuê để đạt tỷ lệ lấp đầy bảy mươi lăm phần trăm.\n(B) Một bên thứ ba trung lập phải định giá lại giá trị của tài sản thế chấp.\n(C) Ủy ban phải xem xét toàn bộ lịch sử trả nợ trong mười năm của bên vay.\n(D) Các khoản thanh toán lãi suất phải được tạm hoãn trong chín mươi ngày.",
+    "explanation": "Câu cuối quy định các chuyên viên tín dụng phải thuê định giá lại tài sản bảo đảm một cách độc lập trước khi duyệt bất kỳ đợt gia hạn vay nào ở quý hai ('commission an independent collateral reappraisal before approving any second-quarter loan extension'), tương ứng đáp án B. Phương án C bẫy chi tiết lịch sử trả nợ vốn bị khẳng định là không còn được miễn trừ ('regardless of...').",
+    "vocab": [
+      ["collateral", "n", "tài sản thế chấp, tài sản bảo đảm"],
+      ["reappraisal", "n", "sự thẩm định giá lại"],
+      ["amend-and-extend", "adj", "tái cơ cấu theo hướng sửa điều khoản và gia hạn nợ"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following introduction:",
+    "audioScript": "Good evening, subscribers and board members, and thank you for joining us to welcome Doctor Nadia Okafor as the incoming Editor-in-Chief of The Policy Continuum. She succeeds Professor Arthur Pendelton, whose two decades of stewardship established this journal as an indispensable voice in public affairs. Unlike frequent television commentators who chase fleeting political headlines, Doctor Okafor has built an international reputation for rigorous, cross-disciplinary empirical analysis in energy economics and urban governance. Most recently, she directed the industrial policy fellowship at the Ottawa Institute for Public Governance, advising municipal coalitions across three continents. Under her editorial direction, the journal will launch a monthly interactive data briefing alongside our print essays. Equally important, she is introducing a stricter double-blind peer-review protocol for all external policy monographs beginning with our autumn volume. Please join me in welcoming Doctor Okafor.",
+    "questionText": "What quality of Doctor Okafor's work does the speaker emphasize?",
+    "options": [
+      "Her extensive experience hosting television policy debates",
+      "Her background in managing print advertising for academic journals",
+      "Her twenty-year tenure on the editorial board of The Policy Continuum",
+      "Her focus on evidence-based research rather than short-lived news commentary"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nChào buổi tối quý độc giả đặt báo và các thành viên hội đồng quản trị, cảm ơn quý vị đã tham dự buổi lễ chào đón Tiến sĩ Nadia Okafor trên cương vị Tổng biên tập kế nhiệm của tạp chí The Policy Continuum. Bà kế nhiệm Giáo sư Arthur Pendelton, người với hai thập kỷ điều hành đã đưa tạp chí này trở thành tiếng nói không thể thiếu trong lĩnh vực chính sách công. Khác với những bình luận viên truyền hình quen thuộc vốn chỉ chạy theo các tiêu đề chính trị nhất thời, Tiến sĩ Okafor đã xây dựng uy tín quốc tế nhờ các phân tích thực chứng liên ngành chặt chẽ trong kinh tế học năng lượng và quản trị đô thị. Gần đây nhất, bà phụ trách chương trình học giả chính sách công nghiệp tại Viện Quản trị Công Ottawa, tư vấn cho các liên minh đô thị trên ba châu lục. Dưới sự dẫn dắt biên tập của bà, tạp chí sẽ ra mắt chuyên mục bản tin dữ liệu tương tác hàng tháng song hành cùng các bài luận bản in. Quan trọng không kém, bà đang áp dụng quy trình bình duyệt mù đôi nghiêm ngặt hơn đối với mọi chuyên luận chính sách từ bên ngoài bắt đầu từ tập san mùa thu. Xin quý vị cùng tôi nồng nhiệt chào đón Tiến sĩ Okafor.\n\nCâu hỏi: Người nói nhấn mạnh phẩm chất nào trong công việc của Tiến sĩ Okafor?\n(A) Kinh nghiệm dày dặn của bà trong việc dẫn các cuộc tranh luận chính sách trên truyền hình\n(B) Nền tảng của bà trong việc quản lý quảng cáo báo in cho các tạp chí học thuật\n(C) Nhiệm kỳ hai mươi năm của bà trong ban biên tập tờ The Policy Continuum\n(D) Sự tập trung của bà vào nghiên cứu dựa trên bằng chứng thực nghiệm thay vì bình luận thời sự ngắn hạn",
+    "explanation": "Người nói đối chiếu Tiến sĩ Okafor với các bình luận viên truyền hình chạy theo tin nóng ngắn hạn và nhấn mạnh danh tiếng của bà về phân tích thực chứng liên ngành chặt chẽ ('Unlike frequent television commentators who chase fleeting political headlines, Doctor Okafor has built an international reputation for rigorous, cross-disciplinary empirical analysis'), khớp với đáp án D. Phương án A bẫy ngược nghĩa từ 'television commentators'; C nhầm với thâm niên 20 năm của Giáo sư Pendelton.",
+    "vocab": [
+      ["empirical", "adj", "thực chứng, dựa trên dữ liệu và quan sát thực tế"],
+      ["fleeting", "adj", "thoáng qua, ngắn ngủi, nhất thời"],
+      ["cross-disciplinary", "adj", "liên ngành, kết hợp nhiều lĩnh vực"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following introduction:",
+    "audioScript": "Good evening, subscribers and board members, and thank you for joining us to welcome Doctor Nadia Okafor as the incoming Editor-in-Chief of The Policy Continuum. She succeeds Professor Arthur Pendelton, whose two decades of stewardship established this journal as an indispensable voice in public affairs. Unlike frequent television commentators who chase fleeting political headlines, Doctor Okafor has built an international reputation for rigorous, cross-disciplinary empirical analysis in energy economics and urban governance. Most recently, she directed the industrial policy fellowship at the Ottawa Institute for Public Governance, advising municipal coalitions across three continents. Under her editorial direction, the journal will launch a monthly interactive data briefing alongside our print essays. Equally important, she is introducing a stricter double-blind peer-review protocol for all external policy monographs beginning with our autumn volume. Please join me in welcoming Doctor Okafor.",
+    "questionText": "Who is Arthur Pendelton?",
+    "options": [
+      "The founder of the Ottawa Institute for Public Governance",
+      "The outgoing chief editor who led the publication for twenty years",
+      "A fellow researcher specializing in urban energy grids",
+      "The board member responsible for launching the autumn volume"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Arthur Pendelton là ai?\n(A) Người sáng lập Viện Quản trị Công Ottawa\n(B) Tổng biên tập tiền nhiệm đã dẫn dắt ấn phẩm này trong hai mươi năm\n(C) Một nghiên cứu sinh chuyên về lưới điện đô thị\n(D) Thành viên hội đồng quản trị chịu trách nhiệm phát hành tập san mùa thu",
+    "explanation": "Bài giới thiệu nêu rõ Tiến sĩ Okafor kế nhiệm Giáo sư Arthur Pendelton, người có hai thập kỷ chèo lái giúp tạo dựng vị thế cho tạp chí ('She succeeds Professor Arthur Pendelton, whose two decades of stewardship established this journal...'), tương ứng với đáp án B.",
+    "vocab": [
+      ["succeed", "v", "kế nhiệm, nối tiếp chức vụ"],
+      ["stewardship", "n", "sự quản lý, dẫn dắt, coi sóc"],
+      ["indispensable", "adj", "không thể thiếu, thiết yếu"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following introduction:",
+    "audioScript": "Good evening, subscribers and board members, and thank you for joining us to welcome Doctor Nadia Okafor as the incoming Editor-in-Chief of The Policy Continuum. She succeeds Professor Arthur Pendelton, whose two decades of stewardship established this journal as an indispensable voice in public affairs. Unlike frequent television commentators who chase fleeting political headlines, Doctor Okafor has built an international reputation for rigorous, cross-disciplinary empirical analysis in energy economics and urban governance. Most recently, she directed the industrial policy fellowship at the Ottawa Institute for Public Governance, advising municipal coalitions across three continents. Under her editorial direction, the journal will launch a monthly interactive data briefing alongside our print essays. Equally important, she is introducing a stricter double-blind peer-review protocol for all external policy monographs beginning with our autumn volume. Please join me in welcoming Doctor Okafor.",
+    "questionText": "What new practice will take effect with the autumn issue?",
+    "options": [
+      "Submitted policy papers will undergo a more rigorous anonymous evaluation.",
+      "The magazine will discontinue its traditional print edition.",
+      "External contributors will no longer be eligible to submit monographs.",
+      "Municipal officials will receive complimentary subscriptions to the data briefing."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Quy trình mới nào sẽ có hiệu lực từ số báo mùa thu?\n(A) Các bài nghiên cứu chính sách gửi về sẽ trải qua quá trình thẩm định ẩn danh nghiêm ngặt hơn.\n(B) Tạp chí sẽ ngừng phát hành ấn bản in truyền thống.\n(C) Các cộng tác viên bên ngoài sẽ không còn đủ điều kiện gửi chuyên luận.\n(D) Các quan chức đô thị sẽ được tặng gói đăng ký miễn phí bản tin dữ liệu.",
+    "explanation": "Bà sẽ áp dụng quy trình bình duyệt mù đôi (hai chiều ẩn danh) khắt khe hơn cho các chuyên luận chính sách bên ngoài từ tập mùa thu ('introducing a stricter double-blind peer-review protocol for all external policy monographs beginning with our autumn volume'), được paraphrase thành 'a more rigorous anonymous evaluation' ở đáp án A. Lựa chọn B sai vì bản tin dữ liệu đi song hành với bài luận bản in ('alongside our print essays').",
+    "vocab": [
+      ["double-blind peer review", "n. phr", "quy trình bình duyệt mù đôi (ẩn danh cả tác giả và người phản biện)"],
+      ["monograph", "n", "chuyên luận nghiên cứu chuyên sâu"],
+      ["municipal coalition", "n. phr", "liên minh các chính quyền đô thị"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following broadcast:",
+    "audioScript": "You are listening to Global Commerce Watch. After fourteen months of deadlocked negotiations over component-origin rules, trade ministers from seven Pacific Rim economies have formally ratified the Clean-Tech Partnership Accord. Beyond phasing out import tariffs on green-hydrogen electrolyzers and utility-scale battery arrays over a five-year horizon, the treaty breaks new ground through a mutual recognition clause for safety conformity assessments. Industry analysts note that this provision will spare mid-sized clean-energy manufacturers millions in redundant laboratory testing fees across multiple jurisdictions. Still, not every sector is celebrating. Domestic solar-panel associations issued a joint statement this morning warning that last-minute concessions on local-content thresholds are dangerously lenient. They argue that lowered assembly mandates could create a regulatory loophole, allowing non-signatory exporters to route subsidized components through member ports without incurring standard anti-dumping duties.",
+    "questionText": "What delayed the finalization of the Clean-Tech Partnership Accord?",
+    "options": [
+      "Disputes over how to classify the geographic origin of parts",
+      "Disagreements over the five-year schedule for battery installation",
+      "A shortage of certified safety testing laboratories in the region",
+      "Opposition from green-hydrogen producers regarding export quotas"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nQuý vị đang nghe bản tin Toàn cảnh Thương mại Toàn cầu. Sau mười bốn tháng đàm phán bế tắc xoay quanh các quy tắc xuất xứ linh kiện, bộ trưởng thương mại của bảy nền kinh tế vành đai Thái Bình Dương đã chính thức phê chuẩn Hiệp định Đối tác Công nghệ Sạch. Bên cạnh việc xóa bỏ dần thuế nhập khẩu đối với thiết bị điện phân hydro xanh và hệ thống pin lưu trữ quy mô lưới điện trong lộ trình năm năm, hiệp ước này tạo bước đột phá nhờ điều khoản công nhận lẫn nhau đối với các đánh giá hợp chuẩn an toàn. Các nhà phân tích ngành nhận định điều khoản này sẽ giúp các nhà sản xuất năng lượng sạch quy mô vừa tiết kiệm hàng triệu đô la chi phí kiểm thử phòng thí nghiệm trùng lặp tại nhiều khu vực pháp lý khác nhau. Tuy nhiên, không phải lĩnh vực nào cũng vui mừng. Các hiệp hội sản xuất tấm pin mặt trời trong nước sáng nay đã ra tuyên bố chung cảnh báo rằng những nhượng bộ phút chót về ngưỡng hàm lượng nội địa là quá lỏng lẻo một cách đáng lo ngại. Họ lập luận rằng việc hạ thấp yêu cầu lắp ráp bắt buộc có thể tạo ra kẽ hở pháp lý, cho phép các nhà xuất khẩu ngoài khối trung chuyển linh kiện được trợ giá qua các cảng thành viên mà không phải chịu thuế chống bán phá giá thông thường.\n\nCâu hỏi: Điều gì đã làm trì hoãn việc hoàn tất Hiệp định Đối tác Công nghệ Sạch?\n(A) Những tranh cãi về cách xác định nguồn gốc xuất xứ địa lý của các linh kiện\n(B) Bất đồng về lộ trình năm năm cho việc lắp đặt hệ thống pin\n(C) Tình trạng thiếu hụt phòng thí nghiệm kiểm định an toàn đạt chuẩn trong khu vực\n(D) Sự phản đối từ các nhà sản xuất hydro xanh liên quan đến hạn ngạch xuất khẩu",
+    "explanation": "Bản tin mở đầu bằng chi tiết hiệp định được phê chuẩn sau 14 tháng đàm phán bế tắc về các quy tắc xuất xứ linh kiện ('fourteen months of deadlocked negotiations over component-origin rules'), khớp hoàn toàn với đáp án A. Các phương án B, C và D đều trộn lẫn từ khóa khác trong bài.",
+    "vocab": [
+      ["ratify", "v", "phê chuẩn chính thức (hiệp định, điều ước)"],
+      ["deadlocked", "adj", "bế tắc, không đạt được tiến triển"],
+      ["electrolyzer", "n", "thiết bị điện phân (tách hydro)"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following broadcast:",
+    "audioScript": "You are listening to Global Commerce Watch. After fourteen months of deadlocked negotiations over component-origin rules, trade ministers from seven Pacific Rim economies have formally ratified the Clean-Tech Partnership Accord. Beyond phasing out import tariffs on green-hydrogen electrolyzers and utility-scale battery arrays over a five-year horizon, the treaty breaks new ground through a mutual recognition clause for safety conformity assessments. Industry analysts note that this provision will spare mid-sized clean-energy manufacturers millions in redundant laboratory testing fees across multiple jurisdictions. Still, not every sector is celebrating. Domestic solar-panel associations issued a joint statement this morning warning that last-minute concessions on local-content thresholds are dangerously lenient. They argue that lowered assembly mandates could create a regulatory loophole, allowing non-signatory exporters to route subsidized components through member ports without incurring standard anti-dumping duties.",
+    "questionText": "How does the accord reduce expenses for medium-sized clean-tech firms?",
+    "options": [
+      "By offering direct government subsidies for hydrogen electrolyzers",
+      "By eliminating the need to repeat safety certification in each market",
+      "By granting them tax exemptions on imported laboratory equipment",
+      "By guaranteeing fixed port-handling rates for utility-scale batteries"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hiệp định giúp cắt giảm chi phí cho các doanh nghiệp công nghệ sạch quy mô vừa bằng cách nào?\n(A) Bằng cách cung cấp trợ cấp trực tiếp của chính phủ cho máy điện phân hydro\n(B) Bằng cách loại bỏ nhu cầu phải làm lại chứng nhận an toàn tại từng thị trường\n(C) Bằng cách miễn thuế cho các thiết bị phòng thí nghiệm nhập khẩu\n(D) Bằng cách bảo đảm mức phí bốc xếp cảng cố định cho các tổ hợp pin quy mô lớn",
+    "explanation": "Điều khoản công nhận lẫn nhau về đánh giá hợp chuẩn an toàn ('mutual recognition clause for safety conformity assessments') giúp các hãng quy mô vừa tiết kiệm hàng triệu đô la phí kiểm thử phòng thí nghiệm trùng lặp ở nhiều nước ('spare mid-sized clean-energy manufacturers millions in redundant laboratory testing fees across multiple jurisdictions'), tương ứng với đáp án B.",
+    "vocab": [
+      ["mutual recognition", "n. phr", "sự công nhận lẫn nhau giữa các quốc gia/cơ quan"],
+      ["conformity assessment", "n. phr", "đánh giá sự phù hợp / hợp chuẩn kỹ thuật"],
+      ["jurisdiction", "n", "khu vực tài phán, phạm vi pháp lý"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following broadcast:",
+    "audioScript": "You are listening to Global Commerce Watch. After fourteen months of deadlocked negotiations over component-origin rules, trade ministers from seven Pacific Rim economies have formally ratified the Clean-Tech Partnership Accord. Beyond phasing out import tariffs on green-hydrogen electrolyzers and utility-scale battery arrays over a five-year horizon, the treaty breaks new ground through a mutual recognition clause for safety conformity assessments. Industry analysts note that this provision will spare mid-sized clean-energy manufacturers millions in redundant laboratory testing fees across multiple jurisdictions. Still, not every sector is celebrating. Domestic solar-panel associations issued a joint statement this morning warning that last-minute concessions on local-content thresholds are dangerously lenient. They argue that lowered assembly mandates could create a regulatory loophole, allowing non-signatory exporters to route subsidized components through member ports without incurring standard anti-dumping duties.",
+    "questionText": "Why are domestic solar-panel groups critical of the final agreement?",
+    "options": [
+      "Tariffs on solar panels will remain unchanged for five years.",
+      "Strict assembly rules will raise their domestic production costs.",
+      "Weak local-content rules may let outside competitors bypass trade duties.",
+      "The treaty excludes solar technology from mutual safety recognition."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao các nhóm sản xuất tấm pin mặt trời nội địa lại chỉ trích thỏa thuận cuối cùng?\n(A) Thuế quan đối với tấm pin mặt trời sẽ giữ nguyên không đổi trong năm năm.\n(B) Quy định lắp ráp nghiêm ngặt sẽ làm tăng chi phí sản xuất trong nước của họ.\n(C) Quy định tỷ lệ nội địa hóa lỏng lẻo có thể giúp đối thủ bên ngoài né được thuế thương mại.\n(D) Hiệp ước loại trừ công nghệ năng lượng mặt trời khỏi cơ chế công nhận an toàn lẫn nhau.",
+    "explanation": "Các hiệp hội tấm pin mặt trời nội địa cảnh báo việc nhượng bộ hạ thấp ngưỡng hàm lượng nội địa hóa ('concessions on local-content thresholds are dangerously lenient') sẽ tạo kẽ hở để các nước ngoài khối đưa linh kiện được trợ giá đi vòng qua cảng thành viên mà tránh được thuế chống bán phá giá ('without incurring standard anti-dumping duties'), khớp với đáp án C.",
+    "vocab": [
+      ["local-content threshold", "n. phr", "ngưỡng tỷ lệ nội địa hóa tối thiểu"],
+      ["regulatory loophole", "n. phr", "kẽ hở pháp lý, lỗ hổng quy định"],
+      ["anti-dumping duty", "n. phr", "thuế chống bán phá giá"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following tour:",
+    "audioScript": "Welcome to the Aetheris Aerodynamics Institute. You are standing outside our one-hundred-twenty-meter closed-circuit cryogenic wind tunnel, one of only four facilities of its kind worldwide. By injecting vaporized liquid nitrogen into the airstream, our engineers replicate the exact air-density dynamics of commercial cruising altitudes using compact scale models, sparing aircraft makers the expense of constructing full-size prototypes. Please put on the active noise-canceling headsets distributed at reception; although the titanium compressor fan is only idling for this afternoon's calibration cycle, ambient sound along the viewing gallery still exceeds eighty-five decibels. Also, because the winglet assembly mounted inside is proprietary, photography is strictly prohibited beyond this threshold. Kindly seal all camera-enabled phones inside the signal-blocking pouches provided before passing the magnetic gate. Afterward, we will head upstairs to our computational fluid lab, where Doctor Patel will demonstrate vortex-drag reduction algorithms.",
+    "questionText": "What does the cryogenic cooling system enable engineers to do?",
+    "options": [
+      "Test full-size commercial aircraft engines under freezing conditions",
+      "Simulate high-altitude flight conditions on smaller test models",
+      "Reduce the acoustic noise produced by titanium compressor fans",
+      "Extend the lifespan of liquid-nitrogen storage tanks"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào mừng quý vị đến với Viện Khí động học Aetheris. Quý vị đang đứng bên ngoài hầm gió siêu lạnh khép kín dài một trăm hai mươi mét của chúng tôi, một trong bốn cơ sở duy nhất thuộc loại này trên toàn thế giới. Bằng cách phun nitơ lỏng hóa hơi vào luồng khí, các kỹ sư của chúng tôi tái tạo chính xác động lực học mật độ không khí ở độ cao bay hành trình thương mại thông qua các mô hình thu nhỏ gọn nhẹ, giúp các hãng chế tạo máy bay tránh được chi phí đắt đỏ khi phải đóng nguyên mẫu kích thước thật. Xin vui lòng đeo tai nghe khử ồn chủ động đã được phát tại quầy lễ tân; mặc dù cánh quạt máy nén hợp kim titan hiện chỉ chạy không tải cho chu trình hiệu chuẩn chiều nay, mức âm thanh môi trường dọc hành lang quan sát vẫn vượt quá tám mươi lăm decibel. Ngoài ra, do cụm cánh phụ đầu mút lắp bên trong thuộc sở hữu độc quyền, việc chụp ảnh bị nghiêm cấm tuyệt đối qua ngưỡng cửa này. Xin vui lòng niêm phong tất cả điện thoại có camera vào trong túi chặn tín hiệu được phát sẵn trước khi qua cổng từ. Sau đó, chúng ta sẽ di chuyển lên tầng trên đến phòng thí nghiệm động lực học chất lưu tính toán, nơi Tiến sĩ Patel sẽ trình diễn các thuật toán giảm lực cản xoáy.\n\nCâu hỏi: Hệ thống làm lạnh sâu cho phép các kỹ sư thực hiện điều gì?\n(A) Thử nghiệm động cơ máy bay thương mại kích thước thật trong điều kiện đóng băng\n(B) Mô phỏng điều kiện bay ở độ cao lớn trên các mô hình thử nghiệm nhỏ hơn\n(C) Giảm tiếng ồn âm học phát ra từ các cánh quạt máy nén titan\n(D) Kéo dài tuổi thọ của các bồn chứa nitơ lỏng",
+    "explanation": "Hướng dẫn viên nêu rõ việc bơm nitơ lỏng hóa hơi vào dòng khí giúp tái hiện chính xác mật độ không khí ở độ cao hành trình trên các mô hình thu nhỏ, tiết kiệm chi phí làm nguyên mẫu cỡ thật ('replicate the exact air-density dynamics of commercial cruising altitudes using compact scale models, sparing aircraft makers the expense of constructing full-size prototypes'), tương ứng với đáp án B.",
+    "vocab": [
+      ["cryogenic", "adj", "liên quan đến nhiệt độ cực thấp (làm lạnh sâu)"],
+      ["scale model", "n. phr", "mô hình thu nhỏ theo tỷ lệ"],
+      ["prototype", "n", "nguyên mẫu thử nghiệm đầu tiên"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following tour:",
+    "audioScript": "Welcome to the Aetheris Aerodynamics Institute. You are standing outside our one-hundred-twenty-meter closed-circuit cryogenic wind tunnel, one of only four facilities of its kind worldwide. By injecting vaporized liquid nitrogen into the airstream, our engineers replicate the exact air-density dynamics of commercial cruising altitudes using compact scale models, sparing aircraft makers the expense of constructing full-size prototypes. Please put on the active noise-canceling headsets distributed at reception; although the titanium compressor fan is only idling for this afternoon's calibration cycle, ambient sound along the viewing gallery still exceeds eighty-five decibels. Also, because the winglet assembly mounted inside is proprietary, photography is strictly prohibited beyond this threshold. Kindly seal all camera-enabled phones inside the signal-blocking pouches provided before passing the magnetic gate. Afterward, we will head upstairs to our computational fluid lab, where Doctor Patel will demonstrate vortex-drag reduction algorithms.",
+    "questionText": "Why must visitors place their phones in special pouches?",
+    "options": [
+      "To prevent electronic signals from interfering with the calibration cycle",
+      "To protect mobile devices from extreme cryogenic temperatures",
+      "To comply with safety protocols around high-decibel machinery",
+      "To prevent unauthorized images of confidential aerospace hardware"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao khách tham quan phải đặt điện thoại vào túi chuyên dụng?\n(A) Để ngăn tín hiệu điện tử gây nhiễu cho chu trình hiệu chuẩn\n(B) Để bảo vệ thiết bị di động khỏi nhiệt độ siêu lạnh khắc nghiệt\n(C) Để tuân thủ quy trình an toàn xung quanh máy móc có độ ồn cao\n(D) Để ngăn việc chụp ảnh trái phép thiết bị hàng không vũ trụ bảo mật",
+    "explanation": "Người hướng dẫn giải thích lý do niêm phong điện thoại có camera vào túi chắn sóng ngay trước đó là vì cụm cánh phụ bên trong là thiết kế độc quyền và cấm chụp ảnh ('because the winglet assembly mounted inside is proprietary, photography is strictly prohibited'), khớp với đáp án D. Lựa chọn A bẫy suy diễn từ cụm 'signal-blocking pouches' và 'calibration cycle'.",
+    "vocab": [
+      ["proprietary", "adj", "thuộc quyền sở hữu độc quyền, bảo mật thương mại"],
+      ["calibration", "n", "sự hiệu chuẩn thông số thiết bị"],
+      ["ambient sound", "n. phr", "âm thanh nền trong môi trường xung quanh"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following tour:",
+    "audioScript": "Welcome to the Aetheris Aerodynamics Institute. You are standing outside our one-hundred-twenty-meter closed-circuit cryogenic wind tunnel, one of only four facilities of its kind worldwide. By injecting vaporized liquid nitrogen into the airstream, our engineers replicate the exact air-density dynamics of commercial cruising altitudes using compact scale models, sparing aircraft makers the expense of constructing full-size prototypes. Please put on the active noise-canceling headsets distributed at reception; although the titanium compressor fan is only idling for this afternoon's calibration cycle, ambient sound along the viewing gallery still exceeds eighty-five decibels. Also, because the winglet assembly mounted inside is proprietary, photography is strictly prohibited beyond this threshold. Kindly seal all camera-enabled phones inside the signal-blocking pouches provided before passing the magnetic gate. Afterward, we will head upstairs to our computational fluid lab, where Doctor Patel will demonstrate vortex-drag reduction algorithms.",
+    "questionText": "What will happen immediately after the viewing-gallery visit?",
+    "options": [
+      "Visitors will return their noise-canceling headsets at reception.",
+      "The compressor fan will be powered up to full cruising speed.",
+      "A researcher will showcase software models for minimizing air resistance.",
+      "Engineers will disassemble the experimental winglet assembly."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì sẽ diễn ra ngay sau chuyến tham quan hành lang quan sát?\n(A) Khách tham quan sẽ trả lại tai nghe khử ồn tại quầy lễ tân.\n(B) Quạt máy nén sẽ được tăng công suất lên tốc độ hành trình tối đa.\n(C) Một nhà nghiên cứu sẽ trình diễn các mô hình phần mềm nhằm giảm thiểu lực cản không khí.\n(D) Các kỹ sư sẽ tháo dỡ cụm cánh phụ thử nghiệm.",
+    "explanation": "Câu cuối thông báo đoàn sẽ lên tầng trên tới phòng thí nghiệm động lực học chất lưu tính toán, nơi Tiến sĩ Patel trình diễn các thuật toán giảm lực cản xoáy ('computational fluid lab, where Doctor Patel will demonstrate vortex-drag reduction algorithms'). Cụm thuật toán giảm lực cản xoáy được diễn đạt lại thành 'software models for minimizing air resistance' ở đáp án C.",
+    "vocab": [
+      ["computational fluid lab", "n. phr", "phòng thí nghiệm mô phỏng động lực học chất lưu bằng máy tính"],
+      ["vortex drag", "n. phr", "lực cản do dòng khí xoáy đầu cánh tạo ra"],
+      ["algorithm", "n", "thuật toán"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Good morning to our finance, audit, and regional controller teams at Kestrel Consumer Holdings. Ahead of our planned dual listing in Singapore next year, the board has authorized migrating our consolidated accounts to International Financial Reporting Standards for the upcoming fiscal year. The most consequential shifts involve revenue recognition on multi-year warranty contracts and capitalizing long-term retail leases onto the balance sheet. Note that while these reclassifications will noticeably alter our reported leverage ratios on paper, our underlying operating cash flow remains completely intact. To avoid bottlenecks during year-end closing, regional controllers must reconcile all store lease schedules in the ledger by October fifteenth. Mandatory training workshops will run across three virtual sessions, though audit staff holding external IFRS conversion credentials may submit proof to waive the introductory module.",
+    "questionText": "Why is Kestrel Consumer Holdings adopting International Financial Reporting Standards?",
+    "options": [
+      "To reduce tax liabilities across its regional retail subsidiaries",
+      "To resolve discrepancies discovered during an external tax audit",
+      "To satisfy eligibility requirements for an overseas stock-exchange listing",
+      "To shorten the duration of its multi-year extended warranty contracts"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng các nhóm tài chính, kiểm toán và kiểm soát tài chính khu vực tại Kestrel Consumer Holdings. Nhằm chuẩn bị cho kế hoạch niêm yết cổ phiếu song song tại Singapore vào năm tới, hội đồng quản trị đã phê duyệt việc chuyển đổi sổ sách kế toán hợp nhất sang Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) từ năm tài chính sắp tới. Những thay đổi có tác động lớn nhất liên quan đến việc ghi nhận doanh thu đối với các hợp đồng bảo hành nhiều năm và việc vốn hóa các hợp đồng thuê mặt bằng bán lẻ dài hạn lên bảng cân đối kế toán. Xin lưu ý rằng mặc dù những phân loại lại này sẽ làm thay đổi đáng kể các chỉ số đòn bẩy tài chính được báo cáo trên giấy tờ, dòng tiền hoạt động cốt lõi của chúng ta vẫn hoàn toàn nguyên vẹn. Để tránh tắc nghẽn trong kỳ khóa sổ cuối năm, các giám đốc kiểm soát tài chính khu vực phải đối chiếu xong toàn bộ bảng kê thuê cửa hàng trên sổ cái trước ngày mười lăm tháng Mười. Các buổi tập huấn chuyển đổi bắt buộc sẽ diễn ra qua ba đợt trực tuyến, tuy nhiên nhân sự kiểm toán đã có chứng chỉ chuyển đổi IFRS bên ngoài có thể nộp bằng chứng để được miễn học phần nhập môn.\n\nCâu hỏi: Tại sao Kestrel Consumer Holdings lại áp dụng Chuẩn mực Báo cáo Tài chính Quốc tế?\n(A) Để giảm nghĩa vụ thuế tại các công ty con bán lẻ khu vực\n(B) Để xử lý các sai lệch được phát hiện trong một cuộc kiểm toán thuế bên ngoài\n(C) Để đáp ứng các yêu cầu đủ điều kiện niêm yết trên một sàn giao dịch chứng khoán nước ngoài\n(D) Để rút ngắn thời hạn của các hợp đồng bảo hành mở rộng nhiều năm",
+    "explanation": "Thông báo nêu rõ việc chuyển đổi sang IFRS được phê duyệt để chuẩn bị cho kế hoạch niêm yết song song tại Singapore vào năm tới ('Ahead of our planned dual listing in Singapore next year'), khớp với đáp án C. Các phương án A, B và D sai lệch mục đích.",
+    "vocab": [
+      ["dual listing", "n. phr", "niêm yết cổ phiếu song song trên hai sàn giao dịch"],
+      ["consolidated accounts", "n. phr", "báo cáo tài chính hợp nhất"],
+      ["capitalize", "v", "vốn hóa (ghi nhận thành tài sản/nợ dài hạn trên bảng cân đối)"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Good morning to our finance, audit, and regional controller teams at Kestrel Consumer Holdings. Ahead of our planned dual listing in Singapore next year, the board has authorized migrating our consolidated accounts to International Financial Reporting Standards for the upcoming fiscal year. The most consequential shifts involve revenue recognition on multi-year warranty contracts and capitalizing long-term retail leases onto the balance sheet. Note that while these reclassifications will noticeably alter our reported leverage ratios on paper, our underlying operating cash flow remains completely intact. To avoid bottlenecks during year-end closing, regional controllers must reconcile all store lease schedules in the ledger by October fifteenth. Mandatory training workshops will run across three virtual sessions, though audit staff holding external IFRS conversion credentials may submit proof to waive the introductory module.",
+    "questionText": "What does the speaker clarify about the accounting transition?",
+    "options": [
+      "Reported debt figures will shift even though actual cash performance is unaffected.",
+      "Store lease payments will increase substantially starting in October.",
+      "Multi-year warranty sales will be excluded from next year's revenue.",
+      "The ledger software must be replaced before year-end closing."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người nói làm rõ điều gì về quá trình chuyển đổi kế toán?\n(A) Các số liệu nợ được báo cáo sẽ thay đổi dù hiệu quả dòng tiền thực tế không bị ảnh hưởng.\n(B) Tiền thanh toán thuê cửa hàng sẽ tăng mạnh bắt đầu từ tháng Mười.\n(C) Doanh thu bán gói bảo hành nhiều năm sẽ bị loại khỏi doanh thu năm tới.\n(D) Phần mềm sổ cái phải được thay thế trước kỳ khóa sổ cuối năm.",
+    "explanation": "Người nói nhấn mạnh rằng dù việc phân loại lại sẽ làm thay đổi đáng kể các chỉ số đòn bẩy trên giấy tờ, dòng tiền hoạt động thực chất vẫn hoàn toàn nguyên vẹn ('while these reclassifications will noticeably alter our reported leverage ratios on paper, our underlying operating cash flow remains completely intact'), khớp với đáp án A ('leverage ratios' tương ứng với tỷ lệ nợ/đòn bẩy tài chính).",
+    "vocab": [
+      ["leverage ratio", "n. phr", "chỉ số đòn bẩy tài chính (tỷ lệ nợ trên vốn)"],
+      ["operating cash flow", "n. phr", "dòng tiền từ hoạt động kinh doanh"],
+      ["reconcile", "v", "đối chiếu, khớp số liệu sổ sách"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Good morning to our finance, audit, and regional controller teams at Kestrel Consumer Holdings. Ahead of our planned dual listing in Singapore next year, the board has authorized migrating our consolidated accounts to International Financial Reporting Standards for the upcoming fiscal year. The most consequential shifts involve revenue recognition on multi-year warranty contracts and capitalizing long-term retail leases onto the balance sheet. Note that while these reclassifications will noticeably alter our reported leverage ratios on paper, our underlying operating cash flow remains completely intact. To avoid bottlenecks during year-end closing, regional controllers must reconcile all store lease schedules in the ledger by October fifteenth. Mandatory training workshops will run across three virtual sessions, though audit staff holding external IFRS conversion credentials may submit proof to waive the introductory module.",
+    "questionText": "Under what condition can certain employees skip the first training module?",
+    "options": [
+      "If they complete their lease reconciliation ahead of October fifteenth",
+      "If they have worked on Singapore stock-exchange listings previously",
+      "If they are promoted to regional controller before the fiscal year begins",
+      "If they already possess recognized external certification in the new standards"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Trong điều kiện nào một số nhân viên có thể bỏ qua học phần đào tạo đầu tiên?\n(A) Nếu họ hoàn thành việc đối chiếu hợp đồng thuê trước ngày mười lăm tháng Mười\n(B) Nếu họ từng tham gia các thương vụ niêm yết trên sàn Singapore trước đây\n(C) Nếu họ được thăng chức làm kiểm soát tài chính khu vực trước khi năm tài chính bắt đầu\n(D) Nếu họ đã có chứng chỉ được công nhận từ bên ngoài về các chuẩn mực mới",
+    "explanation": "Câu cuối nêu rõ nhân viên kiểm toán có chứng chỉ chuyển đổi IFRS bên ngoài có thể nộp bằng chứng để được miễn học phần nhập môn ('audit staff holding external IFRS conversion credentials may submit proof to waive the introductory module'), khớp với đáp án D.",
+    "vocab": [
+      ["credential", "n", "chứng chỉ, bằng cấp xác nhận năng lực"],
+      ["waive", "v", "miễn trừ (nghĩa vụ, học phần)"],
+      ["general ledger", "n. phr", "sổ cái kế toán tổng hợp"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Many manufacturing executives still assume that their legacy enterprise resource planning software provides full supply-chain visibility. Yet traditional systems only track what has already entered your own warehouse; they remain blind to an unexpected labor bottleneck at a tier-two supplier or a maritime storm delaying critical raw materials offshore. VectraFlow changes that equation. Our real-time intelligence platform synthesizes live vessel-tracking telemetry, severe-weather alerts, and verified inventory feeds from thousands of upstream vendors into one predictive command dashboard. Whenever an incoming disruption is detected ten to fourteen days out, our optimization engine automatically models alternative freight corridors alongside landed-cost trade-offs. Unlike bloated legacy suites requiring nine months of infrastructure overhaul, VectraFlow integrates via cloud application interfaces in seventy-two hours with zero operational downtime. Book an enterprise demonstration before month's end to receive a complimentary fifteen-thousand-dollar supply-network stress audit.",
+    "questionText": "What weakness of traditional ERP systems is highlighted in the advertisement?",
+    "options": [
+      "They require nine months of downtime during initial installation.",
+      "They lack visibility into external delays and indirect suppliers.",
+      "They cannot calculate landed-cost comparisons for warehouse staff.",
+      "They fail to track inventory once materials arrive at the warehouse."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nNhiều lãnh đạo doanh nghiệp sản xuất vẫn cho rằng phần mềm hoạch định nguồn lực doanh nghiệp truyền thống của họ mang lại khả năng giám sát toàn diện chuỗi cung ứng. Tuy nhiên, các hệ thống cũ chỉ theo dõi những gì đã nhập vào kho của chính bạn; chúng hoàn toàn mù thông tin trước tình trạng tắc nghẽn nhân công bất ngờ tại một nhà cung cấp cấp hai hay một cơn bão biển làm chậm nguyên liệu thô thiết yếu ngoài khơi. VectraFlow thay đổi hoàn toàn bài toán đó. Nền tảng thông tin thời gian thực của chúng tôi tổng hợp dữ liệu định vị tàu biển trực tiếp, cảnh báo thời tiết khắc nghiệt và nguồn dữ liệu tồn kho đã xác thực từ hàng nghìn nhà cung cấp thượng nguồn vào chung một bảng điều khiển dự báo duy nhất. Bất cứ khi nào phát hiện nguy cơ gián đoạn sắp tới trước từ mười đến mười bốn ngày, công cụ tối ưu hóa của chúng tôi tự động mô phỏng các hành lang vận tải thay thế kèm phân tích đánh đổi chi phí giao nhận cuối cùng. Không giống các bộ phần mềm cũ cồng kềnh đòi hỏi chín tháng đại tu hạ tầng, VectraFlow tích hợp qua giao diện ứng dụng đám mây chỉ trong bảy mươi hai giờ mà không gây gián đoạn vận hành. Hãy đặt lịch trình diễn sản phẩm doanh nghiệp trước cuối tháng để nhận gói kiểm toán sức chịu đựng mạng lưới cung ứng miễn phí trị giá mười lăm nghìn đô la.\n\nCâu hỏi: Điểm yếu nào của các hệ thống ERP truyền thống được nhấn mạnh trong đoạn quảng cáo?\n(A) Chúng đòi hỏi chín tháng ngừng hoạt động trong quá trình cài đặt ban đầu.\n(B) Chúng thiếu khả năng theo dõi các sự cố chậm trễ bên ngoài và các nhà cung cấp gián tiếp.\n(C) Chúng không thể tính toán so sánh chi phí giao nhận cho nhân viên kho.\n(D) Chúng không theo dõi được hàng tồn kho sau khi nguyên liệu đã về đến kho.",
+    "explanation": "Quảng cáo chỉ rõ phần mềm truyền thống chỉ ghi nhận thứ đã vào kho của doanh nghiệp và mù thông tin trước nút thắt ở nhà cung cấp cấp hai hoặc bão biển ngoài khơi ('only track what has already entered your own warehouse; they remain blind to an unexpected labor bottleneck at a tier-two supplier or a maritime storm'), khớp với đáp án B. Phương án D đảo ngược hoàn toàn ý này.",
+    "vocab": [
+      ["tier-two supplier", "n. phr", "nhà cung cấp cấp hai (cung ứng cho nhà cung cấp trực tiếp)"],
+      ["upstream vendor", "n. phr", "nhà cung ứng ở khâu thượng nguồn đầu vào"],
+      ["landed cost", "n. phr", "tổng chi phí hàng hóa tính đến lúc giao tại điểm đích"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Many manufacturing executives still assume that their legacy enterprise resource planning software provides full supply-chain visibility. Yet traditional systems only track what has already entered your own warehouse; they remain blind to an unexpected labor bottleneck at a tier-two supplier or a maritime storm delaying critical raw materials offshore. VectraFlow changes that equation. Our real-time intelligence platform synthesizes live vessel-tracking telemetry, severe-weather alerts, and verified inventory feeds from thousands of upstream vendors into one predictive command dashboard. Whenever an incoming disruption is detected ten to fourteen days out, our optimization engine automatically models alternative freight corridors alongside landed-cost trade-offs. Unlike bloated legacy suites requiring nine months of infrastructure overhaul, VectraFlow integrates via cloud application interfaces in seventy-two hours with zero operational downtime. Book an enterprise demonstration before month's end to receive a complimentary fifteen-thousand-dollar supply-network stress audit.",
+    "questionText": "What advantage does VectraFlow offer during deployment?",
+    "options": [
+      "It replaces existing cloud interfaces at no extra charge.",
+      "It operates offline without requiring live telemetry feeds.",
+      "It connects rapidly to current systems without interrupting business.",
+      "It includes free hardware upgrades for tier-two suppliers."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: VectraFlow mang lại lợi thế gì trong giai đoạn triển khai?\n(A) Nền tảng thay thế các giao diện đám mây hiện có mà không tính thêm phí.\n(B) Nền tảng hoạt động ngoại tuyến mà không cần luồng dữ liệu đo đạc trực tiếp.\n(C) Nền tảng kết nối nhanh chóng vào hệ thống hiện tại mà không làm gián đoạn hoạt động kinh doanh.\n(D) Nền tảng bao gồm nâng cấp phần cứng miễn phí cho các nhà cung cấp cấp hai.",
+    "explanation": "Đoạn quảng cáo đối chiếu với bộ giải pháp cũ mất 9 tháng đại tu hạ tầng để nêu bật ưu điểm của VectraFlow: tích hợp qua giao diện ứng dụng đám mây trong 72 giờ mà không có thời gian chết vận hành ('integrates via cloud application interfaces in seventy-two hours with zero operational downtime'), khớp với đáp án C.",
+    "vocab": [
+      ["infrastructure overhaul", "n. phr", "cuộc đại tu toàn bộ hạ tầng hệ thống"],
+      ["operational downtime", "n. phr", "thời gian ngừng trệ hoạt động vận hành"],
+      ["freight corridor", "n. phr", "hành lang / tuyến vận tải hàng hóa"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following advertisement:",
+    "audioScript": "Many manufacturing executives still assume that their legacy enterprise resource planning software provides full supply-chain visibility. Yet traditional systems only track what has already entered your own warehouse; they remain blind to an unexpected labor bottleneck at a tier-two supplier or a maritime storm delaying critical raw materials offshore. VectraFlow changes that equation. Our real-time intelligence platform synthesizes live vessel-tracking telemetry, severe-weather alerts, and verified inventory feeds from thousands of upstream vendors into one predictive command dashboard. Whenever an incoming disruption is detected ten to fourteen days out, our optimization engine automatically models alternative freight corridors alongside landed-cost trade-offs. Unlike bloated legacy suites requiring nine months of infrastructure overhaul, VectraFlow integrates via cloud application interfaces in seventy-two hours with zero operational downtime. Book an enterprise demonstration before month's end to receive a complimentary fifteen-thousand-dollar supply-network stress audit.",
+    "questionText": "What is offered to businesses that schedule a demonstration before the end of the month?",
+    "options": [
+      "A complimentary assessment of their supply-chain vulnerability",
+      "A seventy-two-hour trial license for unlimited warehouse staff",
+      "A fifteen-thousand-dollar credit toward alternative freight shipping",
+      "Priority access to maritime weather telemetry for one year"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Ưu đãi nào được dành cho các doanh nghiệp đặt lịch trình diễn sản phẩm trước cuối tháng?\n(A) Một đợt đánh giá miễn phí về mức độ dễ tổn thương của chuỗi cung ứng\n(B) Giấy phép dùng thử bảy mươi hai giờ cho số lượng nhân viên kho không giới hạn\n(C) Khoản tín dụng trị giá mười lăm nghìn đô la cho chi phí vận tải thay thế\n(D) Quyền truy cập ưu tiên vào dữ liệu thời tiết hàng hải trong một năm",
+    "explanation": "Câu cuối khuyến khích doanh nghiệp đặt lịch demo trước cuối tháng để nhận gói kiểm toán sức chịu đựng mạng lưới cung ứng miễn phí trị giá 15.000 đô la ('receive a complimentary fifteen-thousand-dollar supply-network stress audit'), được diễn đạt lại thành 'complimentary assessment of their supply-chain vulnerability' ở đáp án A. Bẫy ở B và C dùng lại con số 72 giờ và 15.000 đô la sai ngữ cảnh.",
+    "vocab": [
+      ["complimentary", "adj", "miễn phí, tặng kèm"],
+      ["stress audit", "n. phr", "kiểm toán khả năng chịu áp lực / rủi ro đứt gãy"],
+      ["synthesize", "v", "tổng hợp, kết hợp dữ liệu từ nhiều nguồn"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following talk:",
+    "audioScript": "Distinguished mayors, urban planners, and infrastructure directors, welcome to the opening plenary of the Urban Futures Symposium. Over the past decade, the smart-city label has too often been equated with installing dense networks of traffic cameras or glossy digital kiosks. Yet a city flooded with real-time telemetry is not intelligent if its departments still hoard data in incompatible silos. Evidence from leading climate-resilient municipalities shows that genuine progress stems not from heavy hardware spending, but from establishing open-data interoperability linking stormwater utilities, power grids, and public transit agencies. Accordingly, rather than staging the vendor product showcases that dominated past conferences, this year's three-day agenda prioritizes candid, case-based roundtables between civic leaders and civil engineers. Before we begin, please note that our opening workshop on urban heat-island mitigation has relocated from the Main Auditorium to the West Amphitheater to accommodate interactive modeling tables.",
+    "questionText": "What does the speaker mean by saying, \"a city flooded with real-time telemetry is not intelligent if its departments still hoard data in incompatible silos\"?",
+    "options": [
+      "Data-collection sensors consume too much municipal electricity.",
+      "City governments should restrict public access to real-time transit data.",
+      "Digital kiosks are more cost-effective than underground utility sensors.",
+      "Monitoring technology fails to deliver value unless agencies share integrated information."
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nKính thưa các thị trưởng, các nhà quy hoạch đô thị và các giám đốc hạ tầng, chào mừng quý vị đến với phiên toàn thể khai mạc Diễn đàn Tương lai Đô thị. Trong thập kỷ qua, nhãn mác \"đô thị thông minh\" quá thường xuyên bị đánh đồng với việc lắp đặt dày đặc các mạng lưới camera giao thông hay những ki-ốt kỹ thuật số hào nhoáng. Thế nhưng một thành phố ngập tràn dữ liệu đo đạc thời gian thực vẫn không hề thông minh nếu các sở ban ngành của nó vẫn giữ khư khư dữ liệu trong những hệ thống khép kín không tương thích. Bằng chứng từ các đô thị chống chịu khí hậu hàng đầu cho thấy bước tiến thực sự không xuất phát từ việc chi tiêu mạnh tay cho phần cứng, mà từ việc thiết lập khả năng liên thông dữ liệu mở kết nối các đơn vị thoát nước mưa, lưới điện và cơ quan giao thông công cộng. Theo đó, thay vì tổ chức các gian hàng giới thiệu sản phẩm của nhà cung cấp vốn chiếm ưu thế ở các kỳ hội nghị trước, chương trình nghị sự ba ngày năm nay ưu tiên các bàn tròn trao đổi thẳng thắn dựa trên tình huống thực tế giữa các nhà lãnh đạo thành phố và kỹ sư xây dựng dân dụng. Trước khi bắt đầu, xin lưu ý hội thảo mở đầu về giảm thiểu hiệu ứng đảo nhiệt đô thị đã được chuyển từ Hội trường Chính sang Thính phòng Phía Tây để phù hợp với việc bố trí các bàn mô hình hóa tương tác.\n\nCâu hỏi: Người nói có ý gì khi phát biểu rằng, \"một thành phố ngập tràn dữ liệu đo đạc thời gian thực vẫn không hề thông minh nếu các sở ban ngành của nó vẫn giữ khư khư dữ liệu trong những hệ thống khép kín không tương thích\"?\n(A) Các cảm biến thu thập dữ liệu tiêu thụ quá nhiều điện năng của thành phố.\n(B) Chính quyền thành phố nên hạn chế quyền truy cập của công chúng vào dữ liệu giao thông thời gian thực.\n(C) Các ki-ốt kỹ thuật số tiết kiệm chi phí hơn so với các cảm biến hạ tầng ngầm.\n(D) Công nghệ giám sát không mang lại giá trị nếu các cơ quan không chia sẻ thông tin tích hợp với nhau.",
+    "explanation": "Người nói phê phán quan niệm đồng nhất đô thị thông minh với việc gắn nhiều camera/cảm biến nhưng các cơ quan lại cát cứ dữ liệu không tương thích ('hoard data in incompatible silos'), sau đó nhấn mạnh tiến bộ đến từ khả năng liên thông dữ liệu mở giữa các ngành thoát nước, điện và giao thông ('open-data interoperability'). Điều này hàm ý thiết bị thu thập dữ liệu chỉ hiệu quả khi các sở ban ngành chia sẻ và kết nối thông tin (đáp án D).",
+    "vocab": [
+      ["telemetry", "n", "dữ liệu đo đạc và truyền dẫn tự động từ xa"],
+      ["silo", "n", "hệ thống/bộ phận vận hành tách biệt, thiếu liên thông"],
+      ["interoperability", "n", "khả năng tương tác và liên thông dữ liệu giữa các hệ thống"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following talk:",
+    "audioScript": "Distinguished mayors, urban planners, and infrastructure directors, welcome to the opening plenary of the Urban Futures Symposium. Over the past decade, the smart-city label has too often been equated with installing dense networks of traffic cameras or glossy digital kiosks. Yet a city flooded with real-time telemetry is not intelligent if its departments still hoard data in incompatible silos. Evidence from leading climate-resilient municipalities shows that genuine progress stems not from heavy hardware spending, but from establishing open-data interoperability linking stormwater utilities, power grids, and public transit agencies. Accordingly, rather than staging the vendor product showcases that dominated past conferences, this year's three-day agenda prioritizes candid, case-based roundtables between civic leaders and civil engineers. Before we begin, please note that our opening workshop on urban heat-island mitigation has relocated from the Main Auditorium to the West Amphitheater to accommodate interactive modeling tables.",
+    "questionText": "How has the format of this year's symposium changed from previous years?",
+    "options": [
+      "It focuses on collaborative problem-solving rather than commercial exhibitions.",
+      "It runs for a shorter duration to accommodate mayors' schedules.",
+      "It restricts attendance exclusively to civil engineers and utility directors.",
+      "It eliminates interactive workshops in favor of keynote speeches."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hình thức tổ chức của diễn đàn năm nay đã thay đổi như thế nào so với các năm trước?\n(A) Diễn đàn tập trung vào giải quyết vấn đề theo hướng hợp tác thay vì triển lãm thương mại.\n(B) Diễn đàn diễn ra với thời lượng ngắn hơn để phù hợp với lịch trình của các thị trưởng.\n(C) Diễn đàn chỉ giới hạn đối tượng tham dự dành riêng cho kỹ sư xây dựng và giám đốc tiện ích.\n(D) Diễn đàn loại bỏ các hội thảo tương tác để ưu tiên các bài diễn văn chính.",
+    "explanation": "Người nói giải thích thay vì tổ chức các màn trình diễn sản phẩm của nhà cung cấp như các kỳ hội nghị trước, lịch trình ba ngày năm nay ưu tiên các phiên thảo luận bàn tròn thẳng thắn dựa trên tình huống giữa lãnh đạo thành phố và kỹ sư ('rather than staging the vendor product showcases that dominated past conferences, this year's three-day agenda prioritizes candid, case-based roundtables'), khớp với đáp án A.",
+    "vocab": [
+      ["plenary", "n", "phiên họp toàn thể của hội nghị"],
+      ["climate-resilient", "adj", "có khả năng thích ứng và chống chịu biến đổi khí hậu"],
+      ["civic leader", "n. phr", "nhà lãnh đạo chính quyền đô thị / cộng đồng"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following talk:",
+    "audioScript": "Distinguished mayors, urban planners, and infrastructure directors, welcome to the opening plenary of the Urban Futures Symposium. Over the past decade, the smart-city label has too often been equated with installing dense networks of traffic cameras or glossy digital kiosks. Yet a city flooded with real-time telemetry is not intelligent if its departments still hoard data in incompatible silos. Evidence from leading climate-resilient municipalities shows that genuine progress stems not from heavy hardware spending, but from establishing open-data interoperability linking stormwater utilities, power grids, and public transit agencies. Accordingly, rather than staging the vendor product showcases that dominated past conferences, this year's three-day agenda prioritizes candid, case-based roundtables between civic leaders and civil engineers. Before we begin, please note that our opening workshop on urban heat-island mitigation has relocated from the Main Auditorium to the West Amphitheater to accommodate interactive modeling tables.",
+    "questionText": "What scheduling adjustment does the speaker announce?",
+    "options": [
+      "The opening plenary has been postponed due to technical issues.",
+      "The vendor exhibition will be held inside the West Amphitheater.",
+      "A session on urban heat-island mitigation will take place in a different venue.",
+      "Roundtable discussions have been moved to the Main Auditorium."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói thông báo sự điều chỉnh lịch trình nào?\n(A) Phiên họp toàn thể khai mạc đã bị hoãn lại do sự cố kỹ thuật.\n(B) Triển lãm của các nhà cung cấp sẽ được tổ chức bên trong Thính phòng Phía Tây.\n(C) Một chuyên đề về giảm thiểu đảo nhiệt đô thị sẽ diễn ra tại một địa điểm khác.\n(D) Các phiên thảo luận bàn tròn đã được chuyển sang Hội trường Chính.",
+    "explanation": "Câu cuối thông báo hội thảo mở đầu về giảm thiểu hiệu ứng đảo nhiệt đô thị đã dời từ Hội trường Chính sang Thính phòng Phía Tây để kê các bàn mô hình hóa tương tác ('opening workshop on urban heat-island mitigation has relocated from the Main Auditorium to the West Amphitheater'), khớp với đáp án C.",
+    "vocab": [
+      ["heat-island mitigation", "n. phr", "giảm thiểu hiệu ứng đảo nhiệt đô thị"],
+      ["relocate", "v", "chuyển địa điểm, dời vị trí"],
+      ["amphitheater", "n", "giảng đường/thính phòng dạng bậc thang hình bán nguyệt"]
+    ]
+  }
+]

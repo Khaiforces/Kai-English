@@ -1,0 +1,477 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "The storage room needs reorganizing before the inspection, doesn't it?",
+    "questionVi": "Phòng kho cần được sắp xếp lại trước đợt thanh tra, phải không?",
+    "options": [
+      "I've already asked two colleagues to help with it.",
+      "The inspector arrived around noon.",
+      "We bought taller shelving units last year."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Phòng kho cần được sắp xếp lại trước đợt thanh tra, phải không?\n(A) Tôi đã nhờ hai đồng nghiệp phụ việc đó rồi.\n(B) Thanh tra viên đến vào khoảng giữa trưa.\n(C) Năm ngoái chúng ta đã mua kệ cao hơn.",
+    "explanation": "Câu hỏi đuôi xác nhận một việc cần làm, nên phản hồi nêu tiến độ xử lý là phù hợp: người nói đã nhờ người phụ dọn kho. Phương án nhắc tới thanh tra viên chỉ lặp từ mà không nói về việc dọn kho; phương án về kệ hàng nói chuyện mua sắm năm trước, lạc trọng tâm.",
+    "vocab": [
+      ["reorganize", "v", "sắp xếp lại"],
+      ["inspection", "n", "đợt thanh tra, kiểm tra"],
+      ["shelving", "n", "kệ, hệ thống kệ"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Do you happen to know how far the convention center is from the hotel?",
+    "questionVi": "Bạn có tình cờ biết trung tâm hội nghị cách khách sạn bao xa không?",
+    "options": [
+      "About a ten-minute walk, I think.",
+      "Yes, I know the convention center quite well.",
+      "The hotel was fully booked last week."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có tình cờ biết trung tâm hội nghị cách khách sạn bao xa không?\n(A) Tôi nghĩ đi bộ khoảng mười phút.\n(B) Vâng, tôi biết khá rõ trung tâm hội nghị.\n(C) Tuần trước khách sạn đã kín phòng.",
+    "explanation": "Câu hỏi gián tiếp hỏi về khoảng cách chứ không phải câu hỏi Có/Không, nên cần một câu trả lời nêu quãng đường hoặc thời gian di chuyển. Phương án khẳng định 'Vâng, tôi biết…' rơi vào bẫy trả lời Có/Không; phương án còn lại nói về tình trạng kín phòng, không liên quan.",
+    "vocab": [
+      ["convention center", "n", "trung tâm hội nghị"],
+      ["how far", "phr", "bao xa"],
+      ["fully booked", "phr", "kín phòng, hết chỗ"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "Should we extend the booth lease for another year or move to a larger hall?",
+    "questionVi": "Chúng ta nên gia hạn hợp đồng thuê gian hàng thêm một năm hay chuyển sang hội trường lớn hơn?",
+    "options": [
+      "Let's stay where we are until the renovation is finished.",
+      "Yes, the hall was quite crowded this year.",
+      "The lease was signed by the operations manager."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chúng ta nên gia hạn hợp đồng thuê gian hàng thêm một năm hay chuyển sang hội trường lớn hơn?\n(A) Hãy cứ ở chỗ cũ cho đến khi xong việc cải tạo.\n(B) Vâng, năm nay hội trường khá đông.\n(C) Hợp đồng thuê do giám đốc vận hành ký.",
+    "explanation": "Câu hỏi lựa chọn đòi hỏi chọn một trong hai hướng, và phương án chọn ở lại chỗ cũ có nêu thêm lý do nên là câu trả lời đúng. Phương án bắt đầu bằng 'Vâng' không giải quyết việc chọn phương án nào; phương án về người ký hợp đồng chỉ lặp từ 'hợp đồng thuê'.",
+    "vocab": [
+      ["booth", "n", "gian hàng"],
+      ["lease", "n", "hợp đồng thuê"],
+      ["renovation", "n", "việc cải tạo, sửa chữa"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "Didn't the technician replace the air filter on the cooling unit?",
+    "questionVi": "Chẳng phải kỹ thuật viên đã thay bộ lọc gió của máy làm lạnh rồi sao?",
+    "options": [
+      "He said he'd come back once the right part arrives.",
+      "Our electricity bill went up again this month.",
+      "The filters come in three standard sizes."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải kỹ thuật viên đã thay bộ lọc gió của máy làm lạnh rồi sao?\n(A) Anh ấy nói sẽ quay lại khi có đúng linh kiện.\n(B) Tháng này hóa đơn tiền điện của chúng ta lại tăng.\n(C) Bộ lọc có ba kích cỡ tiêu chuẩn.",
+    "explanation": "Câu hỏi phủ định ở đây hỏi thông tin về tiến độ công việc, và câu trả lời cho biết việc thay chưa xong vì thiếu linh kiện nên khớp ý. Phương án về hóa đơn tiền điện không liên quan tới việc bảo trì; phương án về kích cỡ bộ lọc lặp từ nhưng nói về thông số sản phẩm.",
+    "vocab": [
+      ["technician", "n", "kỹ thuật viên"],
+      ["filter", "n", "bộ lọc"],
+      ["part", "n", "linh kiện, phụ tùng"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "The orientation packet goes out to new hires on the first of the month, doesn't it?",
+    "questionVi": "Bộ tài liệu định hướng được gửi cho nhân viên mới vào ngày đầu tháng, phải không?",
+    "options": [
+      "Actually, it's now emailed on their first day.",
+      "The new hires seemed happy with the training.",
+      "I packed the brochures in the supply closet."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bộ tài liệu định hướng được gửi cho nhân viên mới vào ngày đầu tháng, phải không?\n(A) Thật ra, giờ nó được gửi qua email vào ngày đầu tiên đi làm của họ.\n(B) Các nhân viên mới có vẻ hài lòng với khóa đào tạo.\n(C) Tôi đã đóng gói mấy tập giới thiệu vào tủ đồ dùng.",
+    "explanation": "Câu hỏi đuôi nêu một mốc thời gian, và phản hồi đính chính lại cách gửi cùng mốc mới là câu trả lời trực tiếp. Phương án về mức độ hài lòng của nhân viên không xác nhận hay phủ định mốc gửi; phương án về việc đóng gói tập giới thiệu chỉ lặp từ 'tài liệu'.",
+    "vocab": [
+      ["orientation packet", "phr", "bộ tài liệu định hướng"],
+      ["new hire", "n", "nhân viên mới"],
+      ["go out", "phr", "được gửi đi, được phát hành"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Why don't we have the design team mock up the landing page first?",
+    "questionVi": "Sao chúng ta không để nhóm thiết kế dựng bản mẫu trang đích trước nhỉ?",
+    "options": [
+      "Good idea — then we can test it before launch.",
+      "Because the page went live last week.",
+      "The design team meets on Tuesdays."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Sao chúng ta không để nhóm thiết kế dựng bản mẫu trang đích trước nhỉ?\n(A) Ý hay đấy — sau đó có thể kiểm thử trước khi ra mắt.\n(B) Vì trang đã được đưa lên từ tuần trước.\n(C) Nhóm thiết kế họp vào thứ Ba.",
+    "explanation": "Câu 'Why don't we…' là lời đề xuất chứ không phải câu hỏi nguyên nhân, nên phản hồi tán thành kèm lợi ích là đúng hướng. Phương án mở đầu bằng 'Vì…' hiểu sai câu hỏi thành câu hỏi lý do; phương án về lịch họp chỉ lặp từ 'nhóm thiết kế'.",
+    "vocab": [
+      ["mock up", "v", "dựng bản mẫu, phác thảo"],
+      ["landing page", "n", "trang đích"],
+      ["launch", "n", "sự ra mắt, khởi chạy"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Could you tell me where the spare keys to the supply cabinet are kept?",
+    "questionVi": "Bạn có thể cho tôi biết chìa khóa dự phòng của tủ đồ dùng được để ở đâu không?",
+    "options": [
+      "In the top drawer of the reception desk.",
+      "Yes, I can tell you about it later.",
+      "We replaced the cabinet doors last spring."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể cho tôi biết chìa khóa dự phòng của tủ đồ dùng được để ở đâu không?\n(A) Trong ngăn kéo trên cùng của bàn lễ tân.\n(B) Vâng, lát nữa tôi có thể kể cho bạn.\n(C) Mùa xuân năm ngoái chúng ta đã thay cánh tủ.",
+    "explanation": "Câu hỏi gián tiếp hỏi vị trí nên cần câu trả lời chỉ chỗ để đồ; phương án nêu ngăn kéo bàn lễ tân đáp ứng đúng. Phương án 'Vâng, lát nữa…' là bẫy Có/Không; phương án về việc thay cánh tủ chỉ lặp từ 'tủ'.",
+    "vocab": [
+      ["spare key", "n", "chìa khóa dự phòng"],
+      ["drawer", "n", "ngăn kéo"],
+      ["reception desk", "n", "bàn lễ tân"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "The projector in the east conference room has been flickering all morning.",
+    "questionVi": "Máy chiếu ở phòng họp phía đông đã nhấp nháy suốt cả buổi sáng.",
+    "options": [
+      "I'll ask facilities to take a look at it.",
+      "The conference starts at ten sharp.",
+      "You might want to project your voice a little more."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Máy chiếu ở phòng họp phía đông đã nhấp nháy suốt cả buổi sáng.\n(A) Tôi sẽ nhờ bộ phận cơ sở vật chất kiểm tra nó.\n(B) Hội nghị bắt đầu đúng mười giờ.\n(C) Có lẽ bạn nên nói to hơn một chút.",
+    "explanation": "Câu trần thuật nêu sự cố thiết bị cần một phản hồi mang tính xử lý, và phương án nhờ bộ phận cơ sở vật chất kiểm tra là hợp lý. Phương án về giờ khai mạc không giải quyết sự cố; phương án sau chơi chữ 'project' (trình bày/phóng to) nên lạc nghĩa.",
+    "vocab": [
+      ["flicker", "v", "nhấp nháy"],
+      ["facilities", "n", "bộ phận cơ sở vật chất"],
+      ["project", "v", "trình bày, nói vang"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "Weren't the training manuals supposed to be delivered on Tuesday?",
+    "questionVi": "Chẳng phải bộ tài liệu tập huấn đã được giao vào thứ Ba sao?",
+    "options": [
+      "The printer says they'll be ready tomorrow morning.",
+      "The Tuesday session was moved to the auditorium.",
+      "We sent the manuals to two other branches."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải bộ tài liệu tập huấn đã được giao vào thứ Ba sao?\n(A) Nhà in nói sáng mai chúng sẽ xong.\n(B) Buổi học thứ Ba đã được chuyển sang hội trường lớn.\n(C) Chúng ta đã gửi tài liệu cho hai chi nhánh khác.",
+    "explanation": "Câu hỏi phủ định về một mốc giao hàng, và phản hồi cho biết tài liệu vẫn chưa xong nên giải thích đúng tình huống. Phương án về việc đổi phòng học lặp từ 'thứ Ba' nhưng nói về địa điểm; phương án về hai chi nhánh khác nói việc gửi nơi khác, không trả lời mốc giao.",
+    "vocab": [
+      ["manual", "n", "tài liệu hướng dẫn"],
+      ["auditorium", "n", "hội trường lớn"],
+      ["branch", "n", "chi nhánh"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "Would you rather have the proofs sent as PDFs or as printed copies?",
+    "questionVi": "Bạn muốn nhận bản in thử dưới dạng PDF hay bản in giấy?",
+    "options": [
+      "PDFs are easier to mark up, so let's do that.",
+      "Yes, the proofs looked fine to me.",
+      "The print shop closes at six."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn muốn nhận bản in thử dưới dạng PDF hay bản in giấy?\n(A) PDF dễ ghi chú sửa hơn, nên chọn cách đó đi.\n(B) Vâng, tôi thấy bản in thử ổn.\n(C) Cửa hàng in đóng cửa lúc sáu giờ.",
+    "explanation": "Câu hỏi lựa chọn cần một quyết định rõ ràng; phương án chọn PDF kèm lý do là câu trả lời đúng. Phương án bắt đầu bằng 'Vâng' không chọn bên nào; phương án về giờ đóng cửa chỉ lặp từ 'in' mà không liên quan.",
+    "vocab": [
+      ["proof", "n", "bản in thử"],
+      ["mark up", "v", "đánh dấu, ghi chú sửa"],
+      ["printed copy", "n", "bản in giấy"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "Shall I reserve the small meeting room for the client call?",
+    "questionVi": "Tôi có nên đặt trước phòng họp nhỏ cho cuộc gọi với khách hàng không?",
+    "options": [
+      "It's booked until four, so take the one upstairs.",
+      "Yes, the client called this morning.",
+      "I've reserved a table for lunch."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tôi có nên đặt trước phòng họp nhỏ cho cuộc gọi với khách hàng không?\n(A) Phòng đó bị đặt đến bốn giờ, nên lấy phòng trên lầu.\n(B) Vâng, khách hàng đã gọi sáng nay.\n(C) Tôi đã đặt bàn cho bữa trưa.",
+    "explanation": "Lời đề nghị 'Shall I…' cần được chấp nhận hoặc điều chỉnh; phương án báo phòng đã có người đặt và gợi ý phòng khác là cách phản hồi hữu ích. Phương án 'Vâng…' xác nhận sai đối tượng vì khách gọi không đồng nghĩa với việc đặt phòng; phương án về đặt bàn ăn trưa lặp từ 'đặt' nhưng khác việc.",
+    "vocab": [
+      ["reserve", "v", "đặt trước"],
+      ["booked", "adj", "đã được đặt hết"],
+      ["upstairs", "adv", "ở trên lầu"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "You've already forwarded the revised schedule to the subcontractors, haven't you?",
+    "questionVi": "Bạn đã chuyển lịch trình đã chỉnh sửa cho các nhà thầu phụ rồi, phải không?",
+    "options": [
+      "Not yet — I was waiting for your approval.",
+      "The subcontractors turned up early this morning.",
+      "The schedule was revised back in March."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn đã chuyển lịch trình đã chỉnh sửa cho các nhà thầu phụ rồi, phải không?\n(A) Chưa — tôi đang chờ anh duyệt.\n(B) Các nhà thầu phụ đến sớm sáng nay.\n(C) Lịch trình đã được chỉnh từ hồi tháng Ba.",
+    "explanation": "Câu hỏi đuôi hỏi xác nhận việc đã làm, nên câu trả lời phủ định kèm lý do trì hoãn là phù hợp. Phương án về việc nhà thầu đến sớm chỉ lặp từ 'nhà thầu phụ'; phương án nêu mốc chỉnh sửa cũ không trả lời việc đã gửi hay chưa.",
+    "vocab": [
+      ["forward", "v", "chuyển tiếp, gửi tiếp"],
+      ["subcontractor", "n", "nhà thầu phụ"],
+      ["approval", "n", "sự phê duyệt"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "Do you know whether the downtown branch stays open late on Fridays?",
+    "questionVi": "Bạn có biết chi nhánh trung tâm có mở cửa muộn vào thứ Sáu không?",
+    "options": [
+      "Until eight, I believe.",
+      "Yes, the downtown branch opened recently.",
+      "I stayed late to finish the inventory count."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có biết chi nhánh trung tâm có mở cửa muộn vào thứ Sáu không?\n(A) Tôi nghĩ là đến tám giờ.\n(B) Vâng, chi nhánh trung tâm mới mở gần đây.\n(C) Tôi ở lại muộn để kiểm kê hàng tồn.",
+    "explanation": "Câu hỏi gián tiếp dạng 'whether' cần thông tin về giờ đóng cửa; phương án nêu mốc tám giờ trả lời đúng. Phương án 'Vâng…' chỉ xác nhận việc mở chi nhánh, không nói giờ; phương án về việc ở lại muộn lặp từ 'muộn' nhưng kể việc khác.",
+    "vocab": [
+      ["branch", "n", "chi nhánh"],
+      ["stay open", "phr", "mở cửa (đến muộn)"],
+      ["inventory count", "n", "việc kiểm kê hàng tồn"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "The rental agreement doesn't include utilities, does it?",
+    "questionVi": "Hợp đồng thuê không bao gồm chi phí điện nước, phải không?",
+    "options": [
+      "No, we pay for electricity separately.",
+      "The rental car is still in the garage.",
+      "The utilities were upgraded last year."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Hợp đồng thuê không bao gồm chi phí điện nước, phải không?\n(A) Đúng vậy, chúng ta trả tiền điện riêng.\n(B) Chiếc xe thuê vẫn còn trong ga-ra.\n(C) Hệ thống điện nước đã được nâng cấp năm ngoái.",
+    "explanation": "Câu hỏi đuôi phủ định nên câu trả lời 'No' mang nghĩa đồng ý với điều phủ định; phương án xác nhận phải trả tiền điện riêng khớp ý. Phương án về xe thuê hiểu nhầm 'thuê' sang thuê xe; phương án về nâng cấp hệ thống chỉ lặp từ 'điện nước'.",
+    "vocab": [
+      ["rental agreement", "n", "hợp đồng thuê"],
+      ["utilities", "n", "chi phí điện nước"],
+      ["separately", "adv", "riêng, tách riêng"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "We're two chairs short for the board meeting this afternoon.",
+    "questionVi": "Chúng ta thiếu hai chiếc ghế cho cuộc họp hội đồng quản trị chiều nay.",
+    "options": [
+      "There are folding ones in the basement storeroom.",
+      "The board approved the budget yesterday.",
+      "The meeting ran nearly two hours."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chúng ta thiếu hai chiếc ghế cho cuộc họp hội đồng quản trị chiều nay.\n(A) Có mấy chiếc ghế gấp trong kho dưới tầng hầm.\n(B) Hội đồng đã duyệt ngân sách hôm qua.\n(C) Cuộc họp kéo dài gần hai tiếng.",
+    "explanation": "Câu trần thuật nêu tình trạng thiếu ghế cần phản hồi chỉ ra nguồn bổ sung; phương án về ghế gấp trong kho giải quyết đúng vấn đề. Phương án về việc duyệt ngân sách lặp từ 'hội đồng'; phương án về thời lượng họp chỉ lặp từ 'cuộc họp'.",
+    "vocab": [
+      ["short", "adj", "thiếu, không đủ"],
+      ["folding chair", "n", "ghế gấp"],
+      ["storeroom", "n", "kho chứa đồ"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "Could you let me know who signed off on the overtime request?",
+    "questionVi": "Bạn có thể cho tôi biết ai đã phê duyệt đề nghị làm thêm giờ không?",
+    "options": [
+      "Ms. Park did, before she left on Thursday.",
+      "Yes, I'll let you know tomorrow.",
+      "Overtime is paid at time and a half."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể cho tôi biết ai đã phê duyệt đề nghị làm thêm giờ không?\n(A) Cô Park đã duyệt, trước khi cô ấy nghỉ vào thứ Năm.\n(B) Vâng, mai tôi sẽ cho bạn biết.\n(C) Giờ làm thêm được trả gấp rưỡi.",
+    "explanation": "Câu hỏi gián tiếp hỏi về một người cụ thể, nên phản hồi nêu tên người phê duyệt là đúng. Phương án 'Vâng, mai tôi sẽ…' hoãn trả lời và không cung cấp thông tin; phương án về mức lương làm thêm lặp từ 'làm thêm giờ' nhưng nói về chế độ trả tiền.",
+    "vocab": [
+      ["sign off on", "phr", "phê duyệt, ký duyệt"],
+      ["overtime", "n", "giờ làm thêm"],
+      ["time and a half", "phr", "mức trả gấp rưỡi"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "Isn't it a little early to release the earnings figures?",
+    "questionVi": "Chẳng phải còn hơi sớm để công bố số liệu lợi nhuận sao?",
+    "options": [
+      "The board actually agreed to move the date up.",
+      "The figures were audited last quarter.",
+      "We published the report in a new format."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải còn hơi sớm để công bố số liệu lợi nhuận sao?\n(A) Thật ra hội đồng đã đồng ý đẩy ngày công bố lên sớm hơn.\n(B) Số liệu đã được kiểm toán từ quý trước.\n(C) Chúng ta đã công bố báo cáo theo một định dạng mới.",
+    "explanation": "Câu hỏi phủ định mang ý nghi ngại về thời điểm, và phản hồi giải thích rằng mốc đã được đẩy lên sớm là câu trả lời trực tiếp. Phương án về kiểm toán nói về khâu xử lý số liệu, không giải đáp thời điểm; phương án về định dạng mới chỉ lặp từ 'công bố'.",
+    "vocab": [
+      ["earnings figures", "n", "số liệu lợi nhuận"],
+      ["release", "v", "công bố, phát hành"],
+      ["move up", "phr", "đẩy lên sớm hơn"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "Should the name tags be printed in color or in black and white?",
+    "questionVi": "Thẻ tên nên được in màu hay in đen trắng?",
+    "options": [
+      "Black and white is fine — it's cheaper.",
+      "No, the tags arrived yesterday.",
+      "Everyone wrote their name in capital letters."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Thẻ tên nên được in màu hay in đen trắng?\n(A) Đen trắng là được — rẻ hơn.\n(B) Không, thẻ đã đến hôm qua.\n(C) Mọi người đều viết tên bằng chữ in hoa.",
+    "explanation": "Câu hỏi lựa chọn cần chọn một kiểu in; phương án chọn đen trắng kèm lý do chi phí là đúng. Phương án 'Không…' trả lời như câu hỏi Có/Không và nói về việc nhận thẻ; phương án về chữ in hoa lặp từ 'tên' nhưng nói cách viết tay.",
+    "vocab": [
+      ["name tag", "n", "thẻ tên"],
+      ["in color", "phr", "in màu"],
+      ["capital letters", "n", "chữ in hoa"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "Why don't we hold off on the announcement until the figures are verified?",
+    "questionVi": "Sao chúng ta không hoãn thông báo cho đến khi số liệu được xác minh nhỉ?",
+    "options": [
+      "Agreed — we don't want to have to retract anything.",
+      "The announcement was posted on Monday.",
+      "The figures were verified twice, actually."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Sao chúng ta không hoãn thông báo cho đến khi số liệu được xác minh nhỉ?\n(A) Đồng ý — chúng ta không muốn phải đính chính lại điều gì.\n(B) Thông báo đã được đăng hôm thứ Hai.\n(C) Thật ra số liệu đã được xác minh hai lần.",
+    "explanation": "Câu 'Why don't we…' là lời đề xuất hoãn lại, nên phản hồi tán thành kèm lý do tránh phải đính chính là đúng. Phương án nói thông báo đã đăng hôm thứ Hai mâu thuẫn với ý hoãn nhưng không bàn tiếp đề xuất; phương án về việc xác minh hai lần lặp từ 'xác minh' mà không trả lời đề xuất.",
+    "vocab": [
+      ["hold off", "phr", "hoãn lại, chờ đã"],
+      ["verify", "v", "xác minh"],
+      ["retract", "v", "rút lại, đính chính"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "Do you know how often the fire alarms are tested in this building?",
+    "questionVi": "Bạn có biết hệ thống báo cháy trong tòa nhà này được kiểm tra bao lâu một lần không?",
+    "options": [
+      "Once a quarter, according to the log.",
+      "Yes, the alarm went off last night.",
+      "The building was repainted in June."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có biết hệ thống báo cháy trong tòa nhà này được kiểm tra bao lâu một lần không?\n(A) Theo sổ theo dõi thì mỗi quý một lần.\n(B) Vâng, chuông báo đã kêu đêm qua.\n(C) Tòa nhà được sơn lại vào tháng Sáu.",
+    "explanation": "Câu hỏi gián tiếp hỏi tần suất nên cần câu trả lời nêu chu kỳ; phương án 'mỗi quý một lần' là đúng. Phương án 'Vâng…' chỉ kể việc chuông kêu chứ không nói tần suất kiểm tra; phương án về sơn lại tòa nhà không liên quan.",
+    "vocab": [
+      ["fire alarm", "n", "hệ thống báo cháy"],
+      ["quarter", "n", "quý (ba tháng)"],
+      ["log", "n", "sổ ghi chép, nhật ký"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "The copier on the third floor still isn't connected to the network, is it?",
+    "questionVi": "Máy photocopy ở tầng ba vẫn chưa được nối vào mạng, phải không?",
+    "options": [
+      "IT promised to finish the setup by noon.",
+      "The network password was changed last week.",
+      "Yes, the copier is on the third floor."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Máy photocopy ở tầng ba vẫn chưa được nối vào mạng, phải không?\n(A) Bộ phận IT hứa sẽ cài xong trước giữa trưa.\n(B) Mật khẩu mạng đã được đổi tuần trước.\n(C) Vâng, máy photocopy ở tầng ba.",
+    "explanation": "Câu hỏi đuôi phủ định xác nhận tình trạng chưa kết nối, và phản hồi nêu kế hoạch hoàn tất của bộ phận IT là câu trả lời đúng hướng. Phương án về mật khẩu mạng nói việc khác; phương án 'Vâng…' chỉ lặp lại vị trí máy, không xác nhận tình trạng kết nối.",
+    "vocab": [
+      ["copier", "n", "máy photocopy"],
+      ["connect to", "phr", "kết nối vào"],
+      ["setup", "n", "việc cài đặt, thiết lập"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "Would you prefer to meet at our office or at the client's site on Thursday?",
+    "questionVi": "Bạn muốn gặp ở văn phòng chúng ta hay ở chỗ khách hàng vào thứ Năm?",
+    "options": [
+      "Their site makes more sense — they have the samples there.",
+      "Yes, Thursday works well for me.",
+      "Our office was renovated last year."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn muốn gặp ở văn phòng chúng ta hay ở chỗ khách hàng vào thứ Năm?\n(A) Gặp ở chỗ họ hợp lý hơn — họ có mẫu sản phẩm ở đó.\n(B) Vâng, thứ Năm hợp với tôi.\n(C) Văn phòng của chúng ta đã được cải tạo năm ngoái.",
+    "explanation": "Câu hỏi lựa chọn địa điểm cần một quyết định kèm lý do; phương án chọn địa điểm của khách hàng vì có mẫu sản phẩm là đúng. Phương án 'Vâng…' chỉ xác nhận ngày, không chọn địa điểm; phương án về việc cải tạo văn phòng không trả lời câu hỏi.",
+    "vocab": [
+      ["prefer", "v", "thích hơn, muốn hơn"],
+      ["client's site", "n", "địa điểm của khách hàng"],
+      ["sample", "n", "mẫu sản phẩm"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "Do you have any idea why the shipment was held at customs?",
+    "questionVi": "Bạn có biết vì sao lô hàng bị giữ ở hải quan không?",
+    "options": [
+      "The paperwork was missing a signature.",
+      "The shipment left the port on Tuesday.",
+      "Yes, I have a few ideas about that."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có biết vì sao lô hàng bị giữ ở hải quan không?\n(A) Bộ hồ sơ thiếu một chữ ký.\n(B) Lô hàng đã rời cảng vào thứ Ba.\n(C) Vâng, tôi có vài ý về việc đó.",
+    "explanation": "Câu hỏi gián tiếp hỏi nguyên nhân nên cần nêu lý do cụ thể; phương án về hồ sơ thiếu chữ ký trả lời đúng. Phương án về việc rời cảng chỉ lặp từ 'lô hàng' và nói mốc khác; phương án 'Vâng, tôi có vài ý' không đưa ra nội dung nào.",
+    "vocab": [
+      ["customs", "n", "hải quan"],
+      ["hold", "v", "giữ lại"],
+      ["paperwork", "n", "hồ sơ, giấy tờ"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "The client asked for the invoice in euros this time.",
+    "questionVi": "Lần này khách hàng yêu cầu hóa đơn bằng đồng euro.",
+    "options": [
+      "I'll ask finance to convert the amount.",
+      "The client's office is in the old town.",
+      "The invoice number was wrong on the last one."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Lần này khách hàng yêu cầu hóa đơn bằng đồng euro.\n(A) Tôi sẽ nhờ bộ phận tài chính quy đổi số tiền.\n(B) Văn phòng của khách hàng nằm ở khu phố cổ.\n(C) Số hóa đơn lần trước bị sai.",
+    "explanation": "Câu trần thuật nêu yêu cầu mới về đồng tiền, nên phản hồi đề xuất quy đổi là cách xử lý hợp lý. Phương án về vị trí văn phòng khách hàng không liên quan; phương án về số hóa đơn sai chỉ lặp từ 'hóa đơn' mà không giải quyết yêu cầu.",
+    "vocab": [
+      ["invoice", "n", "hóa đơn"],
+      ["convert", "v", "quy đổi"],
+      ["finance", "n", "bộ phận tài chính"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "The interns will be joining us for the site visit, won't they?",
+    "questionVi": "Các thực tập sinh sẽ cùng chúng ta đi thăm công trường, phải không?",
+    "options": [
+      "Only three of them can make it.",
+      "The site was inspected twice last month.",
+      "The interns finished their reports early."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Các thực tập sinh sẽ cùng chúng ta đi thăm công trường, phải không?\n(A) Chỉ ba người trong số họ đi được.\n(B) Công trường đã được kiểm tra hai lần tháng trước.\n(C) Các thực tập sinh đã hoàn thành báo cáo sớm.",
+    "explanation": "Câu hỏi đuôi hỏi về số người tham gia, và phản hồi nêu con số cụ thể là đúng hướng. Phương án về việc kiểm tra công trường lặp từ 'công trường' nhưng nói hoạt động khác; phương án về báo cáo của thực tập sinh lặp từ 'thực tập sinh' mà không trả lời việc họ có đi hay không.",
+    "vocab": [
+      ["intern", "n", "thực tập sinh"],
+      ["site visit", "n", "chuyến thăm công trường"],
+      ["make it", "phr", "thu xếp được, đến được"]
+    ]
+  }
+]

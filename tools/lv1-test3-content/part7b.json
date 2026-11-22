@@ -1,0 +1,457 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following receipt and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 1: Bakery Order Receipt</p><p class=\"font-bold text-base mb-1\">SWEET CORNER BAKERY</p><p class=\"mb-1\"><strong>Order #:</strong> 4092 | <strong>Customer:</strong> Kevin Tran (Apex Office)</p><p class=\"mb-1\"><strong>Delivery Date:</strong> Friday, May 12, at 2:00 P.M.</p><p class=\"mb-1\"><strong>Items:</strong> 1 Large Chocolate Cake ($35) + 20 Cupcakes ($40)</p><p class=\"font-bold mb-2\">Total Paid: $75.00</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 2: E-mail</p><p class=\"mb-1\"><strong>To:</strong> orders@sweetcorner.com</p><p class=\"mb-1\"><strong>From:</strong> Kevin Tran (ktran@apexoffice.com)</p><p class=\"mb-2\"><strong>Subject:</strong> Change of delivery time — Order #4092</p><p class=\"mb-2\">Hello,</p><p class=\"mb-2\">Our office party on Friday, May 12, has been moved earlier. Could you please deliver our cake and cupcakes at 11:30 A.M. instead of 2:00 P.M.?</p><p>The address is still 210 Main Street, Floor 4. Please call me at 555-0133 when you arrive. Thank you!</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "What did Kevin Tran order from Sweet Corner Bakery?",
+        "options": [
+          "Bread and coffee",
+          "A chocolate cake and cupcakes",
+          "Cookies and fruit juice",
+          "Sandwiches and pies"
+        ],
+        "answer": "B",
+        "translation": "Kevin Tran đã đặt món gì từ Tiệm bánh Sweet Corner?",
+        "explanation": "Hóa đơn ghi 'Items: 1 Large Chocolate Cake ($35) + 20 Cupcakes ($40)'.",
+        "vocab": [
+          ["bakery", "n", "tiệm bánh"],
+          ["order", "n", "đơn đặt hàng"]
+        ]
+      },
+      {
+        "n": 177,
+        "q": "How much did Kevin Tran pay in total?",
+        "options": [
+          "$35.00",
+          "$40.00",
+          "$60.00",
+          "$75.00"
+        ],
+        "answer": "D",
+        "translation": "Tổng cộng Kevin Tran đã trả bao nhiêu tiền?",
+        "explanation": "Hóa đơn ghi 'Total Paid: $75.00'.",
+        "vocab": [
+          ["total", "n", "tổng cộng"],
+          ["receipt", "n", "biên lai, hóa đơn"]
+        ]
+      },
+      {
+        "n": 178,
+        "q": "Why did Kevin Tran send the e-mail?",
+        "options": [
+          "To cancel the order",
+          "To change the delivery time",
+          "To add more cupcakes",
+          "To ask for a refund"
+        ],
+        "answer": "B",
+        "translation": "Tại sao Kevin Tran gửi email?",
+        "explanation": "Tiêu đề email ghi 'Change of delivery time' (Thay đổi thời gian giao hàng).",
+        "vocab": [
+          ["delivery time", "n", "thời gian giao hàng"],
+          ["party", "n", "bữa tiệc"]
+        ]
+      },
+      {
+        "n": 179,
+        "q": "What time does Kevin want the food delivered now?",
+        "options": [
+          "At 11:30 A.M.",
+          "At 12:00 P.M.",
+          "At 2:00 P.M.",
+          "At 4:00 P.M."
+        ],
+        "answer": "A",
+        "translation": "Bây giờ Kevin muốn giao đồ ăn vào lúc mấy giờ?",
+        "explanation": "Email viết 'Could you please deliver our cake and cupcakes at 11:30 A.M. instead of 2:00 P.M.?'",
+        "vocab": [
+          ["instead of", "prep", "thay vì"],
+          ["deliver", "v", "giao hàng"]
+        ]
+      },
+      {
+        "n": 180,
+        "q": "What should the delivery driver do upon arriving at 210 Main Street?",
+        "options": [
+          "Leave the box outside",
+          "Go to Floor 2",
+          "Call Kevin at 555-0133",
+          "Ask for $75 in cash"
+        ],
+        "answer": "C",
+        "translation": "Tài xế giao hàng nên làm gì khi đến số 210 Main Street?",
+        "explanation": "Câu cuối email viết 'Please call me at 555-0133 when you arrive.'",
+        "vocab": [
+          ["address", "n", "địa chỉ"],
+          ["floor", "n", "tầng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and text messages.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 1: Advertisement</p><p class=\"font-bold text-base mb-1\">GREEN LEAF SUPERMARKET — MEMBER CARD</p><p class=\"mb-1\">Join our Member Club today for only <strong>$10 a year</strong>!</p><ul class=\"list-disc pl-5 mb-2\"><li>Get 10% off fresh fruits and vegetables every day.</li><li>Enjoy free parking for two hours when you spend $25 or more.</li><li>Earn points to get free coffee at our store cafe.</li></ul><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 2: Text Messages</p><p class=\"mb-1\"><strong>Mina (4:10 P.M.):</strong> Hi Leo! Are you going to Green Leaf Supermarket after work?</p><p class=\"mb-1\"><strong>Leo (4:12 P.M.):</strong> Yes! I need to buy apples and carrots for dinner.</p><p class=\"mb-1\"><strong>Mina (4:13 P.M.):</strong> Great! Did you get their member card yet? You can save 10% on fruit and vegetables.</p><p><strong>Leo (4:15 P.M.):</strong> Not yet, I will sign up at the customer desk today. It only costs $10!</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "How much does a Green Leaf Supermarket member card cost per year?",
+        "options": [
+          "$5",
+          "$10",
+          "$15",
+          "$25"
+        ],
+        "answer": "B",
+        "translation": "Thẻ hội viên siêu thị Green Leaf có giá bao nhiêu một năm?",
+        "explanation": "Quảng cáo ghi 'Join our Member Club today for only $10 a year!'",
+        "vocab": [
+          ["supermarket", "n", "siêu thị"],
+          ["member card", "n", "thẻ hội viên"]
+        ]
+      },
+      {
+        "n": 182,
+        "q": "How can members get two hours of free parking?",
+        "options": [
+          "By buying coffee at the cafe",
+          "By spending at least $25",
+          "By shopping before noon",
+          "By bringing their own bags"
+        ],
+        "answer": "B",
+        "translation": "Hội viên có thể được đỗ xe miễn phí hai giờ bằng cách nào?",
+        "explanation": "Quảng cáo ghi 'Enjoy free parking for two hours when you spend $25 or more.'",
+        "vocab": [
+          ["spend", "v", "chi tiêu"],
+          ["point", "n", "điểm thưởng"]
+        ]
+      },
+      {
+        "n": 183,
+        "q": "What does Leo plan to buy for dinner?",
+        "options": [
+          "Bread and milk",
+          "Chicken and rice",
+          "Apples and carrots",
+          "Coffee and cake"
+        ],
+        "answer": "C",
+        "translation": "Leo dự định mua gì cho bữa tối?",
+        "explanation": "Leo nhắn 'I need to buy apples and carrots for dinner.'",
+        "vocab": [
+          ["carrot", "n", "cà rốt"],
+          ["dinner", "n", "bữa tối"]
+        ]
+      },
+      {
+        "n": 184,
+        "q": "What discount will Leo get on his apples and carrots with the card?",
+        "options": [
+          "5% off",
+          "10% off",
+          "15% off",
+          "20% off"
+        ],
+        "answer": "B",
+        "translation": "Leo sẽ được giảm giá bao nhiêu cho táo và cà rốt khi dùng thẻ?",
+        "explanation": "Quảng cáo và Mina đều nhắc '10% off fresh fruits and vegetables'.",
+        "vocab": [
+          ["save", "v", "tiết kiệm"],
+          ["vegetable", "n", "rau củ"]
+        ]
+      },
+      {
+        "n": 185,
+        "q": "Where will Leo sign up for the member card?",
+        "options": [
+          "At his office",
+          "On a mobile app",
+          "At the customer desk",
+          "At the parking gate"
+        ],
+        "answer": "C",
+        "translation": "Leo sẽ đăng ký thẻ hội viên ở đâu?",
+        "explanation": "Tin nhắn cuối của Leo ghi 'I will sign up at the customer desk today.'",
+        "vocab": [
+          ["sign up", "v", "đăng ký"],
+          ["customer desk", "n", "quầy dịch vụ khách hàng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following schedule and two e-mails.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 1: Weekend Movie Schedule — Star Cinema</p><table class=\"w-full border-collapse border border-neutral-400 text-xs sm:text-sm mb-2\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-400 p-1.5 text-left\">Movie</th><th class=\"border border-neutral-400 p-1.5 text-left\">Type</th><th class=\"border border-neutral-400 p-1.5 text-left\">Saturday Times</th></tr></thead><tbody><tr><td class=\"border border-neutral-400 p-1.5\"><em>Ocean Train</em></td><td class=\"border border-neutral-400 p-1.5\">Action</td><td class=\"border border-neutral-400 p-1.5\">2:00 P.M., 7:00 P.M.</td></tr><tr><td class=\"border border-neutral-400 p-1.5\"><em>Happy Dog</em></td><td class=\"border border-neutral-400 p-1.5\">Comedy</td><td class=\"border border-neutral-400 p-1.5\">1:30 P.M., 5:00 P.M.</td></tr><tr><td class=\"border border-neutral-400 p-1.5\"><em>Winter Song</em></td><td class=\"border border-neutral-400 p-1.5\">Drama</td><td class=\"border border-neutral-400 p-1.5\">4:00 P.M., 8:00 P.M.</td></tr></tbody></table><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 2: E-mail</p><p class=\"mb-1\"><strong>From:</strong> Paul | <strong>To:</strong> Hannah | <strong>Subject:</strong> Saturday movie</p><p class=\"mb-2\">Hi Hannah, let's go to Star Cinema this Saturday! I want to see the comedy <em>Happy Dog</em> at 5:00 P.M. Afterward, we can eat dinner next door. Let me know if that time works for you.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 3: Reply E-mail</p><p class=\"mb-1\"><strong>From:</strong> Hannah | <strong>To:</strong> Paul | <strong>Subject:</strong> Re: Saturday movie</p><p>Hi Paul, 5:00 P.M. is great! I love comedies. I will buy our two tickets online tonight. Let's meet in front of the cinema at 4:40 P.M. so we have time to buy popcorn.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What type of movie is Ocean Train?",
+        "options": [
+          "Comedy",
+          "Drama",
+          "Action",
+          "History"
+        ],
+        "answer": "C",
+        "translation": "Phim Ocean Train thuộc thể loại nào?",
+        "explanation": "Bảng lịch chiếu ghi 'Ocean Train | Action'.",
+        "vocab": [
+          ["cinema", "n", "rạp chiếu phim"],
+          ["comedy", "n", "phim hài"]
+        ]
+      },
+      {
+        "n": 187,
+        "q": "Which movie do Paul and Hannah decide to watch?",
+        "options": [
+          "Ocean Train",
+          "Happy Dog",
+          "Winter Song",
+          "Star Cinema"
+        ],
+        "answer": "B",
+        "translation": "Paul và Hannah quyết định xem bộ phim nào?",
+        "explanation": "Paul đề nghị xem phim hài 'Happy Dog' lúc 5:00 P.M. và Hannah đồng ý.",
+        "vocab": [
+          ["decide", "v", "quyết định"],
+          ["afterward", "adv", "sau đó"]
+        ]
+      },
+      {
+        "n": 188,
+        "q": "What do they plan to do after the movie?",
+        "options": [
+          "Go to a park",
+          "Eat dinner next door",
+          "Watch another movie",
+          "Take a train home"
+        ],
+        "answer": "B",
+        "translation": "Họ dự định làm gì sau khi xem phim?",
+        "explanation": "Paul viết 'Afterward, we can eat dinner next door.'",
+        "vocab": [
+          ["next door", "adv", "ở ngay bên cạnh"],
+          ["online", "adv", "trực tuyến"]
+        ]
+      },
+      {
+        "n": 189,
+        "q": "Who will buy the movie tickets?",
+        "options": [
+          "Paul",
+          "Hannah",
+          "Paul's brother",
+          "The cinema manager"
+        ],
+        "answer": "B",
+        "translation": "Ai sẽ mua vé xem phim?",
+        "explanation": "Hannah viết 'I will buy our two tickets online tonight.'",
+        "vocab": [
+          ["ticket", "n", "vé"],
+          ["tonight", "adv", "tối nay"]
+        ]
+      },
+      {
+        "n": 190,
+        "q": "Why does Hannah want to meet at 4:40 P.M.?",
+        "options": [
+          "To eat dinner before the movie",
+          "To wait in line for tickets",
+          "To have time to buy popcorn",
+          "To see the 4:00 P.M. drama"
+        ],
+        "answer": "C",
+        "translation": "Tại sao Hannah muốn gặp lúc 4 giờ 40 chiều?",
+        "explanation": "Hannah viết 'Let's meet in front of the cinema at 4:40 P.M. so we have time to buy popcorn.'",
+        "vocab": [
+          ["popcorn", "n", "bỏng ngô"],
+          ["in front of", "prep", "ở phía trước"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following price list, form, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 1: City Bike Rental — Prices</p><ul class=\"list-disc pl-5 mb-2\"><li><strong>City Bike:</strong> $6 per hour | $20 per day</li><li><strong>Electric Bike:</strong> $12 per hour | $40 per day</li><li><strong>Helmet &amp; Lock:</strong> Free with every bike!</li></ul><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 2: Online Booking Form</p><p class=\"mb-1\"><strong>Name:</strong> Daniel Cho | <strong>Date:</strong> Sunday, August 20</p><p class=\"mb-1\"><strong>Bike Type:</strong> 2 City Bikes | <strong>Length:</strong> Full Day</p><p class=\"mb-2\"><strong>Pick-up Time:</strong> 9:00 A.M.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 3: Confirmation E-mail</p><p class=\"mb-1\"><strong>From:</strong> City Bike Rental | <strong>To:</strong> Daniel Cho</p><p>Thank you for your booking! Your two City Bikes are ready for Sunday, August 20, at 9:00 A.M. Please bring your photo ID to our shop at 15 Lake Street. You can pay by card or cash when you pick up the bikes.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "What is included for free with every bike rental?",
+        "options": [
+          "A water bottle",
+          "A map of the city",
+          "A helmet and a lock",
+          "An electric battery"
+        ],
+        "answer": "C",
+        "translation": "Thứ gì được tặng kèm miễn phí với mỗi lần thuê xe đạp?",
+        "explanation": "Bảng giá ghi 'Helmet & Lock: Free with every bike!' (Mũ bảo hiểm và khóa xe: Miễn phí).",
+        "vocab": [
+          ["helmet", "n", "mũ bảo hiểm"],
+          ["lock", "n", "ổ khóa"]
+        ]
+      },
+      {
+        "n": 192,
+        "q": "What kind of bikes did Daniel Cho book?",
+        "options": [
+          "One City Bike",
+          "Two City Bikes",
+          "One Electric Bike",
+          "Two Electric Bikes"
+        ],
+        "answer": "B",
+        "translation": "Daniel Cho đã đặt loại xe đạp nào?",
+        "explanation": "Phiếu đặt ghi 'Bike Type: 2 City Bikes'.",
+        "vocab": [
+          ["rental", "n", "việc cho thuê"],
+          ["booking", "n", "sự đặt trước"]
+        ]
+      },
+      {
+        "n": 193,
+        "q": "How much will Daniel pay in total for his booking?",
+        "options": [
+          "$12",
+          "$20",
+          "$40",
+          "$80"
+        ],
+        "answer": "C",
+        "translation": "Tổng cộng Daniel sẽ trả bao nhiêu tiền cho đơn đặt xe của mình?",
+        "explanation": "1 City Bike cả ngày giá $20, nên 2 City Bikes cả ngày ('Full Day') là $40.",
+        "vocab": [
+          ["full day", "n", "cả ngày"],
+          ["ready", "adj", "sẵn sàng"]
+        ]
+      },
+      {
+        "n": 194,
+        "q": "What must Daniel bring to the bike shop?",
+        "options": [
+          "His own helmet",
+          "A photo ID",
+          "A printed e-mail",
+          "A bike lock"
+        ],
+        "answer": "B",
+        "translation": "Daniel phải mang gì đến cửa hàng xe đạp?",
+        "explanation": "Email xác nhận ghi 'Please bring your photo ID to our shop at 15 Lake Street.'",
+        "vocab": [
+          ["photo ID", "n", "giấy tờ tùy thân có ảnh"],
+          ["shop", "n", "cửa hàng"]
+        ]
+      },
+      {
+        "n": 195,
+        "q": "When will Daniel pick up the bikes?",
+        "options": [
+          "On Saturday morning",
+          "On Saturday afternoon",
+          "On Sunday morning",
+          "On Sunday evening"
+        ],
+        "answer": "C",
+        "translation": "Khi nào Daniel sẽ đến lấy xe đạp?",
+        "explanation": "Phiếu đặt và email đều ghi 'Sunday, August 20, at 9:00 A.M.' (sáng Chủ nhật).",
+        "vocab": [
+          ["confirmation", "n", "sự xác nhận"],
+          ["cash", "n", "tiền mặt"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following notice, bus schedule, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 1: Company Notice</p><p class=\"mb-2\"><strong>Date Change — Annual Company Picnic!</strong><br>Due to heavy rain this Saturday, June 17, our company picnic at Silver Lake Park is moved to next <strong>Saturday, June 24</strong>. Lunch and games will still start at 11:00 A.M.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 2: Company Bus Schedule (June 24)</p><table class=\"w-full border-collapse border border-neutral-400 text-xs sm:text-sm mb-2\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-400 p-1.5 text-left\">Bus</th><th class=\"border border-neutral-400 p-1.5 text-left\">Pick-up Place</th><th class=\"border border-neutral-400 p-1.5 text-left\">Departure Time</th></tr></thead><tbody><tr><td class=\"border border-neutral-400 p-1.5\">Bus A</td><td class=\"border border-neutral-400 p-1.5\">Main Office</td><td class=\"border border-neutral-400 p-1.5\">9:30 A.M.</td></tr><tr><td class=\"border border-neutral-400 p-1.5\">Bus B</td><td class=\"border border-neutral-400 p-1.5\">North Train Station</td><td class=\"border border-neutral-400 p-1.5\">10:00 A.M.</td></tr></tbody></table><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-xs uppercase text-neutral-600 mb-1\">Document 3: E-mail</p><p class=\"mb-1\"><strong>To:</strong> Mark | <strong>From:</strong> Emily | <strong>Subject:</strong> Company Picnic</p><p>Hi Mark, I am glad they moved the picnic to June 24 because I am busy this weekend! I live near the North Train Station, so I will take Bus B at 10:00 A.M. Let's sit together at the park. I am bringing my camera!</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "Why was the company picnic moved to a new date?",
+        "options": [
+          "The park is closed",
+          "Because of heavy rain",
+          "The bus is broken",
+          "Too many people are busy"
+        ],
+        "answer": "B",
+        "translation": "Tại sao buổi dã ngoại công ty bị dời sang ngày mới?",
+        "explanation": "Thông báo ghi 'Due to heavy rain this Saturday, June 17, our company picnic ... is moved'.",
+        "vocab": [
+          ["annual", "adj", "hằng năm"],
+          ["heavy rain", "n", "mưa lớn"]
+        ]
+      },
+      {
+        "n": 197,
+        "q": "When will the picnic take place?",
+        "options": [
+          "On June 17",
+          "On June 20",
+          "On June 24",
+          "On June 30"
+        ],
+        "answer": "C",
+        "translation": "Buổi dã ngoại sẽ diễn ra khi nào?",
+        "explanation": "Thông báo ghi rõ buổi dã ngoại được dời sang 'Saturday, June 24'.",
+        "vocab": [
+          ["move", "v", "dời, chuyển"],
+          ["lake", "n", "hồ"]
+        ]
+      },
+      {
+        "n": 198,
+        "q": "What time does Bus A leave the Main Office?",
+        "options": [
+          "At 9:30 A.M.",
+          "At 10:00 A.M.",
+          "At 10:30 A.M.",
+          "At 11:00 A.M."
+        ],
+        "answer": "A",
+        "translation": "Xe buýt A rời Văn phòng Chính lúc mấy giờ?",
+        "explanation": "Bảng lịch xe ghi 'Bus A | Main Office | 9:30 A.M.'",
+        "vocab": [
+          ["departure", "n", "sự khởi hành"],
+          ["station", "n", "nhà ga, trạm"]
+        ]
+      },
+      {
+        "n": 199,
+        "q": "Why is Emily happy about the date change?",
+        "options": [
+          "She wants to ride Bus A.",
+          "She is busy on June 17.",
+          "She needs time to buy food.",
+          "She lives near the Main Office."
+        ],
+        "answer": "B",
+        "translation": "Tại sao Emily vui về việc đổi ngày?",
+        "explanation": "Emily viết 'I am glad they moved the picnic to June 24 because I am busy this weekend!'",
+        "vocab": [
+          ["glad", "adj", "vui mừng"],
+          ["busy", "adj", "bận rộn"]
+        ]
+      },
+      {
+        "n": 200,
+        "q": "What will Emily bring to the picnic?",
+        "options": [
+          "Board games",
+          "Sandwiches",
+          "An umbrella",
+          "Her camera"
+        ],
+        "answer": "D",
+        "translation": "Emily sẽ mang gì đến buổi dã ngoại?",
+        "explanation": "Câu cuối email viết 'I am bringing my camera!'",
+        "vocab": [
+          ["camera", "n", "máy ảnh"],
+          ["together", "adv", "cùng nhau"]
+        ]
+      }
+    ]
+  }
+]

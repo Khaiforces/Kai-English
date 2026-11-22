@@ -1,0 +1,254 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEMORANDUM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Department Managers<br>From: Finance Department<br>Re: Revised Travel Reimbursement Procedures</p><p class=\"mt-2\">To <strong>[131]</strong> the monthly expense cycle, the Finance Department has revised the procedures governing travel reimbursement. Effective next Monday, all claims must be submitted within ten working days of the trip's conclusion; submissions received after that deadline will be carried over to the following pay period. <strong>[132]</strong> To further reduce delays, employees are asked to attach itemized receipts for every expense exceeding $25, and any claim lacking supporting documentation will be returned to the submitter for <strong>[133]</strong>. These measures are intended to <strong>[134]</strong> faster approvals without compromising the accuracy of our records.</p><p class=\"mt-2\">Department managers are responsible for reviewing their teams' claims before they are forwarded to Finance. Claims submitted electronically through the staff portal will receive an automated confirmation, and this confirmation should be retained for the employee's records.</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": ["compress", "condense", "streamline", "constrain"],
+        "answer": "C",
+        "translation": "Để tinh giản chu kỳ thanh toán chi phí hằng tháng, Phòng Tài chính đã sửa đổi quy trình quản lý hoàn trả chi phí công tác.",
+        "explanation": "'Streamline' nghĩa là hợp lý hóa, tinh giản một quy trình hoặc chu kỳ làm việc để vận hành nhanh hơn. 'compress' (nén), 'condense' (cô đọng văn bản) và 'constrain' (hạn chế, kìm hãm) không đi tự nhiên với 'the monthly expense cycle'.",
+        "vocab": [
+          ["streamline", "v.", "tinh giản, hợp lý hóa"],
+          ["reimbursement", "n.", "việc hoàn trả chi phí"],
+          ["compromise", "v.", "làm suy giảm, ảnh hưởng xấu"]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the sentence that best completes blank [132].",
+        "options": [
+          "Employees who miss the ten-day cutoff may still request an advance from the payroll desk before the end of the quarter.",
+          "Consequently, any travel claim submitted without a manager's signature will automatically expire at the end of the month.",
+          "Most of the delays in the current cycle have resulted from incomplete documentation rather than from late submissions.",
+          "Although itemized receipts were previously optional for claims exceeding $25, they have now been eliminated altogether."
+        ],
+        "answer": "C",
+        "translation": "Phần lớn sự chậm trễ trong chu kỳ hiện tại xuất phát từ hồ sơ thiếu chứng từ hơn là từ việc nộp muộn.",
+        "explanation": "Câu liền sau nêu giải pháp 'To further reduce delays, employees are asked to attach itemized receipts...' (đính kèm hóa đơn chi tiết). Câu C nối trực tiếp nguyên nhân 'incomplete documentation' với giải pháp đính kèm hóa đơn ở câu sau. A lạc sang việc tạm ứng lương; B mâu thuẫn với câu trước ('carried over to the following pay period', không hết hạn); D trái ngược trực tiếp với yêu cầu ở câu sau.",
+        "vocab": [
+          ["incomplete", "adj.", "chưa đầy đủ"],
+          ["documentation", "n.", "chứng từ, tài liệu chứng minh"],
+          ["carry over", "phr. v.", "chuyển sang kỳ sau"]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Select the best answer to complete blank [133].",
+        "options": ["exemption", "endorsement", "arbitration", "rectification"],
+        "answer": "D",
+        "translation": "Mọi yêu cầu hoàn tiền thiếu chứng từ chứng minh sẽ được trả lại cho người nộp để chỉnh sửa, bổ sung cho đúng.",
+        "explanation": "Sau giới từ 'for' cần danh từ phù hợp với việc trả lại hồ sơ thiếu chứng từ: 'rectification' (sự chỉnh sửa, khắc phục thiếu sót). 'exemption' (sự miễn trừ), 'endorsement' (sự chứng thực/chấp thuận) và 'arbitration' (trọng tài phân xử) đều sai nghĩa.",
+        "vocab": [
+          ["rectification", "n.", "sự chỉnh sửa, khắc phục"],
+          ["itemized", "adj.", "được liệt kê chi tiết từng mục"],
+          ["submitter", "n.", "người nộp hồ sơ"]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Select the best answer to complete blank [134].",
+        "options": ["fabricate", "fluctuate", "facilitate", "exaggerate"],
+        "answer": "C",
+        "translation": "Các biện pháp này nhằm tạo điều kiện thuận lợi cho việc phê duyệt nhanh hơn mà không làm giảm tính chính xác của hồ sơ.",
+        "explanation": "'Facilitate' nghĩa là tạo điều kiện thuận lợi, giúp quy trình diễn ra suôn sẻ hơn ('facilitate faster approvals'). 'fabricate' (bịa đặt/chế tạo), 'fluctuate' (dao động) và 'exaggerate' (phóng đại) đều sai nghĩa.",
+        "vocab": [
+          ["facilitate", "v.", "tạo điều kiện thuận lợi, thúc đẩy"],
+          ["automated", "adj.", "tự động"],
+          ["retain", "v.", "lưu giữ"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following internal policy:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INTERNAL POLICY — INVENTORY CONTROL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">This policy establishes the procedures by which regional warehouses must manage their stock levels. Each facility is required to conduct a full inventory count at the close of every quarter, and any discrepancy exceeding two per cent must be reported to the logistics director within forty-eight hours. <strong>[135]</strong> Surplus stock identified during these counts should be <strong>[136]</strong> to branches reporting shortfalls rather than held in reserve indefinitely. To <strong>[137]</strong> the revised audit standards, all transfers between warehouses must be recorded in the central system on the same day they occur. Managers who fail to update the system in a timely manner will be <strong>[138]</strong> accountable for any resulting loss, and repeated offences may lead to disciplinary action.</p><p class=\"mt-2\">The logistics director will publish a summary of each count at the beginning of the following quarter.</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the sentence that best completes blank [135].",
+        "options": [
+          "Once an inventory discrepancy has been reported, the affected warehouse must suspend all outbound shipments for forty-eight hours.",
+          "These counts allow the logistics director to determine which facilities are holding excess stock and which are running short.",
+          "Facilities that complete their quarterly count early are exempt from reporting discrepancies exceeding two per cent.",
+          "Regional warehouses should therefore retain surplus stock indefinitely in case seasonal demand increases."
+        ],
+        "answer": "B",
+        "translation": "Các đợt kiểm kê này giúp giám đốc logistics xác định cơ sở nào đang giữ hàng dư thừa và cơ sở nào đang thiếu hụt.",
+        "explanation": "Câu trước nói về 'full inventory count' và câu sau đề cập 'Surplus stock identified during these counts should be reallocated to branches reporting shortfalls'. Câu B bắc cầu trực tiếp giữa đợt kiểm kê và việc phân biệt cơ sở thừa hàng ('excess stock') với cơ sở thiếu hàng ('running short'). A bịa quy định dừng xuất hàng và đứt mạch; C mâu thuẫn trực tiếp câu trước; D mâu thuẫn câu sau ('rather than held in reserve indefinitely').",
+        "vocab": [
+          ["excess stock", "n.", "hàng tồn dư thừa"],
+          ["shortfall", "n.", "sự thiếu hụt"],
+          ["indefinitely", "adv.", "vô thời hạn"]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": ["reallocated", "curtailed", "withheld", "postponed"],
+        "answer": "A",
+        "translation": "Lượng hàng dư thừa được phát hiện trong các đợt kiểm kê này cần được phân bổ lại cho các chi nhánh báo thiếu thay vì giữ dự trữ vô thời hạn.",
+        "explanation": "'Reallocated' (được phân bổ lại) kết hợp chuẩn với giới từ 'to' và đối lập trực tiếp với 'held in reserve indefinitely'. 'curtailed' (cắt giảm), 'withheld' (giữ lại) và 'postponed' (hoãn lại) không phù hợp việc chuyển hàng sang chi nhánh thiếu.",
+        "vocab": [
+          ["reallocate", "v.", "phân bổ lại"],
+          ["in reserve", "phr.", "để dự phòng"],
+          ["discrepancy", "n.", "sự sai lệch"]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the best answer to complete blank [137].",
+        "options": ["uphold", "waive", "circumvent", "rescind"],
+        "answer": "A",
+        "translation": "Để tuân thủ và duy trì các tiêu chuẩn kiểm toán sửa đổi, mọi hoạt động điều chuyển giữa các kho phải được ghi nhận vào hệ thống trung tâm trong ngày phát sinh.",
+        "explanation": "'Uphold' mang nghĩa tuân thủ, duy trì nghiêm chỉnh các quy chuẩn ('uphold the revised audit standards'). 'waive' (miễn trừ), 'circumvent' (lách luật/né tránh) và 'rescind' (hủy bỏ) đều trái với mục đích kiểm soát nội bộ.",
+        "vocab": [
+          ["uphold", "v.", "duy trì, tuân thủ nghiêm"],
+          ["audit standard", "n.", "tiêu chuẩn kiểm toán"],
+          ["disciplinary", "adj.", "thuộc về kỷ luật"]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Select the best answer to complete blank [138].",
+        "options": ["assigned", "entitled", "cleared", "held"],
+        "answer": "D",
+        "translation": "Các quản lý không cập nhật hệ thống kịp thời sẽ phải chịu trách nhiệm đối với mọi tổn thất phát sinh, và việc tái phạm có thể dẫn đến kỷ luật.",
+        "explanation": "Cụm kết hợp từ cố định 'be held accountable for' mang nghĩa bị quy trách nhiệm về điều gì. 'assigned', 'entitled' và 'cleared' không đi với 'accountable for' theo nghĩa này.",
+        "vocab": [
+          ["accountable", "adj.", "chịu trách nhiệm giải trình"],
+          ["timely", "adj.", "kịp thời"],
+          ["offence", "n.", "hành vi vi phạm"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following excerpt from an annual report:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">EXCERPT FROM THE ANNUAL REPORT</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">In its first year under the revised governance framework, the company made measurable progress toward the targets announced at the previous annual meeting. The board has instructed senior management to <strong>[139]</strong> the procurement guidelines so that environmental criteria carry the same weight as price in every tender evaluation. <strong>[140]</strong> These measures have already contributed to a twelve per cent reduction in energy consumption per unit of output, and management expects further gains as the programme matures.</p><p class=\"mt-2\">The board also confirmed its commitment to <strong>[141]</strong> full regulatory compliance across all subsidiaries, and it has budgeted additional resources for staff training. <strong>[142]</strong> the current trajectory, the company remains on course to achieve carbon neutrality by the end of the decade. Directors attribute this momentum to closer collaboration between the sourcing and sustainability teams.</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": ["rescind", "defer", "bypass", "revise"],
+        "answer": "D",
+        "translation": "Hội đồng quản trị đã chỉ đạo ban điều hành sửa đổi hướng dẫn mua sắm sao cho các tiêu chí môi trường có trọng số ngang bằng với giá cả trong mọi lần đánh giá hồ sơ thầu.",
+        "explanation": "'Revise' (sửa đổi, điều chỉnh lại) phù hợp với mục tiêu cập nhật hướng dẫn mua sắm để bổ sung trọng số môi trường. 'rescind' (hủy bỏ), 'defer' (hoãn lại) và 'bypass' (bỏ qua) đều trái với định hướng hành động của hội đồng.",
+        "vocab": [
+          ["revise", "v.", "sửa đổi, cập nhật"],
+          ["criterion", "n.", "tiêu chí (số nhiều: criteria)"],
+          ["tender", "n.", "hồ sơ dự thầu"]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the sentence that best completes blank [140].",
+        "options": [
+          "Because price remains the sole decisive criterion, low-cost bidders face no penalty for high emissions.",
+          "These revised guidelines will take effect only after energy consumption drops by twelve per cent.",
+          "Under the new rules, suppliers that cannot demonstrate responsible sourcing are ranked below comparable bidders that can.",
+          "Consequently, the board has suspended all tender evaluations until external auditors verify every supplier's annual report."
+        ],
+        "answer": "C",
+        "translation": "Theo quy định mới, các nhà cung cấp không chứng minh được nguồn cung ứng có trách nhiệm sẽ bị xếp hạng thấp hơn các nhà thầu tương đương làm được điều đó.",
+        "explanation": "Câu trước nêu quy tắc mới coi trọng tiêu chí môi trường ngang giá cả; câu C cụ thể hóa hệ quả chấm điểm nhà thầu theo quy tắc đó, đồng thời tạo tiền đề cho cụm 'These measures' ở câu sau. A trái ngược câu trước; B đảo ngược nhân quả với câu sau (giảm 12% là kết quả chứ không phải điều kiện tiên quyết); D bịa việc đình chỉ đấu thầu, mâu thuẫn với câu sau.",
+        "vocab": [
+          ["responsible sourcing", "phrase", "nguồn cung ứng có trách nhiệm"],
+          ["bidder", "n.", "nhà thầu tham gia đấu thầu"],
+          ["carbon neutrality", "n.", "trung hòa carbon"]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": ["achieving", "achieve", "achievement", "achieved"],
+        "answer": "A",
+        "translation": "Hội đồng quản trị cũng tái khẳng định cam kết đạt được sự tuân thủ pháp lý đầy đủ trên toàn bộ các công ty con.",
+        "explanation": "Trong cụm 'commitment to + V-ing', 'to' là giới từ nên động từ theo sau phải ở dạng danh động từ 'achieving' để nhận tân ngữ 'full regulatory compliance'.",
+        "vocab": [
+          ["commitment to", "n.", "cam kết đối với"],
+          ["regulatory compliance", "n.", "sự tuân thủ quy định pháp luật"],
+          ["subsidiary", "n.", "công ty con"]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Select the best answer to complete blank [142].",
+        "options": ["In", "On", "At", "By"],
+        "answer": "B",
+        "translation": "Trên quỹ đạo hiện tại, công ty vẫn đang đi đúng hướng để đạt mức trung hòa carbon vào cuối thập kỷ.",
+        "explanation": "Cụm kết hợp giới từ cố định là 'On the current trajectory' (theo quỹ đạo/đà tiến triển hiện tại), tương tự 'on track'.",
+        "vocab": [
+          ["trajectory", "n.", "quỹ đạo, đà tiến triển"],
+          ["on course", "adj. phr.", "đi đúng lộ trình"],
+          ["momentum", "n.", "động lực, đà tăng trưởng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following letter:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LETTER TO BUSINESS ACCOUNTS</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Valued Customer,</p><p class=\"mt-2\">We are writing to remind you of several changes to our ordering and delivery schedule that will take effect next month. To allow our warehouses to complete the annual <strong>[143]</strong> count, no orders will be processed between the 15th and the 18th of June. <strong>[144]</strong> Orders received before the 10th of June deadline will be shipped ahead of the closure, and any items currently out of stock will be dispatched as soon as they are replenished.</p><p class=\"mt-2\">We have also revised our returns procedure to <strong>[145]</strong> the refund process, so that approved returns are credited within five business days rather than the previous ten. Should an approved credit fail to appear in your account within that period, please contact our billing team, and we will <strong>[146]</strong> the matter within forty-eight hours.</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": ["dispatch", "inventory", "procurement", "billing"],
+        "answer": "B",
+        "translation": "Để các kho hàng của chúng tôi hoàn tất đợt kiểm kê hàng tồn kho hằng năm, sẽ không có đơn hàng nào được xử lý từ ngày 15 đến ngày 18 tháng 6.",
+        "explanation": "Cụm danh từ ghép cố định trong quản trị kho vận là 'annual inventory count' (đợt kiểm kê hàng tồn kho hằng năm), giải thích lý do phải tạm ngưng xử lý đơn hàng trong 4 ngày.",
+        "vocab": [
+          ["inventory count", "n.", "đợt kiểm kê hàng tồn kho"],
+          ["replenish", "v.", "bổ sung hàng hóa"],
+          ["dispatch", "v.", "gửi đi, xuất hàng"]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the sentence that best completes blank [144].",
+        "options": [
+          "Any orders placed between the 15th and the 18th of June will be prioritized ahead of earlier submissions.",
+          "Because the 10th of June deadline has already passed, customers must wait until July for replenishment.",
+          "During the closure, our billing team will automatically cancel all backordered items rather than dispatching them later.",
+          "We therefore advise customers to place any time-sensitive orders no later than the 10th of June."
+        ],
+        "answer": "D",
+        "translation": "Vì vậy, chúng tôi khuyến nghị quý khách đặt mọi đơn hàng gấp chậm nhất vào ngày 10 tháng 6.",
+        "explanation": "Câu trước thông báo tạm ngừng xử lý đơn từ 15–18/6; câu D đưa ra lời khuyên đặt hàng gấp trước 10/6, nối tự nhiên với câu sau giải thích số phận các đơn nhận trước mốc 10/6. A trái ngược câu trước; B mâu thuẫn thời gian với 'will take effect next month' và câu sau; C trái ngược trực tiếp với 'will be dispatched as soon as they are replenished'.",
+        "vocab": [
+          ["time-sensitive", "adj.", "gấp rút về thời gian"],
+          ["closure", "n.", "việc tạm đóng cửa"],
+          ["backordered", "adj.", "đang chờ nhập bổ sung"]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": ["expedite", "exceed", "exempt", "exert"],
+        "answer": "A",
+        "translation": "Chúng tôi cũng đã sửa đổi quy trình trả hàng nhằm đẩy nhanh quá trình hoàn tiền, giúp các khoản hoàn được ghi có trong năm ngày làm việc thay vì mười ngày như trước.",
+        "explanation": "'Expedite' nghĩa là xúc tiến, đẩy nhanh tiến độ ('expedite the refund process'), phù hợp với việc rút ngắn thời gian hoàn tiền từ 10 ngày xuống 5 ngày.",
+        "vocab": [
+          ["expedite", "v.", "đẩy nhanh, xúc tiến"],
+          ["credit", "v.", "ghi có vào tài khoản"],
+          ["procedure", "n.", "quy trình, thủ tục"]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Select the best answer to complete blank [146].",
+        "options": ["look into", "look up", "look over", "look after"],
+        "answer": "A",
+        "translation": "Nếu khoản tiền hoàn đã được duyệt không hiển thị trong tài khoản trong thời gian đó, vui lòng liên hệ bộ phận thanh toán và chúng tôi sẽ kiểm tra vấn đề trong vòng 48 giờ.",
+        "explanation": "'Look into' nghĩa là điều tra, xem xét một sự cố hay vấn đề ('look into the matter'). 'look up' (tra cứu), 'look over' (xem lướt qua) và 'look after' (chăm sóc/trông nom) đều không phù hợp.",
+        "vocab": [
+          ["look into", "phr. v.", "điều tra, xem xét kỹ"],
+          ["appear", "v.", "hiển thị, xuất hiện"],
+          ["billing", "n.", "bộ phận lập hóa đơn thanh toán"]
+        ]
+      }
+    ]
+  }
+]

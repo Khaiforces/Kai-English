@@ -1,0 +1,902 @@
+[
+  {
+    "n": 101,
+    "q": "Ms. Alvarez _______ the weekly sales figures on her laptop every Friday afternoon.",
+    "options": [
+      "check",
+      "checks",
+      "checked",
+      "checking"
+    ],
+    "answer": "B",
+    "translation": "Cô Alvarez kiểm tra số liệu bán hàng hằng tuần trên máy tính xách tay vào mỗi chiều thứ Sáu.",
+    "explanation": "Chủ ngữ số ít 'Ms. Alvarez' và trạng từ 'every Friday afternoon' chỉ thói quen nên động từ chia hiện tại đơn thêm -s: 'checks'.",
+    "vocab": [
+      [
+        "weekly",
+        "adj",
+        "hàng tuần"
+      ],
+      [
+        "figure",
+        "n",
+        "con số, số liệu"
+      ],
+      [
+        "laptop",
+        "n",
+        "máy tính xách tay"
+      ]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "Right now, the kitchen assistants _______ the lunch orders for more than forty guests.",
+    "options": [
+      "prepare",
+      "prepared",
+      "are preparing",
+      "prepares"
+    ],
+    "answer": "C",
+    "translation": "Ngay lúc này, các phụ bếp đang chuẩn bị các suất ăn trưa cho hơn bốn mươi khách.",
+    "explanation": "'Right now' chỉ hành động đang diễn ra nên dùng hiện tại tiếp diễn; chủ ngữ số nhiều 'the kitchen assistants' đi với 'are preparing'.",
+    "vocab": [
+      [
+        "prepare",
+        "v",
+        "chuẩn bị"
+      ],
+      [
+        "order",
+        "n",
+        "suất gọi món"
+      ],
+      [
+        "guest",
+        "n",
+        "khách"
+      ]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "Last Tuesday, the courier company _______ all packages to the downtown office before noon.",
+    "options": [
+      "delivered",
+      "delivers",
+      "has delivered",
+      "delivering"
+    ],
+    "answer": "A",
+    "translation": "Thứ Ba tuần trước, công ty chuyển phát đã giao tất cả bưu kiện đến văn phòng trung tâm trước buổi trưa.",
+    "explanation": "Trạng từ 'Last Tuesday' chỉ thời điểm đã qua nên dùng quá khứ đơn 'delivered'.",
+    "vocab": [
+      [
+        "courier",
+        "n",
+        "dịch vụ chuyển phát"
+      ],
+      [
+        "package",
+        "n",
+        "bưu kiện"
+      ],
+      [
+        "downtown",
+        "adj",
+        "ở trung tâm thành phố"
+      ]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "Ms. Duong has _______ sent the meeting minutes, so you can read them now.",
+    "options": [
+      "yet",
+      "already",
+      "ago",
+      "still"
+    ],
+    "answer": "B",
+    "translation": "Cô Duong đã gửi biên bản cuộc họp rồi, nên anh/chị có thể đọc ngay bây giờ.",
+    "explanation": "'already' đứng giữa 'has' và động từ phân từ để nói việc gì đó đã hoàn thành sớm hơn dự kiến; 'yet' chỉ dùng trong câu phủ định và nghi vấn.",
+    "vocab": [
+      [
+        "minutes",
+        "n",
+        "biên bản cuộc họp"
+      ],
+      [
+        "send",
+        "v",
+        "gửi"
+      ],
+      [
+        "meeting",
+        "n",
+        "cuộc họp"
+      ]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "Mr. Ito _______ at this insurance office since he graduated from college in 2015.",
+    "options": [
+      "worked",
+      "works",
+      "is working",
+      "has worked"
+    ],
+    "answer": "D",
+    "translation": "Ông Ito đã làm việc tại văn phòng bảo hiểm này từ khi tốt nghiệp đại học năm 2015.",
+    "explanation": "'since + mốc thời gian' đi với hiện tại hoàn thành để diễn tả hành động bắt đầu trong quá khứ và còn kéo dài đến hiện tại.",
+    "vocab": [
+      [
+        "insurance",
+        "n",
+        "bảo hiểm"
+      ],
+      [
+        "graduate",
+        "v",
+        "tốt nghiệp"
+      ],
+      [
+        "college",
+        "n",
+        "trường đại học, cao đẳng"
+      ]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The company _______ open a second branch in Hanoi early next year, according to the plan.",
+    "options": [
+      "is going to",
+      "goes to",
+      "has gone to",
+      "went to"
+    ],
+    "answer": "A",
+    "translation": "Theo kế hoạch, công ty sẽ mở chi nhánh thứ hai ở Hà Nội vào đầu năm sau.",
+    "explanation": "'be going to + động từ nguyên mẫu' diễn tả kế hoạch đã được định trước; chủ ngữ số ít 'the company' đi với 'is going to'.",
+    "vocab": [
+      [
+        "branch",
+        "n",
+        "chi nhánh"
+      ],
+      [
+        "according to",
+        "prep",
+        "theo"
+      ],
+      [
+        "plan",
+        "n",
+        "kế hoạch"
+      ]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "If you send the form today, the clerk _______ process it tomorrow morning.",
+    "options": [
+      "would",
+      "has",
+      "will",
+      "is"
+    ],
+    "answer": "C",
+    "translation": "Nếu anh/chị gửi biểu mẫu hôm nay, nhân viên sẽ xử lý nó vào sáng mai.",
+    "explanation": "Câu điều kiện loại 1: mệnh đề 'if' dùng hiện tại đơn, mệnh đề chính dùng 'will + động từ nguyên mẫu'.",
+    "vocab": [
+      [
+        "form",
+        "n",
+        "biểu mẫu"
+      ],
+      [
+        "process",
+        "v",
+        "xử lý"
+      ],
+      [
+        "clerk",
+        "n",
+        "nhân viên văn phòng"
+      ]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "The office windows on the second floor _______ every two weeks by a local cleaning service.",
+    "options": [
+      "clean",
+      "are cleaned",
+      "cleaning",
+      "is cleaned"
+    ],
+    "answer": "B",
+    "translation": "Cửa sổ văn phòng ở tầng hai được một dịch vụ vệ sinh địa phương lau chùi hai tuần một lần.",
+    "explanation": "Chủ ngữ số nhiều 'the office windows' là đối tượng được làm sạch nên dùng bị động 'are + V3'; 'is' chỉ hợp với chủ ngữ số ít.",
+    "vocab": [
+      [
+        "clean",
+        "v",
+        "làm sạch"
+      ],
+      [
+        "local",
+        "adj",
+        "địa phương"
+      ],
+      [
+        "service",
+        "n",
+        "dịch vụ"
+      ]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "The old factory _______ into a modern shopping center three years ago.",
+    "options": [
+      "was turned",
+      "turned",
+      "has turned",
+      "is turning"
+    ],
+    "answer": "A",
+    "translation": "Nhà máy cũ đã được chuyển thành một trung tâm thương mại hiện đại cách đây ba năm.",
+    "explanation": "'three years ago' chỉ quá khứ; 'the old factory' là đối tượng được chuyển đổi nên dùng bị động quá khứ 'was + V3'.",
+    "vocab": [
+      [
+        "factory",
+        "n",
+        "nhà máy"
+      ],
+      [
+        "modern",
+        "adj",
+        "hiện đại"
+      ],
+      [
+        "turn",
+        "v",
+        "biến đổi, chuyển thành"
+      ]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "All visitors _______ show a photo ID at the reception desk before entering the lab.",
+    "options": [
+      "might",
+      "could",
+      "would",
+      "must"
+    ],
+    "answer": "D",
+    "translation": "Tất cả khách đến thăm phải xuất trình giấy tờ tuỳ thân có ảnh tại quầy lễ tân trước khi vào phòng thí nghiệm.",
+    "explanation": "Cần diễn tả nghĩa vụ bắt buộc nên dùng 'must + động từ nguyên mẫu'; 'might, could, would' chỉ khả năng hoặc lịch sự.",
+    "vocab": [
+      [
+        "visitor",
+        "n",
+        "khách đến thăm"
+      ],
+      [
+        "reception desk",
+        "n",
+        "quầy lễ tân"
+      ],
+      [
+        "enter",
+        "v",
+        "đi vào"
+      ]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "All drivers _______ wear a safety belt whenever they are inside the delivery van.",
+    "options": [
+      "has to",
+      "have to",
+      "having to",
+      "had to"
+    ],
+    "answer": "B",
+    "translation": "Tất cả tài xế phải thắt dây an toàn mỗi khi ở trong xe tải giao hàng.",
+    "explanation": "Chủ ngữ số nhiều 'all drivers' đi với 'have to + động từ nguyên mẫu'; 'has to' chỉ dùng cho chủ ngữ số ít, 'had to' sai thì so với mệnh đề hiện tại.",
+    "vocab": [
+      [
+        "safety belt",
+        "n",
+        "dây an toàn"
+      ],
+      [
+        "delivery van",
+        "n",
+        "xe tải giao hàng"
+      ],
+      [
+        "whenever",
+        "conj",
+        "mỗi khi"
+      ]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "Employees _______ smoke inside the building at any time; the rule is very strict.",
+    "options": [
+      "don't have to",
+      "should",
+      "must not",
+      "may"
+    ],
+    "answer": "C",
+    "translation": "Nhân viên không được hút thuốc trong toà nhà bất cứ lúc nào; quy định này rất nghiêm ngặt.",
+    "explanation": "Điều cấm mạnh dùng 'must not + động từ nguyên mẫu'; 'don't have to' nghĩa là không cần thiết, không phải điều cấm.",
+    "vocab": [
+      [
+        "smoke",
+        "v",
+        "hút thuốc"
+      ],
+      [
+        "rule",
+        "n",
+        "quy định"
+      ],
+      [
+        "strict",
+        "adj",
+        "nghiêm ngặt"
+      ]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "Of all the hotels we checked, the Grand Palm offered the _______ rate for groups.",
+    "options": [
+      "lower",
+      "lowest",
+      "low",
+      "lowly"
+    ],
+    "answer": "B",
+    "translation": "Trong tất cả khách sạn chúng tôi đã kiểm tra, Grand Palm có mức giá thấp nhất cho đoàn.",
+    "explanation": "So sánh nhất dùng 'the + tính từ ngắn + -est'; 'lower' là so sánh hơn nên không đi với cụm 'of all the hotels'.",
+    "vocab": [
+      [
+        "rate",
+        "n",
+        "giá, mức giá"
+      ],
+      [
+        "offer",
+        "v",
+        "chào, cung cấp"
+      ],
+      [
+        "group",
+        "n",
+        "đoàn, nhóm"
+      ]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "The new scanner works much _______ than the old one and needs less care.",
+    "options": [
+      "faster",
+      "fastest",
+      "fast",
+      "more fast"
+    ],
+    "answer": "A",
+    "translation": "Máy quét mới hoạt động nhanh hơn nhiều so với máy cũ và cần ít bảo dưỡng hơn.",
+    "explanation": "Có 'than' nên phải dùng so sánh hơn; 'much' đứng trước để nhấn mạnh, tính từ ngắn thêm -er thành 'faster'.",
+    "vocab": [
+      [
+        "scanner",
+        "n",
+        "máy quét"
+      ],
+      [
+        "care",
+        "n",
+        "sự bảo dưỡng, chăm sóc"
+      ],
+      [
+        "work",
+        "v",
+        "hoạt động"
+      ]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "The accountant _______ prepared our tax report has moved to another firm.",
+    "options": [
+      "which",
+      "whose",
+      "whom",
+      "who"
+    ],
+    "answer": "D",
+    "translation": "Vị kế toán đã lập báo cáo thuế cho chúng tôi đã chuyển sang một công ty khác.",
+    "explanation": "Cần đại từ quan hệ chỉ người làm chủ ngữ cho mệnh đề theo sau nên dùng 'who'; 'which' chỉ dùng cho vật.",
+    "vocab": [
+      [
+        "accountant",
+        "n",
+        "kế toán"
+      ],
+      [
+        "tax",
+        "n",
+        "thuế"
+      ],
+      [
+        "firm",
+        "n",
+        "công ty"
+      ]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "The training program, _______ lasts three days, is designed for new supervisors.",
+    "options": [
+      "who",
+      "what",
+      "which",
+      "where"
+    ],
+    "answer": "C",
+    "translation": "Chương trình đào tạo kéo dài ba ngày này được thiết kế cho các giám sát viên mới.",
+    "explanation": "'The training program' là vật nên dùng 'which' làm chủ ngữ trong mệnh đề quan hệ; 'who' chỉ dùng cho người.",
+    "vocab": [
+      [
+        "program",
+        "n",
+        "chương trình"
+      ],
+      [
+        "design",
+        "v",
+        "thiết kế"
+      ],
+      [
+        "supervisor",
+        "n",
+        "giám sát viên"
+      ]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "_______ the weather was bad, the outdoor product launch went ahead as planned.",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "Unless"
+    ],
+    "answer": "B",
+    "translation": "Mặc dù thời tiết xấu, buổi ra mắt sản phẩm ngoài trời vẫn diễn ra đúng như kế hoạch.",
+    "explanation": "Hai mệnh đề tương phản nhau nên dùng liên từ 'Although'; 'Because' chỉ nguyên nhân, không hợp nghĩa.",
+    "vocab": [
+      [
+        "weather",
+        "n",
+        "thời tiết"
+      ],
+      [
+        "launch",
+        "n",
+        "buổi ra mắt"
+      ],
+      [
+        "as planned",
+        "adv",
+        "đúng như kế hoạch"
+      ]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "The morning flight was cancelled _______ a heavy storm hit the region overnight.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "so"
+    ],
+    "answer": "A",
+    "translation": "Chuyến bay buổi sáng bị huỷ vì một cơn bão lớn tràn qua vùng này trong đêm.",
+    "explanation": "Sau chỗ trống là một mệnh đề đầy đủ nên dùng 'because'; 'because of' phải đi với danh từ hoặc cụm danh từ.",
+    "vocab": [
+      [
+        "cancel",
+        "v",
+        "huỷ"
+      ],
+      [
+        "storm",
+        "n",
+        "cơn bão"
+      ],
+      [
+        "overnight",
+        "adv",
+        "qua đêm"
+      ]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "The staff members put _______ coats in the closet before the meeting.",
+    "options": [
+      "its",
+      "his",
+      "their",
+      "theirs"
+    ],
+    "answer": "C",
+    "translation": "Các nhân viên cất áo khoác vào tủ trước cuộc họp.",
+    "explanation": "Chủ ngữ số nhiều 'the staff members' nên dùng tính từ sở hữu 'their' đứng trước danh từ; 'theirs' là đại từ sở hữu, không đứng trước danh từ.",
+    "vocab": [
+      [
+        "closet",
+        "n",
+        "tủ áo"
+      ],
+      [
+        "coat",
+        "n",
+        "áo khoác"
+      ],
+      [
+        "staff member",
+        "n",
+        "nhân viên"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "Please return the signed forms to HR _______ Friday, as the training starts on Monday.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng nộp lại các biểu mẫu đã ký cho phòng nhân sự trước thứ Sáu, vì khoá đào tạo bắt đầu vào thứ Hai.",
+    "explanation": "Hạn chót để hoàn thành việc gì dùng 'by + mốc thời gian'; 'until' chỉ sự kéo dài liên tục đến mốc đó.",
+    "vocab": [
+      [
+        "signed",
+        "adj",
+        "đã ký"
+      ],
+      [
+        "return",
+        "v",
+        "nộp lại"
+      ],
+      [
+        "training",
+        "n",
+        "khoá đào tạo"
+      ]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "The safety workshop will begin _______ 9:30 a.m. tomorrow and finish around noon.",
+    "options": [
+      "on",
+      "in",
+      "for",
+      "at"
+    ],
+    "answer": "D",
+    "translation": "Buổi tập huấn an toàn sẽ bắt đầu lúc 9 giờ 30 sáng mai và kết thúc khoảng giữa trưa.",
+    "explanation": "Trước một giờ cụ thể dùng giới từ 'at'; 'on' dùng cho ngày, 'in' dùng cho tháng hoặc năm.",
+    "vocab": [
+      [
+        "workshop",
+        "n",
+        "buổi tập huấn"
+      ],
+      [
+        "begin",
+        "v",
+        "bắt đầu"
+      ],
+      [
+        "noon",
+        "n",
+        "buổi trưa"
+      ]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "The box of printer supplies _______ on the shelf next to the copier.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answer": "A",
+    "translation": "Thùng vật tư máy in ở trên kệ cạnh máy photocopy.",
+    "explanation": "Chủ ngữ chính là 'the box' (số ít), cụm 'of printer supplies' chỉ bổ nghĩa nên động từ chia số ít 'is'.",
+    "vocab": [
+      [
+        "supplies",
+        "n",
+        "vật tư, đồ dùng"
+      ],
+      [
+        "shelf",
+        "n",
+        "cái kệ"
+      ],
+      [
+        "box",
+        "n",
+        "thùng, hộp"
+      ]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "We did not have _______ information about the new supplier, so we asked for a catalog.",
+    "options": [
+      "many",
+      "much",
+      "a few",
+      "few"
+    ],
+    "answer": "B",
+    "translation": "Chúng tôi không có nhiều thông tin về nhà cung cấp mới, nên đã xin một cuốn danh mục sản phẩm.",
+    "explanation": "'information' là danh từ không đếm được nên dùng 'much' trong câu phủ định; 'many, a few, few' đi với danh từ đếm được.",
+    "vocab": [
+      [
+        "information",
+        "n",
+        "thông tin"
+      ],
+      [
+        "supplier",
+        "n",
+        "nhà cung cấp"
+      ],
+      [
+        "catalog",
+        "n",
+        "danh mục sản phẩm"
+      ]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "There are only _______ chairs left in the storage room, so we may need more.",
+    "options": [
+      "a little",
+      "much",
+      "a few",
+      "any"
+    ],
+    "answer": "C",
+    "translation": "Trong phòng kho chỉ còn vài cái ghế, nên có thể chúng tôi sẽ cần thêm.",
+    "explanation": "'chairs' là danh từ đếm được số nhiều nên dùng 'a few'; 'a little' và 'much' chỉ dùng với danh từ không đếm được.",
+    "vocab": [
+      [
+        "storage room",
+        "n",
+        "phòng kho"
+      ],
+      [
+        "chair",
+        "n",
+        "cái ghế"
+      ],
+      [
+        "left",
+        "adj",
+        "còn lại"
+      ]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "Ms. Park is looking for _______ reliable assistant who can speak both Korean and English.",
+    "options": [
+      "an",
+      "the",
+      "some",
+      "a"
+    ],
+    "answer": "D",
+    "translation": "Cô Park đang tìm một trợ lý đáng tin cậy, người có thể nói cả tiếng Hàn và tiếng Anh.",
+    "explanation": "Danh từ đếm được số ít 'assistant' được nhắc đến lần đầu nên dùng mạo từ không xác định 'a', đứng trước phụ âm.",
+    "vocab": [
+      [
+        "reliable",
+        "adj",
+        "đáng tin cậy"
+      ],
+      [
+        "assistant",
+        "n",
+        "trợ lý"
+      ],
+      [
+        "look for",
+        "v",
+        "tìm kiếm"
+      ]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "_______ report on page five was written by the marketing team last month.",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "Some"
+    ],
+    "answer": "A",
+    "translation": "Báo cáo ở trang năm được nhóm tiếp thị viết vào tháng trước.",
+    "explanation": "Danh từ 'report' đã được xác định nhờ cụm 'on page five' nên dùng mạo từ xác định 'The'.",
+    "vocab": [
+      [
+        "report",
+        "n",
+        "báo cáo"
+      ],
+      [
+        "marketing",
+        "n",
+        "tiếp thị"
+      ],
+      [
+        "page",
+        "n",
+        "trang"
+      ]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The sales staff enjoy _______ new products with customers at trade shows.",
+    "options": [
+      "introduce",
+      "introducing",
+      "to introduce",
+      "introduced"
+    ],
+    "answer": "B",
+    "translation": "Nhân viên kinh doanh thích giới thiệu sản phẩm mới với khách hàng tại các hội chợ thương mại.",
+    "explanation": "Sau động từ 'enjoy' phải dùng danh động từ (V-ing), không dùng động từ nguyên mẫu có 'to'.",
+    "vocab": [
+      [
+        "staff",
+        "n",
+        "nhân viên"
+      ],
+      [
+        "trade show",
+        "n",
+        "hội chợ thương mại"
+      ],
+      [
+        "customer",
+        "n",
+        "khách hàng"
+      ]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "The director plans _______ two more service centers in the south next year.",
+    "options": [
+      "to open",
+      "opening",
+      "open",
+      "opened"
+    ],
+    "answer": "A",
+    "translation": "Giám đốc dự định mở thêm hai trung tâm dịch vụ ở miền Nam vào năm sau.",
+    "explanation": "Sau động từ 'plan' dùng động từ nguyên mẫu có 'to' (plan to do something).",
+    "vocab": [
+      [
+        "director",
+        "n",
+        "giám đốc"
+      ],
+      [
+        "service center",
+        "n",
+        "trung tâm dịch vụ"
+      ],
+      [
+        "open",
+        "v",
+        "mở"
+      ]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "Please check the _______ of the package carefully before you sign for the delivery.",
+    "options": [
+      "weigh",
+      "heavy",
+      "weight",
+      "weighing"
+    ],
+    "answer": "C",
+    "translation": "Vui lòng kiểm tra trọng lượng của bưu kiện cẩn thận trước khi anh/chị ký nhận hàng.",
+    "explanation": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ, nên dùng 'weight'; 'weigh' là động từ, 'heavy' là tính từ.",
+    "vocab": [
+      [
+        "weight",
+        "n",
+        "trọng lượng"
+      ],
+      [
+        "package",
+        "n",
+        "bưu kiện"
+      ],
+      [
+        "delivery",
+        "n",
+        "việc giao hàng"
+      ]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "The technician fixed the machine _______ and then explained each step to the staff.",
+    "options": [
+      "quick",
+      "quicker",
+      "quickness",
+      "quickly"
+    ],
+    "answer": "D",
+    "translation": "Kỹ thuật viên sửa máy một cách nhanh chóng rồi giải thích từng bước cho nhân viên.",
+    "explanation": "Cần trạng từ bổ nghĩa cho động từ 'fixed' nên dùng 'quickly'; 'quick' là tính từ, 'quickness' là danh từ.",
+    "vocab": [
+      [
+        "technician",
+        "n",
+        "kỹ thuật viên"
+      ],
+      [
+        "machine",
+        "n",
+        "máy móc"
+      ],
+      [
+        "explain",
+        "v",
+        "giải thích"
+      ]
+    ]
+  }
+]

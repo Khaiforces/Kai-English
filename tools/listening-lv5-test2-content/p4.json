@@ -1,0 +1,692 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention passengers on Skyline Airways flight 412 to Denver. Due to a mechanical inspection, this flight has been moved from gate 22 to gate 35 in the east concourse. Boarding will now begin at 6:40 instead of 6:10, and the departure time has been revised to 7:25. Passengers who have already checked in at gate 22 should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about 12 minutes. If you are traveling with a connecting flight, our ground staff at gate 35 can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "audioVoiceText": "Attention passengers on Skyline Airways flight four hundred twelve to Denver. Due to a mechanical inspection, this flight has been moved from gate twenty-two to gate thirty-five in the east concourse. Boarding will now begin at six forty instead of six ten, and the departure time has been revised to seven twenty-five. Passengers who have already checked in at gate twenty-two should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about twelve minutes. If you are traveling with a connecting flight, our ground staff at gate thirty-five can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "questionText": "What is the main purpose of the announcement?",
+    "options": [
+      "To advertise a new route to Denver",
+      "To explain a change to a flight's gate and departure time",
+      "To describe the layout of the east concourse",
+      "To recruit ground staff for the airline"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Mục đích chính của thông báo là gì?\n(A) Quảng cáo một tuyến bay mới đến Denver\n(B) Giải thích việc thay đổi cổng và giờ khởi hành của một chuyến bay\n(C) Mô tả cách bố trí khu hành lang phía đông\n(D) Tuyển nhân viên mặt đất cho hãng hàng không",
+    "explanation": "Thông báo nêu chuyến bay bị chuyển từ cổng này sang cổng khác, giờ lên máy bay và giờ cất cánh đều được điều chỉnh, nên mục đích là thông báo các thay đổi về cổng và giờ. Việc nhắc đến Denver chỉ là điểm đến, không phải quảng cáo tuyến mới; khu hành lang phía đông được nhắc để giải thích lý do hành khách phải đi sớm.",
+    "vocab": [
+      ["mechanical", "adj", "thuộc máy móc, cơ khí"],
+      ["concourse", "n", "khu hành lang lớn trong sân bay"],
+      ["connecting flight", "phr", "chuyến bay nối tiếp"],
+      ["complimentary", "adj", "miễn phí"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention passengers on Skyline Airways flight 412 to Denver. Due to a mechanical inspection, this flight has been moved from gate 22 to gate 35 in the east concourse. Boarding will now begin at 6:40 instead of 6:10, and the departure time has been revised to 7:25. Passengers who have already checked in at gate 22 should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about 12 minutes. If you are traveling with a connecting flight, our ground staff at gate 35 can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "audioVoiceText": "Attention passengers on Skyline Airways flight four hundred twelve to Denver. Due to a mechanical inspection, this flight has been moved from gate twenty-two to gate thirty-five in the east concourse. Boarding will now begin at six forty instead of six ten, and the departure time has been revised to seven twenty-five. Passengers who have already checked in at gate twenty-two should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about twelve minutes. If you are traveling with a connecting flight, our ground staff at gate thirty-five can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "questionText": "What can passengers with a connecting flight have done at the new gate?",
+    "options": [
+      "A boarding pass printed and their connection confirmed",
+      "Their checked baggage brought to them",
+      "A seat upgrade at a reduced price",
+      "A refund of the fare difference"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hành khách có chuyến bay nối tiếp có thể được làm gì tại cổng mới?\n(A) In thẻ lên máy bay mới và xác nhận chuyến nối tiếp\n(B) Mang hành lý ký gửi đến cho họ\n(C) Được nâng hạng ghế với giá ưu đãi\n(D) Được hoàn lại phần chênh lệch giá vé",
+    "explanation": "Thông báo nói rõ nhân viên mặt đất tại cổng mới có thể in thẻ lên máy bay mới và xác nhận chuyến nối tiếp miễn phí. Hành lý, nâng hạng ghế và hoàn tiền đều không được nhắc đến trong bài.",
+    "vocab": [
+      ["boarding pass", "n", "thẻ lên máy bay"],
+      ["ground staff", "n", "nhân viên mặt đất"],
+      ["at no charge", "phr", "không mất phí"],
+      ["connection", "n", "sự nối chuyến"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention passengers on Skyline Airways flight 412 to Denver. Due to a mechanical inspection, this flight has been moved from gate 22 to gate 35 in the east concourse. Boarding will now begin at 6:40 instead of 6:10, and the departure time has been revised to 7:25. Passengers who have already checked in at gate 22 should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about 12 minutes. If you are traveling with a connecting flight, our ground staff at gate 35 can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "audioVoiceText": "Attention passengers on Skyline Airways flight four hundred twelve to Denver. Due to a mechanical inspection, this flight has been moved from gate twenty-two to gate thirty-five in the east concourse. Boarding will now begin at six forty instead of six ten, and the departure time has been revised to seven twenty-five. Passengers who have already checked in at gate twenty-two should make their way to the new gate immediately, as the moving walkways in the east concourse are currently out of service and the walk takes about twelve minutes. If you are traveling with a connecting flight, our ground staff at gate thirty-five can print a new boarding pass and confirm your connection at no charge. We apologize for the disruption. Complimentary coffee and tea will be available near the service desk until boarding begins.",
+    "questionText": "Why are passengers advised to go to the new gate right away?",
+    "options": [
+      "The gate will close earlier than usual.",
+      "The walk there will take longer than normal.",
+      "Security screening ends at six ten.",
+      "Their names will be called over the speakers."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao hành khách được khuyên đến cổng mới ngay lập tức?\n(A) Cổng sẽ đóng sớm hơn thường lệ.\n(B) Việc đi bộ đến đó sẽ lâu hơn bình thường.\n(C) Việc kiểm tra an ninh kết thúc lúc sáu giờ mười.\n(D) Tên của họ sẽ được gọi qua loa.",
+    "explanation": "Lý do được nêu là các băng chuyền đi bộ đang ngừng hoạt động nên phải mất khoảng mười hai phút để đi bộ, tức là lâu hơn bình thường. Bài không nói cổng đóng sớm, không nhắc đến việc gọi tên, và mốc sáu giờ mười chỉ là giờ lên máy bay cũ.",
+    "vocab": [
+      ["moving walkway", "n", "băng chuyền đi bộ"],
+      ["out of service", "phr", "ngừng hoạt động"],
+      ["revise", "v", "điều chỉnh, sửa lại"],
+      ["disruption", "n", "sự gián đoạn"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at 2:00 in room 210 for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the 15th, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors 3 and 5. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "audioVoiceText": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at two o'clock in room two hundred ten for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the fifteenth, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors three and five. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "questionText": "What is the main purpose of the bulletin?",
+    "options": [
+      "To introduce a new finance director",
+      "To summarize several workplace updates",
+      "To explain how to claim travel expenses",
+      "To announce the results of a staff survey"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Mục đích chính của bản tin là gì?\n(A) Giới thiệu giám đốc tài chính mới\n(B) Tóm tắt một số thông tin cập nhật tại nơi làm việc\n(C) Giải thích cách đòi tiền công tác phí\n(D) Công bố kết quả một cuộc khảo sát nhân viên",
+    "explanation": "Bản tin lần lượt điểm ba nội dung: hệ thống chi phí mới, tuyến xe đưa đón thêm điểm dừng và việc đóng cửa căn tin, nên đây là bản tóm tắt nhiều thông tin cập nhật. Hệ thống chi phí chỉ là một trong ba mục nên không thể là mục đích duy nhất; không có giám đốc mới hay khảo sát nào được nhắc đến.",
+    "vocab": [
+      ["bulletin", "n", "bản tin nội bộ"],
+      ["migration", "n", "việc chuyển đổi hệ thống"],
+      ["receipt", "n", "hóa đơn, biên lai"],
+      ["shuttle", "n", "xe đưa đón"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at 2:00 in room 210 for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the 15th, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors 3 and 5. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "audioVoiceText": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at two o'clock in room two hundred ten for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the fifteenth, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors three and five. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "questionText": "What will employees have to do starting next month?",
+    "options": [
+      "Submit receipts through an online portal",
+      "Send expense reports directly to their manager",
+      "Attend a training session every month",
+      "Keep paper receipts for one year"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Từ tháng sau nhân viên sẽ phải làm gì?\n(A) Gửi hóa đơn qua một cổng thông tin trực tuyến\n(B) Gửi báo cáo chi phí trực tiếp cho quản lý\n(C) Tham dự một buổi tập huấn mỗi tháng\n(D) Giữ hóa đơn giấy trong một năm",
+    "explanation": "Bài nói nêu rõ từ đầu tháng sau mọi hóa đơn phải được tải lên qua cổng mới thay vì gửi email cho quản lý. Tập huấn diễn ra hằng tuần và chỉ dành cho người cần trợ giúp, không phải nghĩa vụ hằng tháng; việc giữ hóa đơn giấy không được nhắc đến.",
+    "vocab": [
+      ["upload", "v", "tải lên"],
+      ["portal", "n", "cổng thông tin trực tuyến"],
+      ["expense", "n", "chi phí"],
+      ["facilities", "n", "bộ phận cơ sở vật chất"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following announcement:",
+    "audioScript": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at 2:00 in room 210 for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the 15th, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors 3 and 5. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "audioVoiceText": "Good afternoon, and welcome to this week's edition of the Meridian staff bulletin. Three items tonight. First, the finance team has completed the migration of our expense system, and from the first of next month all receipts must be uploaded through the new portal rather than emailed to your manager. Training sessions will run every Wednesday at two o'clock in room two hundred ten for anyone who needs help. Second, the employee shuttle will add a stop at the Northgate research park starting on the fifteenth, following requests from staff who live in that area. Finally, the cafeteria will be closed for kitchen repairs next Thursday and Friday, so please use the vending machines on floors three and five. Full details are posted on the intranet, and questions can go to the facilities mailbox.",
+    "questionText": "What is offered to staff who need assistance with the new system?",
+    "options": [
+      "Weekly training sessions in room 210",
+      "A personal finance advisor",
+      "Extra paid leave",
+      "A one-time cash allowance"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Nhân viên cần hỗ trợ với hệ thống mới được cung cấp gì?\n(A) Các buổi tập huấn hằng tuần tại phòng 210\n(B) Một cố vấn tài chính cá nhân\n(C) Thêm ngày nghỉ có lương\n(D) Một khoản trợ cấp tiền mặt một lần",
+    "explanation": "Bài nói cho biết các buổi tập huấn sẽ diễn ra vào thứ Tư hằng tuần lúc hai giờ tại phòng 210 cho những ai cần giúp đỡ. Các phương án còn lại là những ưu đãi không hề xuất hiện trong bản tin.",
+    "vocab": [
+      ["session", "n", "buổi học, buổi tập huấn"],
+      ["intranet", "n", "mạng nội bộ"],
+      ["vending machine", "n", "máy bán hàng tự động"],
+      ["repair", "n", "việc sửa chữa"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts 70 minutes, and we will stop halfway for water.",
+    "audioVoiceText": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts seventy minutes, and we will stop halfway for water.",
+    "questionText": "What is the speaker doing?",
+    "options": [
+      "Training new machine operators",
+      "Explaining safety rules before a factory tour",
+      "Inspecting the paint shop for faults",
+      "Introducing the company's security guards"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói đang làm gì?\n(A) Đào tạo nhân viên vận hành máy mới\n(B) Giải thích các quy tắc an toàn trước chuyến tham quan nhà máy\n(C) Kiểm tra lỗi ở xưởng sơn\n(D) Giới thiệu đội bảo vệ của công ty",
+    "explanation": "Người nói mở đầu bằng việc yêu cầu khách xem lại các quy tắc an toàn trước khi tham quan khu sản xuất, rồi lần lượt nêu mũ bảo hộ, vạch vàng, lối thoát hiểm và quy định chụp ảnh. Đây không phải buổi đào tạo vận hành máy, và xưởng sơn chỉ được nhắc trong quy định về chụp ảnh.",
+    "vocab": [
+      ["helmet", "n", "mũ bảo hộ"],
+      ["assembly hall", "n", "nhà lắp ráp"],
+      ["warden", "n", "người phụ trách an toàn"],
+      ["sensor", "n", "cảm biến"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts 70 minutes, and we will stop halfway for water.",
+    "audioVoiceText": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts seventy minutes, and we will stop halfway for water.",
+    "questionText": "Where should visitors go if they hear a continuous alarm?",
+    "options": [
+      "To the reception desk",
+      "To the parking lot marker with the blue sign",
+      "To the paint shop entrance",
+      "To the assembly hall exit on the right"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Khách tham quan nên đi đâu nếu nghe thấy tiếng chuông báo động liên tục?\n(A) Đến quầy lễ tân\n(B) Đến cột mốc ở bãi đỗ xe có biển màu xanh\n(C) Đến lối vào xưởng sơn\n(D) Đến lối ra của nhà lắp ráp bên phải",
+    "explanation": "Bài nói hướng dẫn đi bộ đến lối thoát gần nhất ở phía sau bên trái và tập trung tại cột mốc có biển xanh ở bãi đỗ xe để người phụ trách điểm danh. Lễ tân chỉ là nơi nhận mũ và kính; lối thoát được nói là phía sau bên trái chứ không phải bên phải.",
+    "vocab": [
+      ["continuous", "adj", "liên tục"],
+      ["exit", "n", "lối thoát"],
+      ["gather", "v", "tập trung"],
+      ["marker", "n", "cột mốc, biển đánh dấu"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts 70 minutes, and we will stop halfway for water.",
+    "audioVoiceText": "Before we begin the tour of the production floor, please take a moment to review these safety rules. Everyone must wear the white helmet and the safety glasses you received at reception; visitors in open shoes will not be allowed past this point. Stay behind the yellow line at all times, and never reach into a machine, even if it appears to be stopped. If you hear a continuous alarm, walk, do not run, to the nearest exit, which is behind you to the left, and gather at the parking lot marker with the blue sign. Our emergency wardens will count heads there. Finally, photographs are permitted in the assembly hall but not in the paint shop, where camera flashes can affect the sensors. The tour lasts seventy minutes, and we will stop halfway for water.",
+    "questionText": "What can be inferred about a visitor wearing sandals?",
+    "options": [
+      "He will be given a pair of shoes at reception.",
+      "He will not be permitted to join the tour.",
+      "He will be limited to the assembly hall.",
+      "He will need to sign an extra form."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Có thể suy ra gì về một khách tham quan đi dép quai hở?\n(A) Người đó sẽ được phát một đôi giày tại quầy lễ tân.\n(B) Người đó sẽ không được tham gia chuyến tham quan.\n(C) Người đó sẽ chỉ được vào nhà lắp ráp.\n(D) Người đó sẽ phải ký thêm một mẫu đơn.",
+    "explanation": "Bài nói quy định khách đi giày hở mũi sẽ không được đi qua điểm kiểm soát này, tức là không được vào khu sản xuất cùng đoàn. Không có việc phát giày thay thế, không giới hạn riêng ở nhà lắp ráp và cũng không nhắc đến giấy tờ bổ sung.",
+    "vocab": [
+      ["open shoes", "phr", "giày dép hở mũi/chân"],
+      ["reach into", "phr", "thò tay vào"],
+      ["permit", "v", "cho phép"],
+      ["flash", "n", "đèn chớp"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Welcome to gallery 4 of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in 1794, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about 200 sheets in a day. The press was donated by the Hartley family in 1962, when the last mill in the region closed, and it stood outdoors in the courtyard for 30 years before our conservation team spent 4 years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every 15 minutes.",
+    "audioVoiceText": "Welcome to gallery four of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in seventeen ninety-four, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about two hundred sheets in a day. The press was donated by the Hartley family in nineteen sixty-two, when the last mill in the region closed, and it stood outdoors in the courtyard for thirty years before our conservation team spent four years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every fifteen minutes.",
+    "questionText": "What is the speaker doing?",
+    "options": [
+      "Describing an object on display in a museum",
+      "Explaining how to restore old furniture",
+      "Recruiting volunteers for a research project",
+      "Announcing the opening of a new paper mill"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người nói đang làm gì?\n(A) Mô tả một hiện vật đang được trưng bày trong bảo tàng\n(B) Giải thích cách phục chế đồ nội thất cũ\n(C) Tuyển tình nguyện viên cho một dự án nghiên cứu\n(D) Công bố việc khai trương một nhà máy giấy mới",
+    "explanation": "Người nói giới thiệu phòng trưng bày, chỉ vào chiếc máy ép giấy thủ công và giải thích nguồn gốc, cách hoạt động, người hiến tặng cùng quá trình phục chế, đúng kiểu thuyết minh hiện vật. Việc phục chế chỉ là một chi tiết trong câu chuyện, không phải hướng dẫn kỹ thuật; không có hoạt động tuyển người hay khai trương nhà máy.",
+    "vocab": [
+      ["exhibition", "n", "cuộc triển lãm"],
+      ["hand press", "n", "máy ép thủ công"],
+      ["donate", "v", "quyên tặng, hiến tặng"],
+      ["conservation", "n", "việc bảo tồn, phục chế"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Welcome to gallery 4 of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in 1794, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about 200 sheets in a day. The press was donated by the Hartley family in 1962, when the last mill in the region closed, and it stood outdoors in the courtyard for 30 years before our conservation team spent 4 years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every 15 minutes.",
+    "audioVoiceText": "Welcome to gallery four of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in seventeen ninety-four, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about two hundred sheets in a day. The press was donated by the Hartley family in nineteen sixty-two, when the last mill in the region closed, and it stood outdoors in the courtyard for thirty years before our conservation team spent four years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every fifteen minutes.",
+    "questionText": "How long did the conservation team work on the press?",
+    "options": [
+      "About two hundred days",
+      "Nearly thirty years",
+      "Four years",
+      "One century"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhóm phục chế đã làm việc trên chiếc máy ép trong bao lâu?\n(A) Khoảng hai trăm ngày\n(B) Gần ba mươi năm\n(C) Bốn năm\n(D) Một thế kỷ",
+    "explanation": "Bài nói cho biết chiếc máy đứng ngoài sân gần ba mươi năm trước khi nhóm phục chế dành bốn năm để khôi phục nó. Con số hai trăm là số tờ giấy một thợ lành nghề làm được mỗi ngày, còn ba mươi năm là thời gian máy ở ngoài trời.",
+    "vocab": [
+      ["damp", "adj", "ẩm, hơi ướt"],
+      ["fiber", "n", "sợi, xơ"],
+      ["restore", "v", "phục hồi, khôi phục"],
+      ["courtyard", "n", "sân trong"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Welcome to gallery 4 of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in 1794, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about 200 sheets in a day. The press was donated by the Hartley family in 1962, when the last mill in the region closed, and it stood outdoors in the courtyard for 30 years before our conservation team spent 4 years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every 15 minutes.",
+    "audioVoiceText": "Welcome to gallery four of the Ashcombe Museum, and to our exhibition on the history of papermaking. The object in front of you is a hand press built in seventeen ninety-four, a century after the first paper mills opened along this river. Notice the wooden screw at the top; turning it pressed damp fibers against a felt sheet, and a skilled worker could produce about two hundred sheets in a day. The press was donated by the Hartley family in nineteen sixty-two, when the last mill in the region closed, and it stood outdoors in the courtyard for thirty years before our conservation team spent four years restoring it. Please do not touch the press, as the oils on your fingers can damage the wood. The next room continues with machine-made paper, and the film there starts every fifteen minutes.",
+    "questionText": "Why are visitors asked not to touch the press?",
+    "options": [
+      "Its parts are still wet from cleaning.",
+      "Oils from their skin could harm the wood.",
+      "It may set off a security alarm.",
+      "It is scheduled to be moved this week."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao khách tham quan được yêu cầu không chạm vào chiếc máy ép?\n(A) Các bộ phận của máy vẫn còn ướt do vừa lau chùi.\n(B) Dầu từ da tay có thể làm hỏng gỗ.\n(C) Nó có thể kích hoạt chuông báo an ninh.\n(D) Nó sẽ được di chuyển trong tuần này.",
+    "explanation": "Người thuyết minh giải thích dầu trên ngón tay có thể làm hỏng phần gỗ của chiếc máy, nên đề nghị khách không chạm vào. Bài không nói máy còn ướt, không có hệ thống báo động và cũng không có kế hoạch di chuyển.",
+    "vocab": [
+      ["touch", "v", "chạm vào"],
+      ["oil", "n", "dầu"],
+      ["damage", "v", "làm hỏng, gây hại"],
+      ["wooden", "adj", "bằng gỗ"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to 4 percent of salary, an increase from the 2 percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the 20th of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room 1B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "audioVoiceText": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to four percent of salary, an increase from the two percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the twentieth of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room one B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "questionText": "What is the purpose of the message?",
+    "options": [
+      "To explain a change to the retirement contribution program",
+      "To announce the appointment of a new finance director",
+      "To remind staff to complete annual training",
+      "To introduce a new employee transfer policy"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mục đích của thông điệp là gì?\n(A) Giải thích một thay đổi trong chương trình đóng góp hưu trí\n(B) Công bố việc bổ nhiệm giám đốc tài chính mới\n(C) Nhắc nhân viên hoàn thành khóa tập huấn thường niên\n(D) Giới thiệu chính sách chuyển công tác mới",
+    "explanation": "Phần lớn thông điệp nói về việc công ty sẽ đóng góp hưu trí tương ứng tới bốn phần trăm lương, thời hạn cập nhật tỷ lệ đóng góp và điều kiện áp dụng cho nhân viên mới. Việc bổ nhiệm chỉ là tin phụ ở cuối; không có giám đốc tài chính mới, không nhắc tập huấn thường niên và chính sách chuyển công tác chỉ được nói là có người giải đáp thắc mắc.",
+    "vocab": [
+      ["match", "v", "đóng góp tương ứng"],
+      ["contribution", "n", "khoản đóng góp"],
+      ["retroactively", "adv", "hồi tố, áp dụng ngược thời gian"],
+      ["eligible", "adj", "đủ điều kiện"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to 4 percent of salary, an increase from the 2 percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the 20th of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room 1B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "audioVoiceText": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to four percent of salary, an increase from the two percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the twentieth of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room one B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "questionText": "What must employees do to benefit from the higher contribution?",
+    "options": [
+      "Speak with Priya Raman in person",
+      "Update their contribution rate online by the twentieth of February",
+      "Wait until the first of March to enroll",
+      "Submit a signed form to their manager"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Nhân viên phải làm gì để được hưởng mức đóng góp cao hơn?\n(A) Gặp trực tiếp Priya Raman\n(B) Cập nhật tỷ lệ đóng góp trực tuyến trước ngày 20 tháng Hai\n(C) Chờ đến ngày 1 tháng Ba mới đăng ký\n(D) Nộp mẫu đơn có chữ ký cho quản lý",
+    "explanation": "Thông điệp hướng dẫn đăng nhập cổng phúc lợi và cập nhật tỷ lệ đóng góp trước ngày hai mươi tháng Hai, vì thay đổi không được áp dụng hồi tố. Ngày một tháng Ba chỉ là ngày chương trình có hiệu lực; bài không yêu cầu gặp trực tiếp hay nộp mẫu đơn giấy.",
+    "vocab": [
+      ["rate", "n", "tỷ lệ"],
+      ["benefits", "n", "phúc lợi"],
+      ["deadline", "n", "hạn chót"],
+      ["effective", "adj", "có hiệu lực"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to 4 percent of salary, an increase from the 2 percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the 20th of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room 1B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "audioVoiceText": "Good morning. This is a message from the human resources office at Crane and Voss. I am pleased to announce that, effective the first of March, the company will match employee retirement contributions up to four percent of salary, an increase from the two percent offered last year. To take advantage of the change, log in to the benefits portal and update your contribution rate by the twentieth of February; the change cannot be applied retroactively. Employees with less than one year of service will become eligible in the quarter after their anniversary date. In related news, Priya Raman has been promoted to head of recruitment, and she will hold open office hours every Tuesday afternoon in room one B for anyone with questions about internal transfers. A detailed guide and a recorded session are available on the staff website.",
+    "questionText": "What can be inferred about an employee hired three months ago?",
+    "options": [
+      "She will receive the higher match immediately.",
+      "She must wait until she completes one year of service.",
+      "She is not entitled to any retirement plan.",
+      "She has to request an exception from Priya Raman."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Có thể suy ra gì về một nhân viên được tuyển cách đây ba tháng?\n(A) Cô ấy sẽ được hưởng mức đóng góp cao hơn ngay lập tức.\n(B) Cô ấy phải chờ đến khi làm đủ một năm.\n(C) Cô ấy không được tham gia bất kỳ chương trình hưu trí nào.\n(D) Cô ấy phải xin ngoại lệ từ Priya Raman.",
+    "explanation": "Thông điệp nêu nhân viên có dưới một năm làm việc chỉ đủ điều kiện từ quý sau ngày kỷ niệm làm việc, nên người mới ba tháng phải chờ đủ một năm. Bài không nói họ bị loại hoàn toàn khỏi chương trình hưu trí, cũng không có thủ tục xin ngoại lệ.",
+    "vocab": [
+      ["anniversary date", "phr", "ngày kỷ niệm làm việc"],
+      ["service", "n", "thời gian làm việc"],
+      ["exception", "n", "ngoại lệ"],
+      ["recruitment", "n", "việc tuyển dụng"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioScript": "Thank you for joining our third-quarter earnings call. Revenue reached 340 million dollars, an increase of 9 percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of 1.4 billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "audioVoiceText": "Thank you for joining our third-quarter earnings call. Revenue reached three hundred forty million dollars, an increase of nine percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of one point four billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "questionText": "What is the speaker's main purpose?",
+    "options": [
+      "To present the company's quarterly financial results",
+      "To announce the opening of a distribution center",
+      "To explain a change in the company's pricing",
+      "To introduce a new subscription product"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mục đích chính của người nói là gì?\n(A) Trình bày kết quả tài chính quý của công ty\n(B) Công bố việc khai trương một trung tâm phân phối\n(C) Giải thích thay đổi trong chính sách giá của công ty\n(D) Giới thiệu một sản phẩm đăng ký mới",
+    "explanation": "Người nói lần lượt báo cáo doanh thu, chi phí vận hành, lợi nhuận ròng và dự báo cả năm, đúng nội dung một cuộc họp công bố kết quả kinh doanh. Trung tâm phân phối chỉ là nguyên nhân khiến chi phí tăng, không phải chủ đề chính; giá bán và sản phẩm mới không được nhắc đến.",
+    "vocab": [
+      ["earnings", "n", "lợi nhuận, kết quả kinh doanh"],
+      ["revenue", "n", "doanh thu"],
+      ["guidance", "n", "dự báo định hướng"],
+      ["capacity", "n", "công suất"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioScript": "Thank you for joining our third-quarter earnings call. Revenue reached 340 million dollars, an increase of 9 percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of 1.4 billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "audioVoiceText": "Thank you for joining our third-quarter earnings call. Revenue reached three hundred forty million dollars, an increase of nine percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of one point four billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "questionText": "What contributed to the rise in operating costs?",
+    "options": [
+      "A drop in software subscriptions in Asia",
+      "Higher advertising spending abroad",
+      "A distribution center that is not yet fully utilized",
+      "An increase in the number of callers"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì góp phần làm chi phí vận hành tăng?\n(A) Sự sụt giảm đăng ký phần mềm ở châu Á\n(B) Chi tiêu quảng cáo ở nước ngoài tăng\n(C) Một trung tâm phân phối chưa được khai thác hết công suất\n(D) Số người gọi điện tăng lên",
+    "explanation": "Người nói giải thích chi phí tăng chủ yếu do trung tâm phân phối mới ở Ohio chưa chạy hết công suất. Doanh số phần mềm ở châu Á thực tế tăng chứ không giảm; quảng cáo và số người gọi điện không phải nguyên nhân được nêu.",
+    "vocab": [
+      ["operating costs", "phr", "chi phí vận hành"],
+      ["distribution center", "phr", "trung tâm phân phối"],
+      ["utilize", "v", "sử dụng, khai thác"],
+      ["net income", "phr", "lợi nhuận ròng"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioScript": "Thank you for joining our third-quarter earnings call. Revenue reached 340 million dollars, an increase of 9 percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of 1.4 billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "audioVoiceText": "Thank you for joining our third-quarter earnings call. Revenue reached three hundred forty million dollars, an increase of nine percent over the same period last year, driven mainly by strong demand for our subscription software in Asia. Operating costs, however, rose faster than we expected, largely because of the new distribution center in Ohio, which opened in August and is not yet running at full capacity. As a result, net income came in slightly below our earlier guidance. Looking ahead, we expect the center to reach full capacity by the end of the first quarter, and we are maintaining our full-year revenue forecast of one point four billion dollars. Before questions, I will hand over to our chief financial officer, who will walk through the balance sheet in more detail. Please keep your questions to one per caller.",
+    "questionText": "What will the chief financial officer most likely do next?",
+    "options": [
+      "Take questions from journalists only",
+      "Explain the balance sheet in greater detail",
+      "Announce a reduction in the revenue forecast",
+      "Tour the new distribution center in Ohio"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Giám đốc tài chính nhiều khả năng sẽ làm gì tiếp theo?\n(A) Chỉ nhận câu hỏi từ nhà báo\n(B) Giải thích bảng cân đối kế toán chi tiết hơn\n(C) Công bố việc giảm dự báo doanh thu\n(D) Đi tham quan trung tâm phân phối mới ở Ohio",
+    "explanation": "Người nói cho biết sẽ chuyển lời cho giám đốc tài chính, người sẽ trình bày chi tiết hơn về bảng cân đối kế toán. Dự báo doanh thu đang được giữ nguyên chứ không giảm; việc giới hạn mỗi người một câu hỏi không có nghĩa chỉ nhận câu hỏi từ nhà báo.",
+    "vocab": [
+      ["hand over", "phr", "chuyển lời, giao lại"],
+      ["balance sheet", "phr", "bảng cân đối kế toán"],
+      ["forecast", "n", "dự báo"],
+      ["caller", "n", "người gọi đến"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "And now your travel update at 5:00. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route 9 between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra 40 minutes and use route 4 through the valley instead. At Halden airport, 72 departures have been delayed and 11 cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within 7 days. Rail service is running normally, and Amtrak has added 2 extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "audioVoiceText": "And now your travel update at five o'clock. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route nine between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra forty minutes and use route four through the valley instead. At Halden airport, seventy-two departures have been delayed and eleven cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within seven days. Rail service is running normally, and Amtrak has added two extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "questionText": "What is the report mainly about?",
+    "options": [
+      "Weather-related problems affecting travelers",
+      "The opening of a new airport terminal",
+      "A dispute between airlines and the highway patrol",
+      "Changes to the national rail timetable"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Bản tin chủ yếu nói về điều gì?\n(A) Những vấn đề do thời tiết gây ra cho người đi lại\n(B) Việc khai trương nhà ga sân bay mới\n(C) Một tranh chấp giữa các hãng bay và cảnh sát đường bộ\n(D) Những thay đổi trong lịch tàu hỏa quốc gia",
+    "explanation": "Bản tin nói về mưa đá, đường bị đóng, hàng loạt chuyến bay bị hoãn hoặc hủy và việc bố trí thêm tàu, tất cả đều là hệ quả của thời tiết xấu đối với người đi lại. Không có nhà ga mới, không có tranh chấp nào, và lịch tàu chỉ được nhắc là có thêm hai chuyến tối.",
+    "vocab": [
+      ["freezing rain", "phr", "mưa đá, mưa đóng băng"],
+      ["highway patrol", "phr", "cảnh sát tuần tra đường bộ"],
+      ["backlog", "n", "tình trạng tồn đọng"],
+      ["waive", "v", "miễn, bỏ khoản phí"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "And now your travel update at 5:00. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route 9 between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra 40 minutes and use route 4 through the valley instead. At Halden airport, 72 departures have been delayed and 11 cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within 7 days. Rail service is running normally, and Amtrak has added 2 extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "audioVoiceText": "And now your travel update at five o'clock. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route nine between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra forty minutes and use route four through the valley instead. At Halden airport, seventy-two departures have been delayed and eleven cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within seven days. Rail service is running normally, and Amtrak has added two extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "questionText": "What are airlines offering passengers?",
+    "options": [
+      "Free hotel rooms near the airport",
+      "Waived change fees if they rebook within seven days",
+      "Full refunds for all cancelled flights",
+      "Seats on Amtrak trains at a discount"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Các hãng hàng không đang dành cho hành khách điều gì?\n(A) Phòng khách sạn miễn phí gần sân bay\n(B) Miễn phí đổi vé nếu đặt lại trong vòng bảy ngày\n(C) Hoàn tiền toàn bộ cho mọi chuyến bị hủy\n(D) Chỗ trên tàu Amtrak với giá ưu đãi",
+    "explanation": "Bản tin cho biết các hãng miễn phí đổi vé cho hành trình đặt trước thứ Sáu, với điều kiện đặt lại trong bảy ngày. Không có phòng khách sạn miễn phí, không cam kết hoàn tiền toàn bộ, và việc Amtrak thêm chuyến không phải ưu đãi của hãng hàng không.",
+    "vocab": [
+      ["change fee", "phr", "phí đổi vé"],
+      ["rebook", "v", "đặt lại chỗ"],
+      ["refund", "n", "tiền hoàn lại"],
+      ["departure", "n", "chuyến khởi hành"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "And now your travel update at 5:00. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route 9 between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra 40 minutes and use route 4 through the valley instead. At Halden airport, 72 departures have been delayed and 11 cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within 7 days. Rail service is running normally, and Amtrak has added 2 extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "audioVoiceText": "And now your travel update at five o'clock. A band of freezing rain is moving east across the mountain passes, and the highway patrol has closed route nine between Crestview and the summit until at least midnight. Drivers heading to the airport should allow an extra forty minutes and use route four through the valley instead. At Halden airport, seventy-two departures have been delayed and eleven cancelled, with the largest backlogs on flights to Chicago and Toronto. Airlines are waiving change fees for travel booked before Friday, but you must rebook within seven days. Rail service is running normally, and Amtrak has added two extra evening trains between Halden and the coast. Tomorrow morning the rain should turn to light snow, with clearing by the afternoon. Stay with us after the break for the school closures.",
+    "questionText": "What does the report suggest about traveling by train tonight?",
+    "options": [
+      "It is likely to be a dependable option.",
+      "It will be more expensive than flying.",
+      "It has been suspended through the mountain passes.",
+      "It is fully booked until tomorrow."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Bản tin gợi ý gì về việc đi tàu đêm nay?\n(A) Đây có thể là một lựa chọn đáng tin cậy.\n(B) Nó sẽ đắt hơn đi máy bay.\n(C) Nó đã bị ngừng chạy qua các đèo núi.\n(D) Nó đã kín chỗ cho đến ngày mai.",
+    "explanation": "Bản tin cho biết dịch vụ đường sắt vẫn chạy bình thường và Amtrak còn thêm hai chuyến buổi tối, trong khi đường bộ và hàng không bị ảnh hưởng nặng, nên tàu là lựa chọn đáng tin cậy. Không có thông tin về giá, về việc ngừng chạy hay hết chỗ.",
+    "vocab": [
+      ["reliable", "adj", "đáng tin cậy"],
+      ["suspend", "v", "tạm ngừng"],
+      ["valley", "n", "thung lũng"],
+      ["summit", "n", "đỉnh đèo"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from 8:00 in the morning until about 4:00 in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level 2 will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by 5:00.",
+    "audioVoiceText": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from eight in the morning until about four in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level two will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by five o'clock.",
+    "questionText": "What is the purpose of the notice?",
+    "options": [
+      "To inform tenants of a planned water shutdown",
+      "To introduce the building's new maintenance staff",
+      "To announce the opening of a lobby coffee shop",
+      "To remind tenants to pay their service charges"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mục đích của thông báo là gì?\n(A) Thông báo cho người thuê về việc cắt nước theo kế hoạch\n(B) Giới thiệu nhân viên bảo trì mới của tòa nhà\n(C) Công bố việc khai trương quán cà phê ở sảnh\n(D) Nhắc người thuê thanh toán phí dịch vụ",
+    "explanation": "Thông báo nêu rõ nước sẽ bị cắt vào thứ Bảy để thay van, kèm theo các dịch vụ bị ảnh hưởng và thời gian dự kiến có lại, nên mục đích là báo trước việc cắt nước. Quán cà phê được nhắc vì sẽ đóng cửa, không phải khai trương; không có nhân viên mới hay phí dịch vụ.",
+    "vocab": [
+      ["tenant", "n", "người thuê mặt bằng"],
+      ["shut off", "phr", "cắt, ngắt"],
+      ["valve", "n", "van"],
+      ["resume", "v", "hoạt động trở lại"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from 8:00 in the morning until about 4:00 in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level 2 will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by 5:00.",
+    "audioVoiceText": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from eight in the morning until about four in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level two will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by five o'clock.",
+    "questionText": "What should tenants with a Saturday delivery do?",
+    "options": [
+      "Reschedule it for another day",
+      "Ask the courier to call the front desk when arriving",
+      "Have it left in the basement",
+      "Meet the courier at the freight elevator"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người thuê có đơn giao hàng vào thứ Bảy nên làm gì?\n(A) Đổi sang ngày khác\n(B) Đề nghị nhân viên giao hàng gọi lễ tân khi đến\n(C) Để hàng ở tầng hầm\n(D) Gặp nhân viên giao hàng tại thang máy chở hàng",
+    "explanation": "Thông báo đề nghị người thuê có đơn giao vào thứ Bảy yêu cầu nhân viên giao hàng gọi lễ tân khi đến. Không có hướng dẫn đổi ngày hay để hàng ở tầng hầm, và thang máy chở hàng thì bị dành riêng cho thiết bị của nhà thầu nên không phải nơi nhận hàng.",
+    "vocab": [
+      ["courier", "n", "nhân viên giao hàng"],
+      ["front desk", "phr", "quầy lễ tân"],
+      ["freight elevator", "phr", "thang máy chở hàng"],
+      ["schedule", "v", "lên lịch"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioScript": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from 8:00 in the morning until about 4:00 in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level 2 will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by 5:00.",
+    "audioVoiceText": "Attention, tenants of the Belcourt Tower. On Saturday, the water supply to the building will be shut off from eight in the morning until about four in the afternoon while engineers replace a valve in the basement. During that period, restrooms on all floors and the kitchen on level two will be out of service, and the coffee shop in the lobby will close at noon. We recommend that anyone working that day fill a bottle before arriving, and that you switch off appliances connected to the water lines, including the dishwashers in the staff kitchen. The freight elevator will also be reserved for the contractor's equipment, so please use the passenger elevators. If you have a delivery scheduled for Saturday, ask the courier to call the front desk on arrival. We expect normal service to resume by five o'clock.",
+    "questionText": "Why are tenants advised to switch off appliances?",
+    "options": [
+      "The power will be cut in the afternoon.",
+      "The appliances are linked to water lines that will be empty.",
+      "Engineers need to inspect the electrical panels.",
+      "New appliances will be delivered on Saturday."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người thuê được khuyên tắt các thiết bị?\n(A) Điện sẽ bị cắt vào buổi chiều.\n(B) Các thiết bị nối với đường nước sẽ bị ngắt.\n(C) Kỹ sư cần kiểm tra các bảng điện.\n(D) Thiết bị mới sẽ được giao vào thứ Bảy.",
+    "explanation": "Lời khuyên là tắt những thiết bị nối với đường cấp nước, ví dụ máy rửa bát, vì nước sẽ bị cắt trong ngày. Thông báo không nói đến việc cắt điện, không nhắc kiểm tra bảng điện và cũng không có thiết bị mới nào được giao.",
+    "vocab": [
+      ["appliance", "n", "thiết bị gia dụng"],
+      ["water line", "phr", "đường ống nước"],
+      ["basement", "n", "tầng hầm"],
+      ["inspect", "v", "kiểm tra"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next 2 years with us. Over the next 3 days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least 5 people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "audioVoiceText": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next two years with us. Over the next three days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least five people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "questionText": "What is the speaker mainly doing?",
+    "options": [
+      "Welcoming new students and giving them advice",
+      "Reviewing the results of a research project",
+      "Explaining the campus building rules",
+      "Interviewing candidates for a graduate program"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người nói chủ yếu đang làm gì?\n(A) Chào mừng sinh viên mới và đưa ra lời khuyên\n(B) Đánh giá kết quả của một dự án nghiên cứu\n(C) Giải thích các quy định về tòa nhà trong khuôn viên\n(D) Phỏng vấn ứng viên cho một chương trình sau đại học",
+    "explanation": "Người nói tự giới thiệu là trưởng khoa, chào mừng sinh viên đến khuôn viên và đưa ra các lời khuyên cho tuần đầu tiên học tập. Bài không đánh giá dự án nghiên cứu, không liệt kê quy định tòa nhà và không có phần phỏng vấn nào.",
+    "vocab": [
+      ["dean", "n", "trưởng khoa"],
+      ["advisor", "n", "cố vấn học tập"],
+      ["syllabus", "n", "đề cương môn học"],
+      ["academic honesty", "phr", "liêm chính học thuật"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next 2 years with us. Over the next 3 days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least 5 people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "audioVoiceText": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next two years with us. Over the next three days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least five people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "questionText": "What are students advised to do during the first week?",
+    "options": [
+      "Register for courses before meeting their advisors",
+      "Get to know classmates outside their department",
+      "Join a research lab on campus",
+      "Submit the academic honesty policy in writing"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Sinh viên được khuyên làm gì trong tuần đầu tiên?\n(A) Đăng ký môn học trước khi gặp cố vấn\n(B) Làm quen với bạn học ngoài khoa của mình\n(C) Tham gia một phòng thí nghiệm trong trường\n(D) Nộp bản chính sách liêm chính học thuật bằng văn bản",
+    "explanation": "Một trong ba lời khuyên là tự giới thiệu với ít nhất năm người ngoài khoa của mình, tức là làm quen rộng hơn trong tuần đầu. Ba ngày đầu đã có hoạt động gặp cố vấn và đăng ký môn chứ không yêu cầu đăng ký trước; việc nộp chính sách không được nhắc đến, sổ tay chỉ được phát kèm.",
+    "vocab": [
+      ["register", "v", "đăng ký"],
+      ["department", "n", "khoa, bộ môn"],
+      ["deadline", "n", "hạn chót"],
+      ["handbook", "n", "sổ tay hướng dẫn"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next 2 years with us. Over the next 3 days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least 5 people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "audioVoiceText": "Good morning, and welcome to the Ridgeline campus. I am Dean Alvarez, and I am delighted that you have chosen to spend the next two years with us. Over the next three days you will meet your advisors, tour the research labs, and register for courses, but I want to say a word about what comes after that. Our program is built around small group projects rather than large lectures, which means your classmates will know very quickly whether you have prepared. Take the first week seriously: read the syllabus before each class, introduce yourself to at least five people outside your own department, and visit the writing center early rather than the night before a deadline. The student handbook, including the academic honesty policy, is in your folder. My office hours are Thursday afternoons.",
+    "questionText": "What can be inferred about classes in this program?",
+    "options": [
+      "They are conducted mostly in large lecture halls.",
+      "They require students to come prepared to contribute.",
+      "They meet only once a week.",
+      "They are taught entirely online."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Có thể suy ra gì về các lớp học trong chương trình này?\n(A) Chúng chủ yếu diễn ra trong giảng đường lớn.\n(B) Chúng đòi hỏi sinh viên phải chuẩn bị bài để đóng góp.\n(C) Chúng chỉ họp mỗi tuần một lần.\n(D) Chúng được giảng dạy hoàn toàn trực tuyến.",
+    "explanation": "Vì chương trình dựa trên các dự án nhóm nhỏ và bạn học sẽ nhanh chóng biết ai đã chuẩn bị bài, có thể suy ra sinh viên phải học trước để tham gia thảo luận. Bài nói rõ là dùng dự án nhóm thay vì giảng đường lớn, và không có thông tin về lịch họp hay hình thức trực tuyến.",
+    "vocab": [
+      ["lecture", "n", "bài giảng, giờ giảng"],
+      ["contribute", "v", "đóng góp"],
+      ["group project", "phr", "dự án nhóm"],
+      ["office hours", "phr", "giờ tiếp sinh viên"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "You have reached the automated delivery line for Northline Freight. Parcel 88426 is scheduled for delivery today between 2:00 and 5:00 in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over 500 dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before 10:00; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until 8:00 tonight and requires photo identification. Please note that parcels are held for 5 days and then returned to the sender.",
+    "audioVoiceText": "You have reached the automated delivery line for Northline Freight. Parcel eight eight four two six is scheduled for delivery today between two and five in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over five hundred dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before ten o'clock; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until eight tonight and requires photo identification. Please note that parcels are held for five days and then returned to the sender.",
+    "questionText": "Why is the message being left?",
+    "options": [
+      "To confirm the details of a scheduled delivery",
+      "To offer a discount on a future shipment",
+      "To report that a parcel was damaged",
+      "To ask the customer to update an address"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao thông điệp này được để lại?\n(A) Để xác nhận thông tin của một đơn giao hàng đã lên lịch\n(B) Để chào giảm giá cho lần gửi hàng sau\n(C) Để báo rằng một kiện hàng đã bị hỏng\n(D) Để đề nghị khách cập nhật địa chỉ",
+    "explanation": "Thông điệp tự động cho biết kiện hàng sẽ được giao hôm nay trong khung giờ cụ thể, ai phải ký nhận, cách đổi giờ và cách tự đến nhận, tức là xác nhận thông tin giao hàng. Không có ưu đãi giảm giá, không báo hư hỏng và không nhắc đến việc đổi địa chỉ.",
+    "vocab": [
+      ["automated", "adj", "tự động"],
+      ["parcel", "n", "kiện hàng, bưu kiện"],
+      ["signature", "n", "chữ ký"],
+      ["depot", "n", "kho bãi, trạm nhận hàng"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "You have reached the automated delivery line for Northline Freight. Parcel 88426 is scheduled for delivery today between 2:00 and 5:00 in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over 500 dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before 10:00; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until 8:00 tonight and requires photo identification. Please note that parcels are held for 5 days and then returned to the sender.",
+    "audioVoiceText": "You have reached the automated delivery line for Northline Freight. Parcel eight eight four two six is scheduled for delivery today between two and five in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over five hundred dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before ten o'clock; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until eight tonight and requires photo identification. Please note that parcels are held for five days and then returned to the sender.",
+    "questionText": "Why must someone be present to receive the package?",
+    "options": [
+      "The building's front door is locked.",
+      "A signature is required because of the laptop inside.",
+      "The courier needs help carrying it.",
+      "The delivery address is incorrect."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao phải có người ở nhà để nhận kiện hàng?\n(A) Cửa trước của tòa nhà bị khóa.\n(B) Phải có chữ ký vì trong kiện có máy tính xách tay.\n(C) Nhân viên giao hàng cần người phụ khiêng.\n(D) Địa chỉ giao hàng không đúng.",
+    "explanation": "Thông điệp nói hàng trị giá trên năm trăm đô phải có chữ ký, mà kiện này có máy tính xách tay, nên cần người nhận trực tiếp. Không có thông tin về cửa bị khóa, về việc cần phụ khiêng hàng hay địa chỉ sai.",
+    "vocab": [
+      ["valued at", "phr", "có giá trị"],
+      ["present", "adj", "có mặt"],
+      ["item", "n", "mặt hàng"],
+      ["photo identification", "phr", "giấy tờ tùy thân có ảnh"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "You have reached the automated delivery line for Northline Freight. Parcel 88426 is scheduled for delivery today between 2:00 and 5:00 in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over 500 dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before 10:00; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until 8:00 tonight and requires photo identification. Please note that parcels are held for 5 days and then returned to the sender.",
+    "audioVoiceText": "You have reached the automated delivery line for Northline Freight. Parcel eight eight four two six is scheduled for delivery today between two and five in the afternoon. The driver will leave the package at the front door if no one answers, but a signature is required for items valued over five hundred dollars, and your shipment includes a laptop, so someone must be present. To change the delivery window, reply to the text message you received this morning before ten o'clock; requests made after that time will be applied to the following day. If you prefer to collect the parcel yourself, our depot on Kestrel Road is open until eight tonight and requires photo identification. Please note that parcels are held for five days and then returned to the sender.",
+    "questionText": "What should the recipient do to change the delivery time?",
+    "options": [
+      "Call the depot on Kestrel Road",
+      "Reply to the text message before ten o'clock",
+      "Visit the Northline office in person",
+      "Ask the driver to come back the next day"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nhận nên làm gì để đổi giờ giao hàng?\n(A) Gọi đến kho trên đường Kestrel\n(B) Trả lời tin nhắn trước mười giờ\n(C) Đến trực tiếp văn phòng Northline\n(D) Nhờ tài xế quay lại vào ngày hôm sau",
+    "explanation": "Thông điệp hướng dẫn trả lời tin nhắn đã nhận vào buổi sáng trước mười giờ để đổi khung giờ giao; yêu cầu gửi sau mốc đó sẽ được áp dụng cho ngày kế tiếp. Gọi kho hay đến văn phòng chỉ liên quan đến việc tự nhận hàng, và bài không đề nghị nhờ tài xế quay lại.",
+    "vocab": [
+      ["delivery window", "phr", "khung giờ giao hàng"],
+      ["recipient", "n", "người nhận"],
+      ["collect", "v", "đến lấy, thu nhận"],
+      ["return to sender", "phr", "hoàn trả cho người gửi"]
+    ]
+  }
+]

@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 32,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g1",
+    "audioScript": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "audioVoiceText": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "questionText": "What change did the client make to the project scope?",
+    "options": [
+      "They removed a reporting feature and added a data migration.",
+      "They postponed the discovery week by a month.",
+      "They reduced the fixed fee for the project.",
+      "They asked for a second kickoff meeting."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Khách hàng đã thay đổi điều gì trong phạm vi dự án?\n(A) Họ bỏ một tính năng báo cáo và thêm phần di trú dữ liệu.\n(B) Họ hoãn tuần khảo sát một tháng.\n(C) Họ giảm mức phí cố định của dự án.\n(D) Họ yêu cầu thêm một buổi khởi động thứ hai.",
+    "explanation": "Hai thay đổi được nêu rõ: gói báo cáo bị cắt và phần di trú dữ liệu được thêm vào, nên chỉ phương án mô tả đúng cả hai điểm này mới khớp.",
+    "vocab": [
+      [
+        "scope",
+        "n",
+        "phạm vi"
+      ],
+      [
+        "migration",
+        "n",
+        "sự di trú, chuyển dữ liệu"
+      ],
+      [
+        "fixed fee",
+        "n",
+        "phí cố định"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g1",
+    "audioScript": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "audioVoiceText": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "questionText": "Why is the woman worried about the data migration?",
+    "options": [
+      "The old system is no longer supported by the vendor.",
+      "The client's existing records contain duplicate entries.",
+      "The migration was left out of the signed document.",
+      "The discovery week overlaps with a public holiday."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người phụ nữ lo lắng về phần di trú dữ liệu?\n(A) Hệ thống cũ không còn được nhà cung cấp hỗ trợ.\n(B) Hồ sơ hiện có của khách hàng có nhiều mục trùng lặp.\n(C) Phần di trú bị bỏ khỏi tài liệu đã ký.\n(D) Tuần khảo sát trùng với một kỳ nghỉ lễ.",
+    "explanation": "Cô ấy nói bản ước tính cũ giả định dữ liệu nhập vào sạch, nhưng hồ sơ của khách chưa từng được loại trùng — tức dữ liệu đầu vào lộn xộn hơn dự kiến.",
+    "vocab": [
+      [
+        "duplicate",
+        "adj",
+        "trùng lặp"
+      ],
+      [
+        "de-duplicate",
+        "v",
+        "loại bỏ trùng lặp"
+      ],
+      [
+        "assume",
+        "v",
+        "giả định"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g1",
+    "audioScript": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "audioVoiceText": "Woman: Thanks for joining early. Before we open the kickoff, I want to confirm the scope document the client signed last Friday.\nMan: I read it on the train. The good news is that they dropped the reporting dashboard; the bad news is they added a data migration from their old system.\nWoman: That migration is what worries me. Our original estimate assumed a clean import, but their records have never been de-duplicated.\nMan: Then we should treat the migration as a separate phase and quote it after the discovery week, not inside the fixed fee.\nWoman: Agreed. I will restate that in the kickoff deck so nobody promises a delivery date we cannot keep.",
+    "questionText": "What will the woman most likely do next?",
+    "options": [
+      "Cancel the contract with the client.",
+      "Hire an additional data engineer.",
+      "Revise the slides for the kickoff meeting.",
+      "Send the signed scope document to the legal team."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ nhiều khả năng sẽ làm gì tiếp theo?\n(A) Hủy hợp đồng với khách hàng.\n(B) Tuyển thêm một kỹ sư dữ liệu.\n(C) Chỉnh lại các trang trình bày cho buổi khởi động.\n(D) Gửi tài liệu phạm vi đã ký cho bộ phận pháp lý.",
+    "explanation": "Cô ấy nói sẽ trình bày lại vấn đề trong bộ slide khởi động để không ai hứa một mốc giao hàng mà nhóm không giữ được.",
+    "vocab": [
+      [
+        "deck",
+        "n",
+        "bộ slide trình bày"
+      ],
+      [
+        "kickoff",
+        "n",
+        "buổi khởi động dự án"
+      ],
+      [
+        "delivery date",
+        "n",
+        "ngày giao hàng"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g2",
+    "audioScript": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "audioVoiceText": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "questionText": "What caused the payroll error?",
+    "options": [
+      "The shift codes were changed without updating the overtime rule.",
+      "The bank transferred the wages to the wrong accounts.",
+      "The warehouse crew submitted late timesheets.",
+      "The payroll template was deleted by accident."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì đã gây ra lỗi bảng lương?\n(A) Mã ca làm việc bị thay đổi mà quy tắc làm thêm giờ không được cập nhật.\n(B) Ngân hàng chuyển lương vào sai tài khoản.\n(C) Tổ kho nộp bảng chấm công muộn.\n(D) Mẫu bảng lương bị xóa nhầm.",
+    "explanation": "Người phụ nữ nhận lỗi: cô sửa mã ca trong mẫu bảng lương nhưng quên cập nhật quy tắc tính làm thêm giờ vốn đọc các mã đó.",
+    "vocab": [
+      [
+        "overtime",
+        "n",
+        "giờ làm thêm"
+      ],
+      [
+        "time and a half",
+        "n",
+        "mức lương gấp rưỡi"
+      ],
+      [
+        "shift code",
+        "n",
+        "mã ca làm việc"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g2",
+    "audioScript": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "audioVoiceText": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "questionText": "Approximately how much was underpaid to the whole group?",
+    "options": [
+      "About nine hundred dollars.",
+      "About three thousand six hundred dollars.",
+      "About one thousand two hundred dollars.",
+      "About four thousand eight hundred dollars."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Toàn nhóm bị trả thiếu khoảng bao nhiêu?\n(A) Khoảng chín trăm đô-la.\n(B) Khoảng ba nghìn sáu trăm đô-la.\n(C) Khoảng một nghìn hai trăm đô-la.\n(D) Khoảng bốn nghìn tám trăm đô-la.",
+    "explanation": "Khoảng bốn mươi nhân viên, mỗi người thiếu gần chín mươi đô-la, nên tổng thiếu hụt xấp xỉ ba nghìn sáu trăm đô-la.",
+    "vocab": [
+      [
+        "underpaid",
+        "adj",
+        "bị trả lương thiếu"
+      ],
+      [
+        "adjustment",
+        "n",
+        "sự điều chỉnh"
+      ],
+      [
+        "pay period",
+        "n",
+        "kỳ trả lương"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g2",
+    "audioScript": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "audioVoiceText": "Man: Priya in accounting called me. She says her overtime for the last pay period was paid at the regular rate instead of time and a half.\nWoman: That is my fault. I changed the shift codes in the payroll template and forgot to update the overtime rule that reads them.\nMan: How many are affected? If it is just Priya, we can fix it with a manual adjustment.\nWoman: It is not just her. The same code affects the warehouse crew, so about forty employees were underpaid by roughly ninety dollars each.\nMan: Then we need corrected statements before anyone notices, and I would rather tell them than let them find out when the bank transfer lands short.",
+    "questionText": "What does the man suggest the company do?",
+    "options": [
+      "Wait until the next pay period to adjust the amounts.",
+      "Ask the bank to reverse the short transfers.",
+      "Report the mistake to the labor authority.",
+      "Issue corrected statements and inform staff first."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông đề nghị công ty làm gì?\n(A) Đợi đến kỳ lương sau mới điều chỉnh số tiền.\n(B) Yêu cầu ngân hàng hoàn lại các khoản chuyển thiếu.\n(C) Báo cáo sai sót với cơ quan lao động.\n(D) Phát bảng lương đã sửa và chủ động thông báo cho nhân viên trước.",
+    "explanation": "Anh ấy nói cần bảng lương đã sửa trước khi ai đó phát hiện và muốn công ty tự thông báo, thay vì để nhân viên thấy tiền về thiếu.",
+    "vocab": [
+      [
+        "corrected statement",
+        "n",
+        "bảng lương đã sửa"
+      ],
+      [
+        "transfer",
+        "n",
+        "khoản chuyển khoản"
+      ],
+      [
+        "land short",
+        "v",
+        "về tài khoản với số tiền thiếu"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g3",
+    "audioScript": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "audioVoiceText": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "questionText": "Why is the man calling the hotel?",
+    "options": [
+      "To change the dates of a group booking.",
+      "To complain about a noisy room.",
+      "To ask for a refund of a deposit.",
+      "To book a table for a company dinner."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao người đàn ông gọi cho khách sạn?\n(A) Để đổi ngày của một đoàn đặt phòng.\n(B) Để phàn nàn về một phòng ồn.\n(C) Để xin hoàn lại tiền đặt cọc.\n(D) Để đặt bàn cho một bữa tối công ty.",
+    "explanation": "Anh ấy cho biết đã đặt mười hai phòng cho ba đêm từ ngày chín, nhưng cuộc họp dời sang tuần sau nên cần đổi ngày lưu trú.",
+    "vocab": [
+      [
+        "reservation",
+        "n",
+        "sự đặt phòng"
+      ],
+      [
+        "regional",
+        "adj",
+        "thuộc khu vực"
+      ],
+      [
+        "group rate",
+        "n",
+        "giá dành cho đoàn"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g3",
+    "audioScript": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "audioVoiceText": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "questionText": "What is the benefit of the new dates for the company?",
+    "options": [
+      "A free meeting room is included.",
+      "The hotel is closer to the airport.",
+      "The nightly rate is considerably lower.",
+      "Breakfast is served earlier."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Lợi ích của ngày mới đối với công ty là gì?\n(A) Được tặng miễn phí một phòng họp.\n(B) Khách sạn gần sân bay hơn.\n(C) Giá mỗi đêm thấp hơn đáng kể.\n(D) Bữa sáng được phục vụ sớm hơn.",
+    "explanation": "Giá đoàn trong tuần hội chợ là bốn trăm đô-la mỗi đêm, còn sau đó chỉ còn hai trăm sáu mươi, nên dời ngày giúp tiết kiệm chi phí.",
+    "vocab": [
+      [
+        "nightly rate",
+        "n",
+        "giá mỗi đêm"
+      ],
+      [
+        "trade fair",
+        "n",
+        "hội chợ thương mại"
+      ],
+      [
+        "shift",
+        "v",
+        "dời, thay đổi"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g3",
+    "audioScript": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "audioVoiceText": "Woman: This is the Bentley Hotel. You are calling about the reservation for the sales meeting, is that right?\nMan: Yes. We booked twelve rooms for three nights starting the ninth, but the meeting has moved to the next week.\nWoman: I can shift the dates, but the ninth falls inside our trade fair period, so the group rate was four hundred dollars a night. Later that month it drops to two hundred and sixty.\nMan: Then moving saves us money. Can you keep the twelve rooms and add a small meeting room for Tuesday afternoon?\nWoman: I will hold both and email a revised confirmation. Just confirm the room block by Friday, because we release unused rooms then.",
+    "questionText": "What does the woman ask the man to do by Friday?",
+    "options": [
+      "Pay the deposit in full.",
+      "Send the guest list with names.",
+      "Choose the menu for the meeting.",
+      "Confirm how many rooms the group will keep."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ yêu cầu người đàn ông làm gì trước thứ Sáu?\n(A) Thanh toán toàn bộ tiền đặt cọc.\n(B) Gửi danh sách khách kèm tên.\n(C) Chọn thực đơn cho buổi họp.\n(D) Xác nhận đoàn sẽ giữ bao nhiêu phòng.",
+    "explanation": "Cô ấy nói sẽ giữ phòng và gửi xác nhận mới, nhưng yêu cầu chốt danh sách phòng trước thứ Sáu vì sau đó khách sạn nhả các phòng không dùng.",
+    "vocab": [
+      [
+        "room block",
+        "n",
+        "nhóm phòng giữ chỗ"
+      ],
+      [
+        "confirmation",
+        "n",
+        "xác nhận đặt phòng"
+      ],
+      [
+        "release",
+        "v",
+        "nhả, giải phóng"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g4",
+    "audioScript": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "audioVoiceText": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "questionText": "What is the man's concern about the new quote?",
+    "options": [
+      "It was sent to a competitor by mistake.",
+      "It is higher than the amount budgeted.",
+      "It covers fewer parts than before.",
+      "It expires at the end of the month."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông lo ngại điều gì ở báo giá mới?\n(A) Báo giá bị gửi nhầm cho đối thủ.\n(B) Báo giá cao hơn mức đã dự toán.\n(C) Báo giá chỉ gồm ít linh kiện hơn trước.\n(D) Báo giá hết hạn vào cuối tháng.",
+    "explanation": "Anh ấy nói báo giá mới cao hơn tám phần trăm so với ngân sách đã duyệt nên muốn thương lượng lại.",
+    "vocab": [
+      [
+        "quote",
+        "n",
+        "báo giá"
+      ],
+      [
+        "budget",
+        "v",
+        "dự toán ngân sách"
+      ],
+      [
+        "component",
+        "n",
+        "linh kiện"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g4",
+    "audioScript": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "audioVoiceText": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "questionText": "Why does the woman oppose refusing the quote outright?",
+    "options": [
+      "The supplier's own costs have risen, so they may walk away.",
+      "The company cannot find another supplier.",
+      "The contract forbids any price discussion.",
+      "The resin is already in the warehouse."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao người phụ nữ phản đối việc từ chối thẳng báo giá?\n(A) Chi phí của nhà cung cấp cũng tăng nên họ có thể bỏ đi.\n(B) Công ty không thể tìm được nhà cung cấp khác.\n(C) Hợp đồng cấm mọi việc thảo luận giá.\n(D) Nhựa đã có sẵn trong kho.",
+    "explanation": "Cô ấy nhắc giá nhựa và phụ phí vận chuyển đều tăng, nên một lời từ chối thẳng sẽ khiến nhà cung cấp rút lui thay vì giảm giá.",
+    "vocab": [
+      [
+        "surcharge",
+        "n",
+        "phụ phí"
+      ],
+      [
+        "refusal",
+        "n",
+        "sự từ chối"
+      ],
+      [
+        "walk away",
+        "v",
+        "rút lui, bỏ đi"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g4",
+    "audioScript": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "audioVoiceText": "Man: We have used Hartley Components for six years, but their new quote is eight percent above what we budgeted. I would like to push back.\nWoman: Be careful. Their resin prices went up when the shipping surcharge doubled, so a flat refusal will just make them walk away.\nMan: What if we offer a two-year commitment in exchange for holding last year's price on the top three parts?\nWoman: That could work, but ask for a price cap rather than a fixed number, or we will be renegotiating again in twelve months.\nMan: Right. And I will mention that we have had two other quotes, without saying how low they are. That usually gets their attention.",
+    "questionText": "Why will the man mention the competing quotes?",
+    "options": [
+      "To end the relationship with Hartley Components.",
+      "To show that the parts are easy to copy.",
+      "To make the supplier more willing to lower the price.",
+      "To prove that the budget was approved."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao người đàn ông sẽ nhắc tới các báo giá khác?\n(A) Để chấm dứt quan hệ với Hartley Components.\n(B) Để cho thấy linh kiện dễ sao chép.\n(C) Để nhà cung cấp sẵn lòng giảm giá hơn.\n(D) Để chứng minh ngân sách đã được duyệt.",
+    "explanation": "Anh ấy sẽ nhắc hai báo giá khác nhưng không nói thấp đến mức nào — cách gây áp lực để đối phương chú ý và nhượng bộ về giá.",
+    "vocab": [
+      [
+        "price cap",
+        "n",
+        "mức giá trần"
+      ],
+      [
+        "commitment",
+        "n",
+        "cam kết"
+      ],
+      [
+        "get someone's attention",
+        "v",
+        "khiến ai chú ý"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g5",
+    "audioScript": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "audioVoiceText": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "questionText": "Why have many employees not finished the training?",
+    "options": [
+      "The vendor's website keeps crashing.",
+      "Their shifts do not allow ninety minutes away from their stations.",
+      "They were not told that it is mandatory.",
+      "The modules are only offered in English."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao nhiều nhân viên chưa hoàn thành khóa tập huấn?\n(A) Trang web của nhà cung cấp liên tục lỗi.\n(B) Ca làm việc không cho phép rời vị trí chín mươi phút.\n(C) Họ không được thông báo là bắt buộc.\n(D) Các bài học chỉ có bằng tiếng Anh.",
+    "explanation": "Cô ấy nói chỉ sáu mươi phần trăm đã xong; anh ấy giải thích mỗi bài mất chín mươi phút và người ở xưởng không thể rời vị trí lâu như vậy.",
+    "vocab": [
+      [
+        "mandatory",
+        "adj",
+        "bắt buộc"
+      ],
+      [
+        "station",
+        "n",
+        "vị trí làm việc"
+      ],
+      [
+        "shift",
+        "n",
+        "ca làm việc"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g5",
+    "audioScript": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "audioVoiceText": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "questionText": "Which part of the training must be completed without interruption?",
+    "options": [
+      "The phishing simulation.",
+      "The closing quiz.",
+      "The vendor's introduction video.",
+      "The certificate request form."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Phần nào của khóa tập huấn phải hoàn thành liền mạch?\n(A) Phần mô phỏng lừa đảo trực tuyến.\n(B) Bài kiểm tra cuối khóa.\n(C) Video giới thiệu của nhà cung cấp.\n(D) Mẫu yêu cầu cấp chứng chỉ.",
+    "explanation": "Anh ấy nói phần mô phỏng lừa đảo phải làm liền một mạch, nếu chia nhỏ thì kết quả không được tính.",
+    "vocab": [
+      [
+        "phishing simulation",
+        "n",
+        "bài mô phỏng tấn công lừa đảo"
+      ],
+      [
+        "in one sitting",
+        "adv",
+        "làm liền một mạch"
+      ],
+      [
+        "count",
+        "v",
+        "được tính"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g5",
+    "audioScript": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "audioVoiceText": "Woman: The mandatory security training is due at the end of the month, and only sixty percent of the staff have finished it.\nMan: The problem is not laziness. The modules take ninety minutes and most people on the floor cannot leave their stations that long.\nWoman: Could we split it into three short sessions and run them before the morning shift starts?\nMan: We could, but the phishing simulation has to be completed in one sitting or the results do not count.\nWoman: Then let us keep that part whole and shorten the rest. I will ask the vendor whether they can reissue the certificates if we change the format.",
+    "questionText": "What will the woman do about the certificates?",
+    "options": [
+      "Print them in the office.",
+      "Postpone them until next year.",
+      "Collect them from the floor supervisor.",
+      "Check with the vendor whether they can be reissued."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì với chứng chỉ?\n(A) In chứng chỉ tại văn phòng.\n(B) Hoãn sang năm sau.\n(C) Thu chứng chỉ từ giám sát xưởng.\n(D) Hỏi nhà cung cấp xem có thể cấp lại không.",
+    "explanation": "Cô ấy đề nghị giữ nguyên phần mô phỏng, rút ngắn phần còn lại và sẽ hỏi nhà cung cấp về việc cấp lại chứng chỉ khi đổi hình thức học.",
+    "vocab": [
+      [
+        "reissue",
+        "v",
+        "cấp lại"
+      ],
+      [
+        "certificate",
+        "n",
+        "chứng chỉ"
+      ],
+      [
+        "session",
+        "n",
+        "buổi học"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g6",
+    "audioScript": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "audioVoiceText": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "questionText": "Why is the fourteenth difficult for the caterer?",
+    "options": [
+      "The venue has no vegetarian menu.",
+      "The foundation has not paid a deposit.",
+      "The main kitchen is already committed to a wedding.",
+      "Most of the staff are on holiday that day."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao ngày mười bốn khó khăn với đơn vị cung cấp tiệc?\n(A) Địa điểm không có thực đơn chay.\n(B) Quỹ chưa thanh toán tiền đặt cọc.\n(C) Bếp chính đã nhận phục vụ một đám cưới.\n(D) Phần lớn nhân viên nghỉ lễ hôm đó.",
+    "explanation": "Cô ấy nói ngày mười bốn rất sát vì bếp chính đã nhận một đám cưới buổi chiều, nên suất ăn phục vụ tại bàn phải lấy từ bếp vệ tinh.",
+    "vocab": [
+      [
+        "seated dinner",
+        "n",
+        "tiệc tối phục vụ tại bàn"
+      ],
+      [
+        "plated service",
+        "n",
+        "phục vụ theo suất"
+      ],
+      [
+        "satellite unit",
+        "n",
+        "bếp vệ tinh"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g6",
+    "audioScript": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "audioVoiceText": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "questionText": "How much above the approved budget would each guest cost?",
+    "options": [
+      "About twenty-six dollars.",
+      "About eleven dollars.",
+      "About sixty-five dollars.",
+      "About six dollars."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Mỗi khách sẽ vượt ngân sách đã duyệt bao nhiêu?\n(A) Khoảng hai mươi sáu đô-la.\n(B) Khoảng mười một đô-la.\n(C) Khoảng sáu mươi lăm đô-la.\n(D) Khoảng sáu đô-la.",
+    "explanation": "Ngân sách được duyệt là sáu mươi lăm đô-la mỗi khách; bếp vệ tinh cộng thêm sáu đô-la vận chuyển và nhân sự, đẩy lên bảy mươi mốt.",
+    "vocab": [
+      [
+        "per head",
+        "adv",
+        "mỗi khách"
+      ],
+      [
+        "staffing",
+        "n",
+        "nhân sự phục vụ"
+      ],
+      [
+        "stay within budget",
+        "v",
+        "giữ trong ngân sách"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g6",
+    "audioScript": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "audioVoiceText": "Man: The foundation wants a seated dinner for two hundred guests on the fourteenth, and they asked for a vegetarian option at every table.\nWoman: The fourteenth is tight. Our main kitchen is booked for a wedding that afternoon, so the plated service would have to come from the satellite unit.\nMan: Does that change the price? The board approved sixty-five dollars a head and I cannot go back to them again.\nWoman: It adds six dollars per person for transport and staffing, so we would be at seventy-one. Alternatively, we serve a buffet and stay within budget.\nMan: The foundation's chair is traditional. Let me ask her whether a buffet would be acceptable before I commit to anything.",
+    "questionText": "What will the man do before agreeing to the buffet?",
+    "options": [
+      "Check whether the satellite kitchen is free.",
+      "Ask the foundation's chair whether a buffet is acceptable.",
+      "Reduce the number of invited guests.",
+      "Request a larger budget from the board."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì trước khi đồng ý với tiệc tự chọn?\n(A) Kiểm tra bếp vệ tinh có rảnh không.\n(B) Hỏi chủ tịch quỹ xem tiệc tự chọn có chấp nhận được không.\n(C) Giảm số khách mời.\n(D) Xin hội đồng ngân sách lớn hơn.",
+    "explanation": "Vì chủ tịch quỹ khá truyền thống, anh ấy muốn hỏi bà ấy trước khi cam kết bất cứ hình thức tiệc nào.",
+    "vocab": [
+      [
+        "buffet",
+        "n",
+        "tiệc tự chọn"
+      ],
+      [
+        "acceptable",
+        "adj",
+        "chấp nhận được"
+      ],
+      [
+        "commit",
+        "v",
+        "cam kết"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g7",
+    "audioScript": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "audioVoiceText": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "questionText": "Why have the containers been held up?",
+    "options": [
+      "Customs officers found the paperwork inconsistent.",
+      "The vessel hit rough weather.",
+      "The tiles were loaded at the wrong port.",
+      "The broker forgot to file any documents."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao các công-ten-nơ bị giữ lại?\n(A) Hải quan thấy hồ sơ không khớp nhau.\n(B) Tàu gặp thời tiết xấu.\n(C) Gạch được xếp hàng ở sai cảng.\n(D) Người môi giới quên nộp hồ sơ.",
+    "explanation": "Hóa đơn thương mại và phiếu đóng gói ghi trọng lượng khác nhau nên hải quan giữ lô hàng để kiểm tra.",
+    "vocab": [
+      [
+        "container",
+        "n",
+        "công-ten-nơ"
+      ],
+      [
+        "customs",
+        "n",
+        "hải quan"
+      ],
+      [
+        "packing list",
+        "n",
+        "phiếu đóng gói"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g7",
+    "audioScript": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "audioVoiceText": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "questionText": "What will happen if the tiles arrive after Thursday?",
+    "options": [
+      "The installers will work weekends for free.",
+      "The vessel will return to the supplier.",
+      "The client will cancel the entire contract.",
+      "The company will lose a week and be charged penalties."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Điều gì sẽ xảy ra nếu gạch đến sau thứ Năm?\n(A) Thợ lắp sẽ làm cuối tuần không lương.\n(B) Tàu sẽ quay về nhà cung cấp.\n(C) Khách hàng sẽ hủy toàn bộ hợp đồng.\n(D) Công ty mất một tuần và bị phạt.",
+    "explanation": "Cô ấy nói thợ đang ở công trường mà không có gạch; nếu hàng không cập bờ trước thứ Năm thì mất cả tuần và khách bắt đầu tính phạt.",
+    "vocab": [
+      [
+        "installer",
+        "n",
+        "thợ lắp đặt"
+      ],
+      [
+        "penalty",
+        "n",
+        "tiền phạt"
+      ],
+      [
+        "land",
+        "v",
+        "cập bờ, đến"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g7",
+    "audioScript": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "audioVoiceText": "Woman: The containers of ceramic tiles were due on Tuesday, and the vessel is still sitting off the coast.\nMan: I saw the port update. Customs flagged the paperwork because the commercial invoice and the packing list show different weights.\nWoman: Our installers are on site with nothing to lay. If the tiles do not land by Thursday, we lose the whole week and the client starts charging penalties.\nMan: I will have our broker amend the documents today and ask for priority inspection. It will not be free, but it is cheaper than the delay.\nWoman: Do it, and send me the revised arrival estimate so I can warn the site manager before he sends his crew home.",
+    "questionText": "Why does the man accept the extra cost of priority inspection?",
+    "options": [
+      "The client agreed to share the fee.",
+      "The broker offered a discount.",
+      "It costs less than the consequences of the delay.",
+      "The port requires it for all shipments."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao người đàn ông chấp nhận chi phí kiểm tra ưu tiên?\n(A) Khách hàng đồng ý chia sẻ chi phí.\n(B) Người môi giới giảm giá.\n(C) Rẻ hơn hậu quả của việc chậm trễ.\n(D) Cảng yêu cầu điều này với mọi lô hàng.",
+    "explanation": "Anh ấy thừa nhận dịch vụ ưu tiên không miễn phí nhưng vẫn rẻ hơn thiệt hại mà việc chậm tiến độ gây ra.",
+    "vocab": [
+      [
+        "broker",
+        "n",
+        "người môi giới hải quan"
+      ],
+      [
+        "amend",
+        "v",
+        "chỉnh sửa"
+      ],
+      [
+        "priority inspection",
+        "n",
+        "kiểm tra ưu tiên"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g8",
+    "audioScript": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "audioVoiceText": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "questionText": "What did the candidate have difficulty discussing?",
+    "options": [
+      "Her previous salary.",
+      "Working rotating shifts.",
+      "Relocating to another city.",
+      "Managing a large team."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Ứng viên gặp khó khăn khi trao đổi về điều gì?\n(A) Mức lương trước đây của cô ấy.\n(B) Việc làm theo ca luân phiên.\n(C) Việc chuyển sang thành phố khác.\n(D) Việc quản lý một nhóm lớn.",
+    "explanation": "Anh ấy nói cô ấy vững chuyên môn nhất nhưng ngập ngừng ở mọi câu hỏi liên quan đến luân phiên ca làm việc.",
+    "vocab": [
+      [
+        "panel",
+        "n",
+        "hội đồng phỏng vấn"
+      ],
+      [
+        "hesitate",
+        "v",
+        "ngập ngừng"
+      ],
+      [
+        "rotation",
+        "n",
+        "sự luân phiên"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g8",
+    "audioScript": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "audioVoiceText": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "questionText": "Why would a rotating schedule be a problem for the candidate?",
+    "options": [
+      "She cares for a parent nearby and needs predictable hours.",
+      "She lives far from the warehouse.",
+      "She is studying for a degree at night.",
+      "She has a second job in the mornings."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao lịch làm việc luân ca lại là vấn đề với ứng viên?\n(A) Cô ấy chăm sóc người thân gần đó và cần giờ giấc ổn định.\n(B) Cô ấy sống xa kho hàng.\n(C) Cô ấy đang học đại học vào buổi tối.\n(D) Cô ấy có việc làm thêm vào buổi sáng.",
+    "explanation": "Cô ấy có người thân cần chăm sóc ở gần nên giờ giấc ổn định quan trọng hơn tiền làm thêm, trong khi vị trí tuyển dụng lại luân ca hàng tháng.",
+    "vocab": [
+      [
+        "predictable",
+        "adj",
+        "ổn định, dễ đoán"
+      ],
+      [
+        "overtime pay",
+        "n",
+        "tiền làm thêm giờ"
+      ],
+      [
+        "in care",
+        "adj",
+        "cần được chăm sóc"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g8",
+    "audioScript": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "audioVoiceText": "Man: I finished the panel notes for the logistics coordinator candidate. Technically she was the strongest, but she hesitated on every question about shift rotation.\nWoman: Hesitation is not disqualifying. Did she explain why rotating between day and night would be hard for her?\nMan: She has a parent in care nearby, so predictable hours matter more than overtime pay. The role we advertised rotates monthly.\nWoman: Then the honest move is to tell her before we make an offer, rather than let her find out in week one and resign.\nMan: Agreed. I will call her tomorrow and ask whether a fixed evening shift would suit her, and we can adjust the posting if it does.",
+    "questionText": "What does the woman recommend?",
+    "options": [
+      "Offering the candidate a higher salary.",
+      "Choosing a different candidate.",
+      "Raising the schedule issue before making an offer.",
+      "Delaying the start date by a month."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ khuyên điều gì?\n(A) Đề nghị mức lương cao hơn cho ứng viên.\n(B) Chọn một ứng viên khác.\n(C) Nêu vấn đề ca làm việc trước khi đưa lời mời làm việc.\n(D) Lùi ngày bắt đầu một tháng.",
+    "explanation": "Cô ấy cho rằng nên nói rõ với ứng viên trước khi ký hợp đồng, thay vì để cô ấy phát hiện ở tuần đầu rồi nghỉ việc.",
+    "vocab": [
+      [
+        "disqualifying",
+        "adj",
+        "đủ để bị loại"
+      ],
+      [
+        "resign",
+        "v",
+        "nghỉ việc"
+      ],
+      [
+        "posting",
+        "n",
+        "tin tuyển dụng"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g9",
+    "audioScript": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "audioVoiceText": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "questionText": "How much did the autumn campaign cost?",
+    "options": [
+      "About nine hundred dollars.",
+      "About twenty thousand dollars.",
+      "About forty thousand dollars.",
+      "About seventy-five thousand dollars."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Chiến dịch mùa thu tốn bao nhiêu?\n(A) Khoảng chín trăm đô-la.\n(B) Khoảng hai mươi nghìn đô-la.\n(C) Khoảng bốn mươi nghìn đô-la.\n(D) Khoảng bảy mươi lăm nghìn đô-la.",
+    "explanation": "Chiến dịch mùa xuân tốn bốn mươi nghìn đô-la; chiến dịch mùa thu chỉ dùng một nửa số đó, tức khoảng hai mươi nghìn.",
+    "vocab": [
+      [
+        "lead",
+        "n",
+        "khách hàng tiềm năng"
+      ],
+      [
+        "cost per lead",
+        "n",
+        "chi phí cho mỗi khách tiềm năng"
+      ],
+      [
+        "campaign",
+        "n",
+        "chiến dịch"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g9",
+    "audioScript": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "audioVoiceText": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "questionText": "Why does the woman question the comparison between the campaigns?",
+    "options": [
+      "Many autumn leads came from an in-house webinar series.",
+      "The spring campaign ran for a shorter period.",
+      "The autumn figures have not been audited.",
+      "The two campaigns targeted different regions."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao người phụ nữ đặt nghi vấn về việc so sánh hai chiến dịch?\n(A) Nhiều khách tiềm năng mùa thu đến từ chuỗi hội thảo trực tuyến do công ty tự tổ chức.\n(B) Chiến dịch mùa xuân chạy trong thời gian ngắn hơn.\n(C) Số liệu mùa thu chưa được kiểm toán.\n(D) Hai chiến dịch nhắm tới các khu vực khác nhau.",
+    "explanation": "Cô ấy lưu ý phần lớn khách tiềm năng mùa thu đến từ hội thảo do nhân viên công ty tự thực hiện, nên so sánh trực tiếp là chưa công bằng.",
+    "vocab": [
+      [
+        "webinar",
+        "n",
+        "hội thảo trực tuyến"
+      ],
+      [
+        "comparison",
+        "n",
+        "sự so sánh"
+      ],
+      [
+        "in-house",
+        "adj",
+        "do nội bộ thực hiện"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g9",
+    "audioScript": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "audioVoiceText": "Woman: The spring campaign cost us forty thousand dollars and produced nine hundred leads, which looks fine until you compare it with the autumn run.\nMan: Autumn spent half that and produced seven hundred and fifty. So the cost per lead fell from forty-four dollars to under thirty.\nWoman: Exactly. But the autumn leads came mostly from the webinar series, which our own staff ran, so the comparison is not entirely fair.\nMan: Still, it tells us the paid search budget is not pulling its weight. I would move a third of it into events and keep the rest for retargeting.\nWoman: Let us not decide today. Ask the analytics team to run the numbers without the webinar traffic.",
+    "questionText": "What does the woman want before changing the budget?",
+    "options": [
+      "A new creative agency.",
+      "Approval from the sales director.",
+      "A larger paid search allowance.",
+      "Figures that exclude the webinar traffic."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ muốn có gì trước khi thay đổi ngân sách?\n(A) Một agency sáng tạo mới.\n(B) Sự chấp thuận của giám đốc kinh doanh.\n(C) Khoản ngân sách quảng cáo tìm kiếm lớn hơn.\n(D) Số liệu không tính lượng khách đến từ hội thảo trực tuyến.",
+    "explanation": "Cô ấy đề nghị chưa quyết định hôm nay mà yêu cầu nhóm phân tích chạy lại số liệu sau khi loại phần hội thảo trực tuyến.",
+    "vocab": [
+      [
+        "retargeting",
+        "n",
+        "quảng cáo nhắm lại"
+      ],
+      [
+        "analytics",
+        "n",
+        "phân tích dữ liệu"
+      ],
+      [
+        "pull one's weight",
+        "v",
+        "đóng góp xứng đáng"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g10",
+    "audioScript": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "audioVoiceText": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "questionText": "What is the landlord asking the company to do?",
+    "options": [
+      "Vacate one of the three floors.",
+      "Pay the service charges separately.",
+      "Sign the renewal before the quarter ends.",
+      "Move into the ground-level suites."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Chủ tòa nhà đang yêu cầu công ty làm gì?\n(A) Trả lại một trong ba tầng.\n(B) Trả phí dịch vụ riêng.\n(C) Ký gia hạn trước khi quý kết thúc.\n(D) Chuyển xuống các phòng ở tầng trệt.",
+    "explanation": "Người phụ nữ nói chủ tòa nhà tăng giá thuê mười lăm phần trăm và muốn công ty ký hợp đồng gia hạn trước cuối quý.",
+    "vocab": [
+      [
+        "landlord",
+        "n",
+        "chủ tòa nhà cho thuê"
+      ],
+      [
+        "renewal",
+        "n",
+        "sự gia hạn"
+      ],
+      [
+        "quarter",
+        "n",
+        "quý"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g10",
+    "audioScript": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "audioVoiceText": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "questionText": "Why does the woman doubt the landlord's explanation?",
+    "options": [
+      "The building has never been renovated.",
+      "Service charges increased for every tenant, not just them.",
+      "The parking spaces are no longer available.",
+      "The lease has another two years to run."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người phụ nữ nghi ngờ lý do chủ tòa nhà đưa ra?\n(A) Tòa nhà chưa từng được cải tạo.\n(B) Phí dịch vụ tăng với mọi khách thuê, không riêng công ty.\n(C) Các chỗ đỗ xe không còn nữa.\n(D) Hợp đồng thuê còn hai năm nữa.",
+    "explanation": "Ông ấy viện cớ phí dịch vụ tăng, nhưng cô ấy biết mức tăng áp dụng cho tất cả khách thuê nên cho rằng ông đang thử xem công ty có gia hạn mà không mặc cả.",
+    "vocab": [
+      [
+        "service charge",
+        "n",
+        "phí dịch vụ"
+      ],
+      [
+        "tenant",
+        "n",
+        "khách thuê"
+      ],
+      [
+        "negotiate",
+        "v",
+        "thương lượng"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g10",
+    "audioScript": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "audioVoiceText": "Woman: The landlord's renewal offer is up fifteen percent, and he wants us to sign before the end of the quarter.\nMan: Fifteen percent on three floors is a lot. Did he explain why? The building still has two empty suites on the ground level.\nWoman: He mentioned higher service charges, but those went up for every tenant, not just us. I think he is testing whether we will renew without negotiating.\nMan: Then we counter at eight percent and offer to extend to five years if he includes the parking spaces we currently pay for separately.\nWoman: Careful with five years. Let us ask for a break clause after three in case we shrink the team again.",
+    "questionText": "What concerns the woman about the man's counteroffer?",
+    "options": [
+      "The counter price is too low to be accepted.",
+      "The parking spaces are too expensive.",
+      "The landlord will refuse to negotiate.",
+      "A five-year commitment is too long."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ lo ngại điều gì ở đề nghị đối ứng của người đàn ông?\n(A) Mức giá đối ứng quá thấp nên khó được chấp nhận.\n(B) Chỗ đỗ xe quá đắt.\n(C) Chủ tòa nhà sẽ từ chối thương lượng.\n(D) Cam kết năm năm là quá dài.",
+    "explanation": "Cô ấy muốn có điều khoản cho phép chấm dứt sau ba năm, phòng trường hợp công ty lại thu hẹp nhân sự.",
+    "vocab": [
+      [
+        "counter",
+        "v",
+        "đưa giá đối ứng"
+      ],
+      [
+        "break clause",
+        "n",
+        "điều khoản được chấm dứt sớm"
+      ],
+      [
+        "shrink",
+        "v",
+        "thu hẹp"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g11",
+    "audioScript": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "audioVoiceText": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "questionText": "Why is the woman concerned about Dr. Osei's schedule?",
+    "options": [
+      "There may not be enough time to travel from the airport.",
+      "The flight has already been cancelled.",
+      "The venue has double-booked the hall.",
+      "Dr. Osei has not sent her slides."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao người phụ nữ lo về lịch trình của tiến sĩ Osei?\n(A) Có thể không đủ thời gian đi từ sân bay về.\n(B) Chuyến bay đã bị hủy.\n(C) Hội trường đã bị đặt trùng.\n(D) Tiến sĩ Osei chưa gửi slide.",
+    "explanation": "Máy bay hạ cánh lúc bảy giờ bốn mươi còn bài nói bắt đầu lúc chín; quãng đường bốn mươi phút có thể tăng gấp đôi vì công trường trên đường vành đai.",
+    "vocab": [
+      [
+        "cut it fine",
+        "v",
+        "sát giờ, không dư thời gian"
+      ],
+      [
+        "venue",
+        "n",
+        "địa điểm tổ chức"
+      ],
+      [
+        "roadworks",
+        "n",
+        "công trường sửa đường"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g11",
+    "audioScript": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "audioVoiceText": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "questionText": "What does the man say can be changed at short notice?",
+    "options": [
+      "The printed programme.",
+      "The workshop room.",
+      "The schedule in the conference app.",
+      "The delegates' registration fees."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông nói điều gì có thể thay đổi trong thời gian ngắn?\n(A) Chương trình đã in.\n(B) Phòng hội thảo.\n(C) Lịch trong ứng dụng hội nghị.\n(D) Lệ phí đăng ký của đại biểu.",
+    "explanation": "Anh ấy nói chương trình đã in thì khó sửa, nhưng ứng dụng có thể cập nhật chỉ trong vài phút.",
+    "vocab": [
+      [
+        "slot",
+        "n",
+        "khung giờ"
+      ],
+      [
+        "delegate",
+        "n",
+        "đại biểu"
+      ],
+      [
+        "registration",
+        "n",
+        "việc đăng ký"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g11",
+    "audioScript": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "audioVoiceText": "Woman: Dr. Osei speaks at nine on Saturday, and her flight lands at seven forty in the morning.\nMan: That is tight. The airport is forty minutes from the venue on a good day, and Saturday morning roadworks on the ring road could double it.\nWoman: Could we move her to the eleven o'clock slot? The workshop after it can shift to the afternoon if we tell the delegates at registration.\nMan: The programme is already printed, but the app can be updated in minutes. However, she asked for a quiet room to review her slides.\nWoman: I will book a small room from eight and arrange a car, so she can rehearse before going on stage.",
+    "questionText": "What will the woman arrange for the speaker?",
+    "options": [
+      "A larger lecture hall.",
+      "A car and a quiet room to rehearse.",
+      "An extra session on Sunday.",
+      "A translator for the workshop."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ sẽ sắp xếp gì cho diễn giả?\n(A) Một hội trường lớn hơn.\n(B) Xe đưa đón và một phòng yên tĩnh để tập dượt.\n(C) Thêm một phiên vào Chủ nhật.\n(D) Phiên dịch cho buổi hội thảo.",
+    "explanation": "Cô ấy sẽ đặt một phòng họp nhỏ từ tám giờ và sắp xe, để diễn giả tập dượt ngay khi tới thay vì lên sân khấu luôn.",
+    "vocab": [
+      [
+        "rehearse",
+        "v",
+        "tập dượt"
+      ],
+      [
+        "arrange",
+        "v",
+        "sắp xếp"
+      ],
+      [
+        "on stage",
+        "adv",
+        "trên sân khấu"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g12",
+    "audioScript": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "audioVoiceText": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "questionText": "Why was the complaint escalated?",
+    "options": [
+      "The customer used offensive language.",
+      "The refund exceeded the allowed amount.",
+      "Several messages about the same billing issue went unanswered.",
+      "The account was passed to a collection agency."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao khiếu nại bị đẩy lên cấp cao hơn?\n(A) Khách hàng dùng ngôn từ xúc phạm.\n(B) Khoản hoàn tiền vượt mức cho phép.\n(C) Nhiều tin nhắn về cùng một vấn đề hóa đơn không được trả lời.\n(D) Tài khoản bị chuyển cho công ty thu hồi nợ.",
+    "explanation": "Khách đã gửi bốn email về cùng một vụ tranh chấp hóa đơn mà không ai trả lời đúng câu hỏi, nên hồ sơ được đẩy lên cấp hai.",
+    "vocab": [
+      [
+        "escalate",
+        "v",
+        "đẩy lên cấp cao hơn"
+      ],
+      [
+        "billing dispute",
+        "n",
+        "tranh chấp hóa đơn"
+      ],
+      [
+        "tier",
+        "n",
+        "cấp, bậc"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g12",
+    "audioScript": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "audioVoiceText": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "questionText": "What keeps the error appearing on the statements?",
+    "options": [
+      "The refund was never issued.",
+      "The invoice record was never corrected.",
+      "The bank reverses every refund.",
+      "The customer keeps reordering the service."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì khiến lỗi cứ lặp lại trên sao kê?\n(A) Khoản hoàn tiền chưa bao giờ được phát hành.\n(B) Bản ghi hóa đơn chưa từng được sửa.\n(C) Ngân hàng hoàn ngược mọi khoản hoàn tiền.\n(D) Khách hàng liên tục đặt lại dịch vụ.",
+    "explanation": "Tiền hoàn đã về thẻ, nhưng bản ghi hóa đơn vẫn giữ khoản thu hai lần nên kỳ sao kê nào cũng lặp lại sai sót.",
+    "vocab": [
+      [
+        "refund",
+        "n",
+        "khoản hoàn tiền"
+      ],
+      [
+        "statement",
+        "n",
+        "sao kê"
+      ],
+      [
+        "invoice",
+        "n",
+        "hóa đơn"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g12",
+    "audioScript": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "audioVoiceText": "Man: I have escalated the Delaney account to tier two. She has written four emails about the same billing dispute and nobody has answered the actual question.\nWoman: What is the dispute? She was charged twice in March, we refunded once, and the statement still shows both.\nMan: Correct. Our refund cleared her card, but the invoice record was never corrected, so every statement she receives repeats the error.\nWoman: That is exactly the kind of thing that turns a small refund into a review on a public site. Who owns the invoice correction?\nMan: Normally accounts receivable, but the agent who handled it left in April. I would rather fix the record myself today than pass it around.",
+    "questionText": "What does the man decide to do?",
+    "options": [
+      "Wait for the agent to return from leave.",
+      "Escalate the case to a third tier.",
+      "Offer the customer a discount.",
+      "Correct the invoice record himself right away."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông quyết định làm gì?\n(A) Chờ nhân viên cũ đi nghỉ về.\n(B) Đẩy vụ việc lên cấp ba.\n(C) Đề nghị khách hàng một khoản giảm giá.\n(D) Tự sửa bản ghi hóa đơn ngay hôm nay.",
+    "explanation": "Nhân viên phụ trách đã nghỉ từ tháng Tư và anh ấy không muốn chuyển hồ sơ vòng vo thêm, nên tự tay sửa bản ghi.",
+    "vocab": [
+      [
+        "accounts receivable",
+        "n",
+        "bộ phận công nợ phải thu"
+      ],
+      [
+        "pass around",
+        "v",
+        "đùn đẩy, chuyển vòng"
+      ],
+      [
+        "own",
+        "v",
+        "chịu trách nhiệm"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g13",
+    "audioScript": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "audioVoiceText": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "questionText": "What product is being recalled?",
+    "options": [
+      "Infant monitors with a faulty battery latch.",
+      "Baby food from a single supplier.",
+      "Hospital beds with loose wheels.",
+      "Toy cars sold through retailers."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Sản phẩm nào đang bị thu hồi?\n(A) Thiết bị theo dõi trẻ sơ sinh có chốt pin lỗi.\n(B) Thực phẩm cho bé từ một nhà cung cấp.\n(C) Giường bệnh có bánh xe lỏng.\n(D) Ô tô đồ chơi bán qua nhà bán lẻ.",
+    "explanation": "Mở đầu cuộc trao đổi nêu rõ thông báo thu hồi áp dụng cho lô thiết bị theo dõi trẻ sơ sinh có chốt pin bị lỗi.",
+    "vocab": [
+      [
+        "recall",
+        "n",
+        "việc thu hồi sản phẩm"
+      ],
+      [
+        "batch",
+        "n",
+        "lô hàng"
+      ],
+      [
+        "latch",
+        "n",
+        "chốt khóa"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g13",
+    "audioScript": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "audioVoiceText": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "questionText": "What is holding up the recall notice?",
+    "options": [
+      "The return labels cannot be printed.",
+      "Retail partners refuse to cooperate.",
+      "Two manufacturers have not supplied serial records.",
+      "Legal review was postponed indefinitely."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì đang làm chậm thông báo thu hồi?\n(A) Không in được nhãn trả hàng.\n(B) Các đối tác bán lẻ từ chối hợp tác.\n(C) Hai nhà sản xuất chưa cung cấp hồ sơ số sê-ri.\n(D) Việc rà soát pháp lý bị hoãn vô thời hạn.",
+    "explanation": "Nhãn có thể gửi qua đêm, nhưng danh sách số sê-ri vẫn thiếu vì hai nhà sản xuất gia công chưa gửi hồ sơ.",
+    "vocab": [
+      [
+        "serial number",
+        "n",
+        "số sê-ri"
+      ],
+      [
+        "contract manufacturer",
+        "n",
+        "nhà sản xuất gia công"
+      ],
+      [
+        "overnight",
+        "adv",
+        "qua đêm"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t2-p3-g13",
+    "audioScript": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "audioVoiceText": "Woman: The recall notice goes out on Monday for the batch of infant monitors with the faulty battery latch.\nMan: Retail partners need the serial ranges, the return labels and a script for staff, and right now they have none of those.\nWoman: We can ship the labels overnight, but the serial list is the problem. Two of the contract manufacturers still have not sent their records.\nMan: Then we announce the ranges we know and tell customers how to check the label on the unit. Partial information beats silence once a child is at risk.\nWoman: I will draft the wording tonight and have legal review it at seven tomorrow so the notice still leaves on time.",
+    "questionText": "Why does the man favor releasing incomplete information?",
+    "options": [
+      "It protects the company from lawsuits.",
+      "It allows retailers to keep selling the units.",
+      "It speeds up the legal review.",
+      "Children's safety matters more than having complete details."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Vì sao người đàn ông muốn công bố thông tin chưa đầy đủ?\n(A) Nó bảo vệ công ty khỏi kiện tụng.\n(B) Nó cho phép nhà bán lẻ tiếp tục bán thiết bị.\n(C) Nó đẩy nhanh việc rà soát pháp lý.\n(D) An toàn của trẻ quan trọng hơn việc có đủ thông tin.",
+    "explanation": "Anh ấy cho rằng khi đã có nguy cơ với trẻ nhỏ thì công bố một phần vẫn tốt hơn im lặng, kèm hướng dẫn khách tự kiểm tra nhãn.",
+    "vocab": [
+      [
+        "partial",
+        "adj",
+        "một phần"
+      ],
+      [
+        "at risk",
+        "adj",
+        "gặp nguy hiểm"
+      ],
+      [
+        "draft",
+        "v",
+        "soạn thảo"
+      ]
+    ]
+  }
+]

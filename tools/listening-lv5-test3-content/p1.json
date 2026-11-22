@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "Several employees are seated around a table with their laptops open.",
+      "The window blinds are being lowered by one of the employees.",
+      "A tray of coffee cups has been left outside the door.",
+      "All the chairs in the room are still wrapped in plastic."
+    ],
+    "correct": "A",
+    "translation": "(A) Vài nhân viên đang ngồi quanh bàn với máy tính xách tay đang mở.\n(B) Một nhân viên đang kéo rèm cửa xuống.\n(C) Một khay cốc cà phê đã bị để ngoài cửa.\n(D) Tất cả ghế trong phòng vẫn còn bọc ni-lông.",
+    "explanation": "Bối cảnh: nhóm nhân viên ngồi quanh bàn họp, màn hình máy tính mở, tài liệu và bút đặt trước mặt. Phương án nói về việc kéo rèm là sai hành động vì rèm đang ở trạng thái kéo lên; phương án nhắc khay cốc ngoài cửa sai vật thể và vị trí (cốc nằm trên bàn); phương án nói ghế còn bọc ni-lông sai trạng thái vì ghế đã bỏ bọc và có người ngồi.",
+    "vocab": [
+      ["laptop", "n", "máy tính xách tay"],
+      ["blinds", "n", "rèm cửa"],
+      ["wrap", "v", "bọc, gói"],
+      ["agenda", "n", "chương trình họp"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "Workers are lifting boxes into the back of a van.",
+      "The van has been parked inside the garage for repairs.",
+      "A driver is washing the windshield of the van.",
+      "The boxes are being unloaded from the van onto the pavement."
+    ],
+    "correct": "A",
+    "translation": "(A) Các công nhân đang nâng thùng hàng lên khoang sau của xe tải nhỏ.\n(B) Chiếc xe đã được đỗ trong ga-ra để sửa chữa.\n(C) Một tài xế đang rửa kính chắn gió của xe.\n(D) Các thùng hàng đang được dỡ từ xe xuống vỉa hè.",
+    "explanation": "Bối cảnh: hai công nhân bê thùng giấy từ vỉa hè đưa lên khoang sau của xe tải nhỏ đang mở cửa, xe đỗ ở bãi lộ thiên. Phương án nói xe nằm trong ga-ra sai địa điểm; phương án rửa kính sai hành động vì không có ai cầm vòi nước; phương án dỡ hàng xuống đảo ngược chiều hành động, thùng đang được đưa lên chứ không lấy xuống.",
+    "vocab": [
+      ["load", "v", "chất, bốc lên"],
+      ["van", "n", "xe tải nhỏ"],
+      ["pavement", "n", "vỉa hè"],
+      ["windshield", "n", "kính chắn gió"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "A clerk is handing a ticket to a customer at the counter.",
+      "Passengers are waiting in a long line outside the terminal.",
+      "The ticket machine has been removed from the wall.",
+      "A customer is checking the departure board above the counter."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên đang đưa vé cho khách tại quầy.\n(B) Hành khách đang xếp hàng dài bên ngoài nhà ga.\n(C) Máy bán vé đã được tháo khỏi tường.\n(D) Một khách hàng đang xem bảng giờ khởi hành phía trên quầy.",
+    "explanation": "Bối cảnh: nhân viên sau quầy bán vé chìa tấm vé qua mặt quầy cho người khách đứng đối diện, chỉ có một khách tại quầy. Phương án nói hành khách xếp hàng ngoài nhà ga sai vị trí vì không có hàng người; phương án máy bán vé bị tháo sai vật thể, máy vẫn gắn trên tường; phương án khách xem bảng giờ khởi hành sai hành động vì người khách đang nhận vé chứ không nhìn lên bảng.",
+    "vocab": [
+      ["ticket", "n", "vé"],
+      ["clerk", "n", "nhân viên bán vé"],
+      ["departure board", "n", "bảng giờ khởi hành"],
+      ["terminal", "n", "nhà ga"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "A worker in safety goggles is operating a machine.",
+      "The machines have been disconnected for the holiday.",
+      "A metal part is being measured with a ruler.",
+      "Two workers are sweeping the floor near the entrance."
+    ],
+    "correct": "A",
+    "translation": "(A) Một công nhân đeo kính bảo hộ đang vận hành máy.\n(B) Các máy móc đã được ngắt điện để nghỉ lễ.\n(C) Một chi tiết kim loại đang được đo bằng thước.\n(D) Hai công nhân đang quét sàn gần lối vào.",
+    "explanation": "Bối cảnh: công nhân đội mũ và đeo kính bảo hộ, hai tay điều khiển bảng nút của máy đang chạy, tia phoi bắn ra. Phương án nói máy đã ngắt điện sai trạng thái vì máy đang hoạt động; phương án đo chi tiết bằng thước sai hành động và vật thể, không có thước trong tay; phương án quét sàn sai hành động vì sàn có phoi nhưng không ai cầm chổi.",
+    "vocab": [
+      ["goggles", "n", "kính bảo hộ"],
+      ["operate", "v", "vận hành"],
+      ["disconnect", "v", "ngắt kết nối, cắt điện"],
+      ["sweep", "v", "quét"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "A bellhop is loading suitcases onto a luggage cart.",
+      "Guests are checking in at the front desk.",
+      "A luggage cart has been left in the hallway overnight.",
+      "The bellhop is carrying a single bag up the stairs."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên xách hành lý đang chất va li lên xe đẩy.\n(B) Các vị khách đang làm thủ tục nhận phòng tại quầy lễ tân.\n(C) Một xe đẩy hành lý đã bị để ở hành lang qua đêm.\n(D) Nhân viên xách hành lý đang mang một chiếc túi lên cầu thang.",
+    "explanation": "Bối cảnh: nhân viên mặc đồng phục khách sạn cúi xuống xếp từng chiếc va li lên xe đẩy bằng kim loại ngay trong sảnh. Phương án nói khách làm thủ tục tại quầy lễ tân sai hành động vì không có ai đứng ở quầy; phương án xe đẩy bị bỏ qua đêm sai trạng thái vì xe đang được dùng; phương án mang một túi lên cầu thang sai chi tiết, có nhiều va li và không có cầu thang.",
+    "vocab": [
+      ["bellhop", "n", "nhân viên xách hành lý"],
+      ["luggage cart", "n", "xe đẩy hành lý"],
+      ["suitcase", "n", "va li"],
+      ["check in", "v", "làm thủ tục nhận phòng"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "",
+    "imageCaption": "",
+    "imageUrl": "",
+    "options": [
+      "Customers are sitting at tables shaded by umbrellas.",
+      "A waiter is wiping down the counter indoors.",
+      "The umbrellas have been folded away for the winter.",
+      "A menu is being posted on the wall beside the door."
+    ],
+    "correct": "A",
+    "translation": "(A) Khách đang ngồi ở những chiếc bàn được dù che bóng.\n(B) Một người phục vụ đang lau quầy bên trong.\n(C) Những chiếc dù đã được xếp lại cho mùa đông.\n(D) Một tấm thực đơn đang được dán lên tường cạnh cửa.",
+    "explanation": "Bối cảnh: khu sân ngoài trời của quán cà phê, các bàn nhỏ đặt dưới những chiếc dù lớn đang mở, thực khách ngồi trò chuyện. Phương án lau quầy trong nhà sai địa điểm vì toàn bộ khung hình ở ngoài trời; phương án dù đã xếp lại sai trạng thái vì dù đang căng mở; phương án dán thực đơn lên tường sai hành động, không có ai cầm tờ giấy.",
+    "vocab": [
+      ["umbrella", "n", "dù, ô"],
+      ["shade", "v", "che bóng"],
+      ["wipe down", "v", "lau chùi"],
+      ["outdoor", "adj", "ngoài trời"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INTERNAL E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All employees<br>From: Maria Chen, Director of Human Resources<br>Subject: Revised business travel policy</p><p class=\"mt-2\">Effective October 1, the company will no longer reimburse employees for first-class airfare on flights under five hours. Business-class upgrades remain permissible only for itineraries exceeding eight hours. Receipts for hotel stays above the negotiated corporate rate will be approved at the discretion of your department head. Any exception to these rules must be submitted through the new online request portal at least ten business days before departure. Because the previous policy generated significant overspending, we anticipate the revisions will reduce travel costs by roughly fifteen percent next quarter. Please direct questions to the travel desk rather than to your direct manager.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What is the main purpose of the e-mail?",
+        "options": [
+          "To invite employees to a training session on booking flights",
+          "To announce new rules for reimbursing travel expenses",
+          "To encourage staff to travel more frequently",
+          "To request feedback on a proposed budget reduction"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của e-mail là gì? — Thông báo các quy định mới về việc hoàn trả chi phí đi lại.",
+        "explanation": "E-mail liệt kê các quy định mới như \"will no longer reimburse employees for first-class airfare\" và \"must be submitted through the new online request portal\", nhằm công bố chính sách hoàn trả chi phí đi lại đã sửa đổi.",
+        "vocab": [
+          ["reimburse", "v.", "hoàn trả (chi phí)"],
+          ["itinerary", "n.", "lộ trình, hành trình"],
+          ["discretion", "n.", "quyền quyết định, sự thận trọng"]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "What is implied about the previous travel policy?",
+        "options": [
+          "It produced spending beyond what the company had planned.",
+          "It prohibited employees from upgrading to business class.",
+          "It required all requests to be filed through an online portal.",
+          "It was introduced less than a year ago."
+        ],
+        "answer": "A",
+        "translation": "Điều gì được ngụ ý về chính sách đi lại trước đây? — Nó đã tạo ra chi phí vượt quá dự kiến của công ty.",
+        "explanation": "Thư viết \"the previous policy generated significant overspending\", cho thấy chính sách cũ khiến chi tiêu vượt mức, do đó các sửa đổi được kỳ vọng giảm chi phí.",
+        "vocab": [
+          ["overspending", "n.", "sự chi tiêu quá mức"],
+          ["anticipate", "v.", "dự đoán, kỳ vọng"],
+          ["revise", "v.", "sửa đổi"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">COMPANY-WIDE SECURITY NOTICE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Starting next month, all employees who connect to internal systems from outside the office must enroll in the new two-factor authentication program. Enrollment takes no more than fifteen minutes and requires a mobile device with the company's authenticator application installed. Staff who fail to enroll by the deadline will have their remote access suspended until they complete the process. The security team will host drop-in sessions every Wednesday from 9:00 to 11:00 for those who need assistance. Furthermore, password rotations will shift from every ninety days to every sixty days, and passwords must now contain at least twelve characters, including a symbol. Managers are responsible for verifying that every team member has complied. These measures respond to a recent increase in phishing attempts targeting our sector.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "What is the primary purpose of the notice?",
+        "options": [
+          "To inform staff of new security requirements",
+          "To recruit employees for the security team",
+          "To report on a recent phishing attack",
+          "To announce a change in office hours"
+        ],
+        "answer": "A",
+        "translation": "Mục đích chính của thông báo là gì? — Thông báo cho nhân viên các yêu cầu bảo mật mới.",
+        "explanation": "Thông báo nêu các quy định mới như \"must enroll in the new two-factor authentication program\" và yêu cầu mật khẩu \"at least twelve characters\", nhằm phổ biến các yêu cầu bảo mật mới cho toàn thể nhân viên.",
+        "vocab": [
+          ["enroll", "v.", "đăng ký tham gia"],
+          ["authentication", "n.", "xác thực"],
+          ["phishing", "n.", "lừa đảo trực tuyến"]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "Which of the following is NOT required under the new policy?",
+        "options": [
+          "Enrolling in two-factor authentication",
+          "Installing the authenticator application on a mobile device",
+          "Creating passwords with at least twelve characters",
+          "Submitting a written request to the security team"
+        ],
+        "answer": "D",
+        "translation": "Điều nào sau đây KHÔNG được yêu cầu theo chính sách mới? — Gửi yêu cầu bằng văn bản cho nhóm bảo mật.",
+        "explanation": "Các yêu cầu được nêu gồm: đăng ký xác thực hai lớp, cài ứng dụng xác thực trên thiết bị di động, và mật khẩu ít nhất mười hai ký tự. Việc \"submitting a written request to the security team\" không được đề cập.",
+        "vocab": [
+          ["suspend", "v.", "đình chỉ, tạm ngưng"],
+          ["comply", "v.", "tuân thủ"],
+          ["rotation", "n.", "sự luân phiên thay đổi"]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "What is implied about the drop-in sessions?",
+        "options": [
+          "They are mandatory for all employees.",
+          "They were created because some staff may find enrollment difficult.",
+          "They will replace the online enrollment process.",
+          "They are open only to newly hired employees."
+        ],
+        "answer": "B",
+        "translation": "Điều gì được ngụ ý về các buổi hỗ trợ tự do? — Chúng được tổ chức vì một số nhân viên có thể gặp khó khăn khi đăng ký.",
+        "explanation": "Thông báo nói các buổi \"drop-in sessions\" dành cho \"those who need assistance\", ngụ ý rằng ban tổ chức dự đoán một số nhân viên sẽ cần trợ giúp trong quá trình đăng ký.",
+        "vocab": [
+          ["assistance", "n.", "sự hỗ trợ"],
+          ["verify", "v.", "xác minh, kiểm tra"],
+          ["deadline", "n.", "hạn chót"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following excerpt from a service agreement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SOFTWARE MAINTENANCE AGREEMENT (EXCERPT)</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">This Maintenance Agreement is entered into by Bright Solutions Ltd. (\"the Provider\") and the Client named above. The Provider shall deliver software updates and technical support during standard business hours, Monday through Friday, excluding public holidays. The Client agrees to pay an annual fee of nine thousand dollars, invoiced in advance on the first day of each contract year. Either party may terminate this agreement by giving written notice at least sixty days before the end of a contract year; otherwise, the agreement renews automatically for a further twelve months. The Provider's total liability under this agreement shall not exceed the fees paid by the Client in the twelve months preceding any claim. Support requests must be filed through the Provider's ticketing system, and urgent issues will be prioritized according to the severity level selected by the Client.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "What happens if neither party submits a termination notice at least sixty days prior to the end of a contract year?",
+        "options": [
+          "The annual fee increases to reflect expanded severity-level support.",
+          "The agreement automatically extends for an additional twelve-month term.",
+          "Technical support shifts exclusively to urgent ticket requests.",
+          "The client forfeits the right to file liability claims the following year."
+        ],
+        "answer": "B",
+        "translation": "Điều gì xảy ra nếu không bên nào gửi thông báo chấm dứt ít nhất sáu mươi ngày trước khi kết thúc năm hợp đồng? — Thỏa thuận tự động gia hạn thêm một kỳ mười hai tháng nữa.",
+        "explanation": "Đoạn trích nêu rõ 'otherwise, the agreement renews automatically for a further twelve months'. A, C và D đều bịa đặt hậu quả không có trong hợp đồng.",
+        "vocab": [
+          ["terminate", "v.", "chấm dứt, hủy bỏ"],
+          ["liability", "n.", "trách nhiệm pháp lý, nghĩa vụ bồi thường"],
+          ["invoice", "v.", "xuất hóa đơn"]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "The word \"preceding\" in the excerpt is closest in meaning to",
+        "options": [
+          "concurrent with",
+          "subsequent to",
+          "immediately prior to",
+          "contingent upon"
+        ],
+        "answer": "C",
+        "translation": "Từ \"preceding\" trong đoạn trích gần nghĩa nhất với — ngay trước đó (immediately prior to).",
+        "explanation": "Cụm 'in the twelve months preceding any claim' chỉ khoảng thời gian mười hai tháng liền trước khi phát sinh yêu cầu bồi thường. 'concurrent with' (song song với), 'subsequent to' (sau đó) và 'contingent upon' (phụ thuộc vào) đều sai nghĩa.",
+        "vocab": [
+          ["renew", "v.", "gia hạn"],
+          ["automatically", "adv.", "một cách tự động"],
+          ["preceding", "adj.", "trước đó, liền trước"]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "What is implied about the Provider's financial responsibility?",
+        "options": [
+          "It is unlimited in cases of urgent issues.",
+          "It is limited to the amount paid during the prior year.",
+          "It covers claims filed after the contract has ended.",
+          "It increases each time the contract is renewed."
+        ],
+        "answer": "B",
+        "translation": "Điều gì được ngụ ý về trách nhiệm tài chính của Nhà cung cấp? — Nó được giới hạn ở số tiền đã trả trong năm trước đó.",
+        "explanation": "Đoạn trích quy định \"total liability ... shall not exceed the fees paid by the Client in the twelve months preceding any claim\", tức trách nhiệm bồi thường bị giới hạn ở mức phí năm trước.",
+        "vocab": [
+          ["exceed", "v.", "vượt quá"],
+          ["claim", "n.", "yêu cầu bồi thường, khiếu nại"],
+          ["severity", "n.", "mức độ nghiêm trọng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following financial summary:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">SECOND-QUARTER FINANCIAL SUMMARY</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Second-quarter revenue reached 48.2 million dollars, an increase of 11 percent over the same period last year and slightly above the 47 million forecast issued in April. Operating income, however, declined by 4 percent to 6.1 million dollars, as rising freight and raw-material costs outpaced the growth in sales. Gross margin accordingly narrowed from 31 to 28 percent. Management attributes the cost pressure to higher shipping rates and to a weaker domestic currency, which made imported components more expensive. Despite these headwinds, the company maintained its full-year guidance, citing strong order backlogs in the industrial segment. Cash from operations was 5.8 million dollars, and the board has approved a quarterly dividend of twenty cents per share, payable on the fifteenth of next month.</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "Which statement best explains why operating income declined despite higher sales?",
+        "options": [
+          "A stronger domestic currency reduced export revenues below the April forecast.",
+          "Escalating freight and raw-material expenses grew faster than revenue.",
+          "Management lowered the quarterly dividend to offset weak industrial demand.",
+          "Second-quarter cash from operations fell short of the 47 million forecast."
+        ],
+        "answer": "B",
+        "translation": "Phát biểu nào giải thích đúng nhất vì sao lợi nhuận hoạt động giảm dù doanh thu tăng? — Chi phí vận chuyển và nguyên liệu leo thang nhanh hơn tốc độ tăng doanh thu.",
+        "explanation": "Báo cáo nêu 'rising freight and raw-material costs outpaced the growth in sales', khiến biên lợi nhuận gộp co hẹp từ 31% xuống 28%. A đảo ngược sự kiện (đồng nội tệ yếu hơn làm linh kiện nhập khẩu đắt hơn, còn doanh thu vẫn vượt dự báo 47 triệu); C sai vì nhu cầu công nghiệp có lượng đơn tồn mạnh; D đánh tráo số liệu doanh thu với dòng tiền.",
+        "vocab": [
+          ["operating income", "n.", "lợi nhuận hoạt động"],
+          ["freight", "n.", "cước vận chuyển"],
+          ["gross margin", "n.", "biên lợi nhuận gộp"]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "The phrase \"maintained its full-year guidance\" most nearly means that the company",
+        "options": [
+          "reduced its annual targets",
+          "kept its annual forecast unchanged",
+          "suspended its annual reporting",
+          "extended the length of its fiscal year"
+        ],
+        "answer": "B",
+        "translation": "Cụm \"maintained its full-year guidance\" gần nghĩa nhất với — giữ nguyên dự báo cả năm.",
+        "explanation": "\"Maintained\" nghĩa là giữ nguyên, \"full-year guidance\" là dự báo cho cả năm; do đó cụm từ này có nghĩa công ty giữ nguyên dự báo cả năm, dù gặp khó khăn về chi phí.",
+        "vocab": [
+          ["guidance", "n.", "dự báo định hướng"],
+          ["headwind", "n.", "trở ngại, lực cản"],
+          ["outpace", "v.", "tăng nhanh hơn"]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "Which word best describes management's attitude toward the company's performance?",
+        "options": [
+          "alarmed",
+          "confident",
+          "indifferent",
+          "apologetic"
+        ],
+        "answer": "B",
+        "translation": "Từ nào mô tả đúng nhất thái độ của ban lãnh đạo về kết quả kinh doanh? — Tự tin (confident).",
+        "explanation": "Dù lợi nhuận giảm, ban lãnh đạo vẫn \"maintained its full-year guidance, citing strong order backlogs\", thể hiện sự tự tin vào triển vọng; do đó thái độ phù hợp nhất là \"confident\".",
+        "vocab": [
+          ["backlog", "n.", "lượng đơn hàng tồn đọng"],
+          ["dividend", "n.", "cổ tức"],
+          ["attribute", "v.", "quy cho, cho là do"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following article:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LOGISTICS FIRM ACCELERATES WAREHOUSE AUTOMATION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Regional logistics operator Meridian Freight announced plans to install robotic sorting equipment in six of its eleven distribution centers by the end of next year. The investment, valued at forty million dollars, is intended to shorten order-processing times and reduce reliance on temporary labor during peak seasons. Chief Executive Daniel Okafor said the move was driven less by immediate cost savings than by a need to remain competitive as online retailers demand ever faster delivery. Analysts note that automation has historically displaced entry-level positions, although Meridian insists that affected staff will be retrained for maintenance and supervisory roles rather than laid off. The firm has not ruled out further acquisitions, and executives hinted that a second round of investment could target its cold-storage facilities, which currently operate at near capacity.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "According to Mr. Okafor, what is the main reason for the investment?",
+        "options": [
+          "To cut costs immediately",
+          "To keep pace with competitors",
+          "To close unprofitable distribution centers",
+          "To raise prices for online retailers"
+        ],
+        "answer": "B",
+        "translation": "Theo ông Okafor, lý do chính của khoản đầu tư là gì? — Để bắt kịp các đối thủ cạnh tranh.",
+        "explanation": "Ông Okafor nói khoản đầu tư xuất phát từ \"a need to remain competitive\", nghĩa là cần duy trì sức cạnh tranh, chứ không phải để cắt giảm chi phí ngay lập tức.",
+        "vocab": [
+          ["automation", "n.", "sự tự động hóa"],
+          ["reliance", "n.", "sự phụ thuộc"],
+          ["distribution", "n.", "sự phân phối"]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "The word \"displaced\" in the article is closest in meaning to",
+        "options": [
+          "replaced",
+          "trained",
+          "promoted",
+          "hired"
+        ],
+        "answer": "A",
+        "translation": "Từ \"displaced\" trong bài báo gần nghĩa nhất với — thay thế (replaced).",
+        "explanation": "\"Automation has historically displaced entry-level positions\" nghĩa là tự động hóa đã thay thế các vị trí cấp thấp; do đó \"displaced\" gần nghĩa nhất với \"replaced\".",
+        "vocab": [
+          ["displace", "v.", "thay thế, chiếm chỗ"],
+          ["supervisory", "adj.", "thuộc giám sát"],
+          ["retrain", "v.", "đào tạo lại"]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "What does the article suggest about Meridian's next likely investment?",
+        "options": [
+          "It will focus on cold-storage facilities.",
+          "It will be delayed indefinitely.",
+          "It will target the hiring of entry-level staff.",
+          "It will replace the robotic sorting equipment."
+        ],
+        "answer": "A",
+        "translation": "Bài báo gợi ý gì về khoản đầu tư tiếp theo có khả năng xảy ra của Meridian? — Nó sẽ tập trung vào các cơ sở kho lạnh.",
+        "explanation": "Bài viết nói \"a second round of investment could target its cold-storage facilities\", cho thấy khoản đầu tư tiếp theo nhiều khả năng nhắm vào kho lạnh; đây là hàm ý về kế hoạch tương lai.",
+        "vocab": [
+          ["acquisition", "n.", "sự mua lại, thương vụ thâu tóm"],
+          ["capacity", "n.", "công suất, sức chứa"],
+          ["entry-level", "adj.", "cấp thấp, vị trí mới bắt đầu"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">CLOUDSUITE ENTERPRISE — LIMITED-TIME OFFER</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Transform how your teams handle invoices, contracts, and approvals with CloudSuite Enterprise, the document-management platform trusted by more than eight hundred mid-sized firms. Built for companies that outgrow spreadsheets but are not yet ready for custom systems, CloudSuite automates routine workflows and flags duplicate or non-compliant submissions before they reach your finance team. A two-week pilot is available at no cost, and our onboarding specialists will migrate your existing files free of charge. Customers who subscribe to an annual plan before the end of this quarter receive a fifteen percent discount on their first year, plus priority access to our support desk. No long-term contract is required; plans can be adjusted or canceled at any time. Visit our website to schedule a live demonstration.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "What is the main purpose of the advertisement?",
+        "options": [
+          "To persuade mid-sized businesses to adopt a workflow-automation platform",
+          "To announce a software upgrade exclusively for existing annual subscribers",
+          "To solicit custom enterprise systems to replace spreadsheet tracking",
+          "To promote a paid two-week onboarding audit led by compliance specialists"
+        ],
+        "answer": "A",
+        "translation": "Mục đích chính của quảng cáo là thuyết phục các doanh nghiệp vừa sử dụng một nền tảng tự động hóa quy trình làm việc.",
+        "explanation": "Quảng cáo nhắm tới 'mid-sized firms' đang vượt ngưỡng bảng tính nhưng chưa sẵn sàng cho hệ thống tùy biến, nêu bật tính năng kiểm soát chứng từ và các ưu đãi dùng thử/chiết khấu để khuyến khích đặt lịch demo và đăng ký. B và C bóp méo chi tiết trong bài; D sai vì dùng thử hai tuần và chuyển dữ liệu đều miễn phí.",
+        "vocab": [
+          ["onboarding", "n.", "quá trình hướng dẫn khách hàng mới"],
+          ["workflow", "n.", "luồng công việc"],
+          ["non-compliant", "adj.", "không tuân thủ quy định"]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "What benefit is offered to customers who commit to an annual plan this quarter?",
+        "options": [
+          "A permanent price reduction",
+          "A discount on the first year and priority support",
+          "Free access available only to existing customers",
+          "A refund for the two-week pilot period"
+        ],
+        "answer": "B",
+        "translation": "Lợi ích nào dành cho khách hàng đăng ký gói theo năm trong quý này? — Giảm giá năm đầu tiên và được ưu tiên hỗ trợ.",
+        "explanation": "Quảng cáo nêu khách đăng ký gói năm trước cuối quý sẽ nhận \"a fifteen percent discount on their first year, plus priority access to our support desk\".",
+        "vocab": [
+          ["subscribe", "v.", "đăng ký, thuê bao"],
+          ["priority", "n.", "sự ưu tiên"],
+          ["migrate", "v.", "di chuyển, chuyển đổi dữ liệu"]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "Which word best describes the tone of the advertisement?",
+        "options": [
+          "cautious",
+          "persuasive",
+          "skeptical",
+          "regretful"
+        ],
+        "answer": "B",
+        "translation": "Từ nào mô tả đúng nhất giọng điệu của quảng cáo? — Thuyết phục (persuasive).",
+        "explanation": "Quảng cáo dùng ngôn ngữ tích cực, lôi cuốn và liệt kê nhiều ưu đãi nhằm thuyết phục người đọc hành động, vì vậy giọng điệu chủ đạo là \"persuasive\".",
+        "vocab": [
+          ["demonstration", "n.", "buổi trình diễn, giới thiệu sản phẩm"],
+          ["pilot", "n.", "giai đoạn dùng thử"],
+          ["adjust", "v.", "điều chỉnh"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MINUTES — PROJECT ATLAS REVIEW MEETING, OCTOBER 12</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Attendees: S. Ito (chair), R. Alvarez, L. Nkosi, T. Berg.</p><p class=\"mt-2\">1. Schedule review: The launch date has been moved from November 20 to December 5 to allow additional testing of the payment module. Mr. Alvarez confirmed that the revised timeline is realistic.</p><p class=\"mt-2\">2. Budget: Ms. Nkosi reported that spending is 6 percent over plan, mainly because of unanticipated licensing fees. The team agreed to offset this by reducing the marketing contingency.</p><p class=\"mt-2\">3. Vendor risk: Mr. Berg noted that our lead supplier has missed two recent delivery windows. It was agreed to engage a backup supplier for the two critical components, while continuing negotiations with the current vendor.</p><p class=\"mt-2\">4. Action items: Ms. Nkosi will prepare a revised budget by Friday; Mr. Berg will draft a contingency plan by next Tuesday. The next meeting is scheduled for November 2.</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "Why has the launch been postponed?",
+        "options": [
+          "To redesign the payment module",
+          "To allow additional testing",
+          "To negotiate lower licensing fees",
+          "To wait for a new supplier"
+        ],
+        "answer": "B",
+        "translation": "Vì sao việc ra mắt bị hoãn? — Để có thêm thời gian kiểm thử.",
+        "explanation": "Biên bản ghi \"The launch date has been moved ... to allow additional testing of the payment module\", tức việc ra mắt bị lùi để kiểm thử thêm, không phải để thiết kế lại.",
+        "vocab": [
+          ["module", "n.", "mô-đun"],
+          ["timeline", "n.", "mốc thời gian"],
+          ["realistic", "adj.", "khả thi, thực tế"]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "What is implied about the lead supplier?",
+        "options": [
+          "It will be replaced immediately.",
+          "Its reliability has become a concern.",
+          "It has reduced its prices.",
+          "It has signed a new contract."
+        ],
+        "answer": "B",
+        "translation": "Điều gì được ngụ ý về nhà cung cấp chính? — Độ tin cậy của họ đã trở thành mối lo ngại.",
+        "explanation": "Việc nhà cung cấp \"has missed two recent delivery windows\" khiến nhóm quyết định tìm \"a backup supplier\", cho thấy độ tin cậy của nhà cung cấp chính đang bị nghi ngờ.",
+        "vocab": [
+          ["vendor", "n.", "nhà cung cấp"],
+          ["delivery window", "n.", "khoảng thời gian giao hàng"],
+          ["negotiation", "n.", "cuộc đàm phán"]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "The phrase \"offset this\" in item 2 is closest in meaning to",
+        "options": [
+          "cancel it entirely",
+          "compensate for it",
+          "delay it",
+          "report it"
+        ],
+        "answer": "B",
+        "translation": "Cụm \"offset this\" ở mục 2 gần nghĩa nhất với — bù đắp cho nó (compensate for it).",
+        "explanation": "Ngân sách bị vượt 6% do phí cấp phép ngoài dự kiến, nên nhóm \"agreed to offset this by reducing the marketing contingency\", tức dùng khoản dự phòng khác để bù đắp phần vượt.",
+        "vocab": [
+          ["offset", "v.", "bù đắp, đối trừ"],
+          ["contingency", "n.", "khoản dự phòng"],
+          ["unanticipated", "adj.", "không lường trước"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following price list:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">HARBORVIEW BUSINESS CENTER — RATES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Harborview Business Center offers flexible meeting and workspace packages. All rates exclude applicable taxes. A 10 percent discount applies to bookings of three or more consecutive days, and a refundable deposit of 20 percent is required to confirm any reservation. Cancellations made at least seven days in advance receive a full refund; cancellations within seven days forfeit the deposit.</p><table class=\"mt-2 w-full text-left\"><tr><td class=\"py-1 pr-4\">Meeting room (per half day)</td><td class=\"py-1\">$180</td></tr><tr><td class=\"py-1 pr-4\">Private office (per day)</td><td class=\"py-1\">$95</td></tr><tr><td class=\"py-1 pr-4\">Conference suite (per day)</td><td class=\"py-1\">$420</td></tr><tr><td class=\"py-1 pr-4\">Hot desk (per day)</td><td class=\"py-1\">$40</td></tr><tr><td class=\"py-1 pr-4\">Training room (per day)</td><td class=\"py-1\">$650</td></tr></table><p class=\"mt-2\">The conference suite includes a projector and videoconferencing equipment; the training room seats up to 40 people.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "What is true about reserving a training room for four consecutive days?",
+        "options": [
+          "Videoconferencing equipment is included in the $650 daily rate.",
+          "A ten-percent reduction applies, and twenty percent is due upfront to confirm.",
+          "A full deposit refund is issued if canceled at least three days in advance.",
+          "Applicable local taxes are waived for multi-day reservations."
+        ],
+        "answer": "B",
+        "translation": "Điều nào đúng về việc đặt phòng đào tạo trong bốn ngày liên tiếp? — Áp dụng mức giảm 10% và cần đặt cọc trước 20% để xác nhận.",
+        "explanation": "Bảng giá quy định 'A 10 percent discount applies to bookings of three or more consecutive days, and a refundable deposit of 20 percent is required to confirm any reservation'. A nhầm với phòng conference suite; C sai vì hủy phải trước ít nhất 7 ngày mới được hoàn cọc; D trái với câu 'All rates exclude applicable taxes'.",
+        "vocab": [
+          ["applicable", "adj.", "được áp dụng"],
+          ["consecutive", "adj.", "liên tiếp"],
+          ["upfront", "adv.", "trả trước"]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "What happens to a deposit if a booking is canceled six days before the date?",
+        "options": [
+          "It is fully refunded.",
+          "It is reduced by ten percent.",
+          "It is not returned.",
+          "It is applied to a future booking."
+        ],
+        "answer": "C",
+        "translation": "Tiền đặt cọc sẽ thế nào nếu hủy đặt chỗ sáu ngày trước ngày diễn ra? — Nó sẽ không được hoàn lại.",
+        "explanation": "Bảng giá quy định \"cancellations within seven days forfeit the deposit\"; sáu ngày nằm trong khoảng bảy ngày, nên tiền đặt cọc sẽ bị mất.",
+        "vocab": [
+          ["deposit", "n.", "tiền đặt cọc"],
+          ["forfeit", "v.", "mất, bị tước"],
+          ["reservation", "n.", "việc đặt chỗ"]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "The word \"forfeit\" in the price list is closest in meaning to",
+        "options": [
+          "augment",
+          "reclaim",
+          "relinquish",
+          "defer"
+        ],
+        "answer": "C",
+        "translation": "Từ \"forfeit\" trong bảng giá gần nghĩa nhất với — mất quyền nhận lại (relinquish).",
+        "explanation": "Trong cụm 'cancellations within seven days forfeit the deposit', 'forfeit' nghĩa là mất hoặc phải từ bỏ quyền nhận lại khoản đặt cọc, tương đương 'relinquish'. 'reclaim' (đòi lại) trái nghĩa; 'augment' (tăng thêm) và 'defer' (hoãn lại) sai nghĩa.",
+        "vocab": [
+          ["refundable", "adj.", "được hoàn trả"],
+          ["relinquish", "v.", "từ bỏ, mất quyền giữ"],
+          ["waiver", "n.", "sự miễn trừ"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following schedule:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NORTHERN REGION SALES SUMMIT — CONFERENCE SCHEDULE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">7:30–8:30 Registration and continental breakfast (Grand Lobby)<br>8:30–9:00 Opening remarks — Regional Director H. Park<br>9:00–10:30 Keynote: \"Selling in a Saturated Market\" (Main Hall)<br>10:30–10:45 Morning break<br>10:45–12:00 Breakout sessions (choose one): A. Digital lead generation; B. Negotiating large accounts; C. Managing underperforming territories<br>12:00–13:00 Lunch (Terrace Room)<br>13:00–14:30 Product demonstrations (Exhibit Floor)<br>14:30–15:30 Panel: Pricing strategies for the coming year<br>15:30–16:00 Closing remarks and prize draw<br>16:00–17:00 Networking reception</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "What can be inferred about the networking reception?",
+        "options": [
+          "It provides an informal setting for attendees to interact.",
+          "It features another keynote speech by the regional director.",
+          "It is held before the prize draw.",
+          "Attendance is required to receive the conference materials."
+        ],
+        "answer": "A",
+        "translation": "Có thể suy ra điều gì về buổi tiệc giao lưu? — Đây là dịp không trang trọng để người tham dự trò chuyện với nhau.",
+        "explanation": "Cụm 'networking reception' (tiệc giao lưu) hàm ý một buổi gặp gỡ không chính thức để kết nối, lại đứng sau 'closing remarks and prize draw'; lịch trình không nêu bài phát biểu thêm, không bắt buộc tham dự, và tiệc diễn ra sau lễ bốc thăm chứ không phải trước.",
+        "vocab": [
+          ["networking", "n.", "việc kết nối, giao lưu"],
+          ["reception", "n.", "buổi tiệc, tiệc chiêu đãi"],
+          ["attendee", "n.", "người tham dự"]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "What is implied about the breakout sessions?",
+        "options": [
+          "They run at the same time.",
+          "They require advance payment.",
+          "They are led by the regional director.",
+          "They replace the keynote address."
+        ],
+        "answer": "A",
+        "translation": "Điều gì được ngụ ý về các phiên thảo luận nhóm? — Chúng diễn ra cùng một lúc.",
+        "explanation": "Lịch trình ghi \"Breakout sessions (choose one)\" trong cùng một khung giờ 10:45–12:00, ngụ ý ba phiên diễn ra đồng thời nên người tham dự chỉ chọn được một phiên.",
+        "vocab": [
+          ["breakout session", "n.", "phiên thảo luận nhóm nhỏ"],
+          ["lead generation", "n.", "tạo khách hàng tiềm năng"],
+          ["simultaneous", "adj.", "đồng thời"]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "Which best paraphrases \"managing underperforming territories\"?",
+        "options": [
+          "supervising regions with weak sales",
+          "expanding into new markets",
+          "negotiating with major clients",
+          "recruiting additional sales staff"
+        ],
+        "answer": "A",
+        "translation": "Cách diễn đạt lại nào đúng nhất cho \"managing underperforming territories\"? — Quản lý những khu vực có doanh số yếu.",
+        "explanation": "\"Underperforming territories\" chỉ các khu vực bán hàng đạt kết quả kém; cách diễn đạt tương đương là \"regions with weak sales\", các đáp án còn lại lệch nghĩa.",
+        "vocab": [
+          ["underperforming", "adj.", "hoạt động kém hiệu quả"],
+          ["territory", "n.", "khu vực (kinh doanh)"],
+          ["panel", "n.", "buổi thảo luận nhóm chuyên gia"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following survey report:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">ANNUAL CUSTOMER SATISFACTION SURVEY — RESULTS</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">This year's survey drew responses from 1,240 clients, a response rate of 38 percent, up from 31 percent last year. Overall satisfaction held steady at 82 percent, but satisfaction with delivery times fell from 79 to 71 percent, the lowest score in four years. Clients most frequently cited late shipments and poor tracking updates as their chief frustrations. By contrast, ratings for product quality improved by five points, reaching 88 percent. Support channels received mixed reviews: e-mail support was rated highly, while telephone hold times drew frequent criticism. The customer experience team has committed to publishing an action plan by the end of the month, focusing first on the delivery network and on hiring additional phone staff.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "What does the survey reveal about client perceptions of service performance?",
+        "options": [
+          "Overall satisfaction dropped sharply because of rising telephone hold times.",
+          "Satisfaction with delivery performance fell to its lowest level in four years.",
+          "Product quality scores declined by five points despite faster tracking updates.",
+          "E-mail support received weaker ratings than telephone support channels."
+        ],
+        "answer": "B",
+        "translation": "Khảo sát cho thấy gì về cảm nhận của khách hàng đối với hiệu suất dịch vụ? — Mức độ hài lòng về thời gian giao hàng giảm xuống mức thấp nhất trong bốn năm.",
+        "explanation": "Báo cáo nêu 'satisfaction with delivery times fell from 79 to 71 percent, the lowest score in four years'. A sai vì mức hài lòng chung vẫn giữ ổn định ở 82%; C đảo ngược kết quả (chất lượng sản phẩm tăng 5 điểm lên 88%); D đảo ngược đánh giá giữa hai kênh hỗ trợ.",
+        "vocab": [
+          ["satisfaction", "n.", "sự hài lòng"],
+          ["response rate", "n.", "tỷ lệ phản hồi"],
+          ["hold steady", "v.", "giữ nguyên, không đổi"]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "What is implied about the customer experience team's priorities?",
+        "options": [
+          "It will address delivery problems first.",
+          "It plans to discontinue telephone support.",
+          "It considers product quality the main problem.",
+          "It will conduct another survey immediately."
+        ],
+        "answer": "A",
+        "translation": "Điều gì được ngụ ý về ưu tiên của nhóm trải nghiệm khách hàng? — Họ sẽ giải quyết vấn đề giao hàng trước tiên.",
+        "explanation": "Báo cáo cho biết kế hoạch hành động \"focusing first on the delivery network\", cho thấy mạng lưới giao hàng là ưu tiên hàng đầu cần xử lý.",
+        "vocab": [
+          ["criticism", "n.", "sự phê bình, chê trách"],
+          ["commit", "v.", "cam kết"],
+          ["action plan", "n.", "kế hoạch hành động"]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "The phrase \"chief frustrations\" in the report is closest in meaning to",
+        "options": [
+          "minor procedural delays",
+          "primary sources of dissatisfaction",
+          "unverified survey responses",
+          "unexpected shipping surcharges"
+        ],
+        "answer": "B",
+        "translation": "Cụm \"chief frustrations\" trong báo cáo gần nghĩa nhất với — các nguyên nhân chính gây bất mãn (primary sources of dissatisfaction).",
+        "explanation": "Khách hàng dẫn ra việc giao hàng chậm và cập nhật theo dõi kém là 'their chief frustrations', tức những điểm khiến họ không hài lòng nhất. A hạ thấp mức độ ('minor'), còn C và D không tương đương về nghĩa.",
+        "vocab": [
+          ["cite", "v.", "nêu ra, trích dẫn"],
+          ["frustration", "n.", "sự bực bội, bất mãn"],
+          ["dissatisfaction", "n.", "sự không hài lòng"]
+        ]
+      }
+    ]
+  }
+]

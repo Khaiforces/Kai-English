@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "office_filing_drawer",
+    "imageCaption": "Hai nữ nhân viên văn phòng đứng cạnh một tủ hồ sơ kim loại có ngăn kéo đang mở; một người đang tìm tài liệu trong ngăn kéo trong khi người còn lại cầm xấp giấy trên tay.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q1.jpg",
+    "options": [
+      "The filing cabinets are being wheeled down a corridor.",
+      "Two women are examining files in an open cabinet drawer.",
+      "A stack of folders has been sealed inside a shipping box.",
+      "The office workers are seated across from one another at a desk."
+    ],
+    "correct": "B",
+    "translation": "(A) Các tủ hồ sơ đang được đẩy dọc theo một hành lang.\n(B) Hai người phụ nữ đang xem xét hồ sơ trong một ngăn kéo tủ đang mở.\n(C) Một xấp bìa hồ sơ đã được niêm phong bên trong thùng vận chuyển.\n(D) Các nhân viên văn phòng đang ngồi đối diện nhau tại một chiếc bàn.",
+    "explanation": "Trong ảnh có hai người phụ nữ đứng cạnh ngăn tủ hồ sơ kéo mở và cùng xem tài liệu, nên phương án (B) mô tả chính xác hiện trường. (A) sai ở hành động đẩy tủ đi (bị động tiếp diễn), (C) sai vì hồ sơ không nằm trong thùng đóng kín, và (D) sai tư thế (họ đang đứng cạnh nhau chứ không ngồi đối diện tại bàn).",
+    "vocab": [
+      ["examine", "v", "xem xét, kiểm tra kỹ"],
+      ["cabinet drawer", "n", "ngăn kéo tủ"],
+      ["seal", "v", "niêm phong, dán kín"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "warehouse_aisle_shelves",
+    "imageCaption": "Một nam nhân viên kho đứng giữa lối đi của hai dãy kệ kim loại cao xếp đầy thùng hàng và đang kiểm tra nhãn/tài liệu trên kệ.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q2.jpg",
+    "options": [
+      "A forklift is lifting wooden pallets near the ceiling.",
+      "Cardboard boxes have been emptied onto the warehouse floor.",
+      "A warehouse worker is checking merchandise stacked on metal shelves.",
+      "Several employees are assembling metal shelving units together."
+    ],
+    "correct": "C",
+    "translation": "(A) Một chiếc xe nâng đang nâng các pallet gỗ lên gần trần nhà.\n(B) Các thùng các-tông đã bị đổ rỗng xuống sàn nhà kho.\n(C) Một nhân viên kho đang kiểm tra hàng hóa xếp trên các kệ kim loại.\n(D) Nhiều nhân viên đang cùng nhau lắp ráp các bộ kệ kim loại.",
+    "explanation": "Nhân viên đứng một mình giữa lối đi và đưa tay kiểm tra giấy/hàng hóa xếp ngay ngắn trên dãy kệ kim loại, khớp hoàn toàn với (C). Trong ảnh không có xe nâng (A), không có thùng bị đổ ra sàn (B), và chỉ có một người chứ không có nhiều người đang lắp kệ (D).",
+    "vocab": [
+      ["merchandise", "n", "hàng hóa"],
+      ["stack", "v", "xếp chồng lên"],
+      ["aisle", "n", "lối đi giữa các kệ"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "laboratory_pipette_bench",
+    "imageCaption": "Một nữ kỹ thuật viên mặc áo blouse trắng và đeo găng tay đang dùng ống hút định lượng (pipet) thao tác với khay mẫu trên bàn thí nghiệm.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q3.jpg",
+    "options": [
+      "A technician in a lab coat is using a pipette over a tray of samples.",
+      "Protective gloves are being discarded into a waste container.",
+      "Glass cabinets above the counter are being wiped clean.",
+      "A notebook has been closed and placed inside a storage drawer."
+    ],
+    "correct": "A",
+    "translation": "(A) Một kỹ thuật viên mặc áo phòng thí nghiệm đang dùng pipet trên khay đựng mẫu.\n(B) Găng tay bảo hộ đang được vứt vào thùng rác.\n(C) Các tủ kính phía trên quầy đang được lau sạch.\n(D) Một cuốn sổ tay đã được gập lại và cất vào ngăn kéo.",
+    "explanation": "Nữ kỹ thuật viên mặc áo blouse trắng, đeo găng tay tối màu và cầm pipet nhỏ mẫu vào khay trên bàn thí nghiệm — đúng với (A). Cô ấy vẫn đang đeo găng tay (loại B), không có ai lau tủ kính (loại C), và cuốn sổ trên bàn đang mở sẵn chứ không bị đóng cất đi (loại D).",
+    "vocab": [
+      ["pipette", "n", "ống hút định lượng nhỏ giọt"],
+      ["sample", "n", "mẫu vật, mẫu thử"],
+      ["discard", "v", "vứt bỏ, loại bỏ"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "empty_conference_room",
+    "imageCaption": "Một phòng họp trống hiện đại với bàn dài ở giữa, các ghế tựa đen xếp dọc hai bên bàn và ba cửa sổ lớn ở bức tường phía sau.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q4.jpg",
+    "options": [
+      "Window blinds are being drawn shut to darken the room.",
+      "Attendees are taking their seats around a circular table.",
+      "Projector equipment is being mounted onto the ceiling.",
+      "Chairs have been positioned along both sides of a long conference table."
+    ],
+    "correct": "D",
+    "translation": "(A) Rèm cửa sổ đang được kéo đóng lại để làm tối căn phòng.\n(B) Người tham dự đang ổn định chỗ ngồi quanh một chiếc bàn tròn.\n(C) Thiết bị máy chiếu đang được gắn lên trần nhà.\n(D) Những chiếc ghế đã được xếp dọc theo hai bên của một chiếc bàn họp dài.",
+    "explanation": "Ảnh không có người, chỉ mô tả trạng thái sắp đặt đồ vật: các ghế đen được xếp đều dọc hai bên chiếc bàn họp dài hình chữ nhật — khớp hoàn toàn với (D). Cửa sổ không có rèm đang kéo (loại A), không có người tham dự hay bàn tròn (loại B), và không có thiết bị máy chiếu đang lắp trên trần (loại C).",
+    "vocab": [
+      ["position", "v", "đặt, sắp xếp vị trí"],
+      ["conference table", "n", "bàn phòng họp"],
+      ["mount", "v", "gắn, lắp đặt cố định"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "construction_plan_measurement",
+    "imageCaption": "Một kỹ sư/công nhân đội mũ bảo hộ trắng và mặc áo phản quang đang dùng thước gấp đo trên bản vẽ trải trên thanh dầm thép ngoài công trường.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q5.jpg",
+    "options": [
+      "Blueprints are being rolled up and stored in a protective tube.",
+      "A worker in a hard hat is measuring a plan spread out on a beam.",
+      "Heavy steel girders are being hoisted by a construction crane.",
+      "Two inspectors are pointing toward an unfinished concrete wall."
+    ],
+    "correct": "B",
+    "translation": "(A) Các bản vẽ thiết kế đang được cuộn lại và cất vào ống bảo quản.\n(B) Một công nhân đội mũ bảo hộ đang đo đạc trên bản vẽ trải trên thanh dầm.\n(C) Những thanh dầm thép nặng đang được cần cẩu xây dựng cẩu lên.\n(D) Hai thanh tra viên đang chỉ tay về phía một bức tường bê tông dang dở.",
+    "explanation": "Người đàn ông đội mũ bảo hộ trắng, mặc áo phản quang đang cúi xuống dùng thước gấp đo trực tiếp trên tờ bản vẽ trải phẳng trên dầm thép — đúng với (B). Bản vẽ đang được trải ra chứ không cuộn lại (loại A), không có cần cẩu hoạt động (loại C), và chỉ có một người trong khung hình (loại D).",
+    "vocab": [
+      ["hard hat", "n", "mũ bảo hộ lao động"],
+      ["spread out", "phr", "trải rộng ra"],
+      ["beam", "n", "thanh dầm, xà"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "library_bookshelf_ladder",
+    "imageCaption": "Bên trong một thư viện yên tĩnh không có người, một chiếc thang gỗ tựa vào giá sách cao bằng gỗ được xếp kín sách.",
+    "imageUrl": "listening/images/lv5-test-02/part1/q6.jpg",
+    "options": [
+      "A librarian is climbing a ladder to reach the top shelf.",
+      "Hardcover volumes are being packed into cardboard crates.",
+      "A wooden ladder is leaning against a fully stocked bookcase.",
+      "Rows of reading tables have been arranged in the center of the hall."
+    ],
+    "correct": "C",
+    "translation": "(A) Một thủ thư đang trèo thang để với tới kệ trên cùng.\n(B) Các cuốn sách bìa cứng đang được đóng gói vào thùng các-tông.\n(C) Một chiếc thang gỗ đang tựa vào một tủ sách xếp đầy ắp sách.\n(D) Các dãy bàn đọc sách đã được kê ở giữa hội trường.",
+    "explanation": "Khung cảnh hoàn toàn không có người, điểm nhấn là chiếc thang gỗ tựa thẳng vào giá sách xếp kín sách — khớp với (C). Không có thủ thư leo thang (loại A), không có việc đóng gói sách vào thùng (loại B), và không thấy dãy bàn đọc sách ở giữa phòng (loại D).",
+    "vocab": [
+      ["lean against", "phr", "tựa vào, dựa vào"],
+      ["stocked", "adj", "được xếp đầy hàng/sách"],
+      ["bookcase", "n", "tủ sách, giá sách"]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  }
+]

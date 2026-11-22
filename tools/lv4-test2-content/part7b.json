@@ -1,0 +1,352 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following e-mail, confirmation, and rate sheet.",
+    "passageHtml": "<p><strong>E-mail</strong></p><p>To: events@harborviewsuites.com<br>From: Daniel Okafor, Operations Coordinator, Northbridge Consulting<br>Subject: Meeting space for March 14-15</p><p>Dear Harborview Events Team,</p><p>I would like to reserve a meeting room for our annual regional sales review on March 14 and 15. We expect 24 attendees. The room must have a projector, a whiteboard, and a speakerphone so that our two remote managers can join the discussion. We would also like a working lunch on both days and coffee service each morning. Please confirm that the space is available and send a written quote that lists every equipment charge separately. Our finance department must receive that quote by February 1 in order to issue a purchase order.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Confirmation E-mail</strong></p><p>Dear Mr. Okafor,</p><p>Thank you for your enquiry. We are pleased to confirm the Cedar Room for March 14 and 15, from 8:30 a.m. to 5:00 p.m. The room seats up to 30 people and includes a whiteboard and a speakerphone at no additional charge. A projector is available for a daily fee, as shown in our rate sheet. Working lunch and morning coffee service can both be provided; our kitchen asks for final menu selections ten days before the event. To hold the reservation we require a deposit of 25 percent of the estimated total. The formal quote is attached.</p><p>Kind regards,<br>Priya Raman, Events Manager</p><hr><p><strong>Harborview Suites - Selected Rates</strong></p><table><tr><td>Cedar Room (per day)</td><td>$450</td></tr><tr><td>Projector (per day)</td><td>$75</td></tr><tr><td>Extra whiteboard (per day)</td><td>$25</td></tr><tr><td>Working lunch (per person, per day)</td><td>$22</td></tr><tr><td>Morning coffee service (per person, per day)</td><td>$9</td></tr></table><p>Deposit: 25 percent of the estimated total, due within seven days of booking. Cancellations made 14 or more days before the event are refunded in full; cancellations made 7 to 13 days before the event are refunded at 50 percent. These rates are valid through December 31. A 10 percent service charge applies to catering orders confirmed fewer than five business days before the event.</p>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "What is the purpose of Mr. Okafor's e-mail?",
+        "options": [
+          "To request a meeting room and a written price quote",
+          "To complain about a recent event held at the hotel",
+          "To cancel a two-day reservation",
+          "To apply for a position in the events team"
+        ],
+        "answer": "A",
+        "translation": "Mục đích email của ông Okafor là gì? — Để đặt một phòng họp và yêu cầu báo giá bằng văn bản.",
+        "explanation": "Thư nêu rõ: \"I would like to reserve a meeting room for our annual regional sales review\" và \"send a written quote that lists every equipment charge separately\". Không có lời phàn nàn nào về sự kiện trước đó, đây là đặt chỗ mới chứ không phải hủy, và ông ấy viết với tư cách khách hàng chứ không ứng tuyển việc làm.",
+        "vocab": [["reserve", "v", "đặt trước"], ["attendee", "n", "người tham dự"], ["annual", "adj", "hàng năm"]]
+      },
+      {
+        "n": 177,
+        "q": "According to the confirmation e-mail, what is provided at no additional charge?",
+        "options": [
+          "The projector",
+          "The whiteboard and speakerphone",
+          "Morning coffee service",
+          "The working lunch"
+        ],
+        "answer": "B",
+        "translation": "Theo email xác nhận, thứ gì được cung cấp mà không tính thêm phí? — Bảng trắng và điện thoại hội nghị.",
+        "explanation": "Email xác nhận ghi phòng \"includes a whiteboard and a speakerphone at no additional charge\", trong khi máy chiếu \"is available for a daily fee\". Cà phê sáng và tiệc trưa đều là dịch vụ tính phí theo bảng giá ($9 và $22 mỗi người mỗi ngày).",
+        "vocab": [["additional charge", "n", "phụ phí"], ["available", "adj", "có sẵn"], ["daily fee", "n", "phí theo ngày"]]
+      },
+      {
+        "n": 178,
+        "q": "How much will the projector rental cost for the two-day meeting?",
+        "options": ["$75", "$150", "$450", "$525"],
+        "answer": "B",
+        "translation": "Tiền thuê máy chiếu cho cuộc họp hai ngày là bao nhiêu? — $150.",
+        "explanation": "Bảng giá ghi máy chiếu $75 mỗi ngày, và cuộc họp diễn ra trong hai ngày 14 và 15 tháng 3, nên 75 x 2 = $150. Mức $75 chỉ là một ngày, $450 là giá thuê phòng mỗi ngày, còn $525 là tiền phòng cộng máy chiếu của một ngày.",
+        "vocab": [["equipment", "n", "thiết bị"], ["estimated", "adj", "được ước tính"], ["per day", "phrase", "mỗi ngày"]]
+      },
+      {
+        "n": 179,
+        "q": "What must Mr. Okafor do to hold the reservation?",
+        "options": [
+          "Submit final menu selections",
+          "Pay 25 percent of the estimated total",
+          "Sign a two-year service contract",
+          "Pay the full amount in advance"
+        ],
+        "answer": "B",
+        "translation": "Ông Okafor phải làm gì để giữ chỗ đặt phòng? — Trả 25% tổng chi phí ước tính.",
+        "explanation": "Email xác nhận: \"To hold the reservation we require a deposit of 25 percent of the estimated total\", và bảng giá nhắc lại khoản đặt cọc này phải trả trong bảy ngày. Chọn thực đơn là việc phải làm trước sự kiện mười ngày nhưng không dùng để giữ chỗ; không có hợp đồng hai năm và cũng không phải trả toàn bộ tiền trước.",
+        "vocab": [["deposit", "n", "tiền đặt cọc"], ["reservation", "n", "việc đặt chỗ"], ["estimated total", "n", "tổng chi phí ước tính"]]
+      },
+      {
+        "n": 180,
+        "q": "The word \"quote\" in the first e-mail is closest in meaning to",
+        "options": [
+          "a written price estimate",
+          "a signed contract",
+          "a list of references",
+          "a cancellation notice"
+        ],
+        "answer": "A",
+        "translation": "Từ \"quote\" trong email đầu tiên gần nghĩa nhất với — một bản ước tính giá bằng văn bản.",
+        "explanation": "\"send a written quote that lists every equipment charge separately\" cho thấy quote là bản báo giá/ước tính chi phí mà bộ phận tài chính cần để lập đơn đặt hàng. Đó chưa phải hợp đồng đã ký, không phải danh sách người giới thiệu và cũng không phải thông báo hủy.",
+        "vocab": [["quote", "n", "báo giá"], ["refund", "n", "tiền hoàn lại"], ["cancellation", "n", "việc hủy"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following purchase order and invoice.",
+    "passageHtml": "<p><strong>Purchase Order #2291 - Brightline Interiors</strong></p><p>Supplier: Willow Office Supply<br>Order date: May 6<br>Deliver to: 14 Harbor Street, Unit 3</p><table><tr><td>Item</td><td>Model</td><td>Qty</td><td>Unit price</td><td>Total</td></tr><tr><td>Ergonomic task chair</td><td>EC-40</td><td>18</td><td>$145</td><td>$2,610</td></tr><tr><td>Adjustable standing desk</td><td>SD-12</td><td>6</td><td>$420</td><td>$2,520</td></tr><tr><td>Desk lamp</td><td>DL-7</td><td>10</td><td>$38</td><td>$380</td></tr><tr><td>Merchandise total</td><td></td><td></td><td></td><td>$5,510</td></tr></table><p>These prices were agreed with your sales representative in April. Please ship the chairs and desks together and the lamps in a separate carton, so that our staff can begin assembling the workstations as soon as the delivery arrives. Invoices that do not match the unit prices on this order will be returned for correction.</p><hr><p><strong>Invoice #8842 - Willow Office Supply</strong></p><p>Bill to: Brightline Interiors, Accounts Payable<br>Invoice date: May 19<br>Order reference: PO 2291</p><table><tr><td>Ergonomic task chair EC-40</td><td>18</td><td>$145</td><td>$2,610</td></tr><tr><td>Adjustable standing desk SD-12</td><td>6</td><td>$450</td><td>$2,700</td></tr><tr><td>Desk lamp DL-7</td><td>10</td><td>$38</td><td>$380</td></tr><tr><td>Merchandise subtotal</td><td></td><td></td><td>$5,690</td></tr><tr><td>Shipping and handling</td><td></td><td></td><td>$120</td></tr><tr><td>Total due</td><td></td><td></td><td>$5,810</td></tr></table><p>Terms: net 30 days. The unit prices above are those in effect from May 1. A 2 percent early-payment discount is available on merchandise if payment is received within ten days of the invoice date; the discount does not apply to shipping. Questions about this invoice should be sent to billing@willowoffice.com.</p>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "What is the purpose of the purchase order?",
+        "options": [
+          "To order office furniture at agreed prices",
+          "To request a refund for damaged goods",
+          "To ask for a reduction in shipping fees",
+          "To advertise products made by Willow Office Supply"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của đơn đặt hàng là gì? — Để đặt mua đồ nội thất văn phòng với mức giá đã thỏa thuận.",
+        "explanation": "Đơn hàng liệt kê số lượng, model và đơn giá của ghế, bàn, đèn, kèm ghi chú \"These prices were agreed with your sales representative in April\" và cảnh báo hóa đơn sai đơn giá sẽ bị trả lại. Không có yêu cầu hoàn tiền, không xin giảm phí vận chuyển và đây không phải tài liệu quảng cáo.",
+        "vocab": [["purchase order", "n", "đơn đặt hàng"], ["supplier", "n", "nhà cung cấp"], ["merchandise", "n", "hàng hóa"]]
+      },
+      {
+        "n": 182,
+        "q": "Which item is listed at a different unit price on the invoice than on the purchase order?",
+        "options": [
+          "The ergonomic task chair",
+          "The adjustable standing desk",
+          "The desk lamp",
+          "The shipping service"
+        ],
+        "answer": "B",
+        "translation": "Mặt hàng nào có đơn giá trên hóa đơn khác với đơn đặt hàng? — Bàn làm việc điều chỉnh độ cao.",
+        "explanation": "Đơn đặt hàng ghi bàn SD-12 giá $420, còn hóa đơn ghi $450. Ghế ($145) và đèn ($38) giống nhau ở cả hai tài liệu. Phí vận chuyển chỉ xuất hiện trên hóa đơn chứ không phải mặt hàng bị đổi đơn giá.",
+        "vocab": [["unit price", "n", "đơn giá"], ["adjustable", "adj", "điều chỉnh được"], ["invoice", "n", "hóa đơn"]]
+      },
+      {
+        "n": 183,
+        "q": "By how much does the merchandise subtotal on the invoice exceed the amount on the purchase order?",
+        "options": ["$60", "$120", "$180", "$300"],
+        "answer": "C",
+        "translation": "Tổng tiền hàng trên hóa đơn cao hơn con số trên đơn đặt hàng bao nhiêu? — $180.",
+        "explanation": "Đơn đặt hàng: 18 x $145 + 6 x $420 + 10 x $38 = $5,510. Hóa đơn: 18 x $145 + 6 x $450 + 10 x $38 = $5,690. Chênh lệch $180, đúng bằng 6 bàn nhân mức tăng $30 mỗi chiếc. Các mức $60, $120 và $300 không khớp phép tính nào trong hai tài liệu.",
+        "vocab": [["subtotal", "n", "tổng phụ"], ["shipping", "n", "vận chuyển"], ["discount", "n", "giảm giá"]]
+      },
+      {
+        "n": 184,
+        "q": "What does the invoice say about the early-payment discount?",
+        "options": [
+          "It applies to shipping as well as to merchandise.",
+          "It is offered only to new customers.",
+          "It covers 2 percent of merchandise but not shipping.",
+          "It must be requested by e-mail before payment."
+        ],
+        "answer": "C",
+        "translation": "Hóa đơn nói gì về khoản giảm giá thanh toán sớm? — Giảm 2% trên hàng hóa nhưng không áp dụng cho phí vận chuyển.",
+        "explanation": "Hóa đơn ghi: \"A 2 percent early-payment discount is available on merchandise if payment is received within ten days... the discount does not apply to shipping.\" Tài liệu không nói chỉ dành cho khách hàng mới, và cũng không yêu cầu gửi email xin giảm giá.",
+        "vocab": [["terms", "n", "điều khoản"], ["shipping", "n", "vận chuyển"], ["available", "adj", "được áp dụng"]]
+      },
+      {
+        "n": 185,
+        "q": "The phrase \"in effect\" in the invoice is closest in meaning to",
+        "options": ["currently applied", "under review", "no longer valid", "open to negotiation"],
+        "answer": "A",
+        "translation": "Cụm \"in effect\" trong hóa đơn gần nghĩa nhất với — đang được áp dụng.",
+        "explanation": "\"The unit prices above are those in effect from May 1\" nghĩa là những mức giá này đang có hiệu lực kể từ ngày 1 tháng 5. Không phải đang được xem xét, đã hết hiệu lực hay còn có thể thương lượng, vì đơn hàng đã chốt giá từ tháng 4.",
+        "vocab": [["in effect", "phrase", "đang có hiệu lực"], ["reflect", "v", "phản ánh"], ["payment", "n", "việc thanh toán"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following job posting, candidate summary, and interview schedule.",
+    "passageHtml": "<p><strong>Job Posting - Larkspur Media</strong></p><p>Position: Marketing Coordinator<br>Deadline for applications: June 5</p><p>Larkspur Media is seeking a marketing coordinator for its downtown office. The successful candidate must hold a bachelor's degree in marketing, communications, or a related field and must have at least three years of experience in a marketing role. Proficiency with Excel and Google Analytics is required, and applicants must be able to travel twice per quarter. Because we work closely with partners in Mexico City, fluency in Spanish is strongly preferred. The salary range is $52,000 to $58,000. Interviews will be held during the week of June 15.</p><hr><p><strong>Candidate Summary - Elena Vargas</strong></p><p>Education: B.A. in Communications, Ridgemont University, 2018.</p><p>Experience: Marketing assistant, Coastal Retail Group, 2019 to present. I manage social media accounts, write a weekly newsletter, and prepare monthly performance reports in Excel. I completed the Google Analytics certification in 2023 and an advanced Excel workshop in 2024. I am seeking a position with more responsibility for campaign planning.</p><p>Languages: Spanish (native), English (fluent).</p><p>Additional: Available for occasional travel; several of my social media campaigns were designed with partners in Guadalajara.</p><hr><p><strong>Interview Schedule - Week of June 15</strong></p><table><tr><td>Time</td><td>Candidate</td><td>Interviewer</td></tr><tr><td>Mon 9:00 a.m.</td><td>Elena Vargas</td><td>Dana Whitfield, Hiring Manager</td></tr><tr><td>Mon 10:30 a.m.</td><td>Marcus Lee</td><td>Dana Whitfield</td></tr><tr><td>Tue 1:00 p.m.</td><td>Priya Shah</td><td>Owen Trent, Department Head</td></tr><tr><td>Tue 3:00 p.m.</td><td>Elena Vargas</td><td>Owen Trent</td></tr></table><p>All interviews last 45 minutes and take place in Conference Room B. Candidates should check in at reception ten minutes early and bring a portfolio of recent work. Ms. Whitfield will make the final recommendation on June 19, and the selected candidate will begin work on July 6. Anyone arriving more than fifteen minutes late will be rescheduled for the following week.</p>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What is the purpose of the job posting?",
+        "options": [
+          "To announce an open position",
+          "To advertise a newly released product",
+          "To describe a summer internship program",
+          "To report quarterly sales results"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của tin tuyển dụng là gì? — Để thông báo một vị trí đang cần tuyển.",
+        "explanation": "Tin đăng nêu vị trí Marketing Coordinator, hạn nộp hồ sơ, yêu cầu bằng cấp và kinh nghiệm, mức lương và thời gian phỏng vấn. Đây không phải quảng cáo sản phẩm, không phải chương trình thực tập và cũng không phải báo cáo kết quả kinh doanh.",
+        "vocab": [["posting", "n", "tin đăng tuyển"], ["candidate", "n", "ứng viên"], ["seek", "v", "tìm kiếm"]]
+      },
+      {
+        "n": 187,
+        "q": "What does the interview schedule show about Ms. Vargas?",
+        "options": [
+          "She will meet with two different interviewers.",
+          "She will be the only candidate interviewed that week.",
+          "Her interview has been moved to July.",
+          "She will be interviewed by video call."
+        ],
+        "answer": "A",
+        "translation": "Lịch phỏng vấn cho thấy gì về bà Vargas? — Bà sẽ gặp hai người phỏng vấn khác nhau.",
+        "explanation": "Bảng lịch ghi bà Vargas có mặt lúc 9:00 thứ Hai với Dana Whitfield và 3:00 thứ Ba với Owen Trent. Trong tuần đó còn hai ứng viên khác là Marcus Lee và Priya Shah, và mọi buổi phỏng vấn đều diễn ra trực tiếp tại Conference Room B chứ không qua video.",
+        "vocab": [["interviewer", "n", "người phỏng vấn"], ["schedule", "n", "lịch"], ["check in", "v", "điểm danh tại quầy"]]
+      },
+      {
+        "n": 188,
+        "q": "What is indicated about Ms. Vargas's work experience?",
+        "options": [
+          "She has worked in marketing for more than the required three years.",
+          "She has less than one year of marketing experience.",
+          "She has never used Excel in a work setting.",
+          "She has worked only for Larkspur Media."
+        ],
+        "answer": "A",
+        "translation": "Có thông tin gì về kinh nghiệm làm việc của bà Vargas? — Bà đã làm marketing lâu hơn mức ba năm mà tin tuyển dụng yêu cầu.",
+        "explanation": "Tin đăng yêu cầu \"at least three years of experience in a marketing role\", còn phần kinh nghiệm ghi \"Marketing assistant, Coastal Retail Group, 2019 to present\", tức là hơn ba năm. Cô ấy nêu rõ đã hoàn thành chứng chỉ Google Analytics và lớp Excel nâng cao, và hiện làm cho Coastal Retail Group chứ không phải Larkspur Media.",
+        "vocab": [["experience", "n", "kinh nghiệm"], ["responsibility", "n", "trách nhiệm"], ["application", "n", "hồ sơ ứng tuyển"]]
+      },
+      {
+        "n": 189,
+        "q": "According to the schedule, what will happen at 3:00 p.m. on Tuesday?",
+        "options": [
+          "Ms. Vargas will meet Mr. Trent.",
+          "Mr. Lee will meet Ms. Whitfield.",
+          "Ms. Shah will check in at reception.",
+          "Ms. Whitfield will make the final recommendation."
+        ],
+        "answer": "A",
+        "translation": "Theo lịch, việc gì sẽ diễn ra lúc 3 giờ chiều thứ Ba? — Bà Vargas sẽ gặp ông Trent.",
+        "explanation": "Bảng lịch ghi \"Tue 3:00 p.m. | Elena Vargas | Owen Trent, Department Head\". Buổi của ông Lee với bà Whitfield là 10:30 thứ Hai, còn khuyến nghị cuối cùng của bà Whitfield được đưa ra vào ngày 19 tháng 6, không phải trong buổi phỏng vấn.",
+        "vocab": [["candidate", "n", "ứng viên"], ["reception", "n", "quầy lễ tân"], ["interview", "n", "buổi phỏng vấn"]]
+      },
+      {
+        "n": 190,
+        "q": "All of the following are listed as requirements in the job posting EXCEPT",
+        "options": [
+          "a bachelor's degree in a related field",
+          "at least three years of marketing experience",
+          "fluency in Spanish",
+          "the ability to travel twice per quarter"
+        ],
+        "answer": "C",
+        "translation": "Tất cả những điều sau đều là yêu cầu trong tin tuyển dụng NGOẠI TRỪ — khả năng nói lưu loát tiếng Tây Ban Nha.",
+        "explanation": "Tin đăng viết tiếng Tây Ban Nha \"is strongly preferred\", nghĩa là lợi thế chứ không bắt buộc. Ba yêu cầu còn lại đều dùng từ bắt buộc: \"must hold a bachelor's degree\", \"must have at least three years\" và \"must be able to travel twice per quarter\".",
+        "vocab": [["preferred", "adj", "được ưu tiên"], ["bachelor's degree", "n", "bằng cử nhân"], ["travel", "v", "đi công tác"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following advertisement, e-mail, and course schedule.",
+    "passageHtml": "<p><strong>Course Announcement - ProSkill Institute</strong></p><p>Advanced Project Management Certificate</p><p>This six-week evening course meets on Tuesdays and Thursdays from 6:00 to 8:30 p.m. at our downtown campus, Room 210. Participants learn to build project schedules, control budgets, and manage risk, and each week they apply the techniques to a case study drawn from their own workplace. All course materials and one exam voucher are included in the fee of $890. Register by August 15 and pay the early-bird rate of $790. Companies that enroll three or more employees receive an additional 10 percent discount on the standard fee. The fall session begins September 8. The instructor is Dr. Natalie Chen, who has led projects for two international manufacturers.</p><hr><p><strong>E-mail</strong></p><p>To: registrar@proskillinstitute.com<br>From: Marco Silvestri, Team Leader, Verdant Foods<br>Date: August 20<br>Subject: Enrollment for three staff members</p><p>Dear Registrar,</p><p>I would like to enroll myself, Lucia Bento, and Ahmed Farouk in the Advanced Project Management Certificate described on your Web site. Please confirm that three seats are still available in the September session and apply our company discount. Our accounts payable department will need an invoice showing the discounted amount for each participant, and we would like that invoice sent to this address rather than to our headquarters. Could you also tell us whether students may park in the campus garage during class?</p><p>Thank you,<br>Marco Silvestri</p><hr><p><strong>Fall Session Schedule</strong></p><table><tr><td>Week</td><td>Dates</td><td>Topic</td></tr><tr><td>1</td><td>Sept 8, 10</td><td>Project scoping and stakeholder analysis</td></tr><tr><td>2</td><td>Sept 15, 17</td><td>Scheduling and resource planning</td></tr><tr><td>3</td><td>Sept 22, 24</td><td>Budget control</td></tr><tr><td>4</td><td>Sept 29, Oct 1</td><td>Risk management</td></tr><tr><td>5</td><td>Oct 6, 8</td><td>Case study presentations</td></tr><tr><td>6</td><td>Oct 13, 15</td><td>Final examination and course review</td></tr></table><p>Classes are held in Room 210. Free parking in the campus garage is available to enrolled students after 5:30 p.m. Participants who miss more than two sessions must retake the course at half price, and certificates are mailed within three weeks of the final examination.</p>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "What is the purpose of the advertisement?",
+        "options": [
+          "To promote a professional training course",
+          "To announce a job opening at a manufacturer",
+          "To sell project management software",
+          "To invite companies to a trade fair"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của mẩu quảng cáo là gì? — Để quảng bá một khóa đào tạo chuyên môn.",
+        "explanation": "Thông báo giới thiệu khóa \"Advanced Project Management Certificate\" với lịch học, học phí, ưu đãi và giảng viên. Không có vị trí tuyển dụng, không bán phần mềm và cũng không mời tham dự hội chợ.",
+        "vocab": [["certificate", "n", "chứng chỉ"], ["enroll", "v", "ghi danh"], ["instructor", "n", "giảng viên"]]
+      },
+      {
+        "n": 192,
+        "q": "Why does Mr. Silvestri's group not qualify for the early-bird rate?",
+        "options": [
+          "They registered after August 15.",
+          "They do not work for a company.",
+          "They signed up for too many courses.",
+          "They asked to pay by credit card."
+        ],
+        "answer": "A",
+        "translation": "Vì sao nhóm của ông Silvestri không được hưởng mức phí đăng ký sớm? — Vì họ đăng ký sau ngày 15 tháng 8.",
+        "explanation": "Quảng cáo nêu điều kiện \"Register by August 15 and pay the early-bird rate of $790\", còn email đề ngày August 20, tức là đã quá hạn ưu đãi. Cả ba người đều là nhân viên Verdant Foods, không ai đăng ký quá nhiều khóa, và hình thức thanh toán không được nhắc đến trong email.",
+        "vocab": [["early-bird rate", "n", "mức phí đăng ký sớm"], ["session", "n", "kỳ học"], ["discount", "n", "giảm giá"]]
+      },
+      {
+        "n": 193,
+        "q": "How much will each participant pay for the course?",
+        "options": ["$790", "$801", "$890", "$979"],
+        "answer": "B",
+        "translation": "Mỗi người tham gia sẽ trả bao nhiêu cho khóa học? — $801.",
+        "explanation": "Học phí chuẩn là $890. Vì công ty ghi danh ba nhân viên nên được giảm thêm 10% trên học phí chuẩn: 890 - 89 = $801 mỗi người. Mức $790 là giá ưu đãi đăng ký sớm đã hết hạn, $890 là giá không giảm, còn $979 là cộng thêm chứ không phải trừ.",
+        "vocab": [["discount", "n", "giảm giá"], ["participant", "n", "người tham gia"], ["fee", "n", "học phí"]]
+      },
+      {
+        "n": 194,
+        "q": "What does the schedule show about week 6?",
+        "options": [
+          "The final examination is held.",
+          "Risk management is introduced.",
+          "Students present their case studies.",
+          "The course begins with project scoping."
+        ],
+        "answer": "A",
+        "translation": "Lịch học cho thấy tuần 6 có gì? — Bài thi cuối khóa được tổ chức.",
+        "explanation": "Tuần 6 (Oct 13, 15) ghi \"Final examination and course review\". Quản lý rủi ro là tuần 4, thuyết trình tình huống là tuần 5, còn nội dung mở đầu khóa học nằm ở tuần 1 (Sept 8, 10).",
+        "vocab": [["final examination", "n", "bài thi cuối khóa"], ["case study", "n", "tình huống nghiên cứu"], ["schedule", "n", "lịch học"]]
+      },
+      {
+        "n": 195,
+        "q": "The word \"voucher\" in the advertisement is closest in meaning to",
+        "options": ["a prepaid certificate", "a cash refund", "a payment receipt", "a written reference"],
+        "answer": "A",
+        "translation": "Từ \"voucher\" trong quảng cáo gần nghĩa nhất với — một chứng từ đã trả tiền trước.",
+        "explanation": "\"one exam voucher are included in the fee\" nghĩa là học phí đã bao gồm một phiếu/chứng từ trả trước cho kỳ thi, học viên không phải trả thêm. Đây không phải tiền hoàn lại, không phải biên lai thanh toán và cũng không phải thư giới thiệu.",
+        "vocab": [["voucher", "n", "phiếu trả trước"], ["materials", "n", "tài liệu học"], ["fee", "n", "học phí"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following meeting minutes, progress report, and e-mail.",
+    "passageHtml": "<p><strong>Minutes - Riverside Community Center Renovation Committee</strong></p><p>Date: October 3. Present: Karen Ostrowski (chair), Luis Mendez (project manager), Joan Feld (treasurer).</p><ul><li>Mr. Mendez reported that the lobby work (phase 1) is complete and finished three days ahead of schedule.</li><li>Resurfacing of the gym floor (phase 2) has been delayed by a shortage of rubber flooring; the supplier now promises delivery on October 20.</li><li>Lighting for the main corridor cost $4,200 more than budgeted because the required fixture model changed.</li><li>Ms. Feld agreed to look for additional funding for the locker room work (phase 3).</li><li>The committee will meet again on November 7.</li></ul><hr><p><strong>Progress Report - October 28</strong></p><p>Phase 1 (lobby): finished September 27, under budget by $1,100.</p><p>Phase 2 (gym floor): the rubber flooring arrived October 20 and resurfacing was completed October 25. Inspectors approved the surface on October 27, and the gym reopens to members on November 1.</p><p>Phase 3 (locker rooms): design is complete, but no start date has been set. Estimated cost is $38,000.</p><p>Total spent to date: $61,300, of which $4,200 is the lighting overrun reported at the October meeting. The remaining budget is $9,700.</p><hr><p><strong>E-mail</strong></p><p>To: Karen Ostrowski, Luis Mendez<br>From: Joan Feld<br>Subject: Funding for the locker rooms</p><p>Dear Karen and Luis,</p><p>Good news: the HAL Foundation has approved our request and will transfer a $5,000 grant on November 20. I have secured the funds in writing, so we can rely on them for phase 3. Even so, that leaves the locker room budget short by about $33,000. My recommendation is that we postpone phase 3 until spring and spend the winter raising the rest from local businesses. I have added this item to the agenda for November 7.</p><p>Joan</p>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "According to the minutes, why was the gym floor work delayed?",
+        "options": [
+          "A shortage of rubber flooring",
+          "A change in the lighting design",
+          "A lack of volunteers",
+          "Unusually bad weather"
+        ],
+        "answer": "A",
+        "translation": "Theo biên bản, vì sao công việc làm sàn phòng gym bị chậm? — Do thiếu vật liệu lát sàn bằng cao su.",
+        "explanation": "Biên bản ghi \"Resurfacing of the gym floor has been delayed by a shortage of rubber flooring; the supplier now promises delivery on October 20\". Việc đổi mẫu đèn gây vượt chi phí chứ không gây chậm tiến độ, còn tình nguyện viên và thời tiết không được nhắc đến.",
+        "vocab": [["delay", "n", "sự chậm trễ"], ["shortage", "n", "sự thiếu hụt"], ["resurfacing", "n", "việc làm lại bề mặt"]]
+      },
+      {
+        "n": 197,
+        "q": "What does the progress report indicate about the gym floor?",
+        "options": [
+          "It was resurfaced after the flooring arrived on October 20.",
+          "It had to be resurfaced a second time.",
+          "It will remain closed until the spring.",
+          "It was finished before the lobby work."
+        ],
+        "answer": "A",
+        "translation": "Báo cáo tiến độ cho biết gì về sàn phòng gym? — Sàn đã được làm lại sau khi vật liệu về ngày 20 tháng 10.",
+        "explanation": "Báo cáo viết \"the rubber flooring arrived October 20 and resurfacing was completed October 25\", đúng như lịch giao hàng mà biên bản ghi. Không có lần làm lại thứ hai, phòng gym mở cửa lại ngày 1 tháng 11 chứ không chờ đến mùa xuân, và phần sảnh (phase 1) đã xong từ ngày 27 tháng 9 nên sàn gym hoàn thành sau.",
+        "vocab": [["inspector", "n", "thanh tra viên"], ["approve", "v", "chấp thuận"], ["estimate", "v", "ước tính"]]
+      },
+      {
+        "n": 198,
+        "q": "What did Ms. Feld accomplish after the October meeting?",
+        "options": [
+          "She obtained a $5,000 grant from a foundation.",
+          "She hired a new project manager.",
+          "She reduced the cost of the corridor lighting.",
+          "She cancelled the locker room work."
+        ],
+        "answer": "A",
+        "translation": "Bà Feld đã làm được gì sau cuộc họp tháng 10? — Bà đã xin được khoản tài trợ $5,000 từ một quỹ.",
+        "explanation": "Email viết \"the HAL Foundation has approved our request and will transfer a $5,000 grant on November 20. I have secured the funds in writing\". Bà không tuyển quản lý dự án mới, không giảm được chi phí đèn (khoản vượt $4,200 vẫn còn) và chỉ đề nghị hoãn phase 3 chứ không hủy.",
+        "vocab": [["grant", "n", "khoản tài trợ"], ["foundation", "n", "quỹ tài trợ"], ["agenda", "n", "chương trình họp"]]
+      },
+      {
+        "n": 199,
+        "q": "All of the following were discussed at the October 3 meeting EXCEPT",
+        "options": [
+          "the lobby renovation",
+          "the gym floor delay",
+          "the corridor lighting overrun",
+          "the HAL Foundation grant"
+        ],
+        "answer": "D",
+        "translation": "Tất cả những nội dung sau đều được thảo luận tại cuộc họp ngày 3 tháng 10 NGOẠI TRỪ — khoản tài trợ của HAL Foundation.",
+        "explanation": "Biên bản ngày 3 tháng 10 chỉ nêu phần sảnh, việc chậm làm sàn phòng gym, khoản vượt chi phí đèn và việc bà Feld tìm thêm kinh phí. Khoản tài trợ của HAL Foundation chỉ xuất hiện trong email ngày 30 tháng 10, tức là sau cuộc họp đó.",
+        "vocab": [["minutes", "n", "biên bản cuộc họp"], ["overrun", "n", "chi vượt mức"], ["postpone", "v", "hoãn lại"]]
+      },
+      {
+        "n": 200,
+        "q": "The word \"secured\" in the e-mail is closest in meaning to",
+        "options": ["firmly obtained", "quickly spent", "formally requested", "returned in full"],
+        "answer": "A",
+        "translation": "Từ \"secured\" trong email gần nghĩa nhất với — giành được một cách chắc chắn.",
+        "explanation": "\"I have secured the funds in writing, so we can rely on them\" cho thấy bà Feld đã có cam kết bằng văn bản, tức là đã giành được khoản tiền chắc chắn. Không phải chi tiêu, không phải mới yêu cầu (đơn đã được chấp thuận) và cũng không phải trả lại.",
+        "vocab": [["secure", "v", "đảm bảo chắc chắn"], ["transfer", "v", "chuyển tiền"], ["grant", "n", "khoản tài trợ"]]
+      }
+    ]
+  }
+]

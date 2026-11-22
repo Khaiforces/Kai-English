@@ -1,0 +1,634 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Good morning to our institutional shareholders. Looking at our fourth-quarter financials, headline revenue under standard accounting rules slipped by two percent year over year. Let me assure our institutional partners that this headline contraction is strictly an accounting artifact rather than an erosion of commercial traction. Over the past twelve months, we deliberately accelerated our transition from perpetual upfront licensing to multi-year cloud subscriptions. Because subscription income is recognized incrementally over contract lifespans, our deferred revenue backlog actually surged twenty-eight percent to four hundred ten million dollars. Meanwhile, our gross margin narrowed temporarily by one hundred fifty basis points owing to higher depreciation charges following the commissioning of our sovereign data facility in Dublin. Rather than expanding sales headcount next year, management will deploy excess cash flow to retire our maturing convertible notes early, protecting shareholders from potential equity dilution.",
+    "questionText": "Why did the company's reported quarterly revenue show a slight decrease?",
+    "options": [
+      "Increased competition eroded its share in cloud markets.",
+      "Customer payments are now spread across multi-year contract schedules.",
+      "Operational disruptions delayed the opening of its Dublin facility.",
+      "The firm offered steep upfront discounts to reduce its sales backlog."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng quý cổ đông tổ chức. Nhìn vào báo cáo tài chính quý bốn, doanh thu danh nghĩa theo chuẩn mực kế toán thông thường giảm nhẹ hai phần trăm so với cùng kỳ năm ngoái. Xin khẳng định với các đối tác tổ chức rằng sự sụt giảm trên bề mặt này thuần túy là hệ quả kỹ thuật kế toán chứ không phải sự suy giảm sức hút thương mại. Trong mười hai tháng qua, chúng ta đã chủ động đẩy nhanh quá trình chuyển dịch từ mô hình cấp phép vĩnh viễn thu tiền một lần sang hợp đồng thuê bao điện toán đám mây nhiều năm. Vì doanh thu thuê bao được ghi nhận dần theo thời hạn hợp đồng, lượng doanh thu hoãn lại chưa ghi nhận thực chất đã tăng vọt hai mươi tám phần trăm lên mức bốn trăm mười triệu đô la. Trong khi đó, biên lợi nhuận gộp tạm thời thu hẹp một trăm năm mươi điểm cơ bản do chi phí khấu hao tăng cao sau khi trung tâm dữ liệu chủ quyền tại Dublin đi vào vận hành. Thay vì mở rộng nhân sự bán hàng trong năm tới, ban điều hành sẽ dùng dòng tiền dôi dư để tất toán sớm các trái phiếu chuyển đổi sắp đáo hạn, qua đó bảo vệ cổ đông trước nguy cơ pha loãng cổ phần.\n\nCâu hỏi: Tại sao doanh thu quý được công bố của công ty lại giảm nhẹ?\n(A) Cạnh tranh gia tăng đã làm xói mòn thị phần điện toán đám mây của công ty.\n(B) Khoản thanh toán của khách hàng hiện được phân bổ dần theo lịch trình hợp đồng nhiều năm.\n(C) Trục trặc vận hành đã làm chậm tiến độ khai trương cơ sở tại Dublin.\n(D) Công ty đã tung ra mức chiết khấu trả trước lớn để giảm bớt lượng đơn hàng tồn đọng.",
+    "explanation": "Người nói giải thích việc chuyển từ cấp phép thu tiền một lần sang thuê bao đám mây nhiều năm khiến doanh thu được ghi nhận rải đều dần theo thời hạn hợp đồng ('subscription income is recognized incrementally over contract lifespans'), dẫn tới doanh thu danh nghĩa giảm nhẹ dù lượng đơn hàng tồn đọng tăng 28%, tương ứng đáp án B. Phương án A trái với khẳng định sức hút thương mại không hề suy giảm; phương án C sai vì cơ sở tại Dublin đã đi vào vận hành; phương án D sai vì không hề có chiết khấu để giảm backlog mà backlog thực chất đang tăng.",
+    "vocab": [
+      ["accounting artifact", "n. phr", "hệ quả kỹ thuật kế toán (không phản ánh suy giảm thực chất)"],
+      ["deferred revenue", "n. phr", "doanh thu chưa thực hiện / doanh thu hoãn lại"],
+      ["basis point", "n. phr", "điểm cơ bản (1/100 của 1%, dùng trong tài chính)"],
+      ["equity dilution", "n. phr", "sự pha loãng cổ phần"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Good morning to our institutional shareholders. Looking at our fourth-quarter financials, headline revenue under standard accounting rules slipped by two percent year over year. Let me assure our institutional partners that this headline contraction is strictly an accounting artifact rather than an erosion of commercial traction. Over the past twelve months, we deliberately accelerated our transition from perpetual upfront licensing to multi-year cloud subscriptions. Because subscription income is recognized incrementally over contract lifespans, our deferred revenue backlog actually surged twenty-eight percent to four hundred ten million dollars. Meanwhile, our gross margin narrowed temporarily by one hundred fifty basis points owing to higher depreciation charges following the commissioning of our sovereign data facility in Dublin. Rather than expanding sales headcount next year, management will deploy excess cash flow to retire our maturing convertible notes early, protecting shareholders from potential equity dilution.",
+    "questionText": "Why does the speaker say, \"this headline contraction is strictly an accounting artifact rather than an erosion of commercial traction\"?",
+    "options": [
+      "To challenge the accuracy of external auditing standards",
+      "To announce an immediate revision to previous quarterly filings",
+      "To reassure investors that underlying demand remains healthy",
+      "To blame temporary currency fluctuations for lower profit margins"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người nói lại phát biểu: \"sự sụt giảm trên bề mặt này thuần túy là hệ quả kỹ thuật kế toán chứ không phải sự suy giảm sức hút thương mại\"?\n(A) Để chất vấn tính chính xác của các chuẩn mực kiểm toán bên ngoài\n(B) Để thông báo điều chỉnh ngay lập tức các báo cáo quý trước đó\n(C) Để trấn an nhà đầu tư rằng nhu cầu thực tế của thị trường vẫn vững mạnh\n(D) Để quy lỗi biên lợi nhuận giảm cho biến động tỷ giá tạm thời",
+    "explanation": "Trước con số doanh thu danh nghĩa giảm 2%, người nói mở đầu câu bằng 'Let me assure our institutional partners' và giải thích đó chỉ là cách ghi nhận kế toán trong lúc lượng hợp đồng chưa thực hiện tăng 28%. Mục đích là trấn an các cổ đông tổ chức rằng nhu cầu thị trường vẫn rất khả quan (đáp án C). Các phương án A, B và D đều bóp méo nguyên nhân hoặc suy diễn sai mục đích phát ngôn.",
+    "vocab": [
+      ["headline contraction", "n. phr", "sự sụt giảm ở chỉ số tổng hợp bề mặt"],
+      ["erosion", "n", "sự xói mòn, suy giảm dần"],
+      ["commercial traction", "n. phr", "sức hút thương mại, đà tăng trưởng khách hàng"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following speech:",
+    "audioScript": "Good morning to our institutional shareholders. Looking at our fourth-quarter financials, headline revenue under standard accounting rules slipped by two percent year over year. Let me assure our institutional partners that this headline contraction is strictly an accounting artifact rather than an erosion of commercial traction. Over the past twelve months, we deliberately accelerated our transition from perpetual upfront licensing to multi-year cloud subscriptions. Because subscription income is recognized incrementally over contract lifespans, our deferred revenue backlog actually surged twenty-eight percent to four hundred ten million dollars. Meanwhile, our gross margin narrowed temporarily by one hundred fifty basis points owing to higher depreciation charges following the commissioning of our sovereign data facility in Dublin. Rather than expanding sales headcount next year, management will deploy excess cash flow to retire our maturing convertible notes early, protecting shareholders from potential equity dilution.",
+    "questionText": "What does management intend to prioritize with surplus cash next year?",
+    "options": [
+      "Recruiting additional regional account executives",
+      "Constructing a second data center outside Dublin",
+      "Acquiring competing perpetual-licensing software providers",
+      "Paying off convertible debt ahead of maturity"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Ban điều hành dự định ưu tiên sử dụng lượng tiền mặt dôi dư vào việc gì trong năm tới?\n(A) Tuyển dụng thêm các giám đốc khách hàng khu vực\n(B) Xây dựng trung tâm dữ liệu thứ hai bên ngoài Dublin\n(C) Mua lại các nhà cung cấp phần mềm cấp phép vĩnh viễn đối thủ\n(D) Tất toán khoản nợ chuyển đổi trước thời điểm đáo hạn",
+    "explanation": "Ở câu cuối, người nói nêu rõ ban điều hành sẽ dùng dòng tiền dôi dư để mua lại/tất toán sớm các trái phiếu chuyển đổi sắp đáo hạn ('deploy excess cash flow to retire our maturing convertible notes early') nhằm ngăn pha loãng cổ phiếu, khớp với đáp án D. Phương án A bị bác bỏ trực tiếp bởi cụm 'Rather than expanding sales headcount'; phương án B và C không được đề cập.",
+    "vocab": [
+      ["commissioning", "n", "việc đưa cơ sở/thiết bị vào vận hành chính thức"],
+      ["retire debt", "v. phr", "tất toán, mua lại nợ trước hoặc đúng hạn"],
+      ["convertible note", "n. phr", "trái phiếu/kỳ phiếu chuyển đổi"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Claire, this is Arthur Pendelton from Kestrel Valuation Partners calling with a preliminary update on the intangible asset appraisal for your proposed acquisition of Novum Diagnostics. While Novum's core microfluidic patent portfolio holds up well under discounted cash-flow modeling, our audit uncovered a material discrepancy in their customer-relationship valuation. Specifically, the seller's advisors projected an unrealistically low annual client attrition rate, failing to account for two aggressive rival laboratories entering the market next spring. Additionally, because two of their Japanese patent filings face active priority disputes, we recommend applying a substantial litigation risk discount before submitting your binding offer. Before our valuation committee finalizes the fair-market range on Friday, could you forward Novum's verified contract-renewal logs from the past five years by Thursday noon? That dataset will let us recalibrate the goodwill allocation accurately.",
+    "questionText": "Who most likely is Claire?",
+    "options": [
+      "A corporate executive overseeing a buyout",
+      "A patent attorney defending filings in Japan",
+      "An advisor representing the owners of Novum Diagnostics",
+      "A senior analyst at Kestrel Valuation Partners"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào Claire, tôi là Arthur Pendelton từ Kestrel Valuation Partners gọi để cập nhật sơ bộ về kết quả thẩm định tài sản vô hình cho thương vụ mua lại Novum Diagnostics mà phía chị đang đề xuất. Mặc dù danh mục bằng sáng chế vi lưu cốt lõi của Novum đứng vững tốt dưới mô hình chiết khấu dòng tiền, cuộc kiểm tra của chúng tôi phát hiện sai lệch trọng yếu trong định giá tài sản quan hệ khách hàng của họ. Cụ thể, các cố vấn bên bán đã dự phóng tỷ lệ rời bỏ khách hàng hằng năm thấp một cách phi thực tế, bỏ qua việc hai phòng thí nghiệm đối thủ cạnh tranh gay gắt sẽ gia nhập thị trường vào mùa xuân tới. Ngoài ra, vì hai hồ sơ đăng ký sáng chế tại Nhật Bản đang đối mặt tranh chấp quyền ưu tiên, chúng tôi khuyến nghị áp dụng mức chiết khấu rủi ro kiện tụng đáng kể trước khi phía chị nộp đề nghị mua có tính ràng buộc. Trước khi hội đồng định giá của chúng tôi chốt khung giá trị thị trường hợp lý vào thứ Sáu, chị vui lòng chuyển giúp nhật ký gia hạn hợp đồng đã xác thực trong năm năm qua của Novum trước trưa thứ Năm được không? Bộ dữ liệu đó sẽ giúp chúng tôi hiệu chỉnh chính xác phần phân bổ lợi thế thương mại.\n\nCâu hỏi: Claire nhiều khả năng là ai?\n(A) Một lãnh đạo doanh nghiệp đang phụ trách thương vụ mua lại\n(B) Một luật sư sáng chế đang bảo vệ hồ sơ tại Nhật Bản\n(C) Một cố vấn đại diện cho các chủ sở hữu của Novum Diagnostics\n(D) Một chuyên viên phân tích cấp cao tại Kestrel Valuation Partners",
+    "explanation": "Người gọi từ công ty tư vấn định giá báo cáo về thương vụ mua lại Novum Diagnostics mà phía Claire đề xuất ('your proposed acquisition of Novum Diagnostics') và nhắc tới thời điểm phía Claire nộp đề nghị mua chính thức ('before submitting your binding offer'), cho thấy Claire là lãnh đạo bên mua (đáp án A). Phương án C ngược vai (bên bán); phương án B và D là bẫy ghép chi tiết rời rạc trong bài.",
+    "vocab": [
+      ["intangible asset", "n. phr", "tài sản vô hình (bằng sáng chế, thương hiệu, tệp khách hàng)"],
+      ["material discrepancy", "n. phr", "sai lệch trọng yếu"],
+      ["goodwill allocation", "n. phr", "phân bổ lợi thế thương mại"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Claire, this is Arthur Pendelton from Kestrel Valuation Partners calling with a preliminary update on the intangible asset appraisal for your proposed acquisition of Novum Diagnostics. While Novum's core microfluidic patent portfolio holds up well under discounted cash-flow modeling, our audit uncovered a material discrepancy in their customer-relationship valuation. Specifically, the seller's advisors projected an unrealistically low annual client attrition rate, failing to account for two aggressive rival laboratories entering the market next spring. Additionally, because two of their Japanese patent filings face active priority disputes, we recommend applying a substantial litigation risk discount before submitting your binding offer. Before our valuation committee finalizes the fair-market range on Friday, could you forward Novum's verified contract-renewal logs from the past five years by Thursday noon? That dataset will let us recalibrate the goodwill allocation accurately.",
+    "questionText": "What flaw did Arthur Pendelton identify in the seller's financial model?",
+    "options": [
+      "Discounted cash flows from core patents were omitted entirely.",
+      "Market-share estimates excluded revenue from rival laboratories.",
+      "Litigation costs in Japan were misclassified as goodwill.",
+      "Projected client turnover underestimated emerging competitive pressures."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Arthur Pendelton đã phát hiện thiếu sót nào trong mô hình tài chính của bên bán?\n(A) Dòng tiền chiết khấu từ các bằng sáng chế cốt lõi đã bị bỏ sót hoàn toàn.\n(B) Ước tính thị phần đã loại trừ doanh thu từ các phòng thí nghiệm đối thủ.\n(C) Chi phí kiện tụng tại Nhật Bản đã bị phân loại nhầm thành lợi thế thương mại.\n(D) Tỷ lệ rời bỏ khách hàng dự phóng đã đánh giá thấp áp lực cạnh tranh sắp xuất hiện.",
+    "explanation": "Arthur chỉ ra cố vấn bên bán giả định tỷ lệ mất khách hàng hằng năm thấp phi thực tế vì không tính đến hai đối thủ mới gia nhập thị trường vào mùa xuân tới ('projected an unrealistically low annual client attrition rate, failing to account for two aggressive rival laboratories'), đồng nghĩa với đáp án D ('client turnover' đồng nghĩa 'client attrition'). Phương án A sai vì danh mục sáng chế vẫn đứng vững dưới mô hình chiết khấu dòng tiền; phương án B và C ghép sai khái niệm.",
+    "vocab": [
+      ["attrition rate", "n. phr", "tỷ lệ rời bỏ/hao hụt (khách hàng hoặc nhân sự)"],
+      ["discounted cash-flow", "n. phr", "dòng tiền chiết khấu"],
+      ["priority dispute", "n. phr", "tranh chấp quyền ưu tiên (đăng ký sáng chế)"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hi Claire, this is Arthur Pendelton from Kestrel Valuation Partners calling with a preliminary update on the intangible asset appraisal for your proposed acquisition of Novum Diagnostics. While Novum's core microfluidic patent portfolio holds up well under discounted cash-flow modeling, our audit uncovered a material discrepancy in their customer-relationship valuation. Specifically, the seller's advisors projected an unrealistically low annual client attrition rate, failing to account for two aggressive rival laboratories entering the market next spring. Additionally, because two of their Japanese patent filings face active priority disputes, we recommend applying a substantial litigation risk discount before submitting your binding offer. Before our valuation committee finalizes the fair-market range on Friday, could you forward Novum's verified contract-renewal logs from the past five years by Thursday noon? That dataset will let us recalibrate the goodwill allocation accurately.",
+    "questionText": "What does the speaker ask Claire to send before Thursday afternoon?",
+    "options": [
+      "A revised binding offer approved by Novum's advisors",
+      "Written responses to the active Japanese patent challenges",
+      "Five-year historical records of customer contract renewals",
+      "A summary of Friday's valuation committee agenda"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói yêu cầu Claire gửi tài liệu gì trước chiều thứ Năm?\n(A) Một đề nghị mua có tính ràng buộc đã sửa đổi được cố vấn của Novum phê duyệt\n(B) Văn bản phản hồi các đơn phản đối bằng sáng chế đang diễn ra tại Nhật Bản\n(C) Hồ sơ lịch sử năm năm về việc gia hạn hợp đồng của khách hàng\n(D) Bản tóm tắt chương trình làm việc ngày thứ Sáu của hội đồng định giá",
+    "explanation": "Ở cuối tin nhắn, người nói đề nghị Claire chuyển nhật ký gia hạn hợp đồng đã xác thực của Novum trong năm năm qua trước trưa thứ Năm ('forward Novum's verified contract-renewal logs from the past five years by Thursday noon'), tương ứng với đáp án C.",
+    "vocab": [
+      ["binding offer", "n. phr", "đề nghị mua có tính ràng buộc pháp lý"],
+      ["fair-market range", "n. phr", "khung giá trị thị trường hợp lý"],
+      ["recalibrate", "v", "hiệu chỉnh lại, tính toán lại cho chính xác"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all wholesale carrier partners connected to the Veridian Backbone Network. Starting this Tuesday, our engineering division will execute a three-night optical capacity upgrade along the Trans-Eurasia Express subsea and terrestrial fiber corridor linking Marseille, Istanbul, and Singapore. Between one A.M. and four A.M. Greenwich Mean Time each night, technicians will swap legacy amplifiers for ultra-dense wavelength-division multiplexing repeaters, effectively tripling throughput across the route. For institutions subscribing to protected low-latency financial circuits, traffic will be seamlessly rerouted onto our northern terrestrial bypass without triggering packet drops or noticeable delay. However, enterprise clients operating unprotected raw wavelength channels will experience brief synchronization pauses during segment cutovers. Importantly, if your organization utilizes unprotected channels, your network administrator must confirm edge-switch failback preferences inside the client portal by Friday; otherwise, post-maintenance traffic will remain pinned to secondary pathways indefinitely.",
+    "questionText": "What is the main purpose of the scheduled engineering work?",
+    "options": [
+      "To repair storm damage on a subsea cable near Marseille",
+      "To substantially expand data capacity across an intercontinental route",
+      "To decommission the northern terrestrial bypass corridor",
+      "To migrate enterprise client portals onto a centralized server"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin thông báo tới toàn bộ các đối tác viễn thông bán buôn đang kết nối vào Mạng Đường trục Veridian. Bắt đầu từ thứ Ba tuần này, bộ phận kỹ thuật của chúng tôi sẽ triển khai đợt nâng cấp dung lượng quang học kéo dài ba đêm trên hành lang cáp quang ngầm và trên bộ Trans-Eurasia Express nối liền Marseille, Istanbul và Singapore. Trong khung giờ từ một giờ đến bốn giờ sáng theo giờ chuẩn Greenwich mỗi đêm, kỹ thuật viên sẽ thay thế các bộ khuếch đại thế hệ cũ bằng bộ lặp ghép kênh phân chia bước sóng mật độ siêu cao, giúp tăng gấp ba lần thông lượng toàn tuyến. Đối với các tổ chức thuê kênh tài chính độ trễ thấp có bảo vệ, lưu lượng sẽ được tự động định tuyến lại mượt mà sang tuyến vòng phía bắc trên đất liền mà không gây rớt gói tin hay độ trễ đáng kể. Tuy nhiên, các khách hàng doanh nghiệp vận hành kênh bước sóng thô không bảo vệ sẽ gặp gián đoạn đồng bộ ngắn trong quá trình chuyển mạch từng phân đoạn. Điều quan trọng là nếu tổ chức của quý vị sử dụng kênh không bảo vệ, quản trị viên mạng phải xác nhận tùy chọn chuyển mạch hồi phục biên trong cổng khách hàng trước thứ Sáu; nếu không, lưu lượng sau bảo trì sẽ tiếp tục bị neo giữ trên các tuyến phụ vô thời hạn.\n\nCâu hỏi: Mục đích chính của đợt thi công kỹ thuật theo lịch trình là gì?\n(A) Sửa chữa hư hại do bão trên tuyến cáp ngầm gần Marseille\n(B) Mở rộng đáng kể dung lượng truyền dữ liệu trên một tuyến cáp liên lục địa\n(C) Ngừng vận hành hành lang dự phòng trên đất liền ở phía bắc\n(D) Di dời các cổng thông tin khách hàng doanh nghiệp lên một máy chủ tập trung",
+    "explanation": "Thông báo nêu rõ việc thực hiện 'optical capacity upgrade' trên tuyến cáp xuyên lục địa Marseille–Istanbul–Singapore nhằm tăng gấp ba lần thông lượng ('effectively tripling throughput across the route'), tương ứng đáp án B. Các phương án A, C và D đều sai sự thật hoặc đảo ngược vai trò của tuyến vòng dự phòng.",
+    "vocab": [
+      ["terrestrial", "adj", "trên mặt đất, trên đất liền"],
+      ["throughput", "n", "thông lượng truyền tải dữ liệu"],
+      ["cutover", "n", "sự chuyển mạch/chuyển đổi hệ thống"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all wholesale carrier partners connected to the Veridian Backbone Network. Starting this Tuesday, our engineering division will execute a three-night optical capacity upgrade along the Trans-Eurasia Express subsea and terrestrial fiber corridor linking Marseille, Istanbul, and Singapore. Between one A.M. and four A.M. Greenwich Mean Time each night, technicians will swap legacy amplifiers for ultra-dense wavelength-division multiplexing repeaters, effectively tripling throughput across the route. For institutions subscribing to protected low-latency financial circuits, traffic will be seamlessly rerouted onto our northern terrestrial bypass without triggering packet drops or noticeable delay. However, enterprise clients operating unprotected raw wavelength channels will experience brief synchronization pauses during segment cutovers. Importantly, if your organization utilizes unprotected channels, your network administrator must confirm edge-switch failback preferences inside the client portal by Friday; otherwise, post-maintenance traffic will remain pinned to secondary pathways indefinitely.",
+    "questionText": "How will protected financial-sector clients be affected during the overnight windows?",
+    "options": [
+      "Their data streams will be halted between 1:00 A.M. and 4:00 A.M.",
+      "Their signals will be diverted along an alternate route without disruption.",
+      "They will need to adjust edge switches manually every morning.",
+      "They will experience noticeable synchronization lags across segments."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Các khách hàng tài chính sử dụng kênh có bảo vệ sẽ bị ảnh hưởng thế nào trong các khung giờ ban đêm?\n(A) Luồng dữ liệu của họ sẽ bị ngừng hoàn toàn từ 1 giờ đến 4 giờ sáng.\n(B) Tín hiệu của họ sẽ được chuyển hướng qua một tuyến thay thế mà không bị gián đoạn.\n(C) Họ sẽ phải điều chỉnh thủ công bộ chuyển mạch biên vào mỗi buổi sáng.\n(D) Họ sẽ gặp tình trạng trễ đồng bộ đáng kể giữa các phân đoạn.",
+    "explanation": "Bài nói khẳng định đối với khách hàng thuê kênh tài chính độ trễ thấp có bảo vệ, lưu lượng sẽ được chuyển hướng mượt mà qua tuyến dự phòng phía bắc mà không gây mất gói tin hay độ trễ ('seamlessly rerouted onto our northern terrestrial bypass without triggering packet drops or noticeable delay'), khớp đáp án B. Các phương án C và D là bẫy áp dụng nhầm điều kiện của nhóm kênh không bảo vệ.",
+    "vocab": [
+      ["low-latency", "adj", "độ trễ thấp"],
+      ["reroute", "v", "định tuyến lại, chuyển hướng đường truyền"],
+      ["packet drop", "n. phr", "sự rớt/mất gói dữ liệu"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "Attention all wholesale carrier partners connected to the Veridian Backbone Network. Starting this Tuesday, our engineering division will execute a three-night optical capacity upgrade along the Trans-Eurasia Express subsea and terrestrial fiber corridor linking Marseille, Istanbul, and Singapore. Between one A.M. and four A.M. Greenwich Mean Time each night, technicians will swap legacy amplifiers for ultra-dense wavelength-division multiplexing repeaters, effectively tripling throughput across the route. For institutions subscribing to protected low-latency financial circuits, traffic will be seamlessly rerouted onto our northern terrestrial bypass without triggering packet drops or noticeable delay. However, enterprise clients operating unprotected raw wavelength channels will experience brief synchronization pauses during segment cutovers. Importantly, if your organization utilizes unprotected channels, your network administrator must confirm edge-switch failback preferences inside the client portal by Friday; otherwise, post-maintenance traffic will remain pinned to secondary pathways indefinitely.",
+    "questionText": "What will happen if administrators of unprotected channels miss Friday's portal deadline?",
+    "options": [
+      "Their data traffic will stay on backup routes after upgrades end.",
+      "Their wavelength leases will be terminated without prior notice.",
+      "Their network hardware will sustain permanent packet loss.",
+      "Their organizations will be billed extra for emergency bypass routing."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì sẽ xảy ra nếu quản trị viên của các kênh không bảo vệ bỏ lỡ hạn chót trên cổng thông tin vào thứ Sáu?\n(A) Lưu lượng dữ liệu của họ sẽ tiếp tục nằm trên các tuyến dự phòng sau khi nâng cấp kết thúc.\n(B) Hợp đồng thuê bước sóng của họ sẽ bị chấm dứt không cần báo trước.\n(C) Phần cứng mạng của họ sẽ chịu tình trạng mất gói tin vĩnh viễn.\n(D) Tổ chức của họ sẽ bị tính phụ phí cho việc định tuyến dự phòng khẩn cấp.",
+    "explanation": "Người nói cảnh báo nếu quản trị viên không xác nhận tùy chọn hồi phục trong cổng khách hàng trước thứ Sáu, lưu lượng sau bảo trì sẽ tiếp tục bị giữ trên các đường truyền phụ vô thời hạn ('post-maintenance traffic will remain pinned to secondary pathways indefinitely'), tương ứng đáp án A ('stay on backup routes').",
+    "vocab": [
+      ["failback", "n", "chuyển mạch hồi phục về tuyến chính sau bảo trì"],
+      ["pinned to", "phr", "bị ghim/giữ cố định trên (một tuyến hay nút nào đó)"],
+      ["indefinitely", "adv", "vô thời hạn, không xác định ngày kết thúc"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following introduction:",
+    "audioScript": "It is my distinct privilege to introduce this morning's keynote speaker at the Stockholm Sustainable Materials Innovation Forum, Professor Mei-Ling Tan, director of the Nanostructured Composites Lab at the Kyoto Institute of Polymer Engineering. While much of the clean-tech sector has focused on incremental tweaks to conventional lithium-ion chemistry, Professor Tan spent the past eight years pioneering solid-state ceramic electrolytes capable of autonomously repairing microscopic fractures at ambient temperatures. By eliminating volatile liquid solvents entirely, her breakthrough mitigates thermal runaway risks while cutting reliance on scarce rare-earth inputs by forty percent. Three global automakers have already licensed the technology for commercial pilot lines. Please note that because our preceding policy roundtable ran fifteen minutes long, we have shortened the live question period. Kindly silence your devices and submit detailed technical inquiries via the badge QR code.",
+    "questionText": "What makes Professor Tan's battery material notable compared with standard industry approaches?",
+    "options": [
+      "It stabilizes liquid lithium-ion electrolytes using polymer additives.",
+      "It requires elevated factory temperatures to seal ceramic coatings.",
+      "It eliminates flammable solvents and self-heals micro-fractures.",
+      "It boosts output by incorporating higher ratios of rare-earth elements."
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nTôi vô cùng vinh dự được giới thiệu diễn giả chính sáng nay tại Diễn đàn Đổi mới Vật liệu Bền vững Stockholm, Giáo sư Mei-Ling Tan, Giám đốc Phòng thí nghiệm Vật liệu Tổng hợp Cấu trúc Nano thuộc Viện Kỹ thuật Polymer Kyoto. Trong khi phần lớn ngành công nghệ sạch tập trung vào những cải tiến nhỏ giọt đối với hóa chất pin lithium-ion truyền thống, Giáo sư Tan đã dành tám năm qua tiên phong phát triển chất điện phân gốm thể rắn có khả năng tự chữa lành các vết nứt vi mô ngay ở nhiệt độ phòng. Bằng cách loại bỏ hoàn toàn dung môi lỏng dễ bay hơi, bước đột phá của bà giảm thiểu nguy cơ quá nhiệt mất kiểm soát đồng thời cắt giảm bốn mươi phần trăm sự phụ thuộc vào nguồn đất hiếm khan hiếm. Ba nhà sản xuất ô tô toàn cầu đã cấp phép sử dụng công nghệ này cho các dây chuyền thử nghiệm thương mại. Xin lưu ý rằng vì phiên tọa đàm chính sách trước đó kéo dài thêm mười lăm phút, chúng tôi đã rút ngắn phần hỏi đáp trực tiếp. Kính mong quý vị tắt chuông thiết bị và gửi các câu hỏi kỹ thuật chuyên sâu qua mã QR trên thẻ đại biểu.\n\nCâu hỏi: Điều gì làm vật liệu pin của Giáo sư Tan nổi bật so với các hướng tiếp cận thông thường trong ngành?\n(A) Nó ổn định chất điện phân lỏng lithium-ion bằng các phụ gia polymer.\n(B) Nó đòi hỏi nhiệt độ nhà máy cao để hàn kín các lớp phủ gốm.\n(C) Nó loại bỏ dung môi dễ cháy và tự phục hồi các vết nứt vi mô.\n(D) Nó tăng công suất nhờ bổ sung tỷ lệ cao hơn các nguyên tố đất hiếm.",
+    "explanation": "Diễn giả nêu rõ công nghệ chất điện phân gốm thể rắn của Giáo sư Tan có thể tự sửa chữa vết nứt vi mô ở nhiệt độ phòng ('autonomously repairing microscopic fractures at ambient temperatures') và loại bỏ hoàn toàn dung môi lỏng dễ bay hơi/dễ cháy ('eliminating volatile liquid solvents entirely'), tương ứng với đáp án C. Phương án A sai vì công nghệ bỏ hẳn dung môi lỏng; phương án B sai vì quá trình diễn ra ở nhiệt độ thường ('ambient'); phương án D sai ngược với ý cắt giảm 40% đất hiếm.",
+    "vocab": [
+      ["solid-state electrolyte", "n. phr", "chất điện phân thể rắn"],
+      ["ambient temperature", "n. phr", "nhiệt độ môi trường/nhiệt độ phòng"],
+      ["thermal runaway", "n. phr", "hiện tượng quá nhiệt mất kiểm soát"],
+      ["volatile", "adj", "dễ bay hơi, dễ bốc cháy"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following introduction:",
+    "audioScript": "It is my distinct privilege to introduce this morning's keynote speaker at the Stockholm Sustainable Materials Innovation Forum, Professor Mei-Ling Tan, director of the Nanostructured Composites Lab at the Kyoto Institute of Polymer Engineering. While much of the clean-tech sector has focused on incremental tweaks to conventional lithium-ion chemistry, Professor Tan spent the past eight years pioneering solid-state ceramic electrolytes capable of autonomously repairing microscopic fractures at ambient temperatures. By eliminating volatile liquid solvents entirely, her breakthrough mitigates thermal runaway risks while cutting reliance on scarce rare-earth inputs by forty percent. Three global automakers have already licensed the technology for commercial pilot lines. Please note that because our preceding policy roundtable ran fifteen minutes long, we have shortened the live question period. Kindly silence your devices and submit detailed technical inquiries via the badge QR code.",
+    "questionText": "What is indicated about the commercial status of Professor Tan's innovation?",
+    "options": [
+      "It remains confined to academic trials in Kyoto.",
+      "Several vehicle manufacturers have licensed it for pilot production.",
+      "Automakers delayed adoption over scarce rare-earth supplies.",
+      "It is awaiting safety certification from authorities in Stockholm."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì được đề cập về tình trạng thương mại hóa phát minh của Giáo sư Tan?\n(A) Công nghệ này vẫn chỉ gói gọn trong các thử nghiệm học thuật tại Kyoto.\n(B) Một số hãng sản xuất xe đã mua bản quyền để chạy dây chuyền thử nghiệm.\n(C) Các hãng ô tô đã trì hoãn ứng dụng do nguồn cung đất hiếm khan hiếm.\n(D) Công nghệ này đang chờ chứng nhận an toàn từ cơ quan chức năng tại Stockholm.",
+    "explanation": "Người dẫn chương trình cho biết 'Three global automakers have already licensed the technology for commercial pilot lines' (Ba hãng ô tô toàn cầu đã cấp phép/mua quyền sử dụng công nghệ cho các dây chuyền thử nghiệm thương mại), khớp hoàn toàn với đáp án B.",
+    "vocab": [
+      ["incremental", "adj", "tăng dần từng bước nhỏ"],
+      ["pilot line", "n. phr", "dây chuyền sản xuất thử nghiệm"],
+      ["scarce", "adj", "khan hiếm"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following introduction:",
+    "audioScript": "It is my distinct privilege to introduce this morning's keynote speaker at the Stockholm Sustainable Materials Innovation Forum, Professor Mei-Ling Tan, director of the Nanostructured Composites Lab at the Kyoto Institute of Polymer Engineering. While much of the clean-tech sector has focused on incremental tweaks to conventional lithium-ion chemistry, Professor Tan spent the past eight years pioneering solid-state ceramic electrolytes capable of autonomously repairing microscopic fractures at ambient temperatures. By eliminating volatile liquid solvents entirely, her breakthrough mitigates thermal runaway risks while cutting reliance on scarce rare-earth inputs by forty percent. Three global automakers have already licensed the technology for commercial pilot lines. Please note that because our preceding policy roundtable ran fifteen minutes long, we have shortened the live question period. Kindly silence your devices and submit detailed technical inquiries via the badge QR code.",
+    "questionText": "Why are attendees asked to submit detailed questions via a QR code?",
+    "options": [
+      "An earlier session ran overtime and reduced the discussion window.",
+      "Professor Tan prefers answering proprietary questions privately.",
+      "Audio equipment in the hall is experiencing technical interference.",
+      "Conference organizers want to screen out non-technical inquiries."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao người tham dự được yêu cầu gửi các câu hỏi chuyên sâu thông qua mã QR?\n(A) Một phiên thảo luận trước đó bị lố giờ nên đã rút ngắn thời lượng trao đổi.\n(B) Giáo sư Tan muốn trả lời riêng các câu hỏi liên quan đến bí mật công nghệ.\n(C) Hệ thống âm thanh trong hội trường đang gặp nhiễu kỹ thuật.\n(D) Ban tổ chức hội nghị muốn lọc bỏ các câu hỏi không mang tính chuyên môn.",
+    "explanation": "Người nói giải thích vì buổi tọa đàm chính sách trước đó kéo dài thêm mười lăm phút nên phần hỏi đáp trực tiếp bị rút ngắn ('because our preceding policy roundtable ran fifteen minutes long, we have shortened the live question period'), do đó khán giả được đề nghị gửi câu hỏi chi tiết qua mã QR (đáp án A).",
+    "vocab": [
+      ["preceding", "adj", "trước đó, diễn ra ngay trước"],
+      ["policy roundtable", "n. phr", "tọa đàm bàn tròn về chính sách"],
+      ["inquiry", "n", "câu hỏi, yêu cầu tìm hiểu thông tin"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following instructions:",
+    "audioScript": "Before we begin today's annual recertification audit of the Biosafety Level Three wing, every inspection technician and facilities engineer must strictly follow our containment verification sequence. Do not unseal any exhaust housing until the automated control log confirms that the six-hour vaporized hydrogen peroxide decontamination cycle finished cleanly. Our first step is conducting particulate aerosol challenge tests across every ceiling-mounted filtration module to verify zero leakage above one-hundredth of a percent, while concurrently logging negative air-pressure differentials across the entry airlocks. Next, before signing off on the biosafety cabinet certifications, we must simulate an abrupt utility outage to confirm that every mechanical backdraft damper snaps shut within three seconds of generator transfer. Finally, any airflow calibration probes removed from ductwork must be handed directly to our chief facilities engineer—never leave unsealed instrumentation unattended on laboratory benches.",
+    "questionText": "What prerequisite must be verified before opening the exhaust housings?",
+    "options": [
+      "Airlock differential logs must be countersigned by the chief engineer.",
+      "A six-hour vapor sterilization cycle must be documented as complete.",
+      "Backup electrical generators must pass an initial load test.",
+      "Ceiling filtration modules must be dismantled and cleaned."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nTrước khi bắt đầu đợt kiểm định tái chứng nhận thường niên hôm nay cho khu vực An toàn Sinh học Cấp độ Ba, mọi kỹ thuật viên kiểm tra và kỹ sư cơ sở vật chất phải tuân thủ nghiêm ngặt trình tự xác minh khả năng ngăn chặn rò rỉ. Tuyệt đối không mở niêm phong bất kỳ hộp chứa khí thải nào cho đến khi nhật ký điều khiển tự động xác nhận chu trình khử nhiễm bằng hơi hydro peroxide kéo dài sáu giờ đã hoàn tất sạch sẽ. Bước đầu tiên của chúng ta là thực hiện thử nghiệm thách thức hạt khí dung trên từng mô-đun lọc gắn trần nhằm đảm bảo không có độ rò rỉ vượt quá một phần trăm của một phần trăm, đồng thời ghi nhận chênh lệch áp suất âm tại các buồng đệm cửa vào. Tiếp theo, trước khi ký duyệt chứng nhận các tủ an toàn sinh học, chúng ta phải mô phỏng sự cố mất điện lưới đột ngột để kiểm chứng mọi van chặn hồi lưu cơ học đều đóng sập kín trong vòng ba giây khi chuyển sang máy phát điện. Cuối cùng, bất kỳ đầu dò hiệu chuẩn lưu lượng khí nào được tháo khỏi ống dẫn đều phải bàn giao trực tiếp cho kỹ sư trưởng cơ sở vật chất—tuyệt đối không để thiết bị đã mở niêm phong không có người trông coi trên bàn thí nghiệm.\n\nCâu hỏi: Điều kiện tiên quyết nào phải được xác minh trước khi mở các hộp chứa đường khí thải?\n(A) Nhật ký chênh lệch áp suất buồng đệm phải được kỹ sư trưởng ký xác nhận.\n(B) Chu trình tiệt trùng bằng hơi kéo dài sáu giờ phải được ghi nhận là đã hoàn thành.\n(C) Máy phát điện dự phòng phải vượt qua bài thử tải ban đầu.\n(D) Các mô-đun lọc gắn trần phải được tháo rời và vệ sinh.",
+    "explanation": "Hướng dẫn nêu rõ: 'Do not unseal any exhaust housing until the automated control log confirms that the six-hour vaporized hydrogen peroxide decontamination cycle finished cleanly' (không mở hộp khí thải cho đến khi nhật ký tự động xác nhận chu trình khử nhiễm bằng hơi 6 giờ đã hoàn tất), khớp với đáp án B.",
+    "vocab": [
+      ["recertification", "n", "sự tái cấp chứng nhận"],
+      ["decontamination", "n", "sự khử nhiễm, tiệt trùng"],
+      ["negative air-pressure", "n. phr", "áp suất không khí âm (ngăn khí rò rỉ ra ngoài)"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following instructions:",
+    "audioScript": "Before we begin today's annual recertification audit of the Biosafety Level Three wing, every inspection technician and facilities engineer must strictly follow our containment verification sequence. Do not unseal any exhaust housing until the automated control log confirms that the six-hour vaporized hydrogen peroxide decontamination cycle finished cleanly. Our first step is conducting particulate aerosol challenge tests across every ceiling-mounted filtration module to verify zero leakage above one-hundredth of a percent, while concurrently logging negative air-pressure differentials across the entry airlocks. Next, before signing off on the biosafety cabinet certifications, we must simulate an abrupt utility outage to confirm that every mechanical backdraft damper snaps shut within three seconds of generator transfer. Finally, any airflow calibration probes removed from ductwork must be handed directly to our chief facilities engineer—never leave unsealed instrumentation unattended on laboratory benches.",
+    "questionText": "Why will the inspection team simulate a sudden utility outage?",
+    "options": [
+      "To evaluate how quickly exhaust dampers seal during power transfer",
+      "To measure particulate leakage through ceiling filters at low power",
+      "To reset automated hydrogen peroxide sensors across the airlocks",
+      "To verify battery endurance inside portable airflow probes"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao nhóm kiểm định lại mô phỏng tình huống mất điện lưới đột ngột?\n(A) Để đánh giá tốc độ đóng kín của van chặn gió thải trong quá trình chuyển nguồn điện\n(B) Để đo độ rò rỉ hạt bụi qua màng lọc trần khi công suất điện thấp\n(C) Để đặt lại các cảm biến hydro peroxide tự động tại khu vực buồng đệm\n(D) Để kiểm tra thời lượng pin bên trong các đầu dò lưu lượng khí cầm tay",
+    "explanation": "Người nói giải thích mục đích mô phỏng mất điện là để kiểm chứng mọi van chặn hồi lưu cơ học đều đóng kín trong vòng ba giây khi hệ thống chuyển sang máy phát điện ('confirm that every mechanical backdraft damper snaps shut within three seconds of generator transfer'), tương ứng với đáp án A.",
+    "vocab": [
+      ["abrupt", "adj", "đột ngột, bất ngờ"],
+      ["backdraft damper", "n. phr", "van chặn dòng khí hồi lưu"],
+      ["particulate", "n/adj", "hạt bụi/khí dung siêu nhỏ"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following instructions:",
+    "audioScript": "Before we begin today's annual recertification audit of the Biosafety Level Three wing, every inspection technician and facilities engineer must strictly follow our containment verification sequence. Do not unseal any exhaust housing until the automated control log confirms that the six-hour vaporized hydrogen peroxide decontamination cycle finished cleanly. Our first step is conducting particulate aerosol challenge tests across every ceiling-mounted filtration module to verify zero leakage above one-hundredth of a percent, while concurrently logging negative air-pressure differentials across the entry airlocks. Next, before signing off on the biosafety cabinet certifications, we must simulate an abrupt utility outage to confirm that every mechanical backdraft damper snaps shut within three seconds of generator transfer. Finally, any airflow calibration probes removed from ductwork must be handed directly to our chief facilities engineer—never leave unsealed instrumentation unattended on laboratory benches.",
+    "questionText": "What are technicians instructed to do with dismantled airflow probes?",
+    "options": [
+      "Place them inside sealed bags on laboratory workbenches",
+      "Reinstall them inside the exhaust housings immediately",
+      "Clean them using vaporized hydrogen peroxide",
+      "Deliver them directly to the head facilities engineer"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Các kỹ thuật viên được hướng dẫn làm gì với các đầu dò lưu lượng khí đã tháo rời?\n(A) Đặt chúng vào túi niêm phong trên các bàn làm việc trong phòng thí nghiệm\n(B) Lắp đặt lại chúng vào bên trong hộp chứa khí thải ngay lập tức\n(C) Vệ sinh chúng bằng hơi hydro peroxide\n(D) Bàn giao trực tiếp cho kỹ sư trưởng cơ sở vật chất",
+    "explanation": "Câu cuối nêu rõ các đầu dò tháo từ đường ống phải được trao tận tay cho kỹ sư trưởng cơ sở vật chất và không bao giờ được để tự do trên bàn thí nghiệm ('handed directly to our chief facilities engineer—never leave unsealed instrumentation unattended on laboratory benches'), khớp với đáp án D.",
+    "vocab": [
+      ["ductwork", "n", "hệ thống ống dẫn khí"],
+      ["calibration probe", "n. phr", "đầu dò hiệu chuẩn"],
+      ["unattended", "adj", "không có người trông coi, bỏ mặc"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for attending this second-quarter editorial board meeting for the Annals of Computational Economics. Over the past six months, manuscript submissions jumped thirty-five percent, driven largely by studies applying large language models to macroeconomic forecasting. Unfortunately, nearly a quarter of those drafts lack verifiable datasets or reproducible simulation scripts, ballooning our peer-review backlog to five months. To restore our target ten-week turnaround without compromising scholarly rigor, I am instituting an immediate desk-rejection triage protocol. Any submission lacking a publicly auditable code repository at intake will be returned immediately prior to double-blind peer review. Expanding our roster of associate editors sounds appealing on paper, yet onboarding unpaid academic volunteers simply won't clear the bottleneck before our autumn special issue. Instead, the university press has authorized funding for two full-time data verification specialists to handle technical pre-screening.",
+    "questionText": "What problem has caused the journal's review turnaround time to lengthen?",
+    "options": [
+      "A shortage of scholarly research on macroeconomic forecasting",
+      "Delayed funding approvals from the university press",
+      "Disputes among editors regarding double-blind review criteria",
+      "An influx of submissions missing reproducible empirical files"
+    ],
+    "correct": "D",
+    "translation": "Bản dịch bài nói:\nCảm ơn tất cả quý vị đã tham dự cuộc họp hội đồng biên tập quý hai của tạp chí Biên niên Kinh tế Tính toán. Trong sáu tháng qua, số bản thảo gửi về đã tăng vọt ba mươi lăm phần trăm, chủ yếu nhờ các nghiên cứu ứng dụng mô hình ngôn ngữ lớn vào dự báo kinh tế vĩ mô. Đáng tiếc là gần một phần tư số bản thảo đó thiếu bộ dữ liệu có thể kiểm chứng hoặc tập lệnh mô phỏng có thể tái lập, làm lượng bài tồn đọng chờ bình duyệt phình to lên tới năm tháng. Để khôi phục thời gian xử lý mục tiêu là mười tuần mà không làm giảm sự nghiêm ngặt học thuật, tôi sẽ áp dụng ngay lập tức quy trình sàng lọc từ chối tại bàn. Mọi bản thảo không có kho mã nguồn kiểm toán công khai ngay khi nộp sẽ bị trả lại lập tức trước khi đưa vào bình duyệt mù đôi. Việc mở rộng danh sách biên tập viên liên kết nghe có vẻ hấp dẫn trên lý thuyết, nhưng tuyển thêm các tình nguyện viên học thuật không hưởng lương đơn giản sẽ không giải quyết được nút thắt cổ chai trước số chuyên đề mùa thu. Thay vào đó, nhà xuất bản đại học đã phê duyệt ngân sách cho hai chuyên viên kiểm định dữ liệu toàn thời gian phụ trách khâu tiền thẩm định kỹ thuật.\n\nCâu hỏi: Vấn đề nào đã khiến thời gian xử lý phản biện của tạp chí bị kéo dài?\n(A) Tình trạng thiếu hụt nghiên cứu học thuật về dự báo kinh tế vĩ mô\n(B) Sự chậm trễ phê duyệt ngân sách từ nhà xuất bản đại học\n(C) Tranh chấp giữa các biên tập viên về tiêu chí bình duyệt mù đôi\n(D) Lượng lớn bài gửi về thiếu các tệp dữ liệu thực nghiệm có thể tái lập",
+    "explanation": "Người nói giải thích số bài nộp tăng 35% nhưng gần một phần tư thiếu dữ liệu kiểm chứng hoặc mã mô phỏng tái lập ('lack verifiable datasets or reproducible simulation scripts'), làm tồn đọng bình duyệt lên năm tháng, khớp với đáp án D. Phương án A trái ngược với thực tế; phương án B và C sai chi tiết trong bài.",
+    "vocab": [
+      ["reproducible", "adj", "có thể tái lập, lặp lại kết quả được"],
+      ["backlog", "n", "lượng công việc tồn đọng"],
+      ["scholarly rigor", "n. phr", "sự chặt chẽ/nghiêm ngặt mang tính học thuật"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for attending this second-quarter editorial board meeting for the Annals of Computational Economics. Over the past six months, manuscript submissions jumped thirty-five percent, driven largely by studies applying large language models to macroeconomic forecasting. Unfortunately, nearly a quarter of those drafts lack verifiable datasets or reproducible simulation scripts, ballooning our peer-review backlog to five months. To restore our target ten-week turnaround without compromising scholarly rigor, I am instituting an immediate desk-rejection triage protocol. Any submission lacking a publicly auditable code repository at intake will be returned immediately prior to double-blind peer review. Expanding our roster of associate editors sounds appealing on paper, yet onboarding unpaid academic volunteers simply won't clear the bottleneck before our autumn special issue. Instead, the university press has authorized funding for two full-time data verification specialists to handle technical pre-screening.",
+    "questionText": "Under the new intake protocol, what will happen to manuscripts without auditable code repositories?",
+    "options": [
+      "They will be postponed automatically until the autumn special issue.",
+      "They will be transferred to unpaid associate editors for debugging.",
+      "They will be turned away before reaching external peer reviewers.",
+      "They will be assigned directly to data verification specialists for correction."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Theo quy trình tiếp nhận mới, điều gì sẽ xảy ra đối với những bản thảo không có kho mã nguồn có thể kiểm toán?\n(A) Chúng sẽ bị hoãn tự động cho đến số chuyên đề mùa thu.\n(B) Chúng sẽ được chuyển cho biên tập viên liên kết không lương để sửa lỗi mã.\n(C) Chúng sẽ bị từ chối trả lại trước khi chuyển tới các chuyên gia bình duyệt bên ngoài.\n(D) Chúng sẽ được giao thẳng cho chuyên viên kiểm định dữ liệu để chỉnh sửa.",
+    "explanation": "Theo quy trình 'desk-rejection triage protocol', bất kỳ bản thảo nào thiếu kho mã nguồn công khai khi nộp sẽ bị trả về ngay lập tức trước vòng bình duyệt mù đôi ('returned immediately prior to double-blind peer review'), tương ứng với đáp án C. Chuyên viên kiểm định dữ liệu chỉ làm khâu sàng lọc kỹ thuật chứ không sửa bài cho tác giả (loại D).",
+    "vocab": [
+      ["desk-rejection", "n. phr", "từ chối bài ngay ở vòng biên tập sơ tuyển"],
+      ["auditable", "adj", "có thể kiểm toán, kiểm tra minh bạch được"],
+      ["pre-screening", "n", "việc sàng lọc sơ bộ ban đầu"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for attending this second-quarter editorial board meeting for the Annals of Computational Economics. Over the past six months, manuscript submissions jumped thirty-five percent, driven largely by studies applying large language models to macroeconomic forecasting. Unfortunately, nearly a quarter of those drafts lack verifiable datasets or reproducible simulation scripts, ballooning our peer-review backlog to five months. To restore our target ten-week turnaround without compromising scholarly rigor, I am instituting an immediate desk-rejection triage protocol. Any submission lacking a publicly auditable code repository at intake will be returned immediately prior to double-blind peer review. Expanding our roster of associate editors sounds appealing on paper, yet onboarding unpaid academic volunteers simply won't clear the bottleneck before our autumn special issue. Instead, the university press has authorized funding for two full-time data verification specialists to handle technical pre-screening.",
+    "questionText": "Why does the speaker say, \"Expanding our roster of associate editors sounds appealing on paper\"?",
+    "options": [
+      "To justify hiring paid specialists rather than relying on volunteers",
+      "To praise associate editors for shortening the review cycle to ten weeks",
+      "To propose recruiting more academics ahead of the autumn special issue",
+      "To criticize the university press for denying paid editorial positions"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao người nói lại nói: \"Việc mở rộng danh sách biên tập viên liên kết nghe có vẻ hấp dẫn trên lý thuyết\"?\n(A) Để lý giải việc tuyển dụng chuyên viên hưởng lương thay vì trông cậy vào tình nguyện viên\n(B) Để khen ngợi các biên tập viên liên kết vì đã rút ngắn chu kỳ phản biện xuống mười tuần\n(C) Để đề xuất tuyển thêm học giả trước số chuyên đề mùa thu\n(D) Để chỉ trích nhà xuất bản đại học vì từ chối cấp các vị trí biên tập hưởng lương",
+    "explanation": "Người nói dùng cụm 'sounds appealing on paper' để thừa nhận giải pháp thêm biên tập viên tình nguyện nghe có vẻ hay nhưng thực tế sẽ không giải tỏa kịp ách tắc trước số mùa thu ('yet onboarding unpaid academic volunteers simply won't clear the bottleneck'), qua đó dẫn sang giải pháp thực tế là tuyển hai chuyên viên toàn thời gian hưởng lương (đáp án A). Phương án D sai vì nhà xuất bản đã phê duyệt kinh phí.",
+    "vocab": [
+      ["on paper", "idiom", "trên giấy tờ, trên lý thuyết"],
+      ["roster", "n", "danh sách nhân sự, đội ngũ"],
+      ["onboard", "v", "tuyển dụng và hướng dẫn hòa nhập nhân sự mới"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following broadcast:",
+    "audioScript": "Welcome to Cross-Border Commerce Briefing. Starting next month, the regional customs union will formally abolish its long-standing de minimis duty exemption for direct-to-consumer retail parcels valued below one hundred fifty euros. Domestic storefront chains have lobbied tirelessly to close this loophole, arguing that overseas factory-direct platforms undercut local prices by bypassing import tariffs and safety compliance checks. To prevent catastrophic congestion at national postal sorting hubs, customs officials rejected the idea of collecting duties from individual shoppers upon doorstep delivery. Instead, major e-commerce marketplaces generating over fifty million euros in regional turnover must calculate and remit applicable tariffs at the digital checkout stage. Supply-chain analysts predict this policy shift will push foreign merchants away from scattered air-mail parcels toward bulk container shipping into bonded regional fulfillment centers.",
+    "questionText": "What policy change is the customs union implementing next month?",
+    "options": [
+      "Raising the duty-free ceiling for imported parcels to 150 euros",
+      "Ending tariff exemptions on low-value direct-to-consumer shipments",
+      "Banning overseas manufacturers from operating online storefronts",
+      "Requiring safety inspections only on shipments over fifty million euros"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào mừng đến với Bản tin Thương mại Xuyên biên giới. Bắt đầu từ tháng tới, liên minh thuế quan khu vực sẽ chính thức bãi bỏ quy định miễn thuế giá trị nhỏ tồn tại lâu nay đối với các bưu kiện bán lẻ gửi trực tiếp tới người tiêu dùng có giá trị dưới một trăm năm mươi euro. Các chuỗi cửa hàng bán lẻ nội địa đã vận động hành lang không ngừng nghỉ nhằm bịt lỗ hổng này, lập luận rằng các nền tảng bán hàng trực tiếp từ nhà máy nước ngoài đang phá giá thị trường nội địa bằng cách né tránh thuế nhập khẩu và kiểm định tuân thủ an toàn. Nhằm ngăn chặn tình trạng ùn tắc nghiêm trọng tại các trung tâm phân loại bưu chính quốc gia, giới chức hải quan đã bác bỏ phương án thu thuế từ từng người mua khi giao hàng tận nhà. Thay vào đó, các sàn thương mại điện tử lớn có doanh thu khu vực trên năm mươi triệu euro phải tính toán và nộp các khoản thuế áp dụng ngay tại bước thanh toán trực tuyến. Các nhà phân tích chuỗi cung ứng dự báo sự chuyển dịch chính sách này sẽ thúc đẩy các thương nhân nước ngoài rời bỏ hình thức gửi bưu kiện hàng không lẻ tẻ để chuyển sang vận chuyển container số lượng lớn tới các trung tâm hoàn tất đơn hàng ngoại quan trong khu vực.\n\nCâu hỏi: Liên minh thuế quan sẽ thực thi thay đổi chính sách nào vào tháng tới?\n(A) Nâng trần miễn thuế đối với các bưu kiện nhập khẩu lên 150 euro\n(B) Chấm dứt miễn thuế đối với các lô hàng giá trị thấp gửi trực tiếp tới người tiêu dùng\n(C) Cấm các nhà sản xuất nước ngoài vận hành cửa hàng trực tuyến\n(D) Chỉ yêu cầu kiểm tra an toàn đối với các lô hàng vượt năm mươi triệu euro",
+    "explanation": "Bản tin cho biết liên minh thuế quan sẽ bãi bỏ miễn thuế đối với bưu kiện bán lẻ gửi thẳng người tiêu dùng trị giá dưới 150 euro ('abolish its long-standing de minimis duty exemption for direct-to-consumer retail parcels valued below one hundred fifty euros'), tương ứng đáp án B. Phương án A đảo ngược ý (bãi bỏ chứ không nâng trần); phương án D nhầm mốc 50 triệu euro doanh thu của sàn với giá trị lô hàng.",
+    "vocab": [
+      ["de minimis exemption", "n. phr", "ngưỡng miễn thuế đối với hàng hóa giá trị nhỏ"],
+      ["undercut", "v", "bán phá giá, chào giá thấp hơn để cạnh tranh"],
+      ["loophole", "n", "kẽ hở, lỗ hổng (trong luật hoặc quy định)"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following broadcast:",
+    "audioScript": "Welcome to Cross-Border Commerce Briefing. Starting next month, the regional customs union will formally abolish its long-standing de minimis duty exemption for direct-to-consumer retail parcels valued below one hundred fifty euros. Domestic storefront chains have lobbied tirelessly to close this loophole, arguing that overseas factory-direct platforms undercut local prices by bypassing import tariffs and safety compliance checks. To prevent catastrophic congestion at national postal sorting hubs, customs officials rejected the idea of collecting duties from individual shoppers upon doorstep delivery. Instead, major e-commerce marketplaces generating over fifty million euros in regional turnover must calculate and remit applicable tariffs at the digital checkout stage. Supply-chain analysts predict this policy shift will push foreign merchants away from scattered air-mail parcels toward bulk container shipping into bonded regional fulfillment centers.",
+    "questionText": "How will import duties be collected under the new system?",
+    "options": [
+      "Postal couriers will collect fees from shoppers upon delivery.",
+      "Domestic retail chains will process tariff reimbursements for buyers.",
+      "Large online marketplaces will gather and remit duties during checkout.",
+      "Overseas factories will pay flat annual levies at postal sorting hubs."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Thuế nhập khẩu sẽ được thu bằng cách nào theo hệ thống mới?\n(A) Nhân viên giao nhận bưu chính sẽ thu phí từ người mua khi giao hàng.\n(B) Các chuỗi bán lẻ nội địa sẽ xử lý hoàn thuế cho người mua.\n(C) Các sàn thương mại điện tử lớn sẽ thu và nộp thuế ngay trong bước thanh toán.\n(D) Các nhà máy nước ngoài sẽ đóng khoản thuế cố định hằng năm tại trung tâm bưu chính.",
+    "explanation": "Bản tin nêu rõ phương án thu thuế tận cửa bị bác bỏ; thay vào đó, các sàn thương mại điện tử có doanh thu trên 50 triệu euro phải tính và chuyển nộp thuế ngay tại khâu thanh toán điện tử ('calculate and remit applicable tariffs at the digital checkout stage'), khớp đáp án C (loại A).",
+    "vocab": [
+      ["remit", "v", "chuyển nộp, thanh toán tiền/thuế"],
+      ["turnover", "n", "doanh thu"],
+      ["congestion", "n", "tình trạng ùn tắc, quá tải"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following broadcast:",
+    "audioScript": "Welcome to Cross-Border Commerce Briefing. Starting next month, the regional customs union will formally abolish its long-standing de minimis duty exemption for direct-to-consumer retail parcels valued below one hundred fifty euros. Domestic storefront chains have lobbied tirelessly to close this loophole, arguing that overseas factory-direct platforms undercut local prices by bypassing import tariffs and safety compliance checks. To prevent catastrophic congestion at national postal sorting hubs, customs officials rejected the idea of collecting duties from individual shoppers upon doorstep delivery. Instead, major e-commerce marketplaces generating over fifty million euros in regional turnover must calculate and remit applicable tariffs at the digital checkout stage. Supply-chain analysts predict this policy shift will push foreign merchants away from scattered air-mail parcels toward bulk container shipping into bonded regional fulfillment centers.",
+    "questionText": "What logistical adaptation do analysts expect from international sellers?",
+    "options": [
+      "Splitting commercial orders into smaller individual air parcels",
+      "Suspending direct online sales to consumers within the region",
+      "Establishing brick-and-mortar retail chains across the customs union",
+      "Consolidating inventory via container shipments to local bonded warehouses"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Các nhà phân tích dự đoán các nhà bán hàng quốc tế sẽ điều chỉnh logistics theo hướng nào?\n(A) Chia nhỏ các đơn hàng thương mại thành các bưu kiện hàng không lẻ\n(B) Tạm ngừng bán hàng trực tuyến trực tiếp cho người tiêu dùng trong khu vực\n(C) Mở chuỗi cửa hàng bán lẻ vật lý trên toàn liên minh thuế quan\n(D) Gom hàng vận chuyển bằng container tới các kho ngoại quan tại khu vực",
+    "explanation": "Chuyên gia chuỗi cung ứng dự báo người bán nước ngoài sẽ chuyển từ gửi bưu kiện hàng không rải rác sang vận chuyển container số lượng lớn vào các trung tâm hoàn tất đơn hàng ngoại quan khu vực ('away from scattered air-mail parcels toward bulk container shipping into bonded regional fulfillment centers'), tương ứng đáp án D (ngược với bẫy A).",
+    "vocab": [
+      ["bonded warehouse", "n. phr", "kho ngoại quan (lưu giữ hàng hóa chưa làm thủ tục thông quan)"],
+      ["fulfillment center", "n. phr", "trung tâm hoàn tất đơn hàng (đóng gói và giao vận)"],
+      ["scattered", "adj", "rải rác, phân tán, nhỏ lẻ"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following advertisement:",
+    "audioScript": "As wind and solar generation surpass forty percent of regional grid capacity, utility executives face a costly paradox: surplus midday electricity goes curtailed while evening demand spikes force expensive peaking plants online. Conventional lithium-ion battery banks are economically viable only for brief four-hour bursts—not multi-day grid resilience. Meet TerraVault, the utility-scale iron-air energy storage architecture engineered by CinderCore Energy. Built from abundant, non-flammable, and fully recyclable iron pellets, TerraVault delivers continuous hundred-hour power discharge at roughly one-tenth the capital cost per kilowatt-hour of lithium alternatives. Each prefabricated modular block integrates automated frequency-regulation software that shields power providers from steep grid-instability penalties. Schedule a complimentary load-profile feasibility assessment with our systems engineers before September thirtieth, and CinderCore will subsidize half of your substation interconnection engineering fees.",
+    "questionText": "Who is this advertisement primarily intended for?",
+    "options": [
+      "Electric utility managers and grid infrastructure operators",
+      "Residential homeowners seeking rooftop solar storage",
+      "Manufacturers designing lithium-ion vehicle batteries",
+      "Municipal inspectors enforcing fire-safety codes"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nKhi sản lượng điện gió và điện mặt trời vượt quá bốn mươi phần trăm công suất lưới điện khu vực, các nhà điều hành điện lực đối mặt với một nghịch lý tốn kém: lượng điện dư thừa vào buổi trưa bị cắt giảm lãng phí trong khi đỉnh nhu cầu buổi tối buộc các nhà máy chạy đỉnh đắt đỏ phải hòa lưới. Các hệ thống pin lithium-ion truyền thống chỉ hiệu quả về mặt kinh tế cho các đợt phát ngắn bốn giờ—chứ không đáp ứng được khả năng chống chịu nhiều ngày cho lưới điện. Hãy làm quen với TerraVault, kiến trúc lưu trữ năng lượng sắt-không khí quy mô lưới điện do CinderCore Energy thiết kế. Chế tạo từ các viên sắt dồi dào, không bắt lửa và có thể tái chế hoàn toàn, TerraVault cung cấp khả năng xả điện liên tục suốt một trăm giờ với chi phí đầu tư trên mỗi kilowatt-giờ chỉ bằng khoảng một phần mười so với giải pháp lithium. Mỗi khối mô-đun đúc sẵn tích hợp phần mềm tự động điều tần giúp các nhà cung cấp điện tránh các khoản phạt nặng do mất ổn định lưới điện. Hãy đặt lịch đánh giá tính khả thi biểu đồ phụ tải miễn phí với đội ngũ kỹ sư hệ thống của chúng tôi trước ngày ba mươi tháng Chín, và CinderCore sẽ tài trợ một nửa chi phí kỹ thuật đấu nối trạm biến áp cho quý vị.\n\nCâu hỏi: Quảng cáo này chủ yếu hướng tới đối tượng nào?\n(A) Các nhà quản lý điện lực và đơn vị vận hành hạ tầng lưới điện\n(B) Các hộ gia đình tìm giải pháp lưu trữ điện mặt trời áp mái\n(C) Các nhà sản xuất thiết kế pin lithium-ion cho xe điện\n(D) Các thanh tra đô thị thực thi quy chuẩn phòng cháy chữa cháy",
+    "explanation": "Quảng cáo mở đầu bằng đối tượng 'utility executives', nhắc tới giải pháp 'utility-scale' (quy mô điện lực/lưới điện) giúp các nhà cung cấp điện ('power providers') tránh phạt mất ổn định lưới và hỗ trợ phí đấu nối trạm biến áp ('substation interconnection'), khớp hoàn toàn với đáp án A.",
+    "vocab": [
+      ["curtailed", "adj/v", "bị cắt giảm công suất phát (vì lưới không tiếp nhận hết)"],
+      ["utility-scale", "adj", "quy mô công nghiệp/lưới điện công cộng"],
+      ["frequency regulation", "n. phr", "điều tần (giữ ổn định tần số lưới điện)"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following advertisement:",
+    "audioScript": "As wind and solar generation surpass forty percent of regional grid capacity, utility executives face a costly paradox: surplus midday electricity goes curtailed while evening demand spikes force expensive peaking plants online. Conventional lithium-ion battery banks are economically viable only for brief four-hour bursts—not multi-day grid resilience. Meet TerraVault, the utility-scale iron-air energy storage architecture engineered by CinderCore Energy. Built from abundant, non-flammable, and fully recyclable iron pellets, TerraVault delivers continuous hundred-hour power discharge at roughly one-tenth the capital cost per kilowatt-hour of lithium alternatives. Each prefabricated modular block integrates automated frequency-regulation software that shields power providers from steep grid-instability penalties. Schedule a complimentary load-profile feasibility assessment with our systems engineers before September thirtieth, and CinderCore will subsidize half of your substation interconnection engineering fees.",
+    "questionText": "What advantage does TerraVault offer compared with conventional lithium-ion banks?",
+    "options": [
+      "Faster recharging during four-hour midday peaks",
+      "Higher recyclability of scarce rare-earth metals",
+      "Substantially lower capital cost for multi-day discharge",
+      "Elimination of substation connections for modular plants"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: TerraVault mang lại lợi thế gì so với hệ thống pin lithium-ion truyền thống?\n(A) Sạc lại nhanh hơn trong các khung cao điểm bốn giờ buổi trưa\n(B) Khả năng tái chế cao hơn đối với các kim loại đất hiếm khan hiếm\n(C) Chi phí vốn thấp hơn đáng kể cho khả năng xả điện kéo dài nhiều ngày\n(D) Loại bỏ hoàn toàn nhu cầu đấu nối trạm biến áp cho các nhà máy mô-đun",
+    "explanation": "Bài quảng cáo nhấn mạnh pin lithium-ion chỉ kinh tế cho chu kỳ ngắn 4 giờ, còn TerraVault xả điện liên tục suốt 100 giờ (nhiều ngày) với chi phí vốn trên mỗi kWh chỉ khoảng một phần mười ('continuous hundred-hour power discharge at roughly one-tenth the capital cost per kilowatt-hour of lithium alternatives'), khớp với đáp án C. Phương án A và B bẫy ghép từ sai; phương án D sai vì vẫn cần đấu nối trạm biến áp.",
+    "vocab": [
+      ["economically viable", "adj. phr", "khả thi/hiệu quả về mặt kinh tế"],
+      ["capital cost", "n. phr", "chi phí vốn đầu tư ban đầu"],
+      ["prefabricated", "adj", "đúc sẵn, sản xuất sẵn theo mô-đun"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following advertisement:",
+    "audioScript": "As wind and solar generation surpass forty percent of regional grid capacity, utility executives face a costly paradox: surplus midday electricity goes curtailed while evening demand spikes force expensive peaking plants online. Conventional lithium-ion battery banks are economically viable only for brief four-hour bursts—not multi-day grid resilience. Meet TerraVault, the utility-scale iron-air energy storage architecture engineered by CinderCore Energy. Built from abundant, non-flammable, and fully recyclable iron pellets, TerraVault delivers continuous hundred-hour power discharge at roughly one-tenth the capital cost per kilowatt-hour of lithium alternatives. Each prefabricated modular block integrates automated frequency-regulation software that shields power providers from steep grid-instability penalties. Schedule a complimentary load-profile feasibility assessment with our systems engineers before September thirtieth, and CinderCore will subsidize half of your substation interconnection engineering fees.",
+    "questionText": "What incentive is offered to organizations that book an assessment before September 30?",
+    "options": [
+      "Free iron-pellet replacements for the first hundred cycles",
+      "Waived regulatory penalties for grid frequency fluctuations",
+      "Complimentary installation of modular storage units",
+      "A fifty-percent subsidy on substation connection design costs"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Ưu đãi nào được dành cho các tổ chức đặt lịch đánh giá trước ngày 30 tháng 9?\n(A) Thay thế miễn phí các viên sắt trong một trăm chu kỳ đầu tiên\n(B) Miễn các khoản phạt quy định đối với dao động tần số lưới điện\n(C) Lắp đặt miễn phí các khối lưu trữ mô-đun\n(D) Trợ cấp năm mươi phần trăm chi phí thiết kế kỹ thuật đấu nối trạm biến áp",
+    "explanation": "Ở câu cuối, CinderCore cam kết tài trợ một nửa phí kỹ thuật đấu nối trạm biến áp ('subsidize half of your substation interconnection engineering fees') cho khách hàng đặt lịch phân tích phụ tải trước ngày 30 tháng 9, khớp với đáp án D.",
+    "vocab": [
+      ["load profile", "n. phr", "biểu đồ/đặc tính phụ tải điện theo thời gian"],
+      ["subsidize", "v", "trợ cấp, hỗ trợ một phần chi phí"],
+      ["interconnection", "n", "sự đấu nối liên kết (vào lưới điện/trạm biến áp)"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning to our project contractors, structural inspectors, and municipal partners. This notice confirms that next Monday's formal commissioning and public opening of the Redford River Cable-Stayed Viaduct must be postponed by six weeks. Although the polymer roadway surfacing and smart illumination arrays wrapped up two weeks ahead of schedule, Tuesday's final static load verification and ultrasonic weld audit revealed anomalous deflection beneath the east anchor pier. Geotechnical borings indicate that prolonged autumn rainfall saturated deep clay strata below the pier footing. Our independent structural advisory panel emphasized that the main suspended span itself remains completely sound; however, final sign-off requires high-pressure foundation grouting plus fourteen days of continuous fiber-optic strain monitoring. Meanwhile, toll exemptions for permitted heavy freight ferries will be extended, and consortium leaders will reconvene Monday morning to revise milestone disbursement schedules.",
+    "questionText": "Why is the opening of the Redford River viaduct being delayed?",
+    "options": [
+      "Water-saturated subsoil caused unexpected movement under an anchor pier.",
+      "Ultrasonic testing uncovered faulty welds along the main suspended span.",
+      "Roadway surfacing and lighting contractors fell two weeks behind schedule.",
+      "Consortium partners failed to agree on final milestone payments."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng các nhà thầu dự án, thanh tra kết cấu và đối tác đô thị. Thông báo này xác nhận lễ nghiệm thu chính thức và thông xe công trình Cầu cạn Dây văng Sông Redford vào thứ Hai tới buộc phải hoãn lại sáu tuần. Mặc dù hạng mục trải mặt đường polymer và hệ thống chiếu sáng thông minh đã hoàn tất sớm hơn tiến độ hai tuần, cuộc kiểm định thử tải tĩnh cuối cùng và siêu âm mối hàn hôm thứ Ba đã phát hiện độ võng bất thường bên dưới trụ neo phía đông. Kết quả khoan khảo sát địa kỹ thuật chỉ ra rằng đợt mưa thu kéo dài đã làm bão hòa nước các tầng đất sét sâu bên dưới móng trụ. Hội đồng tư vấn kết cấu độc lập nhấn mạnh rằng bản thân nhịp cầu treo chính vẫn hoàn toàn vững chắc; tuy nhiên, việc ký nghiệm thu cuối cùng đòi hỏi phải bơm vữa gia cố nền móng áp lực cao kèm theo mười bốn ngày theo dõi biến dạng liên tục bằng cảm biến sợi quang. Trong thời gian này, chính sách miễn phí qua phà cho các xe chở hàng nặng có giấy phép sẽ được gia hạn, và lãnh đạo liên danh sẽ nhóm họp vào sáng thứ Hai để điều chỉnh lại lịch giải ngân theo tiến độ.\n\nCâu hỏi: Tại sao việc thông xe cầu cạn sông Redford lại bị trì hoãn?\n(A) Tầng đất nền bão hòa nước đã gây ra dịch chuyển bất thường bên dưới một trụ neo.\n(B) Kiểm tra siêu âm đã phát hiện các mối hàn lỗi dọc theo nhịp cầu treo chính.\n(C) Các nhà thầu trải mặt đường và chiếu sáng bị chậm tiến độ hai tuần.\n(D) Các đối tác liên danh không đạt thỏa thuận về các đợt thanh toán cuối cùng.",
+    "explanation": "Thông báo nêu thử tải phát hiện độ võng bất thường dưới trụ neo phía đông vì mưa thu kéo dài làm bão hòa nước các tầng đất sét sâu bên dưới móng trụ ('prolonged autumn rainfall saturated deep clay strata below the pier footing'), khớp với đáp án A. Phương án B sai vì nhịp chính vẫn hoàn toàn vững chắc; phương án C đảo ngược ý ('ahead of schedule').",
+    "vocab": [
+      ["anomalous deflection", "n. phr", "độ võng/lệch bất thường (trong kết cấu)"],
+      ["geotechnical boring", "n. phr", "khoan khảo sát địa kỹ thuật"],
+      ["clay strata", "n. phr", "các tầng đất sét"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning to our project contractors, structural inspectors, and municipal partners. This notice confirms that next Monday's formal commissioning and public opening of the Redford River Cable-Stayed Viaduct must be postponed by six weeks. Although the polymer roadway surfacing and smart illumination arrays wrapped up two weeks ahead of schedule, Tuesday's final static load verification and ultrasonic weld audit revealed anomalous deflection beneath the east anchor pier. Geotechnical borings indicate that prolonged autumn rainfall saturated deep clay strata below the pier footing. Our independent structural advisory panel emphasized that the main suspended span itself remains completely sound; however, final sign-off requires high-pressure foundation grouting plus fourteen days of continuous fiber-optic strain monitoring. Meanwhile, toll exemptions for permitted heavy freight ferries will be extended, and consortium leaders will reconvene Monday morning to revise milestone disbursement schedules.",
+    "questionText": "What did the independent advisory panel conclude about the main bridge span?",
+    "options": [
+      "It requires fourteen days of high-pressure grouting along its cables.",
+      "It can support limited passenger traffic before formal commissioning.",
+      "It retains full structural integrity despite the foundation problem.",
+      "It needs additional ultrasonic audits before clay strata stabilize."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Hội đồng tư vấn độc lập đã kết luận gì về nhịp cầu chính?\n(A) Nhịp cầu đòi hỏi mười bốn ngày bơm vữa áp lực cao dọc theo các dây cáp.\n(B) Nhịp cầu có thể phục vụ lưu lượng xe con hạn chế trước khi nghiệm thu chính thức.\n(C) Nhịp cầu vẫn giữ nguyên vẹn độ vững chắc kết cấu bất chấp sự cố nền móng.\n(D) Nhịp cầu cần thêm các đợt kiểm tra siêu âm trước khi tầng đất sét ổn định.",
+    "explanation": "Hội đồng tư vấn kết cấu độc lập khẳng định rõ ràng rằng bản thân nhịp treo chính vẫn hoàn toàn vững chắc ('the main suspended span itself remains completely sound'), tương ứng với đáp án C. Việc bơm vữa là cho nền móng trụ ('foundation grouting'), không phải cho dây cáp (loại A).",
+    "vocab": [
+      ["viaduct", "n", "cầu cạn (bắc qua thung lũng hoặc sông rộng)"],
+      ["grouting", "n", "bơm vữa gia cố nền móng"],
+      ["strain monitoring", "n. phr", "giám sát ứng suất/biến dạng"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following announcement:",
+    "audioScript": "Good morning to our project contractors, structural inspectors, and municipal partners. This notice confirms that next Monday's formal commissioning and public opening of the Redford River Cable-Stayed Viaduct must be postponed by six weeks. Although the polymer roadway surfacing and smart illumination arrays wrapped up two weeks ahead of schedule, Tuesday's final static load verification and ultrasonic weld audit revealed anomalous deflection beneath the east anchor pier. Geotechnical borings indicate that prolonged autumn rainfall saturated deep clay strata below the pier footing. Our independent structural advisory panel emphasized that the main suspended span itself remains completely sound; however, final sign-off requires high-pressure foundation grouting plus fourteen days of continuous fiber-optic strain monitoring. Meanwhile, toll exemptions for permitted heavy freight ferries will be extended, and consortium leaders will reconvene Monday morning to revise milestone disbursement schedules.",
+    "questionText": "What measure will remain in effect during the six-week delay?",
+    "options": [
+      "Accelerated milestone payments for consortium subcontractors",
+      "Waived crossing fees for authorized heavy cargo ferries",
+      "Weekly geotechnical borings near smart illumination arrays",
+      "Overnight closures of eastbound river freight routes"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Biện pháp nào sẽ tiếp tục được duy trì trong suốt sáu tuần trì hoãn?\n(A) Đẩy nhanh thanh toán theo tiến độ cho các nhà thầu phụ của liên danh\n(B) Miễn phí qua sông cho các chuyến phà chở hàng nặng có giấy phép\n(C) Khoan khảo sát địa kỹ thuật hằng tuần gần dãy đèn chiếu sáng thông minh\n(D) Đóng cửa ban đêm đối với các tuyến vận tải đường sông hướng đông",
+    "explanation": "Trong thời gian hoãn nghiệm thu, thông báo cho biết chính sách miễn phí đối với các phà chở hàng nặng có giấy phép sẽ được kéo dài ('toll exemptions for permitted heavy freight ferries will be extended'), khớp đáp án B ('Waived crossing fees' = 'toll exemptions').",
+    "vocab": [
+      ["toll exemption", "n. phr", "sự miễn thu phí (cầu đường/phà)"],
+      ["consortium", "n", "liên danh (các công ty/nhà thầu hợp tác)"],
+      ["disbursement", "n", "sự giải ngân, chi trả vốn"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following remarks:",
+    "audioScript": "Distinguished ministers, asset managers, and multilateral partners, as we conclude this year's Green Finance Summit here in Copenhagen, let us recognize the milestone we achieved over three intensive days. Four hundred pension funds and development banks reached unanimous consensus on the Common Transition Finance Taxonomy, establishing auditable metrics designed to curb corporate greenwashing across global bond markets. Equally pivotal is today's launch of a three-billion-euro currency-risk guarantee facility, which removes prohibitive exchange-rate hedging costs that previously deterred private capital from funding industrial decarbonization across emerging economies. Yet let me offer a candid closing reminder: signing a communiqué is the easy part; the real test begins when credit committees convene next quarter to reallocate capital away from legacy carbon-intensive assets. To retain coalition transparency certification, member institutions must file audited portfolio decarbonization roadmaps before March first.",
+    "questionText": "What major milestone from the summit does the speaker mention first?",
+    "options": [
+      "A mandatory freeze on issuing corporate bonds after March first",
+      "A merger between major pension funds and multilateral lenders",
+      "A unified framework to deter misleading environmental claims",
+      "A joint tax on carbon-intensive factories in emerging markets"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nKính thưa các bộ trưởng, các nhà quản lý tài sản và các đối tác đa phương, khi chúng ta khép lại Hội nghị Thượng đỉnh Tài chính Xanh năm nay tại Copenhagen, hãy cùng nhìn nhận cột mốc mà chúng ta đã đạt được sau ba ngày làm việc khẩn trương. Bốn trăm quỹ hưu trí và ngân hàng phát triển đã đạt được đồng thuận tuyệt đối về Bộ tiêu chuẩn Phân loại Tài chính Chuyển đổi Chung, thiết lập các thước đo có thể kiểm toán nhằm ngăn chặn hành vi tẩy xanh doanh nghiệp trên thị trường trái phiếu toàn cầu. Có ý nghĩa then chốt tương đương là lễ ra mắt hôm nay của quỹ bảo lãnh rủi ro tỷ giá trị giá ba tỷ euro, giúp xóa bỏ chi phí phòng ngừa rủi ro hối đoái đắt đỏ vốn trước đây cản trở dòng vốn tư nhân tài trợ cho quá trình khử carbon công nghiệp tại các nền kinh tế mới nổi. Tuy nhiên, tôi xin gửi gắm một lời nhắc nhở thẳng thắn khi bế mạc: ký một bản thông cáo chung là phần việc dễ dàng; thử thách thực sự chỉ bắt đầu khi các ủy ban tín dụng nhóm họp vào quý tới để tái phân bổ dòng vốn khỏi các tài sản thâm dụng carbon cũ kỹ. Để duy trì chứng nhận minh bạch của liên minh, các định chế thành viên phải nộp lộ trình giảm phát thải danh mục đầu tư đã kiểm toán trước ngày một tháng Ba.\n\nCâu hỏi: Cột mốc quan trọng đầu tiên nào từ hội nghị thượng đỉnh được người nói nhắc tới?\n(A) Lệnh đóng băng bắt buộc việc phát hành trái phiếu doanh nghiệp sau ngày 1 tháng 3\n(B) Thương vụ sáp nhập giữa các quỹ hưu trí lớn và các tổ chức cho vay đa phương\n(C) Một khung phân loại thống nhất nhằm ngăn chặn các tuyên bố môi trường sai lệch\n(D) Một sắc thuế chung đánh vào các nhà máy phát thải carbon cao tại thị trường mới nổi",
+    "explanation": "Người nói mở đầu bằng việc bốn trăm quỹ hưu trí và ngân hàng phát triển đồng thuận về Bộ tiêu chuẩn Phân loại Tài chính Chuyển đổi Chung với các chỉ số kiểm toán được để kiềm chế hành vi 'tẩy xanh' doanh nghiệp ('curb corporate greenwashing across global bond markets'), tương ứng với đáp án C ('deter misleading environmental claims').",
+    "vocab": [
+      ["taxonomy", "n", "hệ thống phân loại tiêu chuẩn"],
+      ["greenwashing", "n", "hành vi tẩy xanh (thổi phồng hoặc đánh lừa về thành tích môi trường)"],
+      ["unanimous consensus", "n. phr", "sự đồng thuận tuyệt đối"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following remarks:",
+    "audioScript": "Distinguished ministers, asset managers, and multilateral partners, as we conclude this year's Green Finance Summit here in Copenhagen, let us recognize the milestone we achieved over three intensive days. Four hundred pension funds and development banks reached unanimous consensus on the Common Transition Finance Taxonomy, establishing auditable metrics designed to curb corporate greenwashing across global bond markets. Equally pivotal is today's launch of a three-billion-euro currency-risk guarantee facility, which removes prohibitive exchange-rate hedging costs that previously deterred private capital from funding industrial decarbonization across emerging economies. Yet let me offer a candid closing reminder: signing a communiqué is the easy part; the real test begins when credit committees convene next quarter to reallocate capital away from legacy carbon-intensive assets. To retain coalition transparency certification, member institutions must file audited portfolio decarbonization roadmaps before March first.",
+    "questionText": "What obstacle is the newly launched three-billion-euro facility designed to overcome?",
+    "options": [
+      "Prohibitive foreign-exchange hedging expenses in developing economies",
+      "A lack of certified auditors for global bond issuers",
+      "Inconsistent accounting metrics across European pension funds",
+      "Resistance from municipal governments to green bond taxation"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Quỹ trị giá ba tỷ euro vừa ra mắt được thiết kế để tháo gỡ trở ngại nào?\n(A) Chi phí phòng ngừa rủi ro tỷ giá quá đắt đỏ tại các nền kinh tế đang phát triển\n(B) Tình trạng thiếu hụt kiểm toán viên được chứng nhận cho các tổ chức phát hành trái phiếu toàn cầu\n(C) Các thước đo kế toán thiếu nhất quán giữa các quỹ hưu trí châu Âu\n(D) Sự phản đối của chính quyền các thành phố đối với việc đánh thuế trái phiếu xanh",
+    "explanation": "Bài phát biểu giải thích quỹ bảo lãnh rủi ro tiền tệ 3 tỷ euro giúp xóa bỏ chi phí phòng ngừa rủi ro tỷ giá đắt đỏ từng khiến dòng vốn tư nhân e ngại tài trợ cho khử carbon ở các nền kinh tế mới nổi ('removes prohibitive exchange-rate hedging costs that previously deterred private capital... across emerging economies'), khớp với đáp án A.",
+    "vocab": [
+      ["prohibitive", "adj", "quá đắt đỏ đến mức ngăn cản hành động"],
+      ["exchange-rate hedging", "n. phr", "phòng ngừa rủi ro biến động tỷ giá"],
+      ["emerging economy", "n. phr", "nền kinh tế mới nổi"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following remarks:",
+    "audioScript": "Distinguished ministers, asset managers, and multilateral partners, as we conclude this year's Green Finance Summit here in Copenhagen, let us recognize the milestone we achieved over three intensive days. Four hundred pension funds and development banks reached unanimous consensus on the Common Transition Finance Taxonomy, establishing auditable metrics designed to curb corporate greenwashing across global bond markets. Equally pivotal is today's launch of a three-billion-euro currency-risk guarantee facility, which removes prohibitive exchange-rate hedging costs that previously deterred private capital from funding industrial decarbonization across emerging economies. Yet let me offer a candid closing reminder: signing a communiqué is the easy part; the real test begins when credit committees convene next quarter to reallocate capital away from legacy carbon-intensive assets. To retain coalition transparency certification, member institutions must file audited portfolio decarbonization roadmaps before March first.",
+    "questionText": "What does the speaker imply when saying, \"signing a communiqué is the easy part\"?",
+    "options": [
+      "Negotiating the summit taxonomy required little technical effort.",
+      "Coalition transparency certificates will be issued automatically.",
+      "Credit committees should delay capital reallocation until next year.",
+      "Formal pledges must be backed by concrete shifts in investment portfolios."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người nói hàm ý gì khi phát biểu: \"ký một bản thông cáo chung là phần việc dễ dàng\"?\n(A) Việc đàm phán bộ tiêu chuẩn phân loại tại hội nghị không đòi hỏi nhiều công sức kỹ thuật.\n(B) Giấy chứng nhận minh bạch của liên minh sẽ được cấp tự động.\n(C) Các ủy ban tín dụng nên trì hoãn tái phân bổ vốn sang năm sau.\n(D) Các cam kết chính thức phải được chứng minh bằng sự dịch chuyển cụ thể trong danh mục đầu tư.",
+    "explanation": "Ngay sau câu nói này, diễn giả chỉ rõ thử thách thực sự bắt đầu khi các ủy ban tín dụng nhóm họp quý tới để chuyển vốn khỏi các tài sản phát thải carbon cao ('the real test begins when credit committees convene next quarter to reallocate capital away from legacy carbon-intensive assets'), đồng thời yêu cầu nộp lộ trình kiểm toán trước ngày 1 tháng 3. Điều này hàm ý cam kết bằng văn bản cần đi kèm hành động chuyển dịch danh mục đầu tư thực chất (đáp án D).",
+    "vocab": [
+      ["communiqué", "n", "bản thông cáo chung (sau hội nghị)"],
+      ["reallocate", "v", "tái phân bổ (nguồn vốn/tài nguyên)"],
+      ["carbon-intensive", "adj", "thâm dụng carbon, phát thải nhiều khí nhà kính"]
+    ]
+  }
+]

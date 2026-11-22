@@ -1,0 +1,902 @@
+[
+  {
+    "n": 101,
+    "q": "Mr. Alvarez _______ the delivery schedule to all drivers before the morning shift begins.",
+    "options": [
+      "send",
+      "sends",
+      "sending",
+      "sent"
+    ],
+    "answer": "B",
+    "translation": "Ông Alvarez gửi lịch giao hàng cho tất cả tài xế trước khi ca sáng bắt đầu.",
+    "explanation": "Chủ ngữ số ít 'Mr. Alvarez' và cụm 'before the morning shift begins' chỉ thói quen nên dùng hiện tại đơn thêm -s: 'sends'.",
+    "vocab": [
+      [
+        "delivery",
+        "n",
+        "việc giao hàng"
+      ],
+      [
+        "schedule",
+        "n",
+        "lịch, kế hoạch"
+      ],
+      [
+        "shift",
+        "n",
+        "ca làm việc"
+      ]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "The sales team _______ a new customer training session in the main conference room right now.",
+    "options": [
+      "attend",
+      "attends",
+      "is attending",
+      "attended"
+    ],
+    "answer": "C",
+    "translation": "Nhóm kinh doanh đang tham dự một buổi đào tạo khách hàng mới tại phòng họp lớn ngay bây giờ.",
+    "explanation": "'right now' chỉ hành động đang diễn ra ngay lúc nói nên dùng hiện tại tiếp diễn 'is attending'; 'The sales team' là chủ ngữ số ít.",
+    "vocab": [
+      [
+        "attend",
+        "v",
+        "tham dự"
+      ],
+      [
+        "training",
+        "n",
+        "buổi đào tạo"
+      ],
+      [
+        "conference room",
+        "n",
+        "phòng hội nghị"
+      ]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "Last month, the purchasing department _______ 200 new office chairs for the new branch.",
+    "options": [
+      "buy",
+      "buys",
+      "bought",
+      "buying"
+    ],
+    "answer": "C",
+    "translation": "Tháng trước, phòng mua hàng đã mua 200 chiếc ghế văn phòng mới cho chi nhánh mới.",
+    "explanation": "'Last month' là mốc thời gian đã qua nên dùng quá khứ đơn; quá khứ của 'buy' là 'bought'.",
+    "vocab": [
+      [
+        "purchasing department",
+        "n",
+        "phòng mua hàng"
+      ],
+      [
+        "office chair",
+        "n",
+        "ghế văn phòng"
+      ],
+      [
+        "branch",
+        "n",
+        "chi nhánh"
+      ]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "Ms. Tan _______ the invoice for the office printers, so please do not pay it twice.",
+    "options": [
+      "already pays",
+      "has already paid",
+      "is already paying",
+      "have already paid"
+    ],
+    "answer": "B",
+    "translation": "Cô Tan đã thanh toán hoá đơn máy in văn phòng rồi, nên xin đừng trả hai lần.",
+    "explanation": "'already' đi với hiện tại hoàn thành để diễn tả việc đã xong trước hiện tại; chủ ngữ 'Ms. Tan' số ít nên dùng 'has already paid'.",
+    "vocab": [
+      [
+        "invoice",
+        "n",
+        "hoá đơn"
+      ],
+      [
+        "pay",
+        "v",
+        "thanh toán"
+      ],
+      [
+        "twice",
+        "adv",
+        "hai lần"
+      ]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "The HR manager _______ interview three candidates for the accounting position next week.",
+    "options": [
+      "is going to",
+      "going to",
+      "is go to",
+      "has going to"
+    ],
+    "answer": "A",
+    "translation": "Trưởng phòng nhân sự sẽ phỏng vấn ba ứng viên cho vị trí kế toán vào tuần tới.",
+    "explanation": "'be going to + V' diễn tả kế hoạch đã định trước; chủ ngữ số ít nên dùng 'is going to'.",
+    "vocab": [
+      [
+        "interview",
+        "v",
+        "phỏng vấn"
+      ],
+      [
+        "candidate",
+        "n",
+        "ứng viên"
+      ],
+      [
+        "position",
+        "n",
+        "vị trí công việc"
+      ]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "Every delivery box _______ with a barcode before it leaves the warehouse.",
+    "options": [
+      "mark",
+      "marks",
+      "is marked",
+      "marking"
+    ],
+    "answer": "C",
+    "translation": "Mỗi thùng hàng giao đi đều được dán nhãn mã vạch trước khi rời kho.",
+    "explanation": "Thùng hàng là đối tượng được dán nhãn nên phải dùng bị động 'is marked'; 'Every delivery box' là chủ ngữ số ít.",
+    "vocab": [
+      [
+        "delivery",
+        "n",
+        "việc giao hàng"
+      ],
+      [
+        "barcode",
+        "n",
+        "mã vạch"
+      ],
+      [
+        "warehouse",
+        "n",
+        "nhà kho"
+      ]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "Passengers _______ their boarding passes at the gate before boarding the shuttle bus.",
+    "options": [
+      "must show",
+      "must shows",
+      "must showing",
+      "must to show"
+    ],
+    "answer": "A",
+    "translation": "Hành khách phải xuất trình thẻ lên máy bay tại cổng trước khi lên xe buýt trung chuyển.",
+    "explanation": "Sau động từ khuyết thiếu 'must' phải là động từ nguyên mẫu không 'to', nên chọn 'must show'; 'must to show' và 'must shows' đều sai.",
+    "vocab": [
+      [
+        "boarding pass",
+        "n",
+        "thẻ lên máy bay"
+      ],
+      [
+        "gate",
+        "n",
+        "cổng (sân bay)"
+      ],
+      [
+        "shuttle bus",
+        "n",
+        "xe buýt trung chuyển"
+      ]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "This month's delivery was much _______ than last month's, so we received several complaints.",
+    "options": [
+      "late",
+      "more late",
+      "latest",
+      "later"
+    ],
+    "answer": "D",
+    "translation": "Đợt giao hàng tháng này muộn hơn nhiều so với tháng trước, nên chúng tôi nhận được vài lời phàn nàn.",
+    "explanation": "Có 'than' nên phải dùng so sánh hơn của 'late' là 'later'; 'much' bổ nghĩa cho mức độ so sánh.",
+    "vocab": [
+      [
+        "delivery",
+        "n",
+        "việc giao hàng"
+      ],
+      [
+        "receive",
+        "v",
+        "nhận"
+      ],
+      [
+        "complaint",
+        "n",
+        "lời phàn nàn"
+      ]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "The technician _______ repaired our office printer yesterday will come back next week.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+    ],
+    "answer": "A",
+    "translation": "Kỹ thuật viên người đã sửa máy in văn phòng của chúng ta hôm qua sẽ quay lại vào tuần sau.",
+    "explanation": "Cần đại từ quan hệ chỉ người, làm chủ ngữ cho mệnh đề 'repaired our office printer', nên dùng 'who'.",
+    "vocab": [
+      [
+        "technician",
+        "n",
+        "kỹ thuật viên"
+      ],
+      [
+        "repair",
+        "v",
+        "sửa chữa"
+      ],
+      [
+        "come back",
+        "v",
+        "quay lại"
+      ]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "The shipment arrived on time, _______ two of the boxes were slightly damaged.",
+    "options": [
+      "but",
+      "so",
+      "because",
+      "and"
+    ],
+    "answer": "A",
+    "translation": "Lô hàng đến đúng giờ, nhưng hai trong số các thùng bị hỏng nhẹ.",
+    "explanation": "Hai vế trái ngược nghĩa ('arrived on time' với 'slightly damaged') nên dùng liên từ 'but'; 'so' chỉ kết quả, 'because' chỉ nguyên nhân.",
+    "vocab": [
+      [
+        "shipment",
+        "n",
+        "lô hàng"
+      ],
+      [
+        "on time",
+        "adv",
+        "đúng giờ"
+      ],
+      [
+        "damaged",
+        "adj",
+        "bị hỏng"
+      ]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "Please send the signed contract back to us _______ Friday at the latest.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng gửi lại hợp đồng đã ký cho chúng tôi muộn nhất là trước thứ Sáu.",
+    "explanation": "'by + mốc thời gian' nghĩa là 'chậm nhất là'; 'until' diễn tả sự kéo dài đến mốc đó nên không hợp với hạn chót.",
+    "vocab": [
+      [
+        "signed",
+        "adj",
+        "đã ký"
+      ],
+      [
+        "contract",
+        "n",
+        "hợp đồng"
+      ],
+      [
+        "at the latest",
+        "adv",
+        "muộn nhất"
+      ]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "We have very _______ time before the client arrives, so let's finish the slides now.",
+    "options": [
+      "few",
+      "little",
+      "many",
+      "a few"
+    ],
+    "answer": "B",
+    "translation": "Chúng ta còn rất ít thời gian trước khi khách đến, nên hãy hoàn thành các trang trình chiếu ngay bây giờ.",
+    "explanation": "'time' là danh từ không đếm được nên dùng 'little'; 'few', 'a few', 'many' chỉ đi với danh từ đếm được số nhiều.",
+    "vocab": [
+      [
+        "client",
+        "n",
+        "khách hàng"
+      ],
+      [
+        "slide",
+        "n",
+        "trang trình chiếu"
+      ],
+      [
+        "finish",
+        "v",
+        "hoàn thành"
+      ]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "Ms. Lee is looking for _______ experienced accountant to join our finance team.",
+    "options": [
+      "a",
+      "the",
+      "some",
+      "an"
+    ],
+    "answer": "D",
+    "translation": "Cô Lee đang tìm một kế toán có kinh nghiệm để gia nhập nhóm tài chính của chúng ta.",
+    "explanation": "Đây là lần đầu nhắc đến một người chưa xác định nên dùng mạo từ không xác định; 'experienced' bắt đầu bằng nguyên âm nên chọn 'an'.",
+    "vocab": [
+      [
+        "experienced",
+        "adj",
+        "có kinh nghiệm"
+      ],
+      [
+        "accountant",
+        "n",
+        "kế toán"
+      ],
+      [
+        "finance",
+        "n",
+        "tài chính"
+      ]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "Our customer service staff enjoy _______ questions from clients in English and Japanese.",
+    "options": [
+      "answer",
+      "answering",
+      "to answer",
+      "answered"
+    ],
+    "answer": "B",
+    "translation": "Nhân viên chăm sóc khách hàng của chúng ta thích trả lời câu hỏi của khách bằng tiếng Anh và tiếng Nhật.",
+    "explanation": "'enjoy' được theo sau bởi danh động từ (V-ing), nên dùng 'answering'; 'to answer' không đúng sau 'enjoy'.",
+    "vocab": [
+      [
+        "customer service",
+        "n",
+        "dịch vụ khách hàng"
+      ],
+      [
+        "staff",
+        "n",
+        "nhân viên"
+      ],
+      [
+        "client",
+        "n",
+        "khách hàng"
+      ]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "The _______ of the new warehouse will take about three months, according to the manager.",
+    "options": [
+      "construct",
+      "construction",
+      "constructive",
+      "constructively"
+    ],
+    "answer": "B",
+    "translation": "Theo quản lý, việc xây dựng nhà kho mới sẽ mất khoảng ba tháng.",
+    "explanation": "Sau mạo từ 'The' và trước 'of' cần một danh từ, nên chọn 'construction'; ba phương án còn lại là động từ, tính từ và trạng từ.",
+    "vocab": [
+      [
+        "warehouse",
+        "n",
+        "nhà kho"
+      ],
+      [
+        "take",
+        "v",
+        "mất (thời gian)"
+      ],
+      [
+        "according to",
+        "prep",
+        "theo"
+      ]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "_______ of the two candidates for the warehouse position has experience with our software system.",
+    "options": [
+      "Both",
+      "Each",
+      "All",
+      "Many"
+    ],
+    "answer": "B",
+    "translation": "Mỗi ứng viên trong hai ứng viên cho vị trí kho đều có kinh nghiệm với hệ thống phần mềm của chúng ta.",
+    "explanation": "'Each of + danh từ số nhiều' đi với động từ số ít 'has'; 'Both', 'All', 'Many' không hợp với động từ số ít này.",
+    "vocab": [
+      [
+        "candidate",
+        "n",
+        "ứng viên"
+      ],
+      [
+        "experience",
+        "n",
+        "kinh nghiệm"
+      ],
+      [
+        "software",
+        "n",
+        "phần mềm"
+      ]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "The list of approved suppliers _______ updated at the beginning of every quarter.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "A",
+    "translation": "Danh sách các nhà cung cấp được duyệt được cập nhật vào đầu mỗi quý.",
+    "explanation": "Chủ ngữ chính là 'The list' (số ít), cụm 'of approved suppliers' chỉ bổ nghĩa nên động từ chia số ít 'is'.",
+    "vocab": [
+      [
+        "supplier",
+        "n",
+        "nhà cung cấp"
+      ],
+      [
+        "approved",
+        "adj",
+        "được duyệt"
+      ],
+      [
+        "quarter",
+        "n",
+        "quý"
+      ]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "Our accounting department usually _______ all invoices on the last working day of the month.",
+    "options": [
+      "process",
+      "processes",
+      "processing",
+      "processed"
+    ],
+    "answer": "B",
+    "translation": "Phòng kế toán của chúng ta thường xử lý tất cả hoá đơn vào ngày làm việc cuối cùng của tháng.",
+    "explanation": "'usually' chỉ thói quen nên dùng hiện tại đơn; 'Our accounting department' là số ít nên thêm -es: 'processes'.",
+    "vocab": [
+      [
+        "accounting",
+        "n",
+        "kế toán"
+      ],
+      [
+        "process",
+        "v",
+        "xử lý"
+      ],
+      [
+        "invoice",
+        "n",
+        "hoá đơn"
+      ]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "Please be quiet because the director _______ with an important client in the meeting room.",
+    "options": [
+      "talks",
+      "talk",
+      "is talking",
+      "talked"
+    ],
+    "answer": "C",
+    "translation": "Xin giữ yên lặng vì giám đốc đang nói chuyện với một khách hàng quan trọng trong phòng họp.",
+    "explanation": "Hành động đang diễn ra ngay lúc nói nên dùng hiện tại tiếp diễn 'is talking', không dùng hiện tại đơn 'talks'.",
+    "vocab": [
+      [
+        "director",
+        "n",
+        "giám đốc"
+      ],
+      [
+        "client",
+        "n",
+        "khách hàng"
+      ],
+      [
+        "meeting room",
+        "n",
+        "phòng họp"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "Yesterday, the receptionist _______ the visitor's details in the logbook before the tour.",
+    "options": [
+      "writes",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "answer": "B",
+    "translation": "Hôm qua, lễ tân đã ghi thông tin của khách vào sổ theo dõi trước chuyến tham quan.",
+    "explanation": "'Yesterday' là mốc quá khứ nên dùng quá khứ đơn; quá khứ của 'write' là 'wrote', còn 'written' là dạng V3.",
+    "vocab": [
+      [
+        "receptionist",
+        "n",
+        "lễ tân"
+      ],
+      [
+        "logbook",
+        "n",
+        "sổ theo dõi"
+      ],
+      [
+        "visitor",
+        "n",
+        "khách đến thăm"
+      ]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "Mr. Kim has worked in the logistics department _______ more than ten years.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "from"
+    ],
+    "answer": "B",
+    "translation": "Ông Kim đã làm việc ở phòng hậu cần được hơn mười năm.",
+    "explanation": "'for + khoảng thời gian' ('more than ten years'); 'since' phải đi với mốc thời gian cụ thể như '2015'.",
+    "vocab": [
+      [
+        "logistics",
+        "n",
+        "hậu cần"
+      ],
+      [
+        "department",
+        "n",
+        "phòng ban"
+      ],
+      [
+        "more than",
+        "adv",
+        "hơn"
+      ]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "The shipping company _______ deliver the new desks before the office reopens next month.",
+    "options": [
+      "will",
+      "is",
+      "was",
+      "has"
+    ],
+    "answer": "A",
+    "translation": "Công ty vận chuyển sẽ giao những chiếc bàn mới trước khi văn phòng mở cửa lại vào tháng sau.",
+    "explanation": "Cần trợ động từ chỉ tương lai 'will' đứng trước động từ nguyên mẫu 'deliver' để diễn tả việc sẽ xảy ra.",
+    "vocab": [
+      [
+        "shipping",
+        "n",
+        "vận chuyển"
+      ],
+      [
+        "deliver",
+        "v",
+        "giao hàng"
+      ],
+      [
+        "reopen",
+        "v",
+        "mở cửa lại"
+      ]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "The annual safety training _______ by an outside expert in our main office every February.",
+    "options": [
+      "conducts",
+      "is conducted",
+      "conducting",
+      "has conduct"
+    ],
+    "answer": "B",
+    "translation": "Buổi đào tạo an toàn hằng năm được một chuyên gia bên ngoài thực hiện tại văn phòng chính của chúng ta vào mỗi tháng Hai.",
+    "explanation": "'The annual safety training' là đối tượng được thực hiện, không tự thực hiện, nên dùng bị động 'is conducted'; 'by an outside expert' là tác nhân.",
+    "vocab": [
+      [
+        "annual",
+        "adj",
+        "hằng năm"
+      ],
+      [
+        "conduct",
+        "v",
+        "thực hiện"
+      ],
+      [
+        "expert",
+        "n",
+        "chuyên gia"
+      ]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "Next month, all staff members _______ to complete the online safety course before the end of June.",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had"
+    ],
+    "answer": "A",
+    "translation": "Tháng sau, tất cả nhân viên phải hoàn thành khoá học an toàn trực tuyến trước cuối tháng Sáu.",
+    "explanation": "Cụm 'Next month' chỉ tương lai, cấu trúc 'have to + V' diễn tả sự bắt buộc; chủ ngữ số nhiều 'All staff members' nên dùng 'have', không dùng 'has'.",
+    "vocab": [
+      [
+        "staff member",
+        "n",
+        "nhân viên"
+      ],
+      [
+        "complete",
+        "v",
+        "hoàn thành"
+      ],
+      [
+        "course",
+        "n",
+        "khoá học"
+      ]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "The new filing system is the _______ one we have ever used in this office.",
+    "options": [
+      "simple",
+      "simpler",
+      "simplest",
+      "simply"
+    ],
+    "answer": "C",
+    "translation": "Hệ thống lưu hồ sơ mới là hệ thống đơn giản nhất mà chúng ta từng dùng ở văn phòng này.",
+    "explanation": "Có 'the' và 'we have ever used' nên phải dùng so sánh nhất; tính từ ngắn 'simple' thêm -est thành 'simplest'.",
+    "vocab": [
+      [
+        "filing system",
+        "n",
+        "hệ thống lưu hồ sơ"
+      ],
+      [
+        "office",
+        "n",
+        "văn phòng"
+      ],
+      [
+        "ever",
+        "adv",
+        "từng"
+      ]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "The report _______ Ms. Diaz wrote last week explains the new delivery process clearly.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+    ],
+    "answer": "B",
+    "translation": "Bản báo cáo mà cô Diaz viết tuần trước giải thích rõ quy trình giao hàng mới.",
+    "explanation": "Cần đại từ quan hệ chỉ vật thay cho 'The report' nên dùng 'which'; 'who' chỉ người, 'whose' chỉ sở hữu.",
+    "vocab": [
+      [
+        "report",
+        "n",
+        "báo cáo"
+      ],
+      [
+        "delivery process",
+        "n",
+        "quy trình giao hàng"
+      ],
+      [
+        "clearly",
+        "adv",
+        "rõ ràng"
+      ]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "_______ the meeting started late, the team finished all the agenda items before noon.",
+    "options": [
+      "Although",
+      "Because",
+      "So",
+      "And"
+    ],
+    "answer": "A",
+    "translation": "Mặc dù cuộc họp bắt đầu muộn, nhóm vẫn hoàn thành tất cả các mục trong chương trình trước buổi trưa.",
+    "explanation": "Hai vế tương phản ('started late' với 'finished all the agenda items before noon') nên cần 'Although'; 'Because' chỉ nguyên nhân.",
+    "vocab": [
+      [
+        "agenda",
+        "n",
+        "chương trình họp"
+      ],
+      [
+        "item",
+        "n",
+        "mục"
+      ],
+      [
+        "finish",
+        "v",
+        "hoàn thành"
+      ]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "The warehouse will be closed _______ the national holiday and will reopen on Monday.",
+    "options": [
+      "during",
+      "until",
+      "since",
+      "by"
+    ],
+    "answer": "A",
+    "translation": "Nhà kho sẽ đóng cửa trong kỳ nghỉ lễ quốc gia và sẽ mở lại vào thứ Hai.",
+    "explanation": "'during + danh từ chỉ kỳ, dịp' ('during the national holiday'); 'until' và 'by' cần mốc thời gian cụ thể, 'since' cần mốc bắt đầu.",
+    "vocab": [
+      [
+        "closed",
+        "adj",
+        "đóng cửa"
+      ],
+      [
+        "national holiday",
+        "n",
+        "ngày lễ quốc gia"
+      ],
+      [
+        "reopen",
+        "v",
+        "mở cửa lại"
+      ]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "The supervisor asked all new employees _______ the safety video before their first shift.",
+    "options": [
+      "watch",
+      "to watch",
+      "watching",
+      "watched"
+    ],
+    "answer": "B",
+    "translation": "Người giám sát yêu cầu tất cả nhân viên mới xem video an toàn trước ca làm đầu tiên.",
+    "explanation": "Cấu trúc 'ask someone to do something' nên sau tân ngữ 'all new employees' phải là 'to watch'.",
+    "vocab": [
+      [
+        "supervisor",
+        "n",
+        "người giám sát"
+      ],
+      [
+        "safety video",
+        "n",
+        "video an toàn"
+      ],
+      [
+        "shift",
+        "n",
+        "ca làm việc"
+      ]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "Please read the shipping instructions _______ before you sign the delivery form.",
+    "options": [
+      "careful",
+      "carefully",
+      "carefulness",
+      "care"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng đọc kỹ hướng dẫn giao hàng trước khi bạn ký vào phiếu giao hàng.",
+    "explanation": "Cần trạng từ bổ nghĩa cho động từ 'read' nên chọn 'carefully'; 'careful' là tính từ, 'carefulness' là danh từ.",
+    "vocab": [
+      [
+        "shipping instructions",
+        "n",
+        "hướng dẫn giao hàng"
+      ],
+      [
+        "sign",
+        "v",
+        "ký"
+      ],
+      [
+        "delivery form",
+        "n",
+        "phiếu giao hàng"
+      ]
+    ]
+  }
+]

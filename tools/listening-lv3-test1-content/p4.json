@@ -1,0 +1,632 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention, shoppers. We are pleased to announce that Harris Home Supplies will open a new branch in Riverside Plaza next Friday at nine in the morning. To celebrate, the first one hundred visitors will receive a complimentary gift voucher, and anyone who signs up for our digital newsletter will get fifteen percent off their first purchase. Please note that our current Mill Street location will close permanently on Wednesday evening, though all staff members are transferring to the new store. Free customer parking is available behind the plaza, except in spaces marked for delivery trucks. Visit our service desk for a map of the new layout.",
+    "questionText": "What is the purpose of the announcement?",
+    "options": [
+      "To advertise seasonal discounts on home furniture",
+      "To inform customers about a store relocation",
+      "To recruit additional staff for a new branch",
+      "To apologize for a temporary parking closure"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Mục đích của thông báo là gì?\n(A) Để quảng cáo giảm giá theo mùa cho đồ nội thất gia đình\n(B) Để thông báo cho khách hàng về việc chuyển địa điểm cửa hàng\n(C) Để tuyển thêm nhân viên cho một chi nhánh mới\n(D) Để xin lỗi về việc đóng cửa bãi đỗ xe tạm thời",
+    "explanation": "Người nói thông báo Harris Home Supplies sẽ mở chi nhánh mới tại Riverside Plaza, đồng thời cửa hàng hiện tại trên phố Mill sẽ đóng cửa vĩnh viễn và toàn bộ nhân viên sẽ chuyển sang địa điểm mới. Đây là thông báo về việc chuyển địa điểm cửa hàng.",
+    "vocab": [
+      ["relocation", "n", "việc chuyển địa điểm"],
+      ["complimentary", "adj", "miễn phí, tặng kèm"],
+      ["transfer", "v", "chuyển sang, thuyên chuyển"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention, shoppers. We are pleased to announce that Harris Home Supplies will open a new branch in Riverside Plaza next Friday at nine in the morning. To celebrate, the first one hundred visitors will receive a complimentary gift voucher, and anyone who signs up for our digital newsletter will get fifteen percent off their first purchase. Please note that our current Mill Street location will close permanently on Wednesday evening, though all staff members are transferring to the new store. Free customer parking is available behind the plaza, except in spaces marked for delivery trucks. Visit our service desk for a map of the new layout.",
+    "questionText": "How can shoppers receive a percentage discount on their first purchase?",
+    "options": [
+      "By arriving among the first one hundred visitors",
+      "By visiting the Mill Street store before Wednesday",
+      "By subscribing to an online mailing list",
+      "By picking up a map at the service desk"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khách mua sắm có thể nhận mức giảm giá theo phần trăm cho đơn hàng đầu tiên bằng cách nào?\n(A) Bằng cách nằm trong số một trăm khách đầu tiên đến cửa hàng\n(B) Bằng cách ghé cửa hàng phố Mill trước thứ Tư\n(C) Bằng cách đăng ký nhận bản tin trực tuyến\n(D) Bằng cách lấy bản đồ tại quầy dịch vụ",
+    "explanation": "Người nói cho biết bất kỳ ai đăng ký bản tin điện tử (digital newsletter) sẽ được giảm 15% cho lần mua đầu tiên, tương ứng với 'subscribing to an online mailing list'. Một trăm khách đầu tiên chỉ nhận phiếu quà tặng (gift voucher).",
+    "vocab": [
+      ["subscribe", "v", "đăng ký nhận tin"],
+      ["newsletter", "n", "bản tin"],
+      ["purchase", "n", "lần mua hàng, món hàng mua"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Attention, shoppers. We are pleased to announce that Harris Home Supplies will open a new branch in Riverside Plaza next Friday at nine in the morning. To celebrate, the first one hundred visitors will receive a complimentary gift voucher, and anyone who signs up for our digital newsletter will get fifteen percent off their first purchase. Please note that our current Mill Street location will close permanently on Wednesday evening, though all staff members are transferring to the new store. Free customer parking is available behind the plaza, except in spaces marked for delivery trucks. Visit our service desk for a map of the new layout.",
+    "questionText": "What are drivers advised to avoid when parking at Riverside Plaza?",
+    "options": [
+      "Parking behind the main building",
+      "Leaving vehicles there after nine o'clock",
+      "Blocking the entrance near the service desk",
+      "Using spots reserved for commercial vehicles"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người lái xe được khuyên nên tránh điều gì khi đỗ xe tại Riverside Plaza?\n(A) Đỗ xe phía sau tòa nhà chính\n(B) Để xe ở đó sau chín giờ\n(C) Chắn lối vào gần quầy dịch vụ\n(D) Sử dụng các chỗ dành riêng cho xe thương mại",
+    "explanation": "Thông báo nêu rõ khách hàng được đỗ xe miễn phí phía sau khu mua sắm, ngoại trừ những ô có đánh dấu dành cho xe tải giao hàng ('spaces marked for delivery trucks'), được diễn đạt lại là 'spots reserved for commercial vehicles'.",
+    "vocab": [
+      ["reserve", "v", "dành riêng, đặt trước"],
+      ["commercial vehicle", "n. phr", "xe thương mại, xe chở hàng"],
+      ["layout", "n", "bố cục, sơ đồ mặt bằng"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hello, this is Dana Whitfield from the property management office at Cedar Park Business Center. I am calling to let tenants know about scheduled plumbing work this Saturday from eight in the morning until two in the afternoon. Because a crew will be replacing a damaged pipe on the third floor, water will be shut off throughout the building, and restrooms on floors one through four will be unavailable. However, facilities in the east wing will remain open. In addition, the freight elevator will be out of service all day. If you plan to transport heavy items this weekend, please email my office by Thursday afternoon so we can make alternative arrangements.",
+    "questionText": "Why is Ms. Whitfield calling?",
+    "options": [
+      "To notify tenants of upcoming maintenance work",
+      "To confirm a delivery using the freight elevator",
+      "To ask for access to a third-floor office",
+      "To announce the opening of new restrooms"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao cô Whitfield lại gọi điện?\n(A) Để thông báo cho người thuê về công việc bảo trì sắp tới\n(B) Để xác nhận một chuyến giao hàng dùng thang máy chở hàng\n(C) Để xin phép vào một văn phòng ở tầng ba\n(D) Để thông báo mở cửa các nhà vệ sinh mới",
+    "explanation": "Cô Whitfield gọi từ văn phòng quản lý tòa nhà để báo cho người thuê biết về việc sửa chữa đường ống nước đã lên lịch vào thứ Bảy ('scheduled plumbing work'), tức công việc bảo trì sắp tới.",
+    "vocab": [
+      ["plumbing", "n", "hệ thống ống nước"],
+      ["tenant", "n", "người thuê mặt bằng"],
+      ["maintenance", "n", "việc bảo trì"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hello, this is Dana Whitfield from the property management office at Cedar Park Business Center. I am calling to let tenants know about scheduled plumbing work this Saturday from eight in the morning until two in the afternoon. Because a crew will be replacing a damaged pipe on the third floor, water will be shut off throughout the building, and restrooms on floors one through four will be unavailable. However, facilities in the east wing will remain open. In addition, the freight elevator will be out of service all day. If you plan to transport heavy items this weekend, please email my office by Thursday afternoon so we can make alternative arrangements.",
+    "questionText": "What will still be accessible to tenants on Saturday?",
+    "options": [
+      "Running water on the third floor",
+      "Restrooms in the east wing",
+      "The freight elevator after two o'clock",
+      "Washrooms on the second floor"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người thuê vẫn có thể sử dụng tiện ích nào vào thứ Bảy?\n(A) Nước máy ở tầng ba\n(B) Nhà vệ sinh ở khu cánh đông\n(C) Thang máy chở hàng sau hai giờ chiều\n(D) Nhà vệ sinh ở tầng hai",
+    "explanation": "Người nói cho biết nhà vệ sinh từ tầng một đến tầng bốn sẽ đóng, tuy nhiên khu vực ở cánh đông vẫn mở cửa ('facilities in the east wing will remain open'). Nước bị cắt toàn tòa nhà và thang máy chở hàng ngừng hoạt động cả ngày.",
+    "vocab": [
+      ["accessible", "adj", "có thể tiếp cận, sử dụng được"],
+      ["unavailable", "adj", "không sẵn có, ngừng phục vụ"],
+      ["out of service", "phr", "ngừng hoạt động"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hello, this is Dana Whitfield from the property management office at Cedar Park Business Center. I am calling to let tenants know about scheduled plumbing work this Saturday from eight in the morning until two in the afternoon. Because a crew will be replacing a damaged pipe on the third floor, water will be shut off throughout the building, and restrooms on floors one through four will be unavailable. However, facilities in the east wing will remain open. In addition, the freight elevator will be out of service all day. If you plan to transport heavy items this weekend, please email my office by Thursday afternoon so we can make alternative arrangements.",
+    "questionText": "What are listeners asked to do if they need to move large equipment this weekend?",
+    "options": [
+      "Use the passenger elevator instead",
+      "Postpone their move until next Thursday",
+      "Speak with the repair crew on Saturday morning",
+      "Contact the management office in writing"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người nghe được yêu cầu làm gì nếu cần di chuyển thiết bị lớn vào cuối tuần này?\n(A) Dùng thang máy chở khách thay thế\n(B) Hoãn việc di chuyển sang thứ Năm tuần sau\n(C) Trao đổi với đội sửa chữa vào sáng thứ Bảy\n(D) Liên hệ văn phòng quản lý bằng văn bản",
+    "explanation": "Người nói đề nghị ai dự định vận chuyển đồ nặng cuối tuần này hãy gửi email cho văn phòng của cô trước chiều thứ Năm ('email my office'), được diễn đạt lại là 'contact the management office in writing'.",
+    "vocab": [
+      ["transport", "v", "vận chuyển"],
+      ["alternative", "adj", "thay thế, khác"],
+      ["arrangement", "n", "sự sắp xếp"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioScript": "Do you feel frustrated when your laptop slows down or your printer suddenly stops working? Greenwood Community College is offering a practical evening workshop called Everyday Tech Fixes. Meeting once a week on Tuesday nights, this beginner-friendly program covers file backups, basic troubleshooting, and simple ways to keep your devices secure. No prior technical background is required, and all equipment is supplied in our computer lab. The standard tuition is ninety dollars, though senior citizens qualify for a fifty percent reduction. Because enrollment is limited to twenty participants, please submit your online registration by February twenty-fifth to reserve a spot.",
+    "questionText": "Who is this workshop designed for?",
+    "options": [
+      "Experienced computer repair specialists",
+      "Individuals with limited technical knowledge",
+      "Full-time college degree students",
+      "Office managers purchasing lab equipment"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hội thảo này được thiết kế dành cho ai?\n(A) Các chuyên gia sửa chữa máy tính giàu kinh nghiệm\n(B) Những người có ít kiến thức kỹ thuật\n(C) Sinh viên đại học chính quy toàn thời gian\n(D) Quản lý văn phòng đang mua thiết bị phòng máy",
+    "explanation": "Quảng cáo nhấn mạnh chương trình thân thiện với người mới bắt đầu ('beginner-friendly') và không yêu cầu kiến thức kỹ thuật trước đó ('No prior technical background is required'), phù hợp với người có ít kiến thức kỹ thuật.",
+    "vocab": [
+      ["troubleshooting", "n", "việc khắc phục sự cố"],
+      ["prior", "adj", "trước đó"],
+      ["tuition", "n", "học phí"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioScript": "Do you feel frustrated when your laptop slows down or your printer suddenly stops working? Greenwood Community College is offering a practical evening workshop called Everyday Tech Fixes. Meeting once a week on Tuesday nights, this beginner-friendly program covers file backups, basic troubleshooting, and simple ways to keep your devices secure. No prior technical background is required, and all equipment is supplied in our computer lab. The standard tuition is ninety dollars, though senior citizens qualify for a fifty percent reduction. Because enrollment is limited to twenty participants, please submit your online registration by February twenty-fifth to reserve a spot.",
+    "questionText": "What is included in the workshop?",
+    "options": [
+      "Access to necessary tools in the classroom",
+      "Free software to speed up home printers",
+      "One-on-one tutoring on weekend afternoons",
+      "A certificate for advanced security training"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Khóa học bao gồm điều gì?\n(A) Quyền sử dụng các dụng cụ cần thiết tại phòng học\n(B) Phần mềm miễn phí giúp tăng tốc máy in tại nhà\n(C) Kèm cặp một-một vào các buổi chiều cuối tuần\n(D) Chứng chỉ đào tạo bảo mật nâng cao",
+    "explanation": "Quảng cáo cho biết toàn bộ thiết bị đều được cung cấp sẵn trong phòng máy tính ('all equipment is supplied in our computer lab'), tương ứng với 'access to necessary tools in the classroom'.",
+    "vocab": [
+      ["supply", "v", "cung cấp"],
+      ["reduction", "n", "sự giảm bớt"],
+      ["enrollment", "n", "số lượng đăng ký, sự ghi danh"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioScript": "Do you feel frustrated when your laptop slows down or your printer suddenly stops working? Greenwood Community College is offering a practical evening workshop called Everyday Tech Fixes. Meeting once a week on Tuesday nights, this beginner-friendly program covers file backups, basic troubleshooting, and simple ways to keep your devices secure. No prior technical background is required, and all equipment is supplied in our computer lab. The standard tuition is ninety dollars, though senior citizens qualify for a fifty percent reduction. Because enrollment is limited to twenty participants, please submit your online registration by February twenty-fifth to reserve a spot.",
+    "questionText": "What does the speaker imply about registering after February twenty-fifth?",
+    "options": [
+      "The tuition fee will increase by fifty percent.",
+      "Applicants will have to attend a Wednesday class.",
+      "Spaces in the program may already be filled.",
+      "Participants will need to bring their own laptops."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói ngụ ý gì về việc đăng ký sau ngày 25 tháng Hai?\n(A) Học phí sẽ tăng thêm năm mươi phần trăm.\n(B) Người đăng ký sẽ phải học lớp tối thứ Tư.\n(C) Các suất trong chương trình có thể đã kín chỗ.\n(D) Học viên sẽ cần tự mang theo máy tính xách tay.",
+    "explanation": "Người nói giải thích rằng do số lượng học viên giới hạn ở mức 20 người nên cần đăng ký trực tuyến trước ngày 25 tháng Hai để giữ chỗ. Điều này ngụ ý sau thời hạn đó lớp có thể đã hết chỗ.",
+    "vocab": [
+      ["participant", "n", "người tham gia"],
+      ["registration", "n", "việc đăng ký"],
+      ["reserve", "v", "giữ chỗ"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we review our weekly shipping targets, I want to go over two operational updates for the warehouse staff. Beginning next month, all outgoing packages will be tracked using our new handheld scanners. Please attach a name tag to your current device and drop it off in the charging room by Friday afternoon. Next week, we are holding forty-minute training sessions on Monday and Tuesday at seven in the morning and three in the afternoon. Every team member, including overnight workers, must attend one session. Also, because incoming freight now arrives earlier, the loading dock will open thirty minutes ahead of its usual six o'clock schedule.",
+    "questionText": "What is the main topic of the talk?",
+    "options": [
+      "Upcoming changes to warehouse operations",
+      "Weekly shipping targets for overnight workers",
+      "Delays in incoming freight deliveries",
+      "Repairs needed in the charging room"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Chủ đề chính của bài nói là gì?\n(A) Những thay đổi sắp tới trong hoạt động của nhà kho\n(B) Chỉ tiêu giao hàng hằng tuần cho nhân viên ca đêm\n(C) Sự chậm trễ trong các chuyến hàng nhập kho\n(D) Việc sửa chữa cần thực hiện ở phòng sạc",
+    "explanation": "Người nói mở đầu bằng việc trình bày hai cập nhật vận hành cho nhân viên kho ('two operational updates for the warehouse staff'): dùng máy quét mới và mở cửa khu bốc hàng sớm hơn.",
+    "vocab": [
+      ["operational", "adj", "thuộc về vận hành"],
+      ["outgoing", "adj", "gửi đi, xuất kho"],
+      ["freight", "n", "hàng hóa vận chuyển"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we review our weekly shipping targets, I want to go over two operational updates for the warehouse staff. Beginning next month, all outgoing packages will be tracked using our new handheld scanners. Please attach a name tag to your current device and drop it off in the charging room by Friday afternoon. Next week, we are holding forty-minute training sessions on Monday and Tuesday at seven in the morning and three in the afternoon. Every team member, including overnight workers, must attend one session. Also, because incoming freight now arrives earlier, the loading dock will open thirty minutes ahead of its usual six o'clock schedule.",
+    "questionText": "What are workers instructed to do with their old scanners?",
+    "options": [
+      "Keep them until the training sessions end",
+      "Return them to the loading dock supervisor",
+      "Label them and leave them in a designated room",
+      "Exchange them for new models on Monday morning"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhân viên được hướng dẫn làm gì với máy quét cũ?\n(A) Giữ lại cho đến khi các buổi tập huấn kết thúc\n(B) Trả lại cho người giám sát khu bốc hàng\n(C) Gắn nhãn tên và để lại tại một phòng quy định\n(D) Đổi lấy mẫu mới vào sáng thứ Hai",
+    "explanation": "Người nói yêu cầu gắn thẻ tên vào thiết bị hiện tại và mang đến phòng sạc trước chiều thứ Sáu ('attach a name tag to your current device and drop it off in the charging room'), tương ứng với 'label them and leave them in a designated room'.",
+    "vocab": [
+      ["attach", "v", "gắn vào, đính kèm"],
+      ["designated", "adj", "được chỉ định, quy định"],
+      ["charging room", "n. phr", "phòng sạc thiết bị"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we review our weekly shipping targets, I want to go over two operational updates for the warehouse staff. Beginning next month, all outgoing packages will be tracked using our new handheld scanners. Please attach a name tag to your current device and drop it off in the charging room by Friday afternoon. Next week, we are holding forty-minute training sessions on Monday and Tuesday at seven in the morning and three in the afternoon. Every team member, including overnight workers, must attend one session. Also, because incoming freight now arrives earlier, the loading dock will open thirty minutes ahead of its usual six o'clock schedule.",
+    "questionText": "What can be inferred about the loading dock's new opening time?",
+    "options": [
+      "It will open at six thirty starting next month.",
+      "It will remain closed during the training sessions.",
+      "It will only be used by overnight workers.",
+      "It will open earlier than before to match deliveries."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Có thể suy ra điều gì về giờ mở cửa mới của khu bốc hàng?\n(A) Khu này sẽ mở lúc sáu giờ rưỡi từ tháng sau.\n(B) Khu này sẽ đóng cửa trong thời gian diễn ra các buổi tập huấn.\n(C) Khu này sẽ chỉ do nhân viên ca đêm sử dụng.\n(D) Khu này sẽ mở sớm hơn trước để khớp với lịch giao hàng.",
+    "explanation": "Người nói giải thích rằng do hàng nhập đến sớm hơn nên khu bốc hàng sẽ mở sớm hơn 30 phút so với lịch 6 giờ thông thường (tức là 5 giờ 30, sớm hơn trước để kịp tiếp nhận hàng).",
+    "vocab": [
+      ["loading dock", "n. phr", "khu vực bốc dỡ hàng"],
+      ["ahead of", "prep", "trước, sớm hơn"],
+      ["overnight", "adj", "qua đêm, ca đêm"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour introduction:",
+    "audioScript": "Welcome to the newly renovated Northside Public Library. My name is Omar, and I will guide you through the building over the next thirty minutes. We will begin in the main reading hall, pass through the children's wing, and conclude at our rooftop garden, which opened last spring. Since a few hallways still have wet paint, please stay with the group at all times. Feel free to take photographs, though flash photography is prohibited near the rare book collection. When we return to this entrance at eleven fifteen, complimentary refreshments will be waiting. Afterward, staff at the reception desk can help you apply for a library card.",
+    "questionText": "What is the speaker doing?",
+    "options": [
+      "Conducting an orientation for new library staff",
+      "Explaining the rules for borrowing rare books",
+      "Leading visitors on a guided tour",
+      "Promoting a gardening workshop on the roof"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói đang làm gì?\n(A) Tổ chức buổi định hướng cho nhân viên thư viện mới\n(B) Giải thích quy định mượn sách quý hiếm\n(C) Dẫn khách tham quan theo lộ trình có hướng dẫn\n(D) Quảng bá một buổi hướng dẫn làm vườn trên sân thượng",
+    "explanation": "Người nói chào đón khách đến thư viện mới cải tạo, tự giới thiệu là người hướng dẫn trong 30 phút tới và nêu rõ lộ trình đi qua các khu vực.",
+    "vocab": [
+      ["renovate", "v", "cải tạo, nâng cấp"],
+      ["conclude", "v", "kết thúc"],
+      ["prohibit", "v", "cấm"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour introduction:",
+    "audioScript": "Welcome to the newly renovated Northside Public Library. My name is Omar, and I will guide you through the building over the next thirty minutes. We will begin in the main reading hall, pass through the children's wing, and conclude at our rooftop garden, which opened last spring. Since a few hallways still have wet paint, please stay with the group at all times. Feel free to take photographs, though flash photography is prohibited near the rare book collection. When we return to this entrance at eleven fifteen, complimentary refreshments will be waiting. Afterward, staff at the reception desk can help you apply for a library card.",
+    "questionText": "What are visitors asked to avoid near the rare book collection?",
+    "options": [
+      "Speaking loudly with other guests",
+      "Taking pictures with a flash",
+      "Carrying food and drinks",
+      "Touching the freshly painted walls"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Khách tham quan được yêu cầu tránh làm gì ở gần bộ sưu tập sách quý hiếm?\n(A) Nói chuyện lớn tiếng với những vị khách khác\n(B) Chụp ảnh có bật đèn flash\n(C) Mang theo đồ ăn và thức uống\n(D) Chạm vào những bức tường mới sơn",
+    "explanation": "Hướng dẫn viên cho phép chụp ảnh nhưng lưu ý việc chụp ảnh dùng đèn flash bị cấm gần khu sách quý hiếm ('flash photography is prohibited near the rare book collection').",
+    "vocab": [
+      ["rare", "adj", "quý hiếm"],
+      ["collection", "n", "bộ sưu tập"],
+      ["hallway", "n", "hành lang"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour introduction:",
+    "audioScript": "Welcome to the newly renovated Northside Public Library. My name is Omar, and I will guide you through the building over the next thirty minutes. We will begin in the main reading hall, pass through the children's wing, and conclude at our rooftop garden, which opened last spring. Since a few hallways still have wet paint, please stay with the group at all times. Feel free to take photographs, though flash photography is prohibited near the rare book collection. When we return to this entrance at eleven fifteen, complimentary refreshments will be waiting. Afterward, staff at the reception desk can help you apply for a library card.",
+    "questionText": "What will be available at the end of the tour?",
+    "options": [
+      "Printed guides to the children's wing",
+      "A presentation by a rare book expert",
+      "Discount vouchers for the library café",
+      "Free snacks and beverages"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Điều gì sẽ có sẵn khi kết thúc chuyến tham quan?\n(A) Sách hướng dẫn in về khu vực thiếu nhi\n(B) Bài thuyết trình của chuyên gia sách quý\n(C) Phiếu giảm giá cho quán cà phê thư viện\n(D) Đồ ăn nhẹ và thức uống miễn phí",
+    "explanation": "Người nói cho biết khi quay lại lối vào lúc 11 giờ 15, đồ ăn nhẹ và nước uống miễn phí ('complimentary refreshments') sẽ được chuẩn bị sẵn, được diễn đạt lại là 'free snacks and beverages'.",
+    "vocab": [
+      ["refreshments", "n", "đồ ăn nhẹ và thức uống"],
+      ["reception desk", "n. phr", "quầy lễ tân"],
+      ["apply for", "phr. v", "đăng ký, làm thủ tục xin"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "Good morning, this is River City Radio with your seven forty traffic report. Commuters heading downtown should allow extra travel time today. Crews are resurfacing Oak Avenue between Fifth Street and the train station, reducing traffic to a single lane until Thursday. Drivers are advised to take Pine Street instead, though please watch for lower speed limits near the elementary school there. Meanwhile, traffic is moving smoothly across the north bridge and along the main highway. Finally, please note that the Elm Square farmers market will open one hour later than usual this morning because delivery trucks cannot access the street during roadwork.",
+    "questionText": "What is the broadcast mainly about?",
+    "options": [
+      "A schedule change for downtown trains",
+      "Road construction affecting morning commuters",
+      "New parking rules near an elementary school",
+      "The relocation of a local farmers market"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Bản tin phát thanh chủ yếu nói về điều gì?\n(A) Sự thay đổi lịch trình các chuyến tàu vào trung tâm\n(B) Công trình sửa đường ảnh hưởng đến người đi làm buổi sáng\n(C) Quy định đỗ xe mới gần một trường tiểu học\n(D) Việc dời địa điểm một chợ nông sản địa phương",
+    "explanation": "Bản tin giao thông thông báo việc trải lại mặt đường trên đại lộ Oak khiến đường chỉ còn một làn và khuyên người đi vào trung tâm nên dự trù thêm thời gian, đồng thời gợi ý tuyến đường thay thế.",
+    "vocab": [
+      ["resurface", "v", "trải lại mặt đường"],
+      ["commuter", "n", "người đi làm hằng ngày"],
+      ["roadwork", "n", "công trình sửa chữa đường"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "Good morning, this is River City Radio with your seven forty traffic report. Commuters heading downtown should allow extra travel time today. Crews are resurfacing Oak Avenue between Fifth Street and the train station, reducing traffic to a single lane until Thursday. Drivers are advised to take Pine Street instead, though please watch for lower speed limits near the elementary school there. Meanwhile, traffic is moving smoothly across the north bridge and along the main highway. Finally, please note that the Elm Square farmers market will open one hour later than usual this morning because delivery trucks cannot access the street during roadwork.",
+    "questionText": "What should drivers expect if they take Pine Street?",
+    "options": [
+      "Roadwork reducing traffic to one lane",
+      "Delays caused by market delivery trucks",
+      "Reduced speed restrictions in a school area",
+      "Heavy congestion near the train station"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tài xế nên lường trước điều gì nếu đi theo phố Pine?\n(A) Công trình sửa đường thu hẹp giao thông còn một làn\n(B) Sự chậm trễ do xe tải giao hàng cho chợ\n(C) Giới hạn tốc độ thấp hơn tại khu vực trường học\n(D) Tình trạng ùn tắc nặng gần nhà ga tàu hỏa",
+    "explanation": "Người dẫn bản tin khuyên tài xế đi phố Pine nhưng lưu ý chú ý giới hạn tốc độ thấp hơn gần trường tiểu học ('lower speed limits near the elementary school'), tương ứng với 'reduced speed restrictions in a school area'.",
+    "vocab": [
+      ["restriction", "n", "sự hạn chế, giới hạn"],
+      ["smoothly", "adv", "thông suốt, trôi chảy"],
+      ["congestion", "n", "sự ùn tắc giao thông"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following radio broadcast:",
+    "audioScript": "Good morning, this is River City Radio with your seven forty traffic report. Commuters heading downtown should allow extra travel time today. Crews are resurfacing Oak Avenue between Fifth Street and the train station, reducing traffic to a single lane until Thursday. Drivers are advised to take Pine Street instead, though please watch for lower speed limits near the elementary school there. Meanwhile, traffic is moving smoothly across the north bridge and along the main highway. Finally, please note that the Elm Square farmers market will open one hour later than usual this morning because delivery trucks cannot access the street during roadwork.",
+    "questionText": "Why is the Elm Square farmers market opening late today?",
+    "options": [
+      "Vendors are waiting for road access to clear.",
+      "The north bridge was closed overnight.",
+      "Bad weather delayed the morning setup.",
+      "Highway traffic prevented staff from arriving."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao hôm nay chợ nông sản Elm Square mở cửa muộn?\n(A) Các tiểu thương đang chờ đường được thông để vào giao hàng.\n(B) Cầu phía bắc đã bị đóng qua đêm.\n(C) Thời tiết xấu làm chậm việc dọn hàng buổi sáng.\n(D) Giao thông trên đường cao tốc khiến nhân viên không thể đến kịp.",
+    "explanation": "Bản tin cho biết chợ mở muộn một giờ vì xe tải giao hàng không thể vào đường trong lúc đang sửa đường ('delivery trucks cannot access the street during roadwork').",
+    "vocab": [
+      ["access", "v", "tiếp cận, đi vào"],
+      ["vendor", "n", "người bán hàng, tiểu thương"],
+      ["elementary school", "n. phr", "trường tiểu học"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and thank you for attending our annual volunteer appreciation dinner. Twenty years ago, this community center operated out of a single small room. Today, we assist more than three hundred local families each month, and much of that growth is thanks to Linda Marsh. Every Tuesday since nineteen ninety-eight, Linda has managed our reception desk, trained new volunteers, and coordinated our winter clothing drives without ever asking for recognition. Linda, we are truly grateful for your dedication. Before we serve dessert, please join me in congratulating her. Also, if you would like to volunteer this summer, sign-up forms are available by the main exit.",
+    "questionText": "What is the main purpose of the speech?",
+    "options": [
+      "To recognize a dedicated volunteer's contributions",
+      "To announce the expansion of a community center",
+      "To recruit a new manager for the reception desk",
+      "To thank local families for donating winter clothes"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mục đích chính của bài phát biểu là gì?\n(A) Để ghi nhận những đóng góp của một tình nguyện viên tận tâm\n(B) Để thông báo việc mở rộng trung tâm cộng đồng\n(C) Để tuyển quản lý mới cho quầy lễ tân\n(D) Để cảm ơn các gia đình địa phương đã quyên góp quần áo mùa đông",
+    "explanation": "Tại bữa tiệc tri ân tình nguyện viên hằng năm, người nói ca ngợi sự gắn bó của bà Linda Marsh từ năm 1998 và mời mọi người cùng chúc mừng bà.",
+    "vocab": [
+      ["appreciation", "n", "sự trân trọng, tri ân"],
+      ["dedication", "n", "sự tận tâm, cống hiến"],
+      ["recognition", "n", "sự công nhận, khen thưởng"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and thank you for attending our annual volunteer appreciation dinner. Twenty years ago, this community center operated out of a single small room. Today, we assist more than three hundred local families each month, and much of that growth is thanks to Linda Marsh. Every Tuesday since nineteen ninety-eight, Linda has managed our reception desk, trained new volunteers, and coordinated our winter clothing drives without ever asking for recognition. Linda, we are truly grateful for your dedication. Before we serve dessert, please join me in congratulating her. Also, if you would like to volunteer this summer, sign-up forms are available by the main exit.",
+    "questionText": "According to the speaker, what has Linda Marsh done for the center?",
+    "options": [
+      "She donated funds to rent a larger building.",
+      "She organized seasonal clothing collections.",
+      "She prepared dinner for three hundred guests.",
+      "She designed the summer volunteer schedule."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Theo người nói, bà Linda Marsh đã làm gì cho trung tâm?\n(A) Bà đã quyên tiền để thuê một tòa nhà lớn hơn.\n(B) Bà đã tổ chức các đợt quyên góp quần áo theo mùa.\n(C) Bà đã chuẩn bị bữa tối cho ba trăm khách mời.\n(D) Bà đã thiết kế lịch làm việc mùa hè cho tình nguyện viên.",
+    "explanation": "Người nói nhắc đến việc bà Linda điều phối các đợt quyên góp quần áo mùa đông ('coordinated our winter clothing drives'), được diễn đạt lại là 'organized seasonal clothing collections'.",
+    "vocab": [
+      ["coordinate", "v", "điều phối, tổ chức"],
+      ["clothing drive", "n. phr", "đợt quyên góp quần áo"],
+      ["assist", "v", "hỗ trợ, giúp đỡ"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following speech:",
+    "audioScript": "Good evening, everyone, and thank you for attending our annual volunteer appreciation dinner. Twenty years ago, this community center operated out of a single small room. Today, we assist more than three hundred local families each month, and much of that growth is thanks to Linda Marsh. Every Tuesday since nineteen ninety-eight, Linda has managed our reception desk, trained new volunteers, and coordinated our winter clothing drives without ever asking for recognition. Linda, we are truly grateful for your dedication. Before we serve dessert, please join me in congratulating her. Also, if you would like to volunteer this summer, sign-up forms are available by the main exit.",
+    "questionText": "What are listeners encouraged to do if they want to help during the summer?",
+    "options": [
+      "Speak directly with Linda Marsh after dessert",
+      "Call the reception desk on Tuesday morning",
+      "Complete a registration sheet near the exit",
+      "Bring winter coats to the next monthly dinner"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nghe được khuyến khích làm gì nếu muốn giúp đỡ trong mùa hè?\n(A) Trao đổi trực tiếp với bà Linda Marsh sau món tráng miệng\n(B) Gọi cho quầy lễ tân vào sáng thứ Ba\n(C) Điền vào tờ đăng ký ở gần lối ra\n(D) Mang áo khoác mùa đông đến bữa tối hằng tháng tiếp theo",
+    "explanation": "Cuối bài phát biểu, người nói thông báo các mẫu đơn đăng ký tình nguyện cho mùa hè đã được đặt sẵn cạnh lối ra chính ('sign-up forms are available by the main exit').",
+    "vocab": [
+      ["sign-up form", "n. phr", "mẫu đơn đăng ký"],
+      ["exit", "n", "lối ra"],
+      ["operate", "v", "hoạt động, vận hành"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following telephone message:",
+    "audioScript": "Hi, this is Priya from the sales department calling at four o'clock on Monday. I wanted to update you about Wednesday's product training session. Because the projector in the Birch Room is out of order, we have moved the meeting to the Maple Room on the second floor, though the nine thirty start time remains unchanged. Also, could you send me the updated client directory we discussed earlier? Please save it as a spreadsheet and email it to me before tomorrow afternoon. I will be visiting a customer off-site all morning, so I will not see your message until after lunch. Sorry for the short notice.",
+    "questionText": "Why is Priya calling?",
+    "options": [
+      "To reschedule a meeting for next Monday",
+      "To inform a colleague of a room change",
+      "To ask how to fix a broken projector",
+      "To cancel an off-site visit with a customer"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao Priya lại gọi điện?\n(A) Để dời một cuộc họp sang thứ Hai tuần sau\n(B) Để báo cho đồng nghiệp về việc đổi phòng họp\n(C) Để hỏi cách sửa một chiếc máy chiếu bị hỏng\n(D) Để hủy chuyến gặp khách hàng bên ngoài công ty",
+    "explanation": "Priya gọi để cập nhật rằng buổi tập huấn sản phẩm vào thứ Tư đã được chuyển từ phòng Birch sang phòng Maple do máy chiếu bị hỏng.",
+    "vocab": [
+      ["projector", "n", "máy chiếu"],
+      ["directory", "n", "danh bạ, danh sách"],
+      ["short notice", "n. phr", "thông báo gấp, sát giờ"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following telephone message:",
+    "audioScript": "Hi, this is Priya from the sales department calling at four o'clock on Monday. I wanted to update you about Wednesday's product training session. Because the projector in the Birch Room is out of order, we have moved the meeting to the Maple Room on the second floor, though the nine thirty start time remains unchanged. Also, could you send me the updated client directory we discussed earlier? Please save it as a spreadsheet and email it to me before tomorrow afternoon. I will be visiting a customer off-site all morning, so I will not see your message until after lunch. Sorry for the short notice.",
+    "questionText": "What remains the same about Wednesday's training?",
+    "options": [
+      "The room where it will be held",
+      "The equipment used for the presentation",
+      "The time the session is scheduled to begin",
+      "The list of clients invited to attend"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì vẫn giữ nguyên đối với buổi tập huấn vào thứ Tư?\n(A) Căn phòng nơi buổi tập huấn diễn ra\n(B) Thiết bị dùng cho bài thuyết trình\n(C) Thời gian dự kiến bắt đầu buổi tập huấn\n(D) Danh sách khách hàng được mời tham dự",
+    "explanation": "Dù địa điểm chuyển sang phòng Maple, Priya khẳng định giờ bắt đầu lúc chín giờ ba mươi vẫn không thay đổi ('the nine thirty start time remains unchanged').",
+    "vocab": [
+      ["unchanged", "adj", "không thay đổi"],
+      ["spreadsheet", "n", "bảng tính"],
+      ["session", "n", "buổi họp, phiên tập huấn"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following telephone message:",
+    "audioScript": "Hi, this is Priya from the sales department calling at four o'clock on Monday. I wanted to update you about Wednesday's product training session. Because the projector in the Birch Room is out of order, we have moved the meeting to the Maple Room on the second floor, though the nine thirty start time remains unchanged. Also, could you send me the updated client directory we discussed earlier? Please save it as a spreadsheet and email it to me before tomorrow afternoon. I will be visiting a customer off-site all morning, so I will not see your message until after lunch. Sorry for the short notice.",
+    "questionText": "What does Priya imply about tomorrow morning?",
+    "options": [
+      "She will be leading a training in the Birch Room.",
+      "She will finish the client directory before lunch.",
+      "She will be working from the second-floor office.",
+      "She will be unavailable to check her email."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Priya ngụ ý điều gì về sáng ngày mai?\n(A) Cô ấy sẽ chủ trì buổi tập huấn ở phòng Birch.\n(B) Cô ấy sẽ hoàn thành danh sách khách hàng trước bữa trưa.\n(C) Cô ấy sẽ làm việc tại văn phòng ở tầng hai.\n(D) Cô ấy sẽ không thể kiểm tra email.",
+    "explanation": "Priya cho biết sáng mai cô ấy đi gặp khách hàng bên ngoài cả buổi sáng nên sẽ không xem được tin nhắn cho đến sau bữa trưa ('will not see your message until after lunch').",
+    "vocab": [
+      ["off-site", "adv/adj", "bên ngoài văn phòng/công ty"],
+      ["imply", "v", "ngụ ý"],
+      ["unavailable", "adj", "không có mặt, không rảnh"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following notice:",
+    "audioScript": "Notice to all employees. The ground-floor cafeteria will be closed from June second through June thirteenth while the kitchen undergoes upgrades. During this period, the fourth-floor conference room will serve as a temporary dining area. It will be equipped with tables, a microwave, and a refrigerator, though no meals will be sold there. Staff may order lunch from the deli across the street, which delivers to the main lobby at noon for orders placed before ten. Please remember to clear your tables and finish eating before one o'clock, as afternoon meetings resume in that room promptly at that hour. Thank you for your cooperation.",
+    "questionText": "What is the main purpose of the notice?",
+    "options": [
+      "To introduce a new menu for the cafeteria",
+      "To announce the relocation of afternoon meetings",
+      "To explain temporary dining arrangements for staff",
+      "To recommend a new restaurant across the street"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Mục đích chính của thông báo là gì?\n(A) Để giới thiệu thực đơn mới cho căng tin\n(B) Để thông báo việc dời địa điểm các cuộc họp buổi chiều\n(C) Để giải thích phương án ăn uống tạm thời cho nhân viên\n(D) Để giới thiệu một nhà hàng mới ở bên kia đường",
+    "explanation": "Thông báo cho biết căng tin tầng trệt đóng cửa để nâng cấp bếp, đồng thời hướng dẫn nhân viên dùng phòng hội nghị tầng bốn làm khu ăn uống tạm thời và cách đặt cơm trưa.",
+    "vocab": [
+      ["undergo", "v", "trải qua"],
+      ["upgrade", "n", "sự nâng cấp"],
+      ["dining area", "n. phr", "khu vực ăn uống"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following notice:",
+    "audioScript": "Notice to all employees. The ground-floor cafeteria will be closed from June second through June thirteenth while the kitchen undergoes upgrades. During this period, the fourth-floor conference room will serve as a temporary dining area. It will be equipped with tables, a microwave, and a refrigerator, though no meals will be sold there. Staff may order lunch from the deli across the street, which delivers to the main lobby at noon for orders placed before ten. Please remember to clear your tables and finish eating before one o'clock, as afternoon meetings resume in that room promptly at that hour. Thank you for your cooperation.",
+    "questionText": "What is required to receive noon delivery from the deli?",
+    "options": [
+      "Ordering at least two hours before delivery",
+      "Paying in cash at the main lobby",
+      "Picking up food on the fourth floor",
+      "Using the microwave in the cafeteria"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Cần điều kiện gì để nhận đồ ăn giao lúc giữa trưa từ cửa hàng deli?\n(A) Đặt hàng trước thời điểm giao ít nhất hai tiếng\n(B) Thanh toán bằng tiền mặt tại sảnh chính\n(C) Lên tầng bốn để nhận đồ ăn\n(D) Sử dụng lò vi sóng trong căng tin",
+    "explanation": "Thông báo nêu cửa hàng deli giao hàng tới sảnh chính lúc 12 giờ trưa ('at noon') đối với các đơn đặt trước 10 giờ sáng ('before ten'), tức là phải đặt trước giờ giao ít nhất hai tiếng.",
+    "vocab": [
+      ["deli", "n", "cửa hàng bán đồ ăn chế biến sẵn"],
+      ["equip with", "phr. v", "trang bị"],
+      ["cooperation", "n", "sự hợp tác"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following notice:",
+    "audioScript": "Notice to all employees. The ground-floor cafeteria will be closed from June second through June thirteenth while the kitchen undergoes upgrades. During this period, the fourth-floor conference room will serve as a temporary dining area. It will be equipped with tables, a microwave, and a refrigerator, though no meals will be sold there. Staff may order lunch from the deli across the street, which delivers to the main lobby at noon for orders placed before ten. Please remember to clear your tables and finish eating before one o'clock, as afternoon meetings resume in that room promptly at that hour. Thank you for your cooperation.",
+    "questionText": "Why must employees leave the fourth-floor room before one o'clock?",
+    "options": [
+      "The deli staff need to collect lunch containers.",
+      "Cleaning crews sanitize the kitchen at noon.",
+      "The cafeteria will reopen for afternoon snacks.",
+      "Scheduled meetings will take place there afterward."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Vì sao nhân viên phải rời khỏi phòng ở tầng bốn trước một giờ chiều?\n(A) Nhân viên cửa hàng deli cần thu gom hộp đựng đồ ăn trưa.\n(B) Đội vệ sinh khử trùng nhà bếp vào giữa trưa.\n(C) Căng tin sẽ mở lại để phục vụ đồ ăn nhẹ buổi chiều.\n(D) Các cuộc họp theo lịch sẽ diễn ra tại đó ngay sau đó.",
+    "explanation": "Thông báo nhắc mọi người dọn bàn và ăn xong trước một giờ vì các cuộc họp buổi chiều sẽ bắt đầu lại đúng giờ đó ngay trong căn phòng này ('afternoon meetings resume in that room promptly at that hour').",
+    "vocab": [
+      ["resume", "v", "tiếp tục, bắt đầu lại"],
+      ["promptly", "adv", "đúng giờ, ngay lập tức"],
+      ["temporary", "adj", "tạm thời"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation:",
+    "audioScript": "Thank you for attending today's product launch. I would like to introduce the Foldline, an electric bicycle that folds compactly in under ten seconds. Weighing only twelve kilograms, it is light enough to carry onto a bus or up a staircase without assistance. Its aluminum frame prevents rusting in wet weather, and the battery provides up to sixty kilometers of support on a single charge from a standard wall outlet. During two years of testing with daily commuters, users most frequently praised how easily it fits beneath an office desk. The Foldline will be available in stores next week for eight hundred ninety dollars.",
+    "questionText": "What is the speaker doing?",
+    "options": [
+      "Presenting a new product at a launch event",
+      "Demonstrating how to repair a bicycle frame",
+      "Comparing electric bicycles from three companies",
+      "Explaining safety rules for city commuters"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người nói đang làm gì?\n(A) Giới thiệu một sản phẩm mới tại sự kiện ra mắt\n(B) Hướng dẫn cách sửa khung xe đạp\n(C) So sánh xe đạp điện của ba công ty\n(D) Giải thích quy tắc an toàn cho người đi làm trong thành phố",
+    "explanation": "Người nói cảm ơn khán giả đã tham dự buổi ra mắt sản phẩm hôm nay và giới thiệu các tính năng cũng như giá bán của mẫu xe đạp điện gấp gọn Foldline.",
+    "vocab": [
+      ["launch", "n", "sự kiện ra mắt sản phẩm"],
+      ["compactly", "adv", "một cách gọn gàng"],
+      ["assistance", "n", "sự hỗ trợ, giúp đỡ"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation:",
+    "audioScript": "Thank you for attending today's product launch. I would like to introduce the Foldline, an electric bicycle that folds compactly in under ten seconds. Weighing only twelve kilograms, it is light enough to carry onto a bus or up a staircase without assistance. Its aluminum frame prevents rusting in wet weather, and the battery provides up to sixty kilometers of support on a single charge from a standard wall outlet. During two years of testing with daily commuters, users most frequently praised how easily it fits beneath an office desk. The Foldline will be available in stores next week for eight hundred ninety dollars.",
+    "questionText": "What advantage of the bicycle's frame material is mentioned?",
+    "options": [
+      "It can be charged from any wall outlet.",
+      "It resists damage from rainy conditions.",
+      "It reduces the charging time to ten seconds.",
+      "It lowers the retail price for commuters."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Ưu điểm nào của vật liệu làm khung xe đạp được nhắc đến?\n(A) Có thể sạc từ bất kỳ ổ cắm tường nào.\n(B) Chống hư hại do điều kiện trời mưa.\n(C) Giảm thời gian sạc xuống còn mười giây.\n(D) Giảm giá bán lẻ cho người đi làm.",
+    "explanation": "Người nói cho biết khung nhôm của xe giúp ngăn gỉ sét trong thời tiết ẩm ướt ('prevents rusting in wet weather'), được diễn đạt lại là 'resists damage from rainy conditions'.",
+    "vocab": [
+      ["aluminum", "n", "nhôm"],
+      ["rust", "v/n", "gỉ sét"],
+      ["outlet", "n", "ổ cắm điện"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation:",
+    "audioScript": "Thank you for attending today's product launch. I would like to introduce the Foldline, an electric bicycle that folds compactly in under ten seconds. Weighing only twelve kilograms, it is light enough to carry onto a bus or up a staircase without assistance. Its aluminum frame prevents rusting in wet weather, and the battery provides up to sixty kilometers of support on a single charge from a standard wall outlet. During two years of testing with daily commuters, users most frequently praised how easily it fits beneath an office desk. The Foldline will be available in stores next week for eight hundred ninety dollars.",
+    "questionText": "Why does the speaker mention an office desk?",
+    "options": [
+      "To suggest where the battery should be stored",
+      "To describe where the product was designed",
+      "To complain about limited workspace in offices",
+      "To highlight how compact the bicycle is"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao người nói lại nhắc đến một chiếc bàn làm việc văn phòng?\n(A) Để gợi ý nơi nên cất giữ pin\n(B) Để mô tả nơi sản phẩm được thiết kế\n(C) Để phàn nàn về không gian làm việc chật hẹp trong văn phòng\n(D) Để làm nổi bật độ nhỏ gọn của chiếc xe đạp",
+    "explanation": "Người nói dẫn lại lời khen phổ biến nhất từ những người thử nghiệm là xe đặt vừa dễ dàng dưới gầm bàn làm việc, qua đó nhấn mạnh kích thước nhỏ gọn và tiện cất giữ của xe.",
+    "vocab": [
+      ["beneath", "prep", "ở bên dưới"],
+      ["compact", "adj", "nhỏ gọn"],
+      ["praise", "v", "khen ngợi"]
+    ]
+  }
+]

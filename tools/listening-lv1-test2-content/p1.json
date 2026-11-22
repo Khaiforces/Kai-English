@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "office_printer",
+    "imageCaption": "Một người đàn ông mặc áo sơ mi đang đứng cạnh máy photocopy trong văn phòng và lấy các tờ giấy in ra khỏi khay máy.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A man is taking some papers from a printer.",
+      "A man is repairing a computer screen.",
+      "Some boxes are stacked on top of a copier.",
+      "An office worker is talking on a telephone."
+    ],
+    "correct": "A",
+    "translation": "(A) Một người đàn ông đang lấy vài tờ giấy ra khỏi máy in.\n(B) Một người đàn ông đang sửa màn hình máy tính.\n(C) Một vài chiếc hộp được xếp chồng lên trên máy photocopy.\n(D) Một nhân viên văn phòng đang nói chuyện điện thoại.",
+    "explanation": "Phương án (A) mô tả đúng hình ảnh người đàn ông đang đứng cạnh máy in/photocopy và lấy giấy ra khỏi khay. Các phương án (B), (C), (D) nói về việc sửa màn hình máy tính, xếp hộp lên máy và nghe điện thoại đều không có trong hình.",
+    "vocab": [
+      ["printer", "n", "máy in"],
+      ["repair", "v", "sửa chữa"],
+      ["copier", "n", "máy photocopy"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "bakery_counter",
+    "imageCaption": "Một nữ nhân viên tiệm bánh đeo tạp dề đang đứng sau tủ kính trưng bày bánh mì và đưa một túi giấy cho khách hàng.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A chef is baking bread in a large oven.",
+      "A worker is handing a paper bag to a customer.",
+      "Customers are sitting at tables outside a cafe.",
+      "A cashier is sweeping the floor behind a counter."
+    ],
+    "correct": "B",
+    "translation": "(A) Một đầu bếp đang nướng bánh mì trong lò lớn.\n(B) Một nhân viên đang đưa túi giấy cho khách hàng.\n(C) Khách hàng đang ngồi tại các bàn bên ngoài quán cà phê.\n(D) Một thu ngân đang quét sàn phía sau quầy.",
+    "explanation": "Phương án (B) mô tả chính xác cảnh nữ nhân viên tiệm bánh đưa túi giấy cho khách qua quầy tủ kính. Các phương án (A) nướng bánh trong lò, (C) ngồi bàn ngoài trời và (D) quét sàn đều sai lệch với hình ảnh.",
+    "vocab": [
+      ["hand", "v", "đưa, trao tay"],
+      ["paper bag", "n", "túi giấy"],
+      ["sweep", "v", "quét dọn"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "park_bench",
+    "imageCaption": "Một người phụ nữ đang ngồi trên ghế dài bằng gỗ trong công viên và đọc một cuốn sách mở trên tay; bên cạnh có một chiếc túi xách.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A woman is jogging along a tree-lined path.",
+      "Some people are planting flowers in a garden.",
+      "A woman is reading a book on a park bench.",
+      "A bicycle is leaning against a wooden fence."
+    ],
+    "correct": "C",
+    "translation": "(A) Một người phụ nữ đang chạy bộ dọc theo lối đi rợp bóng cây.\n(B) Một vài người đang trồng hoa trong vườn.\n(C) Một người phụ nữ đang đọc sách trên ghế dài công viên.\n(D) Một chiếc xe đạp đang dựng tựa vào hàng rào gỗ.",
+    "explanation": "Phương án (C) mô tả đúng cảnh người phụ nữ ngồi trên ghế dài bằng gỗ trong công viên và đọc sách. Các phương án (A) chạy bộ, (B) trồng hoa và (D) xe đạp tựa rào gỗ không xuất hiện trong ảnh.",
+    "vocab": [
+      ["park bench", "n", "ghế dài công viên"],
+      ["jog", "v", "chạy bộ"],
+      ["lean against", "phr", "tựa vào"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "warehouse_cart",
+    "imageCaption": "Một nam nhân viên kho hàng đang đẩy một chiếc xe đẩy tay chở các thùng các-tông dọc theo lối đi giữa các kệ hàng.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A driver is parking a truck near a loading dock.",
+      "Some shelves are being painted by a crew.",
+      "A man is climbing a ladder to reach the top shelf.",
+      "A worker is pushing a cart loaded with boxes."
+    ],
+    "correct": "D",
+    "translation": "(A) Một tài xế đang đỗ xe tải gần bến bốc hàng.\n(B) Một số kệ hàng đang được nhóm công nhân sơn lại.\n(C) Một người đàn ông đang trèo thang để với tới kệ trên cùng.\n(D) Một nhân viên đang đẩy chiếc xe đẩy chất đầy các thùng hàng.",
+    "explanation": "Phương án (D) mô tả đúng hành động nhân viên kho đang đẩy xe đẩy chở các thùng các-tông. Các phương án (A) đỗ xe tải, (B) sơn kệ hàng và (C) trèo thang đều không đúng với ảnh.",
+    "vocab": [
+      ["push", "v", "đẩy"],
+      ["cart", "n", "xe đẩy hàng"],
+      ["loaded with", "phr", "chất đầy"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "meeting_whiteboard",
+    "imageCaption": "Một người phụ nữ đứng trước bảng trắng trong phòng họp, tay chỉ vào biểu đồ vẽ trên bảng trong khi hai đồng nghiệp ngồi tại bàn lắng nghe.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A woman is pointing at a chart on a whiteboard.",
+      "People are putting chairs away after a meeting.",
+      "A man is hanging a picture frame on the wall.",
+      "Everyone is standing in a circle near the door."
+    ],
+    "correct": "A",
+    "translation": "(A) Một người phụ nữ đang chỉ vào biểu đồ trên bảng trắng.\n(B) Mọi người đang cất ghế đi sau cuộc họp.\n(C) Một người đàn ông đang treo khung tranh lên tường.\n(D) Mọi người đang đứng thành vòng tròn gần cửa ra vào.",
+    "explanation": "Phương án (A) mô tả đúng cảnh người phụ nữ đứng thuyết trình và chỉ tay vào biểu đồ trên bảng trắng. Các phương án (B) cất ghế, (C) treo khung tranh và (D) đứng thành vòng tròn đều sai.",
+    "vocab": [
+      ["point at", "phr", "chỉ vào"],
+      ["chart", "n", "biểu đồ"],
+      ["whiteboard", "n", "bảng trắng"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "bookstore_table",
+    "imageCaption": "Các chồng sách được xếp gọn gàng trên một chiếc bàn trưng bày bằng gỗ trong hiệu sách, phía sau là các dãy kệ sách cao.",
+    "imageUrl": "listening/images/lv1-test-02/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Shoppers are waiting in line at a checkout counter.",
+      "Stacks of books are displayed on a wooden table.",
+      "Empty bookshelves are being moved into a room.",
+      "A clerk is packing magazines into a crate."
+    ],
+    "correct": "B",
+    "translation": "(A) Khách mua hàng đang xếp hàng chờ tại quầy thanh toán.\n(B) Các chồng sách được trưng bày trên một chiếc bàn gỗ.\n(C) Những kệ sách trống đang được chuyển vào phòng.\n(D) Một nhân viên đang đóng gói tạp chí vào thùng gỗ.",
+    "explanation": "Phương án (B) mô tả chính xác các chồng sách được xếp trưng bày trên bàn gỗ trong hiệu sách. Các phương án (A), (C), (D) nhắc đến khách xếp hàng, chuyển kệ trống hay đóng gói tạp chí đều không có trong hình.",
+    "vocab": [
+      ["stack", "n", "chồng, đống"],
+      ["display", "v", "trưng bày"],
+      ["bookshelf", "n", "kệ sách"]
+    ]
+  }
+]

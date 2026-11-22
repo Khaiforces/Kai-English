@@ -1,0 +1,272 @@
+[
+  {
+    "n": 101,
+    "q": "The hiring committee requested that each candidate ---------- two professional references before the interview.",
+    "options": ["provide", "provides", "provided", "providing"],
+    "answer": "A",
+    "translation": "Ủy ban tuyển dụng yêu cầu mỗi ứng viên cung cấp hai người tham chiếu chuyên môn trước buổi phỏng vấn.",
+    "explanation": "Sau cấu trúc \"requested that\" phải dùng thể giả định (subjunctive) với động từ nguyên mẫu không \"to\", nên \"provide\" là phương án đúng. \"provides\" bị chia theo ngôi thứ ba, \"provided\" sai thì, còn \"providing\" là V-ing không dùng trong thể giả định.",
+    "vocab": [["hiring committee", "n", "ủy ban tuyển dụng"], ["candidate", "n", "ứng viên"], ["reference", "n", "người tham chiếu, thư giới thiệu"]]
+  },
+  {
+    "n": 102,
+    "q": "Not until the invoice has been verified ---------- the payment.",
+    "options": ["the accounting department will approve", "will the accounting department approve", "the accounting department approves", "does the accounting department approve"],
+    "answer": "B",
+    "translation": "Chỉ sau khi hóa đơn được xác minh thì phòng kế toán mới phê duyệt khoản thanh toán.",
+    "explanation": "Khi câu bắt đầu bằng cụm phủ định \"Not until...\", mệnh đề chính phải đảo ngữ: trợ động từ \"will\" đứng trước chủ ngữ, nên \"will the accounting department approve\" là phương án đúng. Các lựa chọn còn lại giữ trật tự từ bình thường (sai đảo ngữ) hoặc chia sai thì so với mệnh đề \"has been verified\".",
+    "vocab": [["invoice", "n", "hóa đơn"], ["approve", "v", "phê duyệt"], ["payment", "n", "khoản thanh toán"]]
+  },
+  {
+    "n": 103,
+    "q": "The shipment, ---------- was delayed by customs, is expected to arrive on Friday.",
+    "options": ["that", "what", "which", "it"],
+    "answer": "C",
+    "translation": "Lô hàng, vốn bị hải quan giữ lại, dự kiến sẽ đến vào thứ Sáu.",
+    "explanation": "Mệnh đề quan hệ không xác định (đứng sau dấu phẩy) thay cho sự vật phải dùng \"which\", nên \"which\" là phương án đúng. \"that\" không dùng trong mệnh đề quan hệ không xác định, \"what\" không làm đại từ quan hệ, còn \"it\" tạo ra hai mệnh đề rời không có liên từ nối.",
+    "vocab": [["shipment", "n", "lô hàng"], ["delay", "v", "làm chậm trễ, giữ lại"], ["customs", "n", "hải quan"]]
+  },
+  {
+    "n": 104,
+    "q": "The production line must be shut down ---------- the safety inspection is completed.",
+    "options": ["unless", "while", "despite", "until"],
+    "answer": "D",
+    "translation": "Dây chuyền sản xuất phải dừng hoạt động cho đến khi cuộc kiểm tra an toàn được hoàn tất.",
+    "explanation": "\"until\" diễn tả một trạng thái kéo dài tới mốc thời gian nêu sau, hợp nghĩa \"dừng cho đến khi kiểm tra xong\". \"unless\" nghĩa \"trừ khi\" làm sai logic, \"while\" nghĩa \"trong khi\" không diễn tả điểm kết thúc, còn \"despite\" là giới từ nên phải đi với cụm danh từ.",
+    "vocab": [["production line", "n", "dây chuyền sản xuất"], ["shut down", "v", "dừng hoạt động"], ["inspection", "n", "cuộc kiểm tra, thanh tra"]]
+  },
+  {
+    "n": 105,
+    "q": "The campaign generated ---------- response than the agency had anticipated.",
+    "options": ["a stronger", "the strongest", "more strong", "strongest"],
+    "answer": "A",
+    "translation": "Chiến dịch đã tạo ra phản hồi mạnh hơn mức công ty quảng cáo dự đoán.",
+    "explanation": "Có \"than\" nên phải dùng so sánh hơn của tính từ ngắn \"strong\" là \"stronger\", và danh từ đếm được số ít \"response\" cần mạo từ \"a\", nên \"a stronger\" là phương án đúng. \"the strongest\" và \"strongest\" là so sánh nhất, còn \"more strong\" sai vì không thêm \"more\" trước tính từ ngắn.",
+    "vocab": [["campaign", "n", "chiến dịch"], ["generate", "v", "tạo ra"], ["anticipate", "v", "dự đoán, lường trước"]]
+  },
+  {
+    "n": 106,
+    "q": "Customers who are dissatisfied with a purchase may request a full refund ---------- 30 days of receipt.",
+    "options": ["among", "besides", "within", "apart"],
+    "answer": "C",
+    "translation": "Khách hàng không hài lòng với sản phẩm đã mua có thể yêu cầu hoàn tiền toàn bộ trong vòng 30 ngày kể từ khi nhận hàng.",
+    "explanation": "\"within + khoảng thời gian\" nghĩa \"trong vòng\", đúng với hạn yêu cầu hoàn tiền. \"among\" nghĩa \"giữa nhiều thứ\", \"besides\" nghĩa \"ngoài ra\", còn \"apart\" phải đi kèm \"from\" nên cả ba đều không hợp.",
+    "vocab": [["dissatisfied", "adj", "không hài lòng"], ["refund", "n", "tiền hoàn lại"], ["receipt", "n", "việc nhận hàng, biên lai"]]
+  },
+  {
+    "n": 107,
+    "q": "The workshop is designed for employees ---------- have limited experience with spreadsheet software.",
+    "options": ["which", "who", "whom", "whose"],
+    "answer": "B",
+    "translation": "Buổi tập huấn được thiết kế cho những nhân viên có ít kinh nghiệm với phần mềm bảng tính.",
+    "explanation": "Cần đại từ quan hệ làm chủ ngữ thay cho \"employees\" (chỉ người) và đứng trước động từ \"have\", nên \"who\" là phương án đúng. \"which\" dùng cho vật, \"whom\" là tân ngữ, \"whose\" chỉ sở hữu và phải đi kèm danh từ.",
+    "vocab": [["workshop", "n", "buổi tập huấn, hội thảo"], ["employee", "n", "nhân viên"], ["spreadsheet", "n", "bảng tính"]]
+  },
+  {
+    "n": 108,
+    "q": "The landlord agreed to renew the lease ---------- that the tenant pays the maintenance fee.",
+    "options": ["provided", "despite", "although", "unless"],
+    "answer": "A",
+    "translation": "Chủ nhà đồng ý gia hạn hợp đồng thuê với điều kiện người thuê trả phí bảo trì.",
+    "explanation": "\"provided that\" là liên từ nghĩa \"với điều kiện là\", đúng ý câu. \"despite\" là giới từ cần cụm danh từ, \"although\" không đi với \"that\" theo nghĩa điều kiện, còn \"unless\" nghĩa \"trừ khi\" làm đảo ngược nội dung.",
+    "vocab": [["landlord", "n", "chủ nhà, bên cho thuê"], ["lease", "n", "hợp đồng thuê"], ["tenant", "n", "người thuê"]]
+  },
+  {
+    "n": 109,
+    "q": "By the time the new server is installed, the IT team ---------- the migration plan.",
+    "options": ["will finalize", "has finalized", "will have finalized", "finalizes"],
+    "answer": "C",
+    "translation": "Vào thời điểm máy chủ mới được lắp đặt, nhóm công nghệ thông tin sẽ đã hoàn tất kế hoạch chuyển đổi hệ thống.",
+    "explanation": "\"By the time + hiện tại đơn\" chỉ một mốc trong tương lai, nên mệnh đề chính dùng tương lai hoàn thành \"will have finalized\" để diễn tả việc hoàn tất trước mốc đó. \"will finalize\" thiếu ý hoàn tất, \"has finalized\" sai thì, còn \"finalizes\" là hiện tại đơn.",
+    "vocab": [["server", "n", "máy chủ"], ["finalize", "v", "hoàn tất, chốt lại"], ["migration", "n", "sự chuyển đổi, di chuyển hệ thống"]]
+  },
+  {
+    "n": 110,
+    "q": "Ms. Ortega's flight was canceled, so she had no choice but ---------- her presentation remotely.",
+    "options": ["deliver", "delivering", "delivered", "to deliver"],
+    "answer": "D",
+    "translation": "Chuyến bay của bà Ortega bị hủy, nên bà không còn cách nào khác là trình bày bài thuyết trình từ xa.",
+    "explanation": "Cấu trúc cố định \"have no choice but to + động từ nguyên mẫu\" nên \"to deliver\" là phương án đúng. \"deliver\" thiếu \"to\", \"delivering\" sai dạng V-ing, còn \"delivered\" là quá khứ phân từ không hợp cấu trúc.",
+    "vocab": [["cancel", "v", "hủy bỏ"], ["deliver", "v", "trình bày, thực hiện"], ["remotely", "adv", "từ xa"]]
+  },
+  {
+    "n": 111,
+    "q": "The company offers a highly ---------- benefits package to attract skilled workers.",
+    "options": ["competition", "competitive", "competitively", "compete"],
+    "answer": "B",
+    "translation": "Công ty cung cấp gói phúc lợi có sức cạnh tranh cao để thu hút lao động có tay nghề.",
+    "explanation": "Sau trạng từ \"highly\" và trước cụm danh từ \"benefits package\" phải là tính từ, nên \"competitive\" là phương án đúng. \"competition\" là danh từ, \"competitively\" là trạng từ, còn \"compete\" là động từ nên cả ba đều sai vị trí.",
+    "vocab": [["benefits package", "n", "gói phúc lợi"], ["competitive", "adj", "có sức cạnh tranh"], ["skilled", "adj", "có tay nghề"]]
+  },
+  {
+    "n": 112,
+    "q": "The board approved the expansion budget ---------- concerns about rising operating costs.",
+    "options": ["although", "because", "despite", "so"],
+    "answer": "C",
+    "translation": "Hội đồng quản trị đã phê duyệt ngân sách mở rộng bất chấp những lo ngại về chi phí vận hành tăng cao.",
+    "explanation": "Sau chỗ trống là cụm danh từ \"concerns about...\" nên cần giới từ \"despite\" (bất chấp), phù hợp ý nhượng bộ. \"although\" và \"because\" đòi hỏi mệnh đề, còn \"so\" là liên từ chỉ kết quả và không đứng trước cụm danh từ.",
+    "vocab": [["board", "n", "hội đồng quản trị"], ["budget", "n", "ngân sách"], ["operating costs", "n", "chi phí vận hành"]]
+  },
+  {
+    "n": 113,
+    "q": "Each package is ---------- with a tracking number before it leaves the warehouse.",
+    "options": ["equipped", "equipping", "equipment", "equip"],
+    "answer": "A",
+    "translation": "Mỗi kiện hàng đều được gắn mã theo dõi trước khi rời kho.",
+    "explanation": "Câu bị động \"is + quá khứ phân từ\" và cụm cố định \"be equipped with\" nên \"equipped\" là phương án đúng. \"equipping\" là V-ing, \"equipment\" là danh từ, còn \"equip\" là nguyên mẫu nên đều không đứng sau \"is\" ở đây.",
+    "vocab": [["package", "n", "kiện hàng"], ["tracking number", "n", "mã theo dõi"], ["warehouse", "n", "nhà kho"]]
+  },
+  {
+    "n": 114,
+    "q": "Once the prototype ---------- tested, the engineers will begin mass production.",
+    "options": ["was", "will be", "is being", "has been"],
+    "answer": "D",
+    "translation": "Sau khi nguyên mẫu được kiểm thử xong, các kỹ sư sẽ bắt đầu sản xuất hàng loạt.",
+    "explanation": "Mệnh đề trạng ngữ \"Once...\" chỉ việc hoàn tất trước hành động ở tương lai nên dùng hiện tại hoàn thành bị động \"has been tested\". \"was\" sai thì so với \"will begin\", \"will be\" không dùng trong mệnh đề chỉ thời gian tương lai, còn \"is being\" chỉ việc đang diễn ra chứ không nói tới hoàn tất.",
+    "vocab": [["prototype", "n", "nguyên mẫu, bản thử"], ["mass production", "n", "sản xuất hàng loạt"], ["engineer", "n", "kỹ sư"]]
+  },
+  {
+    "n": 115,
+    "q": "The new slogan was received ---------- by focus groups than the previous one.",
+    "options": ["well", "better", "best", "the best"],
+    "answer": "B",
+    "translation": "Khẩu hiệu mới được các nhóm khảo sát đón nhận tốt hơn khẩu hiệu trước đó.",
+    "explanation": "Có \"than\" nên cần so sánh hơn của trạng từ \"well\" là \"better\". \"well\" là dạng gốc không dùng với \"than\", còn \"best\" và \"the best\" là so sánh nhất nên sai cấu trúc so sánh.",
+    "vocab": [["slogan", "n", "khẩu hiệu"], ["focus group", "n", "nhóm khảo sát khách hàng"], ["previous", "adj", "trước đó"]]
+  },
+  {
+    "n": 116,
+    "q": "All customer complaints should be forwarded to the regional manager ---------- delay.",
+    "options": ["without", "unless", "despite", "beyond"],
+    "answer": "A",
+    "translation": "Mọi khiếu nại của khách hàng phải được chuyển ngay cho giám đốc khu vực mà không chậm trễ.",
+    "explanation": "\"without delay\" là cụm cố định nghĩa \"không chậm trễ\", đúng ý câu. \"unless\" là liên từ nên cần mệnh đề, \"despite\" nghĩa \"bất chấp\", còn \"beyond\" nghĩa \"vượt ra ngoài\" đều không hợp nghĩa.",
+    "vocab": [["complaint", "n", "lời khiếu nại"], ["forward", "v", "chuyển tiếp"], ["delay", "n", "sự chậm trễ"]]
+  },
+  {
+    "n": 117,
+    "q": "The instructor slowed down ---------- that everyone could follow the demonstration.",
+    "options": ["such", "so", "very", "too"],
+    "answer": "B",
+    "translation": "Giảng viên nói chậm lại để mọi người có thể theo kịp phần trình diễn.",
+    "explanation": "Cấu trúc \"so that + mệnh đề\" diễn tả mục đích nên \"so\" là phương án đúng. \"such\" chỉ đi với cụm danh từ trong cấu trúc \"such... that\", \"very\" là trạng từ mức độ, còn \"too\" mang nghĩa \"quá... đến mức không thể\" nên cả ba đều sai nghĩa.",
+    "vocab": [["instructor", "n", "giảng viên, người hướng dẫn"], ["demonstration", "n", "phần trình diễn, minh họa"], ["follow", "v", "theo kịp, hiểu"]]
+  },
+  {
+    "n": 118,
+    "q": "The downtown office building ---------- construction is scheduled to open in March.",
+    "options": ["below", "under", "beneath", "down"],
+    "answer": "B",
+    "translation": "Tòa nhà văn phòng đang xây ở trung tâm dự kiến sẽ khai trương vào tháng Ba.",
+    "explanation": "\"under construction\" là cụm cố định nghĩa \"đang được xây dựng\", đúng nghĩa câu. \"below\", \"beneath\" và \"down\" đều chỉ vị trí thấp hơn nên không tạo thành cụm này.",
+    "vocab": [["downtown", "adj", "ở trung tâm thành phố"], ["construction", "n", "việc xây dựng"], ["open", "v", "khai trương, mở cửa"]]
+  },
+  {
+    "n": 119,
+    "q": "The software automatically backs up all files ---------- the user logs out.",
+    "options": ["whatever", "whichever", "however", "whenever"],
+    "answer": "D",
+    "translation": "Phần mềm tự động sao lưu mọi tệp mỗi khi người dùng đăng xuất.",
+    "explanation": "Cần liên từ chỉ thời điểm \"mỗi khi\" nên \"whenever\" là phương án đúng. \"whatever\" và \"whichever\" chỉ sự vật hoặc sự lựa chọn, còn \"however\" chỉ cách thức hay mức độ.",
+    "vocab": [["automatically", "adv", "một cách tự động"], ["software", "n", "phần mềm"], ["user", "n", "người dùng"]]
+  },
+  {
+    "n": 120,
+    "q": "Had we booked the tickets earlier, we ---------- a significant discount.",
+    "options": ["would have received", "will receive", "would receive", "had received"],
+    "answer": "A",
+    "translation": "Nếu chúng tôi đã đặt vé sớm hơn, chúng tôi đã nhận được một khoản giảm giá đáng kể.",
+    "explanation": "Mệnh đề \"Had we booked...\" là câu điều kiện loại ba ở dạng đảo ngữ, nên mệnh đề chính phải dùng \"would have + quá khứ phân từ\", tức \"would have received\". \"would receive\" là điều kiện loại hai, \"will receive\" sai thì, còn \"had received\" không thể làm mệnh đề chính.",
+    "vocab": [["book", "v", "đặt vé, đặt chỗ"], ["significant", "adj", "đáng kể"], ["discount", "n", "khoản giảm giá"]]
+  },
+  {
+    "n": 121,
+    "q": "The position requires ---------- in at least two foreign languages.",
+    "options": ["proficient", "proficiently", "proficiency", "proficiencies"],
+    "answer": "C",
+    "translation": "Vị trí này yêu cầu sự thành thạo ít nhất hai ngoại ngữ.",
+    "explanation": "Sau động từ \"requires\" cần tân ngữ là danh từ không đếm được nên \"proficiency\" là phương án đúng. \"proficient\" là tính từ, \"proficiently\" là trạng từ, còn \"proficiencies\" là số nhiều nên không phù hợp.",
+    "vocab": [["require", "v", "yêu cầu"], ["proficiency", "n", "sự thành thạo"], ["foreign language", "n", "ngoại ngữ"]]
+  },
+  {
+    "n": 122,
+    "q": "The accounting firm hired additional staff ---------- the tax season.",
+    "options": ["in advance", "in advance of", "ahead of time", "advancing"],
+    "answer": "B",
+    "translation": "Công ty kế toán đã tuyển thêm nhân viên trước mùa quyết toán thuế.",
+    "explanation": "Trước cụm danh từ \"the tax season\" cần giới từ, nên \"in advance of\" là phương án đúng. \"in advance\" và \"ahead of time\" là cụm trạng từ không nhận tân ngữ, còn \"advancing\" là V-ing không diễn tả quan hệ thời gian.",
+    "vocab": [["accounting firm", "n", "công ty kế toán"], ["staff", "n", "nhân viên, đội ngũ"], ["tax season", "n", "mùa quyết toán thuế"]]
+  },
+  {
+    "n": 123,
+    "q": "The carrier will not accept liability for goods damaged in transit ---------- the shipment was insured.",
+    "options": ["if", "whether", "in case", "unless"],
+    "answer": "D",
+    "translation": "Hãng vận chuyển sẽ không chịu trách nhiệm với hàng hóa bị hỏng trên đường vận chuyển trừ khi lô hàng đã được mua bảo hiểm.",
+    "explanation": "\"unless\" nghĩa \"trừ khi\", đúng logic miễn trừ trách nhiệm. \"if\" làm sai nghĩa vì nếu có bảo hiểm thì càng phải chịu trách nhiệm, \"whether\" cần \"or not\" và không hợp nghĩa, còn \"in case\" nghĩa \"phòng khi\" nên không diễn tả điều kiện loại trừ.",
+    "vocab": [["carrier", "n", "hãng vận chuyển"], ["liability", "n", "trách nhiệm pháp lý"], ["in transit", "phr", "trên đường vận chuyển"]]
+  },
+  {
+    "n": 124,
+    "q": "The factory's output has grown steadily ---------- the new machinery was installed.",
+    "options": ["since", "for", "during", "while"],
+    "answer": "A",
+    "translation": "Sản lượng của nhà máy đã tăng đều đặn kể từ khi máy móc mới được lắp đặt.",
+    "explanation": "Với hiện tại hoàn thành \"has grown\" và một mốc quá khứ ở mệnh đề sau, cần \"since\" (kể từ khi). \"for\" phải đi với khoảng thời gian, \"during\" đi với cụm danh từ, còn \"while\" chỉ hai hành động song song.",
+    "vocab": [["output", "n", "sản lượng"], ["steadily", "adv", "đều đặn, ổn định"], ["machinery", "n", "máy móc"]]
+  },
+  {
+    "n": 125,
+    "q": "Neither the design team nor the copywriter ---------- satisfied with the final version of the brochure.",
+    "options": ["were", "have been", "was", "are"],
+    "answer": "C",
+    "translation": "Cả nhóm thiết kế lẫn người viết nội dung đều không hài lòng với bản cuối của tờ rơi.",
+    "explanation": "Với cấu trúc \"Neither... nor...\", động từ chia theo chủ ngữ gần nhất là \"the copywriter\" (số ít), và ngữ cảnh là việc đã xảy ra nên dùng \"was\". \"were\" và \"are\" sai số, còn \"have been\" sai cả số lẫn thì.",
+    "vocab": [["copywriter", "n", "người viết nội dung quảng cáo"], ["brochure", "n", "tờ rơi, ấn phẩm giới thiệu"], ["version", "n", "phiên bản"]]
+  },
+  {
+    "n": 126,
+    "q": "---------- with the delivery time, the customer requested a partial refund.",
+    "options": ["Dissatisfying", "Dissatisfied", "To dissatisfy", "Dissatisfaction"],
+    "answer": "B",
+    "translation": "Không hài lòng với thời gian giao hàng, khách hàng đã yêu cầu hoàn lại một phần tiền.",
+    "explanation": "Cụm phân từ đầu câu bổ nghĩa cho chủ ngữ \"the customer\" (người bị tác động) nên dùng quá khứ phân từ \"Dissatisfied\". \"Dissatisfying\" mang nghĩa chủ động \"gây thất vọng\", còn \"To dissatisfy\" và \"Dissatisfaction\" sai cấu trúc khi đứng trước \"with\".",
+    "vocab": [["dissatisfied", "adj", "không hài lòng"], ["partial refund", "n", "hoàn tiền một phần"], ["delivery", "n", "việc giao hàng"]]
+  },
+  {
+    "n": 127,
+    "q": "The orientation program gives new hires an opportunity ---------- with senior staff members.",
+    "options": ["networking", "network", "networked", "to network"],
+    "answer": "D",
+    "translation": "Chương trình định hướng cho nhân viên mới cơ hội giao lưu với các nhân viên lâu năm.",
+    "explanation": "Cấu trúc \"an opportunity to + động từ nguyên mẫu\" nên \"to network\" là phương án đúng. \"networking\" là V-ing, \"network\" thiếu \"to\", còn \"networked\" là quá khứ phân từ nên đều sai dạng.",
+    "vocab": [["orientation program", "n", "chương trình định hướng"], ["new hire", "n", "nhân viên mới"], ["senior staff", "n", "nhân viên lâu năm, cấp cao"]]
+  },
+  {
+    "n": 128,
+    "q": "All tenants are required to notify the management office in writing at least 30 days ---------- moving out.",
+    "options": ["before", "ago", "since", "prior"],
+    "answer": "A",
+    "translation": "Tất cả người thuê phải thông báo bằng văn bản cho văn phòng quản lý ít nhất 30 ngày trước khi chuyển đi.",
+    "explanation": "\"before + V-ing\" nghĩa \"trước khi\", đúng nghĩa câu. \"ago\" chỉ dùng với mốc thời gian đã qua và không nhận V-ing, \"since\" nghĩa \"kể từ\", còn \"prior\" phải đi kèm \"to\" mới đúng.",
+    "vocab": [["notify", "v", "thông báo"], ["in writing", "phr", "bằng văn bản"], ["tenant", "n", "người thuê"]]
+  },
+  {
+    "n": 129,
+    "q": "The data ---------- by the analytics team last quarter revealed a sharp decline in subscriptions.",
+    "options": ["collecting", "collect", "collected", "collection"],
+    "answer": "C",
+    "translation": "Dữ liệu được nhóm phân tích thu thập vào quý trước cho thấy lượng đăng ký thuê bao giảm mạnh.",
+    "explanation": "Đây là mệnh đề quan hệ rút gọn ở dạng bị động, tương đương \"data which were collected by...\", nên dùng quá khứ phân từ \"collected\". \"collecting\" mang nghĩa chủ động, còn \"collect\" và \"collection\" sai dạng từ.",
+    "vocab": [["analytics", "n", "phân tích dữ liệu"], ["reveal", "v", "cho thấy, tiết lộ"], ["subscription", "n", "đăng ký thuê bao"]]
+  },
+  {
+    "n": 130,
+    "q": "Employees traveling abroad are reminded to keep all receipts, ---------- they will not be reimbursed.",
+    "options": ["therefore", "otherwise", "moreover", "nevertheless"],
+    "answer": "B",
+    "translation": "Nhân viên đi công tác nước ngoài được nhắc giữ mọi hóa đơn, nếu không họ sẽ không được hoàn tiền.",
+    "explanation": "\"otherwise\" nghĩa \"nếu không thì\", đúng quan hệ giữa lời nhắc và hậu quả xấu. \"therefore\" chỉ kết quả logic, \"moreover\" dùng để bổ sung thông tin, còn \"nevertheless\" diễn tả sự nhượng bộ, không hợp nghĩa.",
+    "vocab": [["reimburse", "v", "hoàn tiền, bồi hoàn"], ["receipt", "n", "hóa đơn, biên lai"], ["abroad", "adv", "ở nước ngoài"]]
+  }
+]

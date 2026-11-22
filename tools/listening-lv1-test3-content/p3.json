@@ -1,0 +1,821 @@
+[
+  {
+    "id": 32,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Bright Smile Dental Clinic. How can I help you?\nMan: Hello, this is Mark Evans. I have a teeth cleaning appointment this Thursday at two o'clock, but I need to change it.\nWoman: No problem, Mr. Evans. Dr. Lee has an opening on Friday morning at ten o'clock. Does that work for you?\nMan: Yes, Friday at ten is perfect. Thank you very much.",
+    "questionText": "Why is the man calling?",
+    "options": [
+      "To ask for directions to the clinic",
+      "To change his appointment time",
+      "To pay a dental bill by phone",
+      "To apply for a job as a dentist"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông lại gọi điện?\n(A) Để hỏi đường đến phòng khám\n(B) Để đổi giờ hẹn khám của anh ấy\n(C) Để thanh toán hóa đơn nha khoa qua điện thoại\n(D) Để nộp đơn xin việc làm nha sĩ",
+    "explanation": "Người đàn ông nói anh ấy có lịch hẹn vào thứ Năm lúc 2 giờ nhưng cần thay đổi ('need to change it'), nên mục đích gọi điện là đổi giờ hẹn như ở (B). Các phương án (A), (C), (D) không được đề cập.",
+    "vocab": [
+      ["dental clinic", "n", "phòng khám nha khoa"],
+      ["appointment", "n", "cuộc hẹn"],
+      ["change", "v", "thay đổi"]
+    ]
+  },
+  {
+    "id": 33,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Bright Smile Dental Clinic. How can I help you?\nMan: Hello, this is Mark Evans. I have a teeth cleaning appointment this Thursday at two o'clock, but I need to change it.\nWoman: No problem, Mr. Evans. Dr. Lee has an opening on Friday morning at ten o'clock. Does that work for you?\nMan: Yes, Friday at ten is perfect. Thank you very much.",
+    "questionText": "Who is the man scheduled to see?",
+    "options": [
+      "Dr. Evans",
+      "Dr. Bright",
+      "Dr. Lee",
+      "Dr. Smith"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông được lên lịch gặp ai?\n(A) Bác sĩ Evans\n(B) Bác sĩ Bright\n(C) Bác sĩ Lee\n(D) Bác sĩ Smith",
+    "explanation": "Nhân viên lễ tân nói 'Dr. Lee has an opening on Friday morning', cho biết bác sĩ sẽ khám cho người đàn ông là bác sĩ Lee như ở (C). Evans trong (A) là họ của chính người đàn ông.",
+    "vocab": [
+      ["schedule", "v", "lên lịch"],
+      ["opening", "n", "khung giờ trống"],
+      ["teeth cleaning", "n", "vệ sinh/lấy cao răng"]
+    ]
+  },
+  {
+    "id": 34,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Bright Smile Dental Clinic. How can I help you?\nMan: Hello, this is Mark Evans. I have a teeth cleaning appointment this Thursday at two o'clock, but I need to change it.\nWoman: No problem, Mr. Evans. Dr. Lee has an opening on Friday morning at ten o'clock. Does that work for you?\nMan: Yes, Friday at ten is perfect. Thank you very much.",
+    "questionText": "When is the man's new appointment?",
+    "options": [
+      "Thursday at 10:00 A.M.",
+      "Thursday at 2:00 P.M.",
+      "Friday at 10:00 A.M.",
+      "Friday at 2:00 P.M."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Lịch hẹn mới của người đàn ông là khi nào?\n(A) Thứ Năm lúc 10 giờ sáng.\n(B) Thứ Năm lúc 2 giờ chiều.\n(C) Thứ Sáu lúc 10 giờ sáng.\n(D) Thứ Sáu lúc 2 giờ chiều.",
+    "explanation": "Người phụ nữ đề xuất sáng thứ Sáu lúc 10 giờ và người đàn ông đồng ý 'Yes, Friday at ten is perfect', khớp với (C). (B) là lịch hẹn cũ vào thứ Năm.",
+    "vocab": [
+      ["perfect", "adj", "hoàn hảo, rất phù hợp"],
+      ["morning", "n", "buổi sáng"],
+      ["work for", "phr", "phù hợp với (ai)"]
+    ]
+  },
+  {
+    "id": 35,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Excuse me, I would like to borrow this travel magazine, please.\nWoman: Actually, current magazines cannot be taken home. You can only read them inside the library.\nMan: Oh, I see. Is there a copying machine I can use? I just need a copy of one page with a hotel map.\nWoman: Yes, there is a copier in the corner next to the computer desks. It costs ten cents per page.",
+    "questionText": "Where does this conversation take place?",
+    "options": [
+      "At a bookshop",
+      "At a travel agency",
+      "At a public library",
+      "At a hotel front desk"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Cuộc hội thoại này diễn ra ở đâu?\n(A) Tại một hiệu sách\n(B) Tại một công ty du lịch\n(C) Tại một thư viện công cộng\n(D) Tại quầy lễ tân khách sạn",
+    "explanation": "Người đàn ông muốn mượn tạp chí ('borrow this travel magazine') và người phụ nữ giải thích chỉ được đọc bên trong thư viện ('inside the library'), nên địa điểm là ở thư viện như (C).",
+    "vocab": [
+      ["borrow", "v", "mượn"],
+      ["magazine", "n", "tạp chí"],
+      ["library", "n", "thư viện"]
+    ]
+  },
+  {
+    "id": 36,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Excuse me, I would like to borrow this travel magazine, please.\nWoman: Actually, current magazines cannot be taken home. You can only read them inside the library.\nMan: Oh, I see. Is there a copying machine I can use? I just need a copy of one page with a hotel map.\nWoman: Yes, there is a copier in the corner next to the computer desks. It costs ten cents per page.",
+    "questionText": "What does the man want to copy?",
+    "options": [
+      "A page with a hotel map",
+      "A bus schedule",
+      "A restaurant menu",
+      "A list of library rules"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông muốn sao chụp cái gì?\n(A) Một trang có bản đồ khách sạn\n(B) Một lịch trình xe buýt\n(C) Một thực đơn nhà hàng\n(D) Một danh sách nội quy thư viện",
+    "explanation": "Người đàn ông nói rõ 'I just need a copy of one page with a hotel map', khớp hoàn toàn với phương án (A). Các phương án (B), (C), (D) không được nhắc tới.",
+    "vocab": [
+      ["current", "adj", "hiện hành, số mới nhất"],
+      ["copying machine", "n", "máy sao chụp (photocopy)"],
+      ["map", "n", "bản đồ"]
+    ]
+  },
+  {
+    "id": 37,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Excuse me, I would like to borrow this travel magazine, please.\nWoman: Actually, current magazines cannot be taken home. You can only read them inside the library.\nMan: Oh, I see. Is there a copying machine I can use? I just need a copy of one page with a hotel map.\nWoman: Yes, there is a copier in the corner next to the computer desks. It costs ten cents per page.",
+    "questionText": "Where is the copier located?",
+    "options": [
+      "Behind the main entrance",
+      "On the second floor",
+      "Across from the restrooms",
+      "Next to the computer desks"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Máy photocopy được đặt ở đâu?\n(A) Phía sau lối vào chính\n(B) Ở trên tầng hai\n(C) Đối diện phòng vệ sinh\n(D) Bên cạnh dãy bàn máy tính",
+    "explanation": "Nhân viên thư viện chỉ vị trí máy photocopy ở trong góc cạnh bàn máy tính ('in the corner next to the computer desks'), tương ứng với (D).",
+    "vocab": [
+      ["copier", "n", "máy photocopy"],
+      ["corner", "n", "góc phòng"],
+      ["per page", "phr", "mỗi trang"]
+    ]
+  },
+  {
+    "id": 38,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Welcome to Grand View Hotel. Are you checking in today?\nMan: Yes, my name is David Clark. I reserved a single room for two nights.\nWoman: Thank you, Mr. Clark. Here is your room key for Room 408 on the fourth floor. Also, here is a voucher for our free breakfast buffet.\nMan: Wonderful! What time does breakfast start in the morning?\nWoman: The dining room opens at six thirty every day.",
+    "questionText": "How long will the man stay at the hotel?",
+    "options": [
+      "One night",
+      "Two nights",
+      "Three nights",
+      "Four nights"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ ở lại khách sạn trong bao lâu?\n(A) Một đêm\n(B) Hai đêm\n(C) Ba đêm\n(D) Bốn đêm",
+    "explanation": "Người đàn ông nói 'I reserved a single room for two nights', nghĩa là anh ấy sẽ lưu trú trong hai đêm như ở (B). Con số 4 ở (D) là số tầng của phòng 408.",
+    "vocab": [
+      ["check in", "phr", "làm thủ tục nhận phòng"],
+      ["reserve", "v", "đặt trước"],
+      ["single room", "n", "phòng đơn"]
+    ]
+  },
+  {
+    "id": 39,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Welcome to Grand View Hotel. Are you checking in today?\nMan: Yes, my name is David Clark. I reserved a single room for two nights.\nWoman: Thank you, Mr. Clark. Here is your room key for Room 408 on the fourth floor. Also, here is a voucher for our free breakfast buffet.\nMan: Wonderful! What time does breakfast start in the morning?\nWoman: The dining room opens at six thirty every day.",
+    "questionText": "What does the woman give the man along with his room key?",
+    "options": [
+      "A city tour map",
+      "A parking ticket",
+      "A breakfast voucher",
+      "A swimming pool pass"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đưa gì cho người đàn ông cùng với chìa khóa phòng?\n(A) Một bản đồ du lịch thành phố\n(B) Một vé đỗ xe\n(C) Một phiếu ăn sáng\n(D) Một thẻ vào hồ bơi",
+    "explanation": "Cùng với chìa khóa phòng 408, nhân viên lễ tân đưa thêm phiếu ăn sáng miễn phí ('a voucher for our free breakfast buffet'), khớp với (C).",
+    "vocab": [
+      ["room key", "n", "chìa khóa phòng"],
+      ["voucher", "n", "phiếu quà tặng/phiếu sử dụng dịch vụ"],
+      ["buffet", "n", "tiệc đứng tự chọn"]
+    ]
+  },
+  {
+    "id": 40,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Welcome to Grand View Hotel. Are you checking in today?\nMan: Yes, my name is David Clark. I reserved a single room for two nights.\nWoman: Thank you, Mr. Clark. Here is your room key for Room 408 on the fourth floor. Also, here is a voucher for our free breakfast buffet.\nMan: Wonderful! What time does breakfast start in the morning?\nWoman: The dining room opens at six thirty every day.",
+    "questionText": "When does the hotel dining room open?",
+    "options": [
+      "At 6:00 A.M.",
+      "At 6:30 A.M.",
+      "At 7:00 A.M.",
+      "At 7:30 A.M."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Phòng ăn của khách sạn mở cửa lúc mấy giờ?\n(A) Lúc 6 giờ sáng.\n(B) Lúc 6 giờ 30 sáng.\n(C) Lúc 7 giờ sáng.\n(D) Lúc 7 giờ 30 sáng.",
+    "explanation": "Ở câu cuối, người phụ nữ trả lời 'The dining room opens at six thirty every day', tương ứng với 6:30 sáng ở phương án (B).",
+    "vocab": [
+      ["dining room", "n", "phòng ăn"],
+      ["open", "v", "mở cửa"],
+      ["every day", "phr", "mỗi ngày"]
+    ]
+  },
+  {
+    "id": 41,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Excuse me, I tried on this white cotton shirt, but the medium size is a little too small for me. Do you have it in a large?\nMan: Let me look on the rack for you. I'm sorry, we only have the large size left in light blue.\nWoman: Light blue is fine, actually. Is it the same price as the white one?\nMan: Even better—the blue shirts are on sale today for twenty dollars.",
+    "questionText": "What is the problem with the white shirt?",
+    "options": [
+      "It has a missing button.",
+      "It is too expensive.",
+      "It is too small for the woman.",
+      "It has a coffee stain on the sleeve."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Chiếc áo sơ mi trắng gặp vấn đề gì?\n(A) Nó bị mất một chiếc cúc áo.\n(B) Nó quá đắt.\n(C) Nó hơi chật đối với người phụ nữ.\n(D) Nó có vết cà phê trên tay áo.",
+    "explanation": "Người phụ nữ nói cô ấy đã thử chiếc áo trắng cỡ vừa nhưng nó hơi nhỏ ('the medium size is a little too small for me'), khớp với phương án (C).",
+    "vocab": [
+      ["try on", "phr", "mặc thử"],
+      ["cotton", "n", "vải bông, cốt-tông"],
+      ["medium size", "n", "cỡ vừa"]
+    ]
+  },
+  {
+    "id": 42,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Excuse me, I tried on this white cotton shirt, but the medium size is a little too small for me. Do you have it in a large?\nMan: Let me look on the rack for you. I'm sorry, we only have the large size left in light blue.\nWoman: Light blue is fine, actually. Is it the same price as the white one?\nMan: Even better—the blue shirts are on sale today for twenty dollars.",
+    "questionText": "What color is available in the large size?",
+    "options": [
+      "White",
+      "Light blue",
+      "Dark green",
+      "Yellow"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Màu nào hiện có sẵn ở cỡ lớn (size L)?\n(A) Màu trắng\n(B) Màu xanh dương nhạt\n(C) Màu xanh lá đậm\n(D) Màu vàng",
+    "explanation": "Nhân viên bán hàng kiểm tra giá treo và nói chỉ còn cỡ lớn màu xanh dương nhạt ('we only have the large size left in light blue'), đúng với (B).",
+    "vocab": [
+      ["rack", "n", "giá treo quần áo"],
+      ["available", "adj", "có sẵn"],
+      ["light blue", "n", "màu xanh dương nhạt"]
+    ]
+  },
+  {
+    "id": 43,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Excuse me, I tried on this white cotton shirt, but the medium size is a little too small for me. Do you have it in a large?\nMan: Let me look on the rack for you. I'm sorry, we only have the large size left in light blue.\nWoman: Light blue is fine, actually. Is it the same price as the white one?\nMan: Even better—the blue shirts are on sale today for twenty dollars.",
+    "questionText": "How much does the blue shirt cost today?",
+    "options": [
+      "Ten dollars",
+      "Fifteen dollars",
+      "Twenty dollars",
+      "Thirty dollars"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Chiếc áo sơ mi màu xanh hôm nay có giá bao nhiêu?\n(A) Mười đô la\n(B) Mười lăm đô la\n(C) Hai mươi đô la\n(D) Ba mươi đô la",
+    "explanation": "Người đàn ông nói áo màu xanh hôm nay đang giảm giá còn 20 đô la ('on sale today for twenty dollars'), tương ứng với (C).",
+    "vocab": [
+      ["same price", "n", "cùng mức giá"],
+      ["on sale", "phr", "đang giảm giá"],
+      ["cost", "v", "có giá là"]
+    ]
+  },
+  {
+    "id": 44,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Man: Hi, I signed up for the weekend cake baking class. Is this the right kitchen?\nWoman: Yes, welcome! I'm Chef Anna. Please wash your hands at the sink over there and put on one of the green aprons.\nMan: Thank you. Should I take out my notebook now?\nWoman: You don't need to write anything down. I printed recipe cards with all the steps for everyone to take home.",
+    "questionText": "What class is the man attending?",
+    "options": [
+      "A painting class",
+      "A cake baking class",
+      "A coffee making class",
+      "A vegetable gardening class"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông đang tham gia lớp học gì?\n(A) Một lớp học vẽ tranh\n(B) Một lớp học nướng bánh ngọt\n(C) Một lớp học pha cà phê\n(D) Một lớp học trồng rau",
+    "explanation": "Người đàn ông giới thiệu ngay ở câu đầu 'I signed up for the weekend cake baking class', tức là lớp học nướng bánh ngọt như ở (B).",
+    "vocab": [
+      ["sign up for", "phr", "đăng ký tham gia"],
+      ["bake", "v", "nướng (bánh)"],
+      ["attend", "v", "tham dự"]
+    ]
+  },
+  {
+    "id": 45,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Man: Hi, I signed up for the weekend cake baking class. Is this the right kitchen?\nWoman: Yes, welcome! I'm Chef Anna. Please wash your hands at the sink over there and put on one of the green aprons.\nMan: Thank you. Should I take out my notebook now?\nWoman: You don't need to write anything down. I printed recipe cards with all the steps for everyone to take home.",
+    "questionText": "What does Chef Anna ask the man to do first?",
+    "options": [
+      "Turn on the oven",
+      "Wash his hands and wear an apron",
+      "Cut some fruit on a board",
+      "Pay the class fee at the door"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Đầu bếp Anna yêu cầu người đàn ông làm gì trước tiên?\n(A) Bật lò nướng lên\n(B) Rửa tay và đeo tạp dề\n(C) Cắt một ít trái cây trên thớt\n(D) Đóng học phí ở cửa",
+    "explanation": "Đầu bếp Anna hướng dẫn 'Please wash your hands at the sink over there and put on one of the green aprons', nghĩa là rửa tay và đeo tạp dề như ở (B).",
+    "vocab": [
+      ["sink", "n", "bồn rửa"],
+      ["put on", "phr", "mặc vào, đeo vào"],
+      ["apron", "n", "tạp dề"]
+    ]
+  },
+  {
+    "id": 46,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Man: Hi, I signed up for the weekend cake baking class. Is this the right kitchen?\nWoman: Yes, welcome! I'm Chef Anna. Please wash your hands at the sink over there and put on one of the green aprons.\nMan: Thank you. Should I take out my notebook now?\nWoman: You don't need to write anything down. I printed recipe cards with all the steps for everyone to take home.",
+    "questionText": "Why doesn't the man need his notebook?",
+    "options": [
+      "The class is very short.",
+      "A video will be sent by e-mail.",
+      "Printed recipe cards are provided.",
+      "The steps are written on a blackboard."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông không cần dùng sổ tay của mình?\n(A) Lớp học diễn ra rất ngắn.\n(B) Một video sẽ được gửi qua thư điện tử.\n(C) Các tấm thẻ công thức in sẵn đã được cung cấp.\n(D) Các bước làm được viết trên bảng đen.",
+    "explanation": "Đầu bếp Anna giải thích rằng không cần ghi chép vì cô đã in sẵn thẻ công thức nấu ăn ('printed recipe cards with all the steps') cho mọi người mang về, khớp với (C).",
+    "vocab": [
+      ["notebook", "n", "sổ tay ghi chép"],
+      ["recipe", "n", "công thức nấu ăn"],
+      ["step", "n", "bước thực hiện"]
+    ]
+  },
+  {
+    "id": 47,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Woman: Hello, I'd like to send this box of books to Chicago. How long will it take to arrive?\nMan: Let me weigh it on the scale first. Okay, it is four kilograms. With regular mail, it will arrive in five days for eight dollars.\nWoman: It is a birthday present for my nephew, and his birthday is in two days. Do you have a faster option?\nMan: Yes, express delivery takes only two days, and it costs fifteen dollars.",
+    "questionText": "What is inside the woman's box?",
+    "options": [
+      "Dishes",
+      "Shoes",
+      "Books",
+      "Toys"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bên trong chiếc hộp của người phụ nữ có gì?\n(A) Bát đĩa\n(B) Giày dép\n(C) Sách\n(D) Đồ chơi",
+    "explanation": "Người phụ nữ nói rõ ngay từ đầu 'I'd like to send this box of books to Chicago', nên bên trong hộp là sách như ở (C).",
+    "vocab": [
+      ["send", "v", "gửi đi"],
+      ["weigh", "v", "cân nặng"],
+      ["scale", "n", "cái cân"]
+    ]
+  },
+  {
+    "id": 48,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Woman: Hello, I'd like to send this box of books to Chicago. How long will it take to arrive?\nMan: Let me weigh it on the scale first. Okay, it is four kilograms. With regular mail, it will arrive in five days for eight dollars.\nWoman: It is a birthday present for my nephew, and his birthday is in two days. Do you have a faster option?\nMan: Yes, express delivery takes only two days, and it costs fifteen dollars.",
+    "questionText": "Why does the woman want a faster delivery service?",
+    "options": [
+      "The books are needed for an exam.",
+      "Her nephew's birthday is in two days.",
+      "She is moving to Chicago tomorrow.",
+      "The post office is closing soon."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ muốn dịch vụ chuyển phát nhanh hơn?\n(A) Số sách đó cần dùng cho một kỳ thi.\n(B) Sinh nhật cháu trai của cô ấy còn hai ngày nữa.\n(C) Cô ấy sẽ chuyển đến Chicago vào ngày mai.\n(D) Bưu điện sắp đóng cửa.",
+    "explanation": "Người phụ nữ giải thích đây là quà sinh nhật cho cháu trai và sinh nhật cậu ấy diễn ra sau 2 ngày nữa ('his birthday is in two days'), khớp với (B).",
+    "vocab": [
+      ["present", "n", "món quà"],
+      ["nephew", "n", "cháu trai"],
+      ["option", "n", "lựa chọn"]
+    ]
+  },
+  {
+    "id": 49,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Woman: Hello, I'd like to send this box of books to Chicago. How long will it take to arrive?\nMan: Let me weigh it on the scale first. Okay, it is four kilograms. With regular mail, it will arrive in five days for eight dollars.\nWoman: It is a birthday present for my nephew, and his birthday is in two days. Do you have a faster option?\nMan: Yes, express delivery takes only two days, and it costs fifteen dollars.",
+    "questionText": "How much does express delivery cost?",
+    "options": [
+      "Four dollars",
+      "Five dollars",
+      "Eight dollars",
+      "Fifteen dollars"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Dịch vụ chuyển phát nhanh có giá bao nhiêu?\n(A) Bốn đô la\n(B) Năm đô la\n(C) Tám đô la\n(D) Mười lăm đô la",
+    "explanation": "Nhân viên bưu điện báo giá gói chuyển phát nhanh 'express delivery takes only two days, and it costs fifteen dollars', tương ứng với (D). (C) là giá gửi thường 8 đô la.",
+    "vocab": [
+      ["regular mail", "n", "thư/bưu phẩm gửi thường"],
+      ["express delivery", "n", "chuyển phát nhanh"],
+      ["arrive", "v", "đến nơi"]
+    ]
+  },
+  {
+    "id": 50,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Good afternoon. I'm here to pick up some allergy medicine for Sam Wilson. My doctor called the prescription in an hour ago.\nWoman: Let me check our system, Mr. Wilson. Yes, it is ready for you. You should take one pill every morning after breakfast.\nMan: Does this medicine make people feel sleepy?\nWoman: No, this is a daytime formula, so you will not feel tired at work.",
+    "questionText": "Where are the speakers?",
+    "options": [
+      "At a pharmacy",
+      "At a grocery store",
+      "At an eyeglasses shop",
+      "At a fitness center"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người nói đang ở đâu?\n(A) Tại một hiệu thuốc\n(B) Tại một cửa hàng tạp hóa\n(C) Tại một cửa hàng kính mắt\n(D) Tại một trung tâm thể hình",
+    "explanation": "Người đàn ông đến lấy thuốc dị ứng theo đơn bác sĩ ('pick up some allergy medicine... prescription') và người phụ nữ hướng dẫn liều uống, nên họ đang ở hiệu thuốc (A).",
+    "vocab": [
+      ["allergy medicine", "n", "thuốc trị dị ứng"],
+      ["prescription", "n", "đơn thuốc"],
+      ["pill", "n", "viên thuốc"]
+    ]
+  },
+  {
+    "id": 51,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Good afternoon. I'm here to pick up some allergy medicine for Sam Wilson. My doctor called the prescription in an hour ago.\nWoman: Let me check our system, Mr. Wilson. Yes, it is ready for you. You should take one pill every morning after breakfast.\nMan: Does this medicine make people feel sleepy?\nWoman: No, this is a daytime formula, so you will not feel tired at work.",
+    "questionText": "When should the man take the medicine?",
+    "options": [
+      "Before going to sleep",
+      "Every morning after breakfast",
+      "Twice a day with water",
+      "Only when he has a headache"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông nên uống thuốc khi nào?\n(A) Trước khi đi ngủ\n(B) Mỗi sáng sau bữa ăn sáng\n(C) Hai lần một ngày với nước\n(D) Chỉ khi nào anh ấy bị đau đầu",
+    "explanation": "Dược sĩ dặn dò rõ 'You should take one pill every morning after breakfast', nghĩa là uống mỗi sáng sau khi ăn sáng như ở (B).",
+    "vocab": [
+      ["every morning", "phr", "mỗi buổi sáng"],
+      ["after breakfast", "phr", "sau bữa ăn sáng"],
+      ["system", "n", "hệ thống"]
+    ]
+  },
+  {
+    "id": 52,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Good afternoon. I'm here to pick up some allergy medicine for Sam Wilson. My doctor called the prescription in an hour ago.\nWoman: Let me check our system, Mr. Wilson. Yes, it is ready for you. You should take one pill every morning after breakfast.\nMan: Does this medicine make people feel sleepy?\nWoman: No, this is a daytime formula, so you will not feel tired at work.",
+    "questionText": "What does the woman say about the medicine?",
+    "options": [
+      "It must be kept in the refrigerator.",
+      "It tastes like orange juice.",
+      "It will not make the man sleepy.",
+      "It costs thirty dollars a bottle."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ nói gì về loại thuốc này?\n(A) Nó phải được bảo quản trong tủ lạnh.\n(B) Nó có vị giống nước cam.\n(C) Nó sẽ không làm người đàn ông buồn ngủ.\n(D) Nó có giá ba mươi đô la một lọ.",
+    "explanation": "Khi người đàn ông hỏi thuốc có gây buồn ngủ không, dược sĩ trả lời 'No, this is a daytime formula, so you will not feel tired at work', khớp với (C).",
+    "vocab": [
+      ["sleepy", "adj", "buồn ngủ"],
+      ["daytime", "n", "ban ngày"],
+      ["tired", "adj", "mệt mỏi"]
+    ]
+  },
+  {
+    "id": 53,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Two tickets for the seven o'clock movie, Ocean Adventure, please.\nMan: I'm sorry, the seven o'clock show is completely sold out. We still have plenty of seats for the eight thirty show in Theater Three.\nWoman: Eight thirty is fine for us. Can we get two seats in the back row?\nMan: Sure! Here are your tickets, and you get a coupon for a free small popcorn at the snack counter.",
+    "questionText": "Why can't the woman see the 7:00 P.M. movie?",
+    "options": [
+      "The projector is broken.",
+      "All the tickets are sold out.",
+      "She arrived too late.",
+      "The theater is closed for cleaning."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ không thể xem suất phim lúc 7 giờ tối?\n(A) Máy chiếu bị hỏng.\n(B) Tất cả vé đều đã bán hết.\n(C) Cô ấy đến quá muộn.\n(D) Rạp đang đóng cửa để dọn vệ sinh.",
+    "explanation": "Nhân viên bán vé nói 'the seven o'clock show is completely sold out', tức là suất 7 giờ đã bán hết sạch vé như ở phương án (B).",
+    "vocab": [
+      ["ticket", "n", "vé"],
+      ["completely", "adv", "hoàn toàn"],
+      ["sold out", "adj", "bán hết sạch"]
+    ]
+  },
+  {
+    "id": 54,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Two tickets for the seven o'clock movie, Ocean Adventure, please.\nMan: I'm sorry, the seven o'clock show is completely sold out. We still have plenty of seats for the eight thirty show in Theater Three.\nWoman: Eight thirty is fine for us. Can we get two seats in the back row?\nMan: Sure! Here are your tickets, and you get a coupon for a free small popcorn at the snack counter.",
+    "questionText": "Where does the woman want to sit?",
+    "options": [
+      "In the front row",
+      "Near the exit door",
+      "In the back row",
+      "In the middle of the theater"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ muốn ngồi ở đâu?\n(A) Ở hàng ghế đầu\n(B) Gần cửa thoát hiểm\n(C) Ở hàng ghế cuối\n(D) Ở chính giữa rạp",
+    "explanation": "Người phụ nữ hỏi 'Can we get two seats in the back row?', cho thấy cô muốn ngồi ở hàng ghế cuối cùng như phương án (C).",
+    "vocab": [
+      ["plenty of", "phr", "nhiều"],
+      ["seat", "n", "chỗ ngồi"],
+      ["back row", "n", "hàng ghế cuối"]
+    ]
+  },
+  {
+    "id": 55,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Two tickets for the seven o'clock movie, Ocean Adventure, please.\nMan: I'm sorry, the seven o'clock show is completely sold out. We still have plenty of seats for the eight thirty show in Theater Three.\nWoman: Eight thirty is fine for us. Can we get two seats in the back row?\nMan: Sure! Here are your tickets, and you get a coupon for a free small popcorn at the snack counter.",
+    "questionText": "What does the woman receive with her tickets?",
+    "options": [
+      "A movie poster",
+      "A pair of 3-D glasses",
+      "A discount for her next visit",
+      "A coupon for free popcorn"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ nhận được gì kèm theo vé xem phim?\n(A) Một tấm áp phích phim\n(B) Một cặp kính 3D\n(C) Một phiếu giảm giá cho lần tới\n(D) Một phiếu đổi bỏng ngô miễn phí",
+    "explanation": "Nhân viên đưa vé kèm theo phiếu tặng một phần bỏng ngô nhỏ miễn phí ('a coupon for a free small popcorn at the snack counter'), khớp với (D).",
+    "vocab": [
+      ["coupon", "n", "phiếu ưu đãi/đổi quà"],
+      ["popcorn", "n", "bỏng ngô"],
+      ["snack counter", "n", "quầy đồ ăn nhẹ"]
+    ]
+  },
+  {
+    "id": 56,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Welcome to the City History Museum. Before you enter the halls, please leave your large backpack in our coat room. It is free of charge.\nWoman: Oh, sure. Can I still carry my camera inside to take photos?\nMan: You may take photos in the main hall on the first floor, but cameras are not allowed in the old painting gallery upstairs.\nWoman: Thank you for letting me know. I'll go check my backpack right now.",
+    "questionText": "What must the woman leave in the coat room?",
+    "options": [
+      "Her umbrella",
+      "Her large backpack",
+      "Her water bottle",
+      "Her winter jacket"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ phải gửi lại thứ gì ở phòng gửi đồ?\n(A) Chiếc ô của cô ấy\n(B) Chiếc ba lô lớn của cô ấy\n(C) Chai nước của cô ấy\n(D) Áo khoác mùa đông của cô ấy",
+    "explanation": "Nhân viên bảo tàng nhắc 'please leave your large backpack in our coat room', tức là phải gửi lại chiếc ba lô lớn như ở (B).",
+    "vocab": [
+      ["backpack", "n", "ba lô"],
+      ["coat room", "n", "phòng gửi áo khoác/hành lý"],
+      ["free of charge", "phr", "miễn phí"]
+    ]
+  },
+  {
+    "id": 57,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Welcome to the City History Museum. Before you enter the halls, please leave your large backpack in our coat room. It is free of charge.\nWoman: Oh, sure. Can I still carry my camera inside to take photos?\nMan: You may take photos in the main hall on the first floor, but cameras are not allowed in the old painting gallery upstairs.\nWoman: Thank you for letting me know. I'll go check my backpack right now.",
+    "questionText": "Where are visitors allowed to take photos?",
+    "options": [
+      "Only outside the museum building",
+      "In the old painting gallery upstairs",
+      "In the main hall on the first floor",
+      "Inside the museum gift shop"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khách tham quan được phép chụp ảnh ở đâu?\n(A) Chỉ ở bên ngoài tòa nhà bảo tàng\n(B) Trong phòng trưng bày tranh cổ ở tầng trên\n(C) Tại sảnh chính ở tầng một\n(D) Bên trong cửa hàng quà tặng của bảo tàng",
+    "explanation": "Người đàn ông nói rõ 'You may take photos in the main hall on the first floor', nghĩa là được phép chụp ảnh tại sảnh chính tầng một như ở (C).",
+    "vocab": [
+      ["carry", "v", "mang theo"],
+      ["allow", "v", "cho phép"],
+      ["painting gallery", "n", "phòng trưng bày tranh"]
+    ]
+  },
+  {
+    "id": 58,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Welcome to the City History Museum. Before you enter the halls, please leave your large backpack in our coat room. It is free of charge.\nWoman: Oh, sure. Can I still carry my camera inside to take photos?\nMan: You may take photos in the main hall on the first floor, but cameras are not allowed in the old painting gallery upstairs.\nWoman: Thank you for letting me know. I'll go check my backpack right now.",
+    "questionText": "What will the woman do next?",
+    "options": [
+      "Buy an entrance ticket",
+      "Drop off her backpack",
+      "Go upstairs to see the paintings",
+      "Ask for a museum guidebook"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì tiếp theo?\n(A) Mua vé vào cửa\n(B) Đi gửi chiếc ba lô của mình\n(C) Đi lên tầng trên để xem tranh\n(D) Xin một cuốn sách hướng dẫn bảo tàng",
+    "explanation": "Cuối hội thoại, người phụ nữ nói 'I'll go check my backpack right now' (trong ngữ cảnh phòng gửi đồ, 'check a bag/coat' là gửi đồ), tương ứng với (B) 'Drop off her backpack'.",
+    "vocab": [
+      ["upstairs", "adv", "ở tầng trên"],
+      ["let someone know", "phr", "cho ai đó biết"],
+      ["drop off", "phr", "đem gửi, để lại"]
+    ]
+  },
+  {
+    "id": 59,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Quick Clean Laundry. How can I help you today?\nMan: Hi, I spilled some tomato sauce on my gray suit jacket at a dinner party last night. Can you remove the stain?\nWoman: Let me take a look. Yes, we can dry-clean it with a special soap. When do you need the jacket back?\nMan: I have a business trip on Thursday morning, so I hope to get it by Wednesday evening.\nWoman: That's fine. It will be ready Wednesday after five o'clock.",
+    "questionText": "What item of clothing did the man bring?",
+    "options": [
+      "A white dress shirt",
+      "A gray suit jacket",
+      "A pair of black pants",
+      "A long winter coat"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông đã mang theo món trang phục nào?\n(A) Một chiếc áo sơ mi trắng\n(B) Một chiếc áo vest màu xám\n(C) Một chiếc quần dài màu đen\n(D) Một chiếc áo khoác dài mùa đông",
+    "explanation": "Người đàn ông nói anh ấy làm đổ sốt cà chua lên áo vest xám ('spilled some tomato sauce on my gray suit jacket'), khớp với phương án (B).",
+    "vocab": [
+      ["laundry", "n", "tiệm giặt là"],
+      ["spill", "v", "làm đổ, làm vương"],
+      ["suit jacket", "n", "áo khoác bộ vest"]
+    ]
+  },
+  {
+    "id": 60,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Quick Clean Laundry. How can I help you today?\nMan: Hi, I spilled some tomato sauce on my gray suit jacket at a dinner party last night. Can you remove the stain?\nWoman: Let me take a look. Yes, we can dry-clean it with a special soap. When do you need the jacket back?\nMan: I have a business trip on Thursday morning, so I hope to get it by Wednesday evening.\nWoman: That's fine. It will be ready Wednesday after five o'clock.",
+    "questionText": "Why does the man need the clothing back by Wednesday?",
+    "options": [
+      "He is attending a wedding.",
+      "He has a job interview.",
+      "He is going on a business trip.",
+      "He is lending it to his brother."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông cần lấy lại trang phục trước tối thứ Tư?\n(A) Anh ấy sẽ tham dự một đám cưới.\n(B) Anh ấy có một buổi phỏng vấn xin việc.\n(C) Anh ấy sẽ đi công tác.\n(D) Anh ấy sẽ cho anh trai mượn nó.",
+    "explanation": "Người đàn ông giải thích 'I have a business trip on Thursday morning, so I hope to get it by Wednesday evening', nghĩa là anh cần áo để đi công tác như ở (C).",
+    "vocab": [
+      ["remove", "v", "loại bỏ, tẩy sạch"],
+      ["stain", "n", "vết bẩn"],
+      ["business trip", "n", "chuyến công tác"]
+    ]
+  },
+  {
+    "id": 61,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Quick Clean Laundry. How can I help you today?\nMan: Hi, I spilled some tomato sauce on my gray suit jacket at a dinner party last night. Can you remove the stain?\nWoman: Let me take a look. Yes, we can dry-clean it with a special soap. When do you need the jacket back?\nMan: I have a business trip on Thursday morning, so I hope to get it by Wednesday evening.\nWoman: That's fine. It will be ready Wednesday after five o'clock.",
+    "questionText": "When can the man pick up his jacket?",
+    "options": [
+      "Tuesday after 5:00 P.M.",
+      "Wednesday before 12:00 P.M.",
+      "Wednesday after 5:00 P.M.",
+      "Thursday after 9:00 A.M."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khi nào người đàn ông có thể đến lấy áo khoác của mình?\n(A) Thứ Ba sau 5 giờ chiều.\n(B) Thứ Tư trước 12 giờ trưa.\n(C) Thứ Tư sau 5 giờ chiều.\n(D) Thứ Năm sau 9 giờ sáng.",
+    "explanation": "Người phụ nữ hẹn 'It will be ready Wednesday after five o'clock', tức là chiều thứ Tư sau 5 giờ như phương án (C).",
+    "vocab": [
+      ["dry-clean", "v", "giặt khô"],
+      ["special", "adj", "đặc biệt"],
+      ["ready", "adj", "sẵn sàng, đã xong"]
+    ]
+  },
+  {
+    "id": 62,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Man: Hello, I'd like to buy one train ticket to Green Valley for this afternoon.\nWoman: The next train to Green Valley leaves at one fifteen, and there is another one at three o'clock. Which one would you prefer?\nMan: I'll take the one fifteen train, please. Is there a café car on board where I can buy lunch?\nWoman: Yes, Car Number Three sells sandwiches, fruit, and hot drinks. The train will depart from Platform Two.",
+    "questionText": "Where is the man traveling to?",
+    "options": [
+      "Green Valley",
+      "Silver Lake",
+      "Oak Harbor",
+      "North Station"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông đang đi du lịch/di chuyển đến đâu?\n(A) Green Valley\n(B) Silver Lake\n(C) Oak Harbor\n(D) North Station",
+    "explanation": "Người đàn ông nói ngay câu đầu 'I'd like to buy one train ticket to Green Valley', nên điểm đến là Green Valley như phương án (A).",
+    "vocab": [
+      ["train ticket", "n", "vé tàu hỏa"],
+      ["prefer", "v", "thích hơn, ưu tiên chọn"],
+      ["on board", "phr", "trên tàu/xe/máy bay"]
+    ]
+  },
+  {
+    "id": 63,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Man: Hello, I'd like to buy one train ticket to Green Valley for this afternoon.\nWoman: The next train to Green Valley leaves at one fifteen, and there is another one at three o'clock. Which one would you prefer?\nMan: I'll take the one fifteen train, please. Is there a café car on board where I can buy lunch?\nWoman: Yes, Car Number Three sells sandwiches, fruit, and hot drinks. The train will depart from Platform Two.",
+    "questionText": "Which train does the man choose?",
+    "options": [
+      "The 12:00 P.M. train",
+      "The 1:15 P.M. train",
+      "The 2:30 P.M. train",
+      "The 3:00 P.M. train"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông chọn chuyến tàu nào?\n(A) Chuyến tàu lúc 12 giờ trưa\n(B) Chuyến tàu lúc 1 giờ 15 chiều\n(C) Chuyến tàu lúc 2 giờ 30 chiều\n(D) Chuyến tàu lúc 3 giờ chiều",
+    "explanation": "Người đàn ông trả lời 'I'll take the one fifteen train, please', tức là chọn chuyến tàu 1:15 chiều như ở (B). (D) là chuyến tàu muộn hơn mà anh ấy không chọn.",
+    "vocab": [
+      ["leave", "v", "rời đi, khởi hành"],
+      ["café car", "n", "toa ăn uống trên tàu"],
+      ["depart", "v", "khởi hành"]
+    ]
+  },
+  {
+    "id": 64,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Man: Hello, I'd like to buy one train ticket to Green Valley for this afternoon.\nWoman: The next train to Green Valley leaves at one fifteen, and there is another one at three o'clock. Which one would you prefer?\nMan: I'll take the one fifteen train, please. Is there a café car on board where I can buy lunch?\nWoman: Yes, Car Number Three sells sandwiches, fruit, and hot drinks. The train will depart from Platform Two.",
+    "questionText": "Where can the man buy food on the train?",
+    "options": [
+      "In Car Number One",
+      "In Car Number Two",
+      "In Car Number Three",
+      "In Car Number Four"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông có thể mua đồ ăn ở đâu trên tàu?\n(A) Tại Toa số một\n(B) Tại Toa số hai\n(C) Tại Toa số ba\n(D) Tại Toa số bốn",
+    "explanation": "Nhân viên bán vé cho biết 'Car Number Three sells sandwiches, fruit, and hot drinks', nên nơi bán đồ ăn là Toa số 3 như ở (C). Số 2 ở (B) là số sân ga (Platform Two).",
+    "vocab": [
+      ["sandwich", "n", "bánh mì kẹp"],
+      ["hot drink", "n", "đồ uống nóng"],
+      ["platform", "n", "sân ga"]
+    ]
+  },
+  {
+    "id": 65,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Woman: Hi, I brought my bicycle in because the front brake is making a loud noise when I stop.\nMan: Let me test it for a moment. Yes, the brake pads are worn out and need to be replaced. I can also oil the chain for you.\nWoman: How much will all of that cost, and when can I get my bike back?\nMan: It will be twenty-five dollars in total. If you leave it now, you can pick it up in one hour.",
+    "questionText": "What is wrong with the woman's bicycle?",
+    "options": [
+      "The seat is too low.",
+      "The back tire is flat.",
+      "The handlebars are bent.",
+      "The front brake is worn out."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Chiếc xe đạp của người phụ nữ bị làm sao?\n(A) Yên xe quá thấp.\n(B) Lốp sau bị xẹp.\n(C) Tay lái bị cong.\n(D) Phanh trước đã bị mòn.",
+    "explanation": "Người phụ nữ phản ánh phanh trước kêu to và thợ sửa xe xác nhận má phanh đã bị mòn ('the front brake... the brake pads are worn out'), khớp với (D).",
+    "vocab": [
+      ["brake", "n", "phanh, thắng xe"],
+      ["loud noise", "n", "tiếng ồn lớn"],
+      ["worn out", "adj", "bị mòn, hỏng do dùng lâu"]
+    ]
+  },
+  {
+    "id": 66,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Woman: Hi, I brought my bicycle in because the front brake is making a loud noise when I stop.\nMan: Let me test it for a moment. Yes, the brake pads are worn out and need to be replaced. I can also oil the chain for you.\nWoman: How much will all of that cost, and when can I get my bike back?\nMan: It will be twenty-five dollars in total. If you leave it now, you can pick it up in one hour.",
+    "questionText": "What else does the man offer to do?",
+    "options": [
+      "Wash the bike frame",
+      "Oil the bicycle chain",
+      "Install a front basket",
+      "Paint the wheels black"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông còn đề nghị làm thêm việc gì khác?\n(A) Rửa khung xe đạp\n(B) Tra dầu vào xích xe đạp\n(C) Lắp một chiếc giỏ xe phía trước\n(D) Sơn bánh xe màu đen",
+    "explanation": "Ngoài việc thay má phanh, người thợ nói 'I can also oil the chain for you', tức là tra dầu vào xích xe như ở phương án (B).",
+    "vocab": [
+      ["replace", "v", "thay thế"],
+      ["oil", "v", "tra dầu, bôi trơn"],
+      ["chain", "n", "dây xích xe"]
+    ]
+  },
+  {
+    "id": 67,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Woman: Hi, I brought my bicycle in because the front brake is making a loud noise when I stop.\nMan: Let me test it for a moment. Yes, the brake pads are worn out and need to be replaced. I can also oil the chain for you.\nWoman: How much will all of that cost, and when can I get my bike back?\nMan: It will be twenty-five dollars in total. If you leave it now, you can pick it up in one hour.",
+    "questionText": "How long will the repair take?",
+    "options": [
+      "Fifteen minutes",
+      "One hour",
+      "Two days",
+      "One week"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Việc sửa chữa sẽ mất bao lâu?\n(A) Mười lăm phút\n(B) Một giờ đồng hồ\n(C) Hai ngày\n(D) Một tuần",
+    "explanation": "Người thợ nói 'If you leave it now, you can pick it up in one hour', nghĩa là việc sửa chữa mất 1 giờ đồng hồ như ở (B).",
+    "vocab": [
+      ["in total", "phr", "tổng cộng"],
+      ["leave", "v", "để lại"],
+      ["pick up", "phr", "đến lấy"]
+    ]
+  },
+  {
+    "id": 68,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Man: Welcome to Blossom Flower Shop. Are you looking for something for a special occasion?\nWoman: Yes, our office secretary, Ms. Hall, is retiring this Friday, and our team wants to give her a basket of flowers.\nMan: That's very kind. Do you know what her favorite colors are?\nWoman: She loves yellow and pink. Could you deliver the basket to our office on King Street by eleven o'clock on Friday?\nMan: Certainly! Let's write down the delivery address and a short message for the card.",
+    "questionText": "Why is the woman buying flowers?",
+    "options": [
+      "For an office opening party",
+      "For her mother's birthday",
+      "For a coworker who is retiring",
+      "For a hotel lobby table"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ lại mua hoa?\n(A) Cho bữa tiệc khai trương văn phòng\n(B) Cho sinh nhật mẹ của cô ấy\n(C) Cho một đồng nghiệp sắp nghỉ hưu\n(D) Cho bàn sảnh chờ khách sạn",
+    "explanation": "Người phụ nữ nói thư ký văn phòng là bà Hall sẽ nghỉ hưu vào thứ Sáu này ('our office secretary, Ms. Hall, is retiring this Friday') và cả nhóm muốn tặng hoa, khớp với (C).",
+    "vocab": [
+      ["occasion", "n", "dịp (đặc biệt)"],
+      ["secretary", "n", "thư ký"],
+      ["retire", "v", "nghỉ hưu"]
+    ]
+  },
+  {
+    "id": 69,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Man: Welcome to Blossom Flower Shop. Are you looking for something for a special occasion?\nWoman: Yes, our office secretary, Ms. Hall, is retiring this Friday, and our team wants to give her a basket of flowers.\nMan: That's very kind. Do you know what her favorite colors are?\nWoman: She loves yellow and pink. Could you deliver the basket to our office on King Street by eleven o'clock on Friday?\nMan: Certainly! Let's write down the delivery address and a short message for the card.",
+    "questionText": "What colors does Ms. Hall like?",
+    "options": [
+      "Red and white",
+      "Blue and purple",
+      "Yellow and pink",
+      "Orange and green"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bà Hall thích những màu sắc nào?\n(A) Đỏ và trắng\n(B) Xanh dương và tím\n(C) Vàng và hồng\n(D) Cam và xanh lá",
+    "explanation": "Khi được hỏi về màu yêu thích của bà Hall, người phụ nữ đáp 'She loves yellow and pink', tương ứng với phương án (C).",
+    "vocab": [
+      ["favorite", "adj", "yêu thích nhất"],
+      ["basket", "n", "giỏ, lẵng (hoa)"],
+      ["deliver", "v", "giao hàng"]
+    ]
+  },
+  {
+    "id": 70,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Man: Welcome to Blossom Flower Shop. Are you looking for something for a special occasion?\nWoman: Yes, our office secretary, Ms. Hall, is retiring this Friday, and our team wants to give her a basket of flowers.\nMan: That's very kind. Do you know what her favorite colors are?\nWoman: She loves yellow and pink. Could you deliver the basket to our office on King Street by eleven o'clock on Friday?\nMan: Certainly! Let's write down the delivery address and a short message for the card.",
+    "questionText": "Where should the flowers be delivered?",
+    "options": [
+      "To a restaurant on Park Avenue",
+      "To an office on King Street",
+      "To Ms. Hall's house",
+      "To a train station café"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Giỏ hoa cần được giao đến đâu?\n(A) Đến một nhà hàng trên đại lộ Park\n(B) Đến một văn phòng trên đường King\n(C) Đến nhà riêng của bà Hall\n(D) Đến quán cà phê ở nhà ga tàu hỏa",
+    "explanation": "Người phụ nữ yêu cầu giao giỏ hoa đến văn phòng của họ trên đường King ('deliver the basket to our office on King Street'), khớp với (B).",
+    "vocab": [
+      ["delivery address", "n", "địa chỉ giao hàng"],
+      ["message", "n", "lời nhắn"],
+      ["card", "n", "tấm thiệp"]
+    ]
+  }
+]

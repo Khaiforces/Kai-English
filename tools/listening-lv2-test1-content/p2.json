@@ -1,0 +1,477 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "When will the office painting project be finished?",
+    "questionVi": "Khi nào dự án sơn lại văn phòng sẽ hoàn thành?",
+    "options": [
+      "By Friday afternoon, if everything goes well.",
+      "We chose a light gray color for the lobby.",
+      "On the fourth floor near the elevators."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khi nào dự án sơn lại văn phòng sẽ hoàn thành?\n(A) Trước chiều thứ Sáu, nếu mọi việc suôn sẻ.\n(B) Chúng tôi đã chọn màu xám nhạt cho sảnh.\n(C) Ở tầng bốn gần thang máy.",
+    "explanation": "Câu hỏi bắt đầu bằng 'When' hỏi mốc thời gian hoàn thành. Phương án (A) trả lời đúng thời điểm 'By Friday afternoon'. (B) nói về màu sơn và (C) trả lời cho câu hỏi 'Where'.",
+    "vocab": [
+      ["project", "n", "dự án"],
+      ["lobby", "n", "sảnh chờ"],
+      ["elevator", "n", "thang máy"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Where can I pick up a new employee ID badge?",
+    "questionVi": "Tôi có thể nhận thẻ nhân viên mới ở đâu?",
+    "options": [
+      "Yes, everyone has to wear one.",
+      "At the security desk on the ground floor.",
+      "No later than nine o'clock tomorrow."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Tôi có thể nhận thẻ nhân viên mới ở đâu?\n(A) Vâng, mọi người đều phải đeo một cái.\n(B) Tại bàn bảo vệ ở tầng trệt.\n(C) Không muộn hơn chín giờ ngày mai.",
+    "explanation": "Câu hỏi 'Where' cần câu trả lời chỉ địa điểm. Phương án (B) chỉ rõ nơi nhận thẻ là bàn bảo vệ tầng trệt. (A) là câu trả lời Yes/No không phù hợp và (C) chỉ thời gian.",
+    "vocab": [
+      ["pick up", "phr", "nhận, lấy"],
+      ["security desk", "n", "bàn bảo vệ"],
+      ["ground floor", "n", "tầng trệt"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "Who is leading the customer service workshop tomorrow?",
+    "questionVi": "Ai sẽ hướng dẫn buổi hội thảo chăm sóc khách hàng ngày mai?",
+    "options": [
+      "At two o'clock in the main hall.",
+      "To improve our phone support skills.",
+      "Ms. Sato from the human resources team."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Ai sẽ hướng dẫn buổi hội thảo chăm sóc khách hàng ngày mai?\n(A) Lúc hai giờ tại hội trường chính.\n(B) Để cải thiện kỹ năng hỗ trợ qua điện thoại.\n(C) Cô Sato từ bộ phận nhân sự.",
+    "explanation": "Câu hỏi 'Who' hỏi về người phụ trách. Phương án (C) nêu đúng tên và bộ phận của người hướng dẫn. (A) trả lời giờ/nơi chốn còn (B) trả lời mục đích.",
+    "vocab": [
+      ["lead", "v", "dẫn dắt, phụ trách"],
+      ["workshop", "n", "buổi hội thảo thực hành"],
+      ["human resources", "n", "phòng nhân sự"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "Why was our afternoon flight to Busan delayed?",
+    "questionVi": "Tại sao chuyến bay buổi chiều đi Busan của chúng ta bị hoãn?",
+    "options": [
+      "Because of heavy rain near the airport.",
+      "It leaves from gate fourteen.",
+      "Only two nights at a hotel."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao chuyến bay buổi chiều đi Busan của chúng ta bị hoãn?\n(A) Vì mưa lớn gần sân bay.\n(B) Chuyến bay khởi hành từ cổng số mười bốn.\n(C) Chỉ hai đêm tại một khách sạn.",
+    "explanation": "Câu hỏi 'Why' hỏi lý do chuyến bay bị trễ. Phương án (A) đưa ra nguyên nhân trực tiếp bằng 'Because of...'. (B) nói về cổng khởi hành và (C) nói về số đêm ở khách sạn.",
+    "vocab": [
+      ["flight", "n", "chuyến bay"],
+      ["delay", "v", "trì hoãn"],
+      ["gate", "n", "cổng (sân bay)"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "How are we sending the signed contracts to the main office?",
+    "questionVi": "Chúng ta sẽ gửi các bản hợp đồng đã ký về văn phòng chính bằng cách nào?",
+    "options": [
+      "By express courier this morning.",
+      "The manager signed them yesterday.",
+      "In the envelope on your left."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chúng ta sẽ gửi các bản hợp đồng đã ký về văn phòng chính bằng cách nào?\n(A) Bằng chuyển phát nhanh sáng nay.\n(B) Quản lý đã ký chúng hôm qua.\n(C) Trong chiếc phong bì bên trái bạn.",
+    "explanation": "Câu hỏi 'How' hỏi phương thức gửi tài liệu. Phương án (A) trả lời chính xác phương thức 'By express courier'. (B) lặp lại từ 'signed' và (C) trả lời câu hỏi 'Where'.",
+    "vocab": [
+      ["signed", "adj", "đã được ký"],
+      ["express courier", "n", "dịch vụ chuyển phát nhanh"],
+      ["envelope", "n", "phong bì"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Did you remember to turn off the air conditioner in Room 302?",
+    "questionVi": "Bạn có nhớ tắt máy điều hòa ở Phòng 302 không?",
+    "options": [
+      "Yes, it was much colder yesterday.",
+      "Actually, Ms. Park is still working in there.",
+      "The repair crew arrived at noon."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có nhớ tắt máy điều hòa ở Phòng 302 không?\n(A) Vâng, hôm qua trời lạnh hơn nhiều.\n(B) Thật ra cô Park vẫn đang làm việc ở trong đó.\n(C) Đội sửa chữa đã đến vào buổi trưa.",
+    "explanation": "Đây là câu hỏi Yes/No nhưng đáp án (B) trả lời gián tiếp rất tự nhiên: chưa tắt vì vẫn có người đang làm việc trong phòng. (A) và (C) không giải đáp đúng ý hỏi.",
+    "vocab": [
+      ["air conditioner", "n", "máy điều hòa"],
+      ["repair crew", "n", "đội sửa chữa"],
+      ["actually", "adv", "thật ra"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Would you prefer to meet on Tuesday morning or Wednesday afternoon?",
+    "questionVi": "Bạn thích gặp nhau vào sáng thứ Ba hay chiều thứ Tư hơn?",
+    "options": [
+      "Yes, we should meet more often.",
+      "At the coffee shop downstairs.",
+      "Wednesday works much better for me."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn thích gặp nhau vào sáng thứ Ba hay chiều thứ Tư hơn?\n(A) Vâng, chúng ta nên gặp nhau thường xuyên hơn.\n(B) Tại quán cà phê ở tầng dưới.\n(C) Thứ Tư thuận tiện cho tôi hơn nhiều.",
+    "explanation": "Với câu hỏi lựa chọn (A or B), không trả lời Yes/No như (A) mà chọn một phương án cụ thể. Phương án (C) chọn 'Wednesday' hợp lý. (B) trả lời địa điểm thay vì thời gian.",
+    "vocab": [
+      ["prefer", "v", "thích hơn"],
+      ["downstairs", "adv", "ở tầng dưới"],
+      ["work for someone", "phr", "phù hợp/thuận tiện với ai"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "What did Mr. Evans say about our budget proposal?",
+    "questionVi": "Ông Evans đã nói gì về bản đề xuất ngân sách của chúng ta?",
+    "options": [
+      "He asked us to lower the travel costs.",
+      "The meeting starts in twenty minutes.",
+      "Yes, I read the whole report."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Ông Evans đã nói gì về bản đề xuất ngân sách của chúng ta?\n(A) Ông ấy yêu cầu chúng ta giảm chi phí đi lại.\n(B) Cuộc họp bắt đầu sau hai mươi phút nữa.\n(C) Vâng, tôi đã đọc toàn bộ báo cáo.",
+    "explanation": "Câu hỏi 'What' hỏi ý kiến phản hồi của ông Evans. Phương án (A) thuật lại đúng điều ông ấy nói. (B) nói giờ họp và (C) trả lời Yes/No cho câu hỏi What.",
+    "vocab": [
+      ["budget proposal", "n", "bản đề xuất ngân sách"],
+      ["lower", "v", "giảm xuống"],
+      ["travel costs", "n", "chi phí đi lại"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "Could you help me carry these supply boxes to the storage room?",
+    "questionVi": "Bạn có thể giúp tôi khiêng mấy thùng đồ văn phòng phẩm này vào phòng kho không?",
+    "options": [
+      "We ordered fifty boxes last week.",
+      "Sure, just let me save this file first.",
+      "The supply store closes at six."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có thể giúp tôi khiêng mấy thùng đồ văn phòng phẩm này vào phòng kho không?\n(A) Tuần trước chúng tôi đã đặt năm mươi thùng.\n(B) Được chứ, chỉ cần để tôi lưu tệp này trước đã.\n(C) Cửa hàng vật tư đóng cửa lúc sáu giờ.",
+    "explanation": "'Could you help me...' là lời nhờ giúp đỡ. Phương án (B) nhận lời lịch sự ('Sure') kèm một chút chờ đợi lưu tệp. (A) và (C) dùng bẫy lặp từ 'boxes' và 'supply'.",
+    "vocab": [
+      ["carry", "v", "mang, khiêng"],
+      ["storage room", "n", "phòng kho"],
+      ["save a file", "phr", "lưu tệp tin"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "The downtown coffee shop opens at seven, doesn't it?",
+    "questionVi": "Quán cà phê ở trung tâm mở cửa lúc bảy giờ phải không?",
+    "options": [
+      "I prefer tea without sugar.",
+      "Seven dollars for a large cup.",
+      "Yes, I stop by there before work every day."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Quán cà phê ở trung tâm mở cửa lúc bảy giờ phải không?\n(A) Tôi thích trà không đường hơn.\n(B) Bảy đô la cho một ly lớn.\n(C) Đúng rồi, ngày nào trước khi đi làm tôi cũng ghé qua đó.",
+    "explanation": "Câu hỏi đuôi 'doesn't it?' cần câu xác nhận. Phương án (C) trả lời 'Yes' và bổ sung thói quen ghé quán trước giờ làm. (A) lệch trọng tâm câu hỏi giờ mở cửa, còn (B) bẫy lặp từ 'seven'.",
+    "vocab": [
+      ["downtown", "adj/adv", "khu trung tâm thành phố"],
+      ["stop by", "phr", "ghé qua"],
+      ["without", "prep", "không có"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "How long will it take to repair the front entrance door?",
+    "questionVi": "Sẽ mất bao lâu để sửa cánh cửa ra vào phía trước?",
+    "options": [
+      "About two hours, according to the technician.",
+      "Please use the side entrance today.",
+      "No, the door isn't locked."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Sẽ mất bao lâu để sửa cánh cửa ra vào phía trước?\n(A) Khoảng hai tiếng, theo lời kỹ thuật viên.\n(B) Hôm nay vui lòng sử dụng lối vào bên hông.\n(C) Không, cửa không bị khóa đâu.",
+    "explanation": "Câu hỏi 'How long' hỏi khoảng thời gian. Phương án (A) cung cấp đúng thời lượng 'About two hours'. (B) là hướng dẫn đi lối khác và (C) trả lời trạng thái khóa cửa.",
+    "vocab": [
+      ["entrance", "n", "lối vào"],
+      ["according to", "prep", "theo như"],
+      ["technician", "n", "kỹ thuật viên"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "We ran out of paper towels in the staff kitchen.",
+    "questionVi": "Trong bếp nhân viên hết khăn giấy rồi.",
+    "options": [
+      "The kitchen was cleaned this morning.",
+      "I'll bring a new pack from the supply closet.",
+      "No, I usually bring lunch from home."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Trong bếp nhân viên hết khăn giấy rồi.\n(A) Nhà bếp đã được dọn sạch sáng nay.\n(B) Tôi sẽ mang một gói mới từ tủ vật tư sang.\n(C) Không, tôi thường mang cơm trưa từ nhà đi.",
+    "explanation": "Với câu trần thuật báo hết đồ dùng, phản hồi hợp lý nhất là đưa ra giải pháp xử lý như ở (B). (A) lặp từ 'kitchen' còn (C) trả lời không liên quan.",
+    "vocab": [
+      ["run out of", "phr", "hết, cạn kiệt"],
+      ["paper towel", "n", "khăn giấy"],
+      ["supply closet", "n", "tủ chứa đồ dùng"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "Which folder contains the invoices from last month?",
+    "questionVi": "Bìa hồ sơ nào chứa các hóa đơn của tháng trước?",
+    "options": [
+      "We paid them before the deadline.",
+      "Yes, I checked the total amount.",
+      "The green one on the top shelf."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bìa hồ sơ nào chứa các hóa đơn của tháng trước?\n(A) Chúng ta đã thanh toán trước hạn chót.\n(B) Vâng, tôi đã kiểm tra tổng số tiền.\n(C) Chiếc màu xanh lá ở trên kệ cao nhất.",
+    "explanation": "Câu hỏi 'Which folder' yêu cầu xác định đúng vật cần tìm. Phương án (C) chỉ rõ màu sắc và vị trí chiếc bìa hồ sơ. (A) nói về việc trả tiền còn (B) trả lời Yes/No sai dạng.",
+    "vocab": [
+      ["folder", "n", "bìa hồ sơ, thư mục"],
+      ["contain", "v", "chứa đựng"],
+      ["invoice", "n", "hóa đơn"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "Why don't we order lunch from the sandwich place across the street?",
+    "questionVi": "Sao chúng ta không đặt bữa trưa từ quán bánh mì kẹp bên kia đường nhỉ?",
+    "options": [
+      "That sounds great, I'm getting hungry.",
+      "Because the street is very busy at noon.",
+      "It was delivered an hour ago."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Sao chúng ta không đặt bữa trưa từ quán bánh mì kẹp bên kia đường nhỉ?\n(A) Nghe tuyệt đấy, tôi cũng bắt đầu thấy đói rồi.\n(B) Bởi vì con đường rất đông vào buổi trưa.\n(C) Nó đã được giao từ một tiếng trước rồi.",
+    "explanation": "'Why don't we...' là câu gợi ý chứ không hỏi nguyên nhân, nên (B) bắt đầu bằng 'Because' là bẫy quen thuộc. Phương án (A) tán thành lời đề nghị tự nhiên nhất.",
+    "vocab": [
+      ["across the street", "phr", "ở bên kia đường"],
+      ["hungry", "adj", "đói bụng"],
+      ["busy", "adj", "đông đúc, bận rộn"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "Have the conference room microphones been tested yet?",
+    "questionVi": "Các chiếc micro trong phòng họp đã được kiểm tra chưa?",
+    "options": [
+      "I saw an assistant checking them ten minutes ago.",
+      "The conference begins next Monday.",
+      "Please speak a little louder."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Các chiếc micro trong phòng họp đã được kiểm tra chưa?\n(A) Tôi thấy một trợ lý kiểm tra chúng cách đây mười phút.\n(B) Hội nghị bắt đầu vào thứ Hai tới.\n(C) Vui lòng nói to hơn một chút.",
+    "explanation": "Câu hỏi Yes/No nhưng (A) trả lời gián tiếp bằng bằng chứng quan sát được (trợ lý vừa kiểm tra 10 phút trước). (B) bẫy lặp từ 'conference' và (C) không trả lời câu hỏi.",
+    "vocab": [
+      ["microphone", "n", "micrô"],
+      ["assistant", "n", "trợ lý"],
+      ["test", "v", "kiểm tra, thử nghiệm"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "Who should I contact if the software crashes again?",
+    "questionVi": "Tôi nên liên hệ với ai nếu phần mềm lại bị treo?",
+    "options": [
+      "It happened twice yesterday morning.",
+      "Try calling extension 415 for IT support.",
+      "Yes, we updated the program last night."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Tôi nên liên hệ với ai nếu phần mềm lại bị treo?\n(A) Chuyện đó đã xảy ra hai lần sáng hôm qua.\n(B) Hãy thử gọi số máy lẻ 415 gặp bộ phận hỗ trợ công nghệ thông tin.\n(C) Vâng, tối qua chúng tôi đã cập nhật chương trình.",
+    "explanation": "Câu hỏi 'Who should I contact' cần người hoặc bộ phận liên hệ. Phương án (B) hướng dẫn gọi bộ phận hỗ trợ qua số máy lẻ 415. (A) và (C) không nêu đầu mối liên hệ.",
+    "vocab": [
+      ["software", "n", "phần mềm"],
+      ["crash", "v", "bị treo, sập (máy/phần mềm)"],
+      ["extension", "n", "số máy lẻ nội bộ"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "How much does it cost to park in the visitor garage?",
+    "questionVi": "Đỗ xe ở nhà xe dành cho khách tốn bao nhiêu tiền?",
+    "options": [
+      "The park is two blocks north of here.",
+      "There are plenty of empty spaces.",
+      "It's free if you validate your ticket at reception."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Đỗ xe ở nhà xe dành cho khách tốn bao nhiêu tiền?\n(A) Công viên nằm cách đây hai dãy nhà về phía bắc.\n(B) Có rất nhiều chỗ trống.\n(C) Miễn phí nếu bạn xác nhận vé ở quầy lễ tân.",
+    "explanation": "Câu hỏi 'How much' hỏi giá tiền. Phương án (C) cho biết mức phí ('free' nếu xác nhận vé). (A) dùng bẫy đồng âm/đa nghĩa của từ 'park' (đỗ xe vs công viên) và (B) nói về số chỗ trống.",
+    "vocab": [
+      ["garage", "n", "nhà để xe"],
+      ["validate", "v", "xác nhận, đóng dấu hợp lệ (vé)"],
+      ["plenty of", "phr", "rất nhiều"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "Aren't you taking the train to the factory visit?",
+    "questionVi": "Không phải bạn sẽ đi tàu tới chuyến thăm nhà máy sao?",
+    "options": [
+      "No, I'm driving there with Kevin.",
+      "The training session was very helpful.",
+      "Around three hundred workers."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Không phải bạn sẽ đi tàu tới chuyến thăm nhà máy sao?\n(A) Không, tôi sẽ lái xe đến đó cùng Kevin.\n(B) Buổi đào tạo rất hữu ích.\n(C) Khoảng ba trăm công nhân.",
+    "explanation": "Câu hỏi phủ định 'Aren't you...' xác nhận phương tiện di chuyển. Phương án (A) đính chính rõ ràng là sẽ lái xe cùng Kevin. (B) bẫy từ gần âm 'train / training' và (C) trả lời số lượng công nhân.",
+    "vocab": [
+      ["factory", "n", "nhà máy"],
+      ["visit", "n", "chuyến tham quan, thăm"],
+      ["drive", "v", "lái xe"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "I'm having trouble connecting my laptop to the office Wi-Fi.",
+    "questionVi": "Tôi đang gặp khó khăn khi kết nối máy tính xách tay với mạng không dây văn phòng.",
+    "options": [
+      "You might need to restart the computer first.",
+      "My desk is right next to the printer.",
+      "Yes, I bought a new laptop last month."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tôi đang gặp khó khăn khi kết nối máy tính xách tay với mạng không dây văn phòng.\n(A) Có lẽ bạn cần khởi động lại máy tính trước.\n(B) Bàn làm việc của tôi ở ngay cạnh máy in.\n(C) Vâng, tháng trước tôi đã mua máy tính xách tay mới.",
+    "explanation": "Câu trần thuật nêu vấn đề kỹ thuật nên câu đáp phù hợp là lời khuyên khắc phục ở (A). (B) nói vị trí bàn làm việc và (C) lặp lại từ 'laptop' lạc đề.",
+    "vocab": [
+      ["have trouble", "phr", "gặp khó khăn"],
+      ["connect", "v", "kết nối"],
+      ["restart", "v", "khởi động lại"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "When does the autumn sale begin at our retail stores?",
+    "questionVi": "Đợt giảm giá mùa thu tại các cửa hàng bán lẻ của chúng ta khi nào bắt đầu?",
+    "options": [
+      "Let me check the marketing calendar on my desk.",
+      "All winter coats are thirty percent off.",
+      "No, the store is open until nine."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Đợt giảm giá mùa thu tại các cửa hàng bán lẻ của chúng ta khi nào bắt đầu?\n(A) Để tôi xem lại lịch tiếp thị trên bàn làm việc nhé.\n(B) Tất cả áo khoác mùa đông đều được giảm ba mươi phần trăm.\n(C) Không, cửa hàng mở cửa đến chín giờ.",
+    "explanation": "Câu hỏi 'When' được trả lời gián tiếp bằng cách kiểm tra lịch để lấy ngày chính xác ở (A). (B) nói mức giảm giá và (C) trả lời giờ đóng cửa.",
+    "vocab": [
+      ["retail store", "n", "cửa hàng bán lẻ"],
+      ["calendar", "n", "lịch"],
+      ["percent off", "phr", "giảm giá phần trăm"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "Where did you put the keys to the delivery truck?",
+    "questionVi": "Bạn đã để chìa khóa của xe tải giao hàng ở đâu?",
+    "options": [
+      "It delivers packages every morning.",
+      "Didn't Marco take them out to the loading dock?",
+      "Sure, I can drive the truck today."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn đã để chìa khóa của xe tải giao hàng ở đâu?\n(A) Nó giao các kiện hàng mỗi sáng.\n(B) Chẳng phải Marco đã mang chúng ra khu bốc hàng rồi sao?\n(C) Chắc chắn rồi, hôm nay tôi có thể lái xe tải.",
+    "explanation": "Đáp án (B) trả lời câu hỏi 'Where' bằng một câu hỏi ngược gợi ý vị trí/người đang giữ chìa khóa (Marco mang ra khu bốc hàng). (A) và (C) lặp từ 'deliver' và 'truck' nhưng không nói chỗ để chìa khóa.",
+    "vocab": [
+      ["key", "n", "chìa khóa"],
+      ["delivery truck", "n", "xe tải giao hàng"],
+      ["loading dock", "n", "khu vực bốc dỡ hàng"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "Would you like a printed copy of the meeting agenda?",
+    "questionVi": "Bạn có muốn một bản in chương trình cuộc họp không?",
+    "options": [
+      "The printer is on the second floor.",
+      "We meet every Tuesday morning.",
+      "No thanks, I already downloaded it."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn có muốn một bản in chương trình cuộc họp không?\n(A) Máy in nằm ở tầng hai.\n(B) Chúng tôi họp vào mỗi sáng thứ Ba.\n(C) Không cảm ơn, tôi đã tải nó về rồi.",
+    "explanation": "'Would you like...' là lời đề nghị. Phương án (C) từ chối lịch sự và nêu lý do đã tải bản điện tử về rồi. (A) và (B) chỉ lặp lại từ 'print' và 'meet'.",
+    "vocab": [
+      ["printed copy", "n", "bản in"],
+      ["agenda", "n", "chương trình nghị sự, lịch họp"],
+      ["download", "v", "tải xuống"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "How often does the shuttle bus run between the two buildings?",
+    "questionVi": "Xe buýt trung chuyển chạy giữa hai tòa nhà bao lâu một chuyến?",
+    "options": [
+      "Between nine and ten people.",
+      "Every fifteen minutes during business hours.",
+      "Just across from the train station."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Xe buýt trung chuyển chạy giữa hai tòa nhà bao lâu một chuyến?\n(A) Khoảng từ chín đến mười người.\n(B) Mười lăm phút một chuyến trong giờ làm việc.\n(C) Ngay đối diện ga tàu.",
+    "explanation": "Câu hỏi 'How often' hỏi tần suất. Phương án (B) trả lời đúng tần suất 'Every fifteen minutes'. (A) bẫy từ 'between' để nói số người, còn (C) nói vị trí.",
+    "vocab": [
+      ["shuttle bus", "n", "xe buýt trung chuyển"],
+      ["business hours", "n", "giờ làm việc, giờ hành chính"],
+      ["across from", "prep", "đối diện với"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "Why isn't Rachel at her desk this morning?",
+    "questionVi": "Tại sao sáng nay Rachel không có mặt ở bàn làm việc?",
+    "options": [
+      "She has a dentist appointment until noon.",
+      "The desk needs a new lamp.",
+      "Yes, she finished her project early."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao sáng nay Rachel không có mặt ở bàn làm việc?\n(A) Cô ấy có lịch hẹn nha sĩ cho đến trưa.\n(B) Bàn làm việc cần một chiếc đèn mới.\n(C) Vâng, cô ấy đã hoàn thành dự án sớm.",
+    "explanation": "Câu hỏi 'Why' hỏi lý do vắng mặt. Phương án (A) giải thích rõ lý do cô ấy đi khám răng đến trưa. (B) lặp từ 'desk' còn (C) là câu trả lời Yes/No sai dạng.",
+    "vocab": [
+      ["dentist", "n", "nha sĩ"],
+      ["appointment", "n", "cuộc hẹn"],
+      ["until noon", "phr", "cho đến buổi trưa"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "What time do the guests from Milan arrive at the hotel?",
+    "questionVi": "Mấy giờ các vị khách từ Milan sẽ đến khách sạn?",
+    "options": [
+      "They are staying in three single rooms.",
+      "Yes, the hotel is near the beach.",
+      "Their plane lands at six thirty, so around seven thirty."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Mấy giờ các vị khách từ Milan sẽ đến khách sạn?\n(A) Họ ở trong ba phòng đơn.\n(B) Vâng, khách sạn nằm gần bãi biển.\n(C) Máy bay của họ hạ cánh lúc sáu rưỡi, nên khoảng bảy rưỡi họ tới.",
+    "explanation": "Câu hỏi 'What time' hỏi giờ giấc. Phương án (C) ước tính chính xác giờ đến dựa trên giờ máy bay hạ cánh. (A) nói về loại phòng và (B) trả lời Yes/No không phù hợp.",
+    "vocab": [
+      ["guest", "n", "vị khách"],
+      ["land", "v", "hạ cánh"],
+      ["single room", "n", "phòng đơn"]
+    ]
+  }
+]

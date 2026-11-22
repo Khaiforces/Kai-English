@@ -1,0 +1,1913 @@
+[
+  {
+    "id": 32,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g1",
+    "audioScript": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "audioVoiceText": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "questionText": "What issue did the woman discover in the due-diligence binder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A subsidiary has an undocumented legal liability."
+      },
+      {
+        "key": "B",
+        "text": "(B) An acquisition target overstated its quarterly revenue."
+      },
+      {
+        "key": "C",
+        "text": "(C) A European distributor terminated its supply contract."
+      },
+      {
+        "key": "D",
+        "text": "(D) An escrow account was opened at an unapproved bank."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ phát hiện vấn đề gì trong hồ sơ thẩm định?\n(A) Một công ty con có khoản trách nhiệm pháp lý chưa được phản ánh đầy đủ.\n(B) Công ty mục tiêu khai khống doanh thu quý.\n(C) Một nhà phân phối châu Âu đã chấm dứt hợp đồng.\n(D) Tài khoản ký quỹ được mở tại ngân hàng chưa phê duyệt.",
+    "explanation": "Người phụ nữ nói công ty con tại châu Âu có tranh chấp bồi thường chưa giải quyết (unresolved indemnity dispute) chưa được tính vào khoản ký quỹ.",
+    "vocab": [
+      [
+        "due diligence",
+        "n.",
+        "thẩm định chuyên sâu"
+      ],
+      [
+        "indemnity",
+        "n.",
+        "sự bồi thường, miễn trừ trách nhiệm"
+      ],
+      [
+        "escrow holdback",
+        "n.",
+        "khoản tiền giữ lại trong tài khoản ký quỹ"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g1",
+    "audioScript": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "audioVoiceText": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "questionText": "Why was the man initially unconcerned about the dispute?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) He believed the opposing counsel had provided proof of dismissal."
+      },
+      {
+        "key": "B",
+        "text": "(B) He thought the dispute fell below the materiality threshold."
+      },
+      {
+        "key": "C",
+        "text": "(C) He had been told by the seller’s lawyers that the matter was closed."
+      },
+      {
+        "key": "D",
+        "text": "(D) He assumed the insurance policy covered former distributors."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao ban đầu người đàn ông không lo lắng về vụ tranh chấp?\n(A) Anh ấy tin rằng luật sư đối phương đã nộp bằng chứng bác đơn.\n(B) Anh ấy nghĩ vụ việc thấp hơn ngưỡng trọng yếu.\n(C) Luật sư bên bán đã nói với anh ấy rằng vụ việc đã được bác bỏ.\n(D) Anh ấy cho rằng bảo hiểm chi trả cho các nhà phân phối cũ.",
+    "explanation": "Người đàn ông nói: \"Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\"",
+    "vocab": [
+      [
+        "due diligence",
+        "n.",
+        "thẩm định chuyên sâu"
+      ],
+      [
+        "indemnity",
+        "n.",
+        "sự bồi thường, miễn trừ trách nhiệm"
+      ],
+      [
+        "escrow holdback",
+        "n.",
+        "khoản tiền giữ lại trong tài khoản ký quỹ"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g1",
+    "audioScript": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "audioVoiceText": "Woman: Marcus, I just finished reviewing the due-diligence binder for the Veridian acquisition, and Clause 14 caught my attention. Their European subsidiary has an unresolved indemnity dispute with a former distributor that is not reflected in the escrow calculation.\nMan: Good catch, Elena. Their legal counsel assured us last Tuesday that the claim had been dismissed, but clearly they never uploaded the final settlement order.\nWoman: Unless they furnish court-certified documentation before Friday, we should increase the escrow holdback by two million dollars to insulate ourselves against post-closing liability.\nMan: Agreed. I will draft an addendum to the purchase agreement this afternoon and have the managing partner circulate it to their board.",
+    "questionText": "What will the speakers do if official documentation is not received by Friday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Withdraw from the acquisition negotiations entirely"
+      },
+      {
+        "key": "B",
+        "text": "(B) Retain a larger portion of the purchase price in escrow"
+      },
+      {
+        "key": "C",
+        "text": "(C) Petition the court for an emergency injunction"
+      },
+      {
+        "key": "D",
+        "text": "(D) Replace the managing partner leading the transaction"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hai người nói sẽ làm gì nếu không nhận được văn bản chính thức trước thứ Sáu?\n(A) Rút hoàn toàn khỏi đàm phán mua lại.\n(B) Giữ lại một phần lớn hơn của giá mua trong tài khoản ký quỹ.\n(C) Đề nghị tòa án ra lệnh khẩn cấp.\n(D) Thay thế luật sư điều hành phụ trách giao dịch.",
+    "explanation": "Họ thống nhất: \"increase the escrow holdback by two million dollars\" và người đàn ông sẽ soạn phụ lục hợp đồng mua bán.",
+    "vocab": [
+      [
+        "due diligence",
+        "n.",
+        "thẩm định chuyên sâu"
+      ],
+      [
+        "indemnity",
+        "n.",
+        "sự bồi thường, miễn trừ trách nhiệm"
+      ],
+      [
+        "escrow holdback",
+        "n.",
+        "khoản tiền giữ lại trong tài khoản ký quỹ"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g2",
+    "audioScript": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "audioVoiceText": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "questionText": "Why has the shipment been detained in Rotterdam?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The refrigeration unit malfunctioned during transit."
+      },
+      {
+        "key": "B",
+        "text": "(B) A shipping document was missing an official authentication."
+      },
+      {
+        "key": "C",
+        "text": "(C) The import tariff had not been paid in advance."
+      },
+      {
+        "key": "D",
+        "text": "(D) The vials failed a random sterility inspection."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao lô hàng bị giữ lại tại Rotterdam?\n(A) Thiết bị làm lạnh bị hỏng trong lúc vận chuyển.\n(B) Một chứng từ vận chuyển thiếu xác nhận chứng thực điện tử chính thức.\n(C) Thuế nhập khẩu chưa được nộp trước.\n(D) Các lọ mẫu không đạt kiểm tra vô trùng ngẫu nhiên.",
+    "explanation": "Người đàn ông nêu rõ: \"the certificate of origin lacked the digital apostille required under the revised customs directive.\"",
+    "vocab": [
+      [
+        "regulatory hold",
+        "n.",
+        "lệnh giữ hàng để kiểm tra pháp lý"
+      ],
+      [
+        "certificate of origin",
+        "n.",
+        "giấy chứng nhận xuất xứ"
+      ],
+      [
+        "expedite",
+        "v.",
+        "xúc tiến, đẩy nhanh"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g2",
+    "audioScript": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "audioVoiceText": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "questionText": "What consequence is the man worried about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Losing a contract with the Antwerp warehouse"
+      },
+      {
+        "key": "B",
+        "text": "(B) Incurring penalties from the chamber of commerce"
+      },
+      {
+        "key": "C",
+        "text": "(C) A manufacturing stoppage at the Basel facility"
+      },
+      {
+        "key": "D",
+        "text": "(D) Having to discard temperature-sensitive stock"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông lo ngại hệ quả gì?\n(A) Mất hợp đồng với kho Antwerp.\n(B) Bị phạt bởi phòng thương mại.\n(C) Dây chuyền đóng gói tại cơ sở Basel phải ngừng hoạt động.\n(D) Phải hủy bỏ lô hàng nhạy cảm nhiệt độ.",
+    "explanation": "Người đàn ông nói: \"the fill-and-finish line in Basel will have to halt production.\"",
+    "vocab": [
+      [
+        "regulatory hold",
+        "n.",
+        "lệnh giữ hàng để kiểm tra pháp lý"
+      ],
+      [
+        "certificate of origin",
+        "n.",
+        "giấy chứng nhận xuất xứ"
+      ],
+      [
+        "expedite",
+        "v.",
+        "xúc tiến, đẩy nhanh"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g2",
+    "audioScript": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "audioVoiceText": "Man: Priya, the customs broker in Rotterdam just alerted us that our shipment of sterile vials has been placed on regulatory hold. Apparently, the certificate of origin lacked the digital apostille required under the revised customs directive.\nWoman: That is exasperating. The freight forwarder assured me their compliance software had been updated for the April mandate.\nMan: If those vials do not clear customs by Thursday morning, the fill-and-finish line in Basel will have to halt production.\nWoman: Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight; I will personally contact the chamber of commerce to expedite the electronic endorsement.",
+    "questionText": "How does the woman plan to prevent a production delay?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By sending backup inventory from another European depot"
+      },
+      {
+        "key": "B",
+        "text": "(B) By switching to a different customs broker in Rotterdam"
+      },
+      {
+        "key": "C",
+        "text": "(C) By flying technicians from Basel to inspect the cargo"
+      },
+      {
+        "key": "D",
+        "text": "(D) By applying for a temporary waiver of the April mandate"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ dự định ngăn chặn sự chậm trễ sản xuất bằng cách nào?\n(A) Điều chuyển hàng dự phòng từ một kho khác ở châu Âu.\n(B) Đổi sang đại lý hải quan khác tại Rotterdam.\n(C) Cử kỹ thuật viên từ Basel sang kiểm tra hàng.\n(D) Xin miễn trừ tạm thời quy định tháng Tư.",
+    "explanation": "Người phụ nữ chỉ đạo: \"Have the Antwerp depot dispatch two reserve pallets by refrigerated courier tonight.\"",
+    "vocab": [
+      [
+        "regulatory hold",
+        "n.",
+        "lệnh giữ hàng để kiểm tra pháp lý"
+      ],
+      [
+        "certificate of origin",
+        "n.",
+        "giấy chứng nhận xuất xứ"
+      ],
+      [
+        "expedite",
+        "v.",
+        "xúc tiến, đẩy nhanh"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g3",
+    "audioScript": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "audioVoiceText": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "questionText": "Why is the first woman hesitant to select Solis Engineering?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Their initial installation quote exceeds the budget."
+      },
+      {
+        "key": "B",
+        "text": "(B) Their long-term servicing charges rise substantially."
+      },
+      {
+        "key": "C",
+        "text": "(C) They lack experience with turbine retrofits."
+      },
+      {
+        "key": "D",
+        "text": "(D) They failed to submit references from previous clients."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ đầu tiên ngần ngại chọn Solis Engineering?\n(A) Báo giá lắp đặt ban đầu vượt ngân sách.\n(B) Phí bảo trì dài hạn của họ tăng mạnh sau năm thứ hai.\n(C) Họ thiếu kinh nghiệm cải tạo tua-bin.\n(D) Họ không nộp thư giới thiệu từ khách hàng cũ.",
+    "explanation": "Người phụ nữ đầu tiên nói: \"while their upfront quote is twelve percent below..., their maintenance rate escalates sharply after year two.\"",
+    "vocab": [
+      [
+        "retrofit",
+        "n.",
+        "việc cải tạo, nâng cấp thiết bị"
+      ],
+      [
+        "escalate",
+        "v.",
+        "leo thang, tăng mạnh"
+      ],
+      [
+        "amenable",
+        "adj.",
+        "sẵn lòng chấp thuận, dễ thương lượng"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g3",
+    "audioScript": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "audioVoiceText": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "questionText": "What does the second woman contribute to the discussion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) She warns that Solis missed deadlines at the Osaka plant."
+      },
+      {
+        "key": "B",
+        "text": "(B) She explains how the capital committee evaluates lifecycle costs."
+      },
+      {
+        "key": "C",
+        "text": "(C) She shares that Solis previously agreed to limit annual rate hikes."
+      },
+      {
+        "key": "D",
+        "text": "(D) She recommends awarding the contract to a domestic vendor."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ thứ hai đóng góp thông tin gì vào cuộc thảo luận?\n(A) Cảnh báo Solis từng trễ hạn tại nhà máy Osaka.\n(B) Giải thích cách ủy ban vốn đánh giá chi phí vòng đời.\n(C) Chia sẻ rằng Solis từng đồng ý giới hạn mức tăng phí hằng năm.\n(D) Khuyến nghị trao hợp đồng cho một nhà thầu trong nước.",
+    "explanation": "Người phụ nữ thứ hai nói Solis \"were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\"",
+    "vocab": [
+      [
+        "retrofit",
+        "n.",
+        "việc cải tạo, nâng cấp thiết bị"
+      ],
+      [
+        "escalate",
+        "v.",
+        "leo thang, tăng mạnh"
+      ],
+      [
+        "amenable",
+        "adj.",
+        "sẵn lòng chấp thuận, dễ thương lượng"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g3",
+    "audioScript": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "audioVoiceText": "Woman: Kenji, I looked over the bid from Solis Engineering for the turbine retrofit, and while their upfront quote is twelve percent below the competing tenders, their maintenance rate escalates sharply after year two.\nMan: I noticed that too. Over a seven-year lifecycle, those compounded service fees would actually make Solis the costliest option on the shortlist.\nWoman 2: Excuse me for chiming in, but when my division worked with Solis on the Osaka cogeneration plant, they were quite amenable to capping annual fee increases at the consumer price index if we committed to a five-year service term.\nWoman: That changes the calculus. Kenji, let us invite Solis back to the table and propose a CPI-linked cap before we make our recommendation to the capital committee.",
+    "questionText": "What does the first woman mean when she says, \"That changes the calculus\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The engineering specifications must be recalculated."
+      },
+      {
+        "key": "B",
+        "text": "(B) The financial spreadsheet contains a formula error."
+      },
+      {
+        "key": "C",
+        "text": "(C) Solis may become a viable choice if the fee cap is negotiated."
+      },
+      {
+        "key": "D",
+        "text": "(D) The capital committee has revised its discount rate."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đầu tiên có ý gì khi nói \"That changes the calculus\"?\n(A) Các thông số kỹ thuật phải được tính lại.\n(B) Bảng tính tài chính có lỗi công thức.\n(C) Solis có thể trở thành phương án khả thi nếu đàm phán được mức trần phí.\n(D) Ủy ban vốn đã điều chỉnh lãi suất chiết khấu.",
+    "explanation": "\"Changes the calculus\" nghĩa là làm thay đổi bài toán đánh giá lợi hại, khiến họ quyết định mời Solis đàm phán lại mức trần CPI.",
+    "vocab": [
+      [
+        "retrofit",
+        "n.",
+        "việc cải tạo, nâng cấp thiết bị"
+      ],
+      [
+        "escalate",
+        "v.",
+        "leo thang, tăng mạnh"
+      ],
+      [
+        "amenable",
+        "adj.",
+        "sẵn lòng chấp thuận, dễ thương lượng"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g4",
+    "audioScript": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "audioVoiceText": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "questionText": "What problem was identified with Batch 409?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Its moisture level exceeded safety limits."
+      },
+      {
+        "key": "B",
+        "text": "(B) It took longer than stipulated to dissolve."
+      },
+      {
+        "key": "C",
+        "text": "(C) Its raw excipients were contaminated during mixing."
+      },
+      {
+        "key": "D",
+        "text": "(D) It was stored at an incorrect temperature."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vấn đề gì được phát hiện ở Lô 409?\n(A) Độ ẩm vượt giới hạn an toàn.\n(B) Thời gian hoàn nguyên (hòa tan lại) lâu hơn mức quy định.\n(C) Tá dược thô bị nhiễm bẩn khi trộn.\n(D) Lô hàng bị bảo quản sai nhiệt độ.",
+    "explanation": "Thời gian hoàn nguyên (reconstitution time) trung bình mất 42 giây, vượt mức chuẩn 30 giây và trần hồ sơ pháp lý 35 giây.",
+    "vocab": [
+      [
+        "reconstitution",
+        "n.",
+        "sự hoàn nguyên (hòa tan lại thuốc đông khô)"
+      ],
+      [
+        "dossier",
+        "n.",
+        "hồ sơ pháp lý"
+      ],
+      [
+        "recalibrate",
+        "v.",
+        "hiệu chỉnh lại thiết bị"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g4",
+    "audioScript": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "audioVoiceText": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "questionText": "Why does the woman reject the man’s suggestion to file a regulatory variation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The ministry never approves changes to reconstitution limits."
+      },
+      {
+        "key": "B",
+        "text": "(B) The filing fee would exceed the value of the excipients."
+      },
+      {
+        "key": "C",
+        "text": "(C) The approval process would take too long to avoid delivery penalties."
+      },
+      {
+        "key": "D",
+        "text": "(D) The quality control laboratory lacks accreditation for variations."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ bác bỏ đề xuất nộp hồ sơ xin điều chỉnh pháp lý?\n(A) Bộ không bao giờ duyệt thay đổi giới hạn hoàn nguyên.\n(B) Lệ phí nộp đơn vượt quá giá trị tá dược.\n(C) Quá trình phê duyệt mất quá nhiều thời gian nên không tránh được phạt giao hàng trễ.\n(D) Phòng kiểm nghiệm thiếu chứng nhận cho thủ tục điều chỉnh.",
+    "explanation": "Bà nói thủ tục xin điều chỉnh mất 4 tháng, trong khi hợp đồng cung ứng với bộ bắt đầu phạt giao trễ từ tháng tới.",
+    "vocab": [
+      [
+        "reconstitution",
+        "n.",
+        "sự hoàn nguyên (hòa tan lại thuốc đông khô)"
+      ],
+      [
+        "dossier",
+        "n.",
+        "hồ sơ pháp lý"
+      ],
+      [
+        "recalibrate",
+        "v.",
+        "hiệu chỉnh lại thiết bị"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g4",
+    "audioScript": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "audioVoiceText": "Man: Dr. Vance, the stability data from Batch 409 of our lyophilized vaccine just came back from quality control. The moisture content is within specification, but the reconstitution time averaged forty-two seconds against our thirty-second benchmark.\nWoman: Forty-two seconds is still clinically acceptable, but the regulatory dossier we filed last month explicitly stipulates an upper limit of thirty-five seconds.\nMan: Could we file a post-approval variation rather than scrapping the entire batch? The raw excipients alone cost nearly four hundred thousand dollars.\nWoman: A variation would take four months to clear, whereas our supply contract with the ministry penalizes late delivery starting next month. Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.",
+    "questionText": "What does the woman instruct the man to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Destroy Batch 409 and reorder raw excipients"
+      },
+      {
+        "key": "B",
+        "text": "(B) Ship Batch 409 with a revised product insert"
+      },
+      {
+        "key": "C",
+        "text": "(C) Isolate Batch 409 and adjust the equipment for the next run"
+      },
+      {
+        "key": "D",
+        "text": "(D) Request a deadline extension from the ministry"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ chỉ đạo người đàn ông làm gì?\n(A) Hủy Lô 409 và đặt lại tá dược.\n(B) Giao Lô 409 kèm tờ hướng dẫn sửa đổi.\n(C) Cách ly Lô 409 để kiểm tra lại và hiệu chỉnh buồng sấy đông khô cho lô kế tiếp.\n(D) Xin bộ gia hạn thời gian giao hàng.",
+    "explanation": "Bà chỉ đạo: \"Quarantine Batch 409 for stability retesting and recalibrate the freeze-drying chamber for Batch 410 immediately.\"",
+    "vocab": [
+      [
+        "reconstitution",
+        "n.",
+        "sự hoàn nguyên (hòa tan lại thuốc đông khô)"
+      ],
+      [
+        "dossier",
+        "n.",
+        "hồ sơ pháp lý"
+      ],
+      [
+        "recalibrate",
+        "v.",
+        "hiệu chỉnh lại thiết bị"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g5",
+    "audioScript": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "audioVoiceText": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "questionText": "What caused the decline in the cloud division’s profit margin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Aggressive price cuts by competing providers"
+      },
+      {
+        "key": "B",
+        "text": "(B) A one-time write-down of retired server hardware"
+      },
+      {
+        "key": "C",
+        "text": "(C) A sudden drop in enterprise subscription renewals"
+      },
+      {
+        "key": "D",
+        "text": "(D) Higher electricity tariffs at the Dublin facility"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì gây ra sự sụt giảm biên lợi nhuận của mảng đám mây?\n(A) Các đợt giảm giá mạnh từ đối thủ cạnh tranh.\n(B) Khoản khấu hao nhanh một lần khi ngừng sử dụng các tủ máy chủ cũ.\n(C) Sự sụt giảm đột ngột tỷ lệ gia hạn thuê bao doanh nghiệp.\n(D) Giá điện tăng tại cơ sở Dublin.",
+    "explanation": "Người đàn ông giải thích: \"We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\"",
+    "vocab": [
+      [
+        "margin compression",
+        "n.",
+        "sự thu hẹp biên lợi nhuận"
+      ],
+      [
+        "decommission",
+        "v.",
+        "ngừng vận hành, thanh lý thiết bị"
+      ],
+      [
+        "non-recurring",
+        "adj.",
+        "không định kỳ, chỉ phát sinh một lần"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g5",
+    "audioScript": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "audioVoiceText": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "questionText": "Why is the woman concerned about the analysts’ reaction?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They misattributed a temporary accounting expense to weakening competitiveness."
+      },
+      {
+        "key": "B",
+        "text": "(B) They downgraded the company’s credit rating immediately after the call."
+      },
+      {
+        "key": "C",
+        "text": "(C) They demanded the resignation of the cloud-infrastructure director."
+      },
+      {
+        "key": "D",
+        "text": "(D) They accused the firm of concealing server outages in Frankfurt."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao người phụ nữ lo ngại về phản ứng của giới phân tích?\n(A) Họ hiểu nhầm khoản chi phí kế toán một lần thành dấu hiệu suy giảm sức cạnh tranh về giá.\n(B) Họ hạ bậc tín nhiệm của công ty ngay sau cuộc gọi.\n(C) Họ đòi giám đốc mảng đám mây từ chức.\n(D) Họ cáo buộc công ty che giấu sự cố sập máy chủ ở Frankfurt.",
+    "explanation": "Bà nói: \"several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\"",
+    "vocab": [
+      [
+        "margin compression",
+        "n.",
+        "sự thu hẹp biên lợi nhuận"
+      ],
+      [
+        "decommission",
+        "v.",
+        "ngừng vận hành, thanh lý thiết bị"
+      ],
+      [
+        "non-recurring",
+        "adj.",
+        "không định kỳ, chỉ phát sinh một lần"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g5",
+    "audioScript": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "audioVoiceText": "Woman: Liam, our institutional investors raised pointed questions during this morning’s earnings call about the margin compression in our cloud-infrastructure unit.\nMan: That was foreseeable. We absorbed twelve million dollars in accelerated depreciation when we decommissioned the legacy server racks in Frankfurt and Dublin.\nWoman: True, but several analysts interpreted the dip as evidence of pricing pressure from hyperscale competitors rather than a one-off accounting charge.\nMan: Then we should publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.",
+    "questionText": "What does the man propose doing before Friday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Postponing the investor roadshow until next quarter"
+      },
+      {
+        "key": "B",
+        "text": "(B) Reversing the decommissioning of the Dublin servers"
+      },
+      {
+        "key": "C",
+        "text": "(C) Releasing a breakdown that separates one-time charges from core margins"
+      },
+      {
+        "key": "D",
+        "text": "(D) Offering discounted multi-year contracts to institutional clients"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông đề xuất làm gì trước thứ Sáu?\n(A) Hoãn buổi gặp gỡ nhà đầu tư sang quý sau.\n(B) Dừng việc thanh lý máy chủ ở Dublin.\n(C) Công bố tài liệu bóc tách rõ khấu hao không thường xuyên khỏi biên lợi nhuận cốt lõi.\n(D) Giảm giá hợp đồng nhiều năm cho khách hàng tổ chức.",
+    "explanation": "Anh đề xuất: \"publish a supplemental investor presentation before Friday’s roadshow breaking out the non-recurring depreciation from underlying operating margin.\"",
+    "vocab": [
+      [
+        "margin compression",
+        "n.",
+        "sự thu hẹp biên lợi nhuận"
+      ],
+      [
+        "decommission",
+        "v.",
+        "ngừng vận hành, thanh lý thiết bị"
+      ],
+      [
+        "non-recurring",
+        "adj.",
+        "không định kỳ, chỉ phát sinh một lần"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g6",
+    "audioScript": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "audioVoiceText": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "questionText": "What condition did the zoning board place on the new facility?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A limit on the height of the storage racks"
+      },
+      {
+        "key": "B",
+        "text": "(B) A nighttime ban on large delivery trucks"
+      },
+      {
+        "key": "C",
+        "text": "(C) A requirement to hire local residents"
+      },
+      {
+        "key": "D",
+        "text": "(D) A cap on daily electricity consumption"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hội đồng quy hoạch áp đặt điều kiện gì cho cơ sở mới?\n(A) Giới hạn chiều cao kệ chứa hàng.\n(B) Cấm xe tải hạng nặng ra vào khu bốc dỡ từ 10 giờ đêm đến 6 giờ sáng.\n(C) Yêu cầu tuyển dụng cư dân địa phương.\n(D) Giới hạn mức tiêu thụ điện hằng ngày.",
+    "explanation": "Hội đồng gắn điều khoản giảm tiếng ồn (noise-abatement covenant) cấm xe tải hạng nặng vào kho từ 22h đến 6h sáng.",
+    "vocab": [
+      [
+        "zoning board",
+        "n.",
+        "hội đồng quy hoạch đô thị"
+      ],
+      [
+        "noise-abatement",
+        "n.",
+        "việc giảm thiểu tiếng ồn"
+      ],
+      [
+        "throughput",
+        "n.",
+        "lưu lượng hàng xử lý qua kho"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g6",
+    "audioScript": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "audioVoiceText": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "questionText": "What does the man mean when he says the restriction \"gut-punches our throughput projections\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It will severely undermine the facility’s planned processing capacity."
+      },
+      {
+        "key": "B",
+        "text": "(B) It will require the staff to work shorter shifts."
+      },
+      {
+        "key": "C",
+        "text": "(C) It will force the regional hub to relocate outside the city."
+      },
+      {
+        "key": "D",
+        "text": "(D) It will invalidate the lease on Mercer Street."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông có ý gì khi nói quy định hạn chế đó \"gut-punches our throughput projections\"?\n(A) Nó sẽ làm suy giảm nghiêm trọng công suất xử lý hàng dự kiến của cơ sở.\n(B) Nó buộc nhân viên làm ca ngắn hơn.\n(C) Nó buộc trung tâm khu vực phải dời ra ngoại thành.\n(D) Nó làm mất hiệu lực hợp đồng thuê trên phố Mercer.",
+    "explanation": "Vì mô hình bổ sung hàng ban đêm dựa vào chuyến giao lúc 2 giờ sáng, lệnh cấm sẽ giáng đòn mạnh vào dự báo lưu lượng hàng qua kho (throughput projections).",
+    "vocab": [
+      [
+        "zoning board",
+        "n.",
+        "hội đồng quy hoạch đô thị"
+      ],
+      [
+        "noise-abatement",
+        "n.",
+        "việc giảm thiểu tiếng ồn"
+      ],
+      [
+        "throughput",
+        "n.",
+        "lưu lượng hàng xử lý qua kho"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g6",
+    "audioScript": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "audioVoiceText": "Man: Hannah, the municipal zoning board just issued a conditional variance for our automated micro-fulfillment center on Mercer Street, but they attached a noise-abatement covenant.\nWoman: Let me guess—no heavy-goods vehicles may access the loading bay between ten P.M. and six A.M.?\nMan: Precisely. And since our overnight replenishment model relies on two-A.M. trunk deliveries from the regional hub, that restriction effectively gut-punches our throughput projections.\nWoman: Not necessarily. If we swap the diesel articulated lorries for the electric box vans we leased for the Westside pilot, the decibel rating falls well below the residential threshold, and we can petition for an exemption under the green-corridor bylaw.",
+    "questionText": "How does the woman suggest overcoming the restriction?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By shifting all replenishment deliveries to midday hours"
+      },
+      {
+        "key": "B",
+        "text": "(B) By installing acoustic barriers around the loading bay"
+      },
+      {
+        "key": "C",
+        "text": "(C) By deploying quieter electric vehicles to qualify for a municipal exemption"
+      },
+      {
+        "key": "D",
+        "text": "(D) By appealing the zoning board’s decision in federal court"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất tháo gỡ hạn chế bằng cách nào?\n(A) Chuyển toàn bộ chuyến giao bổ sung sang buổi trưa.\n(B) Lắp tường cách âm quanh khu bốc dỡ.\n(C) Sử dụng xe tải điện êm hơn để xin miễn trừ theo quy định hành lang xanh.\n(D) Kháng cáo quyết định của hội đồng quy hoạch lên tòa liên bang.",
+    "explanation": "Bà gợi ý đổi xe tải diesel sang xe tải điện có độ ồn thấp hơn ngưỡng khu dân cư để xin miễn trừ theo quy định green-corridor bylaw.",
+    "vocab": [
+      [
+        "zoning board",
+        "n.",
+        "hội đồng quy hoạch đô thị"
+      ],
+      [
+        "noise-abatement",
+        "n.",
+        "việc giảm thiểu tiếng ồn"
+      ],
+      [
+        "throughput",
+        "n.",
+        "lưu lượng hàng xử lý qua kho"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g7",
+    "audioScript": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "audioVoiceText": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "questionText": "Why is the man reluctant to take the broker portal offline immediately?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The IT team is understaffed this week."
+      },
+      {
+        "key": "B",
+        "text": "(B) The company is in the middle of a peak policy-renewal period."
+      },
+      {
+        "key": "C",
+        "text": "(C) Third-party brokers have not paid their annual licensing fees."
+      },
+      {
+        "key": "D",
+        "text": "(D) The OAuth gateway has not yet been purchased."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông ngần ngại đóng cổng thông tin môi giới ngay lập tức?\n(A) Đội IT đang thiếu nhân sự tuần này.\n(B) Công ty đang ở tuần cuối của chu kỳ cao điểm gia hạn hợp đồng bảo hiểm thương mại.\n(C) Các bên môi giới chưa đóng phí bản quyền năm.\n(D) Cổng OAuth vẫn chưa được mua.",
+    "explanation": "Ông nói: \"This is the final week of the commercial renewal cycle\" và \"Taking the portal down during business hours is out of the question.\"",
+    "vocab": [
+      [
+        "vulnerability",
+        "n.",
+        "lỗ hổng bảo mật"
+      ],
+      [
+        "underwriting",
+        "n.",
+        "nghiệp vụ thẩm định bảo hiểm/tài chính"
+      ],
+      [
+        "deprecated",
+        "adj.",
+        "lỗi thời, ngừng hỗ trợ kỹ thuật"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g7",
+    "audioScript": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "audioVoiceText": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "questionText": "Why does the woman oppose applying a temporary hotfix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It would corrupt historical underwriting records."
+      },
+      {
+        "key": "B",
+        "text": "(B) It would violate data-privacy laws in several jurisdictions."
+      },
+      {
+        "key": "C",
+        "text": "(C) It would fail to resolve the underlying flaw in the authentication design."
+      },
+      {
+        "key": "D",
+        "text": "(D) It would require twelve hours of system downtime."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ phản đối việc áp dụng bản vá tạm thời (hotfix)?\n(A) Nó sẽ làm hỏng dữ liệu thẩm định lịch sử.\n(B) Nó vi phạm luật bảo mật dữ liệu tại nhiều khu vực.\n(C) Nó chỉ che đậy triệu chứng chứ không giải quyết lỗi cốt lõi trong kiến trúc xác thực.\n(D) Nó đòi hỏi 12 giờ ngừng hệ thống.",
+    "explanation": "Bà giải thích: \"A hotfix would only mask the symptom; the authentication token architecture itself is deprecated.\"",
+    "vocab": [
+      [
+        "vulnerability",
+        "n.",
+        "lỗ hổng bảo mật"
+      ],
+      [
+        "underwriting",
+        "n.",
+        "nghiệp vụ thẩm định bảo hiểm/tài chính"
+      ],
+      [
+        "deprecated",
+        "adj.",
+        "lỗi thời, ngừng hỗ trợ kỹ thuật"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g7",
+    "audioScript": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "audioVoiceText": "Woman: Mr. Al-Mansoor, our external cybersecurity audit flagged a critical vulnerability in the legacy API that connects our underwriting engine to third-party insurance brokers.\nMan: Can we patch the endpoint without taking the broker portal offline? This is the final week of the commercial renewal cycle.\nWoman: A hotfix would only mask the symptom; the authentication token architecture itself is deprecated. We need a six-hour maintenance window to migrate brokers to the OAuth gateway.\nMan: Taking the portal down during business hours is out of the question. Schedule the cutover for Saturday at midnight, and issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.",
+    "questionText": "What will happen by Thursday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The legacy API will be permanently deleted."
+      },
+      {
+        "key": "B",
+        "text": "(B) Major brokerage partners will receive access keys for pre-migration testing."
+      },
+      {
+        "key": "C",
+        "text": "(C) An external audit report will be submitted to regulators."
+      },
+      {
+        "key": "D",
+        "text": "(D) All commercial policy renewals will be suspended."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì sẽ diễn ra trước thứ Năm?\n(A) API cũ sẽ bị xóa vĩnh viễn.\n(B) 50 công ty môi giới hàng đầu sẽ được cấp thông tin xác thực để thử nghiệm tích hợp trước khi chuyển đổi.\n(C) Báo cáo kiểm toán bên ngoài sẽ được nộp cho cơ quan quản lý.\n(D) Toàn bộ việc gia hạn hợp đồng sẽ bị đình chỉ.",
+    "explanation": "Người đàn ông chỉ đạo: \"issue mandatory credentials to the top fifty brokerage firms by Thursday so they can test their sandbox integration beforehand.\"",
+    "vocab": [
+      [
+        "vulnerability",
+        "n.",
+        "lỗ hổng bảo mật"
+      ],
+      [
+        "underwriting",
+        "n.",
+        "nghiệp vụ thẩm định bảo hiểm/tài chính"
+      ],
+      [
+        "deprecated",
+        "adj.",
+        "lỗi thời, ngừng hỗ trợ kỹ thuật"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g8",
+    "audioScript": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "audioVoiceText": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "questionText": "What concession is the union prepared to make?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Accepting a freeze on overtime wage rates"
+      },
+      {
+        "key": "B",
+        "text": "(B) Withdrawing its request for a shorter workweek"
+      },
+      {
+        "key": "C",
+        "text": "(C) Allowing external contractors to operate the welding cells"
+      },
+      {
+        "key": "D",
+        "text": "(D) Postponing the collective-bargaining renewal until Q4"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Công đoàn sẵn sàng nhượng bộ điều gì?\n(A) Chấp nhận đóng băng mức lương làm thêm giờ.\n(B) Rút lại yêu cầu về tuần làm việc bốn ngày.\n(C) Cho phép nhà thầu ngoài vận hành buồng hàn robot.\n(D) Hoãn gia hạn thỏa ước lao động sang quý 4.",
+    "explanation": "Người đàn ông đầu tiên nói: \"The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies...\"",
+    "vocab": [
+      [
+        "collective bargaining",
+        "n.",
+        "thương lượng tập thể"
+      ],
+      [
+        "impasse",
+        "n.",
+        "tình trạng bế tắc"
+      ],
+      [
+        "redundancy",
+        "n.",
+        "sự cắt giảm biên chế"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g8",
+    "audioScript": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "audioVoiceText": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "questionText": "Under what condition will the woman support a job-security guarantee?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Affected employees must complete training for new technical positions."
+      },
+      {
+        "key": "B",
+        "text": "(B) The Gothenburg plant must increase its quarterly output by ten percent."
+      },
+      {
+        "key": "C",
+        "text": "(C) The government must subsidize the robotic welding equipment."
+      },
+      {
+        "key": "D",
+        "text": "(D) Senior welders must accept early-retirement packages."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Với điều kiện nào người phụ nữ sẽ ủng hộ cam kết đảm bảo việc làm?\n(A) Nhân viên bị ảnh hưởng phải tham gia đào tạo chuyển đổi sang vị trí kiểm tra chất lượng tự động.\n(B) Nhà máy Gothenburg phải tăng 10% sản lượng quý.\n(C) Chính phủ phải trợ giá thiết bị hàn robot.\n(D) Thợ hàn lâu năm phải nhận gói nghỉ hưu sớm.",
+    "explanation": "Bà nói: \"A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\"",
+    "vocab": [
+      [
+        "collective bargaining",
+        "n.",
+        "thương lượng tập thể"
+      ],
+      [
+        "impasse",
+        "n.",
+        "tình trạng bế tắc"
+      ],
+      [
+        "redundancy",
+        "n.",
+        "sự cắt giảm biên chế"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g8",
+    "audioScript": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "audioVoiceText": "Man: Clara, I just spoke with the labour arbitrator regarding the collective-bargaining impasse at our Gothenburg assembly plant. The union is willing to drop its demand for a four-day workweek if we guarantee no involuntary redundancies when the robotic welding cells go live in Q4.\nWoman: A no-layoff pledge is feasible, provided the union agrees to mandatory cross-training so displaced welders can transition into automated quality-inspection roles.\nMan 2: From an operations standpoint, we actually have a projected deficit of eighteen inspection technicians once the second shift expands in November, so redeploying those welders would save us substantial recruitment costs.\nWoman: Excellent. Let us draft a counterproposal linking the job-security guarantee to a certified reskilling curriculum.",
+    "questionText": "Why does the second man view the arrangement favorably?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It eliminates the need to expand the November shift."
+      },
+      {
+        "key": "B",
+        "text": "(B) It fills an anticipated staffing shortage without external hiring expenses."
+      },
+      {
+        "key": "C",
+        "text": "(C) It reduces the maintenance cost of the welding robots."
+      },
+      {
+        "key": "D",
+        "text": "(D) It qualifies the plant for a municipal tax credit."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông thứ hai ủng hộ phương án này?\n(A) Nó giúp không cần mở rộng ca làm việc tháng 11.\n(B) Nó lấp đầy sự thiếu hụt 18 kỹ thuật viên dự kiến mà không tốn chi phí tuyển dụng bên ngoài.\n(C) Nó giảm chi phí bảo trì robot hàn.\n(D) Nó giúp nhà máy được giảm thuế địa phương.",
+    "explanation": "Người đàn ông thứ hai nói nhà máy dự kiến thiếu 18 kỹ thuật viên kiểm tra chất lượng vào tháng 11, nên điều chuyển thợ hàn sang sẽ tiết kiệm đáng kể chi phí tuyển dụng.",
+    "vocab": [
+      [
+        "collective bargaining",
+        "n.",
+        "thương lượng tập thể"
+      ],
+      [
+        "impasse",
+        "n.",
+        "tình trạng bế tắc"
+      ],
+      [
+        "redundancy",
+        "n.",
+        "sự cắt giảm biên chế"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g9",
+    "audioScript": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "audioVoiceText": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "questionText": "What shortcoming was identified during the product test?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The beverage failed to foam properly when heated."
+      },
+      {
+        "key": "B",
+        "text": "(B) An unpleasant flavor emerged at higher steaming temperatures."
+      },
+      {
+        "key": "C",
+        "text": "(C) The shelf life was shorter than the control recipe."
+      },
+      {
+        "key": "D",
+        "text": "(D) The packaging leaked during transit to the lab."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Nhược điểm nào được phát hiện trong đợt thử nghiệm sản phẩm?\n(A) Đồ uống không tạo bọt tốt khi đun nóng.\n(B) Xuất hiện hậu vị chát nhẹ khi đánh nóng trên 65 độ.\n(C) Hạn sử dụng ngắn hơn công thức đối chứng.\n(D) Bao bì bị rò rỉ khi vận chuyển tới phòng thí nghiệm.",
+    "explanation": "Người phụ nữ nói: \"panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\"",
+    "vocab": [
+      [
+        "reformulate",
+        "v.",
+        "cải tiến/thay đổi công thức"
+      ],
+      [
+        "astringent",
+        "adj.",
+        "có vị chát"
+      ],
+      [
+        "force majeure",
+        "n.",
+        "sự kiện bất khả kháng"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g9",
+    "audioScript": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "audioVoiceText": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "questionText": "Why did the company change the original recipe?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To comply with new European food-labeling regulations"
+      },
+      {
+        "key": "B",
+        "text": "(B) To reduce the calorie content of the beverage"
+      },
+      {
+        "key": "C",
+        "text": "(C) Because an ingredient supplier experienced an unavoidable supply disruption"
+      },
+      {
+        "key": "D",
+        "text": "(D) Because the Ghent laboratory recommended a cheaper protein source"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao công ty phải thay đổi công thức ban đầu?\n(A) Để tuân thủ quy định ghi nhãn thực phẩm mới của châu Âu.\n(B) Để giảm hàm lượng calo của đồ uống.\n(C) Vì nhà cung cấp nguyên liệu gặp sự cố bất khả kháng (force majeure).\n(D) Vì phòng thí nghiệm ở Ghent khuyên dùng nguồn đạm rẻ hơn.",
+    "explanation": "Người đàn ông nhắc tới việc phải thay thế nguyên liệu \"after our sunflower-lecithin supplier declared force majeure last month.\"",
+    "vocab": [
+      [
+        "reformulate",
+        "v.",
+        "cải tiến/thay đổi công thức"
+      ],
+      [
+        "astringent",
+        "adj.",
+        "có vị chát"
+      ],
+      [
+        "force majeure",
+        "n.",
+        "sự kiện bất khả kháng"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g9",
+    "audioScript": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "audioVoiceText": "Woman: Victor, the sensory-evaluation panel just submitted its blind-tasting scores for our reformulated oat-milk barista blend. While the foam stability outscored the control recipe, panelists noted a faint astringent aftertaste when steamed above sixty-five degrees.\nMan: That is almost certainly coming from the pea-protein isolate we substituted after our sunflower-lecithin supplier declared force majeure last month.\nWoman: Since the specialty-coffee trade show in Milan is only five weeks away, we do not have time to reformulate from scratch.\nMan: We do not need to. Our R&D lab in Ghent tested an enzymatic hydrolysis step last autumn that neutralizes peptide bitterness without altering viscosity; we can integrate that into Friday’s pilot run.",
+    "questionText": "How does the man propose solving the problem before the Milan trade show?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By reverting to the original sunflower-lecithin formula"
+      },
+      {
+        "key": "B",
+        "text": "(B) By lowering the recommended steaming temperature on the label"
+      },
+      {
+        "key": "C",
+        "text": "(C) By incorporating a previously tested processing step into the next trial batch"
+      },
+      {
+        "key": "D",
+        "text": "(D) By postponing the product launch until after the trade show"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông đề xuất giải quyết vấn đề trước triển lãm ở Milan bằng cách nào?\n(A) Quay lại công thức lecithin hướng dương ban đầu.\n(B) Hạ nhiệt độ đánh sữa khuyến nghị trên nhãn.\n(C) Đưa thêm bước thủy phân enzyme đã thử nghiệm tại Ghent vào mẻ chạy thử ngày thứ Sáu.\n(D) Hoãn ra mắt sản phẩm sang sau triển lãm.",
+    "explanation": "Anh đề xuất tích hợp bước \"enzymatic hydrolysis\" mà phòng R&D ở Ghent đã thử nghiệm vào mẻ pilot ngày thứ Sáu.",
+    "vocab": [
+      [
+        "reformulate",
+        "v.",
+        "cải tiến/thay đổi công thức"
+      ],
+      [
+        "astringent",
+        "adj.",
+        "có vị chát"
+      ],
+      [
+        "force majeure",
+        "n.",
+        "sự kiện bất khả kháng"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g10",
+    "audioScript": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "audioVoiceText": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "questionText": "What is the department store asking for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Exclusive rights to sell luxury goods in the mall"
+      },
+      {
+        "key": "B",
+        "text": "(B) A rent reduction if visitor numbers fall below a specified level"
+      },
+      {
+        "key": "C",
+        "text": "(C) Financial assistance to renovate the adjacent metro station"
+      },
+      {
+        "key": "D",
+        "text": "(D) Permission to sublease part of the west concourse"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Cửa hàng bách hóa chủ lực đang yêu cầu điều gì?\n(A) Quyền độc quyền bán hàng xa xỉ trong trung tâm thương mại.\n(B) Điều khoản giảm tiền thuê nếu lưu lượng khách thấp hơn ngưỡng quy định.\n(C) Hỗ trợ tài chính để cải tạo ga tàu điện ngầm kế bên.\n(D) Quyền cho thuê lại một phần sảnh phía tây.",
+    "explanation": "Người đàn ông nói khách thuê yêu cầu \"a rent-abatement clause tied to foot-traffic thresholds.\"",
+    "vocab": [
+      [
+        "rent-abatement",
+        "n.",
+        "sự miễn giảm tiền thuê"
+      ],
+      [
+        "foot traffic",
+        "n.",
+        "lưu lượng khách bộ hành ghé qua"
+      ],
+      [
+        "covenant",
+        "n.",
+        "điều khoản cam kết trong hợp đồng tín dụng"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g10",
+    "audioScript": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "audioVoiceText": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "questionText": "Why does the woman consider the store’s visitor target unreasonable?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Competing shopping centers have recently opened nearby."
+      },
+      {
+        "key": "B",
+        "text": "(B) Public transit access to the property is temporarily disrupted."
+      },
+      {
+        "key": "C",
+        "text": "(C) The west concourse has fewer parking spaces than the east wing."
+      },
+      {
+        "key": "D",
+        "text": "(D) Luxury retail foot traffic always declines in the winter."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người phụ nữ cho rằng mục tiêu lượng khách của cửa hàng là không thực tế?\n(A) Các trung tâm mua sắm đối thủ vừa mở gần đó.\n(B) Ga tàu điện ngầm kế bên đang trong quá trình cải tạo.\n(C) Sảnh phía tây có ít chỗ đỗ xe hơn cánh phía đông.\n(D) Lượng khách bán lẻ xa xỉ luôn giảm vào mùa đông.",
+    "explanation": "Bà giải thích: \"their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\"",
+    "vocab": [
+      [
+        "rent-abatement",
+        "n.",
+        "sự miễn giảm tiền thuê"
+      ],
+      [
+        "foot traffic",
+        "n.",
+        "lưu lượng khách bộ hành ghé qua"
+      ],
+      [
+        "covenant",
+        "n.",
+        "điều khoản cam kết trong hợp đồng tín dụng"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g10",
+    "audioScript": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "audioVoiceText": "Man: Nadia, I am reviewing the tenant-mix strategy for the Galleria redevelopment, and the anchor department store on the west concourse has requested a rent-abatement clause tied to foot-traffic thresholds.\nWoman: Co-tenancy and foot-traffic clauses are becoming standard in luxury retail, but their proposed benchmark of forty thousand weekly visitors is unrealistic while the adjacent metro station is undergoing renovation.\nMan: If we reject the clause outright, they might pull out, which would jeopardize our pre-leasing covenant with the construction lender.\nWoman: Then let us counter with a tiered turnover-rent structure for the first eighteen months until the metro entrance reopens, after which the fixed base rent kicks in.",
+    "questionText": "Why is retaining the department store critical to the project?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is required to satisfy the financing terms of the construction loan."
+      },
+      {
+        "key": "B",
+        "text": "(B) The store owns the land beneath the west concourse."
+      },
+      {
+        "key": "C",
+        "text": "(C) The municipality will not issue an occupancy permit without an anchor tenant."
+      },
+      {
+        "key": "D",
+        "text": "(D) The store has agreed to pay for the concourse skylight installation."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao việc giữ chân cửa hàng bách hóa này lại tối quan trọng đối với dự án?\n(A) Cần thiết để đáp ứng điều kiện cho thuê trước trong hợp đồng vay vốn xây dựng.\n(B) Cửa hàng sở hữu khu đất dưới sảnh tây.\n(C) Thành phố không cấp phép sử dụng nếu thiếu khách thuê chủ lực.\n(D) Cửa hàng đã đồng ý trả tiền lắp giếng trời.",
+    "explanation": "Người đàn ông nói nếu họ rút lui thì \"would jeopardize our pre-leasing covenant with the construction lender.\"",
+    "vocab": [
+      [
+        "rent-abatement",
+        "n.",
+        "sự miễn giảm tiền thuê"
+      ],
+      [
+        "foot traffic",
+        "n.",
+        "lưu lượng khách bộ hành ghé qua"
+      ],
+      [
+        "covenant",
+        "n.",
+        "điều khoản cam kết trong hợp đồng tín dụng"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g11",
+    "audioScript": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "audioVoiceText": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "questionText": "Why is the man surprised by the actuarial valuation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The company had recently reduced employee pension benefits."
+      },
+      {
+        "key": "B",
+        "text": "(B) The pension fund’s stock investments had performed very well."
+      },
+      {
+        "key": "C",
+        "text": "(C) The central bank had raised interest rates twice this year."
+      },
+      {
+        "key": "D",
+        "text": "(D) The actuarial firm had been replaced last quarter."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông ngạc nhiên trước kết quả định giá tinh toán?\n(A) Công ty vừa giảm quyền lợi hưu trí của nhân viên.\n(B) Danh mục đầu tư cổ phiếu của quỹ hưu trí đã đạt hiệu suất rất tốt.\n(C) Ngân hàng trung ương đã tăng lãi suất hai lần trong năm.\n(D) Công ty tư vấn định phí vừa được thay mới quý trước.",
+    "explanation": "Ông ngạc nhiên vì thâm hụt tăng dù \"strong equity returns\" và danh mục vượt chuẩn gần 200 điểm cơ bản.",
+    "vocab": [
+      [
+        "actuary",
+        "n.",
+        "chuyên gia định phí bảo hiểm/hưu trí"
+      ],
+      [
+        "basis point",
+        "n.",
+        "điểm cơ bản (0,01%)"
+      ],
+      [
+        "sovereign bond",
+        "n.",
+        "trái phiếu chính phủ"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g11",
+    "audioScript": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "audioVoiceText": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "questionText": "What caused the pension deficit to increase?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A decline in the discount rate raised the calculated value of future payouts."
+      },
+      {
+        "key": "B",
+        "text": "(B) Several subsidiaries failed to make their quarterly contributions."
+      },
+      {
+        "key": "C",
+        "text": "(C) Administrative fees charged by fund managers doubled."
+      },
+      {
+        "key": "D",
+        "text": "(D) A surge in early retirements drained the cash reserve."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Điều gì làm mức thâm hụt quỹ hưu trí tăng lên?\n(A) Lãi suất chiết khấu giảm làm tăng giá trị hiện tại của các nghĩa vụ chi trả tương lai.\n(B) Nhiều công ty con không đóng tiền hàng quý.\n(C) Phí quản lý quỹ tăng gấp đôi.\n(D) Làn sóng nghỉ hưu sớm làm cạn quỹ tiền mặt.",
+    "explanation": "Người phụ nữ giải thích: \"The discount rate used to calculate future liabilities fell by sixty basis points..., which inflated the present value of our obligations.\"",
+    "vocab": [
+      [
+        "actuary",
+        "n.",
+        "chuyên gia định phí bảo hiểm/hưu trí"
+      ],
+      [
+        "basis point",
+        "n.",
+        "điểm cơ bản (0,01%)"
+      ],
+      [
+        "sovereign bond",
+        "n.",
+        "trái phiếu chính phủ"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g11",
+    "audioScript": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "audioVoiceText": "Woman: Thomas, the external actuaries just completed their valuation of our defined-benefit pension scheme, and the funding deficit has widened by fourteen million euros despite strong equity returns.\nMan: How is that possible? Our portfolio outperformed the benchmark index by nearly two hundred basis points this year.\nWoman: The discount rate used to calculate future liabilities fell by sixty basis points following the central bank’s yield-curve revision, which inflated the present value of our obligations.\nMan: I see. Before we present this to the audit committee, let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.",
+    "questionText": "What will the speakers prepare for the audit committee?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A proposal to close the defined-benefit scheme to all staff"
+      },
+      {
+        "key": "B",
+        "text": "(B) A simulation showing how long-term government bonds could stabilize liabilities"
+      },
+      {
+        "key": "C",
+        "text": "(C) A request to dismiss the external actuarial firm"
+      },
+      {
+        "key": "D",
+        "text": "(D) A plan to issue new corporate shares to fund the deficit"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hai người nói sẽ chuẩn bị gì cho ủy ban kiểm toán?\n(A) Đề xuất đóng quỹ hưu trí xác định quyền lợi.\n(B) Mô hình phòng vệ đầu tư bằng trái phiếu chính phủ kỳ hạn dài để đưa ra lộ trình khắc phục.\n(C) Yêu cầu sa thải công ty định phí bên ngoài.\n(D) Kế hoạch phát hành cổ phiếu mới để bù đắp thâm hụt.",
+    "explanation": "Người đàn ông nói: \"let us model a liability-driven investment hedge using long-dated sovereign bonds so we can show a concrete remediation path.\"",
+    "vocab": [
+      [
+        "actuary",
+        "n.",
+        "chuyên gia định phí bảo hiểm/hưu trí"
+      ],
+      [
+        "basis point",
+        "n.",
+        "điểm cơ bản (0,01%)"
+      ],
+      [
+        "sovereign bond",
+        "n.",
+        "trái phiếu chính phủ"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g12",
+    "audioScript": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "audioVoiceText": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "questionText": "What do the sensor readings indicate about Turbine 7?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Its rotor blades have been damaged by lightning."
+      },
+      {
+        "key": "B",
+        "text": "(B) A component inside the gearbox is beginning to deteriorate."
+      },
+      {
+        "key": "C",
+        "text": "(C) The subsea power cable has lost insulation."
+      },
+      {
+        "key": "D",
+        "text": "(D) The lubricant reservoir has leaked into the tower."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Số liệu cảm biến cho biết điều gì về Tua-bin 7?\n(A) Cánh quạt bị sét đánh hỏng.\n(B) Một bộ phận vòng bi bên trong hộp số đang bắt đầu bong tróc/hư hại.\n(C) Cáp điện ngầm dưới biển bị mất lớp cách điện.\n(D) Bình dầu bôi trơn bị rò rỉ vào thân tháp.",
+    "explanation": "Hạt sắt tăng vọt lên 45 ppm kết hợp rung động điều hòa cho thấy hiện tượng bong tróc vòng bi mới chớm (incipient bearing spalling) trong hộp số chính.",
+    "vocab": [
+      [
+        "telemetry",
+        "n.",
+        "đo lường và truyền dữ liệu từ xa"
+      ],
+      [
+        "anomaly",
+        "n.",
+        "sự bất thường"
+      ],
+      [
+        "false economy",
+        "n.",
+        "sự tiết kiệm trước mắt nhưng gây tốn kém lớn về sau"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g12",
+    "audioScript": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "audioVoiceText": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "questionText": "Why does the man mention waiting until November?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Sea conditions are calmer in late autumn."
+      },
+      {
+        "key": "B",
+        "text": "(B) Replacement bearings are currently out of stock."
+      },
+      {
+        "key": "C",
+        "text": "(C) Hiring the specialized maintenance ship would be significantly cheaper then."
+      },
+      {
+        "key": "D",
+        "text": "(D) Electricity demand is lower in November."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông nhắc đến việc chờ tới tháng Mười Một?\n(A) Điều kiện biển êm hơn vào cuối thu.\n(B) Vòng bi thay thế hiện đang hết hàng.\n(C) Chi phí thuê tàu bảo trì chuyên dụng lúc đó sẽ rẻ hơn 30%.\n(D) Nhu cầu điện thấp hơn vào tháng 11.",
+    "explanation": "Anh nói: \"waiting until November would cut vessel costs by thirty percent.\"",
+    "vocab": [
+      [
+        "telemetry",
+        "n.",
+        "đo lường và truyền dữ liệu từ xa"
+      ],
+      [
+        "anomaly",
+        "n.",
+        "sự bất thường"
+      ],
+      [
+        "false economy",
+        "n.",
+        "sự tiết kiệm trước mắt nhưng gây tốn kém lớn về sau"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g12",
+    "audioScript": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "audioVoiceText": "Man: Evelyn, I am looking at the telemetry logs from our offshore wind-turbine array in the North Sea, and Turbine 7 is showing harmonic vibration anomalies in the main gearbox.\nWoman: Look at the oil-particulate sensor data in the third column: iron microparticles spiked to forty-five parts per million yesterday, which points to incipient bearing spalling.\nMan: If we dispatch the jack-up maintenance vessel now, charter rates are at their autumn peak; waiting until November would cut vessel costs by thirty percent.\nWoman: Waiting is a false economy. If that bearing seizes during an October gale, replacing the entire nacelle at sea would cost five times the charter premium. Mobilize the vessel for Thursday’s weather window.",
+    "questionText": "What does the woman mean when she says, \"Waiting is a false economy\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Postponing the repair risks a catastrophic failure that would cost far more."
+      },
+      {
+        "key": "B",
+        "text": "(B) The charter company’s November discount is not contractually guaranteed."
+      },
+      {
+        "key": "C",
+        "text": "(C) Insurance policies do not cover maintenance performed in winter."
+      },
+      {
+        "key": "D",
+        "text": "(D) The turbine is already generating negative revenue."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói \"Waiting is a false economy\"?\n(A) Trì hoãn sửa chữa để tiết kiệm trước mắt có nguy cơ dẫn tới hỏng hóc nặng tốn kém gấp năm lần.\n(B) Mức giảm giá tháng 11 của công ty tàu không được cam kết trong hợp đồng.\n(C) Bảo hiểm không chi trả cho việc bảo trì vào mùa đông.\n(D) Tua-bin hiện đã tạo ra doanh thu âm.",
+    "explanation": "\"False economy\" là sự tiết kiệm giả tạo: chờ đợi dễ làm kẹt vòng bi trong bão tháng 10, khiến chi phí thay cả cụm nacelle đắt gấp 5 lần.",
+    "vocab": [
+      [
+        "telemetry",
+        "n.",
+        "đo lường và truyền dữ liệu từ xa"
+      ],
+      [
+        "anomaly",
+        "n.",
+        "sự bất thường"
+      ],
+      [
+        "false economy",
+        "n.",
+        "sự tiết kiệm trước mắt nhưng gây tốn kém lớn về sau"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g13",
+    "audioScript": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "audioVoiceText": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "questionText": "What is the regulator’s main concern about the joint venture?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It would monopolize refrigerated rail transport along a key mountain corridor."
+      },
+      {
+        "key": "B",
+        "text": "(B) It would lead to warehouse closures in northern Italy."
+      },
+      {
+        "key": "C",
+        "text": "(C) It would violate environmental noise limits on Alpine routes."
+      },
+      {
+        "key": "D",
+        "text": "(D) It would reduce foreign investment in domestic rail infrastructure."
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Mối quan ngại chính của cơ quan quản lý cạnh tranh về liên doanh là gì?\n(A) Liên doanh sẽ chiếm lĩnh tới 68% năng lực vận tải đường sắt lạnh qua hành lang núi trọng yếu, chèn ép các nhà xuất khẩu nhỏ.\n(B) Liên doanh sẽ dẫn đến đóng cửa kho bãi ở bắc Ý.\n(C) Liên doanh vi phạm giới hạn tiếng ồn môi trường.\n(D) Liên doanh làm giảm đầu tư nước ngoài vào hạ tầng đường sắt.",
+    "explanation": "Người phụ nữ nói liên doanh sẽ kiểm soát 68% công suất đường sắt lạnh qua hành lang Brenner nên cơ quan quản lý lo ngại việc loại trừ (foreclose) các nhà xuất khẩu nhỏ.",
+    "vocab": [
+      [
+        "statement of objections",
+        "n.",
+        "văn bản nêu ý kiến phản đối sơ bộ (chống độc quyền)"
+      ],
+      [
+        "foreclose",
+        "v.",
+        "ngăn chặn, loại trừ đối thủ khỏi thị trường"
+      ],
+      [
+        "divest",
+        "v.",
+        "thoái vốn, nhượng lại tài sản/suất phân bổ"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g13",
+    "audioScript": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "audioVoiceText": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "questionText": "What does the man propose to address the regulator’s objection?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Abandoning the joint venture and signing a simple marketing alliance"
+      },
+      {
+        "key": "B",
+        "text": "(B) Transferring several weekly rail allocations to a competing carrier"
+      },
+      {
+        "key": "C",
+        "text": "(C) Converting the refrigerated rail cars to standard cargo containers"
+      },
+      {
+        "key": "D",
+        "text": "(D) Requesting a six-month postponement of the Phase Two hearing"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông đề xuất làm gì để giải quyết phản đối của cơ quan quản lý?\n(A) Hủy bỏ liên doanh và chỉ ký liên minh tiếp thị đơn giản.\n(B) Nhượng lại 4 cặp suất chạy tàu hàng tuần cho một đơn vị vận hành độc lập.\n(C) Chuyển đổi toa tàu lạnh sang toa hàng thường.\n(D) Xin hoãn phiên điều trần Giai đoạn 2 thêm sáu tháng.",
+    "explanation": "Ông đề xuất biện pháp khắc phục cấu trúc: \"divest four weekly slot pairs to an independent operator before the Phase Two hearing.\"",
+    "vocab": [
+      [
+        "statement of objections",
+        "n.",
+        "văn bản nêu ý kiến phản đối sơ bộ (chống độc quyền)"
+      ],
+      [
+        "foreclose",
+        "v.",
+        "ngăn chặn, loại trừ đối thủ khỏi thị trường"
+      ],
+      [
+        "divest",
+        "v.",
+        "thoái vốn, nhượng lại tài sản/suất phân bổ"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv6-t1-p3-g13",
+    "audioScript": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "audioVoiceText": "Woman: Henrik, the competition authority just published its preliminary statement of objections regarding our proposed joint venture with Kestrel Logistics.\nMan: Are they challenging the cold-chain warehousing overlap in northern Italy, or the cross-border rail freight routes?\nWoman: It is the Alpine rail slots. Because our combined entity would control sixty-eight percent of refrigerated rail capacity through the Brenner corridor, regulators fear we could foreclose smaller perishable-goods exporters.\nMan: Then we should proactively offer a structural remedy: if we divest four weekly slot pairs to an independent operator before the Phase Two hearing, we can secure clearance without delaying the January launch.",
+    "questionText": "Why does the man want to submit the proposal before the Phase Two hearing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To avoid paying a filing fee to the competition authority"
+      },
+      {
+        "key": "B",
+        "text": "(B) To obtain regulatory approval in time for the planned January rollout"
+      },
+      {
+        "key": "C",
+        "text": "(C) To prevent Kestrel Logistics from renegotiating the profit split"
+      },
+      {
+        "key": "D",
+        "text": "(D) To qualify for European Union rail-freight subsidies"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người đàn ông muốn nộp đề xuất trước phiên điều trần Giai đoạn 2?\n(A) Để tránh nộp lệ phí cho cơ quan cạnh tranh.\n(B) Để giành được phê duyệt kịp thời cho đợt ra mắt dự kiến vào tháng Giêng.\n(C) Để ngăn Kestrel Logistics đàm phán lại tỷ lệ chia lợi nhuận.\n(D) Để đủ điều kiện nhận trợ cấp vận tải đường sắt của EU.",
+    "explanation": "Ông nói: \"we can secure clearance without delaying the January launch.\"",
+    "vocab": [
+      [
+        "statement of objections",
+        "n.",
+        "văn bản nêu ý kiến phản đối sơ bộ (chống độc quyền)"
+      ],
+      [
+        "foreclose",
+        "v.",
+        "ngăn chặn, loại trừ đối thủ khỏi thị trường"
+      ],
+      [
+        "divest",
+        "v.",
+        "thoái vốn, nhượng lại tài sản/suất phân bổ"
+      ]
+    ]
+  }
+]

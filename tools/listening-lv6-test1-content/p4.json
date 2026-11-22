@@ -1,0 +1,633 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following excerpt from a meeting:",
+    "audioScript": "Good morning, esteemed shareholders. While our consolidated revenue for the third quarter exceeded consensus forecasts by four percent, the executive committee has decided to recalibrate our capital allocation framework for the upcoming fiscal year. Rather than expanding our brick-and-mortar distribution hubs in saturated European markets—a course of action that would yield diminishing returns given current inflationary headwinds—we are divesting three non-core logistics subsidiaries. The proceeds will be ring-fenced to bankroll our proprietary cold-chain automation platform in Southeast Asia. I recognize that suspending our discretionary share buyback program for two quarters may seem overly conservative to some of you. However, shoring up our liquidity buffer now ensures we will not have to tap the debt markets at punitive interest rates should macroeconomic volatility persist.",
+    "questionText": "Why is the company selling off three of its subsidiaries?",
+    "options": [
+      "To comply with anti-monopoly regulations in European markets",
+      "To fund a technological initiative in an emerging region",
+      "To pay down high-interest debt incurred during the third quarter",
+      "To offset a four-percent shortfall in quarterly revenue"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng các cổ đông đáng kính. Mặc dù doanh thu hợp nhất quý ba của chúng ta vượt dự báo chung 4%, ủy ban điều hành đã quyết định hiệu chỉnh lại khung phân bổ vốn cho năm tài chính tới. Thay vì mở rộng các trung tâm phân phối truyền thống tại các thị trường châu Âu đã bão hòa—một hướng đi sẽ mang lại lợi suất giảm dần trước những lực cản lạm phát hiện nay—chúng ta đang thoái vốn khỏi ba công ty con logistics không cốt lõi. Số tiền thu được sẽ được khoanh vùng riêng để tài trợ cho nền tảng tự động hóa chuỗi cung ứng lạnh độc quyền tại Đông Nam Á. Tôi hiểu rằng việc tạm dừng chương trình mua lại cổ phiếu tùy nghi trong hai quý có thể có vẻ quá thận trọng đối với một số quý vị. Tuy nhiên, việc củng cố đệm thanh khoản ngay bây giờ đảm bảo chúng ta sẽ không phải huy động vốn trên thị trường nợ với lãi suất đắt đỏ nếu biến động kinh tế vĩ mô tiếp diễn.\n\nCâu hỏi: Tại sao công ty lại bán bớt ba công ty con?\n(A) Để tuân thủ các quy định chống độc quyền tại thị trường châu Âu\n(B) Để tài trợ cho một sáng kiến công nghệ tại một khu vực đang phát triển\n(C) Để trả khoản nợ lãi suất cao phát sinh trong quý ba\n(D) Để bù đắp mức thiếu hụt bốn phần trăm doanh thu hàng quý",
+    "explanation": "Người nói nêu rõ đang thoái vốn ba công ty con logistics ('divesting three non-core logistics subsidiaries') và số tiền thu được sẽ được dùng riêng để tài trợ cho nền tảng tự động hóa chuỗi lạnh tại Đông Nam Á ('The proceeds will be ring-fenced to bankroll our proprietary cold-chain automation platform in Southeast Asia'), tương ứng với đáp án B. Các phương án A (chống độc quyền), C (trả nợ quý 3 - thực tế là tránh vay nợ tương lai) và D (bù đắp thiếu hụt 4% - thực tế là vượt dự báo 4%) đều là bẫy half-truth.",
+    "vocab": [
+      ["recalibrate", "v", "hiệu chỉnh lại, điều chỉnh lại"],
+      ["divest", "v", "thoái vốn, bán bớt tài sản"],
+      ["ring-fence", "v", "khoanh vùng bảo vệ (vốn/ngân sách cho mục đích riêng)"],
+      ["headwind", "n", "lực cản, yếu tố bất lợi"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following excerpt from a meeting:",
+    "audioScript": "Good morning, esteemed shareholders. While our consolidated revenue for the third quarter exceeded consensus forecasts by four percent, the executive committee has decided to recalibrate our capital allocation framework for the upcoming fiscal year. Rather than expanding our brick-and-mortar distribution hubs in saturated European markets—a course of action that would yield diminishing returns given current inflationary headwinds—we are divesting three non-core logistics subsidiaries. The proceeds will be ring-fenced to bankroll our proprietary cold-chain automation platform in Southeast Asia. I recognize that suspending our discretionary share buyback program for two quarters may seem overly conservative to some of you. However, shoring up our liquidity buffer now ensures we will not have to tap the debt markets at punitive interest rates should macroeconomic volatility persist.",
+    "questionText": "What does the speaker imply when mentioning \"punitive interest rates\"?",
+    "options": [
+      "The company was recently penalized by financial regulators.",
+      "Borrowing money externally has become prohibitively expensive.",
+      "Shareholders will receive higher dividend yields this year.",
+      "European banks have frozen the company's credit lines."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói hàm ý gì khi nhắc đến \"lãi suất mang tính trừng phạt (đắt đỏ)\"?\n(A) Công ty gần đây đã bị các cơ quan quản lý tài chính phạt.\n(B) Việc vay tiền từ bên ngoài đã trở nên đắt đỏ đến mức khó chấp nhận.\n(C) Cổ đông sẽ nhận được lợi tức cổ tức cao hơn trong năm nay.\n(D) Các ngân hàng châu Âu đã đóng băng hạn mức tín dụng của công ty.",
+    "explanation": "Người nói giải thích việc củng cố đệm thanh khoản hiện tại giúp công ty không phải tìm đến thị trường nợ với mức lãi suất khắc nghiệt/đắt đỏ ('will not have to tap the debt markets at punitive interest rates'), hàm ý chi phí đi vay từ bên ngoài hiện đang quá cao (đáp án B). Đáp án A bẫy nghĩa đen của từ 'punitive' (trừng phạt).",
+    "vocab": [
+      ["liquidity buffer", "n. phr", "đệm dự phòng thanh khoản"],
+      ["punitive", "adj", "khắc nghiệt, cao cắt cổ (lãi suất/thuế)"],
+      ["prohibitively", "adv", "đến mức quá cao không thể chấp nhận được"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following excerpt from a meeting:",
+    "audioScript": "Good morning, esteemed shareholders. While our consolidated revenue for the third quarter exceeded consensus forecasts by four percent, the executive committee has decided to recalibrate our capital allocation framework for the upcoming fiscal year. Rather than expanding our brick-and-mortar distribution hubs in saturated European markets—a course of action that would yield diminishing returns given current inflationary headwinds—we are divesting three non-core logistics subsidiaries. The proceeds will be ring-fenced to bankroll our proprietary cold-chain automation platform in Southeast Asia. I recognize that suspending our discretionary share buyback program for two quarters may seem overly conservative to some of you. However, shoring up our liquidity buffer now ensures we will not have to tap the debt markets at punitive interest rates should macroeconomic volatility persist.",
+    "questionText": "What action will be put on hold for six months?",
+    "options": [
+      "The release of the third-quarter consolidated earnings report",
+      "The construction of cold-chain facilities in Southeast Asia",
+      "The repurchase of the company's own stock on the market",
+      "The appointment of new members to the executive committee"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Hoạt động nào sẽ bị tạm hoãn trong sáu tháng?\n(A) Việc công bố báo cáo thu nhập hợp nhất quý ba\n(B) Việc xây dựng các cơ sở chuỗi lạnh tại Đông Nam Á\n(C) Việc mua lại cổ phiếu của chính công ty trên thị trường\n(D) Việc bổ nhiệm các thành viên mới vào ủy ban điều hành",
+    "explanation": "Người nói đề cập đến việc 'suspending our discretionary share buyback program for two quarters' (tạm dừng chương trình mua lại cổ phiếu tùy nghi trong hai quý = 6 tháng). Cụm 'share buyback' đồng nghĩa với 'repurchase of the company's own stock' ở đáp án C.",
+    "vocab": [
+      ["discretionary", "adj", "tùy nghi, không bắt buộc"],
+      ["share buyback", "n. phr", "việc mua lại cổ phiếu quỹ"],
+      ["shore up", "phr. v", "củng cố, gia cố, chống đỡ"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following broadcast:",
+    "audioScript": "Welcome back to Global Trade Pulse. Turning to maritime commerce, the Baltic Dry Index registered a steep uptick this week, driven not by a surge in raw commodity demand, but rather by a bottleneck in transshipment clearances across major Mediterranean ports. A newly enacted carbon-intensity tariff has caught several mid-tier freight operators off guard, forcing vessels without dual-fuel propulsion systems to reroute around secondary terminals unless they have pre-purchased emissions-offset credits. While conglomerate shipping lines with modernized fleets are weathering the transition effortlessly—and even commanding a hefty freight premium—smaller charterers are facing acute margin compression. Analysts at Meridian Maritime warn that unless regulators grant a ninety-day grace period for retroactive documentation, spot rates for containerized agricultural exports could remain elevated through the fourth quarter.",
+    "questionText": "According to the speaker, what is the primary cause of the recent increase in the shipping index?",
+    "options": [
+      "An unexpected spike in global demand for raw commodities",
+      "Administrative and regulatory delays at Mediterranean ports",
+      "A labor strike among dockworkers at secondary terminals",
+      "A shortage of agricultural containers in the fourth quarter"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào mừng quay trở lại với Nhịp đập Thương mại Toàn cầu. Chuyển sang thương mại hàng hải, Chỉ số Thuê tàu Hàng khô Baltic đã ghi nhận mức tăng vọt trong tuần này, không phải do nhu cầu hàng hóa thô tăng đột biến, mà là do nút thắt cổ chai trong thủ tục thông quan trung chuyển tại các cảng lớn ở Địa Trung Hải. Một biểu thuế cường độ carbon mới được ban hành đã khiến nhiều nhà khai thác vận tải tầm trung bất ngờ, buộc các tàu không có hệ thống đẩy nhiên liệu kép phải chuyển hướng qua các cảng phụ trừ khi họ đã mua trước tín chỉ bù đắp phát thải. Trong khi các hãng tàu tập đoàn lớn với đội tàu hiện đại hóa đang vượt qua giai đoạn chuyển đổi một cách dễ dàng—và thậm chí còn thu được mức phí vận chuyển chênh lệch cao—các bên thuê tàu nhỏ hơn đang phải đối mặt với sự thu hẹp biên lợi nhuận nghiêm trọng. Các nhà phân tích tại Meridian Maritime cảnh báo rằng trừ khi các cơ quan quản lý cho phép thời gian ân hạn chín mươi ngày để bổ sung hồ sơ hồi tố, giá cước giao ngay đối với hàng nông sản xuất khẩu đóng container có thể vẫn ở mức cao suốt quý bốn.\n\nCâu hỏi: Theo người nói, nguyên nhân chính dẫn đến sự gia tăng gần đây của chỉ số vận tải biển là gì?\n(A) Sự tăng vọt bất ngờ về nhu cầu toàn cầu đối với hàng hóa thô\n(B) Sự chậm trễ về thủ tục hành chính và quy định tại các cảng Địa Trung Hải\n(C) Một cuộc đình công của công nhân bốc xếp tại các cảng phụ\n(D) Sự thiếu hụt container hàng nông sản trong quý bốn",
+    "explanation": "Người nói khẳng định mức tăng không phải do nhu cầu hàng hóa thô ('driven not by a surge in raw commodity demand' - loại A), mà do sự tắc nghẽn trong thông quan trung chuyển ở các cảng Địa Trung Hải vì quy định thuế carbon mới ('a bottleneck in transshipment clearances across major Mediterranean ports' / 'newly enacted carbon-intensity tariff'), tương ứng đáp án B.",
+    "vocab": [
+      ["transshipment", "n", "việc chuyển tải, trung chuyển hàng hóa"],
+      ["bottleneck", "n", "nút thắt cổ chai, sự đình trệ"],
+      ["propulsion", "n", "hệ thống đẩy, lực đẩy"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following broadcast:",
+    "audioScript": "Welcome back to Global Trade Pulse. Turning to maritime commerce, the Baltic Dry Index registered a steep uptick this week, driven not by a surge in raw commodity demand, but rather by a bottleneck in transshipment clearances across major Mediterranean ports. A newly enacted carbon-intensity tariff has caught several mid-tier freight operators off guard, forcing vessels without dual-fuel propulsion systems to reroute around secondary terminals unless they have pre-purchased emissions-offset credits. While conglomerate shipping lines with modernized fleets are weathering the transition effortlessly—and even commanding a hefty freight premium—smaller charterers are facing acute margin compression. Analysts at Meridian Maritime warn that unless regulators grant a ninety-day grace period for retroactive documentation, spot rates for containerized agricultural exports could remain elevated through the fourth quarter.",
+    "questionText": "Under what condition can older vessels avoid taking alternative routes?",
+    "options": [
+      "If they carry exclusively agricultural exports",
+      "If they belong to a mid-tier freight operator",
+      "If they have acquired carbon-offset certificates in advance",
+      "If they pay a ninety-day surcharge at secondary terminals"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Trong điều kiện nào các tàu cũ có thể tránh phải đi theo các tuyến đường thay thế?\n(A) Nếu chúng chỉ chở hàng nông sản xuất khẩu\n(B) Nếu chúng thuộc về một nhà khai thác vận tải tầm trung\n(C) Nếu chúng đã mua trước các chứng chỉ bù đắp carbon\n(D) Nếu chúng trả phụ phí chín mươi ngày tại các cảng phụ",
+    "explanation": "Bài nói nêu rõ các tàu không có hệ thống nhiên liệu kép buộc phải đổi hướng trừ khi họ đã mua trước tín chỉ bù đắp phát thải ('forcing vessels without dual-fuel propulsion systems to reroute... unless they have pre-purchased emissions-offset credits'), khớp với đáp án C.",
+    "vocab": [
+      ["catch off guard", "idiom", "làm cho bất ngờ, trở tay không kịp"],
+      ["emissions-offset credit", "n. phr", "tín chỉ bù đắp phát thải"],
+      ["grace period", "n. phr", "thời gian ân hạn"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following broadcast:",
+    "audioScript": "Welcome back to Global Trade Pulse. Turning to maritime commerce, the Baltic Dry Index registered a steep uptick this week, driven not by a surge in raw commodity demand, but rather by a bottleneck in transshipment clearances across major Mediterranean ports. A newly enacted carbon-intensity tariff has caught several mid-tier freight operators off guard, forcing vessels without dual-fuel propulsion systems to reroute around secondary terminals unless they have pre-purchased emissions-offset credits. While conglomerate shipping lines with modernized fleets are weathering the transition effortlessly—and even commanding a hefty freight premium—smaller charterers are facing acute margin compression. Analysts at Meridian Maritime warn that unless regulators grant a ninety-day grace period for retroactive documentation, spot rates for containerized agricultural exports could remain elevated through the fourth quarter.",
+    "questionText": "What does the speaker mean when saying that large shipping lines are \"weathering the transition effortlessly\"?",
+    "options": [
+      "Their vessels are equipped to handle severe Mediterranean storms.",
+      "They are adapting to the new environmental rules without financial strain.",
+      "They have successfully lobbied regulators to repeal the tariff.",
+      "They are transferring their older vessels to smaller charterers."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói có ý gì khi nói rằng các hãng tàu lớn đang \"vượt qua giai đoạn chuyển đổi một cách dễ dàng\"?\n(A) Tàu của họ được trang bị để đối phó với những cơn bão dữ dội ở Địa Trung Hải.\n(B) Họ đang thích nghi với các quy định môi trường mới mà không gặp áp lực tài chính.\n(C) Họ đã vận động hành lang thành công các cơ quan quản lý để bãi bỏ biểu thuế.\n(D) Họ đang chuyển giao các tàu cũ của mình cho các bên thuê tàu nhỏ hơn.",
+    "explanation": "Động từ 'weather' (vượt qua sóng gió/khó khăn) trong cụm 'weathering the transition effortlessly—and even commanding a hefty freight premium' mang nghĩa bóng là các tập đoàn có đội tàu hiện đại thích ứng suôn sẻ với quy định mới và thậm chí còn thu lợi cao, trái ngược với các hãng nhỏ bị thu hẹp biên lợi nhuận (đáp án B). Đáp án A bẫy nghĩa đen của từ 'weather' (thời tiết).",
+    "vocab": [
+      ["weather", "v", "vượt qua (khó khăn, khủng hoảng)"],
+      ["margin compression", "n. phr", "sự thu hẹp biên lợi nhuận"],
+      ["retroactive", "adj", "có hiệu lực hồi tố"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following instructions:",
+    "audioScript": "Attention all visiting fellows and bench scientists. Before we commence today's orientation in the Biosafety Level 3 containment wing, please be advised that the external auditing consortium will be conducting unannounced air-differential inspections throughout the week. Consequently, our standard entry protocol has been augmented. Merely scanning your biometric badge at the airlock vestibule will no longer suffice; you must also log the serial number of your powered air-purifying respirator into the terminal outside Suite 4B. Furthermore, under no circumstances should autoclaved waste canisters be staged in the sub-corridor awaiting evening pickup. The sole exception applies to sealed cryogenic vials containing attenuated viral vectors, provided they are accompanied by a countersigned chain-of-custody manifest from Dr. Vance's pathology unit.",
+    "questionText": "Who is the speaker most likely addressing?",
+    "options": [
+      "Members of an external safety auditing consortium",
+      "Maintenance technicians repairing airlock vestibules",
+      "Laboratory researchers working in a high-containment facility",
+      "Medical couriers transporting cryogenic equipment"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nXin lưu ý tất cả các nghiên cứu viên khách mời và các nhà khoa học làm việc tại phòng thí nghiệm. Trước khi chúng ta bắt đầu buổi định hướng hôm nay tại khu vực cách ly An toàn Sinh học Cấp độ 3, xin lưu ý rằng liên danh kiểm toán bên ngoài sẽ tiến hành các cuộc thanh tra chênh lệch áp suất không khí đột xuất trong suốt cả tuần. Do đó, quy trình ra vào tiêu chuẩn của chúng ta đã được tăng cường. Việc chỉ quét thẻ sinh trắc học tại tiền sảnh buồng đệm khí sẽ không còn đủ nữa; quý vị còn phải nhập số sê-ri của mặt nạ phòng độc lọc khí trợ lực vào thiết bị đầu cuối bên ngoài Phòng 4B. Hơn nữa, trong bất kỳ hoàn cảnh nào cũng không được tập kết các thùng chứa chất thải đã hấp tiệt trùng ở hành lang phụ để chờ thu gom vào buổi tối. Ngoại lệ duy nhất áp dụng cho các lọ đông lạnh sâu đã niêm phong chứa các véc-tơ vi-rút giảm độc lực, với điều kiện chúng đi kèm với bảng kê khai chuỗi hành trình bảo quản có chữ ký đối chứng từ đơn vị bệnh học của Tiến sĩ Vance.\n\nCâu hỏi: Người nói có khả năng cao nhất đang nói chuyện với ai?\n(A) Các thành viên của một liên danh kiểm toán an toàn bên ngoài\n(B) Các kỹ thuật viên bảo trì đang sửa chữa tiền sảnh buồng đệm khí\n(C) Các nhà nghiên cứu phòng thí nghiệm làm việc trong một cơ sở cách ly cao độ\n(D) Các nhân viên giao nhận y tế vận chuyển thiết bị đông lạnh sâu",
+    "explanation": "Lời mở đầu 'Attention all visiting fellows and bench scientists. Before we commence today's orientation in the Biosafety Level 3 containment wing...' cho thấy đối tượng nghe là các nhà nghiên cứu phòng thí nghiệm tại khu vực cách ly sinh học cấp độ cao (đáp án C). Phương án A là đơn vị sẽ đến thanh tra chứ không phải người nghe.",
+    "vocab": [
+      ["containment", "n", "sự cách ly, ngăn chặn (tác nhân sinh học)"],
+      ["augment", "v", "tăng cường, bổ sung thêm"],
+      ["suffice", "v", "đủ, đáp ứng đủ yêu cầu"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following instructions:",
+    "audioScript": "Attention all visiting fellows and bench scientists. Before we commence today's orientation in the Biosafety Level 3 containment wing, please be advised that the external auditing consortium will be conducting unannounced air-differential inspections throughout the week. Consequently, our standard entry protocol has been augmented. Merely scanning your biometric badge at the airlock vestibule will no longer suffice; you must also log the serial number of your powered air-purifying respirator into the terminal outside Suite 4B. Furthermore, under no circumstances should autoclaved waste canisters be staged in the sub-corridor awaiting evening pickup. The sole exception applies to sealed cryogenic vials containing attenuated viral vectors, provided they are accompanied by a countersigned chain-of-custody manifest from Dr. Vance's pathology unit.",
+    "questionText": "What additional step is now required before entering the containment wing?",
+    "options": [
+      "Obtaining a temporary biometric badge from Dr. Vance",
+      "Registering protective breathing equipment at a digital station",
+      "Testing the air-differential pressure inside Suite 4B",
+      "Sterilizing respirators in an autoclave unit"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Bước bổ sung nào hiện được yêu cầu trước khi vào khu vực cách ly?\n(A) Nhận thẻ sinh trắc học tạm thời từ Tiến sĩ Vance\n(B) Đăng ký thiết bị bảo vệ hô hấp tại một trạm kỹ thuật số\n(C) Kiểm tra chênh lệch áp suất không khí bên trong Phòng 4B\n(D) Tiệt trùng mặt nạ phòng độc trong thiết bị hấp",
+    "explanation": "Người nói hướng dẫn rằng chỉ quét thẻ sinh trắc học là không đủ nữa, người vào phải nhập số sê-ri của mặt nạ lọc khí trợ lực vào thiết bị đầu cuối ('log the serial number of your powered air-purifying respirator into the terminal outside Suite 4B'), tương ứng với đáp án B.",
+    "vocab": [
+      ["vestibule", "n", "tiền sảnh, buồng đệm"],
+      ["respirator", "n", "mặt nạ phòng độc / thiết bị lọc khí hô hấp"],
+      ["autoclave", "v/n", "hấp tiệt trùng bằng áp suất cao / nồi hấp"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following instructions:",
+    "audioScript": "Attention all visiting fellows and bench scientists. Before we commence today's orientation in the Biosafety Level 3 containment wing, please be advised that the external auditing consortium will be conducting unannounced air-differential inspections throughout the week. Consequently, our standard entry protocol has been augmented. Merely scanning your biometric badge at the airlock vestibule will no longer suffice; you must also log the serial number of your powered air-purifying respirator into the terminal outside Suite 4B. Furthermore, under no circumstances should autoclaved waste canisters be staged in the sub-corridor awaiting evening pickup. The sole exception applies to sealed cryogenic vials containing attenuated viral vectors, provided they are accompanied by a countersigned chain-of-custody manifest from Dr. Vance's pathology unit.",
+    "questionText": "When is it permissible to leave materials in the sub-corridor?",
+    "options": [
+      "When the evening waste collection crew is running behind schedule",
+      "When the containers have been fully sterilized in the autoclave",
+      "When specific frozen specimens have dual-signature documentation",
+      "When the external auditors have completed their daily inspection"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khi nào thì được phép để vật liệu ở hành lang phụ?\n(A) Khi đội thu gom chất thải buổi tối làm việc chậm tiến độ\n(B) Khi các thùng chứa đã được tiệt trùng hoàn toàn trong nồi hấp\n(C) Khi các mẫu vật đông lạnh đặc thù có hồ sơ ký xác nhận đối chứng\n(D) Khi các kiểm toán viên bên ngoài đã hoàn thành cuộc thanh tra hàng ngày",
+    "explanation": "Người nói nêu quy tắc tuyệt đối không để thùng chất thải ở hành lang phụ, ngoại lệ duy nhất ('The sole exception') là các lọ đông lạnh sâu đã niêm phong ('sealed cryogenic vials') có kèm bảng kê khai chuỗi bảo quản có chữ ký đối chứng ('accompanied by a countersigned chain-of-custody manifest'), khớp với đáp án C.",
+    "vocab": [
+      ["cryogenic", "adj", "đông lạnh sâu, thuộc nhiệt độ cực thấp"],
+      ["attenuated", "adj", "đã làm suy yếu, giảm độc lực (vi-rút)"],
+      ["countersign", "v", "ký đối chứng, đồng ký xác nhận"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following keynote address:",
+    "audioScript": "Distinguished delegates, welcome to the Global Supply Chain Resilience Summit here in Zurich. Over the past decade, orthodoxy in industrial procurement dictated that lean, just-in-time inventory models were the pinnacle of operational efficiency. Yet, as recent geopolitical fractures and semiconductor fabrication bottlenecks have painfully demonstrated, hyper-optimization leaves enterprises brittle when black-swan disruptions strike. However, swinging the pendulum entirely toward domestic reshoring is a knee-jerk reaction that ignores comparative cost advantages. Instead, the vanguard of multinational manufacturers is embracing 'friend-shoring' coupled with multi-tier supplier visibility. Before our morning panel convenes, I urge you to peruse the white paper in your delegate folios, though please disregard Appendix C—our econometricians updated the tariff-elasticity projections late last night, and the revised addendum is available exclusively via the conference app.",
+    "questionText": "What is the speaker's attitude toward complete domestic reshoring?",
+    "options": [
+      "It is an essential step to eliminate semiconductor bottlenecks.",
+      "It is an overly hasty approach that overlooks financial realities.",
+      "It is the pinnacle of modern operational efficiency.",
+      "It is only viable for enterprises based in Switzerland."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nThưa các đại biểu ưu tú, chào mừng đến với Hội nghị Thượng đỉnh về Khả năng Phục hồi Chuỗi Cung ứng Toàn cầu tại Zurich. Trong thập kỷ qua, quan điểm chính thống trong thu mua công nghiệp cho rằng các mô hình tồn kho tinh gọn, tức thời (just-in-time) là đỉnh cao của hiệu quả vận hành. Tuy nhiên, như những rạn nứt địa chính trị và nút thắt trong sản xuất chất bán dẫn gần đây đã chứng minh một cách đau đớn, việc tối ưu hóa quá mức khiến các doanh nghiệp trở nên mong manh dễ vỡ khi các cú sốc thiên nga đen ập đến. Tuy thế, việc đẩy con lắc hoàn toàn sang hướng đưa sản xuất về lại trong nước (reshoring) là một phản ứng bộc phát thiếu suy nghĩ, phớt lờ đi các lợi thế chi phí so sánh. Thay vào đó, nhóm tiên phong trong các nhà sản xuất đa quốc gia đang đón nhận xu hướng 'dịch chuyển chuỗi cung ứng sang các nước đồng minh' (friend-shoring) kết hợp với khả năng giám sát nhà cung ứng đa tầng. Trước khi phiên thảo luận buổi sáng bắt đầu, tôi khuyến khích quý vị đọc kỹ sách trắng trong tập tài liệu đại biểu, nhưng xin bỏ qua Phụ lục C—các nhà kinh tế lượng của chúng tôi đã cập nhật các dự báo về độ co giãn thuế quan vào đêm muộn hôm qua, và bản phụ lục sửa đổi chỉ có trên ứng dụng hội nghị.\n\nCâu hỏi: Thái độ của người nói đối với việc đưa toàn bộ hoạt động sản xuất về lại trong nước là gì?\n(A) Đó là một bước thiết yếu để xóa bỏ nút thắt cổ chai về chất bán dẫn.\n(B) Đó là một cách tiếp cận quá vội vàng, bỏ qua các thực tế tài chính.\n(C) Đó là đỉnh cao của hiệu quả vận hành hiện đại.\n(D) Nó chỉ khả thi đối với các doanh nghiệp có trụ sở tại Thụy Sĩ.",
+    "explanation": "Người nói nhận xét việc chuyển hoàn toàn về sản xuất trong nước ('swinging the pendulum entirely toward domestic reshoring') là 'a knee-jerk reaction that ignores comparative cost advantages' (một phản ứng bộc phát vội vã phớt lờ lợi thế chi phí so sánh), tương ứng với đáp án B.",
+    "vocab": [
+      ["orthodoxy", "n", "quan điểm chính thống, học thuyết truyền thống"],
+      ["brittle", "adj", "giòn, dễ gãy đổ, thiếu sức chống chịu"],
+      ["knee-jerk reaction", "n. phr", "phản ứng bộc phát, thiếu suy tính"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following keynote address:",
+    "audioScript": "Distinguished delegates, welcome to the Global Supply Chain Resilience Summit here in Zurich. Over the past decade, orthodoxy in industrial procurement dictated that lean, just-in-time inventory models were the pinnacle of operational efficiency. Yet, as recent geopolitical fractures and semiconductor fabrication bottlenecks have painfully demonstrated, hyper-optimization leaves enterprises brittle when black-swan disruptions strike. However, swinging the pendulum entirely toward domestic reshoring is a knee-jerk reaction that ignores comparative cost advantages. Instead, the vanguard of multinational manufacturers is embracing 'friend-shoring' coupled with multi-tier supplier visibility. Before our morning panel convenes, I urge you to peruse the white paper in your delegate folios, though please disregard Appendix C—our econometricians updated the tariff-elasticity projections late last night, and the revised addendum is available exclusively via the conference app.",
+    "questionText": "What strategy does the speaker advocate for multinational manufacturers?",
+    "options": [
+      "Adopting strict just-in-time inventory management",
+      "Diversifying networks across allied nations with deeper supply-chain tracking",
+      "Outsourcing econometric modeling to independent consultants",
+      "Eliminating secondary and tertiary component suppliers"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói ủng hộ chiến lược nào cho các nhà sản xuất đa quốc gia?\n(A) Áp dụng quản lý hàng tồn kho tức thời (just-in-time) nghiêm ngặt\n(B) Đa dạng hóa mạng lưới qua các quốc gia đồng minh cùng với việc theo dõi chuỗi cung ứng sâu hơn\n(C) Thuê ngoài việc lập mô hình kinh tế lượng cho các nhà tư vấn độc lập\n(D) Loại bỏ các nhà cung cấp linh kiện cấp hai và cấp ba",
+    "explanation": "Người nói ủng hộ xu hướng của nhóm tiên phong: \"embracing 'friend-shoring' coupled with multi-tier supplier visibility\" (dịch chuyển nguồn cung sang các quốc gia thân thiện/đồng minh kết hợp khả năng hiển thị/giám sát nhà cung cấp đa tầng), khớp hoàn toàn với đáp án B.",
+    "vocab": [
+      ["vanguard", "n", "đội ngũ tiên phong, nhóm dẫn đầu"],
+      ["peruse", "v", "đọc kỹ, nghiên cứu cẩn thận"],
+      ["addendum", "n", "phụ lục bổ sung, bản đính chính"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following keynote address:",
+    "audioScript": "Distinguished delegates, welcome to the Global Supply Chain Resilience Summit here in Zurich. Over the past decade, orthodoxy in industrial procurement dictated that lean, just-in-time inventory models were the pinnacle of operational efficiency. Yet, as recent geopolitical fractures and semiconductor fabrication bottlenecks have painfully demonstrated, hyper-optimization leaves enterprises brittle when black-swan disruptions strike. However, swinging the pendulum entirely toward domestic reshoring is a knee-jerk reaction that ignores comparative cost advantages. Instead, the vanguard of multinational manufacturers is embracing 'friend-shoring' coupled with multi-tier supplier visibility. Before our morning panel convenes, I urge you to peruse the white paper in your delegate folios, though please disregard Appendix C—our econometricians updated the tariff-elasticity projections late last night, and the revised addendum is available exclusively via the conference app.",
+    "questionText": "Why does the speaker tell the audience to ignore part of the printed material?",
+    "options": [
+      "The morning panel topic has been changed at the last minute.",
+      "Some statistical forecasts in the booklet have been superseded by newer data.",
+      "The printing vendor accidentally omitted several pages of the white paper.",
+      "The econometricians discovered a copyright infringement in the text."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người nói bảo khán giả bỏ qua một phần của tài liệu in?\n(A) Chủ đề phiên thảo luận buổi sáng đã bị thay đổi vào phút chót.\n(B) Một số dự báo thống kê trong tập tài liệu đã được thay thế bởi dữ liệu mới hơn.\n(C) Nhà cung cấp dịch vụ in ấn đã vô tình bỏ sót vài trang của sách trắng.\n(D) Các nhà kinh tế lượng phát hiện vi phạm bản quyền trong văn bản.",
+    "explanation": "Người nói dặn bỏ qua phần in sẵn vì các nhà kinh tế lượng đã cập nhật dự báo độ co giãn thuế quan vào đêm qua và bản sửa đổi có trên ứng dụng ('our econometricians updated the tariff-elasticity projections late last night, and the revised addendum is available exclusively via the conference app'), tương ứng với đáp án B.",
+    "vocab": [
+      ["econometrician", "n", "nhà kinh tế lượng"],
+      ["elasticity", "n", "độ co giãn (trong kinh tế học)"],
+      ["supersede", "v", "thay thế (cái cũ đã lỗi thời)"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "This is a policy briefing for all regional account executives regarding our heavy-duty centrifugal turbine line. Effective November first, we are amending Clause 14 of our standard commercial warranty agreement. Historically, our comprehensive indemnity covered premature bearing degradation regardless of the client's lubrication regimen. However, forensic metallurgy reports from recent field claims revealed that nearly sixty percent of rotor seizures stemmed from clients substituting third-party synthetic lubricants that fail to meet our thermal-viscosity thresholds. Consequently, any warranty claim for mechanical wear will henceforth be null and void unless the operator's telemetry module transmits continuous automated logs verifying the use of OEM-certified fluids. For legacy turbines lacking integrated IoT sensors, clients may retain coverage by submitting quarterly fluid-assay certificates from an accredited tribology lab.",
+    "questionText": "What prompted the company to revise its warranty policy?",
+    "options": [
+      "A design flaw discovered in the IoT telemetry modules",
+      "An increase in manufacturing costs for centrifugal turbines",
+      "Evidence that improper maintenance materials were causing equipment failures",
+      "A new government regulation on industrial synthetic lubricants"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nĐây là buổi phổ biến chính sách cho tất cả các giám đốc khách hàng khu vực liên quan đến dòng tua-bin ly tâm công suất lớn của chúng ta. Có hiệu lực từ ngày 1 tháng 11, chúng ta sẽ sửa đổi Điều 14 trong hợp đồng bảo hành thương mại tiêu chuẩn. Trước đây, chế độ bồi thường toàn diện của chúng ta chi trả cho sự xuống cấp sớm của vòng bi bất kể chế độ bôi trơn của khách hàng. Tuy nhiên, các báo cáo luyện kim pháp y từ các yêu cầu bồi thường thực địa gần đây tiết lộ rằng gần 60% các vụ kẹt rô-to bắt nguồn từ việc khách hàng thay thế bằng chất bôi trơn tổng hợp của bên thứ ba không đáp ứng ngưỡng độ nhớt nhiệt của chúng ta. Do đó, mọi yêu cầu bảo hành đối với hao mòn cơ học kể từ nay sẽ vô hiệu trừ khi mô-đun đo từ xa của đơn vị vận hành truyền tải nhật ký tự động liên tục xác minh việc sử dụng dung dịch đạt chuẩn OEM. Đối với các tua-bin đời cũ thiếu cảm biến IoT tích hợp, khách hàng có thể duy trì quyền lợi bảo hành bằng cách nộp chứng chỉ xét nghiệm dung dịch hàng quý từ phòng thí nghiệm ma sát học được công nhận.\n\nCâu hỏi: Điều gì đã thúc đẩy công ty sửa đổi chính sách bảo hành?\n(A) Một lỗi thiết kế được phát hiện trong các mô-đun đo từ xa IoT\n(B) Sự gia tăng chi phí sản xuất đối với tua-bin ly tâm\n(C) Bằng chứng cho thấy vật liệu bảo dưỡng không phù hợp đã gây ra hỏng hóc thiết bị\n(D) Một quy định mới của chính phủ về chất bôi trơn tổng hợp công nghiệp",
+    "explanation": "Người nói giải thích các báo cáo luyện kim pháp y chỉ ra gần 60% vụ kẹt rô-to là do khách hàng dùng chất bôi trơn bên thứ ba không đạt ngưỡng độ nhớt nhiệt ('nearly sixty percent of rotor seizures stemmed from clients substituting third-party synthetic lubricants that fail to meet our thermal-viscosity thresholds'), dẫn đến việc sửa đổi điều khoản bảo hành (đáp án C).",
+    "vocab": [
+      ["indemnity", "n", "sự bồi thường, bảo đảm tổn thất"],
+      ["degradation", "n", "sự suy thoái, xuống cấp, mài mòn"],
+      ["null and void", "adj. phr", "vô giá trị, mất hiệu lực pháp lý"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "This is a policy briefing for all regional account executives regarding our heavy-duty centrifugal turbine line. Effective November first, we are amending Clause 14 of our standard commercial warranty agreement. Historically, our comprehensive indemnity covered premature bearing degradation regardless of the client's lubrication regimen. However, forensic metallurgy reports from recent field claims revealed that nearly sixty percent of rotor seizures stemmed from clients substituting third-party synthetic lubricants that fail to meet our thermal-viscosity thresholds. Consequently, any warranty claim for mechanical wear will henceforth be null and void unless the operator's telemetry module transmits continuous automated logs verifying the use of OEM-certified fluids. For legacy turbines lacking integrated IoT sensors, clients may retain coverage by submitting quarterly fluid-assay certificates from an accredited tribology lab.",
+    "questionText": "How can owners of older turbine models keep their warranties valid?",
+    "options": [
+      "By retrofitting their machinery with automated telemetry modules",
+      "By having their lubricants tested every three months by an approved facility",
+      "By purchasing an extended indemnity package before November first",
+      "By returning used rotor bearings for forensic metallurgy inspection"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Chủ sở hữu các mẫu tua-bin đời cũ có thể duy trì hiệu lực bảo hành bằng cách nào?\n(A) Bằng cách lắp đặt bổ sung các mô-đun đo từ xa tự động cho máy móc của họ\n(B) Bằng cách đưa chất bôi trơn đi kiểm định ba tháng một lần tại một cơ sở được phê duyệt\n(C) Bằng cách mua gói bồi thường mở rộng trước ngày 1 tháng 11\n(D) Bằng cách gửi trả các vòng bi rô-to đã qua sử dụng để kiểm tra luyện kim pháp y",
+    "explanation": "Cuối bài nói nêu rõ ngoại lệ cho các tua-bin đời cũ không có cảm biến IoT ('legacy turbines lacking integrated IoT sensors'): khách hàng có thể giữ quyền bảo hành bằng cách nộp chứng chỉ phân tích chất lỏng hàng quý từ phòng thí nghiệm được công nhận ('submitting quarterly fluid-assay certificates from an accredited tribology lab'), tức đáp án B.",
+    "vocab": [
+      ["telemetry", "n", "công nghệ đo lường và truyền dữ liệu từ xa"],
+      ["legacy", "adj", "đời cũ, thuộc thế hệ trước (thiết bị/hệ thống)"],
+      ["assay", "n", "sự xét nghiệm, phân tích thành phần"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following announcement:",
+    "audioScript": "This is a policy briefing for all regional account executives regarding our heavy-duty centrifugal turbine line. Effective November first, we are amending Clause 14 of our standard commercial warranty agreement. Historically, our comprehensive indemnity covered premature bearing degradation regardless of the client's lubrication regimen. However, forensic metallurgy reports from recent field claims revealed that nearly sixty percent of rotor seizures stemmed from clients substituting third-party synthetic lubricants that fail to meet our thermal-viscosity thresholds. Consequently, any warranty claim for mechanical wear will henceforth be null and void unless the operator's telemetry module transmits continuous automated logs verifying the use of OEM-certified fluids. For legacy turbines lacking integrated IoT sensors, clients may retain coverage by submitting quarterly fluid-assay certificates from an accredited tribology lab.",
+    "questionText": "What is the main purpose of the talk?",
+    "options": [
+      "To train engineers on how to install IoT sensors on centrifugal turbines",
+      "To prepare sales representatives to explain contract changes to industrial clients",
+      "To announce the recall of a defective batch of synthetic lubricants",
+      "To persuade clients to upgrade from legacy turbines to newer models"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Mục đích chính của bài nói là gì?\n(A) Để đào tạo các kỹ sư cách lắp đặt cảm biến IoT trên tua-bin ly tâm\n(B) Để chuẩn bị cho các đại diện bán hàng giải thích những thay đổi hợp đồng với khách hàng công nghiệp\n(C) Để thông báo thu hồi một lô chất bôi trơn tổng hợp bị lỗi\n(D) Để thuyết phục khách hàng nâng cấp từ tua-bin đời cũ lên các mẫu mới hơn",
+    "explanation": "Bài nói mở đầu là 'a policy briefing for all regional account executives' (buổi phổ biến chính sách cho các giám đốc khách hàng khu vực) về việc sửa đổi điều khoản bảo hành và các điều kiện đi kèm, nhằm trang bị thông tin cho đội ngũ phụ trách khách hàng giải thích quy định mới (đáp án B).",
+    "vocab": [
+      ["regimen", "n", "chế độ, quy trình nghiêm ngặt (bảo dưỡng/điều trị)"],
+      ["viscosity", "n", "độ nhớt (của chất lỏng)"],
+      ["henceforth", "adv", "kể từ nay trở đi"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following technical briefing:",
+    "audioScript": "Alright, DevOps and infrastructure leads, listen up. At midnight UTC this Saturday, we are executing the final cutover of our core relational databases from our on-premises Frankfurt server farm to the distributed cloud cluster. Because we are utilizing asynchronous replication to minimize latency during the transition, there will be a forty-five-minute read-only window where transactional writes are queued in an ingestion buffer. Do not be alarmed if the monitoring dashboard flags a temporary spike in unconfirmed ledger entries during that interval—that is expected behavior, not a packet-loss anomaly. However, if replication lag exceeds twelve hundred milliseconds past one A.M., I want the on-call site reliability engineer to initiate an immediate rollback to the legacy bare-metal nodes rather than attempting live schema patching.",
+    "questionText": "What event is scheduled to take place this weekend?",
+    "options": [
+      "The physical relocation of hardware to a facility in Frankfurt",
+      "The migration of primary database systems to a cloud architecture",
+      "A security audit of the company's financial ledger entries",
+      "A training workshop on asynchronous replication software"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nĐược rồi, các trưởng nhóm DevOps và hạ tầng chú ý lắng nghe. Vào lúc nửa đêm giờ UTC thứ Bảy tuần này, chúng ta sẽ thực hiện việc chuyển đổi cuối cùng (cutover) các cơ sở dữ liệu quan hệ cốt lõi từ hệ thống máy chủ tại chỗ ở Frankfurt sang cụm đám mây phân tán. Bởi vì chúng ta đang sử dụng cơ chế sao chép bất đồng bộ để giảm thiểu độ trễ trong quá trình chuyển đổi, sẽ có một khoảng thời gian bốn mươi lăm phút chỉ đọc (read-only), trong đó các thao tác ghi giao dịch được xếp hàng đợi trong bộ đệm tiếp nhận. Đừng hoảng hốt nếu bảng điều khiển giám sát cảnh báo mức tăng đột biến tạm thời về các bút toán sổ cái chưa được xác nhận trong khoảng thời gian đó—đó là hành vi dự kiến, không phải lỗi mất gói dữ liệu. Tuy nhiên, nếu độ trễ sao chép vượt quá 1.200 mili giây sau một giờ sáng, tôi muốn kỹ sư độ tin cậy hệ thống (SRE) trực ca kích hoạt việc khôi phục (rollback) ngay lập tức về các nút máy chủ vật lý cũ thay vì cố gắng vá cấu trúc dữ liệu trực tiếp.\n\nCâu hỏi: Sự kiện nào được lên lịch diễn ra vào cuối tuần này?\n(A) Việc di dời vật lý phần cứng đến một cơ sở ở Frankfurt\n(B) Việc di chuyển các hệ thống cơ sở dữ liệu chính sang kiến trúc đám mây\n(C) Một cuộc kiểm toán bảo mật đối với các bút toán sổ cái tài chính của công ty\n(D) Một hội thảo đào tạo về phần mềm sao chép bất đồng bộ",
+    "explanation": "Người nói thông báo vào nửa đêm thứ Bảy sẽ thực hiện 'the final cutover of our core relational databases from our on-premises Frankfurt server farm to the distributed cloud cluster' (chuyển đổi hệ thống cơ sở dữ liệu cốt lõi từ máy chủ tại chỗ ở Frankfurt lên cụm đám mây phân tán), tương ứng với đáp án B.",
+    "vocab": [
+      ["cutover", "n", "sự chuyển đổi hệ thống (từ hệ thống cũ sang mới)"],
+      ["on-premises", "adj", "tại chỗ (đặt máy chủ tại cơ sở của công ty)"],
+      ["latency", "n", "độ trễ truyền dữ liệu"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following technical briefing:",
+    "audioScript": "Alright, DevOps and infrastructure leads, listen up. At midnight UTC this Saturday, we are executing the final cutover of our core relational databases from our on-premises Frankfurt server farm to the distributed cloud cluster. Because we are utilizing asynchronous replication to minimize latency during the transition, there will be a forty-five-minute read-only window where transactional writes are queued in an ingestion buffer. Do not be alarmed if the monitoring dashboard flags a temporary spike in unconfirmed ledger entries during that interval—that is expected behavior, not a packet-loss anomaly. However, if replication lag exceeds twelve hundred milliseconds past one A.M., I want the on-call site reliability engineer to initiate an immediate rollback to the legacy bare-metal nodes rather than attempting live schema patching.",
+    "questionText": "Why does the speaker say, \"that is expected behavior, not a packet-loss anomaly\"?",
+    "options": [
+      "To criticize the vendor that designed the monitoring dashboard",
+      "To prevent engineers from overreacting to a normal system alert",
+      "To explain why the migration was postponed last Saturday",
+      "To justify the expense of upgrading the ingestion buffer"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người nói lại nói: \"đó là hành vi dự kiến, không phải lỗi mất gói dữ liệu\"?\n(A) Để chỉ trích nhà cung cấp đã thiết kế bảng điều khiển giám sát\n(B) Để ngăn các kỹ sư phản ứng thái quá trước một cảnh báo hệ thống bình thường\n(C) Để giải thích tại sao việc di chuyển hệ thống đã bị hoãn vào thứ Bảy tuần trước\n(D) Để biện minh cho chi phí nâng cấp bộ đệm tiếp nhận",
+    "explanation": "Trong thời gian 45 phút chỉ đọc, các giao dịch ghi được đưa vào hàng đợi nên bảng giám sát sẽ báo tăng đột biến các mục chưa xác nhận. Người nói dặn 'Do not be alarmed... that is expected behavior, not a packet-loss anomaly' nhằm trấn an kỹ sư không hoang mang hay xử lý nhầm một hiện tượng bình thường trong lúc chuyển đổi (đáp án B).",
+    "vocab": [
+      ["asynchronous", "adj", "bất đồng bộ"],
+      ["anomaly", "n", "sự bất thường, dị thường"],
+      ["ingestion buffer", "n. phr", "bộ đệm tiếp nhận dữ liệu"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following technical briefing:",
+    "audioScript": "Alright, DevOps and infrastructure leads, listen up. At midnight UTC this Saturday, we are executing the final cutover of our core relational databases from our on-premises Frankfurt server farm to the distributed cloud cluster. Because we are utilizing asynchronous replication to minimize latency during the transition, there will be a forty-five-minute read-only window where transactional writes are queued in an ingestion buffer. Do not be alarmed if the monitoring dashboard flags a temporary spike in unconfirmed ledger entries during that interval—that is expected behavior, not a packet-loss anomaly. However, if replication lag exceeds twelve hundred milliseconds past one A.M., I want the on-call site reliability engineer to initiate an immediate rollback to the legacy bare-metal nodes rather than attempting live schema patching.",
+    "questionText": "What should the on-call engineer do if severe delays persist after 1:00 A.M.?",
+    "options": [
+      "Apply a live patch to the database schema",
+      "Extend the read-only window by another forty-five minutes",
+      "Revert operations back to the original physical servers",
+      "Clear the queued transactions from the ingestion buffer"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Kỹ sư trực ca nên làm gì nếu độ trễ nghiêm trọng vẫn tiếp diễn sau 1 giờ sáng?\n(A) Áp dụng bản vá trực tiếp cho cấu trúc cơ sở dữ liệu\n(B) Kéo dài thời gian chỉ đọc thêm bốn mươi lăm phút nữa\n(C) Đưa hoạt động quay trở lại các máy chủ vật lý ban đầu\n(D) Xóa các giao dịch đang xếp hàng đợi khỏi bộ đệm tiếp nhận",
+    "explanation": "Người nói chỉ đạo nếu độ trễ vượt 1.200 mili giây sau 1 giờ sáng, kỹ sư trực ca phải 'initiate an immediate rollback to the legacy bare-metal nodes rather than attempting live schema patching' (khôi phục ngay lập tức về các máy chủ vật lý ban đầu thay vì vá lỗi trực tiếp), tương ứng đáp án C (loại A).",
+    "vocab": [
+      ["rollback", "n", "sự khôi phục về trạng thái/phiên bản trước đó"],
+      ["bare-metal node", "n. phr", "nút máy chủ vật lý chuyên dụng"],
+      ["schema", "n", "lược đồ, cấu trúc cơ sở dữ liệu"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "Good afternoon. On behalf of the Maritime Port Authority's procurement board, I am pleased to announce the adjudication results for the Deepwater Berth 9 Dredging and Electrification Tender. Following an exhaustive technical and financial evaluation of five shortlisted syndicates, the contract has been provisionally awarded to Vanguard Civil & Marine Consortium. While Nordic Dredging Group submitted a baseline bid that was twelve million dollars lower, their proposal relied heavily on diesel-powered hopper barges that failed to satisfy our stringent scope-three decarbonization mandates. Please note that this award remains subject to a ten-business-day statutory standstill period. Furthermore, Vanguard's disbursement of the initial mobilization tranche is contingent upon their posting an irrevocable performance bond underwritten by a tier-one financial institution before December fifteenth.",
+    "questionText": "Why was Nordic Dredging Group's bid rejected?",
+    "options": [
+      "Their baseline cost exceeded the Port Authority's budget by twelve million dollars.",
+      "They failed to submit their tender before the statutory standstill period.",
+      "Their proposed equipment did not meet environmental sustainability criteria.",
+      "They could not secure underwriting from a tier-one financial institution."
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi chiều. Thay mặt hội đồng mua sắm của Cơ quan Quản lý Cảng Hàng hải, tôi vui mừng thông báo kết quả xét thầu cho Gói thầu Nạo vét và Điện khí hóa Bến cảng Nước sâu số 9. Sau quá trình đánh giá kỹ thuật và tài chính toàn diện đối với năm tổ hợp nhà thầu trong danh sách rút gọn, hợp đồng đã được trao tạm thời cho Liên danh Vanguard Civil & Marine. Mặc dù Tập đoàn Nạo vét Nordic đã nộp mức giá dự thầu cơ sở thấp hơn mười hai triệu đô la, đề xuất của họ lại phụ thuộc nhiều vào các sà lan tự đổ chạy bằng dầu diesel không đáp ứng được các yêu cầu bắt buộc nghiêm ngặt về khử carbon phạm vi 3 của chúng tôi. Xin lưu ý rằng quyết định trao thầu này vẫn phải tuân theo thời gian chờ tĩnh theo luật định là mười ngày làm việc. Hơn nữa, việc giải ngân khoản tiền tạm ứng huy động ban đầu cho Vanguard phụ thuộc vào việc họ nộp bảo lãnh thực hiện hợp đồng không hủy ngang được bảo lãnh bởi một định chế tài chính cấp một trước ngày 15 tháng 12.\n\nCâu hỏi: Tại sao hồ sơ dự thầu của Tập đoàn Nạo vét Nordic bị từ chối?\n(A) Chi phí cơ sở của họ vượt quá ngân sách của Cơ quan Quản lý Cảng mười hai triệu đô la.\n(B) Họ đã không nộp hồ sơ dự thầu trước thời gian chờ theo luật định.\n(C) Thiết bị đề xuất của họ không đáp ứng các tiêu chí bền vững về môi trường.\n(D) Họ không thể xin được bảo lãnh từ một định chế tài chính cấp một.",
+    "explanation": "Dù giá thầu của Nordic thấp hơn 12 triệu đô la (loại A), đề xuất của họ bị loại vì dùng sà lan chạy dầu diesel không đạt yêu cầu khử carbon nghiêm ngặt ('relied heavily on diesel-powered hopper barges that failed to satisfy our stringent scope-three decarbonization mandates'), tương ứng đáp án C.",
+    "vocab": [
+      ["adjudication", "n", "sự phân xử, xét duyệt (đấu thầu)"],
+      ["syndicate", "n", "tổ hợp, liên danh (các công ty/ngân hàng)"],
+      ["decarbonization", "n", "sự khử carbon, giảm phát thải carbon"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "Good afternoon. On behalf of the Maritime Port Authority's procurement board, I am pleased to announce the adjudication results for the Deepwater Berth 9 Dredging and Electrification Tender. Following an exhaustive technical and financial evaluation of five shortlisted syndicates, the contract has been provisionally awarded to Vanguard Civil & Marine Consortium. While Nordic Dredging Group submitted a baseline bid that was twelve million dollars lower, their proposal relied heavily on diesel-powered hopper barges that failed to satisfy our stringent scope-three decarbonization mandates. Please note that this award remains subject to a ten-business-day statutory standstill period. Furthermore, Vanguard's disbursement of the initial mobilization tranche is contingent upon their posting an irrevocable performance bond underwritten by a tier-one financial institution before December fifteenth.",
+    "questionText": "What must Vanguard Consortium do before receiving its initial funding?",
+    "options": [
+      "Replace all of its hopper barges with electric vessels",
+      "Provide a guaranteed financial security from a major bank",
+      "Complete the preliminary dredging of Deepwater Berth 9",
+      "Wait until December fifteenth to sign the standstill agreement"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Liên danh Vanguard phải làm gì trước khi nhận được khoản kinh phí ban đầu?\n(A) Thay thế tất cả các sà lan tự đổ bằng tàu chạy điện\n(B) Cung cấp một khoản bảo đảm tài chính không hủy ngang từ một ngân hàng lớn\n(C) Hoàn thành việc nạo vét sơ bộ Bến cảng Nước sâu số 9\n(D) Đợi đến ngày 15 tháng 12 để ký thỏa thuận chờ tĩnh",
+    "explanation": "Người nói nêu rõ việc giải ngân đợt vốn huy động đầu tiên ('disbursement of the initial mobilization tranche') phụ thuộc vào điều kiện ('is contingent upon') Vanguard nộp bảo lãnh thực hiện hợp đồng không hủy ngang do một tổ chức tài chính cấp một bảo lãnh ('posting an irrevocable performance bond underwritten by a tier-one financial institution'), khớp với đáp án B.",
+    "vocab": [
+      ["disbursement", "n", "sự giải ngân, chi trả"],
+      ["tranche", "n", "đợt phát hành vốn / phần tiền giải ngân"],
+      ["performance bond", "n. phr", "bảo lãnh thực hiện hợp đồng"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following announcement:",
+    "audioScript": "Good afternoon. On behalf of the Maritime Port Authority's procurement board, I am pleased to announce the adjudication results for the Deepwater Berth 9 Dredging and Electrification Tender. Following an exhaustive technical and financial evaluation of five shortlisted syndicates, the contract has been provisionally awarded to Vanguard Civil & Marine Consortium. While Nordic Dredging Group submitted a baseline bid that was twelve million dollars lower, their proposal relied heavily on diesel-powered hopper barges that failed to satisfy our stringent scope-three decarbonization mandates. Please note that this award remains subject to a ten-business-day statutory standstill period. Furthermore, Vanguard's disbursement of the initial mobilization tranche is contingent upon their posting an irrevocable performance bond underwritten by a tier-one financial institution before December fifteenth.",
+    "questionText": "What is implied by the phrase \"provisionally awarded\"?",
+    "options": [
+      "The contract scope has been reduced to only include electrification.",
+      "Vanguard will share the project equally with four other syndicates.",
+      "The decision is not yet legally final and must pass procedural requirements.",
+      "The Port Authority has not yet secured government approval for the tender."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Cụm từ \"được trao thầu tạm thời\" hàm ý điều gì?\n(A) Phạm vi hợp đồng đã bị thu hẹp để chỉ bao gồm việc điện khí hóa.\n(B) Vanguard sẽ chia sẻ dự án đồng đều với bốn tổ hợp nhà thầu khác.\n(C) Quyết định này chưa có hiệu lực pháp lý cuối cùng và phải qua các yêu cầu thủ tục.\n(D) Cơ quan Quản lý Cảng vẫn chưa xin được phê duyệt của chính phủ cho gói thầu.",
+    "explanation": "Hợp đồng mới chỉ được trao tạm thời ('provisionally awarded') vì còn phải trải qua thời gian chờ tĩnh theo luật định 10 ngày làm việc ('remains subject to a ten-business-day statutory standstill period') và điều kiện nộp bảo lãnh thực hiện hợp đồng, tức quyết định chưa phải là cuối cùng về mặt thủ tục pháp lý (đáp án C).",
+    "vocab": [
+      ["provisionally", "adv", "tạm thời, có điều kiện"],
+      ["contingent upon", "adj. phr", "tùy thuộc vào, phụ thuộc vào điều kiện"],
+      ["irrevocable", "adj", "không thể hủy ngang, không thể thu hồi"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for joining this emergency regulatory affairs call. This morning, the European Medicines Agency issued a preliminary queries letter regarding our Phase III biostatistics dossier for the monoclonal antibody candidate, Celvapan. Let me reassure you right away: the agency is not questioning the clinical efficacy endpoints or the adverse-event profile. Rather, the assessors flagged a methodological discrepancy in how our contract research organization imputed missing longitudinal data for patients who withdrew from the Prague and Warsaw trial sites. If we simply resubmit the raw dataset without an independent sensitivity analysis, we risk triggering a formal clock-stop that could push our commercialization timeline into next fiscal year. Therefore, I have authorized Dr. Alverez to retain an external psychometrician to audit the Prague and Warsaw cohorts before Friday's rebuttal deadline.",
+    "questionText": "What is the regulatory agency concerned about?",
+    "options": [
+      "Unexpected side effects reported by patients in Phase III trials",
+      "A lack of clinical effectiveness in the monoclonal antibody candidate",
+      "The statistical method used to account for incomplete patient records",
+      "Financial misconduct by a contract research organization in Prague"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nCảm ơn tất cả quý vị đã tham gia cuộc họp khẩn cấp về các vấn đề pháp lý này. Sáng nay, Cơ quan Dược phẩm Châu Âu đã ban hành công văn chất vấn sơ bộ liên quan đến hồ sơ thống kê sinh học Giai đoạn III của chúng ta đối với ứng viên kháng thể đơn dòng, Celvapan. Hãy để tôi trấn an quý vị ngay lập tức: cơ quan này không nghi ngờ gì về các tiêu chí hiệu quả lâm sàng hay hồ sơ tác dụng phụ. Thay vào đó, các chuyên gia thẩm định đã chỉ ra sự không nhất quán về phương pháp luận trong cách tổ chức nghiên cứu theo hợp đồng (CRO) của chúng ta ước tính bù dữ liệu dọc bị thiếu đối với những bệnh nhân đã rút lui khỏi các điểm thử nghiệm ở Prague và Warsaw. Nếu chúng ta chỉ nộp lại bộ dữ liệu thô mà không có phân tích độ nhạy độc lập, chúng ta có nguy cơ kích hoạt lệnh tạm dừng tính thời gian thẩm định chính thức (clock-stop), điều có thể đẩy lộ trình thương mại hóa sang năm tài chính tiếp theo. Do đó, tôi đã ủy quyền cho Tiến sĩ Alverez thuê một chuyên gia đo lường tâm lý/thống kê bên ngoài để kiểm toán các nhóm bệnh nhân ở Prague và Warsaw trước hạn chót giải trình vào thứ Sáu.\n\nCâu hỏi: Cơ quan quản lý đang quan ngại về vấn đề gì?\n(A) Các tác dụng phụ ngoài dự kiến được báo cáo bởi bệnh nhân trong thử nghiệm Giai đoạn III\n(B) Sự thiếu hiệu quả lâm sàng của ứng viên kháng thể đơn dòng\n(C) Phương pháp thống kê được sử dụng để xử lý các hồ sơ bệnh nhân không đầy đủ\n(D) Hành vi sai trái tài chính của một tổ chức nghiên cứu theo hợp đồng tại Prague",
+    "explanation": "Người nói khẳng định cơ quan quản lý không nghi ngờ hiệu quả lâm sàng hay tác dụng phụ ('not questioning the clinical efficacy endpoints or the adverse-event profile' - loại A, B), mà nêu vấn đề về sự bất nhất trong phương pháp thống kê khi ước tính bù dữ liệu bị thiếu của bệnh nhân bỏ cuộc ('methodological discrepancy in how our contract research organization imputed missing longitudinal data for patients who withdrew'), tức đáp án C.",
+    "vocab": [
+      ["dossier", "n", "bộ hồ sơ tài liệu (pháp lý/đăng ký thuốc)"],
+      ["efficacy", "n", "hiệu lực, hiệu quả (của thuốc/phương pháp điều trị)"],
+      ["discrepancy", "n", "sự khác biệt, sự không nhất quán"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for joining this emergency regulatory affairs call. This morning, the European Medicines Agency issued a preliminary queries letter regarding our Phase III biostatistics dossier for the monoclonal antibody candidate, Celvapan. Let me reassure you right away: the agency is not questioning the clinical efficacy endpoints or the adverse-event profile. Rather, the assessors flagged a methodological discrepancy in how our contract research organization imputed missing longitudinal data for patients who withdrew from the Prague and Warsaw trial sites. If we simply resubmit the raw dataset without an independent sensitivity analysis, we risk triggering a formal clock-stop that could push our commercialization timeline into next fiscal year. Therefore, I have authorized Dr. Alverez to retain an external psychometrician to audit the Prague and Warsaw cohorts before Friday's rebuttal deadline.",
+    "questionText": "What consequence is the company trying to avoid?",
+    "options": [
+      "A costly delay in bringing the medication to market",
+      "The permanent closure of the Warsaw clinical trial site",
+      "A lawsuit from patients who withdrew from the study",
+      "The dismissal of Dr. Alverez from the research team"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Công ty đang cố gắng tránh hậu quả nào?\n(A) Sự chậm trễ tốn kém trong việc đưa thuốc ra thị trường\n(B) Việc đóng cửa vĩnh viễn điểm thử nghiệm lâm sàng ở Warsaw\n(C) Một vụ kiện từ những bệnh nhân đã rút lui khỏi nghiên cứu\n(D) Việc sa thải Tiến sĩ Alverez khỏi nhóm nghiên cứu",
+    "explanation": "Người nói cảnh báo nếu không có phân tích độ nhạy độc lập thì có nguy cơ bị dừng đồng hồ thẩm định, đẩy lùi thời điểm thương mại hóa sang năm tài chính sau ('we risk triggering a formal clock-stop that could push our commercialization timeline into next fiscal year'), tương ứng với sự chậm trễ đưa thuốc ra thị trường ở đáp án A.",
+    "vocab": [
+      ["impute", "v", "ước tính bù (dữ liệu bị khuyết trong thống kê)"],
+      ["longitudinal data", "n. phr", "dữ liệu theo dõi dọc theo thời gian"],
+      ["cohort", "n", "nhóm đối tượng có chung đặc điểm (trong nghiên cứu)"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioScript": "Thank you all for joining this emergency regulatory affairs call. This morning, the European Medicines Agency issued a preliminary queries letter regarding our Phase III biostatistics dossier for the monoclonal antibody candidate, Celvapan. Let me reassure you right away: the agency is not questioning the clinical efficacy endpoints or the adverse-event profile. Rather, the assessors flagged a methodological discrepancy in how our contract research organization imputed missing longitudinal data for patients who withdrew from the Prague and Warsaw trial sites. If we simply resubmit the raw dataset without an independent sensitivity analysis, we risk triggering a formal clock-stop that could push our commercialization timeline into next fiscal year. Therefore, I have authorized Dr. Alverez to retain an external psychometrician to audit the Prague and Warsaw cohorts before Friday's rebuttal deadline.",
+    "questionText": "What has Dr. Alverez been given permission to do?",
+    "options": [
+      "Recruit replacement patients in Prague and Warsaw",
+      "Request an extension for Friday's submission deadline",
+      "Hire an outside specialist to verify the trial data",
+      "Terminate the agreement with the contract research organization"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tiến sĩ Alverez đã được cho phép làm gì?\n(A) Tuyển dụng bệnh nhân thay thế tại Prague và Warsaw\n(B) Yêu cầu gia hạn đối với hạn chót nộp hồ sơ vào thứ Sáu\n(C) Thuê một chuyên gia bên ngoài để kiểm chứng dữ liệu thử nghiệm\n(D) Chấm dứt thỏa thuận với tổ chức nghiên cứu theo hợp đồng",
+    "explanation": "Câu cuối nêu: 'I have authorized Dr. Alverez to retain an external psychometrician to audit the Prague and Warsaw cohorts before Friday's rebuttal deadline' (ủy quyền cho Tiến sĩ Alverez thuê một chuyên gia bên ngoài để kiểm toán dữ liệu của các nhóm bệnh nhân ở Prague và Warsaw). Động từ 'retain' ở đây mang nghĩa 'thuê dịch vụ chuyên gia' (hire), khớp với đáp án C.",
+    "vocab": [
+      ["retain", "v", "thuê (luật sư, chuyên gia tư vấn)"],
+      ["rebuttal", "n", "sự phản biện, văn bản giải trình bác bỏ"],
+      ["commercialization", "n", "sự thương mại hóa"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following talk and schedule:",
+    "audioScript": "Welcome to the pre-closing integration briefing for our acquisition of Helios Photonics. As you can see on the post-merger integration timeline projected on your screens, we have structured the transition into four sequential workstreams. However, following yesterday's antitrust consultation with the Competition Directorate in Brussels, we must modify Workstream Three. Because Helios holds a dominant patent portfolio in lithographic sensors, regulators have stipulated that their R&D division must operate as a ring-fenced entity until the divestiture of their Munich optics lab is finalized. Consequently, the cross-licensing of intellectual property—originally slated for October—will be deferred to the December milestone, swapping places with the ERP payroll harmonization, which we are accelerating to October since our human-capital software is already compliant.",
+    "questionText": "Why is the integration plan being modified?",
+    "options": [
+      "Helios Photonics failed to renew its lithographic sensor patents.",
+      "The human-capital software was found to be non-compliant.",
+      "Antitrust authorities imposed conditions on the merger process.",
+      "Employees at the Munich optics lab voted against the acquisition."
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào mừng quý vị đến với buổi họp phổ biến hội nhập trước khi hoàn tất thương vụ mua lại Helios Photonics. Như quý vị có thể thấy trên lộ trình hội nhập hậu sáp nhập được chiếu trên màn hình, chúng ta đã cấu trúc quá trình chuyển đổi thành bốn luồng công việc nối tiếp nhau. Tuy nhiên, sau buổi tham vấn chống độc quyền ngày hôm qua với Tổng vụ Cạnh tranh tại Brussels, chúng ta phải điều chỉnh Luồng công việc số Ba. Bởi vì Helios nắm giữ danh mục bằng sáng chế thống lĩnh về cảm biến quang khắc, các cơ quan quản lý đã quy định rằng bộ phận R&D của họ phải hoạt động như một pháp nhân độc lập tách biệt cho đến khi việc thoái vốn phòng thí nghiệm quang học ở Munich được hoàn tất. Do đó, việc cấp phép chéo sở hữu trí tuệ—ban đầu được lên lịch vào tháng Mười—sẽ được hoãn lại sang cột mốc tháng Mười Hai, đổi chỗ cho việc đồng bộ hóa bảng lương ERP, hạng mục mà chúng ta đang đẩy nhanh lên tháng Mười vì phần mềm nhân sự của chúng ta đã tuân thủ quy định.\n\nCâu hỏi: Tại sao kế hoạch hội nhập lại được điều chỉnh?\n(A) Helios Photonics đã không gia hạn các bằng sáng chế cảm biến quang khắc.\n(B) Phần mềm nhân sự bị phát hiện là không tuân thủ quy định.\n(C) Cơ quan chống độc quyền đã áp đặt các điều kiện đối với quá trình sáp nhập.\n(D) Nhân viên tại phòng thí nghiệm quang học Munich đã bỏ phiếu phản đối thương vụ mua lại.",
+    "explanation": "Người nói giải thích sau buổi tham vấn chống độc quyền với Tổng vụ Cạnh tranh ở Brussels ('following yesterday's antitrust consultation with the Competition Directorate in Brussels'), cơ quan quản lý đã đặt ra điều kiện buộc bộ phận R&D của Helios phải tách biệt cho đến khi bán xong phòng thí nghiệm ở Munich, dẫn đến việc phải sửa đổi kế hoạch (đáp án C).",
+    "vocab": [
+      ["antitrust", "adj", "chống độc quyền"],
+      ["stipulate", "v", "quy định rõ, đặt điều kiện bắt buộc"],
+      ["divestiture", "n", "sự thoái vốn, bán bớt bộ phận doanh nghiệp"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following talk and schedule:",
+    "audioScript": "Welcome to the pre-closing integration briefing for our acquisition of Helios Photonics. As you can see on the post-merger integration timeline projected on your screens, we have structured the transition into four sequential workstreams. However, following yesterday's antitrust consultation with the Competition Directorate in Brussels, we must modify Workstream Three. Because Helios holds a dominant patent portfolio in lithographic sensors, regulators have stipulated that their R&D division must operate as a ring-fenced entity until the divestiture of their Munich optics lab is finalized. Consequently, the cross-licensing of intellectual property—originally slated for October—will be deferred to the December milestone, swapping places with the ERP payroll harmonization, which we are accelerating to October since our human-capital software is already compliant.",
+    "questionText": "What will now take place in October?",
+    "options": [
+      "The sale of the Munich optics laboratory",
+      "The cross-licensing of lithographic sensor patents",
+      "The integration of employee compensation systems",
+      "The relocation of the R&D division to Brussels"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Việc gì bây giờ sẽ diễn ra vào tháng Mười?\n(A) Việc bán phòng thí nghiệm quang học ở Munich\n(B) Việc cấp phép chéo các bằng sáng chế cảm biến quang khắc\n(C) Việc tích hợp hệ thống chi trả lương cho nhân viên\n(D) Việc di dời bộ phận R&D đến Brussels",
+    "explanation": "Người nói thông báo việc cấp phép chéo sở hữu trí tuệ (vốn định làm vào tháng 10 - bẫy B) bị hoãn sang tháng 12, đổi chỗ cho việc đồng bộ hóa bảng lương ERP được đẩy sớm lên tháng 10 ('swapping places with the ERP payroll harmonization, which we are accelerating to October'), tương ứng với 'integration of employee compensation systems' ở đáp án C.",
+    "vocab": [
+      ["cross-licensing", "n", "việc cấp phép chéo (bằng sáng chế)"],
+      ["slated for", "adj. phr", "được lên lịch, dự kiến vào"],
+      ["harmonization", "n", "sự đồng bộ hóa, hài hòa hóa hệ thống"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following talk and schedule:",
+    "audioScript": "Welcome to the pre-closing integration briefing for our acquisition of Helios Photonics. As you can see on the post-merger integration timeline projected on your screens, we have structured the transition into four sequential workstreams. However, following yesterday's antitrust consultation with the Competition Directorate in Brussels, we must modify Workstream Three. Because Helios holds a dominant patent portfolio in lithographic sensors, regulators have stipulated that their R&D division must operate as a ring-fenced entity until the divestiture of their Munich optics lab is finalized. Consequently, the cross-licensing of intellectual property—originally slated for October—will be deferred to the December milestone, swapping places with the ERP payroll harmonization, which we are accelerating to October since our human-capital software is already compliant.",
+    "questionText": "What restriction has been placed on Helios Photonics' R&D division?",
+    "options": [
+      "It must remain operationally separate until a facility is sold.",
+      "It cannot file new patent applications until December.",
+      "It must transfer its engineering staff to the Munich lab.",
+      "It is prohibited from using the new ERP payroll software."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hạn chế nào đã được áp đặt lên bộ phận R&D của Helios Photonics?\n(A) Bộ phận này phải duy trì hoạt động tách biệt cho đến khi một cơ sở được bán đi.\n(B) Bộ phận này không được nộp đơn xin cấp bằng sáng chế mới cho đến tháng Mười Hai.\n(C) Bộ phận này phải chuyển nhân sự kỹ thuật sang phòng thí nghiệm ở Munich.\n(D) Bộ phận này bị cấm sử dụng phần mềm bảng lương ERP mới.",
+    "explanation": "Bài nói nêu rõ các cơ quan quản lý quy định bộ phận R&D phải hoạt động như một thực thể độc lập được khoanh vùng ('operate as a ring-fenced entity') cho đến khi hoàn tất việc thoái vốn/bán phòng thí nghiệm quang học ở Munich ('until the divestiture of their Munich optics lab is finalized'), khớp với đáp án A.",
+    "vocab": [
+      ["workstream", "n", "luồng công việc, nhóm hạng mục triển khai"],
+      ["lithographic", "adj", "thuộc công nghệ quang khắc (bán dẫn)"],
+      ["defer", "v", "trì hoãn, dời lại sau"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation and chart:",
+    "audioScript": "To wrap up our quarterly institutional portfolio review, let's examine the attribution analysis for our Sovereign Green Bond Fund. At first glance, our benchmark underperformance of forty basis points in the Nordic allocation might suggest poor security selection by our fixed-income desk. However, if you look closely at the currency-hedging column, the culprit was actually an unexpected hawkish pivot by the central bank in Oslo, which triggered a sharp appreciation in the krone just as our forward contracts rolled over. Conversely, our overweight position in Japanese municipal sustainability bonds generated substantial alpha, more than offsetting the Nordic drag. Going forward, rather than unwinding our Scandinavian holdings—which still boast impeccable credit fundamentals—we are transitioning from static quarterly currency forwards to a dynamic collar strategy.",
+    "questionText": "What caused the unfavorable performance in the Nordic segment of the fund?",
+    "options": [
+      "A wave of credit defaults among Scandinavian municipalities",
+      "Poor bond selection by the fixed-income trading desk",
+      "Exchange-rate fluctuations following a central bank policy shift",
+      "An excessive allocation to Japanese sustainability bonds"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nĐể khép lại buổi đánh giá danh mục đầu tư tổ chức hàng quý của chúng ta, hãy cùng xem xét phân tích quy kết hiệu quả cho Quỹ Trái phiếu Xanh Chính phủ. Thoạt nhìn, mức hiệu suất thấp hơn chuẩn tham chiếu 40 điểm cơ bản trong phần phân bổ tại Bắc Âu có thể khiến người ta nghĩ rằng bộ phận thu nhập cố định đã lựa chọn chứng khoán kém. Tuy nhiên, nếu quý vị nhìn kỹ vào cột phòng vệ tỷ giá, thủ phạm thực sự lại là cú xoay trục chính sách diều hâu (thắt chặt tiền tệ) bất ngờ của ngân hàng trung ương tại Oslo, khiến đồng krone tăng giá mạnh đúng vào lúc các hợp đồng kỳ hạn của chúng ta đáo hạn chuyển kỳ. Ngược lại, vị thế tỷ trọng cao của chúng ta ở trái phiếu bền vững đô thị Nhật Bản đã tạo ra mức sinh lời vượt trội (alpha) đáng kể, bù đắp dư sức cho lực kéo tụt ở Bắc Âu. Thời gian tới, thay vì thanh lý các khoản nắm giữ tại Scandinavia—vốn vẫn có nền tảng tín dụng hoàn hảo—chúng ta sẽ chuyển từ hợp đồng kỳ hạn tiền tệ tĩnh hàng quý sang chiến lược quyền chọn biên độ (collar) linh hoạt.\n\nCâu hỏi: Điều gì đã gây ra kết quả kém thuận lợi trong phân khúc Bắc Âu của quỹ?\n(A) Một làn sóng vỡ nợ tín dụng ở các đô thị vùng Scandinavia\n(B) Việc lựa chọn trái phiếu kém của bộ phận giao dịch thu nhập cố định\n(C) Biến động tỷ giá hối đoái sau sự thay đổi chính sách của ngân hàng trung ương\n(D) Việc phân bổ quá mức vào trái phiếu bền vững của Nhật Bản",
+    "explanation": "Người nói bác bỏ giả định chọn chứng khoán kém ('At first glance... might suggest poor security selection... However... the culprit was actually an unexpected hawkish pivot by the central bank in Oslo, which triggered a sharp appreciation in the krone' - loại B), chỉ ra nguyên nhân thực sự là biến động tỷ giá đồng krone sau động thái chính sách của ngân hàng trung ương tại Oslo (đáp án C).",
+    "vocab": [
+      ["basis point", "n. phr", "điểm cơ bản (= 0,01% trong tài chính)"],
+      ["currency hedging", "n. phr", "phòng vệ rủi ro tỷ giá hối đoái"],
+      ["hawkish pivot", "n. phr", "sự xoay trục theo hướng thắt chặt tiền tệ (tăng lãi suất)"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation and chart:",
+    "audioScript": "To wrap up our quarterly institutional portfolio review, let's examine the attribution analysis for our Sovereign Green Bond Fund. At first glance, our benchmark underperformance of forty basis points in the Nordic allocation might suggest poor security selection by our fixed-income desk. However, if you look closely at the currency-hedging column, the culprit was actually an unexpected hawkish pivot by the central bank in Oslo, which triggered a sharp appreciation in the krone just as our forward contracts rolled over. Conversely, our overweight position in Japanese municipal sustainability bonds generated substantial alpha, more than offsetting the Nordic drag. Going forward, rather than unwinding our Scandinavian holdings—which still boast impeccable credit fundamentals—we are transitioning from static quarterly currency forwards to a dynamic collar strategy.",
+    "questionText": "What does the speaker say about the Japanese municipal bonds?",
+    "options": [
+      "They suffered a forty-basis-point loss during the quarter.",
+      "They produced strong returns that compensated for losses elsewhere.",
+      "They will be sold off to fund new investments in Oslo.",
+      "They have weaker credit fundamentals than Scandinavian bonds."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói cho biết điều gì về trái phiếu đô thị Nhật Bản?\n(A) Chúng bị lỗ 40 điểm cơ bản trong quý.\n(B) Chúng tạo ra lợi nhuận mạnh mẽ bù đắp cho sự sụt giảm ở khu vực khác.\n(C) Chúng sẽ được bán đi để tài trợ cho các khoản đầu tư mới tại Oslo.\n(D) Chúng có nền tảng tín dụng yếu hơn trái phiếu vùng Scandinavia.",
+    "explanation": "Người nói cho biết vị thế tỷ trọng cao ở trái phiếu đô thị Nhật Bản đã tạo ra lợi nhuận vượt trội đáng kể, bù đắp dư sức cho sự sụt giảm ở Bắc Âu ('generated substantial alpha, more than offsetting the Nordic drag'), tương ứng với đáp án B.",
+    "vocab": [
+      ["alpha", "n", "mức sinh lời vượt trội so với chỉ số tham chiếu"],
+      ["offset", "v", "bù đắp, cân bằng lại"],
+      ["impeccable", "adj", "hoàn hảo, không tì vết"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following presentation and chart:",
+    "audioScript": "To wrap up our quarterly institutional portfolio review, let's examine the attribution analysis for our Sovereign Green Bond Fund. At first glance, our benchmark underperformance of forty basis points in the Nordic allocation might suggest poor security selection by our fixed-income desk. However, if you look closely at the currency-hedging column, the culprit was actually an unexpected hawkish pivot by the central bank in Oslo, which triggered a sharp appreciation in the krone just as our forward contracts rolled over. Conversely, our overweight position in Japanese municipal sustainability bonds generated substantial alpha, more than offsetting the Nordic drag. Going forward, rather than unwinding our Scandinavian holdings—which still boast impeccable credit fundamentals—we are transitioning from static quarterly currency forwards to a dynamic collar strategy.",
+    "questionText": "What action will the fund managers take next quarter?",
+    "options": [
+      "Liquidate all Scandinavian bond holdings immediately",
+      "Replace the staff on the fixed-income trading desk",
+      "Adopt a more flexible method for managing foreign-exchange risk",
+      "Switch from municipal bonds to corporate equity investments"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Các nhà quản lý quỹ sẽ thực hiện hành động gì trong quý tới?\n(A) Thanh lý ngay lập tức toàn bộ các khoản nắm giữ trái phiếu vùng Scandinavia\n(B) Thay thế nhân sự tại bộ phận giao dịch thu nhập cố định\n(C) Áp dụng phương pháp linh hoạt hơn để quản lý rủi ro ngoại hối\n(D) Chuyển từ trái phiếu đô thị sang đầu tư cổ phiếu doanh nghiệp",
+    "explanation": "Câu cuối nêu rõ thay vì bán tháo tài sản ở Scandinavia ('rather than unwinding our Scandinavian holdings' - loại A), quỹ sẽ chuyển từ hợp đồng kỳ hạn tiền tệ tĩnh hàng quý sang chiến lược biên độ linh hoạt ('transitioning from static quarterly currency forwards to a dynamic collar strategy'), tức áp dụng phương pháp linh hoạt hơn để quản lý rủi ro tỷ giá ngoại hối (đáp án C).",
+    "vocab": [
+      ["unwind", "v", "đóng vị thế, thanh lý khoản đầu tư"],
+      ["roll over", "phr. v", "đáo hạn và chuyển tiếp sang kỳ hạn mới"],
+      ["culprit", "n", "thủ phạm, nguyên nhân chính gây ra sự cố"]
+    ]
+  }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following e-mail and invoice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: E-MAIL</p><p class=\"mt-2\">To: Ms. Okafor, Office Manager, Bellingham Design Studio<br>From: Kyle Trent, Trent Office Furniture<br>Date: April 3<br>Subject: Your order of 18 task chairs</p><p class=\"mt-2\">Your 18 Model C-7 task chairs shipped on April 1 and should arrive within four business days. Our catalog lists the chairs at $145 each, but orders of 15 or more receive a 10 percent discount, which has already been applied to your invoice.</p><p class=\"mt-2\">The invoice also includes a $60 delivery charge. Please note that assembly is not included. A technician can assemble the chairs for $12 per chair if you request this when the chairs arrive.</p><p class=\"mt-2\">We now carry matching floor mats (Model FM-2) for $39 each. Orders for mats placed before May 1 receive free delivery.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: INVOICE</p><p class=\"mt-2\">Trent Office Furniture<br>Invoice No. T-8821<br>Invoice date: April 1</p><p class=\"mt-2\">Bill to: Bellingham Design Studio</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr><td class=\"py-1\">18 Model C-7 task chairs ($145.00 each)</td><td class=\"py-1 text-right\">$2,610.00</td></tr><tr><td class=\"py-1\">Volume discount (10 percent)</td><td class=\"py-1 text-right\">-$261.00</td></tr><tr><td class=\"py-1\">Delivery</td><td class=\"py-1 text-right\">$60.00</td></tr><tr class=\"border-t border-neutral-300\"><td class=\"py-1 font-semibold\">Total due</td><td class=\"py-1 text-right font-semibold\">$2,409.00</td></tr></table><p class=\"mt-2\">Payment is due within 30 days of the invoice date.</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "Why did Mr. Trent write the e-mail?",
+        "options": [
+          "To provide information about a recent order",
+          "To announce a price increase",
+          "To cancel a delivery",
+          "To request payment for an overdue invoice"
+        ],
+        "answer": "A",
+        "translation": "Vì sao ông Trent viết email? — Để cung cấp thông tin về một đơn hàng gần đây.",
+        "explanation": "Email thông báo ghế đã được gửi đi, giải thích cách tính chiết khấu và các lựa chọn lắp ráp, tức là cung cấp thông tin về đơn hàng vừa đặt.",
+        "vocab": [
+          [
+            "ship",
+            "v",
+            "gửi hàng"
+          ],
+          [
+            "delivery",
+            "n",
+            "việc giao hàng"
+          ]
+        ]
+      },
+      {
+        "n": 177,
+        "q": "How much must Bellingham Design Studio pay in total?",
+        "options": [
+          "$2,349.00",
+          "$2,409.00",
+          "$2,610.00",
+          "$2,670.00"
+        ],
+        "answer": "B",
+        "translation": "Tổng số tiền trên hóa đơn là bao nhiêu? — 2.409 đô la.",
+        "explanation": "Hóa đơn ghi 2.610 đô la tiền ghế, trừ 261 đô la chiết khấu, cộng 60 đô la giao hàng, tổng cộng 2.409 đô la.",
+        "vocab": [
+          [
+            "total due",
+            "n",
+            "tổng phải trả"
+          ],
+          [
+            "volume discount",
+            "n",
+            "chiết khấu theo số lượng"
+          ]
+        ]
+      },
+      {
+        "n": 178,
+        "q": "What is the unit price of each chair before the discount?",
+        "options": [
+          "$130.50",
+          "$145.00",
+          "$261.00",
+          "$2,610.00"
+        ],
+        "answer": "B",
+        "translation": "Đơn giá mỗi chiếc ghế trước khi giảm giá là bao nhiêu? — 145 đô la.",
+        "explanation": "Email và hóa đơn đều ghi giá niêm yết 145 đô la một chiếc; 130,50 đô la là giá sau khi trừ 10 phần trăm, còn 2.610 đô la là tổng tiền 18 chiếc trước chiết khấu.",
+        "vocab": [
+          [
+            "unit price",
+            "n",
+            "đơn giá"
+          ],
+          [
+            "discount",
+            "n",
+            "chiết khấu"
+          ]
+        ]
+      },
+      {
+        "n": 179,
+        "q": "How much would it cost to have all 18 chairs assembled?",
+        "options": [
+          "$145",
+          "$180",
+          "$216",
+          "$261"
+        ],
+        "answer": "C",
+        "translation": "Lắp ráp cả 18 chiếc ghế sẽ tốn bao nhiêu? — 216 đô la.",
+        "explanation": "Phí lắp ráp là 12 đô la một ghế, nhân với 18 ghế thành 216 đô la.",
+        "vocab": [
+          [
+            "assemble",
+            "v",
+            "lắp ráp"
+          ],
+          [
+            "per",
+            "prep",
+            "mỗi"
+          ]
+        ]
+      },
+      {
+        "n": 180,
+        "q": "What must Ms. Okafor do to receive free delivery on floor mats?",
+        "options": [
+          "Order at least 15 mats",
+          "Place the order before May 1",
+          "Pay the invoice within 30 days",
+          "Request assembly of the chairs"
+        ],
+        "answer": "B",
+        "translation": "Cô Okafor phải làm gì để được miễn phí giao hàng thảm trải sàn? — Đặt hàng trước ngày 1 tháng 5.",
+        "explanation": "Email nêu các đơn thảm đặt trước ngày 1 tháng 5 sẽ được giao miễn phí; điều kiện số lượng 15 chiếc chỉ áp dụng cho ghế.",
+        "vocab": [
+          [
+            "floor mat",
+            "n",
+            "thảm trải sàn"
+          ],
+          [
+            "order",
+            "n",
+            "đơn hàng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: ADVERTISEMENT</p><p class=\"mt-2\">Coastal Media Institute - Digital Photography Course</p><p class=\"mt-2\">New courses begin on the first Monday of each month. Each course has six sessions, held on Tuesday and Thursday evenings from 6:30 to 8:30 p.m.</p><p class=\"mt-2\">Fee: $280. Members of the Coastal Arts Society pay $235.</p><p class=\"mt-2\">Students must bring their own camera. A limited number of cameras can be borrowed for a $25 fee per course; request one at least one week before the first session.</p><p class=\"mt-2\">Class size is limited to 14. Register online at coastalmedia.org or by phone at 555-0147.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: E-MAIL</p><p class=\"mt-2\">To: Janet Wu<br>From: Registrar, Coastal Media Institute<br>Date: February 27<br>Subject: Your registration for the March course</p><p class=\"mt-2\">We have received your payment of $235 for the March digital photography course, which begins on March 2.</p><p class=\"mt-2\">You asked to borrow a camera; the $25 rental fee will be collected at the first session. Please arrive by 6:15 p.m. so that we can issue your equipment before class.</p><p class=\"mt-2\">Note that the front entrance of our building closes at 6:30 p.m. After that time, please use the entrance on Harbor Street.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "Why did the registrar send the e-mail?",
+        "options": [
+          "To confirm a course registration",
+          "To advertise a new photography course",
+          "To request a camera rental fee",
+          "To announce a change of instructor"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của email là gì? — Để xác nhận việc đăng ký một khóa học.",
+        "explanation": "Email xác nhận đã nhận khoản thanh toán 235 đô la cho khóa học tháng Ba và nêu ngày khai giảng.",
+        "vocab": [
+          [
+            "registration",
+            "n",
+            "việc đăng ký"
+          ],
+          [
+            "registrar",
+            "n",
+            "nhân viên phụ trách đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 182,
+        "q": "How much will Ms. Wu pay at the first session?",
+        "options": [
+          "$25",
+          "$45",
+          "$235",
+          "$280"
+        ],
+        "answer": "A",
+        "translation": "Cô Wu sẽ phải trả bao nhiêu ở buổi học đầu tiên? — 25 đô la.",
+        "explanation": "Cô Wu đã thanh toán 235 đô la học phí; khoản 25 đô la phí thuê máy ảnh sẽ được thu tại buổi đầu.",
+        "vocab": [
+          [
+            "rental fee",
+            "n",
+            "phí thuê"
+          ],
+          [
+            "collect",
+            "v",
+            "thu (tiền)"
+          ]
+        ]
+      },
+      {
+        "n": 183,
+        "q": "Why should Ms. Wu arrive at 6:15 p.m.?",
+        "options": [
+          "To meet the instructor",
+          "To receive her equipment",
+          "To pay the course fee",
+          "To find a seat in the classroom"
+        ],
+        "answer": "B",
+        "translation": "Vì sao cô Wu nên đến lúc 6 giờ 15? — Để nhận thiết bị.",
+        "explanation": "Email đề nghị cô đến trước 6 giờ 15 để nhà trường phát máy ảnh cho cô trước giờ học.",
+        "vocab": [
+          [
+            "equipment",
+            "n",
+            "thiết bị"
+          ],
+          [
+            "issue",
+            "v",
+            "phát, cấp"
+          ]
+        ]
+      },
+      {
+        "n": 184,
+        "q": "What is indicated about the building?",
+        "options": [
+          "It is closed on Tuesdays.",
+          "Its front entrance closes at 6:30 p.m.",
+          "It has no parking area.",
+          "It is open only on weekday evenings."
+        ],
+        "answer": "B",
+        "translation": "Thông tin nào đúng về tòa nhà? — Cửa chính đóng lúc 6 giờ 30 tối.",
+        "explanation": "Email ghi cửa trước đóng lúc 6 giờ 30 tối, sau đó phải dùng lối vào trên phố Harbor.",
+        "vocab": [
+          [
+            "entrance",
+            "n",
+            "lối vào"
+          ],
+          [
+            "indicate",
+            "v",
+            "cho thấy, nêu rõ"
+          ]
+        ]
+      },
+      {
+        "n": 185,
+        "q": "How much did Ms. Wu save by being a member of the Coastal Arts Society?",
+        "options": [
+          "$25",
+          "$45",
+          "$235",
+          "$280"
+        ],
+        "answer": "B",
+        "translation": "Cô Wu tiết kiệm được bao nhiêu nhờ là hội viên của Coastal Arts Society? — 45 đô la.",
+        "explanation": "Giá thường là 280 đô la, hội viên trả 235 đô la, chênh lệch 45 đô la, đúng với số tiền cô đã thanh toán.",
+        "vocab": [
+          [
+            "member",
+            "n",
+            "hội viên"
+          ],
+          [
+            "save",
+            "v",
+            "tiết kiệm"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following notice, schedule, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: NOTICE</p><p class=\"mt-2\">The Riverside Business Conference will take place on Thursday, May 21, at the Harbor Convention Center.</p><p class=\"mt-2\">Registration opens at 8:00 a.m. in the Grand Lobby, and the opening address begins at 9:00 a.m. Attendees must wear their name badges at all times. A $10 replacement fee applies to lost badges.</p><p class=\"mt-2\">Parking in the convention center garage costs $12 per day. A free shuttle runs from the Riverside Hotel every 20 minutes. Lunch is not included in the registration fee; several restaurants are located on the second floor.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: SCHEDULE</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr><td class=\"py-1 pr-3 align-top font-semibold\">9:00 a.m.</td><td class=\"py-1\">Opening address - Grand Hall</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">10:15 a.m.</td><td class=\"py-1\">Session A: Social Media for Small Business - Room 201</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">10:15 a.m.</td><td class=\"py-1\">Session B: Managing Remote Teams - Room 204</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">11:30 a.m.</td><td class=\"py-1\">Session C: Financing a New Venture - Room 201</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">1:00 p.m.</td><td class=\"py-1\">Panel discussion: The Future of Retail - Grand Hall</td></tr><tr><td class=\"py-1 pr-3 align-top font-semibold\">2:30 p.m.</td><td class=\"py-1\">Closing remarks - Grand Hall</td></tr></table><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: E-MAIL</p><p class=\"mt-2\">To: Conference Staff<br>From: Daniel Cho<br>Date: May 18<br>Subject: Question about the conference</p><p class=\"mt-2\">I registered for the conference on May 21 and paid the standard fee. I would like to attend the session on managing remote teams, but my train does not arrive until 10:10, so I will not reach the center before 10:30.</p><p class=\"mt-2\">Could you tell me whether late entry to a session is allowed? I also paid for parking in advance and would like to know whether I can use the same pass on the day of the conference.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What time does the opening address begin?",
+        "options": [
+          "8:00 a.m.",
+          "9:00 a.m.",
+          "10:15 a.m.",
+          "1:00 p.m."
+        ],
+        "answer": "B",
+        "translation": "Lễ khai mạc bắt đầu lúc mấy giờ? — 9 giờ sáng.",
+        "explanation": "Thông báo nêu đăng ký mở lúc 8 giờ và lễ khai mạc bắt đầu lúc 9 giờ sáng.",
+        "vocab": [
+          [
+            "opening address",
+            "n",
+            "lễ khai mạc, phát biểu khai mạc"
+          ],
+          [
+            "registration",
+            "n",
+            "việc đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 187,
+        "q": "What event will take place in the Grand Hall at 1:00 p.m.?",
+        "options": [
+          "A panel discussion",
+          "A product demonstration",
+          "Session B",
+          "The closing remarks"
+        ],
+        "answer": "A",
+        "translation": "Sự kiện nào diễn ra ở Grand Hall lúc 1 giờ chiều? — Một buổi thảo luận nhóm.",
+        "explanation": "Chương trình ghi 1 giờ chiều có phiên thảo luận nhóm về tương lai ngành bán lẻ tại Grand Hall.",
+        "vocab": [
+          [
+            "panel discussion",
+            "n",
+            "buổi thảo luận nhóm"
+          ],
+          [
+            "retail",
+            "n",
+            "bán lẻ"
+          ]
+        ]
+      },
+      {
+        "n": 188,
+        "q": "What does Mr. Cho ask about?",
+        "options": [
+          "Whether he can enter a session late",
+          "Whether lunch is included in the fee",
+          "Whether he can change his registration",
+          "Whether the conference has been moved"
+        ],
+        "answer": "A",
+        "translation": "Ông Cho hỏi về điều gì? — Liệu ông có được vào phiên họp muộn hay không.",
+        "explanation": "Ông Cho nêu tàu đến lúc 10 giờ 10 nên sẽ tới hội nghị sau 10 giờ 30 và hỏi có được vào phiên họp muộn không.",
+        "vocab": [
+          [
+            "late entry",
+            "n",
+            "việc vào muộn"
+          ],
+          [
+            "allow",
+            "v",
+            "cho phép"
+          ]
+        ]
+      },
+      {
+        "n": 189,
+        "q": "Which session does Mr. Cho plan to attend?",
+        "options": [
+          "Social Media for Small Business",
+          "Managing Remote Teams",
+          "Financing a New Venture",
+          "The Future of Retail"
+        ],
+        "answer": "B",
+        "translation": "Ông Cho dự định tham dự phiên nào? — Quản lý nhóm làm việc từ xa.",
+        "explanation": "Ông Cho nói muốn dự phiên về quản lý nhóm làm việc từ xa, tức Session B trong chương trình.",
+        "vocab": [
+          [
+            "remote",
+            "adj",
+            "từ xa"
+          ],
+          [
+            "attend",
+            "v",
+            "tham dự"
+          ]
+        ]
+      },
+      {
+        "n": 190,
+        "q": "What is indicated about parking at the convention center?",
+        "options": [
+          "It costs $12 per day.",
+          "It is free for all attendees.",
+          "It must be booked online.",
+          "It is located on the second floor."
+        ],
+        "answer": "A",
+        "translation": "Thông tin nào đúng về việc đỗ xe tại trung tâm hội nghị? — Giá 12 đô la một ngày.",
+        "explanation": "Thông báo ghi gửi xe trong ga-ra của trung tâm tốn 12 đô la mỗi ngày; dịch vụ miễn phí chỉ là xe đưa đón từ khách sạn.",
+        "vocab": [
+          [
+            "garage",
+            "n",
+            "ga-ra, bãi đỗ xe"
+          ],
+          [
+            "attendee",
+            "n",
+            "người tham dự"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following memorandum, form, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: MEMORANDUM</p><p class=\"mt-2\">To: All Staff<br>From: Human Resources<br>Date: August 12<br>Re: Remote Work Policy</p><p class=\"mt-2\">Beginning September 1, employees may work from home up to two days per week. Requests must be submitted through the online form at least five business days before the requested date.</p><p class=\"mt-2\">Employees who work remotely must be available during standard office hours, from 9 a.m. to 5 p.m., and must attend any scheduled meetings by video. Remote work is not permitted during the first two weeks of a new employee's employment.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: FORM</p><p class=\"mt-2\">Remote Work Request</p><p class=\"mt-2\">Employee: Alicia Moreno<br>Department: Customer Support<br>Requested dates: September 8 and September 9<br>Submitted: August 28<br>Manager approval: Approved (L. Grant, August 29)</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: E-MAIL</p><p class=\"mt-2\">To: Alicia Moreno<br>From: Luis Grant<br>Date: August 29<br>Subject: Your remote work request</p><p class=\"mt-2\">I have approved both dates you requested. Please remember that the team meeting on September 9 has been moved to 10 a.m., and you will need to join it by video.</p><p class=\"mt-2\">Also, the monthly report is due on September 10, so please have your draft ready before then.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "What is the maximum number of remote days allowed per week?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Five"
+        ],
+        "answer": "B",
+        "translation": "Số ngày làm việc từ xa tối đa mỗi tuần là bao nhiêu? — Hai ngày.",
+        "explanation": "Bản ghi nhớ cho phép nhân viên làm việc tại nhà tối đa hai ngày mỗi tuần.",
+        "vocab": [
+          [
+            "remote work",
+            "n",
+            "làm việc từ xa"
+          ],
+          [
+            "maximum",
+            "adj",
+            "tối đa"
+          ]
+        ]
+      },
+      {
+        "n": 192,
+        "q": "How far in advance must a request be submitted?",
+        "options": [
+          "One day",
+          "Three business days",
+          "Five business days",
+          "Two weeks"
+        ],
+        "answer": "C",
+        "translation": "Phải nộp đơn trước bao lâu? — Năm ngày làm việc.",
+        "explanation": "Bản ghi nhớ yêu cầu nộp đơn qua biểu mẫu trực tuyến trước ít nhất năm ngày làm việc.",
+        "vocab": [
+          [
+            "in advance",
+            "phr",
+            "trước"
+          ],
+          [
+            "submit",
+            "v",
+            "nộp"
+          ]
+        ]
+      },
+      {
+        "n": 193,
+        "q": "Why did Mr. Grant send the e-mail?",
+        "options": [
+          "To approve a remote work request",
+          "To announce a new policy",
+          "To reschedule a monthly report",
+          "To ask for a draft of a report"
+        ],
+        "answer": "A",
+        "translation": "Vì sao ông Grant gửi email? — Để phê duyệt một đơn xin làm việc từ xa.",
+        "explanation": "Ông Grant mở đầu bằng việc thông báo đã chấp thuận cả hai ngày mà cô Moreno đề nghị.",
+        "vocab": [
+          [
+            "approve",
+            "v",
+            "phê duyệt"
+          ],
+          [
+            "request",
+            "n",
+            "đề nghị, đơn yêu cầu"
+          ]
+        ]
+      },
+      {
+        "n": 194,
+        "q": "What will Ms. Moreno have to do on September 9?",
+        "options": [
+          "Submit her monthly report",
+          "Attend a meeting by video",
+          "Work at the office all day",
+          "Meet Mr. Grant in person"
+        ],
+        "answer": "B",
+        "translation": "Cô Moreno sẽ phải làm gì vào ngày 9 tháng 9? — Tham dự cuộc họp qua video.",
+        "explanation": "Email cho biết cuộc họp nhóm ngày 9 tháng 9 dời sang 10 giờ và cô phải tham dự bằng video.",
+        "vocab": [
+          [
+            "by video",
+            "phr",
+            "qua video"
+          ],
+          [
+            "attend",
+            "v",
+            "tham dự"
+          ]
+        ]
+      },
+      {
+        "n": 195,
+        "q": "According to the policy, what are remote employees required to do?",
+        "options": [
+          "Report to the office once a week",
+          "Be available during standard office hours",
+          "Finish all reports before noon",
+          "Use their own computer equipment"
+        ],
+        "answer": "B",
+        "translation": "Theo chính sách, nhân viên làm việc từ xa phải làm gì? — Có mặt (trực tuyến) trong giờ làm việc tiêu chuẩn.",
+        "explanation": "Bản ghi nhớ yêu cầu nhân viên làm từ xa phải sẵn sàng trong giờ hành chính từ 9 giờ sáng đến 5 giờ chiều.",
+        "vocab": [
+          [
+            "available",
+            "adj",
+            "sẵn sàng, có thể liên lạc"
+          ],
+          [
+            "standard office hours",
+            "n",
+            "giờ làm việc tiêu chuẩn"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following e-mail, hotel confirmation, and agenda.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: E-MAIL</p><p class=\"mt-2\">To: Rachel Kim<br>From: Owen Patel, Travel Coordinator<br>Date: June 2<br>Subject: Your trip to Denver</p><p class=\"mt-2\">I have booked your flight and hotel for the Denver sales meeting on June 23 and 24.</p><p class=\"mt-2\">Your flight departs at 7:40 a.m. on June 22 and returns at 6:15 p.m. on June 25. The company will cover three nights at the hotel. Any additional night must be paid for by the employee.</p><p class=\"mt-2\">Please keep all receipts for meals and local transportation. You may submit them for reimbursement up to $75 per day.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: HOTEL CONFIRMATION</p><p class=\"mt-2\">The Sterling Hotel, Denver</p><p class=\"mt-2\">Guest: Rachel Kim<br>Check-in: June 22<br>Check-out: June 25<br>Room: King, non-smoking<br>Rate: $189 per night<br>Includes: breakfast and wireless internet<br>Parking: $22 per night (not included)<br>Cancellation: no charge if canceled 48 hours before arrival</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: AGENDA</p><p class=\"mt-2\">Denver Sales Meeting</p><p class=\"mt-2\">June 23: 9 a.m. - 4 p.m., Sterling Hotel, Birch Room<br>June 24: 9 a.m. - 12 p.m., Sterling Hotel, Birch Room</p><p class=\"mt-2\">Lunch will be provided on both days. Please bring your quarterly sales figures in printed form.</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "Why did Mr. Patel send the e-mail?",
+        "options": [
+          "To provide details of a business trip",
+          "To request a travel reimbursement",
+          "To change a meeting date",
+          "To confirm a hotel cancellation"
+        ],
+        "answer": "A",
+        "translation": "Mục đích của email là gì? — Để cung cấp thông tin chi tiết về một chuyến công tác.",
+        "explanation": "Email nêu giờ bay, số đêm khách sạn công ty chi trả và hạn mức hoàn tiền bữa ăn, tức là thông tin chuyến đi.",
+        "vocab": [
+          [
+            "travel coordinator",
+            "n",
+            "điều phối viên du lịch"
+          ],
+          [
+            "depart",
+            "v",
+            "khởi hành"
+          ]
+        ]
+      },
+      {
+        "n": 197,
+        "q": "How many nights will the company pay for?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": "B",
+        "translation": "Công ty sẽ trả tiền cho bao nhiêu đêm? — Ba đêm.",
+        "explanation": "Email ghi công ty chi trả ba đêm khách sạn; đêm phát sinh thêm thì nhân viên tự trả.",
+        "vocab": [
+          [
+            "cover",
+            "v",
+            "chi trả, đài thọ"
+          ],
+          [
+            "additional",
+            "adj",
+            "thêm"
+          ]
+        ]
+      },
+      {
+        "n": 198,
+        "q": "Where will the sales meeting take place?",
+        "options": [
+          "At the airport",
+          "At the Sterling Hotel",
+          "At the company office",
+          "At a conference center"
+        ],
+        "answer": "B",
+        "translation": "Cuộc họp bán hàng diễn ra ở đâu? — Tại khách sạn Sterling.",
+        "explanation": "Chương trình họp ghi cả hai ngày đều diễn ra tại phòng Birch của khách sạn Sterling.",
+        "vocab": [
+          [
+            "take place",
+            "phr",
+            "diễn ra"
+          ],
+          [
+            "agenda",
+            "n",
+            "chương trình, lịch trình"
+          ]
+        ]
+      },
+      {
+        "n": 199,
+        "q": "What is NOT included in the hotel rate?",
+        "options": [
+          "Breakfast",
+          "Wireless internet",
+          "Parking",
+          "The room"
+        ],
+        "answer": "C",
+        "translation": "Điều gì KHÔNG bao gồm trong giá phòng? — Phí đỗ xe.",
+        "explanation": "Xác nhận khách sạn ghi giá phòng bao gồm bữa sáng và internet không dây, còn đỗ xe 22 đô la mỗi đêm thì không.",
+        "vocab": [
+          [
+            "rate",
+            "n",
+            "giá, mức giá"
+          ],
+          [
+            "include",
+            "v",
+            "bao gồm"
+          ]
+        ]
+      },
+      {
+        "n": 200,
+        "q": "What should Ms. Kim bring to the meeting?",
+        "options": [
+          "Printed sales figures",
+          "A laptop computer",
+          "Her hotel receipt",
+          "A copy of her flight ticket"
+        ],
+        "answer": "A",
+        "translation": "Cô Kim nên mang gì đến cuộc họp? — Số liệu bán hàng đã in ra.",
+        "explanation": "Chương trình họp yêu cầu người tham dự mang theo số liệu bán hàng quý dưới dạng bản in.",
+        "vocab": [
+          [
+            "quarterly",
+            "adj",
+            "hàng quý"
+          ],
+          [
+            "figures",
+            "n",
+            "số liệu"
+          ]
+        ]
+      }
+    ]
+  }
+]

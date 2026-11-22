@@ -1,0 +1,392 @@
+[
+  {
+    "n": 101,
+    "q": "Because the subsidiary's quarterly ledger contained several unreconciled entries, the external auditor declined to _______ the financial statements without supplementary documentation.",
+    "options": ["certify", "disseminate", "extrapolate", "proliferate"],
+    "answer": "A",
+    "translation": "Vì sổ cái hằng quý của công ty con chứa nhiều bút toán chưa được đối chiếu, kiểm toán viên bên ngoài từ chối xác nhận báo cáo tài chính khi chưa có tài liệu bổ sung.",
+    "explanation": "Động từ 'certify' mang nghĩa xác nhận, chứng thực tính chính xác của báo cáo tài chính (certify financial statements). 'disseminate' (phổ biến rộng rãi), 'extrapolate' (ngoại suy) và 'proliferate' (gia tăng nhanh chóng) không hợp ngữ cảnh kiểm toán.",
+    "vocab": [
+      ["unreconciled", "adj.", "chưa được đối chiếu"],
+      ["certify", "v.", "chứng thực, xác nhận"],
+      ["supplementary", "adj.", "bổ sung"]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "Not only _______ the merger agreement fail to address liability caps, but it also omitted any provision for post-closing adjustments.",
+    "options": ["had", "was", "did", "would"],
+    "answer": "C",
+    "translation": "Không những thỏa thuận sáp nhập không đề cập đến các giới hạn trách nhiệm mà còn bỏ sót mọi điều khoản về điều chỉnh sau khi hoàn tất giao dịch.",
+    "explanation": "Khi 'Not only' đứng đầu câu, mệnh đề theo sau phải đảo trợ động từ lên trước chủ ngữ. Động từ chính 'fail' ở dạng nguyên mẫu và vế sau dùng quá khứ đơn 'omitted', nên trợ động từ đúng là 'did'. 'had' đòi hỏi V3, 'was' không đi với nguyên mẫu 'fail', và 'would' sai nghĩa giả định.",
+    "vocab": [
+      ["liability cap", "n.", "giới hạn trách nhiệm"],
+      ["provision", "n.", "điều khoản"],
+      ["post-closing", "adj.", "sau khi hoàn tất giao dịch"]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "_______ to repeated delays in customs clearance, the electronics manufacturer diversified its air-freight routing through two secondary regional hubs.",
+    "options": ["Subjected", "Subjecting", "Having subjected", "To subject"],
+    "answer": "A",
+    "translation": "Do phải hứng chịu nhiều lần chậm trễ trong khâu thông quan, nhà sản xuất điện tử đã đa dạng hóa tuyến vận chuyển hàng không qua hai trung tâm khu vực phụ.",
+    "explanation": "Rút gọn mệnh đề trạng ngữ mang nghĩa bị động (Because the manufacturer was subjected to...): lược bỏ liên từ và chủ ngữ, giữ quá khứ phân từ 'Subjected'. 'Subjecting' và 'Having subjected' mang nghĩa chủ động (sai logic), còn 'To subject' chỉ mục đích.",
+    "vocab": [
+      ["be subjected to", "phr.", "phải hứng chịu, trải qua"],
+      ["customs clearance", "n.", "thủ tục thông quan"],
+      ["diversify", "v.", "đa dạng hóa"]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "Legal counsel advised the spokesperson to refrain from speculating on pending litigation, _______ such remarks be construed as an admission of liability.",
+    "options": ["unless", "lest", "whereas", "provided"],
+    "answer": "B",
+    "translation": "Cố vấn pháp lý khuyên người phát ngôn tránh suy đoán về vụ kiện đang chờ xét xử, kẻo những phát ngôn như vậy bị diễn giải là sự thừa nhận trách nhiệm pháp lý.",
+    "explanation": "Liên từ 'lest' mang nghĩa 'kẻo mà, phòng khi' và đi với thức giả định ('such remarks be construed' dùng động từ nguyên mẫu 'be'). 'unless', 'whereas' và 'provided' không dùng thức giả định và sai quan hệ ngữ nghĩa.",
+    "vocab": [
+      ["litigation", "n.", "vụ kiện tụng"],
+      ["lest", "conj.", "kẻo mà, để tránh"],
+      ["construe", "v.", "diễn giải, hiểu là"]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "In the event of any inconsistency between this addendum and the master services agreement, the provisions of the master agreement shall _______ those of the addendum.",
+    "options": ["supplant", "surmount", "supersede", "subordinate"],
+    "answer": "C",
+    "translation": "Trong trường hợp có bất kỳ sự mâu thuẫn nào giữa phụ lục này và hợp đồng dịch vụ khung, các điều khoản của hợp đồng khung sẽ có hiệu lực thay thế và cao hơn các điều khoản của phụ lục.",
+    "explanation": "'Supersede' là thuật ngữ pháp lý chuẩn mang nghĩa có giá trị pháp lý cao hơn hoặc thay thế hiệu lực của điều khoản khác. 'surmount' (vượt qua trở ngại), 'subordinate' (đặt ở vị trí thấp hơn — ngược chiều) và 'supplant' (chiếm chỗ, thường dùng cho con người/công nghệ) không hợp ngữ cảnh.",
+    "vocab": [
+      ["addendum", "n.", "phụ lục bổ sung"],
+      ["supersede", "v.", "thay thế hiệu lực, ưu tiên hơn"],
+      ["inconsistency", "n.", "sự mâu thuẫn, không nhất quán"]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The compliance director insisted that every regional subsidiary _______ its data-retention schedule audited by an independent assessor prior to the fourth quarter.",
+    "options": ["has", "have", "had", "would have"],
+    "answer": "B",
+    "translation": "Giám đốc tuân thủ kiên quyết yêu cầu mọi công ty con khu vực phải thu xếp cho lịch trình lưu giữ dữ liệu của mình được kiểm toán bởi một bên đánh giá độc lập trước quý bốn.",
+    "explanation": "Sau 'insisted that' phải dùng giả định cách (mandative subjunctive): động từ nguyên mẫu không 'to' cho mọi chủ ngữ, nên dùng 'have' trong cấu trúc 'have something done'. 'has', 'had' và 'would have' đều là dạng chia thì không đúng trong giả định cách.",
+    "vocab": [
+      ["subsidiary", "n.", "công ty con"],
+      ["data-retention", "n.", "việc lưu giữ dữ liệu"],
+      ["assessor", "n.", "chuyên viên đánh giá"]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "The redevelopment bid was withdrawn after independent surveyors determined that soil remediation at the coastal parcel would be _______ expensive.",
+    "options": ["tentatively", "ostensibly", "marginally", "prohibitively"],
+    "answer": "D",
+    "translation": "Hồ sơ dự thầu tái phát triển đã bị rút lại sau khi các chuyên gia khảo sát độc lập xác định rằng việc xử lý ô nhiễm đất tại khu đất ven biển sẽ đắt đỏ đến mức không thể kham nổi.",
+    "explanation": "Cụm kết hợp từ 'prohibitively expensive' nghĩa là đắt đỏ tới mức ngăn cản không thể thực hiện dự án, khớp với kết quả 'bid was withdrawn'. 'tentatively' (tạm thời), 'ostensibly' (bề ngoài có vẻ) và 'marginally' (không đáng kể) đều không giải thích được việc rút thầu.",
+    "vocab": [
+      ["remediation", "n.", "việc khắc phục, xử lý ô nhiễm"],
+      ["prohibitively", "adv.", "đến mức không thể kham nổi"],
+      ["parcel", "n.", "lô đất, khu đất"]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "The consortium ratified a cross-licensing framework _______ participating laboratories may exchange proprietary test protocols without incurring royalty charges.",
+    "options": ["whereby", "which", "whose", "whom"],
+    "answer": "A",
+    "translation": "Liên minh đã phê chuẩn một khuôn khổ cấp phép chéo, theo đó các phòng thí nghiệm tham gia có thể trao đổi các quy trình thử nghiệm độc quyền mà không phải chịu phí bản quyền.",
+    "explanation": "Mệnh đề phía sau ('participating laboratories may exchange proprietary test protocols') đã đủ chủ ngữ và tân ngữ nên cần trạng từ quan hệ mang nghĩa 'theo đó, bằng cách đó' là 'whereby'. 'which' thiếu giới từ đi kèm ('under/by which'), còn 'whose' và 'whom' sai cấu trúc.",
+    "vocab": [
+      ["consortium", "n.", "liên minh, tập đoàn hợp tác"],
+      ["whereby", "adv.", "theo đó, nhờ đó mà"],
+      ["royalty", "n.", "tiền bản quyền"]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "Had the clinical analytics team validated the underlying dataset last quarter, the regulatory submission _______ substantially fewer procedural objections today.",
+    "options": ["would face", "would have faced", "will have faced", "had faced"],
+    "answer": "A",
+    "translation": "Nếu nhóm phân tích lâm sàng đã xác thực bộ dữ liệu nền vào quý trước thì hồ sơ trình cơ quan quản lý hôm nay sẽ gặp ít phản đối về thủ tục hơn đáng kể.",
+    "explanation": "Câu điều kiện hỗn hợp loại 3–2: mệnh đề giả định ở quá khứ ('Had ... validated ... last quarter'), nhưng hệ quả kéo dài đến hiện tại (dấu hiệu 'today'), nên mệnh đề chính dùng 'would + V nguyên mẫu' là 'would face'.",
+    "vocab": [
+      ["validate", "v.", "xác thực, kiểm chứng"],
+      ["procedural", "adj.", "thuộc về quy trình, thủ tục"],
+      ["submission", "n.", "hồ sơ đệ trình"]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "Although the logistics division's third-quarter operating margin improved markedly, it still _______ the benchmark established in the annual strategic plan.",
+    "options": ["stopped short of", "fell short of", "ran afoul of", "made light of"],
+    "answer": "B",
+    "translation": "Mặc dù biên lợi nhuận hoạt động quý ba của bộ phận logistics đã cải thiện rõ rệt, nó vẫn không đạt ngưỡng chuẩn được thiết lập trong kế hoạch chiến lược hằng năm.",
+    "explanation": "'Fall short of' (quá khứ 'fell short of') mang nghĩa không đạt tới một mức tiêu chuẩn hay mục tiêu. 'stop short of' là dừng lại trước khi làm hành động nào đó; 'run afoul of' là vi phạm quy định; 'make light of' là xem nhẹ.",
+    "vocab": [
+      ["operating margin", "n.", "biên lợi nhuận hoạt động"],
+      ["benchmark", "n.", "ngưỡng chuẩn, chuẩn mực"],
+      ["markedly", "adv.", "một cách rõ rệt"]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "_______ the central bank to tighten credit conditions further next quarter, capital-intensive infrastructure projects would likely face prolonged refinancing delays.",
+    "options": ["Should", "Had", "Were", "If"],
+    "answer": "C",
+    "translation": "Giả sử ngân hàng trung ương thắt chặt thêm các điều kiện tín dụng trong quý tới, các dự án hạ tầng thâm dụng vốn nhiều khả năng sẽ gặp chậm trễ kéo dài trong việc tái cấp vốn.",
+    "explanation": "Đảo ngữ câu điều kiện loại 2 diễn tả giả định ở tương lai: 'Were + S + to V, S + would + V'. 'Should' phải đi với động từ nguyên mẫu không 'to', 'Had' dùng với V3 cho loại 3, và 'If' không đi với 'to tighten' chưa chia thì.",
+    "vocab": [
+      ["capital-intensive", "adj.", "thâm dụng vốn lớn"],
+      ["refinancing", "n.", "việc tái cấp vốn"],
+      ["tighten", "v.", "thắt chặt"]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "The board acknowledged that frequent executive turnover is rarely _______ to long-term institutional stability, yet it declined to revise the compensation structure.",
+    "options": ["detrimental", "impervious", "tantamount", "conducive"],
+    "answer": "D",
+    "translation": "Hội đồng quản trị thừa nhận rằng sự thay đổi nhân sự cấp cao thường xuyên hiếm khi có lợi cho sự ổn định lâu dài của tổ chức, thế nhưng họ vẫn từ chối sửa đổi cơ cấu đãi ngộ.",
+    "explanation": "Cả bốn tính từ đều đi với giới từ 'to', nhưng xét quan hệ tương phản với vế sau ('yet it declined to revise...'): thay đổi lãnh đạo liên tục hiếm khi có lợi ('conducive to') cho sự ổn định. 'detrimental to' (có hại cho) ngược logic với 'rarely', 'impervious to' (miễn nhiễm với) và 'tantamount to' (tương đương với) sai nghĩa.",
+    "vocab": [
+      ["conducive to", "adj.", "có lợi cho, tạo điều kiện cho"],
+      ["turnover", "n.", "tỷ lệ thay đổi nhân sự"],
+      ["institutional", "adj.", "thuộc về tổ chức, thể chế"]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "The incident report _______ to the regulator before the statutory deadline, yet the compliance team postponed its submission twice.",
+    "options": ["should have been submitted", "should be submitted", "must have been submitted", "might have submitted"],
+    "answer": "A",
+    "translation": "Báo cáo sự cố lẽ ra đã phải được trình lên cơ quan quản lý trước hạn định luật định, vậy mà bộ phận tuân thủ đã hoãn việc nộp báo cáo tới hai lần.",
+    "explanation": "Cấu trúc 'should have been + V3' diễn tả nghĩa vụ trong quá khứ lẽ ra phải được thực hiện nhưng thực tế không xảy ra (bị hoãn hai lần). 'should be submitted' chỉ nói về hiện tại/tương lai, còn 'must have been submitted' suy đoán rằng việc đó đã được nộp rồi — trái vế sau.",
+    "vocab": [
+      ["statutory", "adj.", "theo luật định"],
+      ["regulator", "n.", "cơ quan quản lý"],
+      ["postpone", "v.", "hoãn lại"]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "_______ mounting pressure from activist shareholders to defer the vote, the board proceeded with the divestiture of its underperforming subsidiary.",
+    "options": ["Although", "Notwithstanding", "Inasmuch as", "Provided that"],
+    "answer": "B",
+    "translation": "Bất chấp áp lực ngày càng tăng từ các cổ đông tích cực đòi hoãn bỏ phiếu, hội đồng quản trị vẫn tiến hành thoái vốn khỏi công ty con hoạt động kém hiệu quả.",
+    "explanation": "Phía sau chỗ trống là một cụm danh từ ('mounting pressure from activist shareholders to defer the vote') không chứa động từ chia thì, nên cần giới từ phức 'Notwithstanding' (bất chấp). 'Although', 'Inasmuch as' và 'Provided that' đều là liên từ bắt buộc theo sau là mệnh đề đầy đủ.",
+    "vocab": [
+      ["notwithstanding", "prep.", "bất chấp, mặc dù"],
+      ["divestiture", "n.", "việc thoái vốn, bán bớt tài sản"],
+      ["activist shareholder", "n.", "cổ đông tích cực can thiệp quản trị"]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "Before executing the joint-venture charter, legal counsel sought to _______ any ambiguity regarding each partner's ownership of jointly developed patents.",
+    "options": ["perpetuate", "precipitate", "preclude", "protract"],
+    "answer": "C",
+    "translation": "Trước khi ký kết điều lệ liên doanh, cố vấn pháp lý tìm cách loại trừ trước mọi sự mơ hồ liên quan đến quyền sở hữu của mỗi đối tác đối với các bằng sáng chế đồng phát triển.",
+    "explanation": "'Preclude' mang nghĩa ngăn chặn từ trước hoặc loại bỏ khả năng xảy ra của điều gì ('preclude ambiguity'). 'perpetuate' (duy trì mãi), 'precipitate' (làm bùng phát bất ngờ) và 'protract' (kéo dài lê thê) đều trái với mục tiêu làm rõ văn bản pháp lý.",
+    "vocab": [
+      ["preclude", "v.", "ngăn chặn từ trước, loại trừ"],
+      ["ambiguity", "n.", "sự mơ hồ, nhập nhằng"],
+      ["charter", "n.", "điều lệ, hiến chương"]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "The manufacturer agreed to maintain fixed unit pricing for three consecutive years _______ that quarterly order volumes remain above the contractual minimum.",
+    "options": ["whereas", "lest", "albeit", "provided"],
+    "answer": "D",
+    "translation": "Nhà sản xuất đồng ý duy trì đơn giá cố định trong ba năm liên tiếp với điều kiện khối lượng đơn hàng hằng quý vẫn duy trì trên mức tối thiểu theo hợp đồng.",
+    "explanation": "'Provided that + mệnh đề' mang nghĩa 'với điều kiện là'. 'whereas' diễn tả tương phản, 'lest' là 'kẻo mà', còn 'albeit' là 'mặc dù' và không đi với mệnh đề bắt đầu bằng 'that'.",
+    "vocab": [
+      ["provided that", "conj.", "với điều kiện là"],
+      ["consecutive", "adj.", "liên tiếp"],
+      ["contractual", "adj.", "theo hợp đồng"]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "The biotechnology startup lacked sufficient working capital to sustain existing laboratory trials, _______ finance an unbudgeted expansion into Southeast Asia.",
+    "options": ["much less", "all the more", "none the less", "even so"],
+    "answer": "A",
+    "translation": "Công ty khởi nghiệp công nghệ sinh học thiếu vốn lưu động để duy trì các thử nghiệm phòng thí nghiệm hiện tại, chứ chưa nói đến việc tài trợ cho kế hoạch mở rộng ngoài ngân sách sang Đông Nam Á.",
+    "explanation": "Sau mệnh đề phủ định hoặc mang nghĩa thiếu hụt ('lacked sufficient working capital'), dùng 'much less + V nguyên mẫu' để nhấn mạnh điều thứ hai càng bất khả thi hơn ('chứ chưa nói đến'). Các cụm còn lại không dùng trong cấu trúc tăng tiến phủ định này.",
+    "vocab": [
+      ["working capital", "n.", "vốn lưu động"],
+      ["much less", "phr.", "chứ chưa nói đến, huống hồ là"],
+      ["unbudgeted", "adj.", "ngoài dự toán ngân sách"]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "By the time the external auditors from the regional office arrive next month, the intercompany reconciliation records _______ for every subsidiary.",
+    "options": ["will prepare", "will be preparing", "will have prepared", "will have been prepared"],
+    "answer": "D",
+    "translation": "Tính đến khi các kiểm toán viên bên ngoài từ văn phòng khu vực đến vào tháng tới, hồ sơ đối chiếu nội bộ giữa các công ty thành viên sẽ đã được lập xong cho mọi công ty con.",
+    "explanation": "Mốc 'By the time + hiện tại đơn (arrive)' đòi hỏi mệnh đề chính chia thì tương lai hoàn thành; chủ ngữ 'records' chịu tác động nên dùng dạng bị động 'will have been prepared'.",
+    "vocab": [
+      ["intercompany", "adj.", "nội bộ giữa các công ty cùng tập đoàn"],
+      ["reconciliation", "n.", "việc đối chiếu số liệu"],
+      ["external auditor", "n.", "kiểm toán viên độc lập bên ngoài"]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "The revised procurement framework is intended not only to streamline tender evaluations but also _______ supplier accountability across all operating units.",
+    "options": ["strengthening", "to strengthen", "strengthen", "having strengthened"],
+    "answer": "B",
+    "translation": "Khung quy trình thu mua sửa đổi không chỉ nhằm tinh giản khâu đánh giá hồ sơ thầu mà còn tăng cường trách nhiệm giải trình của nhà cung cấp trên mọi đơn vị vận hành.",
+    "explanation": "Cấu trúc 'not only ... but also ...' đòi hỏi hai vế song song cùng hình thức ngữ pháp. Vế trước là 'to streamline' (nguyên mẫu có 'to') nên vế sau bắt buộc là 'to strengthen'.",
+    "vocab": [
+      ["streamline", "v.", "tinh giản, hợp lý hóa"],
+      ["tender evaluation", "n.", "đánh giá hồ sơ dự thầu"],
+      ["accountability", "n.", "trách nhiệm giải trình"]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "_______ the proposed acquisition failing to obtain antitrust clearance before year-end, either party may invoke the termination clause without penalty.",
+    "options": ["In the event that", "On condition that", "In the event of", "Assuming that"],
+    "answer": "C",
+    "translation": "Trong trường hợp thương vụ mua lại dự kiến không giành được chấp thuận chống độc quyền trước cuối năm, một trong hai bên có thể viện dẫn điều khoản chấm dứt mà không bị phạt.",
+    "explanation": "Phía sau chỗ trống là cụm danh động từ ('the proposed acquisition failing...'), không có động từ chia thì, nên phải dùng giới từ phức 'In the event of'. Ba lựa chọn chứa 'that' đều là liên từ đòi hỏi mệnh đề hoàn chỉnh.",
+    "vocab": [
+      ["antitrust clearance", "n.", "chấp thuận chống độc quyền"],
+      ["invoke", "v.", "viện dẫn (điều khoản)"],
+      ["in the event of", "prep.", "trong trường hợp"]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "Not until the second quarter of the fiscal year _______ any measurable indication of recovery in the domestic retail segment.",
+    "options": ["did management observe", "had management observed", "management did observe", "observed management"],
+    "answer": "A",
+    "translation": "Mãi đến quý hai của năm tài chính, ban điều hành mới ghi nhận được dấu hiệu phục hồi rõ rệt nào đó ở phân khúc bán lẻ trong nước.",
+    "explanation": "Khi 'Not until + trạng ngữ thời gian' đứng đầu câu, mệnh đề chính bắt buộc đảo ngữ dạng quá khứ đơn: 'did + S + V nguyên mẫu' ('did management observe'). 'observed management' đảo sai động từ chính, 'had management observed' sai phối hợp thì cho sự kiện xảy ra sau mốc 'until'.",
+    "vocab": [
+      ["measurable", "adj.", "có thể đo lường, rõ rệt"],
+      ["indication", "n.", "dấu hiệu"],
+      ["retail segment", "n.", "phân khúc bán lẻ"]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "Because the regulator's interim bulletin left several technical definitions ambiguous, industry associations requested formal _______ prior to the compliance deadline.",
+    "options": ["ratification", "litigation", "proliferation", "clarification"],
+    "answer": "D",
+    "translation": "Vì bản tin tạm thời của cơ quan quản lý để lại nhiều định nghĩa kỹ thuật còn mơ hồ, các hiệp hội ngành đã yêu cầu được làm rõ chính thức trước hạn chót tuân thủ.",
+    "explanation": "Khi định nghĩa bị 'ambiguous' (mơ hồ), hành động hợp lý là yêu cầu 'clarification' (sự làm rõ). 'ratification' (sự phê chuẩn hiệp ước), 'litigation' (kiện tụng) và 'proliferation' (sự gia tăng nhanh) không khớp ngữ cảnh.",
+    "vocab": [
+      ["interim", "adj.", "tạm thời, giữa kỳ"],
+      ["clarification", "n.", "sự làm rõ, giải thích chính thức"],
+      ["ratification", "n.", "sự phê chuẩn"]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "European operations surpassed annual operating-margin targets by four percentage points, _______ North American branches lagged behind projections due to freight spikes.",
+    "options": ["thereby", "whereas", "inasmuch as", "consequently"],
+    "answer": "B",
+    "translation": "Hoạt động tại châu Âu vượt mục tiêu biên lợi nhuận hằng năm bốn điểm phần trăm, trong khi các chi nhánh Bắc Mỹ tụt lại sau dự báo do chi phí vận tải tăng vọt.",
+    "explanation": "'Whereas' nối hai mệnh đề mang ý nghĩa đối lập trực tiếp (vượt mục tiêu >< tụt lại sau dự báo). 'thereby' (nhờ đó), 'inasmuch as' (bởi vì) và 'consequently' (kết quả là) không diễn tả quan hệ tương phản.",
+    "vocab": [
+      ["whereas", "conj.", "trong khi (đối lập)"],
+      ["lag behind", "phr. v.", "tụt lại phía sau"],
+      ["percentage point", "n.", "điểm phần trăm"]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "The boutique consultancy _______ the cross-border market-entry blueprint has cautioned that tariff volatility could defer deployment by two quarters.",
+    "options": ["drafted", "to draft", "having been drafted", "drafting"],
+    "answer": "D",
+    "translation": "Công ty tư vấn chuyên biệt đang soạn thảo kế hoạch thâm nhập thị trường xuyên biên giới đã cảnh báo rằng biến động thuế quan có thể làm chậm việc triển khai hai quý.",
+    "explanation": "Rút gọn mệnh đề quan hệ ở thể chủ động ('which is drafting'): dùng hiện tại phân từ 'drafting' vì chủ thể 'the consultancy' trực tiếp soạn thảo bản kế hoạch. 'drafted' và 'having been drafted' mang nghĩa bị động (sai logic).",
+    "vocab": [
+      ["boutique consultancy", "n.", "công ty tư vấn chuyên sâu"],
+      ["volatility", "n.", "sự biến động khó lường"],
+      ["defer", "v.", "hoãn lại, lùi lại"]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "So committed _______ the organization to decarbonizing its freight corridor that it renegotiated every carrier contract within a single fiscal year.",
+    "options": ["was", "has", "did", "would"],
+    "answer": "A",
+    "translation": "Tổ chức cam kết mạnh mẽ với việc khử carbon cho hành lang vận tải đến mức đã đàm phán lại toàn bộ hợp đồng với các hãng vận chuyển chỉ trong một năm tài chính.",
+    "explanation": "Cấu trúc đảo ngữ nhấn mạnh 'So + tính từ + động từ to be + S + that ...': 'So committed was the organization ...'. 'has' thiếu 'been', 'did' không đi với tính từ 'committed', và 'would' sai ý nghĩa sự kiện đã hoàn tất ('renegotiated').",
+    "vocab": [
+      ["decarbonize", "v.", "giảm/khử phát thải carbon"],
+      ["corridor", "n.", "hành lang (vận tải)"],
+      ["renegotiate", "v.", "đàm phán lại"]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "_______ capital expenditure has already exceeded the approved ceiling by eighteen percent, the finance committee is unlikely to sanction supplementary outlays.",
+    "options": ["Notwithstanding that", "Given that", "For fear that", "Even so"],
+    "answer": "B",
+    "translation": "Xét thấy chi tiêu vốn đã vượt mức trần được phê duyệt mười tám phần trăm, ủy ban tài chính khó có khả năng chấp thuận thêm các khoản chi bổ sung.",
+    "explanation": "'Given that + mệnh đề' mang nghĩa 'xét thấy rằng', nêu cơ sở dẫn đến nhận định ở mệnh đề chính. 'Notwithstanding that' (mặc dù) trái logic, 'For fear that' (vì sợ rằng) sai hướng thời gian, và 'Even so' là trạng từ liên kết chứ không nối hai mệnh đề.",
+    "vocab": [
+      ["capital expenditure", "n.", "chi tiêu vốn đầu tư"],
+      ["sanction", "v.", "phê chuẩn, chấp thuận"],
+      ["outlay", "n.", "khoản chi phí bỏ ra"]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The task force's long-term demand projections were widely dismissed as _______ because they extrapolated from an unrepresentative sample of peak-season orders.",
+    "options": ["immutable", "indispensable", "untenable", "inadvertent"],
+    "answer": "C",
+    "translation": "Các dự báo nhu cầu dài hạn của nhóm đặc nhiệm bị bác bỏ rộng rãi là không thể đứng vững vì chúng ngoại suy từ một mẫu đơn hàng mùa cao điểm thiếu tính đại diện.",
+    "explanation": "'Untenable' nghĩa là không thể bảo vệ hay đứng vững về mặt lập luận/logic. 'immutable' (bất biến), 'indispensable' (không thể thiếu) và 'inadvertent' (vô ý) không phù hợp để bác bỏ độ tin cậy của một dự báo.",
+    "vocab": [
+      ["untenable", "adj.", "không thể đứng vững, thiếu cơ sở"],
+      ["unrepresentative", "adj.", "không mang tính đại diện"],
+      ["dismiss", "v.", "bác bỏ, gạt bỏ"]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "The freight forwarder neither notified the importer of the customs inspection hold, nor _______ it absorb the resulting demurrage charges.",
+    "options": ["did", "was", "had", "has"],
+    "answer": "A",
+    "translation": "Đơn vị giao nhận vận tải không thông báo cho nhà nhập khẩu về lệnh giữ hàng kiểm tra hải quan, và cũng không chịu phần phí lưu bãi phát sinh.",
+    "explanation": "Mở đầu mệnh đề thứ hai bằng 'nor' bắt buộc đảo trợ động từ lên trước chủ ngữ. Vế trước ở thì quá khứ đơn ('notified') và động từ sau là nguyên mẫu ('absorb') nên trợ động từ phải là 'did'.",
+    "vocab": [
+      ["freight forwarder", "n.", "đơn vị giao nhận vận tải"],
+      ["demurrage", "n.", "phí lưu bãi, lưu container"],
+      ["absorb", "v.", "gánh chịu (chi phí)"]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "Several cost-containment measures _______ in the interim sustainability review were deferred until the automated sorting facility became fully operational.",
+    "options": ["advocating", "advocated", "having advocated", "to advocate"],
+    "answer": "B",
+    "translation": "Một số biện pháp kiềm chế chi phí được đề xuất trong báo cáo đánh giá bền vững giữa kỳ đã bị hoãn lại cho đến khi cơ sở phân loại tự động đi vào vận hành hoàn chỉnh.",
+    "explanation": "Mệnh đề quan hệ bị động rút gọn ('which were advocated in the interim review'): dùng quá khứ phân từ 'advocated' bổ nghĩa cho 'measures'. Ba lựa chọn còn lại đều mang nghĩa chủ động hoặc chỉ mục đích.",
+    "vocab": [
+      ["cost-containment", "n.", "việc kiểm soát, kiềm chế chi phí"],
+      ["advocate", "v.", "đề xuất, ủng hộ"],
+      ["operational", "adj.", "đi vào hoạt động"]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "Had the audit committee _______ the revised compliance framework before the fiscal year ended, the accounting discrepancies would never have remained undetected.",
+    "options": ["had scrutinized", "been scrutinized", "scrutinizing", "scrutinized"],
+    "answer": "D",
+    "translation": "Nếu ủy ban kiểm toán đã rà soát kỹ khung tuân thủ sửa đổi trước khi năm tài chính khép lại thì các sai lệch kế toán đã không bao giờ bị bỏ sót không phát hiện.",
+    "explanation": "Đảo ngữ điều kiện loại 3: 'Had + S + V3/ed'. Do 'Had' đã đứng đầu câu làm trợ động từ và chủ ngữ 'the audit committee' thực hiện hành động rà soát, nên cần quá khứ phân từ chủ động 'scrutinized' (không lặp 'had' và không dùng bị động 'been scrutinized').",
+    "vocab": [
+      ["scrutinize", "v.", "rà soát kỹ lưỡng"],
+      ["discrepancy", "n.", "sự sai lệch"],
+      ["undetected", "adj.", "không bị phát hiện"]
+    ]
+  }
+]

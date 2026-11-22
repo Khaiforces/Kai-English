@@ -1,0 +1,834 @@
+[
+  {
+    "id": 131,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Customer Support Representatives<br><strong>From:</strong> Priya Raman, IT Support Coordinator<br><strong>Date:</strong> March 31<br><strong>Subject:</strong> Changes to the Client Records System</p><hr class=\"my-2 border-neutral-300\"><p>Dear Representatives,</p><p class=\"mt-2\">Beginning Monday, April 7, the customer records system <strong>[131]</strong> to a new cloud-based platform. The migration will take place overnight, so the system will be unavailable from 10 p.m. Saturday until 6 a.m. Sunday. During that window, please record urgent requests on the temporary log <strong>[132]</strong> is posted on the intranet.</p><p class=\"mt-2\">Once the migration is complete, you will be able to search client histories much more <strong>[133]</strong> than before. The new search function recognizes partial names and previous order numbers, which should save considerable time on every call.</p><p class=\"mt-2\"><strong>[134]</strong>. The session explains how to transfer existing notes and how to flag incomplete records. Access instructions will be sent to your company e-mail address.</p><p class=\"mt-2\">Thank you for your cooperation during this upgrade.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 131: Select the best answer to complete blank [131].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) will migrate"
+      },
+      {
+        "key": "B",
+        "text": "(B) migrating"
+      },
+      {
+        "key": "C",
+        "text": "(C) will be migrated"
+      },
+      {
+        "key": "D",
+        "text": "(D) has migrated"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bắt đầu từ thứ Hai ngày 7 tháng 4, hệ thống hồ sơ khách hàng sẽ được chuyển sang một nền tảng điện toán đám mây mới.",
+    "explanation": "Đáp án C. Chủ ngữ 'the customer records system' là vật, không tự thực hiện hành động chuyển đổi mà được chuyển đổi, nên cần dạng bị động ở thì tương lai: 'will be migrated'. Mốc thời gian 'Beginning Monday, April 7' cho thấy hành động chưa xảy ra. A sai vì 'will migrate' là dạng chủ động, hàm ý chính hệ thống tự di chuyển. B sai vì 'migrating' không thể đứng một mình làm vị ngữ. D sai vì 'has migrated' là thì hiện tại hoàn thành, không phù hợp với kế hoạch trong tương lai.",
+    "vocab": [
+      {
+        "word": "migrate",
+        "pos": "v.",
+        "meaning": "di chuyển, chuyển đổi (dữ liệu/hệ thống)"
+      },
+      {
+        "word": "cloud-based",
+        "pos": "adj.",
+        "meaning": "dựa trên nền tảng điện toán đám mây"
+      },
+      {
+        "word": "platform",
+        "pos": "n.",
+        "meaning": "nền tảng"
+      },
+      {
+        "word": "unavailable",
+        "pos": "adj.",
+        "meaning": "không khả dụng, không thể sử dụng"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Customer Support Representatives<br><strong>From:</strong> Priya Raman, IT Support Coordinator<br><strong>Date:</strong> March 31<br><strong>Subject:</strong> Changes to the Client Records System</p><hr class=\"my-2 border-neutral-300\"><p>Dear Representatives,</p><p class=\"mt-2\">Beginning Monday, April 7, the customer records system <strong>[131]</strong> to a new cloud-based platform. The migration will take place overnight, so the system will be unavailable from 10 p.m. Saturday until 6 a.m. Sunday. During that window, please record urgent requests on the temporary log <strong>[132]</strong> is posted on the intranet.</p><p class=\"mt-2\">Once the migration is complete, you will be able to search client histories much more <strong>[133]</strong> than before. The new search function recognizes partial names and previous order numbers, which should save considerable time on every call.</p><p class=\"mt-2\"><strong>[134]</strong>. The session explains how to transfer existing notes and how to flag incomplete records. Access instructions will be sent to your company e-mail address.</p><p class=\"mt-2\">Thank you for your cooperation during this upgrade.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 132: Select the best answer to complete blank [132].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) who"
+      },
+      {
+        "key": "B",
+        "text": "(B) that"
+      },
+      {
+        "key": "C",
+        "text": "(C) what"
+      },
+      {
+        "key": "D",
+        "text": "(D) whose"
+      }
+    ],
+    "correct": "B",
+    "translation": "Trong khoảng thời gian đó, vui lòng ghi các yêu cầu khẩn cấp vào nhật ký tạm thời được đăng trên mạng nội bộ.",
+    "explanation": "Đáp án B. Đại từ quan hệ cần thay thế cho 'the temporary log' (một vật) và đóng vai trò chủ ngữ của động từ 'is posted', nên dùng 'that'. A sai vì 'who' chỉ dùng cho người. C sai vì 'what' không làm đại từ quan hệ đứng sau một danh từ đã xác định trong trường hợp này. D sai vì 'whose' chỉ sự sở hữu, trong khi câu không nói nhật ký sở hữu điều gì.",
+    "vocab": [
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "meaning": "tạm thời"
+      },
+      {
+        "word": "log",
+        "pos": "n.",
+        "meaning": "nhật ký ghi chép"
+      },
+      {
+        "word": "intranet",
+        "pos": "n.",
+        "meaning": "mạng nội bộ của tổ chức"
+      },
+      {
+        "word": "urgent",
+        "pos": "adj.",
+        "meaning": "khẩn cấp"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Customer Support Representatives<br><strong>From:</strong> Priya Raman, IT Support Coordinator<br><strong>Date:</strong> March 31<br><strong>Subject:</strong> Changes to the Client Records System</p><hr class=\"my-2 border-neutral-300\"><p>Dear Representatives,</p><p class=\"mt-2\">Beginning Monday, April 7, the customer records system <strong>[131]</strong> to a new cloud-based platform. The migration will take place overnight, so the system will be unavailable from 10 p.m. Saturday until 6 a.m. Sunday. During that window, please record urgent requests on the temporary log <strong>[132]</strong> is posted on the intranet.</p><p class=\"mt-2\">Once the migration is complete, you will be able to search client histories much more <strong>[133]</strong> than before. The new search function recognizes partial names and previous order numbers, which should save considerable time on every call.</p><p class=\"mt-2\"><strong>[134]</strong>. The session explains how to transfer existing notes and how to flag incomplete records. Access instructions will be sent to your company e-mail address.</p><p class=\"mt-2\">Thank you for your cooperation during this upgrade.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 133: Select the best answer to complete blank [133].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) quick"
+      },
+      {
+        "key": "B",
+        "text": "(B) quickest"
+      },
+      {
+        "key": "C",
+        "text": "(C) quickness"
+      },
+      {
+        "key": "D",
+        "text": "(D) quickly"
+      }
+    ],
+    "correct": "D",
+    "translation": "Khi quá trình chuyển đổi hoàn tất, bạn sẽ có thể tìm kiếm lịch sử khách hàng nhanh hơn nhiều so với trước đây.",
+    "explanation": "Đáp án D. Từ cần điền bổ nghĩa cho động từ 'search', nên phải là trạng từ 'quickly'. Cấu trúc 'much more + trạng từ dài + than' diễn tả so sánh hơn. A sai vì 'quick' là tính từ, không bổ nghĩa cho động từ. B sai vì 'quickest' là so sánh nhất, không đi với 'than'. C sai vì 'quickness' là danh từ, không thể đứng sau 'more' để bổ nghĩa cho hành động tìm kiếm.",
+    "vocab": [
+      {
+        "word": "migration",
+        "pos": "n.",
+        "meaning": "sự chuyển đổi, sự di chuyển hệ thống"
+      },
+      {
+        "word": "recognize",
+        "pos": "v.",
+        "meaning": "nhận ra, nhận diện"
+      },
+      {
+        "word": "partial",
+        "pos": "adj.",
+        "meaning": "một phần, không đầy đủ"
+      },
+      {
+        "word": "considerable",
+        "pos": "adj.",
+        "meaning": "đáng kể"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Customer Support Representatives<br><strong>From:</strong> Priya Raman, IT Support Coordinator<br><strong>Date:</strong> March 31<br><strong>Subject:</strong> Changes to the Client Records System</p><hr class=\"my-2 border-neutral-300\"><p>Dear Representatives,</p><p class=\"mt-2\">Beginning Monday, April 7, the customer records system <strong>[131]</strong> to a new cloud-based platform. The migration will take place overnight, so the system will be unavailable from 10 p.m. Saturday until 6 a.m. Sunday. During that window, please record urgent requests on the temporary log <strong>[132]</strong> is posted on the intranet.</p><p class=\"mt-2\">Once the migration is complete, you will be able to search client histories much more <strong>[133]</strong> than before. The new search function recognizes partial names and previous order numbers, which should save considerable time on every call.</p><p class=\"mt-2\"><strong>[134]</strong>. The session explains how to transfer existing notes and how to flag incomplete records. Access instructions will be sent to your company e-mail address.</p><p class=\"mt-2\">Thank you for your cooperation during this upgrade.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 134: Select the best sentence to complete blank [134].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To prepare for the transition, all representatives must complete a 30-minute online training session by Friday, April 4."
+      },
+      {
+        "key": "B",
+        "text": "(B) The company's headquarters relocated to Chicago three years ago."
+      },
+      {
+        "key": "C",
+        "text": "(C) Several computers in the training room need new monitors."
+      },
+      {
+        "key": "D",
+        "text": "(D) Customer satisfaction scores were highest in the third quarter."
+      }
+    ],
+    "correct": "A",
+    "translation": "Để chuẩn bị cho đợt chuyển đổi này, tất cả nhân viên hỗ trợ phải hoàn thành một buổi đào tạo trực tuyến 30 phút trước thứ Sáu ngày 4 tháng 4.",
+    "explanation": "Đáp án A. Câu ngay sau chỗ trống viết: 'The session explains how to transfer existing notes and how to flag incomplete records.' Cụm 'The session' (buổi học đó) đòi hỏi câu [134] phía trước phải giới thiệu một buổi đào tạo ('a 30-minute online training session'). B, C, D không chứa danh từ nào để 'The session' quy chiếu tới.",
+    "vocab": [
+      {
+        "word": "representative",
+        "pos": "n.",
+        "meaning": "nhân viên đại diện"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi, phiên (đào tạo)"
+      },
+      {
+        "word": "flag",
+        "pos": "v.",
+        "meaning": "đánh dấu (để chú ý)"
+      },
+      {
+        "word": "transfer",
+        "pos": "v.",
+        "meaning": "chuyển, sao chép dữ liệu"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Notice to Patients: Updated Laboratory Hours</strong><br>Eastside Medical Center</p><hr class=\"my-2 border-neutral-300\"><p><strong>[135]</strong> Monday, March 3, the laboratory at Eastside Medical Center will open at 7:00 a.m. on weekdays, one hour earlier than its current schedule. The earlier opening is intended to help patients complete blood tests before work.</p><p class=\"mt-2\">The laboratory has also added two phlebotomists during the morning rush. As a result, patients can expect <strong>[136]</strong> waits than they experienced last winter.</p><p class=\"mt-2\"><strong>[137]</strong>, weekend testing will remain available by appointment only. Appointments can be made through the patient portal or at the front desk.</p><p class=\"mt-2\">We appreciate your patience during this transition and ask that you arrive at least ten minutes early to complete the necessary registration forms. <strong>[138]</strong>. If you have questions about the new hours, please speak with a member of the front-desk team.</p></div>",
+    "questionText": "Question 135: Select the best answer to complete blank [135].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) During"
+      },
+      {
+        "key": "B",
+        "text": "(B) Until"
+      },
+      {
+        "key": "C",
+        "text": "(C) Beginning"
+      },
+      {
+        "key": "D",
+        "text": "(D) Throughout"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bắt đầu từ thứ Hai ngày 3 tháng 3, phòng xét nghiệm tại Trung tâm Y tế Eastside sẽ mở cửa lúc 7 giờ sáng các ngày trong tuần, sớm hơn một giờ so với lịch hiện tại.",
+    "explanation": "Đáp án C. 'Beginning + mốc thời gian' có nghĩa là 'bắt đầu từ', diễn tả một lịch mới kéo dài từ ngày 3 tháng 3 trở đi. A sai vì 'During' cần một khoảng thời gian, không đi với một ngày cụ thể theo cách này. B sai vì 'Until' chỉ thời điểm kết thúc, hàm ý sự việc sẽ dừng lại sau mốc đó. D sai vì 'Throughout' nghĩa là 'xuyên suốt' một khoảng thời gian, không phù hợp để giới thiệu ngày bắt đầu của lịch mới.",
+    "vocab": [
+      {
+        "word": "laboratory",
+        "pos": "n.",
+        "meaning": "phòng xét nghiệm"
+      },
+      {
+        "word": "weekday",
+        "pos": "n.",
+        "meaning": "ngày trong tuần (thứ Hai đến thứ Sáu)"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch trình, lịch làm việc"
+      },
+      {
+        "word": "intended",
+        "pos": "adj.",
+        "meaning": "được dự định, nhằm mục đích"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Notice to Patients: Updated Laboratory Hours</strong><br>Eastside Medical Center</p><hr class=\"my-2 border-neutral-300\"><p><strong>[135]</strong> Monday, March 3, the laboratory at Eastside Medical Center will open at 7:00 a.m. on weekdays, one hour earlier than its current schedule. The earlier opening is intended to help patients complete blood tests before work.</p><p class=\"mt-2\">The laboratory has also added two phlebotomists during the morning rush. As a result, patients can expect <strong>[136]</strong> waits than they experienced last winter.</p><p class=\"mt-2\"><strong>[137]</strong>, weekend testing will remain available by appointment only. Appointments can be made through the patient portal or at the front desk.</p><p class=\"mt-2\">We appreciate your patience during this transition and ask that you arrive at least ten minutes early to complete the necessary registration forms. <strong>[138]</strong>. If you have questions about the new hours, please speak with a member of the front-desk team.</p></div>",
+    "questionText": "Question 136: Select the best answer to complete blank [136].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) short"
+      },
+      {
+        "key": "B",
+        "text": "(B) shortest"
+      },
+      {
+        "key": "C",
+        "text": "(C) more short"
+      },
+      {
+        "key": "D",
+        "text": "(D) shorter"
+      }
+    ],
+    "correct": "D",
+    "translation": "Do đó, bệnh nhân có thể mong đợi thời gian chờ ngắn hơn so với mùa đông năm ngoái.",
+    "explanation": "Đáp án D. Câu có từ 'than' nên cần dạng so sánh hơn của tính từ ngắn 'short', tức là 'shorter'. A sai vì 'short' là dạng nguyên cấp, không dùng với 'than'. B sai vì 'shortest' là so sánh nhất. C sai vì 'short' là tính từ ngắn, dạng so sánh hơn đúng là 'shorter', không phải 'more short'.",
+    "vocab": [
+      {
+        "word": "phlebotomist",
+        "pos": "n.",
+        "meaning": "kỹ thuật viên lấy máu"
+      },
+      {
+        "word": "wait",
+        "pos": "n.",
+        "meaning": "thời gian chờ"
+      },
+      {
+        "word": "expect",
+        "pos": "v.",
+        "meaning": "mong đợi"
+      },
+      {
+        "word": "morning rush",
+        "pos": "n.",
+        "meaning": "giờ cao điểm buổi sáng"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Notice to Patients: Updated Laboratory Hours</strong><br>Eastside Medical Center</p><hr class=\"my-2 border-neutral-300\"><p><strong>[135]</strong> Monday, March 3, the laboratory at Eastside Medical Center will open at 7:00 a.m. on weekdays, one hour earlier than its current schedule. The earlier opening is intended to help patients complete blood tests before work.</p><p class=\"mt-2\">The laboratory has also added two phlebotomists during the morning rush. As a result, patients can expect <strong>[136]</strong> waits than they experienced last winter.</p><p class=\"mt-2\"><strong>[137]</strong>, weekend testing will remain available by appointment only. Appointments can be made through the patient portal or at the front desk.</p><p class=\"mt-2\">We appreciate your patience during this transition and ask that you arrive at least ten minutes early to complete the necessary registration forms. <strong>[138]</strong>. If you have questions about the new hours, please speak with a member of the front-desk team.</p></div>",
+    "questionText": "Question 137: Select the best answer to complete blank [137].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Therefore"
+      },
+      {
+        "key": "B",
+        "text": "(B) However"
+      },
+      {
+        "key": "C",
+        "text": "(C) Similarly"
+      },
+      {
+        "key": "D",
+        "text": "(D) For example"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tuy nhiên, xét nghiệm vào cuối tuần sẽ vẫn chỉ có sẵn theo lịch hẹn.",
+    "explanation": "Đáp án B. Đoạn trước nói phòng xét nghiệm mở cửa sớm hơn và bố trí thêm nhân viên để giảm thời gian chờ; câu này nêu một hạn chế trái ngược là cuối tuần vẫn phải đặt hẹn, nên 'However' (Tuy nhiên) thích hợp. A sai vì 'Therefore' chỉ kết quả. C sai vì 'Similarly' chỉ sự tương đồng. D sai vì 'For example' dùng để đưa ví dụ, không phải để chuyển sang một quy định tương phản.",
+    "vocab": [
+      {
+        "word": "remain",
+        "pos": "v.",
+        "meaning": "vẫn, tiếp tục ở trạng thái nào đó"
+      },
+      {
+        "word": "by appointment only",
+        "pos": "phrase",
+        "meaning": "chỉ theo lịch hẹn"
+      },
+      {
+        "word": "patient portal",
+        "pos": "n.",
+        "meaning": "cổng thông tin trực tuyến dành cho bệnh nhân"
+      },
+      {
+        "word": "front desk",
+        "pos": "n.",
+        "meaning": "quầy lễ tân"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Notice to Patients: Updated Laboratory Hours</strong><br>Eastside Medical Center</p><hr class=\"my-2 border-neutral-300\"><p><strong>[135]</strong> Monday, March 3, the laboratory at Eastside Medical Center will open at 7:00 a.m. on weekdays, one hour earlier than its current schedule. The earlier opening is intended to help patients complete blood tests before work.</p><p class=\"mt-2\">The laboratory has also added two phlebotomists during the morning rush. As a result, patients can expect <strong>[136]</strong> waits than they experienced last winter.</p><p class=\"mt-2\"><strong>[137]</strong>, weekend testing will remain available by appointment only. Appointments can be made through the patient portal or at the front desk.</p><p class=\"mt-2\">We appreciate your patience during this transition and ask that you arrive at least ten minutes early to complete the necessary registration forms. <strong>[138]</strong>. If you have questions about the new hours, please speak with a member of the front-desk team.</p></div>",
+    "questionText": "Question 138: Select the best sentence to complete blank [138].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Please also bring a valid photo ID and your current insurance card to your visit."
+      },
+      {
+        "key": "B",
+        "text": "(B) The hospital's cafeteria serves hot meals until 8:00 p.m."
+      },
+      {
+        "key": "C",
+        "text": "(C) Dr. Patel will present her research at the medical conference."
+      },
+      {
+        "key": "D",
+        "text": "(D) Pharmaceutical sales increased by 12 percent this year."
+      }
+    ],
+    "correct": "A",
+    "translation": "Vui lòng mang theo giấy tờ tùy thân có ảnh hợp lệ và thẻ bảo hiểm hiện tại khi đến khám.",
+    "explanation": "Đáp án A. Câu trước dặn bệnh nhân đến sớm ít nhất 10 phút để hoàn tất các mẫu đơn đăng ký cần thiết ('complete the necessary registration forms'). Câu A nhắc bệnh nhân mang theo giấy tờ tùy thân và thẻ bảo hiểm ('Please also bring a valid photo ID and your current insurance card...') bổ sung trực tiếp cho thủ tục đăng ký tại phòng xét nghiệm. B, C, D lệch chủ đề.",
+    "vocab": [
+      {
+        "word": "patience",
+        "pos": "n.",
+        "meaning": "sự kiên nhẫn"
+      },
+      {
+        "word": "transition",
+        "pos": "n.",
+        "meaning": "sự chuyển đổi"
+      },
+      {
+        "word": "necessary",
+        "pos": "adj.",
+        "meaning": "cần thiết"
+      },
+      {
+        "word": "documentation",
+        "pos": "n.",
+        "meaning": "giấy tờ, hồ sơ"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Delivery Drivers<br><strong>From:</strong> Victor Salazar, Fleet Manager<br><strong>Date:</strong> October 15<br><strong>Subject:</strong> New Fuel-Efficiency Guidelines</p><hr class=\"my-2 border-neutral-300\"><p>Over the past six months, fuel costs have risen by nearly 14 percent. To reduce expenses without affecting delivery times, the company <strong>[139]</strong> a set of fuel-efficiency guidelines that all drivers must follow starting next month.</p><p class=\"mt-2\">Drivers are asked to avoid unnecessary idling and to maintain steady speeds on highway routes. Vehicles should be inspected weekly, and any problem <strong>[140]</strong> immediately to the maintenance team.</p><p class=\"mt-2\">Following these guidelines will not only lower fuel costs <strong>[141]</strong> reduce wear on our vehicles. In addition, safer driving habits can help us avoid costly accidents.</p><p class=\"mt-2\">Managers will review each route's performance at the end of the quarter and will recognize drivers whose fuel use has decreased the most. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for helping us operate more efficiently.</p></div>",
+    "questionText": "Question 139: Select the best answer to complete blank [139].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) introduces"
+      },
+      {
+        "key": "B",
+        "text": "(B) is introducing"
+      },
+      {
+        "key": "C",
+        "text": "(C) has introduced"
+      },
+      {
+        "key": "D",
+        "text": "(D) will have introduced"
+      }
+    ],
+    "correct": "C",
+    "translation": "Để giảm chi phí mà không ảnh hưởng đến thời gian giao hàng, công ty đã ban hành một bộ hướng dẫn tiết kiệm nhiên liệu mà tất cả tài xế phải tuân theo bắt đầu từ tháng sau.",
+    "explanation": "Đáp án C. Hành động ban hành đã hoàn tất và có ảnh hưởng đến hiện tại; các hướng dẫn đã tồn tại để tài xế tuân theo từ tháng sau, nên thì hiện tại hoàn thành 'has introduced' là phù hợp. A sai vì hiện tại đơn không nhấn mạnh kết quả đã hoàn thành. B sai vì hiện tại tiếp diễn gợi ý việc giới thiệu đang diễn ra, trong khi bộ hướng dẫn đã được ban hành. D sai vì tương lai hoàn thành cần một mốc thời gian trong tương lai làm chuẩn, không có trong câu.",
+    "vocab": [
+      {
+        "word": "fuel efficiency",
+        "pos": "n.",
+        "meaning": "hiệu suất sử dụng nhiên liệu"
+      },
+      {
+        "word": "expense",
+        "pos": "n.",
+        "meaning": "chi phí"
+      },
+      {
+        "word": "idle",
+        "pos": "v.",
+        "meaning": "để động cơ chạy không tải"
+      },
+      {
+        "word": "maintain",
+        "pos": "v.",
+        "meaning": "duy trì, giữ"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Delivery Drivers<br><strong>From:</strong> Victor Salazar, Fleet Manager<br><strong>Date:</strong> October 15<br><strong>Subject:</strong> New Fuel-Efficiency Guidelines</p><hr class=\"my-2 border-neutral-300\"><p>Over the past six months, fuel costs have risen by nearly 14 percent. To reduce expenses without affecting delivery times, the company <strong>[139]</strong> a set of fuel-efficiency guidelines that all drivers must follow starting next month.</p><p class=\"mt-2\">Drivers are asked to avoid unnecessary idling and to maintain steady speeds on highway routes. Vehicles should be inspected weekly, and any problem <strong>[140]</strong> immediately to the maintenance team.</p><p class=\"mt-2\">Following these guidelines will not only lower fuel costs <strong>[141]</strong> reduce wear on our vehicles. In addition, safer driving habits can help us avoid costly accidents.</p><p class=\"mt-2\">Managers will review each route's performance at the end of the quarter and will recognize drivers whose fuel use has decreased the most. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for helping us operate more efficiently.</p></div>",
+    "questionText": "Question 140: Select the best answer to complete blank [140].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) must report"
+      },
+      {
+        "key": "B",
+        "text": "(B) must be reported"
+      },
+      {
+        "key": "C",
+        "text": "(C) must reporting"
+      },
+      {
+        "key": "D",
+        "text": "(D) must to report"
+      }
+    ],
+    "correct": "B",
+    "translation": "Xe nên được kiểm tra hàng tuần, và mọi vấn đề phải được báo ngay cho đội bảo trì.",
+    "explanation": "Đáp án B. Chủ ngữ 'any problem' là đối tượng được báo cáo, không phải người thực hiện việc báo cáo, nên cần bị động với động từ khuyết thiếu: 'must be reported'. A sai vì 'must report' là chủ động, hàm ý bản thân vấn đề đi báo cáo. C sai vì sau 'must' phải là động từ nguyên thể, không phải V-ing. D sai vì không dùng 'to' sau 'must'.",
+    "vocab": [
+      {
+        "word": "inspect",
+        "pos": "v.",
+        "meaning": "kiểm tra"
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "meaning": "sự bảo trì, bộ phận bảo trì"
+      },
+      {
+        "word": "immediately",
+        "pos": "adv.",
+        "meaning": "ngay lập tức"
+      },
+      {
+        "word": "report",
+        "pos": "v.",
+        "meaning": "báo cáo, thông báo"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Delivery Drivers<br><strong>From:</strong> Victor Salazar, Fleet Manager<br><strong>Date:</strong> October 15<br><strong>Subject:</strong> New Fuel-Efficiency Guidelines</p><hr class=\"my-2 border-neutral-300\"><p>Over the past six months, fuel costs have risen by nearly 14 percent. To reduce expenses without affecting delivery times, the company <strong>[139]</strong> a set of fuel-efficiency guidelines that all drivers must follow starting next month.</p><p class=\"mt-2\">Drivers are asked to avoid unnecessary idling and to maintain steady speeds on highway routes. Vehicles should be inspected weekly, and any problem <strong>[140]</strong> immediately to the maintenance team.</p><p class=\"mt-2\">Following these guidelines will not only lower fuel costs <strong>[141]</strong> reduce wear on our vehicles. In addition, safer driving habits can help us avoid costly accidents.</p><p class=\"mt-2\">Managers will review each route's performance at the end of the quarter and will recognize drivers whose fuel use has decreased the most. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for helping us operate more efficiently.</p></div>",
+    "questionText": "Question 141: Select the best answer to complete blank [141].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) but also"
+      },
+      {
+        "key": "B",
+        "text": "(B) as well"
+      },
+      {
+        "key": "C",
+        "text": "(C) rather than"
+      },
+      {
+        "key": "D",
+        "text": "(D) instead of"
+      }
+    ],
+    "correct": "A",
+    "translation": "Việc tuân theo các hướng dẫn này không chỉ giảm chi phí nhiên liệu mà còn giảm hao mòn xe của chúng ta.",
+    "explanation": "Đáp án A. Câu dùng cấu trúc tương quan 'not only ... but also ...' để nối hai lợi ích song song: 'lower fuel costs' và 'reduce wear'. A hoàn tất đúng cấu trúc này. B sai vì 'as well' không tạo thành cặp với 'not only' và không đứng trước động từ theo cách này. C và D đều diễn tả sự thay thế ('thay vì'), trong khi hai vế đều là lợi ích cùng xảy ra chứ không loại trừ nhau.",
+    "vocab": [
+      {
+        "word": "lower",
+        "pos": "v.",
+        "meaning": "làm giảm"
+      },
+      {
+        "word": "wear",
+        "pos": "n.",
+        "meaning": "sự hao mòn"
+      },
+      {
+        "word": "guideline",
+        "pos": "n.",
+        "meaning": "hướng dẫn, quy định"
+      },
+      {
+        "word": "route",
+        "pos": "n.",
+        "meaning": "tuyến đường"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Delivery Drivers<br><strong>From:</strong> Victor Salazar, Fleet Manager<br><strong>Date:</strong> October 15<br><strong>Subject:</strong> New Fuel-Efficiency Guidelines</p><hr class=\"my-2 border-neutral-300\"><p>Over the past six months, fuel costs have risen by nearly 14 percent. To reduce expenses without affecting delivery times, the company <strong>[139]</strong> a set of fuel-efficiency guidelines that all drivers must follow starting next month.</p><p class=\"mt-2\">Drivers are asked to avoid unnecessary idling and to maintain steady speeds on highway routes. Vehicles should be inspected weekly, and any problem <strong>[140]</strong> immediately to the maintenance team.</p><p class=\"mt-2\">Following these guidelines will not only lower fuel costs <strong>[141]</strong> reduce wear on our vehicles. In addition, safer driving habits can help us avoid costly accidents.</p><p class=\"mt-2\">Managers will review each route's performance at the end of the quarter and will recognize drivers whose fuel use has decreased the most. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for helping us operate more efficiently.</p></div>",
+    "questionText": "Question 142: Select the best sentence to complete blank [142].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The warehouse roof was repaired after last month's storm."
+      },
+      {
+        "key": "B",
+        "text": "(B) Top-performing drivers will receive a $150 bonus and a certificate of recognition."
+      },
+      {
+        "key": "C",
+        "text": "(C) All international shipments require customs declarations."
+      },
+      {
+        "key": "D",
+        "text": "(D) Passenger trains depart from Central Station every hour."
+      }
+    ],
+    "correct": "B",
+    "translation": "Những tài xế có thành tích tốt nhất sẽ nhận được khoản thưởng 150 đô la và giấy chứng nhận khen thưởng.",
+    "explanation": "Đáp án B. Câu trước vừa nêu các quản lý sẽ đánh giá hiệu suất từng tuyến vào cuối quý và tuyên dương những tài xế giảm mức tiêu thụ nhiên liệu nhiều nhất ('recognize drivers whose fuel use has decreased the most'). Câu B nói rõ hình thức khen thưởng cụ thể ('$150 bonus and a certificate of recognition') nối tiếp hoàn hảo. A, C, D không liên quan.",
+    "vocab": [
+      {
+        "word": "recognize",
+        "pos": "v.",
+        "meaning": "ghi nhận, khen thưởng"
+      },
+      {
+        "word": "decrease",
+        "pos": "v.",
+        "meaning": "giảm"
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "meaning": "quý (ba tháng)"
+      },
+      {
+        "word": "performance",
+        "pos": "n.",
+        "meaning": "hiệu suất, kết quả thực hiện"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Advertisement: BrightDesk Customer Support Platform</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you spending too much time answering the same customer questions? BrightDesk is a new support platform <strong>[143]</strong> to help small businesses manage inquiries from e-mail, chat, and social media in one place.</p><p class=\"mt-2\">With BrightDesk, you can create automatic replies, track unresolved cases, and generate reports without <strong>[144]</strong> any data by hand. The dashboard displays every conversation in a single view, <strong>[145]</strong> your team can see which customers are still waiting for a reply.</p><p class=\"mt-2\">Plans start at just $29 per month, and every new account includes a free 14-day trial. <strong>[146]</strong>. Visit our website today to learn how BrightDesk can improve your customer service.</p><p class=\"mt-2\"><em>BrightDesk — Support that keeps your customers coming back.</em></p></div>",
+    "questionText": "Question 143: Select the best answer to complete blank [143].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) designing"
+      },
+      {
+        "key": "B",
+        "text": "(B) designed"
+      },
+      {
+        "key": "C",
+        "text": "(C) design"
+      },
+      {
+        "key": "D",
+        "text": "(D) designs"
+      }
+    ],
+    "correct": "B",
+    "translation": "BrightDesk là một nền tảng hỗ trợ mới được thiết kế để giúp các doanh nghiệp nhỏ quản lý yêu cầu từ email, trò chuyện và mạng xã hội ở một nơi.",
+    "explanation": "Đáp án B. Cụm 'designed to help' là dạng rút gọn của mệnh đề quan hệ bị động 'which is designed to help', bổ nghĩa cho 'platform'. A sai vì 'designing' mang nghĩa chủ động, hàm ý nền tảng tự thiết kế. C và D là động từ chia theo thì, không thể đứng trực tiếp sau danh từ 'platform' mà không có đại từ quan hệ hay liên từ.",
+    "vocab": [
+      {
+        "word": "inquiry",
+        "pos": "n.",
+        "meaning": "yêu cầu, câu hỏi từ khách hàng"
+      },
+      {
+        "word": "platform",
+        "pos": "n.",
+        "meaning": "nền tảng (phần mềm)"
+      },
+      {
+        "word": "manage",
+        "pos": "v.",
+        "meaning": "quản lý, xử lý"
+      },
+      {
+        "word": "in one place",
+        "pos": "phrase",
+        "meaning": "ở một nơi duy nhất"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Advertisement: BrightDesk Customer Support Platform</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you spending too much time answering the same customer questions? BrightDesk is a new support platform <strong>[143]</strong> to help small businesses manage inquiries from e-mail, chat, and social media in one place.</p><p class=\"mt-2\">With BrightDesk, you can create automatic replies, track unresolved cases, and generate reports without <strong>[144]</strong> any data by hand. The dashboard displays every conversation in a single view, <strong>[145]</strong> your team can see which customers are still waiting for a reply.</p><p class=\"mt-2\">Plans start at just $29 per month, and every new account includes a free 14-day trial. <strong>[146]</strong>. Visit our website today to learn how BrightDesk can improve your customer service.</p><p class=\"mt-2\"><em>BrightDesk — Support that keeps your customers coming back.</em></p></div>",
+    "questionText": "Question 144: Select the best answer to complete blank [144].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) enter"
+      },
+      {
+        "key": "B",
+        "text": "(B) entered"
+      },
+      {
+        "key": "C",
+        "text": "(C) entering"
+      },
+      {
+        "key": "D",
+        "text": "(D) entry"
+      }
+    ],
+    "correct": "C",
+    "translation": "Với BrightDesk, bạn có thể tạo trả lời tự động, theo dõi các trường hợp chưa giải quyết và tạo báo cáo mà không cần nhập bất kỳ dữ liệu nào bằng tay.",
+    "explanation": "Đáp án C. Sau giới từ 'without' phải dùng dạng V-ing, nên 'entering' là đáp án đúng; cụm 'without entering any data' nghĩa là không cần nhập dữ liệu. A và B sai vì 'without' không đi với động từ nguyên thể hay quá khứ phân từ trong cấu trúc này. D sai vì 'entry' là danh từ, không thể trực tiếp nhận tân ngữ 'any data' mà cần giới từ như 'of'.",
+    "vocab": [
+      {
+        "word": "automatic reply",
+        "pos": "n.",
+        "meaning": "trả lời tự động"
+      },
+      {
+        "word": "unresolved",
+        "pos": "adj.",
+        "meaning": "chưa được giải quyết"
+      },
+      {
+        "word": "generate",
+        "pos": "v.",
+        "meaning": "tạo ra, sinh ra"
+      },
+      {
+        "word": "by hand",
+        "pos": "phrase",
+        "meaning": "bằng tay, thủ công"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Advertisement: BrightDesk Customer Support Platform</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you spending too much time answering the same customer questions? BrightDesk is a new support platform <strong>[143]</strong> to help small businesses manage inquiries from e-mail, chat, and social media in one place.</p><p class=\"mt-2\">With BrightDesk, you can create automatic replies, track unresolved cases, and generate reports without <strong>[144]</strong> any data by hand. The dashboard displays every conversation in a single view, <strong>[145]</strong> your team can see which customers are still waiting for a reply.</p><p class=\"mt-2\">Plans start at just $29 per month, and every new account includes a free 14-day trial. <strong>[146]</strong>. Visit our website today to learn how BrightDesk can improve your customer service.</p><p class=\"mt-2\"><em>BrightDesk — Support that keeps your customers coming back.</em></p></div>",
+    "questionText": "Question 145: Select the best answer to complete blank [145].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) so"
+      },
+      {
+        "key": "B",
+        "text": "(B) although"
+      },
+      {
+        "key": "C",
+        "text": "(C) unless"
+      },
+      {
+        "key": "D",
+        "text": "(D) whereas"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bảng điều khiển hiển thị mọi cuộc trò chuyện trong một chế độ xem duy nhất, vì vậy nhóm của bạn có thể thấy khách hàng nào vẫn đang chờ trả lời.",
+    "explanation": "Đáp án A. Vế trước nêu việc bảng điều khiển hiển thị mọi cuộc trò chuyện; vế sau là kết quả thuận lợi của việc đó, nên 'so' (vì vậy) thích hợp. B sai vì 'although' biểu thị sự nhượng bộ. C sai vì 'unless' nêu điều kiện phủ định. D sai vì 'whereas' dùng để đối chiếu hai ý tương phản.",
+    "vocab": [
+      {
+        "word": "dashboard",
+        "pos": "n.",
+        "meaning": "bảng điều khiển, bảng tổng hợp thông tin"
+      },
+      {
+        "word": "conversation",
+        "pos": "n.",
+        "meaning": "cuộc trò chuyện"
+      },
+      {
+        "word": "in a single view",
+        "pos": "phrase",
+        "meaning": "trong một chế độ xem duy nhất"
+      },
+      {
+        "word": "reply",
+        "pos": "n.",
+        "meaning": "câu trả lời"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>Advertisement: BrightDesk Customer Support Platform</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you spending too much time answering the same customer questions? BrightDesk is a new support platform <strong>[143]</strong> to help small businesses manage inquiries from e-mail, chat, and social media in one place.</p><p class=\"mt-2\">With BrightDesk, you can create automatic replies, track unresolved cases, and generate reports without <strong>[144]</strong> any data by hand. The dashboard displays every conversation in a single view, <strong>[145]</strong> your team can see which customers are still waiting for a reply.</p><p class=\"mt-2\">Plans start at just $29 per month, and every new account includes a free 14-day trial. <strong>[146]</strong>. Visit our website today to learn how BrightDesk can improve your customer service.</p><p class=\"mt-2\"><em>BrightDesk — Support that keeps your customers coming back.</em></p></div>",
+    "questionText": "Question 146: Select the best sentence to complete blank [146].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Annual subscribers also receive a 20 percent discount and complimentary data migration support."
+      },
+      {
+        "key": "B",
+        "text": "(B) The retail store is closed on Sundays and public holidays."
+      },
+      {
+        "key": "C",
+        "text": "(C) Please enclose a stamped envelope with your payment."
+      },
+      {
+        "key": "D",
+        "text": "(D) Our manufacturing plant is located in northern Ohio."
+      }
+    ],
+    "correct": "A",
+    "translation": "Người đăng ký gói năm cũng nhận được mức giảm giá 20 phần trăm và hỗ trợ chuyển đổi dữ liệu miễn phí.",
+    "explanation": "Đáp án A. Câu trước đang giới thiệu mức giá gói dịch vụ phần mềm ('Plans start at just $29 per month, and every new account includes a free 14-day trial'). Câu A bổ sung ưu đãi dành cho khách hàng đăng ký theo năm ('Annual subscribers also receive...') trước khi mời truy cập trang web ở câu cuối. B, C, D không phù hợp với quảng cáo nền tảng phần mềm.",
+    "vocab": [
+      {
+        "word": "trial",
+        "pos": "n.",
+        "meaning": "bản dùng thử"
+      },
+      {
+        "word": "account",
+        "pos": "n.",
+        "meaning": "tài khoản"
+      },
+      {
+        "word": "improve",
+        "pos": "v.",
+        "meaning": "cải thiện"
+      },
+      {
+        "word": "customer service",
+        "pos": "n.",
+        "meaning": "dịch vụ khách hàng"
+      }
+    ]
+  }
+]

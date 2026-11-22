@@ -1,0 +1,477 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "Hasn't the sustainability committee finalized the Scope 3 emissions inventory for the annual ESG disclosure?",
+    "questionVi": "Chẳng phải ủy ban phát triển bền vững đã hoàn tất bản kiểm kê phát thải Phạm vi 3 cho báo cáo công bố ESG thường niên rồi sao?",
+    "options": [
+      "The external verification firm requested raw utility telemetry from two overseas suppliers.",
+      "Yes, the annual shareholder dinner is scheduled for next Friday.",
+      "No, we're no longer storing hazardous solvents in the basement."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải ủy ban phát triển bền vững đã hoàn tất bản kiểm kê phát thải Phạm vi 3 cho báo cáo công bố ESG thường niên rồi sao?\n(A) Công ty thẩm định độc lập vừa yêu cầu dữ liệu đo lường năng lượng thô từ hai nhà cung cấp nước ngoài.\n(B) Vâng, bữa tiệc cổ đông thường niên được lên lịch vào thứ Sáu tuần tới.\n(C) Không, chúng tôi không còn lưu trữ dung môi nguy hại dưới tầng hầm nữa.",
+    "explanation": "Câu hỏi phủ định ('Hasn't the sustainability committee finalized...') hỏi về tiến độ chốt báo cáo phát thải chuỗi cung ứng (Scope 3). Đáp án A phản hồi gián tiếp: công ty thẩm định độc lập vừa yêu cầu thêm dữ liệu đo lường thô từ hai nhà cung cấp nước ngoài, hàm ý bản kiểm kê vẫn chưa thể hoàn tất. Bẫy: (B) trả lời 'Yes' theo thói quen cho câu phủ định và lặp 'annual' nhưng lệch sang bữa tiệc cổ đông; (C) liên tưởng môi trường/an toàn và bẫy nghĩa 'inventory/storing' (kiểm kê vs lưu kho dung môi).",
+    "vocab": [
+      ["disclosure", "n", "sự công bố thông tin (tài chính/ESG)"],
+      ["verification", "n", "sự xác minh, thẩm định độc lập"],
+      ["telemetry", "n", "dữ liệu đo lường truyền từ xa"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Could you tell me why the treasury desk liquidated our short-term commercial paper holdings ahead of maturity?",
+    "questionVi": "Bạn có thể cho tôi biết tại sao bộ phận ngân quỹ lại tất toán lượng thương phiếu ngắn hạn của chúng ta trước ngày đáo hạn không?",
+    "options": [
+      "Because our print shop switched to recycled paper stock last quarter.",
+      "The reception desk is staffed until six o'clock on weekdays.",
+      "Market yields inverted rapidly after the central bank's emergency briefing."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn có thể cho tôi biết tại sao bộ phận ngân quỹ lại tất toán lượng thương phiếu ngắn hạn của chúng ta trước ngày đáo hạn không?\n(A) Bởi vì xưởng in của chúng ta đã chuyển sang dùng giấy tái chế từ quý trước.\n(B) Quầy lễ tân có nhân viên trực đến sáu giờ chiều các ngày trong tuần.\n(C) Lợi suất thị trường đã đảo chiều nhanh chóng sau cuộc họp báo khẩn cấp của ngân hàng trung ương.",
+    "explanation": "Câu hỏi nhúng ('Could you tell me why...') hỏi lý do bộ phận ngân quỹ bán trước hạn danh mục thương phiếu ('commercial paper'). Đáp án C giải thích nguyên nhân tài chính gián tiếp (không cần 'Because'): đường cong lợi suất thị trường đảo chiều nhanh sau thông báo khẩn của ngân hàng trung ương. Bẫy: (A) dùng từ nối 'Because' đánh lừa kết hợp đa nghĩa 'commercial paper' (thương phiếu) vs 'paper stock' (giấy in); (B) bẫy lặp từ 'desk' ('treasury desk' vs 'reception desk').",
+    "vocab": [
+      ["treasury desk", "n", "bộ phận ngân quỹ / giao dịch vốn doanh nghiệp"],
+      ["commercial paper", "n", "thương phiếu (công cụ nợ ngắn hạn doanh nghiệp)"],
+      ["maturity", "n", "ngày đáo hạn (của công cụ tài chính)"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "Our flagship biologics facility just received a warning letter regarding cold-chain temperature excursions.",
+    "questionVi": "Cơ sở sản xuất dược phẩm sinh học chủ lực của chúng ta vừa nhận được thư cảnh báo về việc sai lệch nhiệt độ trong chuỗi cung ứng lạnh.",
+    "options": [
+      "I already booked the sightseeing excursion for the visiting delegates.",
+      "Quality assurance is convening a root-cause remediation task force right away.",
+      "No, the weather forecast calls for mild temperatures throughout October."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Cơ sở sản xuất dược phẩm sinh học chủ lực của chúng ta vừa nhận được thư cảnh báo về việc sai lệch nhiệt độ trong chuỗi cung ứng lạnh.\n(A) Tôi đã đặt sẵn chuyến tham quan ngoại khóa cho các đại biểu đến thăm rồi.\n(B) Bộ phận đảm bảo chất lượng đang triệu tập ngay một nhóm chuyên trách khắc phục tận gốc sự cố.\n(C) Không, dự báo thời tiết cho biết nền nhiệt sẽ ôn hòa suốt tháng Mười.",
+    "explanation": "Câu phát biểu thông báo một sự cố tuân thủ nghiêm trọng (thư cảnh báo về sai lệch nhiệt độ bảo quản dược phẩm 'temperature excursions'). Đáp án B phản hồi gián tiếp bằng hành động ứng phó chuẩn mực: bộ phận Đảm bảo chất lượng lập tức triệu tập nhóm chuyên trách phân tích nguyên nhân gốc rễ và khắc phục. Bẫy: (A) bẫy đa nghĩa từ 'excursion' (sự sai lệch khỏi giới hạn kỹ thuật vs chuyến tham quan du ngoạn); (C) lặp từ 'temperature' theo nghĩa thời tiết.",
+    "vocab": [
+      ["biologics", "n", "dược phẩm sinh học"],
+      ["excursion", "n", "sự vượt ngưỡng / sai lệch khỏi thông số chuẩn"],
+      ["remediation", "n", "biện pháp khắc phục, sửa chữa sự cố"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "The syndicated loan facility won't reach financial close before the environmental impact covenant is signed, will it?",
+    "questionVi": "Khoản vay hợp vốn sẽ không thể hoàn tất đóng giao dịch tài chính trước khi cam kết tác động môi trường được ký kết, đúng không?",
+    "options": [
+      "The lead arranger explicitly made that filing a condition precedent.",
+      "Yes, the fitness facility closes at ten on public holidays.",
+      "We subscribed to the syndicated financial newsletter yesterday."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khoản vay hợp vốn sẽ không thể hoàn tất đóng giao dịch tài chính trước khi cam kết tác động môi trường được ký kết, đúng không?\n(A) Ngân hàng thu xếp đầu mối đã quy định rõ hồ sơ đó là điều kiện tiên quyết.\n(B) Có chứ, phòng tập thể dục đóng cửa lúc mười giờ vào các ngày lễ.\n(C) Hôm qua chúng tôi đã đăng ký nhận bản tin tài chính phát hành chung rồi.",
+    "explanation": "Câu hỏi đuôi ('won't reach financial close..., will it?') kiểm tra trình tự pháp lý của một khoản vay hợp vốn ('syndicated loan facility'). Đáp án A gián tiếp khẳng định điều đó là đúng: ngân hàng thu xếp đầu mối ('lead arranger') đã đặt hồ sơ cam kết đó làm điều kiện tiên quyết ('condition precedent'). Bẫy: (B) bẫy đa nghĩa kép 'facility' (hạn mức tín dụng vs cơ sở vật chất) và 'close' (hoàn tất giao dịch vs đóng cửa); (C) lặp từ 'syndicated' và 'financial'.",
+    "vocab": [
+      ["syndicated loan", "n", "khoản vay hợp vốn (nhiều ngân hàng cùng cấp)"],
+      ["covenant", "n", "điều khoản cam kết ràng buộc trong hợp đồng vay"],
+      ["condition precedent", "n", "điều kiện tiên quyết (trước khi giải ngân/hiệu lực)"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "Who holds signing authority for cross-border licensing royalties exceeding half a million euros?",
+    "questionVi": "Ai nắm thẩm quyền ký duyệt đối với các khoản phí bản quyền cấp phép xuyên biên giới vượt quá nửa triệu euro?",
+    "options": [
+      "Several European royalty figures attended the charity gala.",
+      "Please sign the visitor logbook at the security turnstile.",
+      "Anything over that threshold requires dual countersignature from the CFO and General Counsel."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Ai nắm thẩm quyền ký duyệt đối với các khoản phí bản quyền cấp phép xuyên biên giới vượt quá nửa triệu euro?\n(A) Một vài nhân vật hoàng gia châu Âu đã tham dự dạ tiệc từ thiện.\n(B) Vui lòng ký vào sổ theo dõi khách ra vào tại cổng xoay an ninh.\n(C) Mọi khoản vượt ngưỡng đó đều yêu cầu chữ ký đối chứng kép của Giám đốc tài chính và Tổng cố vấn pháp lý.",
+    "explanation": "Câu hỏi 'Who' hỏi về chức danh có thẩm quyền phê duyệt thanh toán tiền bản quyền giá trị lớn. Đáp án C trả lời chính xác bằng cách nêu cơ chế phê duyệt kép ('dual countersignature') thuộc về CFO và Tổng cố vấn pháp lý khi vượt ngưỡng ('threshold'). Bẫy: (A) bẫy đa nghĩa từ 'royalties' (tiền bản quyền sở hữu trí tuệ) vs 'royalty' (giới hoàng gia); (B) lặp từ gốc 'signing' -> 'sign'.",
+    "vocab": [
+      ["royalty", "n", "tiền bản quyền (sử dụng sáng chế, thương hiệu)"],
+      ["threshold", "n", "ngưỡng giới hạn, mức sàn quy định"],
+      ["countersignature", "n", "chữ ký đối chứng / đồng ký phê duyệt"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Should we bundle the cloud migration into a fixed-fee turnkey contract or structure it on a time-and-materials basis?",
+    "questionVi": "Chúng ta nên gộp gói chuyển đổi lên đám mây vào một hợp đồng trọn gói giá cố định hay cấu trúc theo hình thức tính phí theo thời gian và vật tư thực tế?",
+    "options": [
+      "The raw materials arrived at the fabrication plant this morning.",
+      "Let's hold off until the architecture audit defines the scope boundaries.",
+      "Yes, I migrated all my personal spreadsheets to the shared drive."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta nên gộp gói chuyển đổi lên đám mây vào một hợp đồng trọn gói giá cố định hay cấu trúc theo hình thức tính phí theo thời gian và vật tư thực tế?\n(A) Nguyên vật liệu thô đã về đến nhà máy chế tạo sáng nay rồi.\n(B) Hãy tạm hoãn quyết định cho đến khi cuộc kiểm toán kiến trúc xác định rõ ranh giới phạm vi dự án.\n(C) Vâng, tôi đã chuyển toàn bộ bảng tính cá nhân sang ổ đĩa dùng chung rồi.",
+    "explanation": "Câu hỏi lựa chọn ('Should we... or...') về cấu trúc hợp đồng CNTT. Đáp án B phản hồi gián tiếp kinh điển: từ chối chọn ngay một trong hai phương án và đề nghị chờ cuộc kiểm toán kiến trúc hệ thống chốt rõ phạm vi ('scope boundaries'). Bẫy: (A) lặp từ 'materials' nhưng lái sang nguyên liệu sản xuất; (C) dùng 'Yes' cho câu hỏi lựa chọn 'or' kết hợp lặp từ 'migrated'.",
+    "vocab": [
+      ["time-and-materials", "n/adj", "hình thức tính phí theo thời gian nhân công và vật tư thực tế"],
+      ["architecture audit", "n", "đánh giá / kiểm toán kiến trúc hệ thống"],
+      ["scope boundaries", "n", "ranh giới phạm vi công việc của dự án"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Didn't the municipal zoning board grant a variance for the mixed-use logistics hub?",
+    "questionVi": "Chẳng phải hội đồng quy hoạch phân khu đô thị đã cấp giấy phép ngoại lệ cho trung tâm logistics đa chức năng rồi sao?",
+    "options": [
+      "Actually, there's wide variance in freight rates across carriers.",
+      "They deferred the vote pending an updated traffic-congestion study.",
+      "The boardroom chairs were reupholstered in charcoal wool."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải hội đồng quy hoạch phân khu đô thị đã cấp giấy phép ngoại lệ cho trung tâm logistics đa chức năng rồi sao?\n(A) Thực ra, có sự chênh lệch rất lớn về cước vận tải giữa các hãng tàu.\n(B) Họ đã hoãn cuộc bỏ phiếu để chờ một nghiên cứu cập nhật về tình trạng ùn tắc giao thông.\n(C) Ghế trong phòng họp hội đồng đã được bọc lại bằng vải len màu than chì.",
+    "explanation": "Câu hỏi phủ định ('Didn't the municipal zoning board grant a variance...') về giấy phép ngoại lệ quy hoạch xây dựng ('zoning variance'). Đáp án B phản hồi gián tiếp mang nghĩa phủ nhận: hội đồng đã hoãn bỏ phiếu ('deferred the vote') để chờ báo cáo giao thông mới, tức là chưa cấp phép. Bẫy: (A) bẫy đa nghĩa từ 'variance' (giấy phép ngoại lệ quy hoạch vs sự biến thiên/chênh lệch số liệu); (C) bẫy từ cùng gốc/lặp âm 'board' -> 'boardroom'.",
+    "vocab": [
+      ["zoning board", "n", "hội đồng quy hoạch phân khu đất đai"],
+      ["variance", "n", "giấy phép ngoại lệ quy hoạch / sự biến sai"],
+      ["defer", "v", "hoãn lại, lùi thời hạn"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "Do you know whether the customs valuation dispute will delay our duty-drawback refund?",
+    "questionVi": "Bạn có biết liệu tranh chấp định giá hải quan có làm chậm khoản hoàn thuế nhập khẩu của chúng ta không?",
+    "options": [
+      "Trade counsel expects the disbursement to remain frozen until next quarter.",
+      "Please draw back the blinds so we get more natural daylight.",
+      "Yes, every citizen must fulfill their civic duty."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có biết liệu tranh chấp định giá hải quan có làm chậm khoản hoàn thuế nhập khẩu của chúng ta không?\n(A) Luật sư cố vấn thương mại dự báo khoản giải ngân sẽ tiếp tục bị đóng băng đến quý sau.\n(B) Vui lòng kéo rèm cửa lại để chúng ta có thêm ánh sáng tự nhiên.\n(C) Đúng vậy, mọi công dân đều phải thực hiện nghĩa vụ công dân của mình.",
+    "explanation": "Câu hỏi lồng ghép ('Do you know whether...') hỏi về khả năng chậm trễ khoản hoàn thuế ('duty-drawback refund'). Đáp án A trả lời đúng trọng tâm: luật sư thương mại dự đoán khoản tiền giải ngân ('disbursement') sẽ bị đóng băng tới quý tới. Bẫy: (B) tách cụm thuật ngữ 'duty-drawback' (hoàn thuế xuất nhập khẩu) thành động từ 'draw back' (kéo rèm); (C) bẫy đa nghĩa 'duty' (thuế quan vs nghĩa vụ).",
+    "vocab": [
+      ["duty-drawback", "n", "chế độ hoàn thuế nhập khẩu (khi hàng được tái xuất)"],
+      ["disbursement", "n", "sự giải ngân, chi trả khoản tiền"],
+      ["valuation", "n", "sự định giá, xác định trị giá tính thuế"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "The lead underwriter insists on revising the IPO price band downward before Friday's book-building closes.",
+    "questionVi": "Tổ chức bảo lãnh phát hành chính khăng khăng đòi điều chỉnh giảm biên độ giá chào bán IPO trước khi đợt dựng sổ đặt mua kết thúc vào thứ Sáu.",
+    "options": [
+      "The hardcover edition of the founder's book is selling briskly.",
+      "Try wrapping a rubber band around those loose folders.",
+      "Given the tepid institutional demand in Asia, that concession seems unavoidable."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Tổ chức bảo lãnh phát hành chính khăng khăng đòi điều chỉnh giảm biên độ giá chào bán IPO trước khi đợt dựng sổ đặt mua kết thúc vào thứ Sáu.\n(A) Ấn bản bìa cứng cuốn sách của nhà sáng lập đang bán rất chạy.\n(B) Thử quấn một sợi dây chun quanh mấy tập hồ sơ rời kia xem.\n(C) Xét nhu cầu khá dè dặt từ các định chế đầu tư tại châu Á, sự nhượng bộ đó có vẻ khó tránh khỏi.",
+    "explanation": "Câu phát biểu nhận định về sức ép giảm khung giá IPO ('price band') trước hạn chót dựng sổ ('book-building'). Đáp án C phản hồi đồng thuận đầy sắc sảo: trước lực cầu yếu ('tepid institutional demand') từ các quỹ châu Á, sự nhượng bộ giảm giá ('concession') là điều khó tránh. Bẫy: (A) tách từ 'book-building' (quy trình dựng sổ lệnh mua cổ phiếu) thành 'book' (cuốn sách); (B) lặp từ 'band' ('price band' vs 'rubber band').",
+    "vocab": [
+      ["underwriter", "n", "tổ chức bảo lãnh phát hành chứng khoán"],
+      ["book-building", "n", "quy trình dựng sổ lệnh định giá IPO"],
+      ["tepid", "adj", "ờ hững, yếu ớt, thiếu mặn mà"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "You haven't executed the addendum waiving the non-compete covenant for the outgoing VP, have you?",
+    "questionVi": "Bạn chưa ký thực thi phụ lục miễn trừ điều khoản không cạnh tranh cho Phó chủ tịch sắp rời nhiệm sở, đúng không?",
+    "options": [
+      "We competed fiercely for that municipal infrastructure tender.",
+      "The outgoing mail tray sits beside the freight elevator.",
+      "Human Resources asked me to hold off until the severance settlement clears legal review."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn chưa ký thực thi phụ lục miễn trừ điều khoản không cạnh tranh cho Phó chủ tịch sắp rời nhiệm sở, đúng không?\n(A) Chúng ta đã cạnh tranh quyết liệt cho gói thầu hạ tầng đô thị đó.\n(B) Khay thư gửi đi nằm ngay cạnh thang máy chở hàng.\n(C) Phòng Nhân sự đề nghị tôi tạm hoãn lại cho đến khi thỏa thuận trợ cấp thôi việc qua khâu rà soát pháp lý.",
+    "explanation": "Câu hỏi đuôi ('You haven't executed..., have you?') xác nhận tình trạng ký phụ lục miễn trừ điều khoản không cạnh tranh ('waiving the non-compete covenant'). Đáp án C gián tiếp xác nhận là chưa ký: phòng Nhân sự bảo đợi thỏa thuận thôi việc ('severance settlement') được pháp chế thông qua đã. Bẫy: (A) từ cùng gốc 'non-compete' vs 'competed'; (B) đa nghĩa 'outgoing' (sắp mãn nhiệm vs thư từ gửi đi).",
+    "vocab": [
+      ["execute", "v", "ký kết, thực thi (văn bản pháp lý/hợp đồng)"],
+      ["addendum", "n", "phụ lục bổ sung hợp đồng"],
+      ["severance", "n", "khoản trợ cấp thôi việc / chấm dứt hợp đồng"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "Why did the statutory auditors issue a qualified opinion on our European subsidiary's inventory?",
+    "questionVi": "Tại sao các kiểm toán viên theo luật định lại đưa ra ý kiến ngoại trừ đối với hàng tồn kho của công ty con tại châu Âu?",
+    "options": [
+      "Border closures prevented them from observing the physical stocktake in person.",
+      "I'm fully qualified to operate the automated pallet wrapper.",
+      "In my opinion, the European branch office needs brighter lighting."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao các kiểm toán viên theo luật định lại đưa ra ý kiến ngoại trừ đối với hàng tồn kho của công ty con tại châu Âu?\n(A) Việc đóng cửa biên giới đã ngăn cản họ trực tiếp chứng kiến buổi kiểm kê thực tế.\n(B) Tôi hoàn toàn đủ tiêu chuẩn để vận hành máy quấn màng pallet tự động.\n(C) Theo ý kiến của tôi, văn phòng chi nhánh châu Âu cần hệ thống chiếu sáng mạnh hơn.",
+    "explanation": "Câu hỏi 'Why' về lý do kiểm toán độc lập đưa ra ý kiến ngoại trừ ('qualified opinion' - giới hạn phạm vi kiểm toán). Đáp án A nêu nguyên nhân chuyên môn gián tiếp (không có 'Because'): lệnh đóng biên khiến kiểm toán viên không thể chứng kiến trực tiếp đợt kiểm kê hiện vật ('physical stocktake'). Bẫy: (B) bẫy đa nghĩa 'qualified' (ý kiến kiểm toán ngoại trừ vs đủ năng lực/bằng cấp); (C) lặp từ 'opinion' theo nghĩa quan điểm cá nhân.",
+    "vocab": [
+      ["statutory auditor", "n", "kiểm toán viên độc lập theo luật định"],
+      ["qualified opinion", "n", "ý kiến kiểm toán ngoại trừ (có điểm lưu ý/hạn chế)"],
+      ["stocktake", "n", "cuộc kiểm kê hàng tồn kho thực tế"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "How are we planning to mitigate currency repatriation restrictions in that emerging market?",
+    "questionVi": "Chúng ta dự định giảm thiểu các hạn chế chuyển ngoại tệ về nước tại thị trường mới nổi đó bằng cách nào?",
+    "options": [
+      "The courtyard patio will be repaired before the spring reception.",
+      "Our tax advisors proposed reinvesting surplus cash into local treasury bills.",
+      "The current downtown market opens at seven every Sunday."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta dự định giảm thiểu các hạn chế chuyển ngoại tệ về nước tại thị trường mới nổi đó bằng cách nào?\n(A) Sân hiên ngoài trời sẽ được sửa chữa trước buổi tiệc tiếp đón mùa xuân.\n(B) Các cố vấn thuế của chúng ta đề xuất tái đầu tư lượng tiền mặt thặng dư vào tín phiếu kho bạc nội địa.\n(C) Khu chợ trung tâm hiện tại mở cửa lúc bảy giờ sáng mỗi Chủ nhật.",
+    "explanation": "Câu hỏi 'How' tìm giải pháp tài chính cho rào cản chuyển tiền xuyên biên giới ('repatriation restrictions'). Đáp án B phản hồi gián tiếp bằng phương án thay thế do cố vấn thuế đề xuất: tái đầu tư dòng tiền dư vào tín phiếu kho bạc nước sở tại ('local treasury bills'). Bẫy: (A) bẫy âm gần giống 'repatriation' vs 'patio... repaired'; (C) bẫy gần âm và lặp từ 'currency... market' vs 'current... market'.",
+    "vocab": [
+      ["repatriation", "n", "sự chuyển vốn/lợi nhuận ngoại tệ về nước mẹ"],
+      ["mitigate", "v", "giảm nhẹ, giảm thiểu (rủi ro/tác động)"],
+      ["treasury bill", "n", "tín phiếu kho bạc ngắn hạn"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "I was wondering if the cyber-insurance carrier has acknowledged our ransomware incident notification.",
+    "questionVi": "Tôi tự hỏi liệu bên cung cấp bảo hiểm an ninh mạng đã xác nhận tiếp nhận thông báo sự cố mã độc tống tiền của chúng ta chưa.",
+    "options": [
+      "They assigned a specialized breach-response adjuster about twenty minutes ago.",
+      "No, the baggage carrier is waiting outside the arrival terminal.",
+      "Yes, I always carry a spare charger in my briefcase."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tôi tự hỏi liệu bên cung cấp bảo hiểm an ninh mạng đã xác nhận tiếp nhận thông báo sự cố mã độc tống tiền của chúng ta chưa.\n(A) Họ vừa phân công một giám định viên chuyên trách xử lý sự cố xâm nhập dữ liệu cách đây khoảng hai mươi phút.\n(B) Không, nhân viên khuân vác hành lý đang đợi bên ngoài nhà ga đến.\n(C) Có, tôi luôn mang theo một bộ sạc dự phòng trong cặp tài liệu.",
+    "explanation": "Câu hỏi gián tiếp mở đầu bằng 'I was wondering if...' hỏi về phản hồi của hãng bảo hiểm mạng ('cyber-insurance carrier'). Đáp án A ngầm xác nhận họ đã tiếp nhận thông báo bằng hành động cụ thể: đã chỉ định giám định viên ứng phó sự cố ('breach-response adjuster') cách đây 20 phút. Bẫy: (B) bẫy đa nghĩa 'carrier' (công ty bảo hiểm vs xe đẩy/người mang hành lý); (C) từ cùng gốc 'carrier' -> 'carry'.",
+    "vocab": [
+      ["carrier", "n", "doanh nghiệp bảo hiểm / nhà mạng / đơn vị vận tải"],
+      ["ransomware", "n", "mã độc tống tiền"],
+      ["adjuster", "n", "giám định viên bồi thường bảo hiểm"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "The antitrust regulator just demanded an extra sixty-day review under a second-request subpoena.",
+    "questionVi": "Cơ quan quản lý chống độc quyền vừa yêu cầu kéo dài thời gian thẩm tra thêm sáu mươi ngày theo trát yêu cầu bổ sung lần hai.",
+    "options": [
+      "Let's reserve table sixty for the client luncheon.",
+      "That's bound to push our post-merger integration schedule into next year.",
+      "I've already requested a second opinion from my family physician."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Cơ quan quản lý chống độc quyền vừa yêu cầu kéo dài thời gian thẩm tra thêm sáu mươi ngày theo trát yêu cầu bổ sung lần hai.\n(A) Hãy đặt trước bàn số sáu mươi cho bữa trưa với khách hàng.\n(B) Điều đó chắc chắn sẽ đẩy lịch trình tích hợp sau sáp nhập của chúng ta sang năm sau.\n(C) Tôi đã xin ý kiến tư vấn thứ hai từ bác sĩ gia đình rồi.",
+    "explanation": "Câu phát biểu nêu tin tức pháp lý gây chậm tiến độ thương vụ M&A (thẩm tra chống độc quyền kéo dài thêm 60 ngày). Đáp án B phản hồi tự nhiên bằng cách suy ra hệ quả trực tiếp: lịch trình tích hợp sau sáp nhập ('post-merger integration schedule') chắc chắn bị lùi sang năm sau. Bẫy: (A) lặp số đếm 'sixty'; (C) lặp cụm 'requested a second' trong ngữ cảnh y tế hoàn toàn xa lạ.",
+    "vocab": [
+      ["antitrust", "adj/n", "chống độc quyền"],
+      ["subpoena", "n", "trát yêu cầu cung cấp tài liệu / hầu tòa"],
+      ["post-merger integration", "n", "quá trình hợp nhất vận hành sau sáp nhập"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "Wouldn't it be prudent to ring-fence the intellectual property before spinning off the hardware division?",
+    "questionVi": "Chẳng phải sẽ thận trọng hơn nếu chúng ta tách biệt bảo vệ tài sản trí tuệ trước khi tách riêng mảng phần cứng ra sao?",
+    "options": [
+      "The antique ring on display belongs to a private collector.",
+      "Yes, the property manager installed a perimeter fence around the lot.",
+      "Our patent attorneys already drafted an exclusive cross-licensing structure."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chẳng phải sẽ thận trọng hơn nếu chúng ta tách biệt bảo vệ tài sản trí tuệ trước khi tách riêng mảng phần cứng ra sao?\n(A) Chiếc nhẫn cổ đang trưng bày thuộc về một nhà sưu tập tư nhân.\n(B) Đúng vậy, người quản lý bất động sản đã lắp hàng rào bao quanh lô đất.\n(C) Các luật sư sáng chế của chúng ta đã soạn thảo xong một cấu trúc cấp phép chéo độc quyền rồi.",
+    "explanation": "Câu hỏi phủ định mang tính đề xuất ('Wouldn't it be prudent to ring-fence...') về việc khoanh vùng bảo vệ tài sản trí tuệ trước khi tách công ty. Đáp án C phản hồi gián tiếp xác nhận việc bảo vệ đã được triển khai qua cấu trúc cấp phép chéo độc quyền ('exclusive cross-licensing structure'). Bẫy: (A) tách nghĩa đen 'ring' (chiếc nhẫn); (B) tách cụm 'intellectual property' và 'ring-fence' thành 'property manager' (quản lý nhà đất) và 'perimeter fence' (hàng rào vật lý).",
+    "vocab": [
+      ["ring-fence", "v", "khoanh vùng tách biệt (tài sản/vốn) để bảo vệ khỏi rủi ro"],
+      ["intellectual property", "n", "tài sản trí tuệ"],
+      ["cross-licensing", "n", "thỏa thuận cấp phép sử dụng sáng chế chéo giữa các bên"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "When will the geotechnical survey results for the offshore wind concession be released?",
+    "questionVi": "Khi nào kết quả khảo sát địa kỹ thuật cho dự án nhượng quyền điện gió ngoài khơi sẽ được công bố?",
+    "options": [
+      "Not until the maritime lab finishes analyzing the seabed core samples.",
+      "The concession stand near the ferry dock closes at dusk.",
+      "We surveyed every department head on the flexible work policy."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khi nào kết quả khảo sát địa kỹ thuật cho dự án nhượng quyền điện gió ngoài khơi sẽ được công bố?\n(A) Phải đến khi phòng thí nghiệm hàng hải phân tích xong các mẫu lõi đáy biển.\n(B) Quầy bán đồ ăn nhẹ gần bến phà đóng cửa lúc chạng vạng.\n(C) Chúng tôi đã khảo sát ý kiến mọi trưởng bộ phận về chính sách làm việc linh hoạt.",
+    "explanation": "Câu hỏi 'When' hỏi mốc thời gian công bố báo cáo khảo sát địa chất biển. Đáp án A dùng cấu trúc thời gian gián tiếp chuẩn Level 6 ('Not until...'): chỉ công bố sau khi phòng thí nghiệm hàng hải phân tích xong mẫu lõi đáy biển ('seabed core samples'). Bẫy: (B) bẫy đa nghĩa từ 'concession' (quyền khai thác dự án/nhượng quyền hạ tầng vs quầy bán hàng); (C) đa nghĩa 'survey' (khảo sát kỹ thuật địa chất vs thăm dò ý kiến nhân viên).",
+    "vocab": [
+      ["geotechnical", "adj", "thuộc về địa kỹ thuật"],
+      ["concession", "n", "hợp đồng nhượng quyền khai thác (tài nguyên/hạ tầng)"],
+      ["core sample", "n", "mẫu khoan lõi địa chất"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "The sovereign bond tranche was oversubscribed by institutional pension funds, wasn't it?",
+    "questionVi": "Đợt phát hành trái phiếu chính phủ đó đã được các quỹ hưu trí tổ chức đặt mua vượt mức chào bán, đúng không?",
+    "options": [
+      "Please renew your annual subscription to the financial journal.",
+      "Bids reached nearly three times the initial issuance volume.",
+      "The pastry chef bonded the dessert layers with warm caramel."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Đợt phát hành trái phiếu chính phủ đó đã được các quỹ hưu trí tổ chức đặt mua vượt mức chào bán, đúng không?\n(A) Vui lòng gia hạn gói đăng ký đọc tạp chí tài chính hàng năm của bạn.\n(B) Lượng đặt mua đã đạt gần gấp ba lần khối lượng phát hành ban đầu.\n(C) Đầu bếp bánh ngọt đã gắn kết các lớp bánh bằng caramen ấm.",
+    "explanation": "Câu hỏi đuôi ('The sovereign bond tranche was oversubscribed..., wasn't it?') xác nhận mức độ hút vốn của lô trái phiếu chính phủ. Đáp án B phản hồi gián tiếp xác nhận nhận định trên bằng số liệu cụ thể: lượng đặt thầu ('Bids') đạt gần gấp ba lần quy mô phát hành ban đầu ('initial issuance volume'). Bẫy: (A) từ cùng gốc 'oversubscribed' vs 'subscription'; (C) đa nghĩa từ 'bond' (trái phiếu vs kết dính).",
+    "vocab": [
+      ["sovereign bond", "n", "trái phiếu chính phủ / quốc gia"],
+      ["tranche", "n", "đợt / phần phát hành (trái phiếu hoặc khoản vay)"],
+      ["oversubscribed", "adj", "được đặt mua vượt quá số lượng phát hành"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "Would you happen to recall which escrow agent is holding the earn-out reserve from the logistics acquisition?",
+    "questionVi": "Bạn có tình cờ nhớ đại lý ký quỹ nào đang giữ khoản dự phòng thanh toán theo hiệu quả hoạt động từ thương vụ mua lại công ty logistics không?",
+    "options": [
+      "We need to reserve a larger conference room for the town hall.",
+      "A real estate agent showed us two suburban warehouses yesterday.",
+      "The closing binder on the CFO's credenza lists the exact trustee."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn có tình cờ nhớ đại lý ký quỹ nào đang giữ khoản dự phòng thanh toán theo hiệu quả hoạt động từ thương vụ mua lại công ty logistics không?\n(A) Chúng ta cần đặt trước một phòng họp lớn hơn cho buổi họp toàn thể.\n(B) Một nhân viên môi giới bất động sản đã dẫn chúng tôi đi xem hai nhà kho ngoại ô hôm qua.\n(C) Tập hồ sơ hoàn tất giao dịch đặt trên tủ thấp của Giám đốc tài chính có ghi rõ tên bên nhận ủy thác.",
+    "explanation": "Câu hỏi gián tiếp ('Would you happen to recall which...') hỏi tên đơn vị giữ tiền ký quỹ ('escrow agent'). Đáp án C trả lời gián tiếp bằng cách chỉ nguồn tài liệu chứa thông tin chính xác: tập hồ sơ đóng giao dịch ('closing binder') trên tủ thấp của CFO có liệt kê rõ bên nhận ủy thác ('trustee'). Bẫy: (A) đa nghĩa 'reserve' (khoản tiền dự phòng vs đặt chỗ trước); (B) lặp từ 'agent' theo nghĩa môi giới nhà đất.",
+    "vocab": [
+      ["escrow agent", "n", "bên trung gian giữ tài sản / tiền ký quỹ"],
+      ["earn-out", "n", "khoản thanh toán bổ sung dựa trên kết quả kinh doanh sau M&A"],
+      ["trustee", "n", "bên nhận ủy thác quản lý tài sản"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "Transfer pricing documentation for our intercompany royalties has come under scrutiny from the tax inspectorate.",
+    "questionVi": "Hồ sơ xác định giá chuyển nhượng cho các khoản phí bản quyền nội bộ giữa các công ty thành viên đang bị cơ quan thanh tra thuế soi xét kỹ.",
+    "options": [
+      "We'd better pull the arm's-length benchmarking study from Deloitte immediately.",
+      "A complimentary airport transfer can be arranged at the concierge desk.",
+      "No, the shipping documents were sent via express courier."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Hồ sơ xác định giá chuyển nhượng cho các khoản phí bản quyền nội bộ giữa các công ty thành viên đang bị cơ quan thanh tra thuế soi xét kỹ.\n(A) Tốt hơn hết chúng ta nên rút ngay bản nghiên cứu đối chuẩn giao dịch độc lập từ Deloitte ra.\n(B) Dịch vụ xe đưa đón sân bay miễn phí có thể được thu xếp tại quầy lễ tân.\n(C) Không, các chứng từ vận chuyển đã được gửi qua chuyển phát nhanh rồi.",
+    "explanation": "Câu phát biểu cảnh báo rủi ro thanh tra thuế đối với hồ sơ chuyển giá nội bộ ('transfer pricing documentation'). Đáp án A phản hồi đúng nghiệp vụ kế toán thuế: lập tức lấy bản nghiên cứu đối chuẩn theo nguyên tắc giao dịch độc lập ('arm's-length benchmarking study') do đơn vị tư vấn chuẩn bị để giải trình. Bẫy: (B) đa nghĩa 'transfer' (chuyển giá tài chính vs xe đưa đón); (C) lặp từ gốc 'documentation' -> 'documents' kèm chữ 'No' không phù hợp với câu phát biểu.",
+    "vocab": [
+      ["transfer pricing", "n", "chính sách xác định giá chuyển nhượng (giữa các bên liên kết)"],
+      ["scrutiny", "n", "sự kiểm tra, soi xét kỹ lưỡng"],
+      ["arm's-length", "adj", "theo nguyên tắc giao dịch độc lập, ngang giá thị trường"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "Should the steering committee prioritize backward compatibility in the ERP upgrade, or should we deprecate the legacy modules altogether?",
+    "questionVi": "Ban chỉ đạo nên ưu tiên tính tương thích ngược khi nâng cấp hệ thống ERP, hay nên ngừng hỗ trợ hoàn toàn các phân hệ cũ?",
+    "options": [
+      "Office equipment typically depreciates over five fiscal years.",
+      "The steering wheel needs alignment before our next road trip.",
+      "The operations director can verify how many plants still rely on those legacy workflows."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Ban chỉ đạo nên ưu tiên tính tương thích ngược khi nâng cấp hệ thống ERP, hay nên ngừng hỗ trợ hoàn toàn các phân hệ cũ?\n(A) Thiết bị văn phòng thường khấu hao trong vòng năm năm tài chính.\n(B) Vô lăng xe cần được cân chỉnh lại trước chuyến công tác đường bộ sắp tới.\n(C) Giám đốc vận hành có thể xác minh còn bao nhiêu nhà máy vẫn phụ thuộc vào các quy trình cũ đó.",
+    "explanation": "Câu hỏi lựa chọn ('Should... or...') về chiến lược nâng cấp phần mềm quản trị doanh nghiệp ERP. Đáp án C trả lời gián tiếp bằng cách giới thiệu người nắm dữ liệu quyết định: Giám đốc vận hành có thể kiểm tra xem bao nhiêu nhà máy còn phụ thuộc vào quy trình cũ trước khi chốt phương án. Bẫy: (A) bẫy cặp từ dễ nhầm C2 'deprecate' (ngừng hỗ trợ/loại bỏ dần trong CNTT) vs 'depreciate' (khấu hao giá trị tài sản); (B) đa nghĩa 'steering' ('steering committee' vs 'steering wheel').",
+    "vocab": [
+      ["backward compatibility", "n", "tính tương thích ngược (với hệ thống/dữ liệu cũ)"],
+      ["deprecate", "v", "đánh dấu lỗi thời và ngừng hỗ trợ (tính năng/phần mềm)"],
+      ["legacy module", "n", "phân hệ phần mềm cũ tồn đọng"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "Aren't the mezzanine lenders demanding warrants to compensate for the subordinated debt risk?",
+    "questionVi": "Chẳng phải các bên cho vay tầng trung đang yêu cầu chứng quyền để bù đắp cho rủi ro của khoản nợ thứ cấp sao?",
+    "options": [
+      "They settled for an extra two hundred basis points on the coupon instead.",
+      "The mezzanine seating offers an unobstructed view of the auditorium stage.",
+      "Yes, the manufacturer's warranty covers defects for twenty-four months."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải các bên cho vay tầng trung đang yêu cầu chứng quyền để bù đắp cho rủi ro của khoản nợ thứ cấp sao?\n(A) Thay vào đó, họ đã chấp thuận mức cộng thêm hai trăm điểm cơ bản vào lãi suất trái phiếu.\n(B) Hàng ghế tầng lửng mang lại tầm nhìn không bị che khuất xuống sân khấu hội trường.\n(C) Có chứ, bảo hành của nhà sản xuất chi trả cho lỗi kỹ thuật trong hai mươi bốn tháng.",
+    "explanation": "Câu hỏi phủ định ('Aren't the mezzanine lenders demanding warrants...') về cấu trúc tài trợ nợ thứ cấp. Đáp án A phản hồi gián tiếp mang hàm ý không: thay vì đòi chứng quyền ('warrants'), bên cho vay đã đồng ý đổi lấy mức cộng thêm 200 điểm cơ bản (2%) vào lãi suất ('coupon'). Bẫy: (B) đa nghĩa 'mezzanine' (tầng nợ lửng trong tài chính doanh nghiệp vs tầng lửng nhà hát); (C) bẫy âm gần giống 'warrants' (chứng quyền tài chính) vs 'warranty' (giấy bảo hành).",
+    "vocab": [
+      ["mezzanine lender", "n", "bên cho vay vốn tầng trung (giữa nợ ưu tiên và vốn cổ phần)"],
+      ["warrant", "n", "chứng quyền (quyền mua cổ phiếu ở mức giá định sẵn)"],
+      ["basis point", "n", "điểm cơ bản (1/100 của 1%, tức 0,01%)"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "Which procurement benchmark should we reference when renegotiating the titanium alloy forward contracts?",
+    "questionVi": "Chúng ta nên tham chiếu chuẩn giá thu mua nào khi đàm phán lại các hợp đồng kỳ hạn hợp kim titan?",
+    "options": [
+      "Please forward that supplier invoice to the accounts payable clerk.",
+      "The London Metal Exchange spot index has been our standard baseline.",
+      "Park benches along the waterfront promenade were repainted yesterday."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta nên tham chiếu chuẩn giá thu mua nào khi đàm phán lại các hợp đồng kỳ hạn hợp kim titan?\n(A) Vui lòng chuyển tiếp hóa đơn nhà cung cấp đó sang cho nhân viên công nợ phải trả.\n(B) Chỉ số giá giao ngay của Sàn giao dịch Kim loại London vốn là mức chuẩn tiêu chuẩn của chúng ta.\n(C) Những chiếc ghế dài công viên dọc lối đi bộ ven sông đã được sơn lại hôm qua.",
+    "explanation": "Câu hỏi 'Which' hỏi về chỉ số chuẩn giá mua nguyên liệu kim loại cho hợp đồng kỳ hạn ('forward contracts'). Đáp án B nêu đúng tên chỉ số giao dịch hàng hóa chuẩn mực ('London Metal Exchange spot index'). Bẫy: (A) bẫy đa nghĩa từ 'forward' (hợp đồng kỳ hạn hàng hóa vs chuyển tiếp văn bản); (C) bẫy tách/gần âm 'benchmark' vs 'benches'.",
+    "vocab": [
+      ["procurement", "n", "hoạt động thu mua, đấu thầu mua sắm"],
+      ["forward contract", "n", "hợp đồng kỳ hạn (mua/bán tài sản ở mức giá thỏa thuận trước)"],
+      ["spot index", "n", "chỉ số giá giao ngay trên thị trường"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "Can you confirm whether the force majeure declaration suspends our take-or-pay obligations under the LNG supply pact?",
+    "questionVi": "Bạn có thể xác nhận xem tuyên bố bất khả kháng có tạm đình chỉ nghĩa vụ bao tiêu nhận hàng hoặc trả tiền của chúng ta theo hiệp định cung ứng khí LNG không?",
+    "options": [
+      "Pay at the automated kiosk before exiting the parking garage.",
+      "The bridge suspension cables undergo ultrasonic testing every autumn.",
+      "Only if the pipeline disruption lasts longer than fourteen consecutive days."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn có thể xác nhận xem tuyên bố bất khả kháng có tạm đình chỉ nghĩa vụ bao tiêu nhận hàng hoặc trả tiền của chúng ta theo hiệp định cung ứng khí LNG không?\n(A) Hãy thanh toán tại trạm tự động trước khi lái xe rời khỏi hầm đỗ xe.\n(B) Hệ thống cáp treo cầu được kiểm tra siêu âm mỗi mùa thu.\n(C) Chỉ tạm đình chỉ nếu sự cố gián đoạn đường ống kéo dài quá mười bốn ngày liên tiếp.",
+    "explanation": "Câu hỏi lồng ghép ('Can you confirm whether...') hỏi về hiệu lực tạm ngưng điều khoản bao tiêu ('take-or-pay obligations') khi kích hoạt bất khả kháng. Đáp án C trả lời chính xác bằng điều kiện pháp lý cụ thể: chỉ được miễn trừ nếu sự cố gián đoạn đường ống vượt quá 14 ngày liên tục. Bẫy: (A) tách cụm 'take-or-pay' thành hành động thanh toán ở bãi xe; (B) từ cùng gốc 'suspends' (tạm đình chỉ nghĩa vụ hợp đồng) vs 'suspension' (cáp treo).",
+    "vocab": [
+      ["force majeure", "n", "sự kiện bất khả kháng"],
+      ["take-or-pay", "adj", "nghĩa vụ bao tiêu (cam kết nhận hàng hoặc vẫn phải trả tiền)"],
+      ["consecutive", "adj", "liên tiếp, không ngắt quãng"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "The chief risk officer hasn't signed off on the collateral haircut methodology for distressed assets, has she?",
+    "questionVi": "Giám đốc quản trị rủi ro chưa phê duyệt phương pháp tính tỷ lệ chiết khấu tài sản bảo đảm đối với các tài sản suy giảm giá trị, đúng không?",
+    "options": [
+      "She flagged two stress-testing assumptions that still need calibration.",
+      "My barber always gives a remarkably neat haircut.",
+      "Yes, the distressed passengers were transferred to a nearby hotel."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Giám đốc quản trị rủi ro chưa phê duyệt phương pháp tính tỷ lệ chiết khấu tài sản bảo đảm đối với các tài sản suy giảm giá trị, đúng không?\n(A) Bà ấy đã đánh dấu hai giả định kiểm tra sức chịu đựng vẫn cần hiệu chỉnh thêm.\n(B) Thợ cắt tóc của tôi lúc nào cũng cắt một kiểu tóc gọn gàng đáng kinh ngạc.\n(C) Đúng vậy, các hành khách gặp sự cố hoảng loạn đã được đưa về một khách sạn gần đó.",
+    "explanation": "Câu hỏi đuôi ('hasn't signed off..., has she?') kiểm tra việc phê duyệt phương pháp chiết khấu định giá tài sản thế chấp ('collateral haircut'). Đáp án A gián tiếp xác nhận là chưa phê duyệt: Giám đốc rủi ro đã đánh dấu ('flagged') hai giả định kiểm tra sức chịu đựng ('stress-testing assumptions') cần hiệu chỉnh lại. Bẫy: (B) bẫy đa nghĩa kinh điển từ 'haircut' (tỷ lệ chiết khấu định giá tài sản thế chấp vs cắt tóc); (C) bẫy đa nghĩa 'distressed' (tài sản nợ xấu/mất giá vs hành khách gặp nạn).",
+    "vocab": [
+      ["collateral haircut", "n", "tỷ lệ chiết khấu giá trị tài sản thế chấp"],
+      ["distressed asset", "n", "tài sản suy giảm giá trị / nợ xấu"],
+      ["calibration", "n", "sự hiệu chỉnh, cân chỉnh tham số mô hình"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "The litigation hold notice applies to all encrypted messaging logs pertaining to the patent dispute.",
+    "questionVi": "Thông báo phong tỏa chứng cứ tố tụng được áp dụng cho toàn bộ nhật ký tin nhắn mã hóa liên quan đến vụ tranh chấp bằng sáng chế.",
+    "options": [
+      "The patient was discharged from the outpatient clinic this morning.",
+      "I'll instruct IT security to suspend automated purging across every regional server.",
+      "Please hold the elevator door for the overnight courier."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Thông báo phong tỏa chứng cứ tố tụng được áp dụng cho toàn bộ nhật ký tin nhắn mã hóa liên quan đến vụ tranh chấp bằng sáng chế.\n(A) Bệnh nhân đã được cho xuất viện khỏi phòng khám ngoại trú sáng nay.\n(B) Tôi sẽ chỉ đạo bộ phận an ninh CNTT tạm dừng cơ chế xóa dữ liệu định kỳ trên toàn bộ các máy chủ khu vực.\n(C) Vui lòng giữ cửa thang máy giúp nhân viên giao nhận qua đêm.",
+    "explanation": "Câu phát biểu thông báo lệnh bảo lưu chứng cứ pháp lý ('litigation hold notice') đối với nhật ký tin nhắn mã hóa. Đáp án B phản hồi gián tiếp bằng hành động tuân thủ tương ứng: yêu cầu bộ phận an ninh mạng tạm dừng quy trình xóa dữ liệu tự động ('automated purging') trên các máy chủ khu vực. Bẫy: (A) bẫy từ gần âm 'patent' (bằng sáng chế) vs 'patient' (bệnh nhân); (C) đa nghĩa từ 'hold' ('litigation hold' lệnh lưu giữ chứng cứ vs 'hold the elevator door').",
+    "vocab": [
+      ["litigation hold", "n", "lệnh phong tỏa / bảo lưu chứng cứ phục vụ kiện tụng"],
+      ["pertain to", "v", "liên quan đến, gắn liền với"],
+      ["purge", "v/n", "xóa bỏ dữ liệu định kỳ / thanh lọc hệ thống"]
+    ]
+  }
+]

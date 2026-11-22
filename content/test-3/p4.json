@@ -1,0 +1,1618 @@
+[
+  {
+    "id": 71,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t3-p4-g1",
+    "audioScript": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "audioVoiceText": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "questionText": "What is the purpose of the announcement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To report a flight delay"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce a gate change"
+      },
+      {
+        "key": "C",
+        "text": "(C) To introduce a new route"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request volunteers"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của thông báo này là gì?",
+    "explanation": "Thông báo cho biết chuyến bay bị hoãn khoảng 90 phút vì giông bão: 'our departure has been delayed by approximately ninety minutes', nên A đúng. B sai vì Gate 14 chỉ là nơi đặt quầy dịch vụ, không phải cổng mới. C sai vì không giới thiệu đường bay mới. D sai vì không kêu gọi tình nguyện viên.",
+    "vocab": [
+      {
+        "word": "attention",
+        "pos": "n.",
+        "meaning": "sự chú ý"
+      },
+      {
+        "word": "departure",
+        "pos": "n.",
+        "meaning": "giờ khởi hành"
+      },
+      {
+        "word": "severe",
+        "pos": "adj.",
+        "meaning": "dữ dội, nghiêm trọng"
+      },
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "meaning": "khoảng chừng"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t3-p4-g1",
+    "audioScript": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "audioVoiceText": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "questionText": "What should passengers with connecting flights do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Pick up their luggage"
+      },
+      {
+        "key": "B",
+        "text": "(B) Speak with a representative"
+      },
+      {
+        "key": "C",
+        "text": "(C) Board immediately at Gate 14"
+      },
+      {
+        "key": "D",
+        "text": "(D) Rebook their tickets online"
+      }
+    ],
+    "correct": "B",
+    "translation": "Hành khách có chuyến bay nối chuyến nên làm gì?",
+    "explanation": "Câu 'Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14' nói rõ hành khách nối chuyến cần trao đổi với nhân viên đại diện, tức B. A sai vì bài không nhắc việc lấy hành lý. C sai vì không yêu cầu lên máy bay ngay. D sai vì không nhắc đặt lại vé trực tuyến.",
+    "vocab": [
+      {
+        "word": "connecting flight",
+        "pos": "n.",
+        "meaning": "chuyến bay nối chuyến"
+      },
+      {
+        "word": "representative",
+        "pos": "n.",
+        "meaning": "nhân viên đại diện"
+      },
+      {
+        "word": "service desk",
+        "pos": "n.",
+        "meaning": "quầy dịch vụ"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t3-p4-g1",
+    "audioScript": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "audioVoiceText": "Attention passengers on Flight 782 to Singapore. Due to severe thunderstorms near the airport, our departure has been delayed by approximately ninety minutes. We apologize for the inconvenience. Passengers traveling with connecting flights should speak with a representative at the service desk near Gate 14. Complimentary beverages will be available in the waiting area starting at 3:30. We will provide another update as soon as conditions improve. Thank you for your patience.",
+    "questionText": "What will be provided to passengers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Free meals"
+      },
+      {
+        "key": "B",
+        "text": "(B) Hotel accommodations"
+      },
+      {
+        "key": "C",
+        "text": "(C) Complimentary beverages"
+      },
+      {
+        "key": "D",
+        "text": "(D) Taxi vouchers"
+      }
+    ],
+    "correct": "C",
+    "translation": "Hành khách sẽ được cung cấp gì?",
+    "explanation": "Thông báo nêu 'Complimentary beverages will be available in the waiting area starting at 3:30', tức đồ uống miễn phí, đáp án C. A (bữa ăn miễn phí), B (phòng khách sạn) và D (phiếu taxi) đều không được nhắc đến trong bài.",
+    "vocab": [
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "beverage",
+        "pos": "n.",
+        "meaning": "đồ uống"
+      },
+      {
+        "word": "waiting area",
+        "pos": "n.",
+        "meaning": "khu vực chờ"
+      },
+      {
+        "word": "update",
+        "pos": "n.",
+        "meaning": "thông tin cập nhật"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g2",
+    "audioScript": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "audioVoiceText": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "questionText": "Why is Karen calling?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To confirm a delivery address"
+      },
+      {
+        "key": "B",
+        "text": "(B) To follow up on an order"
+      },
+      {
+        "key": "C",
+        "text": "(C) To cancel a contract"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request a meeting"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tại sao Karen gọi điện?",
+    "explanation": "Karen nói cô đang 'returning your call about the quarterly order' và đã gửi hóa đơn điều chỉnh cho đơn hàng đó, nên mục đích là theo dõi, xử lý tiếp đơn hàng, đáp án B. A sai vì cô không hỏi địa chỉ giao hàng. C sai vì không hủy hợp đồng. D sai vì không đề nghị gặp mặt.",
+    "vocab": [
+      {
+        "word": "quarterly",
+        "pos": "adj.",
+        "meaning": "hàng quý"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      },
+      {
+        "word": "follow up",
+        "pos": "phr.",
+        "meaning": "theo dõi, xử lý tiếp"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được chỉnh sửa"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g2",
+    "audioScript": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "audioVoiceText": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "questionText": "Why is the total higher than before?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Express delivery was added"
+      },
+      {
+        "key": "B",
+        "text": "(B) A late fee was applied"
+      },
+      {
+        "key": "C",
+        "text": "(C) A new service contract was included"
+      },
+      {
+        "key": "D",
+        "text": "(D) Extra toner cartridges were added"
+      }
+    ],
+    "correct": "D",
+    "translation": "Vì sao tổng số tiền cao hơn lần trước?",
+    "explanation": "Karen giải thích 'The total is a little higher than last time because we added the extra toner cartridges you requested', tức vì thêm hộp mực theo yêu cầu, đáp án D. A, B và C không xuất hiện trong lời nhắn; cô ấy chỉ nói nếu cần thì có thể điều chỉnh hóa đơn chứ không nhắc phí trễ hạn hay hợp đồng dịch vụ mới.",
+    "vocab": [
+      {
+        "word": "total",
+        "pos": "n.",
+        "meaning": "tổng số tiền"
+      },
+      {
+        "word": "toner cartridge",
+        "pos": "n.",
+        "meaning": "hộp mực in"
+      },
+      {
+        "word": "request",
+        "pos": "v.",
+        "meaning": "yêu cầu"
+      },
+      {
+        "word": "adjustment",
+        "pos": "n.",
+        "meaning": "sự điều chỉnh"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g2",
+    "audioScript": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "audioVoiceText": "Hi, this is Karen from Brightline Office Supplies, returning your call about the quarterly order. I've attached the revised invoice to the email I sent this morning. The total is a little higher than last time because we added the extra toner cartridges you requested. If everything looks correct, please approve the invoice in our customer portal by Thursday. Otherwise, call me before noon tomorrow and we can make adjustments. Thanks, and have a good afternoon.",
+    "questionText": "What should the listener do by Thursday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Approve the invoice online"
+      },
+      {
+        "key": "B",
+        "text": "(B) Send a check by mail"
+      },
+      {
+        "key": "C",
+        "text": "(C) Call the supplier"
+      },
+      {
+        "key": "D",
+        "text": "(D) Sign a service agreement"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người nghe cần làm gì trước thứ Năm?",
+    "explanation": "Lời nhắn yêu cầu 'please approve the invoice in our customer portal by Thursday', tức phê duyệt hóa đơn trên cổng trực tuyến dành cho khách hàng, đáp án A. B (gửi séc) và D (ký hợp đồng) không được nhắc. C sai vì việc gọi lại chỉ là phương án nếu hóa đơn chưa đúng, và phải gọi trước buổi trưa ngày mai.",
+    "vocab": [
+      {
+        "word": "approve",
+        "pos": "v.",
+        "meaning": "phê duyệt"
+      },
+      {
+        "word": "portal",
+        "pos": "n.",
+        "meaning": "cổng trực tuyến"
+      },
+      {
+        "word": "otherwise",
+        "pos": "adv.",
+        "meaning": "nếu không thì"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t3-p4-g3",
+    "audioScript": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "audioVoiceText": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "questionText": "What is being advertised?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Mobile phone plans"
+      },
+      {
+        "key": "B",
+        "text": "(B) Computer repair services"
+      },
+      {
+        "key": "C",
+        "text": "(C) Business internet service"
+      },
+      {
+        "key": "D",
+        "text": "(D) Cloud storage software"
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì đang được quảng cáo?",
+    "explanation": "Quảng cáo giới thiệu 'business fiber plans with speeds of up to one gigabit per second' của Nexa Communications, tức dịch vụ internet cáp quang cho doanh nghiệp, đáp án C. A sai vì không phải gói điện thoại di động. B sai vì không sửa chữa máy tính. D sai vì không phải phần mềm lưu trữ đám mây.",
+    "vocab": [
+      {
+        "word": "fiber",
+        "pos": "n.",
+        "meaning": "cáp quang"
+      },
+      {
+        "word": "reliability",
+        "pos": "n.",
+        "meaning": "độ tin cậy"
+      },
+      {
+        "word": "guarantee",
+        "pos": "n.",
+        "meaning": "sự bảo đảm"
+      },
+      {
+        "word": "gigabit",
+        "pos": "n.",
+        "meaning": "gigabit (đơn vị tốc độ mạng)"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t3-p4-g3",
+    "audioScript": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "audioVoiceText": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "questionText": "What do new customers receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A free router"
+      },
+      {
+        "key": "B",
+        "text": "(B) Three months free"
+      },
+      {
+        "key": "C",
+        "text": "(C) A reduced installation fee"
+      },
+      {
+        "key": "D",
+        "text": "(D) A one-year warranty"
+      }
+    ],
+    "correct": "B",
+    "translation": "Khách hàng mới nhận được gì?",
+    "explanation": "Quảng cáo nêu 'new customers receive three months of service free, and installation is included at no extra cost', tức ba tháng miễn phí, đáp án B. A sai vì không tặng router. C sai vì lắp đặt hoàn toàn miễn phí chứ không chỉ giảm giá. D sai vì không có bảo hành một năm.",
+    "vocab": [
+      {
+        "word": "limited time",
+        "pos": "n.",
+        "meaning": "thời gian có hạn"
+      },
+      {
+        "word": "installation",
+        "pos": "n.",
+        "meaning": "việc lắp đặt"
+      },
+      {
+        "word": "at no extra cost",
+        "pos": "phr.",
+        "meaning": "không tốn thêm phí"
+      },
+      {
+        "word": "customer",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t3-p4-g3",
+    "audioScript": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "audioVoiceText": "Are you tired of slow internet at your office? Nexa Communications now offers business fiber plans with speeds of up to one gigabit per second, backed by a 99.9 percent reliability guarantee. For a limited time, new customers receive three months of service free, and installation is included at no extra cost. Our support team is available around the clock. Call our sales office today to compare plans or to schedule a consultation at your workplace.",
+    "questionText": "How can listeners get more information?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By visiting a store"
+      },
+      {
+        "key": "B",
+        "text": "(B) By downloading an app"
+      },
+      {
+        "key": "C",
+        "text": "(C) By sending an email"
+      },
+      {
+        "key": "D",
+        "text": "(D) By calling the sales office"
+      }
+    ],
+    "correct": "D",
+    "translation": "Người nghe có thể biết thêm thông tin bằng cách nào?",
+    "explanation": "Cuối quảng cáo mời gọi 'Call our sales office today to compare plans or to schedule a consultation', tức gọi cho phòng kinh doanh, đáp án D. A sai vì không nhắc cửa hàng. B sai vì không có ứng dụng. C sai vì không đề cập gửi email.",
+    "vocab": [
+      {
+        "word": "compare",
+        "pos": "v.",
+        "meaning": "so sánh"
+      },
+      {
+        "word": "schedule",
+        "pos": "v.",
+        "meaning": "lên lịch"
+      },
+      {
+        "word": "consultation",
+        "pos": "n.",
+        "meaning": "buổi tư vấn"
+      },
+      {
+        "word": "around the clock",
+        "pos": "phr.",
+        "meaning": "suốt ngày đêm"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t3-p4-g4",
+    "audioScript": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "audioVoiceText": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "questionText": "What are workers reminded to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wear protective equipment properly"
+      },
+      {
+        "key": "B",
+        "text": "(B) Arrive at work early"
+      },
+      {
+        "key": "C",
+        "text": "(C) Sign in at the north gate"
+      },
+      {
+        "key": "D",
+        "text": "(D) Bring their own tools"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người lao động được nhắc nhở làm gì?",
+    "explanation": "Câu mở đầu yêu cầu 'make sure your hard hat and safety vest are properly fastened', tức đội mũ bảo hộ và mặc áo phản quang đúng cách, đáp án A. B sai vì không nhắc đến sớm. C sai vì cổng bắc đang đóng và phải dùng cổng tây. D sai vì không yêu cầu tự mang dụng cụ.",
+    "vocab": [
+      {
+        "word": "hard hat",
+        "pos": "n.",
+        "meaning": "mũ bảo hộ"
+      },
+      {
+        "word": "safety vest",
+        "pos": "n.",
+        "meaning": "áo phản quang bảo hộ"
+      },
+      {
+        "word": "fasten",
+        "pos": "v.",
+        "meaning": "cài, thắt chặt"
+      },
+      {
+        "word": "protective equipment",
+        "pos": "n.",
+        "meaning": "thiết bị bảo hộ"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t3-p4-g4",
+    "audioScript": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "audioVoiceText": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "questionText": "Why is the north entrance closed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is being repaired"
+      },
+      {
+        "key": "B",
+        "text": "(B) A delivery is expected"
+      },
+      {
+        "key": "C",
+        "text": "(C) A crane is being moved"
+      },
+      {
+        "key": "D",
+        "text": "(D) It is reserved for visitors"
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao cổng phía bắc bị đóng?",
+    "explanation": "Bài nói cho biết 'The north entrance is closed today because a crane is being moved', tức vì đang di chuyển cần cẩu, đáp án C. A sai vì không nói đến sửa chữa. B sai vì không có thông tin về giao hàng. D sai vì cổng không dành cho khách.",
+    "vocab": [
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "meaning": "lối vào"
+      },
+      {
+        "word": "crane",
+        "pos": "n.",
+        "meaning": "cần cẩu"
+      },
+      {
+        "word": "heavy machinery",
+        "pos": "n.",
+        "meaning": "máy móc hạng nặng"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "giám sát viên"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioGroup": "t3-p4-g4",
+    "audioScript": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "audioVoiceText": "Before you enter the site this morning, please make sure your hard hat and safety vest are properly fastened. The north entrance is closed today because a crane is being moved, so use the west gate instead. Keep at least ten meters away from all heavy machinery, and never walk behind a moving truck. If you notice damaged equipment, report it to your supervisor immediately. A short first-aid refresher will be held in the break room at noon. Stay alert and have a safe day.",
+    "questionText": "What will happen at noon?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A safety inspection"
+      },
+      {
+        "key": "B",
+        "text": "(B) A staff meeting"
+      },
+      {
+        "key": "C",
+        "text": "(C) A fire drill"
+      },
+      {
+        "key": "D",
+        "text": "(D) A first-aid refresher"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì sẽ diễn ra vào buổi trưa?",
+    "explanation": "Bài nói cho biết 'A short first-aid refresher will be held in the break room at noon', tức buổi ôn tập sơ cứu ngắn, đáp án D. A, B và C đều không được nhắc đến: không có kiểm tra an toàn, họp nhân viên hay diễn tập chữa cháy.",
+    "vocab": [
+      {
+        "word": "first-aid",
+        "pos": "n.",
+        "meaning": "sơ cứu"
+      },
+      {
+        "word": "refresher",
+        "pos": "n.",
+        "meaning": "buổi ôn tập lại"
+      },
+      {
+        "word": "break room",
+        "pos": "n.",
+        "meaning": "phòng nghỉ"
+      },
+      {
+        "word": "stay alert",
+        "pos": "phr.",
+        "meaning": "giữ cảnh giác"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t3-p4-g5",
+    "audioScript": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "audioVoiceText": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "questionText": "What increased by eight percent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Net profit"
+      },
+      {
+        "key": "B",
+        "text": "(B) Operating costs"
+      },
+      {
+        "key": "C",
+        "text": "(C) Staff salaries"
+      },
+      {
+        "key": "D",
+        "text": "(D) Revenue"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục nào đã tăng tám phần trăm?",
+    "explanation": "Báo cáo nêu 'Revenue reached 4.2 million dollars, up eight percent from the same period last year', tức doanh thu tăng 8%, đáp án D. B sai vì chi phí vận hành tăng nhanh hơn dự kiến nhưng không nêu con số 8%. A sai vì lợi nhuận ròng gần như không đổi. C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "meaning": "doanh thu"
+      },
+      {
+        "word": "net profit",
+        "pos": "n.",
+        "meaning": "lợi nhuận ròng"
+      },
+      {
+        "word": "operating costs",
+        "pos": "n.",
+        "meaning": "chi phí vận hành"
+      },
+      {
+        "word": "margin",
+        "pos": "n.",
+        "meaning": "biên lợi nhuận"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t3-p4-g5",
+    "audioScript": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "audioVoiceText": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "questionText": "What caused operating costs to rise?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Higher fuel prices"
+      },
+      {
+        "key": "B",
+        "text": "(B) New hires"
+      },
+      {
+        "key": "C",
+        "text": "(C) Equipment repairs"
+      },
+      {
+        "key": "D",
+        "text": "(D) Marketing campaigns"
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì khiến chi phí vận hành tăng?",
+    "explanation": "Báo cáo nói 'Operating costs, however, rose faster than expected because of higher fuel prices', tức vì giá nhiên liệu cao hơn, đáp án A. B, C và D không hề được nhắc đến trong bài.",
+    "vocab": [
+      {
+        "word": "rise",
+        "pos": "v.",
+        "meaning": "tăng lên"
+      },
+      {
+        "word": "fuel",
+        "pos": "n.",
+        "meaning": "nhiên liệu"
+      },
+      {
+        "word": "expected",
+        "pos": "adj.",
+        "meaning": "được dự kiến"
+      },
+      {
+        "word": "flat",
+        "pos": "adj.",
+        "meaning": "không thay đổi, đi ngang"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t3-p4-g5",
+    "audioScript": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "audioVoiceText": "Good morning, everyone. I'd like to share the results for the third quarter. Revenue reached 4.2 million dollars, up eight percent from the same period last year, driven mainly by strong demand in our equipment rental division. Operating costs, however, rose faster than expected because of higher fuel prices. As a result, net profit was roughly flat at 310,000 dollars. Next quarter we plan to renegotiate several supplier contracts to protect our margins. A detailed breakdown is in the packet on your desks.",
+    "questionText": "What does the speaker plan to do next quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Open a new branch"
+      },
+      {
+        "key": "B",
+        "text": "(B) Renegotiate supplier contracts"
+      },
+      {
+        "key": "C",
+        "text": "(C) Reduce the workforce"
+      },
+      {
+        "key": "D",
+        "text": "(D) Launch a new product"
+      }
+    ],
+    "correct": "B",
+    "translation": "Diễn giả dự định làm gì trong quý tới?",
+    "explanation": "Câu 'Next quarter we plan to renegotiate several supplier contracts to protect our margins' cho thấy kế hoạch là đàm phán lại một số hợp đồng với nhà cung cấp, đáp án B. A, C và D không được đề cập.",
+    "vocab": [
+      {
+        "word": "renegotiate",
+        "pos": "v.",
+        "meaning": "đàm phán lại"
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "meaning": "nhà cung cấp"
+      },
+      {
+        "word": "contract",
+        "pos": "n.",
+        "meaning": "hợp đồng"
+      },
+      {
+        "word": "breakdown",
+        "pos": "n.",
+        "meaning": "bảng phân tích chi tiết"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t3-p4-g6",
+    "audioScript": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "audioVoiceText": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "questionText": "What event are the listeners attending?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A product launch"
+      },
+      {
+        "key": "B",
+        "text": "(B) A job fair"
+      },
+      {
+        "key": "C",
+        "text": "(C) A business conference"
+      },
+      {
+        "key": "D",
+        "text": "(D) A charity dinner"
+      }
+    ],
+    "correct": "C",
+    "translation": "Người nghe đang tham dự sự kiện gì?",
+    "explanation": "Bài nói nhắc đến 'the annual Meridian Business Forum' với bài phát biểu chính (keynote address) và hội thảo chuyên môn, tức một hội nghị kinh doanh, đáp án C. A, B và D không khớp với các chi tiết như 'workshop', 'networking reception'.",
+    "vocab": [
+      {
+        "word": "keynote address",
+        "pos": "n.",
+        "meaning": "bài phát biểu chính"
+      },
+      {
+        "word": "forum",
+        "pos": "n.",
+        "meaning": "diễn đàn"
+      },
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi hội thảo, chuyên đề"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t3-p4-g6",
+    "audioScript": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "audioVoiceText": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "questionText": "Where will the digital marketing workshop be held?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In the Grand Hall"
+      },
+      {
+        "key": "B",
+        "text": "(B) In the lobby"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the information desk"
+      },
+      {
+        "key": "D",
+        "text": "(D) In Room 204"
+      }
+    ],
+    "correct": "D",
+    "translation": "Hội thảo về tiếp thị kỹ thuật số sẽ được tổ chức ở đâu?",
+    "explanation": "Bài nói cho biết 'the workshop on digital marketing has been moved to Room 204', tức phòng 204, đáp án D. A là nơi diễn ra bài phát biểu chính. B là nơi tổ chức tiệc giao lưu. C là quầy thông tin, không phải địa điểm hội thảo.",
+    "vocab": [
+      {
+        "word": "move",
+        "pos": "v.",
+        "meaning": "di chuyển, đổi địa điểm"
+      },
+      {
+        "word": "recording",
+        "pos": "n.",
+        "meaning": "việc ghi âm, ghi hình"
+      },
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "meaning": "sảnh lớn"
+      },
+      {
+        "word": "refreshments",
+        "pos": "n.",
+        "meaning": "đồ ăn nhẹ, đồ uống"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t3-p4-g6",
+    "audioScript": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "audioVoiceText": "Thank you for joining us at the annual Meridian Business Forum. This afternoon's keynote address will begin at two o'clock in the Grand Hall, and seating is first come, first served. Please note that the workshop on digital marketing has been moved to Room 204, because the original room is being used for a recording. After the keynote, join us in the lobby for a networking reception with light refreshments. Name badges must be worn at all times. If you have questions, our volunteers at the information desk will be glad to help.",
+    "questionText": "What are attendees required to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wear their name badges"
+      },
+      {
+        "key": "B",
+        "text": "(B) Register online"
+      },
+      {
+        "key": "C",
+        "text": "(C) Bring their own lunch"
+      },
+      {
+        "key": "D",
+        "text": "(D) Arrive before noon"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người tham dự bắt buộc phải làm gì?",
+    "explanation": "Câu 'Name badges must be worn at all times' yêu cầu luôn đeo thẻ tên, đáp án A. B sai vì việc đăng ký đã hoàn tất trước khi sự kiện diễn ra. C sai vì có tiệc đồ ăn nhẹ, không yêu cầu mang cơm. D sai vì không có quy định phải đến trước buổi trưa.",
+    "vocab": [
+      {
+        "word": "name badge",
+        "pos": "n.",
+        "meaning": "thẻ tên"
+      },
+      {
+        "word": "at all times",
+        "pos": "phr.",
+        "meaning": "mọi lúc"
+      },
+      {
+        "word": "volunteer",
+        "pos": "n.",
+        "meaning": "tình nguyện viên"
+      },
+      {
+        "word": "first come, first served",
+        "pos": "phr.",
+        "meaning": "đến trước được phục vụ trước"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g7",
+    "audioScript": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "audioVoiceText": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "questionText": "Why is the speaker contacting the listener?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To offer him a job"
+      },
+      {
+        "key": "B",
+        "text": "(B) To schedule an interview"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request references"
+      },
+      {
+        "key": "D",
+        "text": "(D) To reject his application"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tại sao người nói liên hệ với người nghe?",
+    "explanation": "Người nói mời 'a second interview next Tuesday at ten in the morning', tức sắp xếp buổi phỏng vấn vòng hai, đáp án B. A sai vì chưa có lời mời làm việc. C sai vì không yêu cầu người giới thiệu. D sai vì đây là tin tích cực, không phải từ chối.",
+    "vocab": [
+      {
+        "word": "apply for",
+        "pos": "phr.",
+        "meaning": "ứng tuyển vào"
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "meaning": "vị trí công việc"
+      },
+      {
+        "word": "interview",
+        "pos": "n.",
+        "meaning": "buổi phỏng vấn"
+      },
+      {
+        "word": "impress",
+        "pos": "v.",
+        "meaning": "gây ấn tượng"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g7",
+    "audioScript": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "audioVoiceText": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "questionText": "What should the listener bring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A résumé"
+      },
+      {
+        "key": "B",
+        "text": "(B) A laptop"
+      },
+      {
+        "key": "C",
+        "text": "(C) A photo ID"
+      },
+      {
+        "key": "D",
+        "text": "(D) A reference letter"
+      }
+    ],
+    "correct": "C",
+    "translation": "Người nghe nên mang theo gì?",
+    "explanation": "Lời nhắn dặn 'Please bring a photo ID and arrive fifteen minutes early', tức giấy tờ tùy thân có ảnh, đáp án C. A, B và D không được nhắc; bài chỉ nói buổi phỏng vấn có một bài kiểm tra viết ngắn chứ không yêu cầu mang laptop hay thư giới thiệu.",
+    "vocab": [
+      {
+        "word": "photo ID",
+        "pos": "n.",
+        "meaning": "giấy tờ tùy thân có ảnh"
+      },
+      {
+        "word": "written exercise",
+        "pos": "n.",
+        "meaning": "bài tập viết"
+      },
+      {
+        "word": "paperwork",
+        "pos": "n.",
+        "meaning": "giấy tờ thủ tục"
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "meaning": "đổi lịch"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail:",
+    "audioGroup": "t3-p4-g7",
+    "audioScript": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "audioVoiceText": "Hello, this message is for Daniel Reyes. Thank you for applying for the customer support specialist position at Harborline Logistics. We were impressed by your experience, and we'd like to invite you to a second interview next Tuesday at ten in the morning. The interview will last about forty-five minutes and will include a short written exercise. Please bring a photo ID and arrive fifteen minutes early to complete the visitor paperwork. If the time doesn't work for you, contact me by Friday to reschedule. We look forward to meeting you.",
+    "questionText": "What should the listener do if the time is inconvenient?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Call by Friday to reschedule"
+      },
+      {
+        "key": "B",
+        "text": "(B) Arrive fifteen minutes early"
+      },
+      {
+        "key": "C",
+        "text": "(C) Email after the interview"
+      },
+      {
+        "key": "D",
+        "text": "(D) Complete a written exercise"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người nghe nên làm gì nếu thời gian đó không phù hợp?",
+    "explanation": "Lời nhắn nói 'If the time doesn't work for you, contact me by Friday to reschedule', tức liên hệ trước thứ Sáu để đổi lịch, đáp án A. B là việc cần làm trong mọi trường hợp, không phải cách xử lý khi bất tiện. C sai vì không hẹn gọi sau phỏng vấn. D sai vì bài kiểm tra viết diễn ra ngay tại buổi phỏng vấn.",
+    "vocab": [
+      {
+        "word": "inconvenient",
+        "pos": "adj.",
+        "meaning": "bất tiện"
+      },
+      {
+        "word": "contact",
+        "pos": "v.",
+        "meaning": "liên hệ"
+      },
+      {
+        "word": "by Friday",
+        "pos": "phr.",
+        "meaning": "trước thứ Sáu"
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "meaning": "mong chờ"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t3-p4-g8",
+    "audioScript": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "audioVoiceText": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "questionText": "What is the warning about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A flood"
+      },
+      {
+        "key": "B",
+        "text": "(B) A heat wave"
+      },
+      {
+        "key": "C",
+        "text": "(C) An earthquake"
+      },
+      {
+        "key": "D",
+        "text": "(D) A winter storm"
+      }
+    ],
+    "correct": "D",
+    "translation": "Cảnh báo này nói về điều gì?",
+    "explanation": "Bài nói nêu rõ 'A winter storm warning is in effect', tức cảnh báo bão mùa đông, đáp án D. A, B và C không được nhắc đến; nội dung bài nói về tuyết dày và gió mạnh chứ không phải lũ lụt, nắng nóng hay động đất.",
+    "vocab": [
+      {
+        "word": "winter storm",
+        "pos": "n.",
+        "meaning": "bão mùa đông"
+      },
+      {
+        "word": "warning",
+        "pos": "n.",
+        "meaning": "cảnh báo"
+      },
+      {
+        "word": "in effect",
+        "pos": "phr.",
+        "meaning": "đang có hiệu lực"
+      },
+      {
+        "word": "accumulation",
+        "pos": "n.",
+        "meaning": "lượng tích tụ (tuyết)"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t3-p4-g8",
+    "audioScript": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "audioVoiceText": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "questionText": "What are drivers advised to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Avoid unnecessary travel"
+      },
+      {
+        "key": "B",
+        "text": "(B) Use public transportation"
+      },
+      {
+        "key": "C",
+        "text": "(C) Check their tires"
+      },
+      {
+        "key": "D",
+        "text": "(D) Leave work early"
+      }
+    ],
+    "correct": "A",
+    "translation": "Tài xế được khuyến cáo làm gì?",
+    "explanation": "Bài nói khuyên 'Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles', tức tránh những chuyến đi không cần thiết, đáp án A. B, C và D không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "avoid",
+        "pos": "v.",
+        "meaning": "tránh"
+      },
+      {
+        "word": "unnecessary",
+        "pos": "adj.",
+        "meaning": "không cần thiết"
+      },
+      {
+        "word": "emergency kit",
+        "pos": "n.",
+        "meaning": "bộ dụng cụ khẩn cấp"
+      },
+      {
+        "word": "vehicle",
+        "pos": "n.",
+        "meaning": "phương tiện đi lại"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t3-p4-g8",
+    "audioScript": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "audioVoiceText": "This is an automated alert from the regional emergency office. A winter storm warning is in effect from six this evening until noon tomorrow. Heavy snow and strong winds are expected, with accumulations of up to twenty centimeters in higher areas. Drivers are advised to avoid unnecessary travel and to keep an emergency kit in their vehicles. Several school districts have already announced that classes will start two hours late. Crews will begin clearing main roads at four in the morning. Stay tuned to local radio for further updates.",
+    "questionText": "What will happen at four in the morning?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Schools will open"
+      },
+      {
+        "key": "B",
+        "text": "(B) Crews will clear main roads"
+      },
+      {
+        "key": "C",
+        "text": "(C) The warning will end"
+      },
+      {
+        "key": "D",
+        "text": "(D) Radio updates will begin"
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì sẽ xảy ra lúc bốn giờ sáng?",
+    "explanation": "Bài nói cho biết 'Crews will begin clearing main roads at four in the morning', tức các đội công tác bắt đầu dọn đường chính, đáp án B. A sai vì trường học chỉ bắt đầu muộn hai giờ và không nêu giờ mở cửa. C sai vì cảnh báo kéo dài đến trưa mai. D sai vì radio được nhắc để tiếp tục theo dõi, không phải bắt đầu phát lúc 4 giờ.",
+    "vocab": [
+      {
+        "word": "crew",
+        "pos": "n.",
+        "meaning": "đội công tác"
+      },
+      {
+        "word": "clear",
+        "pos": "v.",
+        "meaning": "dọn sạch"
+      },
+      {
+        "word": "main road",
+        "pos": "n.",
+        "meaning": "đường chính"
+      },
+      {
+        "word": "stay tuned",
+        "pos": "phr.",
+        "meaning": "tiếp tục theo dõi"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and flyer:",
+    "audioGroup": "t3-p4-g9",
+    "audioScript": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "audioVoiceText": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "questionText": "What is being celebrated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A bookstore's anniversary"
+      },
+      {
+        "key": "B",
+        "text": "(B) A school's expansion"
+      },
+      {
+        "key": "C",
+        "text": "(C) A library's grand opening"
+      },
+      {
+        "key": "D",
+        "text": "(D) A new shopping center"
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì đang được tổ chức ăn mừng?",
+    "explanation": "Bài nói mời 'Come celebrate the grand opening of the Riverside Community Library', tức lễ khai trương thư viện cộng đồng, đáp án C. A, B và D sai vì bài nói về một thư viện mới, không phải hiệu sách, trường học hay trung tâm thương mại.",
+    "vocab": [
+      {
+        "word": "grand opening",
+        "pos": "n.",
+        "meaning": "lễ khai trương"
+      },
+      {
+        "word": "feature",
+        "pos": "v.",
+        "meaning": "có, bao gồm"
+      },
+      {
+        "word": "computer lab",
+        "pos": "n.",
+        "meaning": "phòng máy tính"
+      },
+      {
+        "word": "neighborhood",
+        "pos": "n.",
+        "meaning": "khu dân cư"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Community Library — Saturday Grand Opening (10:00 a.m.–4:00 p.m.)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Floor / Area</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Facilities &amp; Opening Day Highlights</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Lobby</td>\n                            <td class=\"border border-neutral-800 p-2\">Free tote bag for the first 200 visitors</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">First Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Reading Room, Computer Lab &amp; Local Author Book Signing</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Second Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Quiet Study Area</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Note: On-site parking is limited. Free shuttle service runs every 15 minutes from the Downtown Plaza.</p>\n            </div>"
+  },
+  {
+    "id": 96,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and flyer:",
+    "audioGroup": "t3-p4-g9",
+    "audioScript": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "audioVoiceText": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "questionText": "What will the first two hundred visitors receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A signed book"
+      },
+      {
+        "key": "B",
+        "text": "(B) A free tote bag"
+      },
+      {
+        "key": "C",
+        "text": "(C) A library card"
+      },
+      {
+        "key": "D",
+        "text": "(D) A parking pass"
+      }
+    ],
+    "correct": "B",
+    "translation": "200 khách đầu tiên sẽ nhận được gì?",
+    "explanation": "Bài nói cho biết 'The first two hundred visitors will receive a free tote bag', tức một chiếc túi vải miễn phí, đáp án B. A sai vì sách do các tác giả địa phương ký tặng chứ không nói tặng sách. C và D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "tote bag",
+        "pos": "n.",
+        "meaning": "túi vải tote"
+      },
+      {
+        "word": "sign",
+        "pos": "v.",
+        "meaning": "ký tặng"
+      },
+      {
+        "word": "author",
+        "pos": "n.",
+        "meaning": "tác giả"
+      },
+      {
+        "word": "throughout",
+        "pos": "prep.",
+        "meaning": "trong suốt"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Community Library — Saturday Grand Opening (10:00 a.m.–4:00 p.m.)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Floor / Area</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Facilities &amp; Opening Day Highlights</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Lobby</td>\n                            <td class=\"border border-neutral-800 p-2\">Free tote bag for the first 200 visitors</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">First Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Reading Room, Computer Lab &amp; Local Author Book Signing</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Second Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Quiet Study Area</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Note: On-site parking is limited. Free shuttle service runs every 15 minutes from the Downtown Plaza.</p>\n            </div>"
+  },
+  {
+    "id": 97,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and flyer:",
+    "audioGroup": "t3-p4-g9",
+    "audioScript": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "audioVoiceText": "Come celebrate the grand opening of the Riverside Community Library this Saturday from ten to four. The new building features a children's reading room, a computer lab, and a quiet study area on the second floor. The first two hundred visitors will receive a free tote bag, and local authors will sign books throughout the afternoon. Parking is limited, so we encourage guests to use the shuttle, which runs every fifteen minutes from the downtown plaza. We can't wait to welcome you to your new neighborhood library.",
+    "questionText": "Why is the shuttle mentioned?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It offers free Wi-Fi"
+      },
+      {
+        "key": "B",
+        "text": "(B) It runs only on weekends"
+      },
+      {
+        "key": "C",
+        "text": "(C) It is faster than driving"
+      },
+      {
+        "key": "D",
+        "text": "(D) Parking is limited"
+      }
+    ],
+    "correct": "D",
+    "translation": "Vì sao xe đưa đón được nhắc đến?",
+    "explanation": "Bài nói giải thích 'Parking is limited, so we encourage guests to use the shuttle', tức vì bãi đỗ xe hạn chế nên khuyến khích khách đi xe đưa đón, đáp án D. A, B và C đều không được nêu trong bài.",
+    "vocab": [
+      {
+        "word": "parking",
+        "pos": "n.",
+        "meaning": "chỗ đỗ xe"
+      },
+      {
+        "word": "limited",
+        "pos": "adj.",
+        "meaning": "hạn chế"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "downtown plaza",
+        "pos": "n.",
+        "meaning": "quảng trường trung tâm thành phố"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Community Library — Saturday Grand Opening (10:00 a.m.–4:00 p.m.)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Floor / Area</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Facilities &amp; Opening Day Highlights</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Main Lobby</td>\n                            <td class=\"border border-neutral-800 p-2\">Free tote bag for the first 200 visitors</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">First Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Reading Room, Computer Lab &amp; Local Author Book Signing</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Second Floor</td>\n                            <td class=\"border border-neutral-800 p-2\">Quiet Study Area</td>\n                        </tr>\n                    </tbody>\n                </table>\n                <p class=\"mt-2 text-xs italic\">Note: On-site parking is limited. Free shuttle service runs every 15 minutes from the Downtown Plaza.</p>\n            </div>"
+  },
+  {
+    "id": 98,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and orientation schedule:",
+    "audioGroup": "t3-p4-g10",
+    "audioScript": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "audioVoiceText": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "questionText": "Who is this talk intended for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) New employees"
+      },
+      {
+        "key": "B",
+        "text": "(B) Team leaders"
+      },
+      {
+        "key": "C",
+        "text": "(C) Job applicants"
+      },
+      {
+        "key": "D",
+        "text": "(D) Long-term contractors"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bài nói này dành cho ai?",
+    "explanation": "Bài nói mở đầu bằng 'Welcome to the new employee orientation' và nhắc 'all new staff must complete...', cho thấy người nghe là nhân viên mới, đáp án A. B là những người họ sẽ gặp sau bữa trưa. C sai vì đây là người đã được tuyển. D sai vì không nhắc đến hợp đồng dài hạn.",
+    "vocab": [
+      {
+        "word": "orientation",
+        "pos": "n.",
+        "meaning": "buổi định hướng"
+      },
+      {
+        "word": "core values",
+        "pos": "n.",
+        "meaning": "giá trị cốt lõi"
+      },
+      {
+        "word": "handbook",
+        "pos": "n.",
+        "meaning": "sổ tay nhân viên"
+      },
+      {
+        "word": "new staff",
+        "pos": "n.",
+        "meaning": "nhân viên mới"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">New Employee Orientation Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning</td>\n                            <td class=\"border border-neutral-800 p-2\">Company History, Core Values &amp; Daily Tools</td>\n                            <td class=\"border border-neutral-800 p-2\">Refer to Employee Handbook</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">After Lunch</td>\n                            <td class=\"border border-neutral-800 p-2\">Team Leader Introductions &amp; Access Badges</td>\n                            <td class=\"border border-neutral-800 p-2\">Security photo ID required</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Within First 2 Weeks</td>\n                            <td class=\"border border-neutral-800 p-2\">Online Compliance Course</td>\n                            <td class=\"border border-neutral-800 p-2\">Mandatory for all new staff</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 99,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and orientation schedule:",
+    "audioGroup": "t3-p4-g10",
+    "audioScript": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "audioVoiceText": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "questionText": "What will happen after lunch?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A written test"
+      },
+      {
+        "key": "B",
+        "text": "(B) A building tour"
+      },
+      {
+        "key": "C",
+        "text": "(C) A compliance lecture"
+      },
+      {
+        "key": "D",
+        "text": "(D) Meeting team leaders"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì sẽ diễn ra sau bữa trưa?",
+    "explanation": "Bài nói cho biết 'After lunch, you'll meet your team leaders and receive your access badges', tức gặp các trưởng nhóm, đáp án D. A, B và C không được nhắc đến; khóa học tuân thủ là khóa trực tuyến phải hoàn thành trong hai tuần đầu chứ không phải buổi giảng sau bữa trưa.",
+    "vocab": [
+      {
+        "word": "team leader",
+        "pos": "n.",
+        "meaning": "trưởng nhóm"
+      },
+      {
+        "word": "access badge",
+        "pos": "n.",
+        "meaning": "thẻ ra vào"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, phần chương trình"
+      },
+      {
+        "word": "handy",
+        "pos": "adj.",
+        "meaning": "sẵn trong tay, tiện dùng"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">New Employee Orientation Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning</td>\n                            <td class=\"border border-neutral-800 p-2\">Company History, Core Values &amp; Daily Tools</td>\n                            <td class=\"border border-neutral-800 p-2\">Refer to Employee Handbook</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">After Lunch</td>\n                            <td class=\"border border-neutral-800 p-2\">Team Leader Introductions &amp; Access Badges</td>\n                            <td class=\"border border-neutral-800 p-2\">Security photo ID required</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Within First 2 Weeks</td>\n                            <td class=\"border border-neutral-800 p-2\">Online Compliance Course</td>\n                            <td class=\"border border-neutral-800 p-2\">Mandatory for all new staff</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 100,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and orientation schedule:",
+    "audioGroup": "t3-p4-g10",
+    "audioScript": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "audioVoiceText": "Welcome to the new employee orientation. In this first session, we'll cover our company's history, our core values, and the tools you'll use every day. Please keep your handbook handy, since we'll refer to it throughout the morning. After lunch, you'll meet your team leaders and receive your access badges. Remember that all new staff must complete the online compliance course within their first two weeks. If you have questions at any point, don't hesitate to ask. We're glad you're here.",
+    "questionText": "What must new staff complete within two weeks?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A performance review"
+      },
+      {
+        "key": "B",
+        "text": "(B) A safety inspection"
+      },
+      {
+        "key": "C",
+        "text": "(C) An online compliance course"
+      },
+      {
+        "key": "D",
+        "text": "(D) A customer service workshop"
+      }
+    ],
+    "correct": "C",
+    "translation": "Nhân viên mới phải hoàn thành gì trong vòng hai tuần?",
+    "explanation": "Bài nói nhắc 'all new staff must complete the online compliance course within their first two weeks', tức khóa học tuân thủ trực tuyến, đáp án C. A, B và D không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "complete",
+        "pos": "v.",
+        "meaning": "hoàn thành"
+      },
+      {
+        "word": "compliance",
+        "pos": "n.",
+        "meaning": "sự tuân thủ quy định"
+      },
+      {
+        "word": "within",
+        "pos": "prep.",
+        "meaning": "trong vòng"
+      },
+      {
+        "word": "hesitate",
+        "pos": "v.",
+        "meaning": "ngần ngại"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">New Employee Orientation Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Topic</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Notes</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning</td>\n                            <td class=\"border border-neutral-800 p-2\">Company History, Core Values &amp; Daily Tools</td>\n                            <td class=\"border border-neutral-800 p-2\">Refer to Employee Handbook</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">After Lunch</td>\n                            <td class=\"border border-neutral-800 p-2\">Team Leader Introductions &amp; Access Badges</td>\n                            <td class=\"border border-neutral-800 p-2\">Security photo ID required</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Within First 2 Weeks</td>\n                            <td class=\"border border-neutral-800 p-2\">Online Compliance Course</td>\n                            <td class=\"border border-neutral-800 p-2\">Mandatory for all new staff</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  }
+]

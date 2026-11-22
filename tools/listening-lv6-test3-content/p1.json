@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "watchmaker_loupe",
+    "imageCaption": "Một nghệ nhân chế tác đồng hồ đeo kính lúp gắn mắt đang dùng chiếc nhíp kim loại nhỏ để lắp bánh răng tinh xảo vào bộ máy đồng hồ trên mặt bàn gỗ.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A magnifying loupe is being polished with a microfiber cloth.",
+      "Intricate clockwork components are being positioned with fine tweezers.",
+      "Timepieces have been sealed inside velvet-lined display cases.",
+      "Wooden cabinetry is being varnished along the workshop wall."
+    ],
+    "correct": "B",
+    "translation": "(A) Một chiếc kính lúp phóng đại đang được lau bóng bằng khăn sợi siêu mịn.\n(B) Các linh kiện bộ máy đồng hồ tinh xảo đang được định vị bằng nhíp mảnh.\n(C) Những chiếc đồng hồ đã được niêm phong bên trong hộp trưng bày lót nhung.\n(D) Hệ tủ gỗ đang được quét sơn bóng dọc theo bức tường xưởng.",
+    "explanation": "Đáp án đúng là (B) vì cấu trúc bị động tiếp diễn 'are being positioned with fine tweezers' mô tả chính xác thao tác nghệ nhân dùng nhíp lắp bánh răng tinh vi trên bàn gỗ. Phương án (A) bẫy chi tiết kính lúp ('loupe') đang được đeo trên mắt chứ không phải đang được lau ('being polished'); phương án (C) sai trạng thái vật thể vì bộ máy đồng hồ đang mở trần trên bàn chứ không đóng kín trong tủ trưng bày; phương án (D) bẫy từ liên tưởng chất liệu gỗ ('wooden cabinetry') với hành động sơn bóng không có trong cảnh.",
+    "vocab": [
+      ["clockwork", "n", "bộ máy đồng hồ cơ học"],
+      ["intricate", "adj", "tinh xảo, phức tạp"],
+      ["tweezers", "n", "nhíp kẹp chính xác"],
+      ["loupe", "n", "kính lúp đeo mắt của thợ đồng hồ/kim hoàn"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "outdoor_cafe_umbrellas",
+    "imageCaption": "Sân hiên ngoài trời của một nhà hàng với những chiếc ô che nắng cỡ lớn đã được gập gọn bên cạnh các bộ bàn ghế khung kim loại đang bỏ trống.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Outdoor sunshades have been furled beside rows of unoccupied metal furniture.",
+      "Waitstaff are unfurling canvas canopies over the dining terrace.",
+      "Wrought-iron chairs are being stacked against the exterior facade.",
+      "Patrons are seated beneath fully extended overhead awnings."
+    ],
+    "correct": "A",
+    "translation": "(A) Những chiếc ô che nắng ngoài trời đã được gập gọn bên cạnh các dãy bàn ghế kim loại không có người ngồi.\n(B) Nhân viên phục vụ đang bung mở các tán dù vải bạt phía trên sân hiên ăn uống.\n(C) Những chiếc ghế sắt rèn đang được xếp chồng dựa vào mặt tiền bên ngoài.\n(D) Thực khách đang ngồi bên dưới các mái che phía trên đã mở rộng hoàn toàn.",
+    "explanation": "Đáp án đúng là (A) dùng cấu trúc hiện tại hoàn thành bị động ('have been furled') để diễn tả trạng thái tĩnh của những chiếc ô che nắng đã gập gọn cạnh các bộ bàn ghế kim loại trống ('unoccupied metal furniture'). Vì khung cảnh không có người, các phương án bị động hoặc chủ động tiếp diễn như (B) ('are unfurling') và (C) ('are being stacked') đều là bẫy hành động không có thật; phương án (D) mô tả sai hoàn toàn cả trạng thái ô mở lẫn sự hiện diện của thực khách.",
+    "vocab": [
+      ["furl", "v", "cuộn lại, gập gọn (ô dù, buồm, cờ)"],
+      ["sunshade", "n", "ô che nắng"],
+      ["unoccupied", "adj", "trống, không có người sử dụng"],
+      ["facade", "n", "mặt tiền công trình"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "solar_panel_rooftop",
+    "imageCaption": "Hai kỹ thuật viên đội mũ bảo hộ lao động đang lắp đặt các tấm pin năng lượng mặt trời trên mái bằng của một tòa nhà thương mại.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Hard hats are being stowed away inside a utility van.",
+      "Photovoltaic arrays have been dismantled and stacked in a courtyard.",
+      "Technicians wearing protective headgear are mounting photovoltaic panels on a rooftop.",
+      "Scaffolding is being erected along a building's glass atrium."
+    ],
+    "correct": "C",
+    "translation": "(A) Mũ bảo hộ cứng đang được cất gọn vào bên trong một chiếc xe tải tiện ích.\n(B) Các dàn pin quang điện đã bị tháo dỡ và chất đống ở một khoảng sân.\n(C) Các kỹ thuật viên đội đồ bảo hộ đầu đang lắp đặt các tấm pin quang điện trên mái nhà.\n(D) Giàn giáo đang được dựng lên dọc theo sảnh kính của một tòa nhà.",
+    "explanation": "Đáp án đúng là (C) diễn đạt chuẩn xác qua ngữ vựng C1–C2: 'protective headgear' (mũ bảo hộ), 'mounting' (gắn, lắp đặt) và 'photovoltaic panels' (tấm pin năng lượng mặt trời) trên mái tòa nhà. Phương án (A) bẫy chi tiết mũ bảo hộ đang được đội chứ không phải đang được cất ('being stowed away'); phương án (B) đảo ngược bản chất hành động thành tháo dỡ ('dismantled') và sai vị trí ('courtyard'); phương án (D) suy diễn chi tiết dựng giàn giáo ở sảnh kính.",
+    "vocab": [
+      ["photovoltaic", "adj", "quang điện (chuyển hóa ánh sáng thành điện năng)"],
+      ["mount", "v", "lắp đặt, gắn cố định"],
+      ["headgear", "n", "đồ bảo hộ đội đầu"],
+      ["dismantle", "v", "tháo dỡ, tháo rời"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "orchestra_music_stands",
+    "imageCaption": "Các giá để bản nhạc có gắn đèn nhỏ được xếp thành hình vòng cung trên sân khấu của một khán phòng trống không có người.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Sheet music is being distributed across tiered choir risers.",
+      "Music stands fitted with small lamps have been arranged in a curved formation.",
+      "Acoustic instruments are being tuned by members of an ensemble.",
+      "Folding lecterns are being hauled off an auditorium platform."
+    ],
+    "correct": "B",
+    "translation": "(A) Các bản nhạc rời đang được phân phát khắp các bục đứng bậc thang của dàn hợp xướng.\n(B) Những giá để bản nhạc gắn đèn nhỏ đã được sắp xếp theo bố cục hình vòng cung.\n(C) Các nhạc cụ mộc đang được lên dây bởi các thành viên trong đoàn hòa tấu.\n(D) Các bục phát biểu gấp gọn đang được khuân khỏi bục sân khấu khán phòng.",
+    "explanation": "Đáp án đúng là (B) dùng hiện tại hoàn thành bị động ('have been arranged') mô tả trạng thái hoàn tất của các giá nhạc gắn đèn nhỏ ('fitted with small lamps') xếp theo hình vòng cung ('curved formation') trên sân khấu trống. Toàn bộ ba phương án (A), (C), (D) đều sử dụng thì bị động tiếp diễn ('is being distributed', 'are being tuned', 'are being hauled') vốn là bẫy kinh điển ở ảnh tĩnh không có sự hiện diện của con người.",
+    "vocab": [
+      ["fitted with", "adj", "được gắn kèm, trang bị sẵn"],
+      ["curved formation", "n", "bố cục xếp hình vòng cung"],
+      ["ensemble", "n", "đoàn nhạc công, nhóm hòa tấu"],
+      ["lectern", "n", "bục đứng đặt tài liệu, bục diễn thuyết"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "pharmacist_dispensing",
+    "imageCaption": "Một dược sĩ mặc áo khoác trắng đang kiểm tra kỹ nhãn trên lọ thuốc trước dãy kệ thuốc được phân loại trong hiệu thuốc.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Prescription vials are being swept off a dispensary counter.",
+      "A lab coat has been hung on a peg behind a consultation booth.",
+      "Pharmaceutical shelving units are being restocked from cardboard crates.",
+      "A specialist in a white coat is scrutinizing a vial label before categorized shelving."
+    ],
+    "correct": "D",
+    "translation": "(A) Các lọ thuốc kê đơn đang bị gạt ra khỏi quầy cấp phát thuốc.\n(B) Một chiếc áo khoác phòng thí nghiệm đã được treo trên móc phía sau buồng tư vấn.\n(C) Các hệ kệ dược phẩm đang được chất đầy lại từ các thùng các-tông.\n(D) Một chuyên viên mặc áo khoác trắng đang xem xét kỹ nhãn lọ thuốc trước hệ kệ được phân loại.",
+    "explanation": "Đáp án đúng là (D) sử dụng các cụm từ C1–C2 chuẩn xác: 'specialist in a white coat' (dược sĩ mặc áo trắng), 'scrutinizing a vial label' (kiểm tra kỹ nhãn lọ thuốc) và 'categorized shelving' (kệ thuốc phân loại). Phương án (A) sai hoàn toàn hành động ('being swept off'); phương án (B) bẫy trạng thái đồ vật khi biến chiếc áo đang mặc trên người thành 'has been hung on a peg'; phương án (C) suy diễn hành động chất hàng từ thùng các-tông.",
+    "vocab": [
+      ["scrutinize", "v", "kiểm tra kỹ lưỡng, soi xét cẩn trọng"],
+      ["vial", "n", "lọ nhỏ đựng thuốc hoặc hóa chất"],
+      ["categorized", "adj", "được phân loại theo danh mục"],
+      ["dispensary", "n", "hiệu thuốc, quầy cấp phát thuốc"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "tarmac_luggage_loader",
+    "imageCaption": "Một nhân viên sân bay đang vận hành xe băng chuyền để chất các thùng hàng lên khoang chứa hàng dưới bụng máy bay thương mại trên sân đỗ.",
+    "imageUrl": "listening/images/lv6-test-03/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A ground handler is operating a conveyor loader to transfer freight into an aircraft hold.",
+      "Boarding stairs are being towed away from a parked commuter jet.",
+      "Checked suitcases have been left unattended beside a baggage carousel.",
+      "Turbine engines are being detached inside a maintenance hangar."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên mặt đất đang điều khiển xe băng chuyền chất hàng để chuyển hàng hóa vào khoang bụng máy bay.\n(B) Cầu thang lên máy bay đang được kéo ra xa khỏi một chiếc phi cơ khu vực đang đỗ.\n(C) Các vali ký gửi đã bị bỏ lại không người trông bên cạnh băng chuyền trả hành lý.\n(D) Các động cơ tua-bin đang được tháo rời bên trong nhà chứa bảo dưỡng máy bay.",
+    "explanation": "Đáp án đúng là (A) diễn tả chuẩn xác hành động nhân viên mặt đất ('ground handler') điều khiển băng chuyền ('conveyor loader') đưa thùng hàng ('freight') lên khoang bụng máy bay ('aircraft hold'). Phương án (B) sai vật thể và chiều hành động ('being towed away'); phương án (C) chuyển nhầm sang bối cảnh băng chuyền trả hành lý trong nhà ga ('baggage carousel') và dùng trạng thái tĩnh sai; phương án (D) sai hoàn toàn bối cảnh thành tháo động cơ trong nhà chứa máy bay.",
+    "vocab": [
+      ["ground handler", "n", "nhân viên phục vụ mặt đất tại sân bay"],
+      ["freight", "n", "hàng hóa vận chuyển"],
+      ["aircraft hold", "n", "khoang chứa hàng dưới bụng máy bay"],
+      ["conveyor", "n", "băng chuyền vận chuyển hàng"]
+    ]
+  }
+]

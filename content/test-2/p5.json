@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 101,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The contractor expects that the bridge _______ before the rainy season begins.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) completes"
+      },
+      {
+        "key": "B",
+        "text": "(B) has completed"
+      },
+      {
+        "key": "C",
+        "text": "(C) will have been completed"
+      },
+      {
+        "key": "D",
+        "text": "(D) is completing"
+      }
+    ],
+    "correct": "C",
+    "translation": "Nhà thầu kỳ vọng rằng cây cầu sẽ được hoàn thành trước khi mùa mưa bắt đầu.",
+    "explanation": "Mệnh đề \"before the rainy season begins\" dùng hiện tại đơn để nói về một mốc trong tương lai, nên hành động hoàn thành cầu phải diễn ra trước mốc đó và cần thì tương lai hoàn thành. Chủ ngữ \"the bridge\" không tự thực hiện hành động mà được người khác hoàn thành, vì vậy phải dùng dạng bị động \"will have been completed\". (A) và (D) là chủ động, không phù hợp vì cây cầu không thể tự hoàn thành; (B) hiện tại hoàn thành không diễn tả được sự hoàn tất trước một mốc tương lai.",
+    "vocab": [
+      {
+        "word": "contractor",
+        "pos": "n.",
+        "meaning": "nhà thầu"
+      },
+      {
+        "word": "expect",
+        "pos": "v.",
+        "meaning": "kỳ vọng, mong đợi"
+      },
+      {
+        "word": "rainy season",
+        "pos": "n.",
+        "meaning": "mùa mưa"
+      },
+      {
+        "word": "complete",
+        "pos": "v.",
+        "meaning": "hoàn thành"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "At last week's shareholder meeting, the annual budget _______ by a margin of only three votes.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) approved"
+      },
+      {
+        "key": "B",
+        "text": "(B) was approved"
+      },
+      {
+        "key": "C",
+        "text": "(C) has approved"
+      },
+      {
+        "key": "D",
+        "text": "(D) had approved"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tại cuộc họp cổ đông tuần trước, ngân sách thường niên đã được phê duyệt với khoảng cách chỉ ba phiếu.",
+    "explanation": "Chủ ngữ \"the annual budget\" là đối tượng được phê duyệt, không phải người thực hiện hành động, nên câu cần dạng bị động. Trạng ngữ \"At last week's shareholder meeting\" xác định thời điểm quá khứ, do đó dùng quá khứ đơn bị động \"was approved\". (A) là chủ động quá khứ; (C) và (D) là chủ động và không có dạng bị động, đồng thời không khớp mốc thời gian quá khứ đã nêu.",
+    "vocab": [
+      {
+        "word": "shareholder",
+        "pos": "n.",
+        "meaning": "cổ đông"
+      },
+      {
+        "word": "annual",
+        "pos": "adj.",
+        "meaning": "hằng năm, thường niên"
+      },
+      {
+        "word": "budget",
+        "pos": "n.",
+        "meaning": "ngân sách"
+      },
+      {
+        "word": "margin",
+        "pos": "n.",
+        "meaning": "khoảng cách, mức chênh lệch"
+      },
+      {
+        "word": "approve",
+        "pos": "v.",
+        "meaning": "phê duyệt"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The consultant _______ we hired to review our supply chain will present her findings on Friday.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) which"
+      },
+      {
+        "key": "B",
+        "text": "(B) whose"
+      },
+      {
+        "key": "C",
+        "text": "(C) what"
+      },
+      {
+        "key": "D",
+        "text": "(D) whom"
+      }
+    ],
+    "correct": "D",
+    "translation": "Chuyên gia tư vấn mà chúng tôi thuê để rà soát chuỗi cung ứng sẽ trình bày các phát hiện của cô ấy vào thứ Sáu.",
+    "explanation": "Đại từ quan hệ thay cho \"the consultant\" — một người — và đóng vai trò tân ngữ của động từ \"hired\" trong mệnh đề \"we hired ___ to review...\". Vì vậy cần đại từ quan hệ chỉ người ở dạng tân ngữ là \"whom\". (A) \"which\" chỉ dùng cho vật; (B) \"whose\" chỉ sở hữu, trong khi câu không có danh từ bị sở hữu theo sau; (C) \"what\" không được dùng làm đại từ quan hệ đứng sau một danh từ đã xác định như \"the consultant\".",
+    "vocab": [
+      {
+        "word": "consultant",
+        "pos": "n.",
+        "meaning": "chuyên gia tư vấn"
+      },
+      {
+        "word": "hire",
+        "pos": "v.",
+        "meaning": "thuê, tuyển dụng"
+      },
+      {
+        "word": "supply chain",
+        "pos": "n.",
+        "meaning": "chuỗi cung ứng"
+      },
+      {
+        "word": "findings",
+        "pos": "n.",
+        "meaning": "các phát hiện, kết quả nghiên cứu"
+      },
+      {
+        "word": "review",
+        "pos": "v.",
+        "meaning": "rà soát, xem xét"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All expense reports must be submitted _______ the end of the month to be processed in the current cycle.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) by"
+      },
+      {
+        "key": "B",
+        "text": "(B) until"
+      },
+      {
+        "key": "C",
+        "text": "(C) since"
+      },
+      {
+        "key": "D",
+        "text": "(D) during"
+      }
+    ],
+    "correct": "A",
+    "translation": "Tất cả báo cáo chi phí phải được nộp trước cuối tháng để được xử lý trong chu kỳ hiện tại.",
+    "explanation": "Giới từ \"by\" dùng với một mốc thời gian để chỉ hạn chót: hành động phải hoàn tất trước hoặc muộn nhất là lúc đó. \"By the end of the month\" là cụm chỉ hạn chót phù hợp với yêu cầu nộp báo cáo. (B) \"until\" nhấn mạnh một hành động kéo dài đến mốc thời gian, không dùng cho hạn chót một lần; (C) \"since\" chỉ mốc bắt đầu tính đến hiện tại; (D) \"during\" đi với một khoảng thời gian, không kết hợp tự nhiên với \"the end of the month\" theo nghĩa hạn chót.",
+    "vocab": [
+      {
+        "word": "expense report",
+        "pos": "n.",
+        "meaning": "báo cáo chi phí"
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "meaning": "nộp, đệ trình"
+      },
+      {
+        "word": "process",
+        "pos": "v.",
+        "meaning": "xử lý"
+      },
+      {
+        "word": "cycle",
+        "pos": "n.",
+        "meaning": "chu kỳ"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The store manager ordered additional display units _______ the holiday promotion is expected to attract larger crowds.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) despite"
+      },
+      {
+        "key": "B",
+        "text": "(B) unless"
+      },
+      {
+        "key": "C",
+        "text": "(C) because"
+      },
+      {
+        "key": "D",
+        "text": "(D) although"
+      }
+    ],
+    "correct": "C",
+    "translation": "Người quản lý cửa hàng đã đặt thêm các kệ trưng bày vì chương trình khuyến mãi ngày lễ được dự kiến sẽ thu hút nhiều khách hơn.",
+    "explanation": "Hai mệnh đề có quan hệ nguyên nhân — kết quả: việc đặt thêm kệ trưng bày là do chương trình khuyến mãi dự kiến thu hút đông khách. \"Because\" đứng trước một mệnh đề đầy đủ (\"the holiday promotion is expected...\") để nêu nguyên nhân, nên là đáp án đúng. (A) \"despite\" phải đi với danh từ/cụm danh từ; (B) \"unless\" nêu điều kiện phủ định, không hợp nghĩa; (D) \"although\" nêu sự đối lập, trong khi câu không hề thể hiện ý trái ngược.",
+    "vocab": [
+      {
+        "word": "display unit",
+        "pos": "n.",
+        "meaning": "kệ/đơn vị trưng bày"
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "meaning": "chương trình khuyến mãi"
+      },
+      {
+        "word": "attract",
+        "pos": "v.",
+        "meaning": "thu hút"
+      },
+      {
+        "word": "crowd",
+        "pos": "n.",
+        "meaning": "đám đông, lượng khách"
+      },
+      {
+        "word": "additional",
+        "pos": "adj.",
+        "meaning": "thêm vào, bổ sung"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "This year's customer satisfaction scores are significantly _______ than those recorded before the loyalty program was introduced.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) high"
+      },
+      {
+        "key": "B",
+        "text": "(B) higher"
+      },
+      {
+        "key": "C",
+        "text": "(C) highest"
+      },
+      {
+        "key": "D",
+        "text": "(D) as high"
+      }
+    ],
+    "correct": "B",
+    "translation": "Điểm hài lòng của khách hàng năm nay cao hơn đáng kể so với điểm được ghi nhận trước khi chương trình khách hàng thân thiết được triển khai.",
+    "explanation": "Câu có từ \"than\" nên cần dạng so sánh hơn của tính từ, và \"higher\" là dạng so sánh hơn của \"high\". Cấu trúc đầy đủ là \"significantly higher than those recorded...\". (A) tính từ nguyên mẫu không đi với \"than\"; (C) so sánh nhất cần mạo từ \"the\" và không dùng với \"than\"; (D) \"as high\" phải đi với \"as\" trong cấu trúc so sánh bằng, không phải \"than\".",
+    "vocab": [
+      {
+        "word": "customer satisfaction",
+        "pos": "n.",
+        "meaning": "sự hài lòng của khách hàng"
+      },
+      {
+        "word": "score",
+        "pos": "n.",
+        "meaning": "điểm số"
+      },
+      {
+        "word": "significantly",
+        "pos": "adv.",
+        "meaning": "một cách đáng kể"
+      },
+      {
+        "word": "loyalty program",
+        "pos": "n.",
+        "meaning": "chương trình khách hàng thân thiết"
+      },
+      {
+        "word": "record",
+        "pos": "v.",
+        "meaning": "ghi nhận, ghi lại"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "A number of employees _______ expressed interest in the new leadership training workshop.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) has"
+      },
+      {
+        "key": "B",
+        "text": "(B) is"
+      },
+      {
+        "key": "C",
+        "text": "(C) was"
+      },
+      {
+        "key": "D",
+        "text": "(D) have"
+      }
+    ],
+    "correct": "D",
+    "translation": "Một số nhân viên đã bày tỏ sự quan tâm đến buổi đào tạo kỹ năng lãnh đạo mới.",
+    "explanation": "Cụm \"a number of + danh từ số nhiều\" mang nghĩa \"một số\", và động từ phải chia theo danh từ số nhiều \"employees\", tức là dùng \"have\" để tạo thì hiện tại hoàn thành \"have expressed\". (A) \"has\" chia số ít; (B) \"is\" và (C) \"was\" là dạng của động từ \"be\", không thể đứng trước phân từ quá khứ \"expressed\" để tạo thì hiện tại hoàn thành chủ động.",
+    "vocab": [
+      {
+        "word": "a number of",
+        "pos": "phrase",
+        "meaning": "một số, nhiều"
+      },
+      {
+        "word": "express interest in",
+        "pos": "phrase",
+        "meaning": "bày tỏ sự quan tâm đến"
+      },
+      {
+        "word": "leadership",
+        "pos": "n.",
+        "meaning": "năng lực lãnh đạo"
+      },
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi hội thảo, buổi đào tạo"
+      },
+      {
+        "word": "employee",
+        "pos": "n.",
+        "meaning": "nhân viên"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "If the shipment _______ by Friday, the store will not be able to open its seasonal department on time.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) does not arrive"
+      },
+      {
+        "key": "B",
+        "text": "(B) will not arrive"
+      },
+      {
+        "key": "C",
+        "text": "(C) did not arrive"
+      },
+      {
+        "key": "D",
+        "text": "(D) would not arrive"
+      }
+    ],
+    "correct": "A",
+    "translation": "Nếu lô hàng không đến trước thứ Sáu, cửa hàng sẽ không thể mở khu vực bán hàng theo mùa đúng hạn.",
+    "explanation": "Đây là câu điều kiện loại 1 diễn tả một khả năng thực tế trong tương lai: mệnh đề \"if\" dùng hiện tại đơn, mệnh đề chính dùng \"will + động từ\". Vì vậy \"does not arrive\" là dạng đúng. (B) không dùng \"will\" trong mệnh đề if của điều kiện loại 1; (C) quá khứ đơn tạo điều kiện loại 2 nhưng mệnh đề chính lại dùng \"will\", không tương ứng; (D) \"would\" cũng không phù hợp với cấu trúc điều kiện loại 1 đang dùng.",
+    "vocab": [
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "meaning": "lô hàng, việc gửi hàng"
+      },
+      {
+        "word": "arrive",
+        "pos": "v.",
+        "meaning": "đến, tới"
+      },
+      {
+        "word": "seasonal",
+        "pos": "adj.",
+        "meaning": "theo mùa"
+      },
+      {
+        "word": "department",
+        "pos": "n.",
+        "meaning": "khu vực, bộ phận"
+      },
+      {
+        "word": "on time",
+        "pos": "phrase",
+        "meaning": "đúng giờ, đúng hạn"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The accounting firm _______ the company's tax records since 2018.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) audits"
+      },
+      {
+        "key": "B",
+        "text": "(B) has audited"
+      },
+      {
+        "key": "C",
+        "text": "(C) audited"
+      },
+      {
+        "key": "D",
+        "text": "(D) will audit"
+      }
+    ],
+    "correct": "B",
+    "translation": "Công ty kế toán đã kiểm toán hồ sơ thuế của công ty từ năm 2018.",
+    "explanation": "Giới từ \"since 2018\" đánh dấu một hành động bắt đầu trong quá khứ và còn tiếp diễn hoặc có liên hệ đến hiện tại, nên cần thì hiện tại hoàn thành \"has audited\". (A) hiện tại đơn chỉ thói quen, không diễn tả được sự kéo dài từ 2018; (C) quá khứ đơn cho thấy hành động đã kết thúc và không còn liên hệ hiện tại; (D) tương lai đơn trái với mốc thời gian \"since 2018\".",
+    "vocab": [
+      {
+        "word": "accounting firm",
+        "pos": "n.",
+        "meaning": "công ty kế toán"
+      },
+      {
+        "word": "tax records",
+        "pos": "n.",
+        "meaning": "hồ sơ thuế"
+      },
+      {
+        "word": "audit",
+        "pos": "v.",
+        "meaning": "kiểm toán"
+      },
+      {
+        "word": "since",
+        "pos": "prep.",
+        "meaning": "từ (một mốc thời gian)"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All visitors to the construction site _______ to wear protective helmets at all times.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) require"
+      },
+      {
+        "key": "B",
+        "text": "(B) requires"
+      },
+      {
+        "key": "C",
+        "text": "(C) are requiring"
+      },
+      {
+        "key": "D",
+        "text": "(D) are required"
+      }
+    ],
+    "correct": "D",
+    "translation": "Tất cả khách đến công trường xây dựng đều được yêu cầu đội mũ bảo hộ trong suốt thời gian ở đó.",
+    "explanation": "Cấu trúc \"be required to do something\" nghĩa là \"được yêu cầu làm gì\". Chủ ngữ \"All visitors\" là số nhiều và là đối tượng được yêu cầu, nên dùng \"are required to wear\". (A) và (B) là chủ động, cần tân ngữ chỉ người/vật bị yêu cầu nhưng ở đây không có; (C) hiện tại tiếp diễn chủ động không diễn tả được quan hệ bị động và không hợp nghĩa.",
+    "vocab": [
+      {
+        "word": "construction site",
+        "pos": "n.",
+        "meaning": "công trường xây dựng"
+      },
+      {
+        "word": "protective helmet",
+        "pos": "n.",
+        "meaning": "mũ bảo hộ"
+      },
+      {
+        "word": "at all times",
+        "pos": "phrase",
+        "meaning": "mọi lúc, trong suốt thời gian"
+      },
+      {
+        "word": "require",
+        "pos": "v.",
+        "meaning": "yêu cầu"
+      },
+      {
+        "word": "visitor",
+        "pos": "n.",
+        "meaning": "khách đến thăm"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The hotel _______ the sales team stayed during the trade fair offers a complimentary shuttle to the convention center.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) where"
+      },
+      {
+        "key": "B",
+        "text": "(B) which"
+      },
+      {
+        "key": "C",
+        "text": "(C) that"
+      },
+      {
+        "key": "D",
+        "text": "(D) whose"
+      }
+    ],
+    "correct": "A",
+    "translation": "Khách sạn nơi đội ngũ bán hàng lưu trú trong hội chợ thương mại có dịch vụ xe đưa đón miễn phí đến trung tâm hội nghị.",
+    "explanation": "Mệnh đề quan hệ cần bổ sung thông tin về địa điểm lưu trú. \"The hotel\" là địa điểm và cụm đầy đủ là \"the sales team stayed at the hotel\", nên dùng trạng từ quan hệ \"where\". (B) \"which\" và (C) \"that\" thay cho danh từ nhưng mệnh đề sau không có giới từ \"at\", nên câu sẽ thiếu thành phần; (D) \"whose\" chỉ sở hữu và không phù hợp với nghĩa chỉ địa điểm.",
+    "vocab": [
+      {
+        "word": "trade fair",
+        "pos": "n.",
+        "meaning": "hội chợ thương mại"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "convention center",
+        "pos": "n.",
+        "meaning": "trung tâm hội nghị"
+      },
+      {
+        "word": "stay",
+        "pos": "v.",
+        "meaning": "lưu trú"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "_______ the delay in receiving the raw materials, the production line was able to meet its monthly target.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Because"
+      },
+      {
+        "key": "B",
+        "text": "(B) In spite"
+      },
+      {
+        "key": "C",
+        "text": "(C) Despite"
+      },
+      {
+        "key": "D",
+        "text": "(D) Although"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mặc dù việc nhận nguyên liệu bị chậm trễ, dây chuyền sản xuất vẫn có thể đạt chỉ tiêu hằng tháng.",
+    "explanation": "Sau chỗ trống là cụm danh từ \"the delay in receiving the raw materials\", nên cần một giới từ hoặc cụm giới từ đứng trước danh từ. \"Despite\" có nghĩa \"mặc dù\" và đi với danh từ/cụm danh từ, phù hợp với quan hệ tương phản trong câu. (A) \"Because\" cần mệnh đề và mang nghĩa nguyên nhân; (B) \"In spite\" phải có \"of\" mới đứng được trước danh từ; (D) \"Although\" cần mệnh đề đầy đủ.",
+    "vocab": [
+      {
+        "word": "delay",
+        "pos": "n.",
+        "meaning": "sự chậm trễ"
+      },
+      {
+        "word": "raw materials",
+        "pos": "n.",
+        "meaning": "nguyên liệu thô"
+      },
+      {
+        "word": "production line",
+        "pos": "n.",
+        "meaning": "dây chuyền sản xuất"
+      },
+      {
+        "word": "meet a target",
+        "pos": "phrase",
+        "meaning": "đạt chỉ tiêu"
+      },
+      {
+        "word": "monthly",
+        "pos": "adj.",
+        "meaning": "hằng tháng"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "To avoid disappointing customers during the holiday season, the retailer decided to _______ additional inventory of the most popular items.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) take"
+      },
+      {
+        "key": "B",
+        "text": "(B) make"
+      },
+      {
+        "key": "C",
+        "text": "(C) do"
+      },
+      {
+        "key": "D",
+        "text": "(D) stock"
+      }
+    ],
+    "correct": "D",
+    "translation": "Để tránh làm khách hàng thất vọng trong mùa lễ, nhà bán lẻ quyết định dự trữ thêm hàng tồn kho cho những mặt hàng bán chạy nhất.",
+    "explanation": "Cụm \"stock inventory\" là cách diễn đạt cố định trong kinh doanh, nghĩa là \"dự trữ hàng tồn kho\". Ở đây nhà bán lẻ chủ động nhập thêm hàng để đáp ứng nhu cầu, nên \"stock\" phù hợp nhất. (A) \"take inventory\" có nghĩa là kiểm kê hàng hóa, không phải nhập thêm; (B) \"make\" và (C) \"do\" không tạo thành cụm tự nhiên với \"inventory\" trong ngữ cảnh này.",
+    "vocab": [
+      {
+        "word": "retailer",
+        "pos": "n.",
+        "meaning": "nhà bán lẻ"
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "meaning": "hàng tồn kho"
+      },
+      {
+        "word": "stock",
+        "pos": "v.",
+        "meaning": "dự trữ, nhập hàng"
+      },
+      {
+        "word": "disappoint",
+        "pos": "v.",
+        "meaning": "làm thất vọng"
+      },
+      {
+        "word": "popular",
+        "pos": "adj.",
+        "meaning": "phổ biến, được ưa chuộng"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Before submitting the quarterly report, the analyst must _______ the figures with the records provided by the accounting department.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) negotiate"
+      },
+      {
+        "key": "B",
+        "text": "(B) reconcile"
+      },
+      {
+        "key": "C",
+        "text": "(C) distribute"
+      },
+      {
+        "key": "D",
+        "text": "(D) estimate"
+      }
+    ],
+    "correct": "B",
+    "translation": "Trước khi nộp báo cáo quý, chuyên viên phân tích phải đối chiếu các con số với hồ sơ do phòng kế toán cung cấp.",
+    "explanation": "\"Reconcile the figures with the records\" là cụm nghiệp vụ có nghĩa \"đối chiếu các con số với hồ sơ để bảo đảm khớp nhau\", rất phù hợp trước khi nộp báo cáo tài chính. (A) \"negotiate\" là đàm phán; (C) \"distribute\" là phân phối; (D) \"estimate\" là ước tính — cả ba không diễn tả thao tác kiểm tra tính khớp của số liệu với hồ sơ.",
+    "vocab": [
+      {
+        "word": "quarterly",
+        "pos": "adj.",
+        "meaning": "hằng quý"
+      },
+      {
+        "word": "analyst",
+        "pos": "n.",
+        "meaning": "chuyên viên phân tích"
+      },
+      {
+        "word": "reconcile",
+        "pos": "v.",
+        "meaning": "đối chiếu, làm khớp"
+      },
+      {
+        "word": "figure",
+        "pos": "n.",
+        "meaning": "con số, số liệu"
+      },
+      {
+        "word": "accounting department",
+        "pos": "n.",
+        "meaning": "phòng kế toán"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The travel coordinator emailed the final _______ to all attendees, including flight times and hotel reservations.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) receipt"
+      },
+      {
+        "key": "B",
+        "text": "(B) agenda"
+      },
+      {
+        "key": "C",
+        "text": "(C) itinerary"
+      },
+      {
+        "key": "D",
+        "text": "(D) destination"
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều phối viên du lịch đã gửi lịch trình chi tiết cuối cùng cho tất cả người tham dự, bao gồm giờ bay và đặt phòng khách sạn.",
+    "explanation": "\"Itinerary\" là lịch trình chuyến đi, gồm thời gian di chuyển, nơi ở và các hoạt động — đúng với phần liệt kê \"flight times and hotel reservations\". (A) \"receipt\" là biên lai thanh toán; (B) \"agenda\" là chương trình nghị sự của cuộc họp, không bao quát vé máy bay và khách sạn; (D) \"destination\" chỉ là điểm đến, không phải toàn bộ lịch trình.",
+    "vocab": [
+      {
+        "word": "travel coordinator",
+        "pos": "n.",
+        "meaning": "điều phối viên du lịch"
+      },
+      {
+        "word": "itinerary",
+        "pos": "n.",
+        "meaning": "lịch trình chuyến đi"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      },
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "meaning": "việc đặt chỗ"
+      },
+      {
+        "word": "flight",
+        "pos": "n.",
+        "meaning": "chuyến bay"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The workshop was designed to give new managers _______ experience in handling employee conflicts.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) hands-on"
+      },
+      {
+        "key": "B",
+        "text": "(B) hand-in"
+      },
+      {
+        "key": "C",
+        "text": "(C) hand-made"
+      },
+      {
+        "key": "D",
+        "text": "(D) hand-held"
+      }
+    ],
+    "correct": "A",
+    "translation": "Buổi đào tạo được thiết kế để mang lại cho các quản lý mới trải nghiệm thực hành trong việc xử lý xung đột giữa nhân viên.",
+    "explanation": "\"Hands-on experience\" là cụm cố định nghĩa là \"kinh nghiệm thực hành trực tiếp\", phù hợp với mục tiêu của một buổi đào tạo kỹ năng. (B) \"hand-in\" thường dùng trong cụm \"hand in\" (nộp bài), không phải tính từ ghép này; (C) \"hand-made\" là làm thủ công; (D) \"hand-held\" là cầm tay — cả ba không kết hợp với \"experience\" để chỉ trải nghiệm thực hành.",
+    "vocab": [
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi đào tạo, hội thảo"
+      },
+      {
+        "word": "hands-on",
+        "pos": "adj.",
+        "meaning": "thực hành trực tiếp"
+      },
+      {
+        "word": "handle",
+        "pos": "v.",
+        "meaning": "xử lý, giải quyết"
+      },
+      {
+        "word": "conflict",
+        "pos": "n.",
+        "meaning": "xung đột, mâu thuẫn"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The contractor assured the client that all work would _______ with the latest safety regulations.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) compare"
+      },
+      {
+        "key": "B",
+        "text": "(B) relate"
+      },
+      {
+        "key": "C",
+        "text": "(C) associate"
+      },
+      {
+        "key": "D",
+        "text": "(D) comply"
+      }
+    ],
+    "correct": "D",
+    "translation": "Nhà thầu cam đoan với khách hàng rằng mọi công việc sẽ tuân thủ các quy định an toàn mới nhất.",
+    "explanation": "\"Comply with\" là cụm động từ cố định nghĩa là \"tuân thủ\" quy định, luật lệ. \"Comply with the latest safety regulations\" hoàn toàn phù hợp về nghĩa và cấu trúc. (A) \"compare with\" là so sánh với; (B) \"relate to\" là liên quan đến, không đi với \"with\" theo nghĩa tuân thủ; (C) \"associate with\" là liên kết với — cả ba không diễn tả việc tuân thủ quy định.",
+    "vocab": [
+      {
+        "word": "assure",
+        "pos": "v.",
+        "meaning": "cam đoan, trấn an"
+      },
+      {
+        "word": "contractor",
+        "pos": "n.",
+        "meaning": "nhà thầu"
+      },
+      {
+        "word": "comply with",
+        "pos": "phrase",
+        "meaning": "tuân thủ"
+      },
+      {
+        "word": "safety regulation",
+        "pos": "n.",
+        "meaning": "quy định an toàn"
+      },
+      {
+        "word": "latest",
+        "pos": "adj.",
+        "meaning": "mới nhất"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Investors became concerned when the company's profits began to _______ for the third consecutive quarter.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) expand"
+      },
+      {
+        "key": "B",
+        "text": "(B) decline"
+      },
+      {
+        "key": "C",
+        "text": "(C) remain"
+      },
+      {
+        "key": "D",
+        "text": "(D) recover"
+      }
+    ],
+    "correct": "B",
+    "translation": "Các nhà đầu tư trở nên lo ngại khi lợi nhuận của công ty bắt đầu giảm trong quý thứ ba liên tiếp.",
+    "explanation": "Ngữ cảnh \"investors became concerned\" và \"for the third consecutive quarter\" cho thấy lợi nhuận đang đi theo chiều hướng xấu, nên \"decline\" (giảm) là lựa chọn hợp lý. (A) \"expand\" là mở rộng, tăng trưởng — trái nghĩa với lo ngại; (C) \"remain\" là duy trì, không diễn tả xu hướng giảm và thường cần bổ ngữ; (D) \"recover\" là phục hồi — không phù hợp với việc lo ngại kéo dài ba quý.",
+    "vocab": [
+      {
+        "word": "investor",
+        "pos": "n.",
+        "meaning": "nhà đầu tư"
+      },
+      {
+        "word": "concerned",
+        "pos": "adj.",
+        "meaning": "lo ngại"
+      },
+      {
+        "word": "profit",
+        "pos": "n.",
+        "meaning": "lợi nhuận"
+      },
+      {
+        "word": "decline",
+        "pos": "v.",
+        "meaning": "giảm, suy giảm"
+      },
+      {
+        "word": "consecutive",
+        "pos": "adj.",
+        "meaning": "liên tiếp"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Customers who are not satisfied with a purchase may _______ it for a full refund within 30 days.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) return"
+      },
+      {
+        "key": "B",
+        "text": "(B) remove"
+      },
+      {
+        "key": "C",
+        "text": "(C) refuse"
+      },
+      {
+        "key": "D",
+        "text": "(D) reject"
+      }
+    ],
+    "correct": "A",
+    "translation": "Khách hàng không hài lòng với một sản phẩm đã mua có thể trả lại hàng để được hoàn tiền toàn bộ trong vòng 30 ngày.",
+    "explanation": "\"Return an item for a refund\" là cấu trúc quen thuộc trong bán lẻ, nghĩa là \"trả lại hàng để được hoàn tiền\". Đại từ \"it\" thay cho \"a purchase\", nên \"return\" là động từ chính xác. (B) \"remove\" là di chuyển/gỡ bỏ; (C) \"refuse\" là từ chối; (D) \"reject\" là loại bỏ — không động từ nào kết hợp với \"for a full refund\" để diễn tả việc trả hàng.",
+    "vocab": [
+      {
+        "word": "satisfied with",
+        "pos": "phrase",
+        "meaning": "hài lòng với"
+      },
+      {
+        "word": "purchase",
+        "pos": "n.",
+        "meaning": "hàng đã mua, việc mua"
+      },
+      {
+        "word": "return",
+        "pos": "v.",
+        "meaning": "trả lại"
+      },
+      {
+        "word": "refund",
+        "pos": "n.",
+        "meaning": "tiền hoàn lại"
+      },
+      {
+        "word": "within",
+        "pos": "prep.",
+        "meaning": "trong vòng"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Because of the severe weather, the site supervisor decided to _______ the roof installation until the following week.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) prevent"
+      },
+      {
+        "key": "B",
+        "text": "(B) refuse"
+      },
+      {
+        "key": "C",
+        "text": "(C) postpone"
+      },
+      {
+        "key": "D",
+        "text": "(D) preserve"
+      }
+    ],
+    "correct": "C",
+    "translation": "Do thời tiết khắc nghiệt, giám sát viên công trường quyết định hoãn việc lắp đặt mái nhà đến tuần sau.",
+    "explanation": "\"Postpone something until + thời gian\" là cấu trúc nghĩa là \"hoãn việc gì đến một thời điểm khác\", rất phù hợp với quyết định do thời tiết xấu. (A) \"prevent\" là ngăn chặn, không đi với \"until\" theo cấu trúc này; (B) \"refuse\" là từ chối và cần tân ngữ phù hợp; (D) \"preserve\" là bảo quản, gìn giữ — không diễn tả việc dời lịch thi công.",
+    "vocab": [
+      {
+        "word": "severe weather",
+        "pos": "n.",
+        "meaning": "thời tiết khắc nghiệt"
+      },
+      {
+        "word": "site supervisor",
+        "pos": "n.",
+        "meaning": "giám sát viên công trường"
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "meaning": "hoãn lại"
+      },
+      {
+        "word": "roof installation",
+        "pos": "n.",
+        "meaning": "việc lắp đặt mái nhà"
+      },
+      {
+        "word": "following",
+        "pos": "adj.",
+        "meaning": "tiếp theo, sau đó"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The airline requires passengers to _______ their reservation at least 24 hours before departure.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) announce"
+      },
+      {
+        "key": "B",
+        "text": "(B) confirm"
+      },
+      {
+        "key": "C",
+        "text": "(C) declare"
+      },
+      {
+        "key": "D",
+        "text": "(D) notify"
+      }
+    ],
+    "correct": "B",
+    "translation": "Hãng hàng không yêu cầu hành khách xác nhận đặt chỗ ít nhất 24 giờ trước giờ khởi hành.",
+    "explanation": "\"Confirm a reservation\" là cụm cố định nghĩa là \"xác nhận việc đặt chỗ\", đúng nghiệp vụ hàng không và phù hợp với mốc \"at least 24 hours before departure\". (A) \"announce\" là thông báo công khai; (C) \"declare\" là khai báo (hàng hóa, thu nhập...); (D) \"notify\" là thông báo cho ai đó — không dùng trực tiếp với \"reservation\" theo nghĩa xác nhận.",
+    "vocab": [
+      {
+        "word": "airline",
+        "pos": "n.",
+        "meaning": "hãng hàng không"
+      },
+      {
+        "word": "passenger",
+        "pos": "n.",
+        "meaning": "hành khách"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "meaning": "việc đặt chỗ"
+      },
+      {
+        "word": "departure",
+        "pos": "n.",
+        "meaning": "sự khởi hành"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "At the end of the seminar, participants will be asked to _______ the effectiveness of the session by completing a short survey.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) estimate"
+      },
+      {
+        "key": "B",
+        "text": "(B) calculate"
+      },
+      {
+        "key": "C",
+        "text": "(C) produce"
+      },
+      {
+        "key": "D",
+        "text": "(D) evaluate"
+      }
+    ],
+    "correct": "D",
+    "translation": "Vào cuối buổi hội thảo, những người tham dự sẽ được yêu cầu đánh giá hiệu quả của buổi học bằng cách hoàn thành một bản khảo sát ngắn.",
+    "explanation": "\"Evaluate the effectiveness\" là cụm có nghĩa \"đánh giá hiệu quả\", phù hợp với hoạt động khảo sát cuối buổi đào tạo. (A) \"estimate\" là ước lượng (thường về số lượng, chi phí); (B) \"calculate\" là tính toán con số; (C) \"produce\" là sản xuất, tạo ra — cả ba không kết hợp tự nhiên với \"effectiveness\" trong ngữ cảnh đánh giá chất lượng buổi học.",
+    "vocab": [
+      {
+        "word": "seminar",
+        "pos": "n.",
+        "meaning": "buổi hội thảo, chuyên đề"
+      },
+      {
+        "word": "participant",
+        "pos": "n.",
+        "meaning": "người tham gia"
+      },
+      {
+        "word": "evaluate",
+        "pos": "v.",
+        "meaning": "đánh giá"
+      },
+      {
+        "word": "effectiveness",
+        "pos": "n.",
+        "meaning": "tính hiệu quả"
+      },
+      {
+        "word": "survey",
+        "pos": "n.",
+        "meaning": "bản khảo sát"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The regional sales director delivered a _______ presentation on the company's expansion plans.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) convincing"
+      },
+      {
+        "key": "B",
+        "text": "(B) convinced"
+      },
+      {
+        "key": "C",
+        "text": "(C) conviction"
+      },
+      {
+        "key": "D",
+        "text": "(D) convincingly"
+      }
+    ],
+    "correct": "A",
+    "translation": "Giám đốc bán hàng khu vực đã có một bài thuyết trình thuyết phục về các kế hoạch mở rộng của công ty.",
+    "explanation": "Trước danh từ \"presentation\" cần một tính từ bổ nghĩa. \"Convincing\" (thuyết phục, có sức thuyết phục) là tính từ đuôi -ing dùng để miêu tả sự vật, nên phù hợp với \"a convincing presentation\". (B) \"convinced\" thường miêu tả cảm giác của người (bị thuyết phục); (C) \"conviction\" là danh từ; (D) \"convincingly\" là trạng từ, không đứng trước danh từ để bổ nghĩa cho nó.",
+    "vocab": [
+      {
+        "word": "regional",
+        "pos": "adj.",
+        "meaning": "thuộc khu vực"
+      },
+      {
+        "word": "director",
+        "pos": "n.",
+        "meaning": "giám đốc"
+      },
+      {
+        "word": "convincing",
+        "pos": "adj.",
+        "meaning": "có sức thuyết phục"
+      },
+      {
+        "word": "expansion",
+        "pos": "n.",
+        "meaning": "sự mở rộng"
+      },
+      {
+        "word": "deliver a presentation",
+        "pos": "phrase",
+        "meaning": "trình bày bài thuyết trình"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The finance department has implemented a new system to improve the _______ of expense reports.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) accurate"
+      },
+      {
+        "key": "B",
+        "text": "(B) accurately"
+      },
+      {
+        "key": "C",
+        "text": "(C) accuracy"
+      },
+      {
+        "key": "D",
+        "text": "(D) accurateness"
+      }
+    ],
+    "correct": "C",
+    "translation": "Phòng tài chính đã triển khai một hệ thống mới để nâng cao độ chính xác của các báo cáo chi phí.",
+    "explanation": "Sau mạo từ \"the\" và trước giới từ \"of\" cần một danh từ, và \"accuracy\" (độ chính xác) là danh từ chuẩn của tính từ \"accurate\". (A) \"accurate\" là tính từ; (B) \"accurately\" là trạng từ; (D) \"accurateness\" không phải dạng danh từ thông dụng trong ngữ cảnh này, trong khi \"accuracy\" là lựa chọn tự nhiên và chính xác.",
+    "vocab": [
+      {
+        "word": "implement",
+        "pos": "v.",
+        "meaning": "triển khai, thực hiện"
+      },
+      {
+        "word": "improve",
+        "pos": "v.",
+        "meaning": "cải thiện, nâng cao"
+      },
+      {
+        "word": "accuracy",
+        "pos": "n.",
+        "meaning": "độ chính xác"
+      },
+      {
+        "word": "expense report",
+        "pos": "n.",
+        "meaning": "báo cáo chi phí"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The construction crew worked _______ to complete the foundation before the storm arrived.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) rapid"
+      },
+      {
+        "key": "B",
+        "text": "(B) rapidly"
+      },
+      {
+        "key": "C",
+        "text": "(C) rapidity"
+      },
+      {
+        "key": "D",
+        "text": "(D) rapids"
+      }
+    ],
+    "correct": "B",
+    "translation": "Đội thi công đã làm việc nhanh chóng để hoàn thành phần móng trước khi cơn bão đến.",
+    "explanation": "Trạng từ bổ nghĩa cho động từ \"worked\", nên cần dạng trạng từ \"rapidly\" (một cách nhanh chóng). (A) \"rapid\" là tính từ; (C) \"rapidity\" là danh từ; (D) \"rapids\" là danh từ chỉ ghềnh thác — không dạng nào phù hợp để bổ nghĩa cho động từ.",
+    "vocab": [
+      {
+        "word": "construction crew",
+        "pos": "n.",
+        "meaning": "đội thi công"
+      },
+      {
+        "word": "rapidly",
+        "pos": "adv.",
+        "meaning": "một cách nhanh chóng"
+      },
+      {
+        "word": "foundation",
+        "pos": "n.",
+        "meaning": "phần móng"
+      },
+      {
+        "word": "storm",
+        "pos": "n.",
+        "meaning": "cơn bão"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The company's new hiring policy aims to increase workplace _______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) diverse"
+      },
+      {
+        "key": "B",
+        "text": "(B) diversify"
+      },
+      {
+        "key": "C",
+        "text": "(C) diversely"
+      },
+      {
+        "key": "D",
+        "text": "(D) diversity"
+      }
+    ],
+    "correct": "D",
+    "translation": "Chính sách tuyển dụng mới của công ty nhằm tăng cường sự đa dạng tại nơi làm việc.",
+    "explanation": "Sau động từ \"increase\" cần một tân ngữ là danh từ, và \"diversity\" (sự đa dạng) là danh từ phù hợp với cụm \"workplace diversity\". (A) \"diverse\" là tính từ; (B) \"diversify\" là động từ; (C) \"diversely\" là trạng từ — không thể làm tân ngữ cho \"increase\" trong câu này.",
+    "vocab": [
+      {
+        "word": "hiring policy",
+        "pos": "n.",
+        "meaning": "chính sách tuyển dụng"
+      },
+      {
+        "word": "aim to",
+        "pos": "phrase",
+        "meaning": "nhằm mục đích"
+      },
+      {
+        "word": "increase",
+        "pos": "v.",
+        "meaning": "tăng cường, làm tăng"
+      },
+      {
+        "word": "workplace",
+        "pos": "n.",
+        "meaning": "nơi làm việc"
+      },
+      {
+        "word": "diversity",
+        "pos": "n.",
+        "meaning": "sự đa dạng"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The manager was impressed by the candidate's ability to communicate _______ with clients from different backgrounds.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) effectively"
+      },
+      {
+        "key": "B",
+        "text": "(B) effective"
+      },
+      {
+        "key": "C",
+        "text": "(C) effectiveness"
+      },
+      {
+        "key": "D",
+        "text": "(D) effect"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người quản lý rất ấn tượng với khả năng giao tiếp hiệu quả của ứng viên với khách hàng đến từ nhiều nền tảng khác nhau.",
+    "explanation": "Động từ \"communicate\" cần trạng từ bổ nghĩa, nên \"effectively\" (một cách hiệu quả) là đáp án đúng. (B) \"effective\" là tính từ, không bổ nghĩa cho động từ; (C) \"effectiveness\" là danh từ; (D) \"effect\" là danh từ/động từ với nghĩa khác, không phù hợp ở vị trí này.",
+    "vocab": [
+      {
+        "word": "be impressed by",
+        "pos": "phrase",
+        "meaning": "ấn tượng với"
+      },
+      {
+        "word": "candidate",
+        "pos": "n.",
+        "meaning": "ứng viên"
+      },
+      {
+        "word": "communicate",
+        "pos": "v.",
+        "meaning": "giao tiếp"
+      },
+      {
+        "word": "background",
+        "pos": "n.",
+        "meaning": "nền tảng, xuất thân"
+      },
+      {
+        "word": "effectively",
+        "pos": "adv.",
+        "meaning": "một cách hiệu quả"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The _______ of the new software reduced the time needed to process customer orders.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) implement"
+      },
+      {
+        "key": "B",
+        "text": "(B) implemented"
+      },
+      {
+        "key": "C",
+        "text": "(C) implementation"
+      },
+      {
+        "key": "D",
+        "text": "(D) implementing"
+      }
+    ],
+    "correct": "C",
+    "translation": "Việc triển khai phần mềm mới đã rút ngắn thời gian cần thiết để xử lý đơn hàng của khách.",
+    "explanation": "Chủ ngữ của câu cần một danh từ, và \"the implementation of the new software\" nghĩa là \"việc triển khai phần mềm mới\". \"Implementation\" là danh từ đúng. (A) \"implement\" là động từ nguyên mẫu; (B) \"implemented\" là động từ/tính từ; (D) \"implementing\" là dạng V-ing, có thể dùng như danh từ nhưng \"the implementing of\" không tự nhiên bằng \"the implementation of\" và không phù hợp với cấu trúc chuẩn ở đây.",
+    "vocab": [
+      {
+        "word": "implementation",
+        "pos": "n.",
+        "meaning": "sự triển khai"
+      },
+      {
+        "word": "reduce",
+        "pos": "v.",
+        "meaning": "làm giảm, rút ngắn"
+      },
+      {
+        "word": "process",
+        "pos": "v.",
+        "meaning": "xử lý"
+      },
+      {
+        "word": "customer order",
+        "pos": "n.",
+        "meaning": "đơn hàng của khách"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Before signing the contract, the client requested a more detailed _______ of the project timeline.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) explanation"
+      },
+      {
+        "key": "B",
+        "text": "(B) explain"
+      },
+      {
+        "key": "C",
+        "text": "(C) explanatory"
+      },
+      {
+        "key": "D",
+        "text": "(D) explained"
+      }
+    ],
+    "correct": "A",
+    "translation": "Trước khi ký hợp đồng, khách hàng yêu cầu một lời giải thích chi tiết hơn về tiến độ dự án.",
+    "explanation": "Sau tính từ \"detailed\" và trước giới từ \"of\" cần một danh từ. \"Explanation\" (lời giải thích) là danh từ đúng, tạo thành cụm \"a more detailed explanation of the project timeline\". (B) \"explain\" là động từ; (C) \"explanatory\" là tính từ; (D) \"explained\" là động từ/phân từ — không phù hợp ở vị trí cần danh từ.",
+    "vocab": [
+      {
+        "word": "sign a contract",
+        "pos": "phrase",
+        "meaning": "ký hợp đồng"
+      },
+      {
+        "word": "client",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      },
+      {
+        "word": "detailed",
+        "pos": "adj.",
+        "meaning": "chi tiết"
+      },
+      {
+        "word": "explanation",
+        "pos": "n.",
+        "meaning": "lời giải thích"
+      },
+      {
+        "word": "timeline",
+        "pos": "n.",
+        "meaning": "tiến độ, dòng thời gian"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The workshop received _______ feedback from participants, many of whom requested a follow-up session.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) favor"
+      },
+      {
+        "key": "B",
+        "text": "(B) favorably"
+      },
+      {
+        "key": "C",
+        "text": "(C) favorite"
+      },
+      {
+        "key": "D",
+        "text": "(D) favorable"
+      }
+    ],
+    "correct": "D",
+    "translation": "Buổi đào tạo đã nhận được phản hồi tích cực từ những người tham gia, nhiều người trong số họ yêu cầu tổ chức thêm một buổi tiếp theo.",
+    "explanation": "Trước danh từ \"feedback\" cần một tính từ bổ nghĩa. \"Favorable\" nghĩa là \"tích cực, thuận lợi\", phù hợp với việc nhiều người muốn có thêm buổi học. (A) \"favor\" là danh từ/động từ; (B) \"favorably\" là trạng từ; (C) \"favorite\" nghĩa là \"được yêu thích nhất\" và không diễn tả đánh giá tích cực nói chung.",
+    "vocab": [
+      {
+        "word": "feedback",
+        "pos": "n.",
+        "meaning": "phản hồi"
+      },
+      {
+        "word": "participant",
+        "pos": "n.",
+        "meaning": "người tham gia"
+      },
+      {
+        "word": "follow-up",
+        "pos": "adj.",
+        "meaning": "tiếp theo, bổ sung"
+      },
+      {
+        "word": "favorable",
+        "pos": "adj.",
+        "meaning": "tích cực, thuận lợi"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, phiên họp"
+      }
+    ]
+  }
+]

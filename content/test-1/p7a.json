@@ -1,0 +1,1655 @@
+[
+  {
+    "id": 147,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Daniel Okafor, Purchasing Manager, Larkin Interiors<br><strong>From:</strong> Priya Raman, Logistics Coordinator, Bluewave Freight<br><strong>Date:</strong> 4 March<br><strong>Subject:</strong> Shipment BW-4471 — revised delivery schedule</p>\n<p>Dear Mr. Okafor,</p>\n<p>I am writing to update you on your order of 24 pallets of ceramic tiles, which left our warehouse in Valencia on 28 February. Because of continued congestion at the Port of Oakland, the vessel carrying your shipment will now dock at Long Beach. From there, the containers will travel by truck to your Sacramento facility, adding approximately four days to the original schedule.</p>\n<p>We expect delivery on 14 March. However, six of the pallets contain display samples for your trade show in San Diego on 12 March. If those samples are needed earlier, we can arrange air freight to San Diego for a 35 percent surcharge. The remaining 18 pallets would still arrive by truck on 14 March.</p>\n<p>Please let me know by Thursday at 5 p.m. whether you would like us to book the air service. I have attached a revised cost estimate for your review.</p>\n<p>Kind regards,<br>Priya Raman</p>",
+    "questionText": "What is the main purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To request payment for an overdue invoice"
+      },
+      {
+        "key": "B",
+        "text": "(B) To explain a delay and offer a faster delivery option"
+      },
+      {
+        "key": "C",
+        "text": "(C) To confirm that an order has been canceled"
+      },
+      {
+        "key": "D",
+        "text": "(D) To recommend a different tile supplier"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của e-mail là gì? (A) Yêu cầu thanh toán một hóa đơn quá hạn (B) Giải thích một sự chậm trễ và đưa ra phương án giao hàng nhanh hơn (C) Xác nhận rằng một đơn hàng đã bị hủy (D) Đề xuất một nhà cung cấp gạch khác.",
+    "explanation": "Đáp án B. Người viết nói rõ mục đích là cập nhật tình hình đơn hàng: \"I am writing to update you on your order...\" và giải thích việc tàu đổi cảng khiến thời gian giao \"adding approximately four days\". Sau đó, bà đề nghị \"we can arrange air freight to San Diego\" — một lựa chọn nhanh hơn cho sáu pallet. A sai vì thư không nhắc hóa đơn hay thanh toán. C sai vì đơn hàng vẫn được giao, chỉ thay đổi lịch trình. D sai vì Bluewave là công ty vận chuyển, không phải nhà cung cấp gạch.",
+    "vocab": [
+      {
+        "word": "pallet",
+        "pos": "n.",
+        "meaning": "tấm kê hàng, kiện hàng trên pallet"
+      },
+      {
+        "word": "congestion",
+        "pos": "n.",
+        "meaning": "sự tắc nghẽn, ùn tắc"
+      },
+      {
+        "word": "vessel",
+        "pos": "n.",
+        "meaning": "tàu lớn, tàu chở hàng"
+      },
+      {
+        "word": "surcharge",
+        "pos": "n.",
+        "meaning": "phụ phí"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được sửa đổi, cập nhật"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Daniel Okafor, Purchasing Manager, Larkin Interiors<br><strong>From:</strong> Priya Raman, Logistics Coordinator, Bluewave Freight<br><strong>Date:</strong> 4 March<br><strong>Subject:</strong> Shipment BW-4471 — revised delivery schedule</p>\n<p>Dear Mr. Okafor,</p>\n<p>I am writing to update you on your order of 24 pallets of ceramic tiles, which left our warehouse in Valencia on 28 February. Because of continued congestion at the Port of Oakland, the vessel carrying your shipment will now dock at Long Beach. From there, the containers will travel by truck to your Sacramento facility, adding approximately four days to the original schedule.</p>\n<p>We expect delivery on 14 March. However, six of the pallets contain display samples for your trade show in San Diego on 12 March. If those samples are needed earlier, we can arrange air freight to San Diego for a 35 percent surcharge. The remaining 18 pallets would still arrive by truck on 14 March.</p>\n<p>Please let me know by Thursday at 5 p.m. whether you would like us to book the air service. I have attached a revised cost estimate for your review.</p>\n<p>Kind regards,<br>Priya Raman</p>",
+    "questionText": "Why does Ms. Raman mention the trade show?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To invite Mr. Okafor to attend it"
+      },
+      {
+        "key": "B",
+        "text": "(B) To complain about the event organizer"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain why six pallets may need expedited delivery"
+      },
+      {
+        "key": "D",
+        "text": "(D) To suggest that the event should be postponed"
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao bà Raman nhắc đến hội chợ thương mại? (A) Để mời ông Okafor tham dự (B) Để phàn nàn về đơn vị tổ chức sự kiện (C) Để giải thích vì sao sáu pallet có thể cần được giao gấp (D) Để đề nghị hoãn sự kiện.",
+    "explanation": "Đáp án C. Bà Raman cho biết sáu pallet chứa \"display samples for your trade show in San Diego on 12 March\", rồi ngay sau đó đề nghị chuyển hàng không nếu số mẫu này \"needed earlier\". Như vậy hội chợ là lý do khiến nhóm hàng đó có thể phải giao gấp. A sai vì thư không mời ông Okafor dự hội chợ. B sai vì không có lời phàn nàn nào về ban tổ chức. D sai vì không ai đề nghị hoãn hội chợ.",
+    "vocab": [
+      {
+        "word": "display sample",
+        "pos": "n. phr.",
+        "meaning": "mẫu trưng bày"
+      },
+      {
+        "word": "expedite",
+        "pos": "v.",
+        "meaning": "đẩy nhanh, giao gấp"
+      },
+      {
+        "word": "trade show",
+        "pos": "n. phr.",
+        "meaning": "hội chợ thương mại"
+      },
+      {
+        "word": "remaining",
+        "pos": "adj.",
+        "meaning": "còn lại"
+      },
+      {
+        "word": "cost estimate",
+        "pos": "n. phr.",
+        "meaning": "bảng dự toán chi phí"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 147-149 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Daniel Okafor, Purchasing Manager, Larkin Interiors<br><strong>From:</strong> Priya Raman, Logistics Coordinator, Bluewave Freight<br><strong>Date:</strong> 4 March<br><strong>Subject:</strong> Shipment BW-4471 — revised delivery schedule</p>\n<p>Dear Mr. Okafor,</p>\n<p>I am writing to update you on your order of 24 pallets of ceramic tiles, which left our warehouse in Valencia on 28 February. Because of continued congestion at the Port of Oakland, the vessel carrying your shipment will now dock at Long Beach. From there, the containers will travel by truck to your Sacramento facility, adding approximately four days to the original schedule.</p>\n<p>We expect delivery on 14 March. However, six of the pallets contain display samples for your trade show in San Diego on 12 March. If those samples are needed earlier, we can arrange air freight to San Diego for a 35 percent surcharge. The remaining 18 pallets would still arrive by truck on 14 March.</p>\n<p>Please let me know by Thursday at 5 p.m. whether you would like us to book the air service. I have attached a revised cost estimate for your review.</p>\n<p>Kind regards,<br>Priya Raman</p>",
+    "questionText": "What is Mr. Okafor asked to do by Thursday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Decide whether to approve air freight"
+      },
+      {
+        "key": "B",
+        "text": "(B) Send a different delivery address"
+      },
+      {
+        "key": "C",
+        "text": "(C) Pay the outstanding shipping invoice"
+      },
+      {
+        "key": "D",
+        "text": "(D) Collect the containers at the Port of Long Beach"
+      }
+    ],
+    "correct": "A",
+    "translation": "Ông Okafor được yêu cầu làm gì trước thứ Năm? (A) Quyết định có chấp thuận vận chuyển bằng đường hàng không hay không (B) Gửi một địa chỉ giao hàng khác (C) Thanh toán hóa đơn vận chuyển còn tồn đọng (D) Nhận các container tại cảng Long Beach.",
+    "explanation": "Đáp án A. Cuối thư có câu: \"Please let me know by Thursday at 5 p.m. whether you would like us to book the air service.\" Đây chính là yêu cầu quyết định có dùng dịch vụ hàng không hay không. B sai vì không ai yêu cầu đổi địa chỉ; xe tải vẫn đến Sacramento. C sai vì thư chỉ gửi bảng dự toán, không đòi thanh toán. D sai vì Bluewave lo việc vận chuyển, không yêu cầu khách đến cảng nhận container.",
+    "vocab": [
+      {
+        "word": "book",
+        "pos": "v.",
+        "meaning": "đặt dịch vụ"
+      },
+      {
+        "word": "air freight",
+        "pos": "n. phr.",
+        "meaning": "vận tải hàng hóa bằng đường hàng không"
+      },
+      {
+        "word": "outstanding",
+        "pos": "adj.",
+        "meaning": "còn tồn đọng, chưa thanh toán"
+      },
+      {
+        "word": "container",
+        "pos": "n.",
+        "meaning": "container, thùng hàng lớn"
+      },
+      {
+        "word": "attach",
+        "pos": "v.",
+        "meaning": "đính kèm"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>NOTICE TO ALL STAFF — THIRD-FLOOR RENOVATION</strong></p>\n<p>Beginning Monday, 6 October, the west wing of the third floor will be closed for electrical and flooring work. The project is expected to last three weeks. During this period, employees in Accounting and Payroll will move to the training room on the second floor. The Sales team, which currently occupies the east wing, will not be affected.</p>\n<p>Please pack any personal belongings into the labeled boxes that Facilities will deliver to your desks on Friday, 3 October. Items left on shelves or in unlocked drawers cannot be protected, so remove all valuables before you leave on Friday. Boxes will be moved by the facilities crew on Saturday morning; do not attempt to carry them yourself.</p>\n<p>Printers and copiers on the third floor will be unavailable until 27 October. A temporary printer has been installed near the second-floor kitchen. For questions about the schedule, contact Facilities at extension 214.</p>\n<p>We appreciate your cooperation.</p>",
+    "questionText": "What is the main purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce new employee orientation dates"
+      },
+      {
+        "key": "B",
+        "text": "(B) To describe a new security system"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request suggestions for a building redesign"
+      },
+      {
+        "key": "D",
+        "text": "(D) To inform employees about a temporary office relocation"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục đích chính của thông báo là gì? (A) Thông báo ngày định hướng nhân viên mới (B) Mô tả một hệ thống an ninh mới (C) Yêu cầu góp ý cho việc thiết kế lại tòa nhà (D) Thông báo cho nhân viên về việc tạm thời chuyển văn phòng.",
+    "explanation": "Đáp án D. Thông báo cho biết tầng ba phía tây sẽ đóng cửa để sửa điện và sàn, đồng thời nêu rõ \"employees in Accounting and Payroll will move to the training room on the second floor\". Đó là việc di dời tạm thời. A sai vì không có hoạt động định hướng nhân viên mới. B sai vì không nhắc hệ thống an ninh. C sai vì thông báo cung cấp chỉ dẫn, không kêu gọi góp ý thiết kế.",
+    "vocab": [
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "meaning": "việc cải tạo, sửa chữa lớn"
+      },
+      {
+        "word": "wing",
+        "pos": "n.",
+        "meaning": "khu vực, cánh của một tòa nhà"
+      },
+      {
+        "word": "facilities",
+        "pos": "n.",
+        "meaning": "bộ phận cơ sở vật chất"
+      },
+      {
+        "word": "belongings",
+        "pos": "n. pl.",
+        "meaning": "đồ dùng cá nhân"
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "meaning": "tạm thời"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>NOTICE TO ALL STAFF — THIRD-FLOOR RENOVATION</strong></p>\n<p>Beginning Monday, 6 October, the west wing of the third floor will be closed for electrical and flooring work. The project is expected to last three weeks. During this period, employees in Accounting and Payroll will move to the training room on the second floor. The Sales team, which currently occupies the east wing, will not be affected.</p>\n<p>Please pack any personal belongings into the labeled boxes that Facilities will deliver to your desks on Friday, 3 October. Items left on shelves or in unlocked drawers cannot be protected, so remove all valuables before you leave on Friday. Boxes will be moved by the facilities crew on Saturday morning; do not attempt to carry them yourself.</p>\n<p>Printers and copiers on the third floor will be unavailable until 27 October. A temporary printer has been installed near the second-floor kitchen. For questions about the schedule, contact Facilities at extension 214.</p>\n<p>We appreciate your cooperation.</p>",
+    "questionText": "What are employees asked to do before leaving on Friday?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Move their furniture to the second floor"
+      },
+      {
+        "key": "B",
+        "text": "(B) Pack personal items and remove valuables"
+      },
+      {
+        "key": "C",
+        "text": "(C) Submit requests for new desks"
+      },
+      {
+        "key": "D",
+        "text": "(D) Work from home for three weeks"
+      }
+    ],
+    "correct": "B",
+    "translation": "Nhân viên được yêu cầu làm gì trước khi rời đi vào thứ Sáu? (A) Chuyển nội thất của họ xuống tầng hai (B) Đóng gói đồ cá nhân và mang theo vật có giá trị (C) Gửi yêu cầu về bàn làm việc mới (D) Làm việc tại nhà trong ba tuần.",
+    "explanation": "Đáp án B. Thông báo hướng dẫn: \"Please pack any personal belongings into the labeled boxes...\" và \"remove all valuables before you leave on Friday\". A sai vì thông báo nói rõ Facilities sẽ chuyển các thùng vào sáng thứ Bảy và nhân viên \"do not attempt to carry them yourself\". C sai vì không có mẫu yêu cầu bàn mới. D sai vì không đề cập làm việc tại nhà.",
+    "vocab": [
+      {
+        "word": "pack",
+        "pos": "v.",
+        "meaning": "đóng gói, xếp đồ"
+      },
+      {
+        "word": "labeled",
+        "pos": "adj.",
+        "meaning": "có dán nhãn"
+      },
+      {
+        "word": "valuables",
+        "pos": "n. pl.",
+        "meaning": "vật có giá trị"
+      },
+      {
+        "word": "drawer",
+        "pos": "n.",
+        "meaning": "ngăn kéo"
+      },
+      {
+        "word": "crew",
+        "pos": "n.",
+        "meaning": "đội, nhóm nhân viên"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 150-152 refer to the following notice:",
+    "passageHtml": "<p><strong>NOTICE TO ALL STAFF — THIRD-FLOOR RENOVATION</strong></p>\n<p>Beginning Monday, 6 October, the west wing of the third floor will be closed for electrical and flooring work. The project is expected to last three weeks. During this period, employees in Accounting and Payroll will move to the training room on the second floor. The Sales team, which currently occupies the east wing, will not be affected.</p>\n<p>Please pack any personal belongings into the labeled boxes that Facilities will deliver to your desks on Friday, 3 October. Items left on shelves or in unlocked drawers cannot be protected, so remove all valuables before you leave on Friday. Boxes will be moved by the facilities crew on Saturday morning; do not attempt to carry them yourself.</p>\n<p>Printers and copiers on the third floor will be unavailable until 27 October. A temporary printer has been installed near the second-floor kitchen. For questions about the schedule, contact Facilities at extension 214.</p>\n<p>We appreciate your cooperation.</p>",
+    "questionText": "Where will Accounting and Payroll employees work during the project?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In the east wing of the third floor"
+      },
+      {
+        "key": "B",
+        "text": "(B) Near the second-floor kitchen"
+      },
+      {
+        "key": "C",
+        "text": "(C) In the training room on the second floor"
+      },
+      {
+        "key": "D",
+        "text": "(D) In a temporary office downtown"
+      }
+    ],
+    "correct": "C",
+    "translation": "Nhân viên Kế toán và Tính lương sẽ làm việc ở đâu trong thời gian thi công? (A) Ở cánh đông tầng ba (B) Gần bếp tầng hai (C) Trong phòng đào tạo ở tầng hai (D) Trong một văn phòng tạm ở trung tâm thành phố.",
+    "explanation": "Đáp án C. Thông báo ghi: \"employees in Accounting and Payroll will move to the training room on the second floor.\" A sai vì cánh đông tầng ba là nơi nhóm Sales đang làm và không bị ảnh hưởng. B sai vì gần bếp tầng hai chỉ là chỗ đặt máy in tạm. D sai vì không có văn phòng tạm ở trung tâm thành phố.",
+    "vocab": [
+      {
+        "word": "accounting",
+        "pos": "n.",
+        "meaning": "kế toán"
+      },
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "meaning": "bảng lương, bộ phận tính lương"
+      },
+      {
+        "word": "occupy",
+        "pos": "v.",
+        "meaning": "chiếm giữ, sử dụng"
+      },
+      {
+        "word": "unavailable",
+        "pos": "adj.",
+        "meaning": "không sẵn có, không dùng được"
+      },
+      {
+        "word": "extension",
+        "pos": "n.",
+        "meaning": "số máy lẻ"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following advertisement:",
+    "passageHtml": "<p><strong>Ridgeway Foods — Inventory Control Specialist</strong></p>\n<p>Ridgeway Foods is seeking an Inventory Control Specialist for its distribution center in Columbus, Ohio. The successful candidate will monitor stock levels, reconcile daily shipment records, and coordinate with warehouse staff to prevent shortages. This is a full-time position on the 7 a.m.–3:30 p.m. shift, Monday through Friday.</p>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>High school diploma or equivalent</li>\n<li>At least two years of experience using warehouse management software</li>\n<li>Strong attention to detail and basic spreadsheet skills</li>\n<li>Ability to lift boxes weighing up to 20 kilograms</li>\n</ul>\n<p>We offer a competitive salary, health insurance from the first day of employment, and three weeks of paid vacation. Training on our new scanning system will be provided.</p>\n<p>To apply, visit ridgewayfoods.com/careers and submit a résumé and cover letter by 30 November. Applications sent by e-mail will not be considered. Only candidates selected for an interview will be contacted.</p>",
+    "questionText": "What is being advertised?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A job opening at a distribution center"
+      },
+      {
+        "key": "B",
+        "text": "(B) A training program for new managers"
+      },
+      {
+        "key": "C",
+        "text": "(C) A new warehouse management system"
+      },
+      {
+        "key": "D",
+        "text": "(D) A delivery service for local restaurants"
+      }
+    ],
+    "correct": "A",
+    "translation": "Nội dung đang được quảng cáo là gì? (A) Một vị trí tuyển dụng tại trung tâm phân phối (B) Một chương trình đào tạo cho quản lý mới (C) Một hệ thống quản lý kho mới (D) Một dịch vụ giao hàng cho các nhà hàng địa phương.",
+    "explanation": "Đáp án A. Tiêu đề ghi \"Ridgeway Foods — Inventory Control Specialist\" và câu đầu nói công ty \"is seeking an Inventory Control Specialist for its distribution center in Columbus, Ohio\". Đây là tin tuyển dụng. B sai vì chương trình đào tạo chỉ là một quyền lợi sau khi được nhận, không phải nội dung được quảng cáo. C sai vì phần mềm quản lý kho chỉ là yêu cầu kinh nghiệm. D sai vì không có dịch vụ giao hàng cho nhà hàng.",
+    "vocab": [
+      {
+        "word": "seek",
+        "pos": "v.",
+        "meaning": "tìm kiếm, tuyển"
+      },
+      {
+        "word": "distribution center",
+        "pos": "n. phr.",
+        "meaning": "trung tâm phân phối"
+      },
+      {
+        "word": "monitor",
+        "pos": "v.",
+        "meaning": "theo dõi, giám sát"
+      },
+      {
+        "word": "reconcile",
+        "pos": "v.",
+        "meaning": "đối chiếu, cân đối"
+      },
+      {
+        "word": "shortage",
+        "pos": "n.",
+        "meaning": "sự thiếu hụt"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following advertisement:",
+    "passageHtml": "<p><strong>Ridgeway Foods — Inventory Control Specialist</strong></p>\n<p>Ridgeway Foods is seeking an Inventory Control Specialist for its distribution center in Columbus, Ohio. The successful candidate will monitor stock levels, reconcile daily shipment records, and coordinate with warehouse staff to prevent shortages. This is a full-time position on the 7 a.m.–3:30 p.m. shift, Monday through Friday.</p>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>High school diploma or equivalent</li>\n<li>At least two years of experience using warehouse management software</li>\n<li>Strong attention to detail and basic spreadsheet skills</li>\n<li>Ability to lift boxes weighing up to 20 kilograms</li>\n</ul>\n<p>We offer a competitive salary, health insurance from the first day of employment, and three weeks of paid vacation. Training on our new scanning system will be provided.</p>\n<p>To apply, visit ridgewayfoods.com/careers and submit a résumé and cover letter by 30 November. Applications sent by e-mail will not be considered. Only candidates selected for an interview will be contacted.</p>",
+    "questionText": "What is required of applicants?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A university degree in logistics"
+      },
+      {
+        "key": "B",
+        "text": "(B) A valid driver's license"
+      },
+      {
+        "key": "C",
+        "text": "(C) Fluency in Spanish"
+      },
+      {
+        "key": "D",
+        "text": "(D) At least two years of experience with warehouse management software"
+      }
+    ],
+    "correct": "D",
+    "translation": "Ứng viên phải đáp ứng yêu cầu gì? (A) Bằng đại học ngành logistics (B) Giấy phép lái xe hợp lệ (C) Thành thạo tiếng Tây Ban Nha (D) Ít nhất hai năm kinh nghiệm sử dụng phần mềm quản lý kho.",
+    "explanation": "Đáp án D. Mục \"Requirements\" nêu rõ: \"At least two years of experience using warehouse management software\". A sai vì yêu cầu học vấn chỉ là \"High school diploma or equivalent\", không cần bằng đại học. B sai vì không có yêu cầu giấy phép lái xe. C sai vì không nhắc đến tiếng Tây Ban Nha.",
+    "vocab": [
+      {
+        "word": "equivalent",
+        "pos": "n.",
+        "meaning": "chứng chỉ tương đương"
+      },
+      {
+        "word": "attention to detail",
+        "pos": "n. phr.",
+        "meaning": "sự chú ý đến chi tiết"
+      },
+      {
+        "word": "spreadsheet",
+        "pos": "n.",
+        "meaning": "bảng tính điện tử"
+      },
+      {
+        "word": "competitive salary",
+        "pos": "n. phr.",
+        "meaning": "mức lương cạnh tranh"
+      },
+      {
+        "word": "candidate",
+        "pos": "n.",
+        "meaning": "ứng viên"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 153-155 refer to the following advertisement:",
+    "passageHtml": "<p><strong>Ridgeway Foods — Inventory Control Specialist</strong></p>\n<p>Ridgeway Foods is seeking an Inventory Control Specialist for its distribution center in Columbus, Ohio. The successful candidate will monitor stock levels, reconcile daily shipment records, and coordinate with warehouse staff to prevent shortages. This is a full-time position on the 7 a.m.–3:30 p.m. shift, Monday through Friday.</p>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>High school diploma or equivalent</li>\n<li>At least two years of experience using warehouse management software</li>\n<li>Strong attention to detail and basic spreadsheet skills</li>\n<li>Ability to lift boxes weighing up to 20 kilograms</li>\n</ul>\n<p>We offer a competitive salary, health insurance from the first day of employment, and three weeks of paid vacation. Training on our new scanning system will be provided.</p>\n<p>To apply, visit ridgewayfoods.com/careers and submit a résumé and cover letter by 30 November. Applications sent by e-mail will not be considered. Only candidates selected for an interview will be contacted.</p>",
+    "questionText": "How should interested candidates apply?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By sending a résumé to the company by e-mail"
+      },
+      {
+        "key": "B",
+        "text": "(B) By submitting a résumé and cover letter through the company's website"
+      },
+      {
+        "key": "C",
+        "text": "(C) By calling the human resources department"
+      },
+      {
+        "key": "D",
+        "text": "(D) By visiting the distribution center in person"
+      }
+    ],
+    "correct": "B",
+    "translation": "Ứng viên quan tâm nên nộp đơn bằng cách nào? (A) Gửi sơ yếu lý lịch cho công ty qua e-mail (B) Nộp sơ yếu lý lịch và thư xin việc qua trang web của công ty (C) Gọi điện cho bộ phận nhân sự (D) Đến trực tiếp trung tâm phân phối.",
+    "explanation": "Đáp án B. Quảng cáo hướng dẫn: \"visit ridgewayfoods.com/careers and submit a résumé and cover letter by 30 November\", tức là nộp qua trang web tuyển dụng. A sai rõ ràng vì bài ghi \"Applications sent by e-mail will not be considered\". C sai vì không có số điện thoại hay hướng dẫn gọi nhân sự. D sai vì không yêu cầu đến trực tiếp.",
+    "vocab": [
+      {
+        "word": "apply",
+        "pos": "v.",
+        "meaning": "ứng tuyển"
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "meaning": "sơ yếu lý lịch"
+      },
+      {
+        "word": "cover letter",
+        "pos": "n. phr.",
+        "meaning": "thư xin việc"
+      },
+      {
+        "word": "consider",
+        "pos": "v.",
+        "meaning": "xem xét"
+      },
+      {
+        "word": "in person",
+        "pos": "adv. phr.",
+        "meaning": "trực tiếp, đích thân"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Elena Vasquez, Event Coordinator, Halcyon Design<br><strong>From:</strong> Marcus Lee, Sales Manager, The Meridian Hotel<br><strong>Date:</strong> 12 May<br><strong>Subject:</strong> Group booking — Halcyon Design conference</p>\n<p>Dear Ms. Vasquez,</p>\n<p>Thank you for choosing The Meridian Hotel for your company's annual conference from 18 to 21 June. I am pleased to confirm the revised arrangement we discussed by phone yesterday: 40 guest rooms, including six suites, at a group rate of $185 per night. The rate includes breakfast in the Garden Restaurant and use of the executive meeting room on the fifth floor.</p>\n<p>As you requested, we have added a projector and two microphones to the meeting room at no additional cost. Our technician will test the equipment on the morning of 18 June. Guests arriving at the airport can use our complimentary shuttle, which departs every 30 minutes.</p>\n<p>To finalize the booking, please send the complete list of guests and their room preferences by 20 May. Rooms not assigned by that date will be released to other customers. If you need to make changes after the list is submitted, contact me directly at extension 407.</p>\n<p>I look forward to welcoming your team.</p>\n<p>Best regards,<br>Marcus Lee</p>",
+    "questionText": "What is the purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To apologize for an overbooking error"
+      },
+      {
+        "key": "B",
+        "text": "(B) To advertise a new hotel restaurant"
+      },
+      {
+        "key": "C",
+        "text": "(C) To confirm the details of a group booking"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request payment for a conference"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích của e-mail là gì? (A) Xin lỗi vì lỗi đặt phòng quá mức (B) Quảng cáo nhà hàng mới của khách sạn (C) Xác nhận chi tiết một đặt phòng theo đoàn (D) Yêu cầu thanh toán cho hội nghị.",
+    "explanation": "Đáp án C. Ông Lee viết: \"I am pleased to confirm the revised arrangement we discussed by phone yesterday: 40 guest rooms...\" và sau đó xác nhận tiện nghi, giá, thời hạn gửi danh sách khách. A sai vì không có lỗi đặt phòng hay lời xin lỗi. B sai vì nhà hàng chỉ được nhắc đến trong phần bữa sáng, không phải để quảng cáo. D sai vì thư không yêu cầu thanh toán.",
+    "vocab": [
+      {
+        "word": "group rate",
+        "pos": "n. phr.",
+        "meaning": "giá ưu đãi cho đoàn"
+      },
+      {
+        "word": "suite",
+        "pos": "n.",
+        "meaning": "phòng suite, phòng cao cấp"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "arrangement",
+        "pos": "n.",
+        "meaning": "sự sắp xếp, thỏa thuận"
+      },
+      {
+        "word": "finalize",
+        "pos": "v.",
+        "meaning": "hoàn tất, chốt"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Elena Vasquez, Event Coordinator, Halcyon Design<br><strong>From:</strong> Marcus Lee, Sales Manager, The Meridian Hotel<br><strong>Date:</strong> 12 May<br><strong>Subject:</strong> Group booking — Halcyon Design conference</p>\n<p>Dear Ms. Vasquez,</p>\n<p>Thank you for choosing The Meridian Hotel for your company's annual conference from 18 to 21 June. I am pleased to confirm the revised arrangement we discussed by phone yesterday: 40 guest rooms, including six suites, at a group rate of $185 per night. The rate includes breakfast in the Garden Restaurant and use of the executive meeting room on the fifth floor.</p>\n<p>As you requested, we have added a projector and two microphones to the meeting room at no additional cost. Our technician will test the equipment on the morning of 18 June. Guests arriving at the airport can use our complimentary shuttle, which departs every 30 minutes.</p>\n<p>To finalize the booking, please send the complete list of guests and their room preferences by 20 May. Rooms not assigned by that date will be released to other customers. If you need to make changes after the list is submitted, contact me directly at extension 407.</p>\n<p>I look forward to welcoming your team.</p>\n<p>Best regards,<br>Marcus Lee</p>",
+    "questionText": "What does the group rate include?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Breakfast and use of the meeting room"
+      },
+      {
+        "key": "B",
+        "text": "(B) Airport transfers and dinner"
+      },
+      {
+        "key": "C",
+        "text": "(C) Access to the hotel spa"
+      },
+      {
+        "key": "D",
+        "text": "(D) Parking and in-room movies"
+      }
+    ],
+    "correct": "A",
+    "translation": "Giá ưu đãi cho đoàn bao gồm những gì? (A) Bữa sáng và việc sử dụng phòng họp (B) Đưa đón sân bay và bữa tối (C) Quyền sử dụng spa của khách sạn (D) Bãi đỗ xe và phim trong phòng.",
+    "explanation": "Đáp án A. E-mail nêu: \"The rate includes breakfast in the Garden Restaurant and use of the executive meeting room on the fifth floor.\" B sai vì xe đưa đón miễn phí được nhắc đến riêng, không nằm trong giá phòng, và không có bữa tối. C và D sai vì spa, bãi đỗ xe và phim trong phòng không hề được nhắc đến.",
+    "vocab": [
+      {
+        "word": "executive",
+        "pos": "adj.",
+        "meaning": "cao cấp, dành cho lãnh đạo"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "technician",
+        "pos": "n.",
+        "meaning": "kỹ thuật viên"
+      },
+      {
+        "word": "depart",
+        "pos": "v.",
+        "meaning": "khởi hành"
+      },
+      {
+        "word": "preference",
+        "pos": "n.",
+        "meaning": "sự ưu tiên, yêu cầu riêng"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 156-158 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Elena Vasquez, Event Coordinator, Halcyon Design<br><strong>From:</strong> Marcus Lee, Sales Manager, The Meridian Hotel<br><strong>Date:</strong> 12 May<br><strong>Subject:</strong> Group booking — Halcyon Design conference</p>\n<p>Dear Ms. Vasquez,</p>\n<p>Thank you for choosing The Meridian Hotel for your company's annual conference from 18 to 21 June. I am pleased to confirm the revised arrangement we discussed by phone yesterday: 40 guest rooms, including six suites, at a group rate of $185 per night. The rate includes breakfast in the Garden Restaurant and use of the executive meeting room on the fifth floor.</p>\n<p>As you requested, we have added a projector and two microphones to the meeting room at no additional cost. Our technician will test the equipment on the morning of 18 June. Guests arriving at the airport can use our complimentary shuttle, which departs every 30 minutes.</p>\n<p>To finalize the booking, please send the complete list of guests and their room preferences by 20 May. Rooms not assigned by that date will be released to other customers. If you need to make changes after the list is submitted, contact me directly at extension 407.</p>\n<p>I look forward to welcoming your team.</p>\n<p>Best regards,<br>Marcus Lee</p>",
+    "questionText": "What must Ms. Vasquez do by 20 May?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Pay a deposit for the suites"
+      },
+      {
+        "key": "B",
+        "text": "(B) Call the hotel to reschedule the conference"
+      },
+      {
+        "key": "C",
+        "text": "(C) Pick up the projector and microphones"
+      },
+      {
+        "key": "D",
+        "text": "(D) Send a guest list and room preferences"
+      }
+    ],
+    "correct": "D",
+    "translation": "Bà Vasquez phải làm gì trước ngày 20 tháng 5? (A) Đặt cọc cho các phòng suite (B) Gọi khách sạn để đổi lịch hội nghị (C) Nhận máy chiếu và micro (D) Gửi danh sách khách và nguyện vọng phòng.",
+    "explanation": "Đáp án D. E-mail yêu cầu: \"please send the complete list of guests and their room preferences by 20 May.\" A sai vì không có yêu cầu đặt cọc. B sai vì ngày hội nghị đã được xác nhận, không cần đổi. C sai vì khách sạn sẽ lắp đặt và kiểm tra thiết bị, không yêu cầu khách đến nhận.",
+    "vocab": [
+      {
+        "word": "release",
+        "pos": "v.",
+        "meaning": "nhả ra, giải phóng (phòng)"
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "meaning": "phân công, gán"
+      },
+      {
+        "word": "directly",
+        "pos": "adv.",
+        "meaning": "trực tiếp"
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "meaning": "mong chờ"
+      },
+      {
+        "word": "annual",
+        "pos": "adj.",
+        "meaning": "hàng năm"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following memorandum:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Production Supervisors<br><strong>From:</strong> Karen Doyle, Plant Safety Manager<br><strong>Date:</strong> 9 September<br><strong>Subject:</strong> Annual safety inspection — Line 3</p>\n<p>The annual safety inspection of our manufacturing facility will take place next Tuesday, 16 September. Inspectors from Northfield Safety Services will examine equipment guards, emergency exits, and chemical storage areas. To allow them access, Line 3 will be shut down from 8 a.m. to 1 p.m. Lines 1 and 2 will continue to operate normally.</p>\n<p>Supervisors should review the enclosed checklist with their teams before the inspection. Pay particular attention to keeping aisles clear and ensuring that employees wear protective eyewear in the assembly area. Any equipment that appears damaged should be tagged and reported to my office immediately.</p>\n<p>Contractors will be on site throughout the morning, so all visitors must sign in at the front desk and display a visitor badge. Please remind your staff not to block the main corridor during shift changes.</p>\n<p>A short follow-up meeting will be held on 18 September at 2 p.m. in the cafeteria to discuss the inspectors' findings.</p>\n<p>Thank you for your cooperation.</p>",
+    "questionText": "What is the main purpose of the memorandum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To introduce a new production line"
+      },
+      {
+        "key": "B",
+        "text": "(B) To prepare staff for an upcoming safety inspection"
+      },
+      {
+        "key": "C",
+        "text": "(C) To announce a reduction in staff"
+      },
+      {
+        "key": "D",
+        "text": "(D) To explain the cause of a chemical spill"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của bản ghi nhớ là gì? (A) Giới thiệu một dây chuyền sản xuất mới (B) Chuẩn bị cho nhân viên trước kỳ kiểm tra an toàn (C) Thông báo cắt giảm nhân sự (D) Giải thích nguyên nhân một vụ tràn hóa chất.",
+    "explanation": "Đáp án B. Bản ghi nhớ thông báo kỳ kiểm tra an toàn vào 16 tháng 9, yêu cầu giám sát xem lại danh mục kiểm tra với đội và nhắc nhân viên giữ lối đi thông thoáng, đeo kính bảo hộ. A sai vì không có dây chuyền mới. C sai vì không nhắc cắt giảm nhân sự. D sai vì khu lưu trữ hóa chất chỉ là một hạng mục được kiểm tra, không có vụ tràn nào.",
+    "vocab": [
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "meaning": "cuộc kiểm tra"
+      },
+      {
+        "word": "equipment guard",
+        "pos": "n. phr.",
+        "meaning": "bộ phận bảo vệ của máy móc"
+      },
+      {
+        "word": "emergency exit",
+        "pos": "n. phr.",
+        "meaning": "lối thoát hiểm"
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "meaning": "lối đi giữa các kệ/hàng"
+      },
+      {
+        "word": "protective eyewear",
+        "pos": "n. phr.",
+        "meaning": "kính bảo hộ"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following memorandum:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Production Supervisors<br><strong>From:</strong> Karen Doyle, Plant Safety Manager<br><strong>Date:</strong> 9 September<br><strong>Subject:</strong> Annual safety inspection — Line 3</p>\n<p>The annual safety inspection of our manufacturing facility will take place next Tuesday, 16 September. Inspectors from Northfield Safety Services will examine equipment guards, emergency exits, and chemical storage areas. To allow them access, Line 3 will be shut down from 8 a.m. to 1 p.m. Lines 1 and 2 will continue to operate normally.</p>\n<p>Supervisors should review the enclosed checklist with their teams before the inspection. Pay particular attention to keeping aisles clear and ensuring that employees wear protective eyewear in the assembly area. Any equipment that appears damaged should be tagged and reported to my office immediately.</p>\n<p>Contractors will be on site throughout the morning, so all visitors must sign in at the front desk and display a visitor badge. Please remind your staff not to block the main corridor during shift changes.</p>\n<p>A short follow-up meeting will be held on 18 September at 2 p.m. in the cafeteria to discuss the inspectors' findings.</p>\n<p>Thank you for your cooperation.</p>",
+    "questionText": "What should supervisors do before the inspection?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Submit vacation requests for their teams"
+      },
+      {
+        "key": "B",
+        "text": "(B) Repair damaged equipment themselves"
+      },
+      {
+        "key": "C",
+        "text": "(C) Review the checklist with their teams"
+      },
+      {
+        "key": "D",
+        "text": "(D) Attend a meeting on 16 September"
+      }
+    ],
+    "correct": "C",
+    "translation": "Các giám sát viên nên làm gì trước kỳ kiểm tra? (A) Gửi đơn xin nghỉ phép cho đội của họ (B) Tự sửa chữa thiết bị bị hỏng (C) Xem lại danh mục kiểm tra với đội (D) Tham dự cuộc họp vào ngày 16 tháng 9.",
+    "explanation": "Đáp án C. Bản ghi nhớ nói: \"Supervisors should review the enclosed checklist with their teams before the inspection.\" A sai vì không có đơn xin nghỉ phép. B sai vì thiết bị hỏng phải được gắn thẻ và báo cho văn phòng bà Doyle, không phải tự sửa. D sai vì cuộc họp theo dõi diễn ra ngày 18 tháng 9, không phải 16 tháng 9.",
+    "vocab": [
+      {
+        "word": "checklist",
+        "pos": "n.",
+        "meaning": "danh mục kiểm tra"
+      },
+      {
+        "word": "tag",
+        "pos": "v.",
+        "meaning": "gắn thẻ, dán nhãn"
+      },
+      {
+        "word": "corridor",
+        "pos": "n.",
+        "meaning": "hành lang"
+      },
+      {
+        "word": "shift change",
+        "pos": "n. phr.",
+        "meaning": "thời điểm đổi ca"
+      },
+      {
+        "word": "follow-up",
+        "pos": "adj.",
+        "meaning": "theo dõi, tiếp nối"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 159-161 refer to the following memorandum:",
+    "passageHtml": "<p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Production Supervisors<br><strong>From:</strong> Karen Doyle, Plant Safety Manager<br><strong>Date:</strong> 9 September<br><strong>Subject:</strong> Annual safety inspection — Line 3</p>\n<p>The annual safety inspection of our manufacturing facility will take place next Tuesday, 16 September. Inspectors from Northfield Safety Services will examine equipment guards, emergency exits, and chemical storage areas. To allow them access, Line 3 will be shut down from 8 a.m. to 1 p.m. Lines 1 and 2 will continue to operate normally.</p>\n<p>Supervisors should review the enclosed checklist with their teams before the inspection. Pay particular attention to keeping aisles clear and ensuring that employees wear protective eyewear in the assembly area. Any equipment that appears damaged should be tagged and reported to my office immediately.</p>\n<p>Contractors will be on site throughout the morning, so all visitors must sign in at the front desk and display a visitor badge. Please remind your staff not to block the main corridor during shift changes.</p>\n<p>A short follow-up meeting will be held on 18 September at 2 p.m. in the cafeteria to discuss the inspectors' findings.</p>\n<p>Thank you for your cooperation.</p>",
+    "questionText": "What will happen to Line 3 on 16 September?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It will be shut down for five hours"
+      },
+      {
+        "key": "B",
+        "text": "(B) It will operate with fewer workers"
+      },
+      {
+        "key": "C",
+        "text": "(C) It will be moved to another building"
+      },
+      {
+        "key": "D",
+        "text": "(D) It will be inspected on a later date"
+      }
+    ],
+    "correct": "A",
+    "translation": "Điều gì sẽ xảy ra với Dây chuyền 3 vào ngày 16 tháng 9? (A) Dây chuyền sẽ ngừng hoạt động trong năm giờ (B) Dây chuyền sẽ hoạt động với ít công nhân hơn (C) Dây chuyền sẽ được chuyển sang tòa nhà khác (D) Dây chuyền sẽ được kiểm tra vào ngày khác.",
+    "explanation": "Đáp án A. Bản ghi nhớ cho biết: \"Line 3 will be shut down from 8 a.m. to 1 p.m.\" — từ 8 giờ sáng đến 1 giờ chiều là năm giờ. B sai vì không có thông tin giảm nhân công; chỉ Lines 1 và 2 tiếp tục hoạt động bình thường. C sai vì không có việc di chuyển dây chuyền. D sai vì kỳ kiểm tra diễn ra đúng ngày 16 tháng 9.",
+    "vocab": [
+      {
+        "word": "shut down",
+        "pos": "phr. v.",
+        "meaning": "ngừng hoạt động"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "giám sát viên"
+      },
+      {
+        "word": "manufacturing",
+        "pos": "n.",
+        "meaning": "sản xuất, chế tạo"
+      },
+      {
+        "word": "chemical storage",
+        "pos": "n. phr.",
+        "meaning": "kho chứa hóa chất"
+      },
+      {
+        "word": "cooperation",
+        "pos": "n.",
+        "meaning": "sự hợp tác"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following article:",
+    "passageHtml": "<p><strong>NORTHBRIDGE DISTRIBUTION CUTS STOCK ERRORS WITH NEW SCANNING SYSTEM</strong></p>\n<p>When Northbridge Distribution opened its warehouse outside Denver three years ago, managers relied on paper forms to track more than 8,000 products. Workers often recorded item numbers by hand, and the company frequently discovered discrepancies between its records and the actual stock. According to operations director Lena Ortiz, those errors sometimes delayed customer orders by several days.</p>\n<p>Last January, Northbridge introduced handheld scanners that connect wirelessly to its inventory database. Employees now scan each item as it arrives and again before it is loaded onto a truck. The system updates stock levels instantly and alerts managers when supplies fall below a set minimum.</p>\n<p>In the first six months after the change, Northbridge reduced stock discrepancies by 62 percent. The average time needed to prepare an order fell from 45 minutes to 28 minutes, and the number of late deliveries dropped by nearly a third. The company plans to add similar scanners at its distribution center in Utah next year.</p>\n<p>\"We are not replacing workers with technology,\" Ortiz said. \"We are giving them better tools so they can focus on serving customers.\"</p>",
+    "questionText": "What is the article mainly about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The opening of a new warehouse in Utah"
+      },
+      {
+        "key": "B",
+        "text": "(B) A decline in customer demand for paper products"
+      },
+      {
+        "key": "C",
+        "text": "(C) How to choose the best delivery routes"
+      },
+      {
+        "key": "D",
+        "text": "(D) How a company improved its inventory accuracy"
+      }
+    ],
+    "correct": "D",
+    "translation": "Bài báo chủ yếu nói về điều gì? (A) Việc mở một kho mới ở Utah (B) Sự sụt giảm nhu cầu của khách hàng đối với sản phẩm giấy (C) Cách chọn tuyến giao hàng tốt nhất (D) Cách một công ty cải thiện độ chính xác của hàng tồn kho.",
+    "explanation": "Đáp án D. Tiêu đề nói Northbridge \"cuts stock errors with new scanning system\", và bài mô tả việc chuyển từ ghi chép giấy sang máy quét cầm tay, nhờ đó giảm sai lệch tồn kho 62%. A sai vì Utah chỉ là kế hoạch mở rộng trong tương lai, không phải trọng tâm. B sai vì bài không nói nhu cầu giảm. C sai vì tuyến giao hàng không được thảo luận.",
+    "vocab": [
+      {
+        "word": "stock error",
+        "pos": "n. phr.",
+        "meaning": "sai sót về hàng tồn kho"
+      },
+      {
+        "word": "discrepancy",
+        "pos": "n.",
+        "meaning": "sự sai lệch, không khớp"
+      },
+      {
+        "word": "handheld scanner",
+        "pos": "n. phr.",
+        "meaning": "máy quét cầm tay"
+      },
+      {
+        "word": "inventory database",
+        "pos": "n. phr.",
+        "meaning": "cơ sở dữ liệu hàng tồn kho"
+      },
+      {
+        "word": "alert",
+        "pos": "v.",
+        "meaning": "cảnh báo"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following article:",
+    "passageHtml": "<p><strong>NORTHBRIDGE DISTRIBUTION CUTS STOCK ERRORS WITH NEW SCANNING SYSTEM</strong></p>\n<p>When Northbridge Distribution opened its warehouse outside Denver three years ago, managers relied on paper forms to track more than 8,000 products. Workers often recorded item numbers by hand, and the company frequently discovered discrepancies between its records and the actual stock. According to operations director Lena Ortiz, those errors sometimes delayed customer orders by several days.</p>\n<p>Last January, Northbridge introduced handheld scanners that connect wirelessly to its inventory database. Employees now scan each item as it arrives and again before it is loaded onto a truck. The system updates stock levels instantly and alerts managers when supplies fall below a set minimum.</p>\n<p>In the first six months after the change, Northbridge reduced stock discrepancies by 62 percent. The average time needed to prepare an order fell from 45 minutes to 28 minutes, and the number of late deliveries dropped by nearly a third. The company plans to add similar scanners at its distribution center in Utah next year.</p>\n<p>\"We are not replacing workers with technology,\" Ortiz said. \"We are giving them better tools so they can focus on serving customers.\"</p>",
+    "questionText": "According to the article, what problem did Northbridge have before January?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It did not have enough warehouse space"
+      },
+      {
+        "key": "B",
+        "text": "(B) Its records often did not match the actual stock"
+      },
+      {
+        "key": "C",
+        "text": "(C) It could not find enough truck drivers"
+      },
+      {
+        "key": "D",
+        "text": "(D) Its computer network was too slow"
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo bài báo, Northbridge gặp vấn đề gì trước tháng Một? (A) Công ty không có đủ diện tích kho (B) Sổ sách thường không khớp với hàng thực tế (C) Công ty không tìm đủ tài xế xe tải (D) Mạng máy tính của công ty quá chậm.",
+    "explanation": "Đáp án B. Bài viết: \"the company frequently discovered discrepancies between its records and the actual stock\" — thường xuyên phát hiện sự không khớp giữa sổ sách và hàng thực tế. A sai vì không nhắc thiếu diện tích. C sai vì không có vấn đề tài xế. D sai vì mạng chậm không được nêu; máy quét mới chỉ là công cụ cập nhật dữ liệu.",
+    "vocab": [
+      {
+        "word": "record",
+        "pos": "n.",
+        "meaning": "hồ sơ, sổ ghi chép"
+      },
+      {
+        "word": "actual",
+        "pos": "adj.",
+        "meaning": "thực tế"
+      },
+      {
+        "word": "rely on",
+        "pos": "phr. v.",
+        "meaning": "dựa vào, phụ thuộc vào"
+      },
+      {
+        "word": "frequently",
+        "pos": "adv.",
+        "meaning": "thường xuyên"
+      },
+      {
+        "word": "delay",
+        "pos": "v.",
+        "meaning": "làm chậm trễ"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 162-164 refer to the following article:",
+    "passageHtml": "<p><strong>NORTHBRIDGE DISTRIBUTION CUTS STOCK ERRORS WITH NEW SCANNING SYSTEM</strong></p>\n<p>When Northbridge Distribution opened its warehouse outside Denver three years ago, managers relied on paper forms to track more than 8,000 products. Workers often recorded item numbers by hand, and the company frequently discovered discrepancies between its records and the actual stock. According to operations director Lena Ortiz, those errors sometimes delayed customer orders by several days.</p>\n<p>Last January, Northbridge introduced handheld scanners that connect wirelessly to its inventory database. Employees now scan each item as it arrives and again before it is loaded onto a truck. The system updates stock levels instantly and alerts managers when supplies fall below a set minimum.</p>\n<p>In the first six months after the change, Northbridge reduced stock discrepancies by 62 percent. The average time needed to prepare an order fell from 45 minutes to 28 minutes, and the number of late deliveries dropped by nearly a third. The company plans to add similar scanners at its distribution center in Utah next year.</p>\n<p>\"We are not replacing workers with technology,\" Ortiz said. \"We are giving them better tools so they can focus on serving customers.\"</p>",
+    "questionText": "What was one result of the new system?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The number of employees was reduced"
+      },
+      {
+        "key": "B",
+        "text": "(B) The company opened its Utah center immediately"
+      },
+      {
+        "key": "C",
+        "text": "(C) Orders were prepared more quickly"
+      },
+      {
+        "key": "D",
+        "text": "(D) Customers began scanning their own items"
+      }
+    ],
+    "correct": "C",
+    "translation": "Một kết quả của hệ thống mới là gì? (A) Số lượng nhân viên bị giảm (B) Công ty mở ngay trung tâm ở Utah (C) Đơn hàng được chuẩn bị nhanh hơn (D) Khách hàng bắt đầu tự quét hàng.",
+    "explanation": "Đáp án C. Bài báo nêu: \"The average time needed to prepare an order fell from 45 minutes to 28 minutes\" — thời gian chuẩn bị đơn hàng trung bình giảm từ 45 xuống 28 phút. A sai vì bà Ortiz nói công ty \"not replacing workers with technology\". B sai vì Utah là kế hoạch \"next year\". D sai vì nhân viên, không phải khách hàng, là người quét hàng.",
+    "vocab": [
+      {
+        "word": "reduce",
+        "pos": "v.",
+        "meaning": "giảm, cắt giảm"
+      },
+      {
+        "word": "average",
+        "pos": "adj.",
+        "meaning": "trung bình"
+      },
+      {
+        "word": "late delivery",
+        "pos": "n. phr.",
+        "meaning": "giao hàng muộn"
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "meaning": "thay thế"
+      },
+      {
+        "word": "serve",
+        "pos": "v.",
+        "meaning": "phục vụ"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following chat:",
+    "passageHtml": "<p><strong>[9:05] Maya Chen:</strong> Leo, have you confirmed the room for Thursday's client conference? The final agenda goes to the printers at noon.</p>\n<p><strong>[9:07] Leo Martens:</strong> Yes — the auditorium is booked from 8 to 5. I'm picking up the extra microphones this afternoon. Did you see that the video platform was updated last night?</p>\n<p><strong>[9:09] Maya Chen:</strong> I did. That's why I'd like to run a short test with you tomorrow at 3. We can't afford a connection failure during the opening presentation.</p>\n<p><strong>[9:11] Leo Martens:</strong> Agreed. I'll set up the speaker and camera in the auditorium and send you a link. Should I ask Dana to join?</p>\n<p><strong>[9:13] Maya Chen:</strong> Yes, please. She'll be presenting the sales figures, so she should practice switching slides. Also, can you print ten copies of the agenda? The client is bringing six people, and two of our managers haven't received theirs.</p>\n<p><strong>[9:15] Leo Martens:</strong> I'll have them on your desk by 10 tomorrow morning.</p>",
+    "questionText": "What are the speakers mainly discussing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Preparations for a client conference"
+      },
+      {
+        "key": "B",
+        "text": "(B) A job interview for a sales position"
+      },
+      {
+        "key": "C",
+        "text": "(C) The company's annual budget"
+      },
+      {
+        "key": "D",
+        "text": "(D) The purchase of new office furniture"
+      }
+    ],
+    "correct": "A",
+    "translation": "Hai người chủ yếu đang thảo luận điều gì? (A) Việc chuẩn bị cho hội nghị khách hàng (B) Một buổi phỏng vấn cho vị trí kinh doanh (C) Ngân sách hàng năm của công ty (D) Việc mua sắm nội thất văn phòng mới.",
+    "explanation": "Đáp án A. Cuộc trò chuyện xoay quanh phòng họp cho \"Thursday's client conference\", chương trình nghị sự, micro, kiểm tra nền tảng video và in bản agenda. A bao quát tất cả các chi tiết này. B sai vì Dana sẽ trình bày số liệu bán hàng, không phải buổi phỏng vấn. C sai vì không có ngân sách. D sai vì không mua nội thất.",
+    "vocab": [
+      {
+        "word": "agenda",
+        "pos": "n.",
+        "meaning": "chương trình nghị sự"
+      },
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "meaning": "hội trường, phòng lớn"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "presentation",
+        "pos": "n.",
+        "meaning": "bài trình bày"
+      },
+      {
+        "word": "connection failure",
+        "pos": "n. phr.",
+        "meaning": "sự cố mất kết nối"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following chat:",
+    "passageHtml": "<p><strong>[9:05] Maya Chen:</strong> Leo, have you confirmed the room for Thursday's client conference? The final agenda goes to the printers at noon.</p>\n<p><strong>[9:07] Leo Martens:</strong> Yes — the auditorium is booked from 8 to 5. I'm picking up the extra microphones this afternoon. Did you see that the video platform was updated last night?</p>\n<p><strong>[9:09] Maya Chen:</strong> I did. That's why I'd like to run a short test with you tomorrow at 3. We can't afford a connection failure during the opening presentation.</p>\n<p><strong>[9:11] Leo Martens:</strong> Agreed. I'll set up the speaker and camera in the auditorium and send you a link. Should I ask Dana to join?</p>\n<p><strong>[9:13] Maya Chen:</strong> Yes, please. She'll be presenting the sales figures, so she should practice switching slides. Also, can you print ten copies of the agenda? The client is bringing six people, and two of our managers haven't received theirs.</p>\n<p><strong>[9:15] Leo Martens:</strong> I'll have them on your desk by 10 tomorrow morning.</p>",
+    "questionText": "What does Maya ask Leo to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Print brochures for the client"
+      },
+      {
+        "key": "B",
+        "text": "(B) Book a restaurant for lunch"
+      },
+      {
+        "key": "C",
+        "text": "(C) Interview Dana before the event"
+      },
+      {
+        "key": "D",
+        "text": "(D) Test the video platform in the auditorium"
+      }
+    ],
+    "correct": "D",
+    "translation": "Maya yêu cầu Leo làm gì? (A) In tờ rơi cho khách hàng (B) Đặt nhà hàng cho bữa trưa (C) Phỏng vấn Dana trước sự kiện (D) Kiểm tra nền tảng video trong hội trường.",
+    "explanation": "Đáp án D. Maya nói: \"I'd like to run a short test with you tomorrow at 3\" vì nền tảng video vừa được cập nhật, và Leo đáp sẽ lắp đặt thiết bị \"in the auditorium\". Đó là buổi kiểm tra nền tảng video. A sai vì việc in ấn là agenda, không phải tờ rơi. B sai vì không nhắc nhà hàng. C sai vì Dana được mời tham gia buổi chạy thử, không phải để phỏng vấn.",
+    "vocab": [
+      {
+        "word": "platform",
+        "pos": "n.",
+        "meaning": "nền tảng (phần mềm)"
+      },
+      {
+        "word": "run a test",
+        "pos": "phr.",
+        "meaning": "chạy thử, kiểm tra"
+      },
+      {
+        "word": "set up",
+        "pos": "phr. v.",
+        "meaning": "lắp đặt, thiết lập"
+      },
+      {
+        "word": "slide",
+        "pos": "n.",
+        "meaning": "trang trình chiếu"
+      },
+      {
+        "word": "copy",
+        "pos": "n.",
+        "meaning": "bản in, bản sao"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 165-167 refer to the following chat:",
+    "passageHtml": "<p><strong>[9:05] Maya Chen:</strong> Leo, have you confirmed the room for Thursday's client conference? The final agenda goes to the printers at noon.</p>\n<p><strong>[9:07] Leo Martens:</strong> Yes — the auditorium is booked from 8 to 5. I'm picking up the extra microphones this afternoon. Did you see that the video platform was updated last night?</p>\n<p><strong>[9:09] Maya Chen:</strong> I did. That's why I'd like to run a short test with you tomorrow at 3. We can't afford a connection failure during the opening presentation.</p>\n<p><strong>[9:11] Leo Martens:</strong> Agreed. I'll set up the speaker and camera in the auditorium and send you a link. Should I ask Dana to join?</p>\n<p><strong>[9:13] Maya Chen:</strong> Yes, please. She'll be presenting the sales figures, so she should practice switching slides. Also, can you print ten copies of the agenda? The client is bringing six people, and two of our managers haven't received theirs.</p>\n<p><strong>[9:15] Leo Martens:</strong> I'll have them on your desk by 10 tomorrow morning.</p>",
+    "questionText": "What will Dana probably do at the conference?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Manage the microphones"
+      },
+      {
+        "key": "B",
+        "text": "(B) Present sales figures"
+      },
+      {
+        "key": "C",
+        "text": "(C) Greet clients at the entrance"
+      },
+      {
+        "key": "D",
+        "text": "(D) Print the agendas"
+      }
+    ],
+    "correct": "B",
+    "translation": "Dana có thể sẽ làm gì tại hội nghị? (A) Quản lý micro (B) Trình bày số liệu bán hàng (C) Đón khách tại cửa ra vào (D) In chương trình nghị sự.",
+    "explanation": "Đáp án B. Maya nói: \"She'll be presenting the sales figures, so she should practice switching slides.\" Vì vậy Dana sẽ trình bày số liệu bán hàng. A sai vì Leo phụ trách micro. C sai vì không ai được giao đón khách. D sai vì Leo là người in agenda.",
+    "vocab": [
+      {
+        "word": "sales figures",
+        "pos": "n. phr.",
+        "meaning": "số liệu bán hàng"
+      },
+      {
+        "word": "practice",
+        "pos": "v.",
+        "meaning": "luyện tập"
+      },
+      {
+        "word": "switch",
+        "pos": "v.",
+        "meaning": "chuyển, đổi"
+      },
+      {
+        "word": "client",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      },
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "meaning": "lối vào"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Hana Ito<br><strong>From:</strong> Graham Patel, Human Resources, Solstice Analytics<br><strong>Date:</strong> 2 April<br><strong>Subject:</strong> Second-round interview — Data Analyst position</p>\n<p>Dear Ms. Ito,</p>\n<p>Thank you for your application for the Data Analyst position at Solstice Analytics. We were impressed by your experience building forecasting models, and we would like to invite you to a second-round interview on Wednesday, 15 April, at 10 a.m.</p>\n<p>The interview will last approximately ninety minutes and will include a conversation with our analytics team and a short practical exercise. Please bring a printed copy of your portfolio, as the exercise will refer to two of your previous projects. A laptop will be provided; you do not need to bring your own.</p>\n<p>Our office is located at 220 Kingsway, and visitor parking is available behind the building. When you arrive, please check in at the reception desk on the ground floor and ask for me.</p>\n<p>Kindly confirm your attendance by 8 April. If the date is inconvenient, let me know and we will arrange an alternative time.</p>\n<p>Sincerely,<br>Graham Patel</p>",
+    "questionText": "What is the purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To reject a job application"
+      },
+      {
+        "key": "B",
+        "text": "(B) To offer Ms. Ito a permanent position"
+      },
+      {
+        "key": "C",
+        "text": "(C) To invite Ms. Ito to a second-round interview"
+      },
+      {
+        "key": "D",
+        "text": "(D) To request references from a former employer"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích của e-mail là gì? (A) Từ chối đơn xin việc (B) Mời bà Ito nhận một vị trí chính thức (C) Mời bà Ito đến phỏng vấn vòng hai (D) Yêu cầu người sử dụng lao động cũ cung cấp thư giới thiệu.",
+    "explanation": "Đáp án C. Ngay đầu thư, ông Patel viết: \"we would like to invite you to a second-round interview on Wednesday, 15 April, at 10 a.m.\" A sai vì thư thể hiện sự quan tâm đến ứng viên, không từ chối. B sai vì đây mới là phỏng vấn vòng hai, chưa phải lời mời làm việc. D sai vì không yêu cầu thư giới thiệu.",
+    "vocab": [
+      {
+        "word": "second-round",
+        "pos": "adj.",
+        "meaning": "vòng hai"
+      },
+      {
+        "word": "forecasting model",
+        "pos": "n. phr.",
+        "meaning": "mô hình dự báo"
+      },
+      {
+        "word": "practical exercise",
+        "pos": "n. phr.",
+        "meaning": "bài tập thực hành"
+      },
+      {
+        "word": "portfolio",
+        "pos": "n.",
+        "meaning": "hồ sơ năng lực, bộ sản phẩm đã làm"
+      },
+      {
+        "word": "attendance",
+        "pos": "n.",
+        "meaning": "sự tham dự, có mặt"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Hana Ito<br><strong>From:</strong> Graham Patel, Human Resources, Solstice Analytics<br><strong>Date:</strong> 2 April<br><strong>Subject:</strong> Second-round interview — Data Analyst position</p>\n<p>Dear Ms. Ito,</p>\n<p>Thank you for your application for the Data Analyst position at Solstice Analytics. We were impressed by your experience building forecasting models, and we would like to invite you to a second-round interview on Wednesday, 15 April, at 10 a.m.</p>\n<p>The interview will last approximately ninety minutes and will include a conversation with our analytics team and a short practical exercise. Please bring a printed copy of your portfolio, as the exercise will refer to two of your previous projects. A laptop will be provided; you do not need to bring your own.</p>\n<p>Our office is located at 220 Kingsway, and visitor parking is available behind the building. When you arrive, please check in at the reception desk on the ground floor and ask for me.</p>\n<p>Kindly confirm your attendance by 8 April. If the date is inconvenient, let me know and we will arrange an alternative time.</p>\n<p>Sincerely,<br>Graham Patel</p>",
+    "questionText": "What should Ms. Ito bring to the interview?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A printed copy of her portfolio"
+      },
+      {
+        "key": "B",
+        "text": "(B) Her own laptop"
+      },
+      {
+        "key": "C",
+        "text": "(C) A parking permit"
+      },
+      {
+        "key": "D",
+        "text": "(D) A list of personal references"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bà Ito nên mang gì đến buổi phỏng vấn? (A) Bản in hồ sơ năng lực (B) Laptop cá nhân (C) Giấy phép đỗ xe (D) Danh sách người giới thiệu.",
+    "explanation": "Đáp án A. E-mail ghi: \"Please bring a printed copy of your portfolio, as the exercise will refer to two of your previous projects.\" B sai rõ ràng vì thư nói \"A laptop will be provided; you do not need to bring your own.\" C sai vì chỉ nói có bãi đỗ cho khách, không cấp giấy phép. D sai vì không yêu cầu danh sách người giới thiệu.",
+    "vocab": [
+      {
+        "word": "printed copy",
+        "pos": "n. phr.",
+        "meaning": "bản in"
+      },
+      {
+        "word": "previous",
+        "pos": "adj.",
+        "meaning": "trước đây"
+      },
+      {
+        "word": "provide",
+        "pos": "v.",
+        "meaning": "cung cấp"
+      },
+      {
+        "word": "visitor parking",
+        "pos": "n. phr.",
+        "meaning": "bãi đỗ xe dành cho khách"
+      },
+      {
+        "word": "reception desk",
+        "pos": "n. phr.",
+        "meaning": "quầy lễ tân"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 168-170 refer to the following e-mail:",
+    "passageHtml": "<p><strong>To:</strong> Ms. Hana Ito<br><strong>From:</strong> Graham Patel, Human Resources, Solstice Analytics<br><strong>Date:</strong> 2 April<br><strong>Subject:</strong> Second-round interview — Data Analyst position</p>\n<p>Dear Ms. Ito,</p>\n<p>Thank you for your application for the Data Analyst position at Solstice Analytics. We were impressed by your experience building forecasting models, and we would like to invite you to a second-round interview on Wednesday, 15 April, at 10 a.m.</p>\n<p>The interview will last approximately ninety minutes and will include a conversation with our analytics team and a short practical exercise. Please bring a printed copy of your portfolio, as the exercise will refer to two of your previous projects. A laptop will be provided; you do not need to bring your own.</p>\n<p>Our office is located at 220 Kingsway, and visitor parking is available behind the building. When you arrive, please check in at the reception desk on the ground floor and ask for me.</p>\n<p>Kindly confirm your attendance by 8 April. If the date is inconvenient, let me know and we will arrange an alternative time.</p>\n<p>Sincerely,<br>Graham Patel</p>",
+    "questionText": "What is Ms. Ito required to do by 8 April?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Arrive at the office ninety minutes early"
+      },
+      {
+        "key": "B",
+        "text": "(B) Complete an online test before 15 April"
+      },
+      {
+        "key": "C",
+        "text": "(C) Send her portfolio by e-mail"
+      },
+      {
+        "key": "D",
+        "text": "(D) Confirm whether she will attend the interview"
+      }
+    ],
+    "correct": "D",
+    "translation": "Bà Ito phải làm gì trước ngày 8 tháng 4? (A) Đến văn phòng sớm chín mươi phút (B) Hoàn thành bài kiểm tra trực tuyến trước ngày 15 tháng 4 (C) Gửi hồ sơ năng lực qua e-mail (D) Xác nhận liệu bà có tham dự buổi phỏng vấn hay không.",
+    "explanation": "Đáp án D. Cuối thư yêu cầu: \"Kindly confirm your attendance by 8 April.\" A sai vì chín mươi phút là thời lượng buổi phỏng vấn, không phải yêu cầu đến sớm. B sai vì bài kiểm tra là bài tập thực hành tại buổi phỏng vấn, không phải bài trực tuyến trước đó. C sai vì hồ sơ phải mang bản in đến buổi phỏng vấn, không gửi qua e-mail.",
+    "vocab": [
+      {
+        "word": "attendance",
+        "pos": "n.",
+        "meaning": "sự tham dự"
+      },
+      {
+        "word": "inconvenient",
+        "pos": "adj.",
+        "meaning": "bất tiện"
+      },
+      {
+        "word": "alternative",
+        "pos": "adj.",
+        "meaning": "thay thế, khác"
+      },
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "meaning": "khoảng chừng"
+      },
+      {
+        "word": "check in",
+        "pos": "phr. v.",
+        "meaning": "đăng ký, làm thủ tục"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following notice:",
+    "passageHtml": "<p><strong>AIRPORT SHUTTLE — TEMPORARY SCHEDULE CHANGE</strong></p>\n<p>From 1 to 30 November, road repairs on Airport Boulevard will affect The Parkside Hotel's complimentary shuttle service. During this period, shuttles will depart from the hotel every 45 minutes instead of every 20 minutes, beginning at 5:30 a.m. and ending at 10:30 p.m. The journey to the airport may take up to 40 minutes, so we recommend that guests allow extra time before their flights.</p>\n<p>The shuttle stop remains at the main entrance. However, the construction has closed the sidewalk on the east side of the hotel, so guests should use the west exit when walking to the stop.</p>\n<p>Guests who prefer not to use the shuttle may request a taxi voucher at the front desk. Vouchers cover up to $25 of a one-way fare and are available on a first-come, first-served basis. Guests traveling with more than two large suitcases should inform the bell desk the evening before departure so that additional space can be arranged.</p>\n<p>We apologize for any inconvenience and thank you for your understanding.</p>",
+    "questionText": "What is the purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To promote a newly renovated hotel"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce temporary changes to a shuttle service"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain an increase in parking fees"
+      },
+      {
+        "key": "D",
+        "text": "(D) To advertise a local taxi company"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích của thông báo là gì? (A) Quảng bá một khách sạn vừa được cải tạo (B) Thông báo những thay đổi tạm thời đối với dịch vụ xe đưa đón (C) Giải thích việc tăng phí đỗ xe (D) Quảng cáo một hãng taxi địa phương.",
+    "explanation": "Đáp án B. Tiêu đề ghi \"TEMPORARY SCHEDULE CHANGE\", và bài giải thích rằng do sửa đường, xe đưa đón sẽ chạy mỗi 45 phút thay vì 20 phút trong tháng 11. A sai vì không có việc cải tạo khách sạn. C sai vì không nhắc phí đỗ xe. D sai vì khách sạn cung cấp voucher taxi, không quảng cáo hãng taxi nào.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "road repair",
+        "pos": "n. phr.",
+        "meaning": "việc sửa chữa đường"
+      },
+      {
+        "word": "depart",
+        "pos": "v.",
+        "meaning": "khởi hành"
+      },
+      {
+        "word": "voucher",
+        "pos": "n.",
+        "meaning": "phiếu quà tặng, phiếu thanh toán"
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "meaning": "sự bất tiện"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following notice:",
+    "passageHtml": "<p><strong>AIRPORT SHUTTLE — TEMPORARY SCHEDULE CHANGE</strong></p>\n<p>From 1 to 30 November, road repairs on Airport Boulevard will affect The Parkside Hotel's complimentary shuttle service. During this period, shuttles will depart from the hotel every 45 minutes instead of every 20 minutes, beginning at 5:30 a.m. and ending at 10:30 p.m. The journey to the airport may take up to 40 minutes, so we recommend that guests allow extra time before their flights.</p>\n<p>The shuttle stop remains at the main entrance. However, the construction has closed the sidewalk on the east side of the hotel, so guests should use the west exit when walking to the stop.</p>\n<p>Guests who prefer not to use the shuttle may request a taxi voucher at the front desk. Vouchers cover up to $25 of a one-way fare and are available on a first-come, first-served basis. Guests traveling with more than two large suitcases should inform the bell desk the evening before departure so that additional space can be arranged.</p>\n<p>We apologize for any inconvenience and thank you for your understanding.</p>",
+    "questionText": "What can guests do if they do not want to use the shuttle?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wait at the east entrance for a different bus"
+      },
+      {
+        "key": "B",
+        "text": "(B) Call the airport for a courtesy car"
+      },
+      {
+        "key": "C",
+        "text": "(C) Request a taxi voucher at the front desk"
+      },
+      {
+        "key": "D",
+        "text": "(D) Take a public bus free of charge"
+      }
+    ],
+    "correct": "C",
+    "translation": "Khách có thể làm gì nếu không muốn dùng xe đưa đón? (A) Chờ ở lối vào phía đông để bắt xe buýt khác (B) Gọi sân bay xin xe miễn phí (C) Yêu cầu phiếu taxi tại quầy lễ tân (D) Đi xe buýt công cộng miễn phí.",
+    "explanation": "Đáp án C. Thông báo hướng dẫn: \"Guests who prefer not to use the shuttle may request a taxi voucher at the front desk.\" A sai vì lối phía đông có vỉa hè bị đóng; khách nên dùng lối phía tây. B sai vì không có dịch vụ gọi sân bay. D sai vì không nhắc xe buýt công cộng miễn phí.",
+    "vocab": [
+      {
+        "word": "front desk",
+        "pos": "n. phr.",
+        "meaning": "quầy lễ tân"
+      },
+      {
+        "word": "one-way fare",
+        "pos": "n. phr.",
+        "meaning": "giá vé một chiều"
+      },
+      {
+        "word": "first-come, first-served",
+        "pos": "phr.",
+        "meaning": "ai đến trước được phục vụ trước"
+      },
+      {
+        "word": "main entrance",
+        "pos": "n. phr.",
+        "meaning": "lối vào chính"
+      },
+      {
+        "word": "sidewalk",
+        "pos": "n.",
+        "meaning": "vỉa hè"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 171-173 refer to the following notice:",
+    "passageHtml": "<p><strong>AIRPORT SHUTTLE — TEMPORARY SCHEDULE CHANGE</strong></p>\n<p>From 1 to 30 November, road repairs on Airport Boulevard will affect The Parkside Hotel's complimentary shuttle service. During this period, shuttles will depart from the hotel every 45 minutes instead of every 20 minutes, beginning at 5:30 a.m. and ending at 10:30 p.m. The journey to the airport may take up to 40 minutes, so we recommend that guests allow extra time before their flights.</p>\n<p>The shuttle stop remains at the main entrance. However, the construction has closed the sidewalk on the east side of the hotel, so guests should use the west exit when walking to the stop.</p>\n<p>Guests who prefer not to use the shuttle may request a taxi voucher at the front desk. Vouchers cover up to $25 of a one-way fare and are available on a first-come, first-served basis. Guests traveling with more than two large suitcases should inform the bell desk the evening before departure so that additional space can be arranged.</p>\n<p>We apologize for any inconvenience and thank you for your understanding.</p>",
+    "questionText": "What should guests with more than two large suitcases do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Inform the bell desk the evening before departure"
+      },
+      {
+        "key": "B",
+        "text": "(B) Pay an extra fee at the main entrance"
+      },
+      {
+        "key": "C",
+        "text": "(C) Use the east exit to reach the shuttle"
+      },
+      {
+        "key": "D",
+        "text": "(D) Arrive at the airport before 5:30 a.m."
+      }
+    ],
+    "correct": "A",
+    "translation": "Khách có hơn hai chiếc va li lớn nên làm gì? (A) Thông báo cho quầy hành lý vào buổi tối trước khi khởi hành (B) Trả thêm phí ở lối vào chính (C) Dùng lối phía đông để ra xe đưa đón (D) Đến sân bay trước 5:30 sáng.",
+    "explanation": "Đáp án A. Thông báo nêu: \"Guests traveling with more than two large suitcases should inform the bell desk the evening before departure so that additional space can be arranged.\" B sai vì không có phí thêm. C sai vì lối phía đông bị đóng, phải dùng lối phía tây. D sai vì 5:30 chỉ là giờ chuyến xe đầu tiên khởi hành, không phải yêu cầu có mặt tại sân bay.",
+    "vocab": [
+      {
+        "word": "suitcase",
+        "pos": "n.",
+        "meaning": "va li"
+      },
+      {
+        "word": "bell desk",
+        "pos": "n. phr.",
+        "meaning": "quầy hành lý"
+      },
+      {
+        "word": "additional",
+        "pos": "adj.",
+        "meaning": "thêm, bổ sung"
+      },
+      {
+        "word": "arrange",
+        "pos": "v.",
+        "meaning": "sắp xếp"
+      },
+      {
+        "word": "departure",
+        "pos": "n.",
+        "meaning": "sự khởi hành"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 174-175 refer to the following article:",
+    "passageHtml": "<p><strong>MERIDIAN TOOLS OPENS ENERGY-EFFICIENT PLANT IN TOLEDO</strong></p>\n<p>Meridian Tools announced on Monday that its new manufacturing facility in Toledo, Ohio, will begin production in early January. The 25,000-square-meter plant will produce precision hand tools for the North American market and is expected to create 150 full-time jobs over the next two years.</p>\n<p>The facility was designed to reduce environmental impact. Solar panels on the roof will supply about 40 percent of the plant's electricity, and a closed-loop cooling system will cut water use by nearly half compared with Meridian's older factory in Cleveland. The company said the changes would lower operating costs by an estimated $1.2 million annually.</p>\n<p>\"This plant shows that efficient manufacturing and environmental responsibility can go hand in hand,\" said chief executive Robert Lang. \"It also brings us closer to our customers, which will shorten delivery times across the region.\"</p>\n<p>Meridian plans to hold a public open house on 18 December, before production begins. Local residents can register for a tour through the company's website. The Cleveland plant will remain in operation.</p>",
+    "questionText": "What is the purpose of the article?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To report a company's quarterly earnings"
+      },
+      {
+        "key": "B",
+        "text": "(B) To introduce a new chief executive"
+      },
+      {
+        "key": "C",
+        "text": "(C) To protest against environmental regulations"
+      },
+      {
+        "key": "D",
+        "text": "(D) To announce the opening of a new factory"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục đích của bài báo là gì? (A) Báo cáo thu nhập quý của một công ty (B) Giới thiệu một giám đốc điều hành mới (C) Phản đối các quy định về môi trường (D) Thông báo việc khai trương một nhà máy mới.",
+    "explanation": "Đáp án D. Tiêu đề \"MERIDIAN TOOLS OPENS ENERGY-EFFICIENT PLANT IN TOLEDO\" và câu đầu cho biết nhà máy mới sẽ bắt đầu sản xuất vào đầu tháng Một. A sai vì không có số liệu thu nhập quý. B sai vì Robert Lang đã là giám đốc điều hành, bài chỉ trích dẫn ông. C sai vì bài ca ngợi hiệu quả môi trường, không phản đối quy định.",
+    "vocab": [
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở, nhà máy"
+      },
+      {
+        "word": "precision",
+        "pos": "adj.",
+        "meaning": "chính xác, độ chính xác cao"
+      },
+      {
+        "word": "environmental impact",
+        "pos": "n. phr.",
+        "meaning": "tác động môi trường"
+      },
+      {
+        "word": "annually",
+        "pos": "adv.",
+        "meaning": "hàng năm"
+      },
+      {
+        "word": "open house",
+        "pos": "n. phr.",
+        "meaning": "buổi tham quan mở cửa cho công chúng"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 174-175 refer to the following article:",
+    "passageHtml": "<p><strong>MERIDIAN TOOLS OPENS ENERGY-EFFICIENT PLANT IN TOLEDO</strong></p>\n<p>Meridian Tools announced on Monday that its new manufacturing facility in Toledo, Ohio, will begin production in early January. The 25,000-square-meter plant will produce precision hand tools for the North American market and is expected to create 150 full-time jobs over the next two years.</p>\n<p>The facility was designed to reduce environmental impact. Solar panels on the roof will supply about 40 percent of the plant's electricity, and a closed-loop cooling system will cut water use by nearly half compared with Meridian's older factory in Cleveland. The company said the changes would lower operating costs by an estimated $1.2 million annually.</p>\n<p>\"This plant shows that efficient manufacturing and environmental responsibility can go hand in hand,\" said chief executive Robert Lang. \"It also brings us closer to our customers, which will shorten delivery times across the region.\"</p>\n<p>Meridian plans to hold a public open house on 18 December, before production begins. Local residents can register for a tour through the company's website. The Cleveland plant will remain in operation.</p>",
+    "questionText": "What is mentioned about the Toledo facility?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It will replace the company's plant in Cleveland"
+      },
+      {
+        "key": "B",
+        "text": "(B) Some of its electricity will come from solar panels"
+      },
+      {
+        "key": "C",
+        "text": "(C) It will employ 500 local workers"
+      },
+      {
+        "key": "D",
+        "text": "(D) It will manufacture kitchen appliances"
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì được nêu về cơ sở ở Toledo? (A) Nó sẽ thay thế nhà máy của công ty ở Cleveland (B) Một phần điện năng của nó sẽ đến từ các tấm pin mặt trời (C) Nó sẽ thuê 500 công nhân địa phương (D) Nó sẽ sản xuất thiết bị nhà bếp.",
+    "explanation": "Đáp án B. Bài viết: \"Solar panels on the roof will supply about 40 percent of the plant's electricity\" — khoảng 40% điện năng từ pin mặt trời. A sai vì cuối bài khẳng định \"The Cleveland plant will remain in operation.\" C sai vì bài nêu \"150 full-time jobs\", không phải 500. D sai vì nhà máy sản xuất \"precision hand tools\", không phải thiết bị nhà bếp.",
+    "vocab": [
+      {
+        "word": "supply",
+        "pos": "v.",
+        "meaning": "cung cấp"
+      },
+      {
+        "word": "closed-loop",
+        "pos": "adj.",
+        "meaning": "khép kín (hệ thống)"
+      },
+      {
+        "word": "operating cost",
+        "pos": "n. phr.",
+        "meaning": "chi phí vận hành"
+      },
+      {
+        "word": "remain",
+        "pos": "v.",
+        "meaning": "tiếp tục, vẫn"
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "meaning": "cư dân"
+      }
+    ]
+  }
+]

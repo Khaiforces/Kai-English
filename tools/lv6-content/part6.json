@@ -1,0 +1,254 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEMORANDUM</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Regional Operations Managers<br>From: Office of the Chief Operating Officer<br>Re: Revised Supplier Onboarding Protocol</p><p class=\"mt-2\">Beginning 1 March, every regional office will be required to <strong>[131]</strong> the revised supplier onboarding protocol, which stipulates that each new vendor be assessed jointly by the procurement and compliance units before any purchase order is issued. <strong>[132]</strong> The protocol further requires that contracts exceeding $250,000 undergo a second review by the legal department, whereas agreements below that threshold may be approved locally. Managers should anticipate that this additional scrutiny will inevitably <strong>[133]</strong> a more protracted approval cycle for first-time vendors, yet it is expected to mitigate the risk of supplier default. <strong>[134]</strong> these transitional costs, the revised protocol is expected to shorten the average onboarding period once duplicate reviews are eliminated. Failure to observe the stipulated procedures may result in the suspension of purchasing privileges.</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": ["attest to", "allude to", "adhere to", "aspire to"],
+        "answer": "C",
+        "translation": "Kể từ ngày 1 tháng 3, mọi văn phòng khu vực sẽ phải tuân thủ quy trình tiếp nhận nhà cung cấp đã sửa đổi, trong đó quy định rằng mỗi nhà cung cấp mới phải được đánh giá chung bởi bộ phận thu mua và bộ phận tuân thủ trước khi bất kỳ đơn đặt hàng nào được phát hành.",
+        "explanation": "Cụm động từ 'adhere to + quy trình/quy định' mang nghĩa tuân thủ chặt chẽ, khớp với 'stipulates' và câu kết 'Failure to observe the stipulated procedures'. 'attest to' (chứng thực), 'allude to' (ám chỉ) và 'aspire to' (hướng tới, khao khát) đều sai sắc thái nghĩa.",
+        "vocab": [
+          ["adhere to", "phr. v.", "tuân thủ chặt chẽ"],
+          ["stipulate", "v.", "quy định rõ ràng"],
+          ["procurement", "n.", "việc thu mua"]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the sentence that best completes blank [132].",
+        "options": [
+          "Once a purchase order has been issued, both units must conduct an annual audit of the vendor's tax filings.",
+          "This joint assessment replaces the separate reviews that the two units previously conducted in isolation.",
+          "Regional managers may nevertheless authorize expedited purchases above that figure without consulting compliance staff.",
+          "Because the legal department previously oversaw every vendor application, its staff will now delegate routine checks to regional buyers."
+        ],
+        "answer": "B",
+        "translation": "Việc đánh giá chung này thay thế những cuộc đánh giá riêng rẽ mà hai bộ phận trước đây thực hiện một cách độc lập.",
+        "explanation": "Câu trước nêu yêu cầu 'assessed jointly by the procurement and compliance units', còn câu sau mở rộng thêm 'further requires that contracts exceeding $250,000 undergo a second review by the legal department'. Câu B nối trực tiếp cụm 'This joint assessment' với 'assessed jointly' ở câu trước. A sai trình tự (đang nói quy trình trước khi phát hành PO và 'both units' không dẫn được vào 'legal department'); C dùng đại từ 'that figure' khi mốc $250,000 chưa được nhắc tới và mâu thuẫn với câu sau; D mâu thuẫn trực tiếp với việc pháp chế thực hiện vòng rà soát thứ hai.",
+        "vocab": [
+          ["joint assessment", "phrase", "đánh giá chung"],
+          ["in isolation", "phrase", "một cách riêng lẻ, độc lập"],
+          ["vendor", "n.", "nhà cung cấp"]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Select the best answer to complete blank [133].",
+        "options": ["preclude", "forestall", "waive", "entail"],
+        "answer": "D",
+        "translation": "Các quản lý nên lường trước rằng sự giám sát bổ sung này chắc chắn sẽ kéo theo một chu kỳ phê duyệt kéo dài hơn đối với những nhà cung cấp lần đầu, nhưng nó được kỳ vọng sẽ giảm thiểu rủi ro nhà cung cấp vỡ nợ.",
+        "explanation": "Động từ 'entail' mang nghĩa tất yếu kéo theo hoặc đòi hỏi một hệ quả đi kèm ('will inevitably entail a more protracted approval cycle'). 'preclude' (ngăn chặn từ trước), 'forestall' (chặn đứng trước) và 'waive' (miễn bỏ) đều trái với nghĩa quy trình bị kéo dài hơn.",
+        "vocab": [
+          ["entail", "v.", "kéo theo, đòi hỏi"],
+          ["protracted", "adj.", "kéo dài"],
+          ["mitigate", "v.", "giảm thiểu"]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Select the best answer to complete blank [134].",
+        "options": ["Notwithstanding", "Pursuant to", "In lieu of", "By virtue of"],
+        "answer": "A",
+        "translation": "Bất chấp những chi phí chuyển tiếp này, quy trình sửa đổi được kỳ vọng sẽ rút ngắn thời gian tiếp nhận trung bình khi các cuộc đánh giá trùng lặp được loại bỏ.",
+        "explanation": "'Notwithstanding + cụm danh từ' mang nghĩa 'bất chấp, mặc dù', thể hiện sự tương phản giữa chi phí chuyển đổi ban đầu và lợi ích rút ngắn thời gian về sau. 'Pursuant to' (chiếu theo), 'In lieu of' (thay cho) và 'By virtue of' (nhờ vào) đều không diễn tả quan hệ nhượng bộ.",
+        "vocab": [
+          ["notwithstanding", "prep.", "bất chấp, dù"],
+          ["transitional", "adj.", "mang tính chuyển tiếp"],
+          ["duplicate", "adj.", "trùng lặp"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following excerpt from an annual report:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">EXCERPT FROM THE ANNUAL SUSTAINABILITY REPORT</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">In light of the commitments made at last year's shareholder assembly, the company has undertaken a comprehensive review of emissions across its supply chain. The board has stipulated that, by the end of 2027, every tier-one supplier must disclose independently verified emissions data, <strong>[135]</strong> it operates in a jurisdiction with less stringent reporting requirements. Where such data cannot be obtained, the supplier will be required to <strong>[136]</strong> an independent audit at its own expense. <strong>[137]</strong> The review also found that logistics accounted for nearly two-thirds of the group's carbon footprint, a proportion that management considers untenable over the long term. Approval of the retrofit programme remains <strong>[138]</strong> on the outcome of an independent cost-benefit analysis, which the board expects to commission in the second quarter.</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": ["provided that", "even though", "inasmuch as", "so that"],
+        "answer": "B",
+        "translation": "Hội đồng quản trị đã quy định rằng đến cuối năm 2027, mọi nhà cung cấp cấp một phải công bố dữ liệu phát thải được kiểm chứng độc lập, ngay cả khi họ hoạt động tại một khu vực pháp lý có yêu cầu báo cáo ít nghiêm ngặt hơn.",
+        "explanation": "Mệnh đề phụ nêu hoàn cảnh tương phản (luật sở tại ít nghiêm ngặt hơn nhưng nhà cung cấp vẫn phải công bố dữ liệu), nên cần liên từ nhượng bộ 'even though'. 'provided that' (với điều kiện là), 'inasmuch as' (bởi vì) và 'so that' (để mà) đều sai quan hệ logic.",
+        "vocab": [
+          ["tier-one supplier", "n.", "nhà cung cấp cấp một"],
+          ["stringent", "adj.", "nghiêm ngặt"],
+          ["jurisdiction", "n.", "khu vực tài phán, phạm vi pháp lý"]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": ["undermine", "underlie", "undergo", "underwrite"],
+        "answer": "C",
+        "translation": "Trường hợp không thể có được dữ liệu đó, nhà cung cấp sẽ phải trải qua một cuộc kiểm toán độc lập với chi phí của chính mình.",
+        "explanation": "Cụm cố định 'undergo an audit' nghĩa là trải qua/được kiểm toán. 'undermine' (làm suy yếu), 'underlie' (nằm bên dưới, là cơ sở của) và 'underwrite' (bảo lãnh) đều không kết hợp được với tân ngữ 'an audit'.",
+        "vocab": [
+          ["undergo", "v.", "trải qua"],
+          ["audit", "n.", "cuộc kiểm toán"],
+          ["at its own expense", "phrase", "bằng chi phí của chính mình"]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the sentence that best completes blank [137].",
+        "options": [
+          "Because tier-one suppliers have already fulfilled the 2027 mandate, no further supply-chain adjustments are planned.",
+          "Independent auditors will nevertheless waive verification charges for domestic vendors operating under strict local rules.",
+          "Supplier disclosure was not the only shortcoming that the review identified.",
+          "Those emissions disclosures focused solely on manufacturing sites, leaving transport contractors entirely outside the review's scope."
+        ],
+        "answer": "C",
+        "translation": "Việc công bố thông tin của nhà cung cấp không phải là khiếm khuyết duy nhất mà cuộc rà soát đã phát hiện.",
+        "explanation": "Câu sau mở đầu bằng 'The review also found that logistics accounted for nearly two-thirds...' — từ 'also' đòi hỏi câu đứng trước phải khẳng định vấn đề công bố thông tin của nhà cung cấp chưa phải phát hiện duy nhất. A mâu thuẫn với mốc 2027 và vấn đề mới nêu ở câu sau; B mâu thuẫn trực tiếp với 'at its own expense'; D mâu thuẫn với việc câu sau công bố phát hiện về logistics.",
+        "vocab": [
+          ["shortcoming", "n.", "khiếm khuyết, thiếu sót"],
+          ["disclosure", "n.", "sự công bố thông tin"],
+          ["mandate", "n.", "quy định bắt buộc"]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Select the best answer to complete blank [138].",
+        "options": ["conducive", "contingent", "congruent", "commensurate"],
+        "answer": "B",
+        "translation": "Việc phê duyệt chương trình cải tạo vẫn phụ thuộc vào kết quả của một phân tích chi phí – lợi ích độc lập, mà hội đồng dự kiến sẽ đặt hàng thực hiện trong quý hai.",
+        "explanation": "Chỉ có tính từ 'contingent' kết hợp với giới từ 'on' ('be contingent on' = phụ thuộc vào điều kiện gì). 'conducive' đi với giới từ 'to', còn 'congruent' và 'commensurate' đi với giới từ 'with'.",
+        "vocab": [
+          ["contingent on", "adj.", "phụ thuộc vào"],
+          ["retrofit", "n.", "việc cải tạo, nâng cấp hệ thống"],
+          ["commission", "v.", "đặt hàng, ủy thác thực hiện"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following letter to customers:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE TO PREMIUM ACCOUNT HOLDERS</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Valued Client,</p><p class=\"mt-2\">We are writing to inform you that, effective 15 April, all orders currently submitted through our legacy portal must be placed via the Meridian ordering platform. The migration is designed to <strong>[139]</strong> the delays that many of you have experienced during peak periods, and it will also provide real-time visibility of stock levels. <strong>[140]</strong> Accounts that have not been activated by the migration date will remain accessible in read-only mode until a new password has been issued. <strong>[141]</strong> your account is managed by a designated purchasing agent, no action is required on your part. Should you encounter any difficulty during the transition, our account team will be available to assist you, and we would ask that you <strong>[142]</strong> any outstanding invoices before the legacy portal is retired.</p><p class=\"mt-2\">Yours sincerely,<br>Client Services Directorate</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": ["exacerbate", "perpetuate", "mitigate", "precipitate"],
+        "answer": "C",
+        "translation": "Việc chuyển đổi được thiết kế để giảm thiểu những chậm trễ mà nhiều quý khách đã gặp phải trong các giai đoạn cao điểm, đồng thời cung cấp khả năng hiển thị tồn kho theo thời gian thực.",
+        "explanation": "'Mitigate' nghĩa là làm dịu bớt, giảm thiểu tác động tiêu cực ('mitigate the delays'). 'exacerbate' (làm trầm trọng thêm), 'perpetuate' (duy trì kéo dài mãi) và 'precipitate' (làm bùng phát/đẩy nhanh sự cố) đều trái với lợi ích của nền tảng mới.",
+        "vocab": [
+          ["migration", "n.", "sự chuyển đổi (hệ thống)"],
+          ["mitigate", "v.", "giảm thiểu"],
+          ["real-time visibility", "phrase", "khả năng hiển thị tức thời"]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the sentence that best completes blank [140].",
+        "options": [
+          "A step-by-step activation guide will accompany the invitation that each account holder receives next week.",
+          "Legacy credentials will automatically grant full ordering privileges on the new platform without any user setup.",
+          "Once an account is placed in read-only mode, its entire historical order archive is permanently purged.",
+          "Because the old portal has already been decommissioned, urgent orders must now be telephoned to regional depots."
+        ],
+        "answer": "A",
+        "translation": "Một hướng dẫn kích hoạt từng bước sẽ được gửi kèm lời mời mà mỗi chủ tài khoản nhận được vào tuần tới.",
+        "explanation": "Câu sau đề cập hậu quả đối với các tài khoản chưa được kích hoạt trước ngày chuyển đổi ('Accounts that have not been activated by the migration date...'), nên câu điền vào phải giới thiệu quy trình kích hoạt tài khoản mới (Câu A). B mâu thuẫn với việc phải kích hoạt và cấp mật khẩu mới; C nêu tình huống xóa dữ liệu vô căn cứ và đứt mạch với việc mở đầu khái niệm 'activated'; D mâu thuẫn với mốc hiệu lực '15 April' ở câu đầu.",
+        "vocab": [
+          ["activation", "n.", "sự kích hoạt"],
+          ["accompany", "v.", "đi kèm, gửi kèm"],
+          ["account holder", "n.", "chủ tài khoản"]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": ["Notwithstanding that", "Inasmuch as", "For fear that", "In the event that"],
+        "answer": "D",
+        "translation": "Trong trường hợp tài khoản của quý khách được quản lý bởi một đại lý thu mua được chỉ định, quý khách không cần thực hiện thao tác nào.",
+        "explanation": "Chỉ có liên từ điều kiện 'In the event that' (trong trường hợp mà) diễn tả đúng tình huống giả định không chắc xảy ra với mọi khách hàng. 'Notwithstanding that' (mặc dù), 'Inasmuch as' (bởi vì, xét thấy thực tế là) và 'For fear that' (vì sợ rằng) không phù hợp quan hệ điều kiện.",
+        "vocab": [
+          ["in the event that", "conj.", "trong trường hợp"],
+          ["designated", "adj.", "được chỉ định"],
+          ["purchasing agent", "n.", "đại lý thu mua"]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Select the best answer to complete blank [142].",
+        "options": ["settled", "settle", "would settle", "are settling"],
+        "answer": "B",
+        "translation": "Nếu quý khách gặp bất kỳ khó khăn nào trong quá trình chuyển đổi, đội ngũ phụ trách tài khoản của chúng tôi sẽ sẵn sàng hỗ trợ, và chúng tôi đề nghị quý khách thanh toán các hoá đơn còn tồn đọng trước khi cổng thông tin cũ ngừng hoạt động.",
+        "explanation": "Sau động từ mang tính đề nghị 'ask that' phải dùng giả định cách (mandative subjunctive): động từ nguyên mẫu không 'to' cho mọi chủ ngữ, nên chọn 'settle'. Ba lựa chọn còn lại chia thì chỉ định hoặc điều kiện sai cấu trúc giả định.",
+        "vocab": [
+          ["outstanding invoice", "n.", "hoá đơn chưa thanh toán"],
+          ["settle", "v.", "thanh toán"],
+          ["retire", "v.", "cho ngừng sử dụng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">PROJECT STATUS UPDATE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: Executive Steering Committee<br>From: Programme Director, Atlas Modernisation<br>Re: Status of Phase Two</p><p class=\"mt-2\">Phase Two of the Atlas modernisation programme is now roughly eighty per cent complete, and the remaining deliverables are expected to be handed over within the revised budget. The data migration, originally scheduled for February, has been postponed until April so that legacy records can be cleansed of duplicate entries. Not until those cleansed records have been independently validated <strong>[143]</strong> to the production environment. <strong>[144]</strong> Nonetheless, the steering committee should be aware that a four-week slip in this workstream would have a <strong>[145]</strong> effect on the go-live date, which is currently fixed for 30 June. <strong>[146]</strong> the vendor makes additional testing resources available, the programme board will release the contingency reserve in June.</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": ["the migration will proceed", "will the migration proceed", "the migration proceeds", "has the migration proceeded"],
+        "answer": "B",
+        "translation": "Chỉ khi những bản ghi đã được làm sạch đó được kiểm chứng độc lập thì việc di chuyển dữ liệu mới được tiến hành sang môi trường vận hành.",
+        "explanation": "Khi 'Not until + mệnh đề trạng ngữ' đặt ở đầu câu, mệnh đề chính bắt buộc phải đảo ngữ ('will the migration proceed'). 'the migration will proceed' và 'the migration proceeds' không đảo ngữ, còn 'has the migration proceeded' sai thì tương lai dự kiến trong tháng Tư.",
+        "vocab": [
+          ["validate", "v.", "kiểm chứng, xác nhận"],
+          ["proceed", "v.", "tiến hành, đi tiếp"],
+          ["legacy records", "n.", "dữ liệu cũ"]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the sentence that best completes blank [144].",
+        "options": [
+          "Consequently, the steering committee has formally voted to postpone the 30 June launch until the fourth quarter.",
+          "The deferral is not expected to affect the overall timeline, since the cleansing was already under way.",
+          "Because duplicate entries cannot be removed before May, production testing has been suspended indefinitely.",
+          "Phase Two has already exceeded its revised budget, prompting auditors to freeze all remaining deliverables."
+        ],
+        "answer": "B",
+        "translation": "Việc lùi thời hạn này được cho là sẽ không ảnh hưởng đến tiến độ tổng thể, vì công việc làm sạch dữ liệu vốn đã được triển khai từ trước.",
+        "explanation": "Câu trước báo hoãn migration từ tháng Hai sang tháng Tư; câu sau mở đầu bằng trạng từ nhượng bộ 'Nonetheless' cảnh báo nguy cơ nếu trễ thêm bốn tuần đối với mốc 30/6. Do đó, câu ở giữa phải đưa ra nhận định trấn an ban đầu ('not expected to affect the overall timeline') để 'Nonetheless' phản biện lại. A và C mâu thuẫn với việc migration dự kiến sang tháng Tư và ngày go-live vẫn là 30/6; D mâu thuẫn trực tiếp câu đầu ('within the revised budget').",
+        "vocab": [
+          ["deferral", "n.", "sự hoãn, sự lùi thời hạn"],
+          ["overall timeline", "phrase", "tiến độ tổng thể"],
+          ["under way", "phrase", "đang được triển khai"]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": ["detrimental", "negligible", "salutary", "perfunctory"],
+        "answer": "A",
+        "translation": "Tuy vậy, uỷ ban chỉ đạo cần lưu ý rằng một sự chậm trễ bốn tuần trong nhánh công việc này sẽ có tác động bất lợi đến ngày vận hành chính thức, hiện đang được ấn định vào ngày 30 tháng 6.",
+        "explanation": "'Detrimental' mang nghĩa có hại, bất lợi — khớp với cảnh báo thận trọng mở đầu bằng 'Nonetheless' về nguy cơ trượt mốc 30/6. 'negligible' (không đáng kể) làm vô nghĩa lời cảnh báo; 'salutary' (bổ ích, có lợi) ngược nghĩa; 'perfunctory' (qua loa) không đi với kết quả chậm tiến độ.",
+        "vocab": [
+          ["slip", "n.", "sự chậm trễ, sự trượt tiến độ"],
+          ["detrimental", "adj.", "bất lợi, có hại"],
+          ["go-live date", "n.", "ngày vận hành chính thức"]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Select the best answer to complete blank [146].",
+        "options": ["Even though", "Unless", "Provided that", "As though"],
+        "answer": "C",
+        "translation": "Với điều kiện nhà cung cấp cung cấp thêm nguồn lực kiểm thử, hội đồng chương trình sẽ giải phóng khoản dự phòng vào tháng Sáu.",
+        "explanation": "'Provided that' là liên từ điều kiện nghĩa 'miễn là, với điều kiện là', khớp logic việc chỉ giải ngân quỹ dự phòng khi nhà cung cấp đáp ứng thêm nguồn lực kiểm thử. 'Unless' (trừ khi) đảo ngược điều kiện, 'Even though' (mặc dù) và 'As though' (như thể là) không phù hợp tương lai có điều kiện.",
+        "vocab": [
+          ["provided that", "conj.", "với điều kiện là"],
+          ["contingency reserve", "n.", "quỹ dự phòng"],
+          ["release", "v.", "giải phóng, giải ngân"]
+        ]
+      }
+    ]
+  }
+]

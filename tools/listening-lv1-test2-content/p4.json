@@ -1,0 +1,632 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, shoppers, and welcome to King's Department Store. Today only, we are having a special summer sale on the second floor. All men's and women's shoes are thirty percent off, and summer hats are half price. Also, if you spend fifty dollars or more today, you will receive a free canvas shopping bag at the customer service desk near the main exit. Thank you for shopping with us!",
+    "questionText": "Where is this announcement being made?",
+    "options": [
+      "At a supermarket",
+      "At a department store",
+      "At a train station",
+      "At a sports stadium"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Thông báo này đang được phát ở đâu?\n(A) Tại một siêu thị\n(B) Tại một cửa hàng bách hóa\n(C) Tại một nhà ga tàu hỏa\n(D) Tại một sân vận động thể thao",
+    "explanation": "Lời thông báo mở đầu bằng 'welcome to King's Department Store' (chào mừng đến với Cửa hàng bách hóa King), nên đáp án đúng là (B).",
+    "vocab": [
+      ["department store", "n", "cửa hàng bách hóa, trung tâm mua sắm"],
+      ["shopper", "n", "khách mua hàng"],
+      ["summer sale", "n", "đợt giảm giá mùa hè"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, shoppers, and welcome to King's Department Store. Today only, we are having a special summer sale on the second floor. All men's and women's shoes are thirty percent off, and summer hats are half price. Also, if you spend fifty dollars or more today, you will receive a free canvas shopping bag at the customer service desk near the main exit. Thank you for shopping with us!",
+    "questionText": "What items are on sale for half price?",
+    "options": [
+      "Men's shoes",
+      "Women's coats",
+      "Summer hats",
+      "Leather belts"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Mặt hàng nào đang được giảm một nửa giá?\n(A) Giày nam\n(B) Áo khoác nữ\n(C) Mũ mùa hè\n(D) Thắt lưng da",
+    "explanation": "Thông báo nêu rõ giày nam nữ giảm 30% và mũ mùa hè giảm một nửa giá ('summer hats are half price'), khớp với (C).",
+    "vocab": [
+      ["thirty percent off", "phr", "giảm giá ba mươi phần trăm"],
+      ["half price", "n", "nửa giá (giảm 50%)"],
+      ["second floor", "n", "tầng hai"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good afternoon, shoppers, and welcome to King's Department Store. Today only, we are having a special summer sale on the second floor. All men's and women's shoes are thirty percent off, and summer hats are half price. Also, if you spend fifty dollars or more today, you will receive a free canvas shopping bag at the customer service desk near the main exit. Thank you for shopping with us!",
+    "questionText": "How can customers get a free shopping bag?",
+    "options": [
+      "By arriving before noon",
+      "By signing up for a store card",
+      "By spending at least fifty dollars",
+      "By bringing a friend to the store"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Khách hàng có thể nhận túi mua sắm miễn phí bằng cách nào?\n(A) Đến trước buổi trưa\n(B) Đăng ký thẻ thành viên của cửa hàng\n(C) Chi tiêu ít nhất năm mươi đô la\n(D) Đi cùng một người bạn đến cửa hàng",
+    "explanation": "Thông báo nói nếu khách chi tiêu từ 50 đô la trở lên hôm nay sẽ nhận được một chiếc túi vải mua sắm miễn phí ('if you spend fifty dollars or more today, you will receive a free canvas shopping bag'), khớp với (C).",
+    "vocab": [
+      ["spend", "v", "chi tiêu"],
+      ["canvas shopping bag", "n", "túi mua sắm bằng vải bố"],
+      ["main exit", "n", "lối ra chính"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Davis. This is Brian calling from Quick Clean Laundry. The two winter coats and the gray suit you dropped off on Tuesday are clean and ready for you to pick up. The total cost is twenty-four dollars. Our shop is open until seven o'clock this evening, and from eight A.M. to five P.M. tomorrow, Saturday. Please remember to bring your yellow claim ticket when you come in. Thank you!",
+    "questionText": "Who is calling Ms. Davis?",
+    "options": [
+      "A clothing designer",
+      "A laundry shop worker",
+      "A delivery driver",
+      "A hotel manager"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Ai đang gọi điện cho cô Davis?\n(A) Một nhà thiết kế thời trang\n(B) Một nhân viên tiệm giặt là\n(C) Một tài xế giao hàng\n(D) Một quản lý khách sạn",
+    "explanation": "Người gọi giới thiệu là Brian gọi từ tiệm giặt là Quick Clean ('calling from Quick Clean Laundry'), nên người gọi là nhân viên tiệm giặt là (B).",
+    "vocab": [
+      ["laundry", "n", "tiệm giặt là"],
+      ["drop off", "phr", "đem gửi, để lại"],
+      ["winter coat", "n", "áo khoác mùa đông"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Davis. This is Brian calling from Quick Clean Laundry. The two winter coats and the gray suit you dropped off on Tuesday are clean and ready for you to pick up. The total cost is twenty-four dollars. Our shop is open until seven o'clock this evening, and from eight A.M. to five P.M. tomorrow, Saturday. Please remember to bring your yellow claim ticket when you come in. Thank you!",
+    "questionText": "What time does the shop close on Saturday?",
+    "options": [
+      "At 4:00 P.M.",
+      "At 5:00 P.M.",
+      "At 7:00 P.M.",
+      "At 8:00 P.M."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Cửa tiệm đóng cửa lúc mấy giờ vào ngày thứ Bảy?\n(A) Lúc 4 giờ chiều.\n(B) Lúc 5 giờ chiều.\n(C) Lúc 7 giờ tối.\n(D) Lúc 8 giờ tối.",
+    "explanation": "Brian cho biết cửa tiệm mở cửa từ 8 giờ sáng đến 5 giờ chiều ngày mai, thứ Bảy ('from eight A.M. to five P.M. tomorrow, Saturday'), nên giờ đóng cửa thứ Bảy là 5:00 P.M. (B).",
+    "vocab": [
+      ["ready", "adj", "sẵn sàng"],
+      ["pick up", "phr", "đến lấy"],
+      ["total cost", "n", "tổng chi phí"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following telephone message:",
+    "audioScript": "Hello, Ms. Davis. This is Brian calling from Quick Clean Laundry. The two winter coats and the gray suit you dropped off on Tuesday are clean and ready for you to pick up. The total cost is twenty-four dollars. Our shop is open until seven o'clock this evening, and from eight A.M. to five P.M. tomorrow, Saturday. Please remember to bring your yellow claim ticket when you come in. Thank you!",
+    "questionText": "What should Ms. Davis bring to the shop?",
+    "options": [
+      "A cloth hanger",
+      "A yellow claim ticket",
+      "A discount coupon",
+      "Exact cash"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Cô Davis nên mang theo gì khi đến cửa tiệm?\n(A) Một chiếc móc treo quần áo\n(B) Một phiếu nhận đồ màu vàng\n(C) Một phiếu giảm giá\n(D) Tiền mặt vừa đủ",
+    "explanation": "Ở cuối tin nhắn, Brian nhắc: 'Please remember to bring your yellow claim ticket when you come in' (Vui lòng nhớ mang theo phiếu nhận đồ màu vàng khi cô đến), khớp với (B).",
+    "vocab": [
+      ["claim ticket", "n", "phiếu nhận đồ"],
+      ["suit", "n", "bộ com-lê, đồ vest"],
+      ["remember", "v", "ghi nhớ"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "May I have your attention, please? Train Number 105 to Boston, scheduled to leave at ten fifteen, will not depart from Track Four today. Instead, it will board on Track Six, just across the platform. We apologize for this last-minute change. Passengers who need assistance with heavy bags may ask any station worker wearing a blue jacket. The train will begin boarding in about ten minutes.",
+    "questionText": "Where would you hear this announcement?",
+    "options": [
+      "On an airplane",
+      "At a train station",
+      "On a city bus",
+      "At a ferry terminal"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Bạn sẽ nghe thấy thông báo này ở đâu?\n(A) Trên một chuyến máy bay\n(B) Tại một nhà ga tàu hỏa\n(C) Trên một chiếc xe buýt thành phố\n(D) Tại một bến phà",
+    "explanation": "Thông báo nói về chuyến tàu số 105 đi Boston ('Train Number 105 to Boston') và đường ray ('Track Four', 'Track Six'), nên đây là tại nhà ga tàu hỏa (B).",
+    "vocab": [
+      ["scheduled", "adj", "được lên lịch"],
+      ["depart", "v", "khởi hành"],
+      ["platform", "n", "sân ga"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "May I have your attention, please? Train Number 105 to Boston, scheduled to leave at ten fifteen, will not depart from Track Four today. Instead, it will board on Track Six, just across the platform. We apologize for this last-minute change. Passengers who need assistance with heavy bags may ask any station worker wearing a blue jacket. The train will begin boarding in about ten minutes.",
+    "questionText": "What has changed about Train Number 105?",
+    "options": [
+      "Its departure time",
+      "Its ticket price",
+      "Its boarding track",
+      "Its final stop"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì đã thay đổi đối với Chuyến tàu số 105?\n(A) Giờ khởi hành của tàu\n(B) Giá vé của tàu\n(C) Đường ray đón khách của tàu\n(D) Điểm dừng cuối cùng của tàu",
+    "explanation": "Thông báo cho biết tàu sẽ không khởi hành từ Đường ray số Bốn mà chuyển sang đón khách ở Đường ray số Sáu ('will not depart from Track Four today. Instead, it will board on Track Six'), tức là thay đổi đường ray đón khách (C).",
+    "vocab": [
+      ["board", "v", "lên tàu, đón khách"],
+      ["apologize", "v", "xin lỗi"],
+      ["last-minute", "adj", "vào phút chót"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioScript": "May I have your attention, please? Train Number 105 to Boston, scheduled to leave at ten fifteen, will not depart from Track Four today. Instead, it will board on Track Six, just across the platform. We apologize for this last-minute change. Passengers who need assistance with heavy bags may ask any station worker wearing a blue jacket. The train will begin boarding in about ten minutes.",
+    "questionText": "How can passengers identify station workers?",
+    "options": [
+      "They are standing near the ticket booth.",
+      "They are wearing blue jackets.",
+      "They are holding red flags.",
+      "They are wearing yellow hats."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hành khách có thể nhận biết nhân viên nhà ga bằng cách nào?\n(A) Họ đang đứng gần quầy bán vé.\n(B) Họ đang mặc áo khoác màu xanh dương.\n(C) Họ đang cầm cờ màu đỏ.\n(D) Họ đang đội mũ màu vàng.",
+    "explanation": "Thông báo hướng dẫn hành khách cần hỗ trợ mang hành lý nặng có thể nhờ bất kỳ nhân viên nhà ga nào mặc áo khoác màu xanh dương ('any station worker wearing a blue jacket'), khớp với (B).",
+    "vocab": [
+      ["passenger", "n", "hành khách"],
+      ["assistance", "n", "sự hỗ trợ, giúp đỡ"],
+      ["heavy bag", "n", "túi hành lý nặng"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioScript": "Good morning, team! Before we start our workday, I have some exciting news. This Friday, we will celebrate our company's tenth anniversary with a free pizza lunch in the main conference room at noon. The company is providing pizza, salads, and cold drinks for everyone. After lunch, our director, Ms. Wilson, will give a short speech and hand out gifts to employees who have worked here for five years or more.",
+    "questionText": "What is the company celebrating this Friday?",
+    "options": [
+      "The opening of a new branch",
+      "Its tenth anniversary",
+      "A record sales month",
+      "The director's birthday"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Công ty sẽ kỷ niệm sự kiện gì vào thứ Sáu tuần này?\n(A) Khai trương một chi nhánh mới\n(B) Lễ kỷ niệm mười năm thành lập\n(C) Một tháng có doanh số kỷ lục\n(D) Sinh nhật của giám đốc",
+    "explanation": "Người nói thông báo thứ Sáu tuần này công ty sẽ kỷ niệm 10 năm thành lập ('celebrate our company's tenth anniversary'), khớp với (B).",
+    "vocab": [
+      ["celebrate", "v", "ăn mừng, kỷ niệm"],
+      ["anniversary", "n", "lễ kỷ niệm năm thành lập"],
+      ["exciting news", "n", "tin tức thú vị"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioScript": "Good morning, team! Before we start our workday, I have some exciting news. This Friday, we will celebrate our company's tenth anniversary with a free pizza lunch in the main conference room at noon. The company is providing pizza, salads, and cold drinks for everyone. After lunch, our director, Ms. Wilson, will give a short speech and hand out gifts to employees who have worked here for five years or more.",
+    "questionText": "Where will the lunch be held?",
+    "options": [
+      "At a local park",
+      "In the staff cafeteria",
+      "In the main conference room",
+      "At an Italian restaurant"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bữa trưa sẽ được tổ chức ở đâu?\n(A) Tại một công viên địa phương\n(B) Trong nhà ăn nhân viên\n(C) Trong phòng họp chính\n(D) Tại một nhà hàng Ý",
+    "explanation": "Bữa trưa pizza miễn phí sẽ được tổ chức trong phòng họp chính vào lúc 12 giờ trưa ('in the main conference room at noon'), khớp với (C).",
+    "vocab": [
+      ["conference room", "n", "phòng họp"],
+      ["provide", "v", "cung cấp"],
+      ["cold drink", "n", "đồ uống lạnh"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioScript": "Good morning, team! Before we start our workday, I have some exciting news. This Friday, we will celebrate our company's tenth anniversary with a free pizza lunch in the main conference room at noon. The company is providing pizza, salads, and cold drinks for everyone. After lunch, our director, Ms. Wilson, will give a short speech and hand out gifts to employees who have worked here for five years or more.",
+    "questionText": "What will Ms. Wilson do after lunch?",
+    "options": [
+      "Show a training video",
+      "Take a group photo",
+      "Give a speech and hand out gifts",
+      "Introduce new team members"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bà Wilson sẽ làm gì sau bữa trưa?\n(A) Chiếu một video đào tạo\n(B) Chụp ảnh tập thể\n(C) Phát biểu và trao quà tặng\n(D) Giới thiệu các thành viên mới của nhóm",
+    "explanation": "Sau bữa trưa, giám đốc Wilson sẽ phát biểu ngắn gọn và trao quà cho các nhân viên gắn bó từ 5 năm trở lên ('give a short speech and hand out gifts'), khớp với (C).",
+    "vocab": [
+      ["director", "n", "giám đốc"],
+      ["give a speech", "phr", "phát biểu"],
+      ["hand out", "phr", "trao, phát"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide talk:",
+    "audioScript": "Welcome, everyone, to the City Art Museum! My name is Lucas, and I'll be leading your one-hour tour this morning. We will begin here on the first floor in the modern painting room, and then we'll go upstairs to see the famous glass sculptures. Feel free to take photos inside the museum, but please turn off your camera flash so the bright light doesn't damage the artwork. Let's step inside our first room now.",
+    "questionText": "How long will the tour last?",
+    "options": [
+      "Thirty minutes",
+      "Forty-five minutes",
+      "One hour",
+      "Two hours"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Chuyến tham quan sẽ kéo dài bao lâu?\n(A) Ba mươi phút\n(B) Bốn mươi lăm phút\n(C) Một giờ\n(D) Hai giờ",
+    "explanation": "Hướng dẫn viên Lucas giới thiệu anh sẽ dẫn chuyến tham quan kéo dài một giờ vào sáng nay ('leading your one-hour tour this morning'), khớp với (C).",
+    "vocab": [
+      ["art museum", "n", "bảo tàng nghệ thuật"],
+      ["lead a tour", "phr", "dẫn đoàn tham quan"],
+      ["modern painting", "n", "tranh hội họa hiện đại"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide talk:",
+    "audioScript": "Welcome, everyone, to the City Art Museum! My name is Lucas, and I'll be leading your one-hour tour this morning. We will begin here on the first floor in the modern painting room, and then we'll go upstairs to see the famous glass sculptures. Feel free to take photos inside the museum, but please turn off your camera flash so the bright light doesn't damage the artwork. Let's step inside our first room now.",
+    "questionText": "What will the group see upstairs?",
+    "options": [
+      "Ancient coins",
+      "Glass sculptures",
+      "Wooden furniture",
+      "Old photographs"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Đoàn tham quan sẽ xem gì ở tầng trên?\n(A) Tiền xu cổ\n(B) Các tác phẩm điêu khắc bằng thủy tinh\n(C) Đồ nội thất bằng gỗ\n(D) Những bức ảnh cũ",
+    "explanation": "Hướng dẫn viên nói sau khi xem phòng tranh hiện đại ở tầng một, đoàn sẽ lên tầng trên để xem các tác phẩm điêu khắc bằng thủy tinh nổi tiếng ('go upstairs to see the famous glass sculptures'), khớp với (B).",
+    "vocab": [
+      ["upstairs", "adv", "ở tầng trên"],
+      ["famous", "adj", "nổi tiếng"],
+      ["sculpture", "n", "tác phẩm điêu khắc"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following tour guide talk:",
+    "audioScript": "Welcome, everyone, to the City Art Museum! My name is Lucas, and I'll be leading your one-hour tour this morning. We will begin here on the first floor in the modern painting room, and then we'll go upstairs to see the famous glass sculptures. Feel free to take photos inside the museum, but please turn off your camera flash so the bright light doesn't damage the artwork. Let's step inside our first room now.",
+    "questionText": "What are visitors asked NOT to do?",
+    "options": [
+      "Use a camera flash",
+      "Ask questions during the tour",
+      "Carry small bags",
+      "Walk on the second floor"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Khách tham quan được yêu cầu KHÔNG làm điều gì?\n(A) Sử dụng đèn flash máy ảnh\n(B) Đặt câu hỏi trong chuyến tham quan\n(C) Mang theo túi nhỏ\n(D) Đi bộ trên tầng hai",
+    "explanation": "Khách được chụp ảnh thoải mái nhưng được yêu cầu tắt đèn flash máy ảnh ('please turn off your camera flash') để ánh sáng mạnh không làm hỏng tác phẩm nghệ thuật, khớp với (A).",
+    "vocab": [
+      ["turn off", "phr", "tắt đi"],
+      ["camera flash", "n", "đèn nháy (flash) máy ảnh"],
+      ["damage", "v", "làm hư hại"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following advertisement:",
+    "audioScript": "Is your home computer running slowly? Bring it to Tech Care Center on Pine Street! Our friendly technicians can repair laptops and desktop computers of any brand. This month, we are offering a complete virus check and screen cleaning for only twenty dollars. We are open every day from nine A.M. to eight P.M., right across from the post office. No appointment is needed—just walk right in!",
+    "questionText": "What kind of business is Tech Care Center?",
+    "options": [
+      "A mobile phone store",
+      "A computer repair shop",
+      "An internet cafe",
+      "A printing company"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tech Care Center là loại hình doanh nghiệp gì?\n(A) Một cửa hàng điện thoại di động\n(B) Một cửa hàng sửa chữa máy tính\n(C) Một quán cà phê internet\n(D) Một công ty in ấn",
+    "explanation": "Đoạn quảng cáo mời khách mang máy tính chạy chậm đến để các kỹ thuật viên sửa laptop và máy tính để bàn ('repair laptops and desktop computers'), nên đây là cửa hàng sửa chữa máy tính (B).",
+    "vocab": [
+      ["run slowly", "phr", "chạy chậm"],
+      ["desktop computer", "n", "máy tính để bàn"],
+      ["brand", "n", "thương hiệu, hãng"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following advertisement:",
+    "audioScript": "Is your home computer running slowly? Bring it to Tech Care Center on Pine Street! Our friendly technicians can repair laptops and desktop computers of any brand. This month, we are offering a complete virus check and screen cleaning for only twenty dollars. We are open every day from nine A.M. to eight P.M., right across from the post office. No appointment is needed—just walk right in!",
+    "questionText": "How much is the special service this month?",
+    "options": [
+      "Eight dollars",
+      "Nine dollars",
+      "Twenty dollars",
+      "Thirty dollars"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Dịch vụ ưu đãi trong tháng này có giá bao nhiêu?\n(A) Tám đô la\n(B) Chín đô la\n(C) Hai mươi đô la\n(D) Ba mươi đô la",
+    "explanation": "Quảng cáo nêu rõ tháng này gói kiểm tra vi-rút toàn diện và vệ sinh màn hình chỉ có giá 20 đô la ('for only twenty dollars'), khớp với (C).",
+    "vocab": [
+      ["offer", "v", "cung cấp, đưa ra ưu đãi"],
+      ["complete", "adj", "toàn diện, đầy đủ"],
+      ["screen cleaning", "n", "vệ sinh màn hình"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following advertisement:",
+    "audioScript": "Is your home computer running slowly? Bring it to Tech Care Center on Pine Street! Our friendly technicians can repair laptops and desktop computers of any brand. This month, we are offering a complete virus check and screen cleaning for only twenty dollars. We are open every day from nine A.M. to eight P.M., right across from the post office. No appointment is needed—just walk right in!",
+    "questionText": "Where is Tech Care Center located?",
+    "options": [
+      "Inside a shopping mall",
+      "Next to a bank",
+      "Across from the post office",
+      "Behind the train station"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tech Care Center nằm ở đâu?\n(A) Bên trong một trung tâm thương mại\n(B) Bên cạnh một ngân hàng\n(C) Đối diện bưu điện\n(D) Phía sau nhà ga tàu hỏa",
+    "explanation": "Quảng cáo chỉ rõ cửa hàng nằm ngay đối diện bưu điện ('right across from the post office'), khớp với (C).",
+    "vocab": [
+      ["across from", "phr", "đối diện với"],
+      ["post office", "n", "bưu điện"],
+      ["appointment", "n", "cuộc hẹn trước"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following weather report:",
+    "audioScript": "Good morning, everyone! Here is your weekend weather report for River City. Today, Saturday, we will enjoy warm and sunny weather all afternoon, with a high temperature of twenty-five degrees. It's a perfect day to visit the beach or have a picnic in the park. However, clouds will move in tonight, and we expect heavy rain all day Sunday. Don't forget to take your umbrella if you go out tomorrow!",
+    "questionText": "What is the weather like on Saturday afternoon?",
+    "options": [
+      "Cold and windy",
+      "Warm and sunny",
+      "Cloudy and wet",
+      "Snowy and icy"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Thời tiết chiều thứ Bảy như thế nào?\n(A) Lạnh và nhiều gió\n(B) Ấm áp và có nắng\n(C) Nhiều mây và ẩm ướt\n(D) Có tuyết và đóng băng",
+    "explanation": "Bản tin dự báo hôm nay, thứ Bảy, trời sẽ ấm áp và có nắng suốt buổi chiều ('enjoy warm and sunny weather all afternoon'), khớp với (B).",
+    "vocab": [
+      ["weather report", "n", "bản tin dự báo thời tiết"],
+      ["warm", "adj", "ấm áp"],
+      ["temperature", "n", "nhiệt độ"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following weather report:",
+    "audioScript": "Good morning, everyone! Here is your weekend weather report for River City. Today, Saturday, we will enjoy warm and sunny weather all afternoon, with a high temperature of twenty-five degrees. It's a perfect day to visit the beach or have a picnic in the park. However, clouds will move in tonight, and we expect heavy rain all day Sunday. Don't forget to take your umbrella if you go out tomorrow!",
+    "questionText": "What does the speaker say Saturday is a good day for?",
+    "options": [
+      "Staying indoors and reading",
+      "Washing your car",
+      "Going to the beach or a park",
+      "Planting trees in the garden"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói cho biết thứ Bảy là một ngày lý tưởng để làm gì?\n(A) Ở trong nhà và đọc sách\n(B) Rửa xe ô tô\n(C) Đi biển hoặc đi công viên\n(D) Trồng cây trong vườn",
+    "explanation": "Người dẫn chương trình nói đây là ngày tuyệt vời để đi biển hoặc dã ngoại ở công viên ('a perfect day to visit the beach or have a picnic in the park'), khớp với (C).",
+    "vocab": [
+      ["perfect", "adj", "hoàn hảo, lý tưởng"],
+      ["beach", "n", "bãi biển"],
+      ["picnic", "n", "buổi dã ngoại"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following weather report:",
+    "audioScript": "Good morning, everyone! Here is your weekend weather report for River City. Today, Saturday, we will enjoy warm and sunny weather all afternoon, with a high temperature of twenty-five degrees. It's a perfect day to visit the beach or have a picnic in the park. However, clouds will move in tonight, and we expect heavy rain all day Sunday. Don't forget to take your umbrella if you go out tomorrow!",
+    "questionText": "What is expected on Sunday?",
+    "options": [
+      "Clear blue skies",
+      "Heavy rain",
+      "Strong hot winds",
+      "Light morning fog"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Thời tiết ngày Chủ nhật được dự báo sẽ có gì?\n(A) Bầu trời trong xanh\n(B) Mưa lớn\n(C) Gió nóng mạnh\n(D) Sương mù nhẹ buổi sáng",
+    "explanation": "Bản tin cho biết tối nay mây kéo đến và dự kiến có mưa lớn cả ngày Chủ nhật ('we expect heavy rain all day Sunday'), khớp với (B).",
+    "vocab": [
+      ["expect", "v", "dự kiến, mong đợi"],
+      ["heavy rain", "n", "mưa to, mưa lớn"],
+      ["umbrella", "n", "chiếc ô, dù"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following recorded message:",
+    "audioScript": "Thank you for calling Dr. Kim's Family Clinic. Our office is currently closed for the lunch break from twelve P.M. to one thirty P.M. If you are calling to schedule a checkup or change an existing appointment, please leave your name, phone number, and preferred date after the beep. One of our receptionists will call you back this afternoon. You can also book an appointment anytime on our website.",
+    "questionText": "Why is the clinic closed right now?",
+    "options": [
+      "It is a national holiday.",
+      "It is the weekend.",
+      "It is time for the lunch break.",
+      "The doctors are at a conference."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao phòng khám hiện đang đóng cửa?\n(A) Hôm nay là ngày nghỉ lễ quốc gia.\n(B) Hôm nay là cuối tuần.\n(C) Đang là giờ nghỉ trưa.\n(D) Các bác sĩ đang dự hội nghị.",
+    "explanation": "Tin nhắn tự động thông báo văn phòng hiện đang đóng cửa nghỉ trưa từ 12 giờ đến 1 giờ 30 chiều ('currently closed for the lunch break'), khớp với (C).",
+    "vocab": [
+      ["clinic", "n", "phòng khám"],
+      ["currently", "adv", "hiện tại"],
+      ["lunch break", "n", "giờ nghỉ trưa"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following recorded message:",
+    "audioScript": "Thank you for calling Dr. Kim's Family Clinic. Our office is currently closed for the lunch break from twelve P.M. to one thirty P.M. If you are calling to schedule a checkup or change an existing appointment, please leave your name, phone number, and preferred date after the beep. One of our receptionists will call you back this afternoon. You can also book an appointment anytime on our website.",
+    "questionText": "What time will the clinic open again today?",
+    "options": [
+      "At 12:30 P.M.",
+      "At 1:00 P.M.",
+      "At 1:30 P.M.",
+      "At 2:00 P.M."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Hôm nay phòng khám sẽ mở cửa lại lúc mấy giờ?\n(A) Lúc 12 giờ 30 trưa.\n(B) Lúc 1 giờ chiều.\n(C) Lúc 1 giờ 30 chiều.\n(D) Lúc 2 giờ chiều.",
+    "explanation": "Giờ nghỉ trưa kéo dài từ 12 giờ đến 1 giờ 30 chiều ('from twelve P.M. to one thirty P.M.'), nên phòng khám mở cửa lại lúc 1:30 P.M. (C).",
+    "vocab": [
+      ["schedule", "v", "đặt lịch"],
+      ["checkup", "n", "buổi khám sức khỏe"],
+      ["existing", "adj", "hiện có, đã đặt sẵn"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following recorded message:",
+    "audioScript": "Thank you for calling Dr. Kim's Family Clinic. Our office is currently closed for the lunch break from twelve P.M. to one thirty P.M. If you are calling to schedule a checkup or change an existing appointment, please leave your name, phone number, and preferred date after the beep. One of our receptionists will call you back this afternoon. You can also book an appointment anytime on our website.",
+    "questionText": "What can callers do on the clinic's website?",
+    "options": [
+      "Pay a medical bill",
+      "Book an appointment",
+      "Watch health videos",
+      "Order medicine"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người gọi có thể làm gì trên trang web của phòng khám?\n(A) Thanh toán hóa đơn y tế\n(B) Đặt lịch hẹn khám\n(C) Xem các video về sức khỏe\n(D) Đặt mua thuốc",
+    "explanation": "Câu cuối tin nhắn cho biết khách cũng có thể đặt lịch hẹn bất cứ lúc nào trên trang web ('book an appointment anytime on our website'), khớp với (B).",
+    "vocab": [
+      ["preferred date", "n", "ngày mong muốn"],
+      ["call back", "phr", "gọi điện lại"],
+      ["book an appointment", "phr", "đặt lịch hẹn"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following introduction:",
+    "audioScript": "Good evening, everyone, and welcome to Valley Community Center! Tonight, we are happy to host a special cooking class with Chef Maria Rossi, the owner of Rossi's Kitchen. During this two-hour class, Chef Rossi will show you how to make fresh pasta and two simple tomato sauces at home. All the ingredients and aprons are already on your tables. At the end of the class, everyone will receive a free recipe book to take home.",
+    "questionText": "Who is Maria Rossi?",
+    "options": [
+      "A book editor",
+      "A restaurant owner and chef",
+      "A supermarket manager",
+      "A kitchen equipment salesperson"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Bà Maria Rossi là ai?\n(A) Một biên tập viên sách\n(B) Một đầu bếp kiêm chủ nhà hàng\n(C) Một quản lý siêu thị\n(D) Một nhân viên bán thiết bị nhà bếp",
+    "explanation": "Người nói giới thiệu 'Chef Maria Rossi, the owner of Rossi's Kitchen' (Đầu bếp Maria Rossi, chủ nhà hàng Rossi's Kitchen), khớp với (B).",
+    "vocab": [
+      ["community center", "n", "trung tâm sinh hoạt cộng đồng"],
+      ["host", "v", "tổ chức, đăng cai"],
+      ["owner", "n", "chủ sở hữu"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following introduction:",
+    "audioScript": "Good evening, everyone, and welcome to Valley Community Center! Tonight, we are happy to host a special cooking class with Chef Maria Rossi, the owner of Rossi's Kitchen. During this two-hour class, Chef Rossi will show you how to make fresh pasta and two simple tomato sauces at home. All the ingredients and aprons are already on your tables. At the end of the class, everyone will receive a free recipe book to take home.",
+    "questionText": "What will participants learn to make?",
+    "options": [
+      "Chocolate cake and coffee",
+      "Fresh pasta and tomato sauces",
+      "Vegetable soup and bread",
+      "Chicken salad and fruit juice"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Những người tham gia sẽ học cách làm món gì?\n(A) Bánh kem sô-cô-la và cà phê\n(B) Mì Ý tươi và nước sốt cà chua\n(C) Súp rau củ và bánh mì\n(D) Salad gà và nước ép trái cây",
+    "explanation": "Đầu bếp Rossi sẽ hướng dẫn học viên cách làm mì Ý tươi và hai loại sốt cà chua đơn giản tại nhà ('how to make fresh pasta and two simple tomato sauces at home'), khớp với (B).",
+    "vocab": [
+      ["fresh pasta", "n", "mì Ý tươi"],
+      ["sauce", "n", "nước sốt"],
+      ["ingredient", "n", "nguyên liệu nấu ăn"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following introduction:",
+    "audioScript": "Good evening, everyone, and welcome to Valley Community Center! Tonight, we are happy to host a special cooking class with Chef Maria Rossi, the owner of Rossi's Kitchen. During this two-hour class, Chef Rossi will show you how to make fresh pasta and two simple tomato sauces at home. All the ingredients and aprons are already on your tables. At the end of the class, everyone will receive a free recipe book to take home.",
+    "questionText": "What will everyone receive at the end of the class?",
+    "options": [
+      "A bottle of olive oil",
+      "A free recipe book",
+      "A wooden spoon",
+      "A restaurant gift card"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Mọi người sẽ nhận được gì vào cuối buổi học?\n(A) Một chai dầu ô-liu\n(B) Một cuốn sách công thức nấu ăn miễn phí\n(C) Một chiếc thìa gỗ\n(D) Một thẻ quà tặng nhà hàng",
+    "explanation": "Cuối bài giới thiệu, người nói cho biết khi kết thúc lớp học, mọi người sẽ nhận được một cuốn sách dạy nấu ăn miễn phí mang về ('receive a free recipe book to take home'), khớp với (B).",
+    "vocab": [
+      ["apron", "n", "tạp dề"],
+      ["receive", "v", "nhận được"],
+      ["recipe book", "n", "sách công thức nấu ăn"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following telephone message:",
+    "audioScript": "Hi, Mr. Chen. This is Amy from Sunrise Furniture Store. I'm calling to let you know that your new wooden dining table and six chairs have arrived at our warehouse. We can deliver them to your house this Thursday, either in the morning between nine and eleven, or in the afternoon between two and four. Please call me back at 555-0192 to tell me which time works best for you. Thanks, and have a great day!",
+    "questionText": "Why is Amy calling Mr. Chen?",
+    "options": [
+      "To ask him to pay an overdue bill",
+      "To tell him his furniture is ready for delivery",
+      "To invite him to a store sale",
+      "To ask about a job application"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao Amy lại gọi điện cho ông Chen?\n(A) Để yêu cầu ông thanh toán hóa đơn quá hạn\n(B) Để báo rằng đồ nội thất của ông đã sẵn sàng để giao\n(C) Để mời ông đến một đợt giảm giá tại cửa hàng\n(D) Để hỏi về đơn xin việc",
+    "explanation": "Amy gọi từ cửa hàng nội thất Sunrise để báo rằng bàn ăn gỗ mới và 6 chiếc ghế của ông đã về tới kho và có thể giao vào thứ Năm này, khớp với (B).",
+    "vocab": [
+      ["furniture store", "n", "cửa hàng nội thất"],
+      ["dining table", "n", "bàn ăn"],
+      ["warehouse", "n", "nhà kho"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following telephone message:",
+    "audioScript": "Hi, Mr. Chen. This is Amy from Sunrise Furniture Store. I'm calling to let you know that your new wooden dining table and six chairs have arrived at our warehouse. We can deliver them to your house this Thursday, either in the morning between nine and eleven, or in the afternoon between two and four. Please call me back at 555-0192 to tell me which time works best for you. Thanks, and have a great day!",
+    "questionText": "When can the store deliver the items?",
+    "options": [
+      "This Tuesday",
+      "This Wednesday",
+      "This Thursday",
+      "This Friday"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Cửa hàng có thể giao hàng vào ngày nào?\n(A) Thứ Ba tuần này\n(B) Thứ Tư tuần này\n(C) Thứ Năm tuần này\n(D) Thứ Sáu tuần này",
+    "explanation": "Amy nói: 'We can deliver them to your house this Thursday' (Chúng tôi có thể giao chúng đến nhà ông vào thứ Năm tuần này), nên (C) đúng.",
+    "vocab": [
+      ["deliver", "v", "giao hàng"],
+      ["either... or", "conj", "hoặc... hoặc"],
+      ["between", "prep", "trong khoảng giữa"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following telephone message:",
+    "audioScript": "Hi, Mr. Chen. This is Amy from Sunrise Furniture Store. I'm calling to let you know that your new wooden dining table and six chairs have arrived at our warehouse. We can deliver them to your house this Thursday, either in the morning between nine and eleven, or in the afternoon between two and four. Please call me back at 555-0192 to tell me which time works best for you. Thanks, and have a great day!",
+    "questionText": "What does Amy ask Mr. Chen to do?",
+    "options": [
+      "Visit the warehouse today",
+      "Send an email with his address",
+      "Call back to choose a delivery time",
+      "Measure his dining room door"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Amy yêu cầu ông Chen làm gì?\n(A) Đến nhà kho hôm nay\n(B) Gửi email kèm địa chỉ của ông ấy\n(C) Gọi lại để chọn khung giờ giao hàng\n(D) Đo cửa phòng ăn của ông ấy",
+    "explanation": "Amy nhắn: 'Please call me back at 555-0192 to tell me which time works best for you' (Vui lòng gọi lại cho tôi theo số 555-0192 để báo khung giờ nào thuận tiện nhất cho ông), khớp với (C).",
+    "vocab": [
+      ["call back", "phr", "gọi điện lại"],
+      ["work best", "phr", "thuận tiện nhất, phù hợp nhất"],
+      ["wooden", "adj", "bằng gỗ"]
+    ]
+  }
+]

@@ -1,0 +1,1678 @@
+[
+  {
+    "id": 71,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t2-p4-g1",
+    "audioScript": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "audioVoiceText": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "questionText": "Why will the flight's baggage be handled at Terminal 3?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A scheduled renovation"
+      },
+      {
+        "key": "B",
+        "text": "(B) An electrical fault"
+      },
+      {
+        "key": "C",
+        "text": "(C) A security inspection"
+      },
+      {
+        "key": "D",
+        "text": "(D) Severe weather"
+      }
+    ],
+    "correct": "B",
+    "translation": "Vì sao hành lý của chuyến bay sẽ được xử lý tại Nhà ga 3? — (A) Một đợt cải tạo đã lên kế hoạch (B) Một sự cố điện (C) Một cuộc kiểm tra an ninh (D) Thời tiết khắc nghiệt.",
+    "explanation": "Đáp án B. Thông báo nêu rõ: \"Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3\" — hành lý được chuyển sang Nhà ga 3 do sự cố điện ở Nhà ga 2. A sai vì không có kế hoạch cải tạo nào được nhắc đến. C sai vì bài không nói đến kiểm tra an ninh. D sai vì nguyên nhân được nêu là sự cố điện, không phải thời tiết.",
+    "vocab": [
+      {
+        "word": "fault",
+        "pos": "n.",
+        "meaning": "sự cố, lỗi"
+      },
+      {
+        "word": "unload",
+        "pos": "v.",
+        "meaning": "dỡ hàng xuống"
+      },
+      {
+        "word": "carousel",
+        "pos": "n.",
+        "meaning": "băng chuyền hành lý"
+      },
+      {
+        "word": "terminal",
+        "pos": "n.",
+        "meaning": "nhà ga"
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "meaning": "sự bất tiện"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t2-p4-g1",
+    "audioScript": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "audioVoiceText": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "questionText": "How often does the inter-terminal shuttle depart?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Every ten minutes"
+      },
+      {
+        "key": "B",
+        "text": "(B) Every fifteen minutes"
+      },
+      {
+        "key": "C",
+        "text": "(C) Every twenty minutes"
+      },
+      {
+        "key": "D",
+        "text": "(D) Every thirty minutes"
+      }
+    ],
+    "correct": "A",
+    "translation": "Xe đưa đón giữa các nhà ga khởi hành bao lâu một lần? — (A) Mười phút một lần (B) Mười lăm phút một lần (C) Hai mươi phút một lần (D) Ba mươi phút một lần.",
+    "explanation": "Đáp án A. Bài nói cho biết shuttle \"departs every ten minutes and takes about eight minutes\" — cứ mười phút một chuyến; tám phút là thời gian di chuyển chứ không phải tần suất. B, C và D đều là những con số không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "depart",
+        "pos": "v.",
+        "meaning": "khởi hành"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "inter-terminal",
+        "pos": "adj.",
+        "meaning": "liên nhà ga"
+      },
+      {
+        "word": "arrivals hall",
+        "pos": "n.",
+        "meaning": "sảnh đến"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioGroup": "t2-p4-g1",
+    "audioScript": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "audioVoiceText": "Attention passengers arriving on Flight 218 from Seoul. Because of an electrical fault in Terminal 2, baggage from this flight will be unloaded at Terminal 3, Carousel 7. Please follow the purple signs to the inter-terminal shuttle, which departs every ten minutes and takes about eight minutes. Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times. We apologize for the inconvenience. If you left items on the aircraft, please contact the lost-and-found office before 6 p.m.",
+    "questionText": "What should passengers with arranged ground transportation do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Call their driver immediately"
+      },
+      {
+        "key": "B",
+        "text": "(B) Wait at Carousel 7"
+      },
+      {
+        "key": "C",
+        "text": "(C) Check in at the Terminal 3 arrivals hall"
+      },
+      {
+        "key": "D",
+        "text": "(D) Take a taxi to Terminal 2"
+      }
+    ],
+    "correct": "C",
+    "translation": "Hành khách đã sắp xếp phương tiện đưa đón nên làm gì? — (A) Gọi ngay cho tài xế (B) Chờ ở băng chuyền số 7 (C) Làm thủ tục tại sảnh đến Nhà ga 3 (D) Bắt taxi đến Nhà ga 2.",
+    "explanation": "Đáp án C. Bài nói hướng dẫn: \"Passengers who arranged ground transportation through our partner desk should check in at the Terminal 3 arrivals hall, where staff can update their pickup times.\" A sai vì không có yêu cầu gọi tài xế. B sai vì băng chuyền 7 chỉ là nơi nhận hành lý. D sai vì hành khách đang được hướng dẫn đến Nhà ga 3, không phải quay lại Nhà ga 2.",
+    "vocab": [
+      {
+        "word": "ground transportation",
+        "pos": "n.",
+        "meaning": "phương tiện đưa đón trên mặt đất"
+      },
+      {
+        "word": "pickup",
+        "pos": "n.",
+        "meaning": "việc đón khách"
+      },
+      {
+        "word": "staff",
+        "pos": "n.",
+        "meaning": "nhân viên"
+      },
+      {
+        "word": "lost-and-found",
+        "pos": "n.",
+        "meaning": "nơi lưu giữ đồ thất lạc"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t2-p4-g2",
+    "audioScript": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "audioVoiceText": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "questionText": "What is the purpose of the call?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To provide a project update"
+      },
+      {
+        "key": "B",
+        "text": "(B) To request a new supplier"
+      },
+      {
+        "key": "C",
+        "text": "(C) To report a workplace injury"
+      },
+      {
+        "key": "D",
+        "text": "(D) To schedule a client meeting"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của cuộc gọi là gì? — (A) Cung cấp thông tin cập nhật về dự án (B) Yêu cầu một nhà cung cấp mới (C) Báo cáo tai nạn lao động (D) Lên lịch họp với khách hàng.",
+    "explanation": "Đáp án A. Marcus mở đầu bằng: \"I'm calling with an update on the Riverside office project.\" B sai vì anh ấy không đề nghị nhà cung cấp mới; dầm thép đã được đặt. C sai vì không có tai nạn nào. D sai vì cuộc gọi không nhằm lên lịch họp mà để trao đổi tiến độ và đề nghị gửi bản vẽ.",
+    "vocab": [
+      {
+        "word": "update",
+        "pos": "n.",
+        "meaning": "thông tin cập nhật"
+      },
+      {
+        "word": "construction",
+        "pos": "n.",
+        "meaning": "xây dựng"
+      },
+      {
+        "word": "beam",
+        "pos": "n.",
+        "meaning": "dầm (thép)"
+      },
+      {
+        "word": "framing",
+        "pos": "n.",
+        "meaning": "việc đóng khung kết cấu"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được sửa đổi"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t2-p4-g2",
+    "audioScript": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "audioVoiceText": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "questionText": "What must happen before the walls can be closed up?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The steel beams must arrive."
+      },
+      {
+        "key": "B",
+        "text": "(B) The client must approve the budget."
+      },
+      {
+        "key": "C",
+        "text": "(C) The lobby windows must be installed."
+      },
+      {
+        "key": "D",
+        "text": "(D) An inspector must approve the electrical plan."
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì phải xảy ra trước khi các bức tường được đóng lại? — (A) Dầm thép phải được giao đến (B) Khách hàng phải duyệt ngân sách (C) Cửa sổ sảnh phải được lắp đặt (D) Thanh tra phải duyệt kế hoạch điện.",
+    "explanation": "Đáp án D. Bài nói nêu: \"the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off\" — phải có thanh tra chấp thuận kế hoạch điện sửa đổi. A sai vì dầm thép đến sớm chỉ giúp bắt đầu đóng khung sớm hơn. B và C không được nêu là điều kiện để đóng tường.",
+    "vocab": [
+      {
+        "word": "approve",
+        "pos": "v.",
+        "meaning": "phê duyệt"
+      },
+      {
+        "word": "inspector",
+        "pos": "n.",
+        "meaning": "thanh tra viên"
+      },
+      {
+        "word": "sign off",
+        "pos": "phr. v.",
+        "meaning": "ký duyệt, chấp thuận"
+      },
+      {
+        "word": "electrical plan",
+        "pos": "n.",
+        "meaning": "kế hoạch hệ thống điện"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following voicemail:",
+    "audioGroup": "t2-p4-g2",
+    "audioScript": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "audioVoiceText": "Hello, this is Marcus from Northline Construction. I'm calling with an update on the Riverside office project. The steel beams we ordered will arrive on Tuesday rather than Friday, so we can start framing two days early. However, the city has not yet approved the revised electrical plan, and we cannot close up the walls until an inspector signs off. Could you send the updated drawings to the inspection office today? Also, please confirm whether the client wants the lobby windows tinted. I'll be on site until four, but email is best after that. Thanks.",
+    "questionText": "What does the speaker ask the listener to confirm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Whether framing should begin early"
+      },
+      {
+        "key": "B",
+        "text": "(B) Whether the client wants tinted lobby windows"
+      },
+      {
+        "key": "C",
+        "text": "(C) Whether the inspection office is open"
+      },
+      {
+        "key": "D",
+        "text": "(D) Whether the steel order should be canceled"
+      }
+    ],
+    "correct": "B",
+    "translation": "Người nói đề nghị người nghe xác nhận điều gì? — (A) Liệu việc đóng khung kết cấu có nên bắt đầu sớm không (B) Liệu khách hàng có muốn dán phim màu cho cửa sổ sảnh không (C) Liệu văn phòng thanh tra có mở cửa không (D) Liệu đơn đặt dầm thép có nên bị hủy không.",
+    "explanation": "Đáp án B. Người nói đề nghị: \"please confirm whether the client wants the lobby windows tinted\" — xác nhận khách có muốn cửa sổ sảnh được dán phim màu hay không. A sai vì việc đóng khung đã được quyết định bắt đầu sớm, không cần xác nhận. C sai vì anh ấy chỉ nhờ gửi bản vẽ đến văn phòng thanh tra. D sai vì không có ý định hủy đơn thép.",
+    "vocab": [
+      {
+        "word": "tint",
+        "pos": "v.",
+        "meaning": "dán phim màu, làm tối màu"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "meaning": "sảnh"
+      },
+      {
+        "word": "on site",
+        "pos": "phr.",
+        "meaning": "tại công trường"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t2-p4-g3",
+    "audioScript": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "audioVoiceText": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "questionText": "What is the main purpose of the advertisement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To promote a landscaping service"
+      },
+      {
+        "key": "B",
+        "text": "(B) To introduce a new store manager"
+      },
+      {
+        "key": "C",
+        "text": "(C) To promote a seasonal sale"
+      },
+      {
+        "key": "D",
+        "text": "(D) To recruit garden center staff"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của quảng cáo là gì? — (A) Quảng bá dịch vụ thiết kế cảnh quan (B) Giới thiệu quản lý cửa hàng mới (C) Khuyến mãi đợt giảm giá theo mùa (D) Tuyển nhân viên cho trung tâm làm vườn.",
+    "explanation": "Đáp án C. Quảng cáo mở đầu: \"Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center\" và nêu rõ mức giảm 30% từ thứ Sáu đến Chủ nhật. A sai vì đây là cửa hàng bán đồ làm vườn, không phải dịch vụ thiết kế cảnh quan. B sai vì không có quản lý mới. D sai vì không có nội dung tuyển dụng.",
+    "vocab": [
+      {
+        "word": "seasonal",
+        "pos": "adj.",
+        "meaning": "theo mùa"
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "meaning": "khuyến mãi"
+      },
+      {
+        "word": "outdoor furniture",
+        "pos": "n.",
+        "meaning": "đồ nội thất ngoài trời"
+      },
+      {
+        "word": "planter",
+        "pos": "n.",
+        "meaning": "chậu cây"
+      },
+      {
+        "word": "loyalty program",
+        "pos": "n.",
+        "meaning": "chương trình khách hàng thân thiết"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t2-p4-g3",
+    "audioScript": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "audioVoiceText": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "questionText": "According to the advertisement, what will Green Thumb Club members receive with a purchase of more than fifty dollars?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Free delivery"
+      },
+      {
+        "key": "B",
+        "text": "(B) A free bag of potting soil"
+      },
+      {
+        "key": "C",
+        "text": "(C) A thirty-percent discount"
+      },
+      {
+        "key": "D",
+        "text": "(D) A free herb garden starter kit"
+      }
+    ],
+    "correct": "B",
+    "translation": "Theo quảng cáo, thành viên Green Thumb Club sẽ nhận được gì khi mua hàng trên 50 đô-la? — (A) Giao hàng miễn phí (B) Một túi đất trồng miễn phí (C) Giảm giá 30% (D) Một bộ khởi đầu vườn thảo mộc miễn phí.",
+    "explanation": "Đáp án B. Quảng cáo nêu thành viên \"receive a free bag of potting soil with any purchase over fifty dollars.\" A sai vì không nhắc đến giao hàng. C sai vì mức giảm 30% áp dụng cho tất cả khách trong đợt sale, không phải quà riêng khi mua trên 50 đô. D sai vì bộ vườn thảo mộc dành cho 50 khách đầu tiên vào thứ Bảy.",
+    "vocab": [
+      {
+        "word": "potting soil",
+        "pos": "n.",
+        "meaning": "đất trồng cây"
+      },
+      {
+        "word": "purchase",
+        "pos": "n.",
+        "meaning": "giao dịch mua hàng"
+      },
+      {
+        "word": "annual fee",
+        "pos": "n.",
+        "meaning": "phí thường niên"
+      },
+      {
+        "word": "member",
+        "pos": "n.",
+        "meaning": "thành viên"
+      },
+      {
+        "word": "checkout counter",
+        "pos": "n.",
+        "meaning": "quầy thanh toán"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following advertisement:",
+    "audioGroup": "t2-p4-g3",
+    "audioScript": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "audioVoiceText": "Spring is here, and so is the biggest sale of the year at Willow Creek Garden Center. From Friday through Sunday, take thirty percent off all outdoor furniture, planters, and lighting. Members of our Green Thumb Club earn double points on every purchase and receive a free bag of potting soil with any purchase over fifty dollars. Not a member yet? Sign up at the checkout counter—it takes less than a minute, and there is no annual fee. The first fifty customers on Saturday will also receive a complimentary herb garden starter kit. Visit willowcreekgarden.com for directions and store hours.",
+    "questionText": "What will the first fifty customers on Saturday receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A free cookbook"
+      },
+      {
+        "key": "B",
+        "text": "(B) A ten-dollar gift card"
+      },
+      {
+        "key": "C",
+        "text": "(C) A bag of coffee"
+      },
+      {
+        "key": "D",
+        "text": "(D) A complimentary herb garden starter kit"
+      }
+    ],
+    "correct": "D",
+    "translation": "50 khách hàng đầu tiên vào thứ Bảy sẽ nhận được gì? — (A) Một cuốn sách dạy nấu ăn miễn phí (B) Một thẻ quà tặng 10 đô-la (C) Một túi cà phê (D) Một bộ khởi đầu vườn thảo mộc miễn phí.",
+    "explanation": "Đáp án D. Quảng cáo cho biết: \"The first fifty customers on Saturday will also receive a complimentary herb garden starter kit.\" A, B và C không xuất hiện trong bài; đây là các phương án gây nhiễu.",
+    "vocab": [
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí, tặng kèm"
+      },
+      {
+        "word": "starter kit",
+        "pos": "n.",
+        "meaning": "bộ khởi đầu"
+      },
+      {
+        "word": "herb",
+        "pos": "n.",
+        "meaning": "thảo mộc"
+      },
+      {
+        "word": "customer",
+        "pos": "n.",
+        "meaning": "khách hàng"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioGroup": "t2-p4-g4",
+    "audioScript": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "audioVoiceText": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "questionText": "What should workers do before clearing a jam?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Notify the shift supervisor"
+      },
+      {
+        "key": "B",
+        "text": "(B) Put on safety gloves"
+      },
+      {
+        "key": "C",
+        "text": "(C) Turn off the conveyor lights"
+      },
+      {
+        "key": "D",
+        "text": "(D) Press the red stop button"
+      }
+    ],
+    "correct": "D",
+    "translation": "Công nhân nên làm gì trước khi gỡ kẹt máy? — (A) Báo cho giám sát ca (B) Đeo găng tay bảo hộ (C) Tắt đèn băng tải (D) Nhấn nút dừng màu đỏ.",
+    "explanation": "Đáp án D. Hướng dẫn nêu: \"Always press the red stop button before clearing a jam.\" A sai vì chỉ báo giám sát khi ngửi thấy mùi cháy hoặc nghe tiếng lạ. B sai vì bài chỉ nhắc áo phản quang, không nhắc găng tay. C sai vì không có chỉ dẫn tắt đèn băng tải.",
+    "vocab": [
+      {
+        "word": "conveyor",
+        "pos": "n.",
+        "meaning": "băng tải"
+      },
+      {
+        "word": "jam",
+        "pos": "n.",
+        "meaning": "tình trạng kẹt máy"
+      },
+      {
+        "word": "clear",
+        "pos": "v.",
+        "meaning": "xử lý, gỡ (kẹt)"
+      },
+      {
+        "word": "stop button",
+        "pos": "n.",
+        "meaning": "nút dừng"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "người giám sát"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioGroup": "t2-p4-g4",
+    "audioScript": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "audioVoiceText": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "questionText": "Where are the emergency exits located?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Along the north and east walls"
+      },
+      {
+        "key": "B",
+        "text": "(B) Next to the loading zone"
+      },
+      {
+        "key": "C",
+        "text": "(C) Beside the main office"
+      },
+      {
+        "key": "D",
+        "text": "(D) Behind the cafeteria"
+      }
+    ],
+    "correct": "A",
+    "translation": "Các lối thoát hiểm nằm ở đâu? — (A) Dọc theo tường phía bắc và phía đông (B) Cạnh khu vực bốc xếp (C) Bên cạnh văn phòng chính (D) Phía sau nhà ăn.",
+    "explanation": "Đáp án A. Bài nói cho biết: \"Emergency exits are located at the north and east walls.\" B, C và D không được nhắc đến; khu bốc xếp chỉ là nơi bắt buộc mặc áo phản quang.",
+    "vocab": [
+      {
+        "word": "emergency exit",
+        "pos": "n.",
+        "meaning": "lối thoát hiểm"
+      },
+      {
+        "word": "loading zone",
+        "pos": "n.",
+        "meaning": "khu vực bốc xếp"
+      },
+      {
+        "word": "pallet",
+        "pos": "n.",
+        "meaning": "kệ hàng, pallet"
+      },
+      {
+        "word": "evacuation drill",
+        "pos": "n.",
+        "meaning": "buổi diễn tập sơ tán"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following talk:",
+    "audioGroup": "t2-p4-g4",
+    "audioScript": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "audioVoiceText": "Before we begin the shift, I want to review the safety procedures for the new conveyor system. Always press the red stop button before clearing a jam, and never reach under the belt while it is moving. High-visibility vests must be worn in the loading zone at all times. If you notice a burning smell or unusual noise, shut down the line and notify the shift supervisor immediately. Emergency exits are located at the north and east walls; please keep those areas clear of pallets. We will run a short evacuation drill at 2 p.m. today, so listen for the alarm.",
+    "questionText": "What will happen at 2 p.m.?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new conveyor will be installed."
+      },
+      {
+        "key": "B",
+        "text": "(B) The shift will end early."
+      },
+      {
+        "key": "C",
+        "text": "(C) An evacuation drill will take place."
+      },
+      {
+        "key": "D",
+        "text": "(D) A safety inspection will begin."
+      }
+    ],
+    "correct": "C",
+    "translation": "Điều gì sẽ diễn ra lúc 2 giờ chiều? — (A) Một băng tải mới sẽ được lắp đặt (B) Ca làm việc sẽ kết thúc sớm (C) Một buổi diễn tập sơ tán sẽ diễn ra (D) Một đợt kiểm tra an toàn sẽ bắt đầu.",
+    "explanation": "Đáp án C. Bài nói thông báo: \"We will run a short evacuation drill at 2 p.m. today.\" A sai vì hệ thống băng tải mới đã được đưa vào sử dụng. B sai vì không nói ca làm việc kết thúc sớm. D sai vì 2 giờ chiều là giờ diễn tập, không phải kiểm tra an toàn.",
+    "vocab": [
+      {
+        "word": "evacuation",
+        "pos": "n.",
+        "meaning": "sự sơ tán"
+      },
+      {
+        "word": "drill",
+        "pos": "n.",
+        "meaning": "buổi diễn tập"
+      },
+      {
+        "word": "alarm",
+        "pos": "n.",
+        "meaning": "chuông báo động"
+      },
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t2-p4-g5",
+    "audioScript": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "audioVoiceText": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "questionText": "What drove the increase in revenue?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A new advertising campaign"
+      },
+      {
+        "key": "B",
+        "text": "(B) Strong online sales"
+      },
+      {
+        "key": "C",
+        "text": "(C) Higher product prices"
+      },
+      {
+        "key": "D",
+        "text": "(D) An international merger"
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì đã thúc đẩy doanh thu tăng? — (A) Một chiến dịch quảng cáo mới (B) Doanh số trực tuyến mạnh (C) Giá sản phẩm cao hơn (D) Một vụ sáp nhập quốc tế.",
+    "explanation": "Đáp án B. Báo cáo nêu doanh thu \"up six percent from the same period last year, driven mainly by strong online sales\" — doanh số trực tuyến mạnh là động lực chính. A sai vì không có chiến dịch quảng cáo nào được nhắc. C sai vì không nói đến việc tăng giá. D sai vì không có sáp nhập quốc tế.",
+    "vocab": [
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "meaning": "doanh thu"
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "meaning": "quý (ba tháng)"
+      },
+      {
+        "word": "online sales",
+        "pos": "n.",
+        "meaning": "doanh số bán hàng trực tuyến"
+      },
+      {
+        "word": "forecast",
+        "pos": "n.",
+        "meaning": "dự báo"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t2-p4-g5",
+    "audioScript": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "audioVoiceText": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "questionText": "Why did operating costs rise?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Salaries were increased."
+      },
+      {
+        "key": "B",
+        "text": "(B) The marketing budget was expanded."
+      },
+      {
+        "key": "C",
+        "text": "(C) Shipping rates and a new distribution center raised costs."
+      },
+      {
+        "key": "D",
+        "text": "(D) The government introduced new taxes."
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao chi phí vận hành tăng? — (A) Lương đã được tăng (B) Ngân sách tiếp thị được mở rộng (C) Cước vận chuyển và trung tâm phân phối mới làm tăng chi phí (D) Chính phủ áp dụng thuế mới.",
+    "explanation": "Đáp án C. Báo cáo nói rõ: \"Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center.\" A, B và D đều không được nêu là nguyên nhân.",
+    "vocab": [
+      {
+        "word": "operating costs",
+        "pos": "n.",
+        "meaning": "chi phí vận hành"
+      },
+      {
+        "word": "shipping rate",
+        "pos": "n.",
+        "meaning": "cước vận chuyển"
+      },
+      {
+        "word": "distribution center",
+        "pos": "n.",
+        "meaning": "trung tâm phân phối"
+      },
+      {
+        "word": "net profit",
+        "pos": "n.",
+        "meaning": "lợi nhuận ròng"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following report:",
+    "audioGroup": "t2-p4-g5",
+    "audioScript": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "audioVoiceText": "Good morning, everyone. I'll start with the third-quarter results. Revenue reached 4.2 million dollars, up six percent from the same period last year, driven mainly by strong online sales. Operating costs, however, rose by nine percent because of higher shipping rates and the new distribution center. As a result, net profit was slightly below our forecast. To address this, we will renegotiate our courier contracts next month and postpone the planned office expansion until the spring. I want to emphasize that our cash reserves remain healthy, and we still expect to meet our annual sales target.",
+    "questionText": "What will the company do to address the cost increase?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Renegotiate courier contracts"
+      },
+      {
+        "key": "B",
+        "text": "(B) Reduce staff numbers"
+      },
+      {
+        "key": "C",
+        "text": "(C) Close the distribution center"
+      },
+      {
+        "key": "D",
+        "text": "(D) Increase product prices"
+      }
+    ],
+    "correct": "A",
+    "translation": "Công ty sẽ làm gì để giải quyết việc chi phí tăng? — (A) Đàm phán lại hợp đồng với đơn vị chuyển phát (B) Giảm số lượng nhân viên (C) Đóng cửa trung tâm phân phối (D) Tăng giá sản phẩm.",
+    "explanation": "Đáp án A. Người báo cáo nói: \"we will renegotiate our courier contracts next month\" — đàm phán lại hợp đồng với đơn vị chuyển phát. B, C và D không được nêu; công ty còn hoãn kế hoạch mở rộng văn phòng chứ không đóng trung tâm phân phối.",
+    "vocab": [
+      {
+        "word": "renegotiate",
+        "pos": "v.",
+        "meaning": "đàm phán lại"
+      },
+      {
+        "word": "courier",
+        "pos": "n.",
+        "meaning": "đơn vị chuyển phát"
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "meaning": "hoãn lại"
+      },
+      {
+        "word": "expansion",
+        "pos": "n.",
+        "meaning": "việc mở rộng"
+      },
+      {
+        "word": "cash reserves",
+        "pos": "n.",
+        "meaning": "dự trữ tiền mặt"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t2-p4-g6",
+    "audioScript": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "audioVoiceText": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "questionText": "Where will the networking session be held?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In the Grand Ballroom"
+      },
+      {
+        "key": "B",
+        "text": "(B) On the terrace"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the east buffet"
+      },
+      {
+        "key": "D",
+        "text": "(D) In the Maple Room"
+      }
+    ],
+    "correct": "D",
+    "translation": "Phiên kết nối giao lưu sẽ được tổ chức ở đâu? — (A) Tại Grand Ballroom (B) Trên sân thượng (C) Tại quầy buffet phía đông (D) Tại phòng Maple.",
+    "explanation": "Đáp án D. Thông báo cho biết networking session \"has been moved from the terrace to the Maple Room because of the forecast.\" A là nơi diễn ra bài phát biểu chính. B là địa điểm cũ trước khi đổi. C là nơi phục vụ bữa trưa, không phải nơi tổ chức phiên kết nối.",
+    "vocab": [
+      {
+        "word": "keynote speaker",
+        "pos": "n.",
+        "meaning": "diễn giả chính"
+      },
+      {
+        "word": "panel discussion",
+        "pos": "n.",
+        "meaning": "phiên thảo luận nhóm"
+      },
+      {
+        "word": "networking session",
+        "pos": "n.",
+        "meaning": "phiên kết nối giao lưu"
+      },
+      {
+        "word": "terrace",
+        "pos": "n.",
+        "meaning": "sân thượng"
+      },
+      {
+        "word": "forecast",
+        "pos": "n.",
+        "meaning": "dự báo thời tiết"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t2-p4-g6",
+    "audioScript": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "audioVoiceText": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "questionText": "What can attendees purchase at the registration desk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lunch vouchers"
+      },
+      {
+        "key": "B",
+        "text": "(B) Raffle tickets"
+      },
+      {
+        "key": "C",
+        "text": "(C) Conference recordings"
+      },
+      {
+        "key": "D",
+        "text": "(D) Parking passes"
+      }
+    ],
+    "correct": "B",
+    "translation": "Khách tham dự có thể mua gì tại quầy đăng ký? — (A) Phiếu ăn trưa (B) Vé xổ số (C) Bản ghi âm hội nghị (D) Vé gửi xe.",
+    "explanation": "Đáp án B. Thông báo nêu: \"Raffle tickets can be purchased at the registration desk until 2 p.m.\" A sai vì bữa trưa được phục vụ, không nói bán phiếu. C và D không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "raffle",
+        "pos": "n.",
+        "meaning": "xổ số (bán vé gây quỹ)"
+      },
+      {
+        "word": "registration desk",
+        "pos": "n.",
+        "meaning": "quầy đăng ký"
+      },
+      {
+        "word": "drawing",
+        "pos": "n.",
+        "meaning": "buổi rút thăm"
+      },
+      {
+        "word": "closing remarks",
+        "pos": "n.",
+        "meaning": "lời bế mạc"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following announcement:",
+    "audioGroup": "t2-p4-g6",
+    "audioScript": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "audioVoiceText": "Welcome to the annual Harbor City Business Luncheon. Our keynote speaker, economist Dr. Elena Marsh, will begin at 12:30 in the Grand Ballroom, followed by a panel discussion on sustainable supply chains. Please note that the networking session has been moved from the terrace to the Maple Room because of the forecast. Lunch will be served at 1:15, and vegetarian options are available at the east buffet. Raffle tickets can be purchased at the registration desk until 2 p.m.; the drawing will take place before the closing remarks. We kindly ask that you silence your phones during the presentations.",
+    "questionText": "What are attendees asked to do during the presentations?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Silence their phones"
+      },
+      {
+        "key": "B",
+        "text": "(B) Take detailed notes"
+      },
+      {
+        "key": "C",
+        "text": "(C) Sit near the front"
+      },
+      {
+        "key": "D",
+        "text": "(D) Ask questions during the talks"
+      }
+    ],
+    "correct": "A",
+    "translation": "Khách tham dự được yêu cầu làm gì trong các phần trình bày? — (A) Tắt tiếng điện thoại (B) Ghi chép chi tiết (C) Ngồi gần phía trước (D) Đặt câu hỏi trong lúc đang nói.",
+    "explanation": "Đáp án A. Câu cuối bài nói: \"We kindly ask that you silence your phones during the presentations.\" B, C và D không được yêu cầu trong bài.",
+    "vocab": [
+      {
+        "word": "silence",
+        "pos": "v.",
+        "meaning": "tắt tiếng, làm im lặng"
+      },
+      {
+        "word": "presentation",
+        "pos": "n.",
+        "meaning": "bài trình bày"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      },
+      {
+        "word": "vegetarian",
+        "pos": "adj.",
+        "meaning": "dành cho người ăn chay"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t2-p4-g7",
+    "audioScript": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "audioVoiceText": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "questionText": "What position is being recruited?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Warehouse supervisors"
+      },
+      {
+        "key": "B",
+        "text": "(B) Delivery drivers"
+      },
+      {
+        "key": "C",
+        "text": "(C) Inventory clerks"
+      },
+      {
+        "key": "D",
+        "text": "(D) Forklift mechanics"
+      }
+    ],
+    "correct": "A",
+    "translation": "Vị trí nào đang được tuyển dụng? — (A) Giám sát kho hàng (B) Tài xế giao hàng (C) Nhân viên kiểm kê hàng hóa (D) Thợ sửa xe nâng.",
+    "explanation": "Đáp án A. Bài nói nêu rõ: \"We are hiring warehouse supervisors for our new facility in Dayton.\" B, C và D không phải vị trí đang tuyển; \"inventory management\" chỉ là yêu cầu kinh nghiệm, không phải chức danh.",
+    "vocab": [
+      {
+        "word": "hire",
+        "pos": "v.",
+        "meaning": "tuyển dụng"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n.",
+        "meaning": "kho hàng"
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "giám sát viên"
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở, nhà máy"
+      },
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t2-p4-g7",
+    "audioScript": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "audioVoiceText": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "questionText": "What is a requirement for the position?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A college degree"
+      },
+      {
+        "key": "B",
+        "text": "(B) Five years of management experience"
+      },
+      {
+        "key": "C",
+        "text": "(C) A valid forklift certification"
+      },
+      {
+        "key": "D",
+        "text": "(D) A commercial driver's license"
+      }
+    ],
+    "correct": "C",
+    "translation": "Yêu cầu nào dành cho vị trí này? — (A) Bằng đại học (B) Năm năm kinh nghiệm quản lý (C) Chứng chỉ vận hành xe nâng còn hiệu lực (D) Giấy phép lái xe thương mại.",
+    "explanation": "Đáp án C. Bài nói cho biết: \"The position requires at least two years of experience in inventory management and a valid forklift certification.\" A sai vì không yêu cầu bằng đại học. B sai vì chỉ cần ít nhất hai năm kinh nghiệm quản lý hàng tồn kho, không phải năm năm quản lý. D sai vì không nhắc giấy phép lái xe thương mại.",
+    "vocab": [
+      {
+        "word": "inventory management",
+        "pos": "n.",
+        "meaning": "quản lý hàng tồn kho"
+      },
+      {
+        "word": "valid",
+        "pos": "adj.",
+        "meaning": "còn hiệu lực"
+      },
+      {
+        "word": "forklift certification",
+        "pos": "n.",
+        "meaning": "chứng chỉ vận hành xe nâng"
+      },
+      {
+        "word": "requirement",
+        "pos": "n.",
+        "meaning": "yêu cầu"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following talk:",
+    "audioGroup": "t2-p4-g7",
+    "audioScript": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "audioVoiceText": "Thank you for visiting the Brightline Logistics booth. We are hiring warehouse supervisors for our new facility in Dayton, which opens in January. The position requires at least two years of experience in inventory management and a valid forklift certification. Supervisors work four ten-hour shifts per week, with both morning and evening options available. In addition to a competitive salary, we offer health insurance from the first day and tuition assistance after six months. If you are interested, please submit your resume through our website by November 20. Interviews will be held on-site the following week.",
+    "questionText": "Which benefit is available after six months?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Health insurance"
+      },
+      {
+        "key": "B",
+        "text": "(B) Extra vacation days"
+      },
+      {
+        "key": "C",
+        "text": "(C) A company vehicle"
+      },
+      {
+        "key": "D",
+        "text": "(D) Tuition assistance"
+      }
+    ],
+    "correct": "D",
+    "translation": "Phúc lợi nào có sau sáu tháng? — (A) Bảo hiểm y tế (B) Ngày nghỉ thêm (C) Xe công ty (D) Hỗ trợ học phí.",
+    "explanation": "Đáp án D. Bài nói nêu: \"we offer health insurance from the first day and tuition assistance after six months.\" A sai vì bảo hiểm y tế có ngay từ ngày đầu. B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "tuition assistance",
+        "pos": "n.",
+        "meaning": "hỗ trợ học phí"
+      },
+      {
+        "word": "competitive salary",
+        "pos": "n.",
+        "meaning": "mức lương cạnh tranh"
+      },
+      {
+        "word": "benefit",
+        "pos": "n.",
+        "meaning": "phúc lợi"
+      },
+      {
+        "word": "on-site",
+        "pos": "adv.",
+        "meaning": "tại chỗ, tại địa điểm"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t2-p4-g8",
+    "audioScript": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "audioVoiceText": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "questionText": "What is the main purpose of the announcement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce a school closure"
+      },
+      {
+        "key": "B",
+        "text": "(B) To describe a road construction project"
+      },
+      {
+        "key": "C",
+        "text": "(C) To warn residents about severe weather"
+      },
+      {
+        "key": "D",
+        "text": "(D) To report a power outage"
+      }
+    ],
+    "correct": "C",
+    "translation": "Mục đích chính của thông báo là gì? — (A) Thông báo đóng cửa trường học (B) Mô tả dự án xây dựng đường (C) Cảnh báo cư dân về thời tiết khắc nghiệt (D) Báo cáo sự cố mất điện.",
+    "explanation": "Đáp án C. Bài nói mở đầu: \"This is a weather advisory\" và toàn bài nói về bão, mưa lớn, gió giật và nguy cơ lũ. A sai vì trường học không đóng cửa, chỉ lùi giờ xe buýt. B và D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "advisory",
+        "pos": "n.",
+        "meaning": "bản cảnh báo, khuyến cáo"
+      },
+      {
+        "word": "storm system",
+        "pos": "n.",
+        "meaning": "hệ thống bão"
+      },
+      {
+        "word": "gust",
+        "pos": "n.",
+        "meaning": "cơn gió giật"
+      },
+      {
+        "word": "flood watch",
+        "pos": "n.",
+        "meaning": "cảnh báo nguy cơ lũ"
+      },
+      {
+        "word": "low-lying",
+        "pos": "adj.",
+        "meaning": "thấp trũng"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t2-p4-g8",
+    "audioScript": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "audioVoiceText": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "questionText": "What are residents advised to avoid?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Charging their phones"
+      },
+      {
+        "key": "B",
+        "text": "(B) Visiting the community center"
+      },
+      {
+        "key": "C",
+        "text": "(C) Leaving windows open"
+      },
+      {
+        "key": "D",
+        "text": "(D) Driving on flooded roads"
+      }
+    ],
+    "correct": "D",
+    "translation": "Cư dân được khuyên tránh làm gì? — (A) Sạc điện thoại (B) Đến trung tâm cộng đồng (C) Để cửa sổ mở (D) Lái xe trên đường ngập.",
+    "explanation": "Đáp án D. Bài nói khuyên: \"avoid driving on flooded roads.\" A và B là những việc nên làm (sạc điện thoại, nhận bao cát tại trung tâm cộng đồng). C không được nhắc đến trong bài.",
+    "vocab": [
+      {
+        "word": "secure",
+        "pos": "v.",
+        "meaning": "cố định, gia cố"
+      },
+      {
+        "word": "charge",
+        "pos": "v.",
+        "meaning": "sạc (điện)"
+      },
+      {
+        "word": "flooded road",
+        "pos": "n.",
+        "meaning": "đường bị ngập"
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "meaning": "cư dân"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following announcement:",
+    "audioGroup": "t2-p4-g8",
+    "audioScript": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "audioVoiceText": "This is a weather advisory for residents of coastal Marlow County. A strong storm system is expected to bring heavy rain and wind gusts of up to sixty miles per hour beginning this evening. The National Weather Service has issued a flood watch for low-lying areas through Thursday morning. Residents should secure outdoor furniture, charge phones, and avoid driving on flooded roads. Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight. School buses will run on a delayed schedule tomorrow, and any further updates will be posted on the county website.",
+    "questionText": "Where can residents get sandbags?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) At the county office"
+      },
+      {
+        "key": "B",
+        "text": "(B) At the community center on Oak Street"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the local fire station"
+      },
+      {
+        "key": "D",
+        "text": "(D) At a nearby hardware store"
+      }
+    ],
+    "correct": "B",
+    "translation": "Cư dân có thể lấy bao cát ở đâu? — (A) Tại văn phòng quận (B) Tại trung tâm cộng đồng trên phố Oak (C) Tại trạm cứu hỏa địa phương (D) Tại cửa hàng kim khí gần đó.",
+    "explanation": "Đáp án B. Bài nói cho biết: \"Sandbags are available free of charge at the community center on Oak Street until 8 p.m. tonight.\" A, C và D không xuất hiện trong bài.",
+    "vocab": [
+      {
+        "word": "sandbag",
+        "pos": "n.",
+        "meaning": "bao cát"
+      },
+      {
+        "word": "free of charge",
+        "pos": "phr.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "community center",
+        "pos": "n.",
+        "meaning": "trung tâm cộng đồng"
+      },
+      {
+        "word": "delayed schedule",
+        "pos": "n.",
+        "meaning": "lịch trình bị lùi giờ"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and event poster:",
+    "audioGroup": "t2-p4-g9",
+    "audioScript": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "audioVoiceText": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "questionText": "What will the first one hundred visitors receive?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A free cookbook"
+      },
+      {
+        "key": "B",
+        "text": "(B) A ten-dollar gift card"
+      },
+      {
+        "key": "C",
+        "text": "(C) A bag of coffee"
+      },
+      {
+        "key": "D",
+        "text": "(D) A craft kit"
+      }
+    ],
+    "correct": "B",
+    "translation": "100 khách đầu tiên sẽ nhận được gì? — (A) Một cuốn sách dạy nấu ăn miễn phí (B) Một thẻ quà tặng 10 đô-la (C) Một túi cà phê (D) Một bộ đồ thủ công.",
+    "explanation": "Đáp án B. Bài nói nêu: \"The first one hundred visitors will receive a ten-dollar gift card.\" A, C và D không đúng; cà phê và bánh ngọt miễn phí cho mọi người từ 9 đến 11 giờ, không phải quà dành riêng cho 100 khách đầu tiên.",
+    "vocab": [
+      {
+        "word": "grand opening",
+        "pos": "n.",
+        "meaning": "lễ khai trương"
+      },
+      {
+        "word": "gift card",
+        "pos": "n.",
+        "meaning": "thẻ quà tặng"
+      },
+      {
+        "word": "visitor",
+        "pos": "n.",
+        "meaning": "khách tham quan"
+      },
+      {
+        "word": "pastry",
+        "pos": "n.",
+        "meaning": "bánh ngọt"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Meridian Home Goods — Cedar Avenue Grand Opening (Saturday)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Location / Details</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Doors Open &amp; Welcome Refreshments</td>\n                            <td class=\"border border-neutral-800 p-2\">$10 gift card (first 100 guests); free coffee &amp; pastries until 11:00 a.m.</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">10:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Ribbon-Cutting &amp; Cooking Demo</td>\n                            <td class=\"border border-neutral-800 p-2\">Store Founder &amp; Chef Antonio Reyes</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">All Day (until 8:00 p.m.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Craft Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Back Garden (Free shuttle from Downtown Library)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 96,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and event poster:",
+    "audioGroup": "t2-p4-g9",
+    "audioScript": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "audioVoiceText": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "questionText": "Who will cut the ribbon?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The founder"
+      },
+      {
+        "key": "B",
+        "text": "(B) Chef Antonio Reyes"
+      },
+      {
+        "key": "C",
+        "text": "(C) The store manager"
+      },
+      {
+        "key": "D",
+        "text": "(D) A local official"
+      }
+    ],
+    "correct": "A",
+    "translation": "Ai sẽ cắt băng khánh thành? — (A) Người sáng lập cửa hàng (B) Đầu bếp Antonio Reyes (C) Quản lý cửa hàng (D) Một quan chức địa phương.",
+    "explanation": "Đáp án A. Bài nói cho biết: \"Our founder will cut the ribbon at ten o'clock.\" B sai vì Antonio Reyes chỉ thực hiện phần trình diễn nấu ăn sau đó. C và D không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "founder",
+        "pos": "n.",
+        "meaning": "người sáng lập"
+      },
+      {
+        "word": "cut the ribbon",
+        "pos": "phr.",
+        "meaning": "cắt băng khánh thành"
+      },
+      {
+        "word": "cooking demonstration",
+        "pos": "n.",
+        "meaning": "buổi trình diễn nấu ăn"
+      },
+      {
+        "word": "local",
+        "pos": "adj.",
+        "meaning": "địa phương"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Meridian Home Goods — Cedar Avenue Grand Opening (Saturday)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Location / Details</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Doors Open &amp; Welcome Refreshments</td>\n                            <td class=\"border border-neutral-800 p-2\">$10 gift card (first 100 guests); free coffee &amp; pastries until 11:00 a.m.</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">10:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Ribbon-Cutting &amp; Cooking Demo</td>\n                            <td class=\"border border-neutral-800 p-2\">Store Founder &amp; Chef Antonio Reyes</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">All Day (until 8:00 p.m.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Craft Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Back Garden (Free shuttle from Downtown Library)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 97,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following announcement and event poster:",
+    "audioGroup": "t2-p4-g9",
+    "audioScript": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "audioVoiceText": "Come celebrate the grand opening of Meridian Home Goods this Saturday at our new location on Cedar Avenue. The first one hundred visitors will receive a ten-dollar gift card, and everyone can enjoy free pastries and coffee from nine to eleven. Our founder will cut the ribbon at ten o'clock, followed by a cooking demonstration with local chef Antonio Reyes. Children can take part in a craft workshop in the back garden while parents browse. Parking is limited, so we encourage guests to use the free shuttle from the downtown library. The store will remain open until 8 p.m.",
+    "questionText": "How are guests encouraged to travel to the store?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Park in the back garden"
+      },
+      {
+        "key": "B",
+        "text": "(B) Ride a bicycle"
+      },
+      {
+        "key": "C",
+        "text": "(C) Take a city bus"
+      },
+      {
+        "key": "D",
+        "text": "(D) Use the free shuttle from the downtown library"
+      }
+    ],
+    "correct": "D",
+    "translation": "Khách được khuyến khích đến cửa hàng bằng cách nào? — (A) Đỗ xe trong vườn sau (B) Đi xe đạp (C) Đi xe buýt thành phố (D) Dùng xe đưa đón miễn phí từ thư viện trung tâm.",
+    "explanation": "Đáp án D. Bài nói cho biết: \"Parking is limited, so we encourage guests to use the free shuttle from the downtown library.\" A sai vì vườn sau dành cho buổi làm đồ thủ công của trẻ em, không phải bãi đỗ xe. B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "parking",
+        "pos": "n.",
+        "meaning": "bãi đỗ xe, việc đỗ xe"
+      },
+      {
+        "word": "limited",
+        "pos": "adj.",
+        "meaning": "hạn chế"
+      },
+      {
+        "word": "browse",
+        "pos": "v.",
+        "meaning": "xem hàng, dạo xem"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Meridian Home Goods — Cedar Avenue Grand Opening (Saturday)</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Location / Details</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Doors Open &amp; Welcome Refreshments</td>\n                            <td class=\"border border-neutral-800 p-2\">$10 gift card (first 100 guests); free coffee &amp; pastries until 11:00 a.m.</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">10:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Ribbon-Cutting &amp; Cooking Demo</td>\n                            <td class=\"border border-neutral-800 p-2\">Store Founder &amp; Chef Antonio Reyes</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">All Day (until 8:00 p.m.)</td>\n                            <td class=\"border border-neutral-800 p-2\">Children's Craft Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Back Garden (Free shuttle from Downtown Library)</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 98,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and workshop agenda:",
+    "audioGroup": "t2-p4-g10",
+    "audioScript": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "audioVoiceText": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "questionText": "What is the workshop about?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Handling complaints over the phone"
+      },
+      {
+        "key": "B",
+        "text": "(B) Improving sales techniques"
+      },
+      {
+        "key": "C",
+        "text": "(C) Writing professional emails"
+      },
+      {
+        "key": "D",
+        "text": "(D) Managing a team"
+      }
+    ],
+    "correct": "A",
+    "translation": "Buổi đào tạo nói về nội dung gì? — (A) Xử lý khiếu nại qua điện thoại (B) Cải thiện kỹ năng bán hàng (C) Viết email chuyên nghiệp (D) Quản lý nhóm.",
+    "explanation": "Đáp án A. Bài nói nêu rõ: \"Today we will focus on handling complaints over the phone.\" B, C và D không được đề cập; nội dung gồm chính sách hoàn tiền và quy trình ba bước, không phải bán hàng hay viết email.",
+    "vocab": [
+      {
+        "word": "complaint",
+        "pos": "n.",
+        "meaning": "lời khiếu nại"
+      },
+      {
+        "word": "refund policy",
+        "pos": "n.",
+        "meaning": "chính sách hoàn tiền"
+      },
+      {
+        "word": "acknowledge",
+        "pos": "v.",
+        "meaning": "ghi nhận, thừa nhận"
+      },
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi đào tạo, hội thảo thực hành"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "phiên, buổi"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Workshop: Handling Phone Complaints</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Format / Materials</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning Session</td>\n                            <td class=\"border border-neutral-800 p-2\">New Refund Policy &amp; 3-Step Response</td>\n                            <td class=\"border border-neutral-800 p-2\">Printed Handbook (Listen, Acknowledge, Offer Solution)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Afternoon Session</td>\n                            <td class=\"border border-neutral-800 p-2\">Role-Playing Difficult Calls</td>\n                            <td class=\"border border-neutral-800 p-2\">Work in pairs with coach feedback</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">4:30 p.m. Wrap-Up</td>\n                            <td class=\"border border-neutral-800 p-2\">Workshop Concludes</td>\n                            <td class=\"border border-neutral-800 p-2\">Feedback survey e-mailed tomorrow</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 99,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and workshop agenda:",
+    "audioGroup": "t2-p4-g10",
+    "audioScript": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "audioVoiceText": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "questionText": "What will participants do after lunch?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Take a written test"
+      },
+      {
+        "key": "B",
+        "text": "(B) Watch a training video"
+      },
+      {
+        "key": "C",
+        "text": "(C) Meet with customers"
+      },
+      {
+        "key": "D",
+        "text": "(D) Role-play difficult calls in pairs"
+      }
+    ],
+    "correct": "D",
+    "translation": "Sau bữa trưa, người tham gia sẽ làm gì? — (A) Làm bài kiểm tra viết (B) Xem video đào tạo (C) Gặp khách hàng (D) Đóng vai các cuộc gọi khó theo cặp.",
+    "explanation": "Đáp án D. Bài nói hướng dẫn: \"After lunch, you will work in pairs to role-play difficult calls.\" A, B và C không được nhắc đến.",
+    "vocab": [
+      {
+        "word": "role-play",
+        "pos": "v.",
+        "meaning": "đóng vai, thực hành tình huống"
+      },
+      {
+        "word": "in pairs",
+        "pos": "phr.",
+        "meaning": "theo cặp"
+      },
+      {
+        "word": "feedback",
+        "pos": "n.",
+        "meaning": "phản hồi, nhận xét"
+      },
+      {
+        "word": "coach",
+        "pos": "n.",
+        "meaning": "huấn luyện viên"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Workshop: Handling Phone Complaints</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Format / Materials</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning Session</td>\n                            <td class=\"border border-neutral-800 p-2\">New Refund Policy &amp; 3-Step Response</td>\n                            <td class=\"border border-neutral-800 p-2\">Printed Handbook (Listen, Acknowledge, Offer Solution)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Afternoon Session</td>\n                            <td class=\"border border-neutral-800 p-2\">Role-Playing Difficult Calls</td>\n                            <td class=\"border border-neutral-800 p-2\">Work in pairs with coach feedback</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">4:30 p.m. Wrap-Up</td>\n                            <td class=\"border border-neutral-800 p-2\">Workshop Concludes</td>\n                            <td class=\"border border-neutral-800 p-2\">Feedback survey e-mailed tomorrow</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 100,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following talk and workshop agenda:",
+    "audioGroup": "t2-p4-g10",
+    "audioScript": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "audioVoiceText": "Welcome to the customer service workshop. Today we will focus on handling complaints over the phone. In the first session, we will review our new refund policy and practice a three-step response: listen, acknowledge, and offer a solution. After lunch, you will work in pairs to role-play difficult calls, and each pair will receive feedback from a coach. Please bring the printed handbook you received this morning; extra copies are at the back of the room. The workshop ends at 4:30, and a short survey will be emailed to you tomorrow. Your responses will help us plan the next session.",
+    "questionText": "When will the survey be sent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) At 4:30 today"
+      },
+      {
+        "key": "B",
+        "text": "(B) Next week"
+      },
+      {
+        "key": "C",
+        "text": "(C) Tomorrow"
+      },
+      {
+        "key": "D",
+        "text": "(D) After the next session"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bản khảo sát sẽ được gửi khi nào? — (A) Lúc 4:30 hôm nay (B) Tuần sau (C) Ngày mai (D) Sau buổi học tiếp theo.",
+    "explanation": "Đáp án C. Bài nói cho biết: \"a short survey will be emailed to you tomorrow.\" A sai vì 4:30 là giờ kết thúc buổi đào tạo. B và D sai vì khảo sát được gửi ngay ngày mai để giúp lên kế hoạch cho buổi sau, không phải sau buổi sau mới gửi.",
+    "vocab": [
+      {
+        "word": "survey",
+        "pos": "n.",
+        "meaning": "bản khảo sát"
+      },
+      {
+        "word": "respond",
+        "pos": "v.",
+        "meaning": "trả lời, phản hồi"
+      },
+      {
+        "word": "participant",
+        "pos": "n.",
+        "meaning": "người tham gia"
+      },
+      {
+        "word": "handbook",
+        "pos": "n.",
+        "meaning": "sổ tay hướng dẫn"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Customer Service Workshop: Handling Phone Complaints</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Activity</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Format / Materials</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Morning Session</td>\n                            <td class=\"border border-neutral-800 p-2\">New Refund Policy &amp; 3-Step Response</td>\n                            <td class=\"border border-neutral-800 p-2\">Printed Handbook (Listen, Acknowledge, Offer Solution)</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Afternoon Session</td>\n                            <td class=\"border border-neutral-800 p-2\">Role-Playing Difficult Calls</td>\n                            <td class=\"border border-neutral-800 p-2\">Work in pairs with coach feedback</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">4:30 p.m. Wrap-Up</td>\n                            <td class=\"border border-neutral-800 p-2\">Workshop Concludes</td>\n                            <td class=\"border border-neutral-800 p-2\">Feedback survey e-mailed tomorrow</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  }
+]

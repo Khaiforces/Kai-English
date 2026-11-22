@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "office_laptop",
+    "imageCaption": "Một người phụ nữ đang ngồi tại bàn làm việc, hai tay đặt trên bàn phím máy tính xách tay; trước mặt cô có một cuốn sổ đang mở.",
+    "audioScript": "A. A woman is working on a laptop at a desk.\nB. A man is placing a box on a shelf.\nC. The desk is completely empty.\nD. A woman is talking on a telephone.",
+    "audioVoiceText": "A. A woman is working on a laptop at a desk. B. A man is placing a box on a shelf. C. The desk is completely empty. D. A woman is talking on a telephone.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A woman is working on a laptop at a desk."
+      },
+      {
+        "key": "B",
+        "text": "(B) A man is placing a box on a shelf."
+      },
+      {
+        "key": "C",
+        "text": "(C) The desk is completely empty."
+      },
+      {
+        "key": "D",
+        "text": "(D) A woman is talking on a telephone."
+      }
+    ],
+    "correct": "A",
+    "translation": "(A) Một người phụ nữ đang làm việc trên máy tính xách tay tại bàn làm việc.\n(B) Một người đàn ông đang đặt một chiếc hộp lên kệ.\n(C) Chiếc bàn hoàn toàn trống.\n(D) Một người phụ nữ đang nói chuyện điện thoại.",
+    "explanation": "Ảnh cho thấy người phụ nữ ngồi tại bàn, tay đặt trên bàn phím laptop, trước mặt là cuốn sổ mở. (A) mô tả đúng. (B) không có người đàn ông nào đang đặt hộp; (C) sai vì bàn có laptop, sổ và điện thoại; (D) không có ai đang nghe điện thoại.",
+    "vocab": [
+      {
+        "word": "laptop",
+        "pos": "n.",
+        "meaning": "máy tính xách tay"
+      },
+      {
+        "word": "desk",
+        "pos": "n.",
+        "meaning": "bàn làm việc"
+      },
+      {
+        "word": "document",
+        "pos": "n.",
+        "meaning": "tài liệu"
+      },
+      {
+        "word": "shelf",
+        "pos": "n.",
+        "meaning": "kệ"
+      },
+      {
+        "word": "completely",
+        "pos": "adv.",
+        "meaning": "hoàn toàn"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q1.jpg"
+  },
+  {
+    "id": 2,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "calendar_meeting",
+    "imageCaption": "Nhiều người đàn ông mặc vest đang ngồi quanh một chiếc bàn họp dài; trên bàn có chai nước và ly.",
+    "audioScript": "A. A meeting is taking place around a long table.\nB. The chairs have been stacked against the wall.\nC. A waiter is pouring water into the glasses.\nD. The walls are being painted by workers.",
+    "audioVoiceText": "A. A meeting is taking place around a long table. B. The chairs have been stacked against the wall. C. A waiter is pouring water into the glasses. D. The walls are being painted by workers.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A meeting is taking place around a long table."
+      },
+      {
+        "key": "B",
+        "text": "(B) The chairs have been stacked against the wall."
+      },
+      {
+        "key": "C",
+        "text": "(C) A waiter is pouring water into the glasses."
+      },
+      {
+        "key": "D",
+        "text": "(D) The walls are being painted by workers."
+      }
+    ],
+    "correct": "A",
+    "translation": "(A) Một cuộc họp đang diễn ra quanh một chiếc bàn dài.\n(B) Những chiếc ghế đã được xếp chồng sát tường.\n(C) Một người phục vụ đang rót nước vào các ly.\n(D) Những bức tường đang được công nhân sơn.",
+    "explanation": "Ảnh cho thấy một cuộc họp: nhiều người ngồi hai bên bàn dài, trên bàn có chai nước và ly. (A) đúng. (B) sai vì ghế vẫn đặt quanh bàn; (C) không có người phục vụ nào đang rót nước; (D) không có ai sơn tường.",
+    "vocab": [
+      {
+        "word": "calendar",
+        "pos": "n.",
+        "meaning": "lịch"
+      },
+      {
+        "word": "coworker",
+        "pos": "n.",
+        "meaning": "đồng nghiệp"
+      },
+      {
+        "word": "wall",
+        "pos": "n.",
+        "meaning": "bức tường"
+      },
+      {
+        "word": "reception area",
+        "pos": "n.",
+        "meaning": "khu vực lễ tân"
+      },
+      {
+        "word": "remove",
+        "pos": "v.",
+        "meaning": "gỡ xuống, di chuyển ra khỏi vị trí"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q2.jpg"
+  },
+  {
+    "id": 3,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "shipping_contract",
+    "imageCaption": "Một chiếc bút máy đặt trên xấp giấy tờ hợp đồng có tiêu đề CONTRACT.",
+    "audioScript": "A. A delivery truck is parked outside the warehouse.\nB. A pen is resting on top of a contract.\nC. A worker is sealing a box with tape.\nD. The documents have been placed inside a box.",
+    "audioVoiceText": "A. A delivery truck is parked outside the warehouse. B. A pen is resting on top of a contract. C. A worker is sealing a box with tape. D. The documents have been placed inside a box.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A delivery truck is parked outside the warehouse."
+      },
+      {
+        "key": "B",
+        "text": "(B) A pen is resting on top of a contract."
+      },
+      {
+        "key": "C",
+        "text": "(C) A worker is sealing a box with tape."
+      },
+      {
+        "key": "D",
+        "text": "(D) The documents have been placed inside a box."
+      }
+    ],
+    "correct": "B",
+    "translation": "(A) Một chiếc xe tải giao hàng đỗ bên ngoài nhà kho.\n(B) Một chiếc bút đang đặt trên một bản hợp đồng.\n(C) Một công nhân đang dán keo niêm phong thùng hàng.\n(D) Các giấy tờ đã được cho vào trong thùng.",
+    "explanation": "Ảnh cận cảnh cho thấy chiếc bút máy nằm trên tờ hợp đồng có tiêu đề CONTRACT và các dòng điều khoản. (B) đúng. (A), (C), (D) mô tả vật thể hoặc hành động không xuất hiện trong ảnh.",
+    "vocab": [
+      {
+        "word": "shipping document",
+        "pos": "n.",
+        "meaning": "chứng từ vận chuyển"
+      },
+      {
+        "word": "cardboard box",
+        "pos": "n.",
+        "meaning": "thùng các-tông"
+      },
+      {
+        "word": "seal",
+        "pos": "v.",
+        "meaning": "dán kín, niêm phong"
+      },
+      {
+        "word": "tape",
+        "pos": "n.",
+        "meaning": "băng dính"
+      },
+      {
+        "word": "delivery truck",
+        "pos": "n.",
+        "meaning": "xe tải giao hàng"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q3.jpg"
+  },
+  {
+    "id": 4,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "conference_badges",
+    "imageCaption": "Một nhóm đông người đứng trước màn chiếu, mỗi người đeo một huy hiệu tên trên dây đeo cổ.",
+    "audioScript": "A. A speaker is giving a presentation on a stage.\nB. The badges are being printed in an office.\nC. Several people are wearing name badges on lanyards.\nD. A receptionist is handing a badge to a visitor.",
+    "audioVoiceText": "A. A speaker is giving a presentation on a stage. B. The badges are being printed in an office. C. Several people are wearing name badges on lanyards. D. A receptionist is handing a badge to a visitor.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A speaker is giving a presentation on a stage."
+      },
+      {
+        "key": "B",
+        "text": "(B) The badges are being printed in an office."
+      },
+      {
+        "key": "C",
+        "text": "(C) Several people are wearing name badges on lanyards."
+      },
+      {
+        "key": "D",
+        "text": "(D) A receptionist is handing a badge to a visitor."
+      }
+    ],
+    "correct": "C",
+    "translation": "(A) Một diễn giả đang thuyết trình trên sân khấu.\n(B) Những tấm huy hiệu đang được in trong văn phòng.\n(C) Nhiều người đang đeo huy hiệu tên trên dây đeo cổ.\n(D) Một nhân viên lễ tân đang trao huy hiệu cho khách.",
+    "explanation": "Trong ảnh, cả nhóm người đều đeo dây đeo cổ có thẻ tên. (C) đúng. Không có diễn giả trên sân khấu (A), không có máy in huy hiệu (B), không có cảnh trao huy hiệu (D).",
+    "vocab": [
+      {
+        "word": "badge",
+        "pos": "n.",
+        "meaning": "huy hiệu, thẻ tên"
+      },
+      {
+        "word": "lanyard",
+        "pos": "n.",
+        "meaning": "dây đeo cổ"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      },
+      {
+        "word": "receptionist",
+        "pos": "n.",
+        "meaning": "nhân viên lễ tân"
+      },
+      {
+        "word": "print",
+        "pos": "v.",
+        "meaning": "in"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q4.jpg"
+  },
+  {
+    "id": 5,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "office_meeting",
+    "imageCaption": "Một người đàn ông mặc vest đứng cạnh bục phát biểu, phía sau là màn chiếu lớn đang trình bày slide.",
+    "audioScript": "A. A man is standing in front of a projected slide.\nB. Two employees are shaking hands.\nC. All the chairs in the room are empty.\nD. A woman is pointing at a chart on a screen.",
+    "audioVoiceText": "A. A man is standing in front of a projected slide. B. Two employees are shaking hands. C. All the chairs in the room are empty. D. A woman is pointing at a chart on a screen.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A man is standing in front of a projected slide."
+      },
+      {
+        "key": "B",
+        "text": "(B) Two employees are shaking hands."
+      },
+      {
+        "key": "C",
+        "text": "(C) All the chairs in the room are empty."
+      },
+      {
+        "key": "D",
+        "text": "(D) A woman is pointing at a chart on a screen."
+      }
+    ],
+    "correct": "A",
+    "translation": "(A) Một người đàn ông đang đứng trước một slide được chiếu lên màn hình.\n(B) Hai nhân viên đang bắt tay nhau.\n(C) Tất cả ghế trong phòng đều trống.\n(D) Một người phụ nữ đang chỉ vào biểu đồ trên màn hình.",
+    "explanation": "Ảnh cho thấy người đàn ông đứng cạnh bục phát biểu, phía sau là màn chiếu lớn. (A) đúng. Không có ai bắt tay (B); không có người phụ nữ nào chỉ vào biểu đồ (D); (C) không được thể hiện trong ảnh.",
+    "vocab": [
+      {
+        "word": "point at",
+        "pos": "v.",
+        "meaning": "chỉ vào"
+      },
+      {
+        "word": "chart",
+        "pos": "n.",
+        "meaning": "biểu đồ"
+      },
+      {
+        "word": "projector",
+        "pos": "n.",
+        "meaning": "máy chiếu"
+      },
+      {
+        "word": "screen",
+        "pos": "n.",
+        "meaning": "màn hình"
+      },
+      {
+        "word": "shake hands",
+        "pos": "v.",
+        "meaning": "bắt tay"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q5.jpg"
+  },
+  {
+    "id": 6,
+    "type": "listening",
+    "part": 1,
+    "partName": "Part 1: Mô tả hình ảnh (Photographs)",
+    "imageType": "cafe_outdoor",
+    "imageCaption": "Nhiều bàn ghế ngoài trời được xếp dưới những chiếc ô lớn vào buổi tối; một vài người đang ngồi ở bàn.",
+    "audioScript": "A. A band is performing on a small stage.\nB. An outdoor table is set beneath a large umbrella.\nC. The tables have been folded and stored away.\nD. People are waiting in line outside the cafe.",
+    "audioVoiceText": "A. A band is performing on a small stage. B. An outdoor table is set beneath a large umbrella. C. The tables have been folded and stored away. D. People are waiting in line outside the cafe.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A band is performing on a small stage."
+      },
+      {
+        "key": "B",
+        "text": "(B) An outdoor table is set beneath a large umbrella."
+      },
+      {
+        "key": "C",
+        "text": "(C) The tables have been folded and stored away."
+      },
+      {
+        "key": "D",
+        "text": "(D) People are waiting in line outside the cafe."
+      }
+    ],
+    "correct": "B",
+    "translation": "(A) Một ban nhạc đang biểu diễn trên một sân khấu nhỏ.\n(B) Một chiếc bàn ngoài trời được đặt dưới một chiếc ô lớn.\n(C) Những chiếc bàn đã được gấp lại và cất đi.\n(D) Mọi người đang xếp hàng bên ngoài quán cà phê.",
+    "explanation": "Ảnh chụp khu vực ngoài trời với các bàn ghế đặt dưới ô lớn. (B) đúng. Không có ban nhạc (A); bàn vẫn mở, không bị gấp cất (C); không có hàng người chờ (D).",
+    "vocab": [
+      {
+        "word": "outdoor",
+        "pos": "adj.",
+        "meaning": "ngoài trời"
+      },
+      {
+        "word": "umbrella",
+        "pos": "n.",
+        "meaning": "ô, dù"
+      },
+      {
+        "word": "fold",
+        "pos": "v.",
+        "meaning": "gấp lại"
+      },
+      {
+        "word": "waiter",
+        "pos": "n.",
+        "meaning": "bồi bàn"
+      },
+      {
+        "word": "line",
+        "pos": "n.",
+        "meaning": "hàng người chờ"
+      }
+    ],
+    "imageUrl": "assets/images/test-01/part1/q6.jpg"
+  }
+]

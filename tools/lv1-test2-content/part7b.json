@@ -1,0 +1,382 @@
+[
+  {
+    "passageTitle": "Questions 176–180 refer to the following order form and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-1\">Document 1: Office Supply Order #5021</p><p class=\"text-xs mb-2\"><strong>Customer:</strong> Bright Future Design &nbsp;|&nbsp; <strong>Order Date:</strong> March 3</p><ul class=\"list-disc pl-5 mb-2 text-xs\"><li>5 boxes of A4 Copy Paper ($20 each) = $100</li><li>10 packs of Sticky Notes ($3 each) = $30</li><li>2 Desk Organizers ($15 each) = $30</li></ul><p class=\"text-xs\"><strong>Total Paid:</strong> $160 (Free standard shipping)</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: E-mail</p><p class=\"text-xs mb-1\"><strong>To:</strong> support@quickoffice.com<br><strong>From:</strong> Laura Chen &lt;laura@brightfuture.com&gt;<br><strong>Date:</strong> March 6<br><strong>Subject:</strong> Missing Items in Order #5021</p><p class=\"mb-1\">Hello,</p><p class=\"mb-1\">Our package for Order #5021 arrived this morning. Thank you for the fast delivery. However, when I opened the box, I noticed that only 3 boxes of A4 Copy Paper were inside instead of 5. The sticky notes and desk organizers were all there.</p><p>Could you please send the remaining 2 boxes of paper as soon as possible? You can reach me at 555-0192 if needed.</p><p>Thank you,<br>Laura Chen</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "Who placed Order #5021?",
+        "options": [
+          "Quick Office",
+          "Bright Future Design",
+          "Standard Shipping",
+          "City Bookstore"
+        ],
+        "answer": "B",
+        "translation": "Ai đã đặt đơn hàng #5021?",
+        "explanation": "Trong Document 1, mục Customer ghi 'Bright Future Design'.",
+        "vocab": [["order form", "n", "mẫu đơn đặt hàng"], ["sticky notes", "n", "giấy ghi chú"]]
+      },
+      {
+        "n": 177,
+        "q": "How much did one Desk Organizer cost?",
+        "options": [
+          "$3",
+          "$15",
+          "$20",
+          "$30"
+        ],
+        "answer": "B",
+        "translation": "Một chiếc hộp đựng đồ trên bàn làm việc giá bao nhiêu?",
+        "explanation": "Document 1 ghi: '2 Desk Organizers ($15 each) = $30'.",
+        "vocab": [["organizer", "n", "hộp đựng sắp xếp đồ"], ["standard shipping", "n", "giao hàng tiêu chuẩn"]]
+      },
+      {
+        "n": 178,
+        "q": "When did the package arrive at Bright Future Design?",
+        "options": [
+          "On March 3",
+          "On March 4",
+          "On March 5",
+          "On March 6"
+        ],
+        "answer": "D",
+        "translation": "Gói hàng đã đến công ty Bright Future Design vào ngày nào?",
+        "explanation": "Email gửi ngày March 6 và Laura viết: 'Our package for Order #5021 arrived this morning'.",
+        "vocab": [["arrive", "v", "đến nơi"], ["package", "n", "gói hàng"]]
+      },
+      {
+        "n": 179,
+        "q": "What problem does Laura mention in her e-mail?",
+        "options": [
+          "The sticky notes were damaged.",
+          "The desk organizers were the wrong color.",
+          "Two boxes of A4 copy paper were missing.",
+          "The delivery fee was too high."
+        ],
+        "answer": "C",
+        "translation": "Laura đề cập đến vấn đề gì trong email?",
+        "explanation": "Laura viết chỉ có 3 thùng giấy A4 thay vì 5 thùng, và yêu cầu gửi thêm 2 thùng còn lại.",
+        "vocab": [["missing", "adj", "bị thiếu"], ["remaining", "adj", "còn lại"]]
+      },
+      {
+        "n": 180,
+        "q": "What does Laura ask Quick Office to do?",
+        "options": [
+          "Refund $40 to her card",
+          "Send the remaining 2 boxes of paper",
+          "Cancel Order #5021",
+          "Deliver to a different address"
+        ],
+        "answer": "B",
+        "translation": "Laura yêu cầu Quick Office làm gì?",
+        "explanation": "Câu cuối email viết: 'Could you please send the remaining 2 boxes of paper as soon as possible?'.",
+        "vocab": [["as soon as possible", "adv", "càng sớm càng tốt"], ["reach", "v", "liên lạc"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181–185 refer to the following advertisement and text message chain.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-1\">Document 1: Advertisement</p><p class=\"font-bold text-center mb-1\">GLOBAL ENGLISH ACADEMY — EVENING CLASSES</p><p class=\"mb-1\">Improve your English speaking and writing skills after work!</p><ul class=\"list-disc pl-5 mb-2 text-xs\"><li><strong>Level 1 (Beginner):</strong> Mondays &amp; Wednesdays, 6:30 P.M. – 8:00 P.M.</li><li><strong>Level 2 (Intermediate):</strong> Tuesdays &amp; Thursdays, 6:30 P.M. – 8:00 P.M.</li></ul><p class=\"text-xs\"><strong>Tuition:</strong> $120 per month (includes textbook). Register before April 15 to get a $20 discount!</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Text Message Chain</p><p class=\"mb-1\"><strong>Ken (4:10 P.M.):</strong> Hi Lisa! Did you see the flyer for Global English Academy?</p><p class=\"mb-1\"><strong>Lisa (4:12 P.M.):</strong> Yes! I want to join the Level 1 class because I need to practice basic speaking.</p><p class=\"mb-1\"><strong>Ken (4:14 P.M.):</strong> Me too! Let's sign up today since it's April 12. We can save $20.</p><p><strong>Lisa (4:15 P.M.):</strong> Good idea! By the way, I can't drive on Wednesdays, so let's take the subway together after work.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "When are the Level 1 classes held?",
+        "options": [
+          "On Mondays and Wednesdays",
+          "On Tuesdays and Thursdays",
+          "On Saturdays and Sundays",
+          "Every weekday morning"
+        ],
+        "answer": "A",
+        "translation": "Các lớp Level 1 được tổ chức vào khi nào?",
+        "explanation": "Document 1 ghi: 'Level 1 (Beginner): Mondays & Wednesdays, 6:30 P.M. – 8:00 P.M.'.",
+        "vocab": [["academy", "n", "học viện"], ["tuition", "n", "học phí"]]
+      },
+      {
+        "n": 182,
+        "q": "What is included in the monthly tuition?",
+        "options": [
+          "A free dictionary",
+          "A textbook",
+          "Subway tickets",
+          "Private tutoring"
+        ],
+        "answer": "B",
+        "translation": "Học phí hàng tháng bao gồm những gì?",
+        "explanation": "Quảng cáo ghi: '$120 per month (includes textbook)'.",
+        "vocab": [["include", "v", "bao gồm"], ["textbook", "n", "sách giáo trình"]]
+      },
+      {
+        "n": 183,
+        "q": "Why does Lisa want to take the Level 1 class?",
+        "options": [
+          "She wants to study on Tuesdays.",
+          "She wants to practice basic speaking.",
+          "She already finished Level 2.",
+          "Her boss asked her to teach."
+        ],
+        "answer": "B",
+        "translation": "Tại sao Lisa muốn học lớp Level 1?",
+        "explanation": "Lisa nhắn: 'I want to join the Level 1 class because I need to practice basic speaking'.",
+        "vocab": [["basic", "adj", "cơ bản"], ["practice", "v", "luyện tập"]]
+      },
+      {
+        "n": 184,
+        "q": "How much will Ken pay for the first month if he signs up on April 12?",
+        "options": [
+          "$20",
+          "$100",
+          "$120",
+          "$140"
+        ],
+        "answer": "B",
+        "translation": "Ken sẽ trả bao nhiêu cho tháng đầu tiên nếu đăng ký vào ngày 12 tháng 4?",
+        "explanation": "Học phí $120/tháng, đăng ký trước ngày 15/4 được giảm $20 (như Ken nói 'We can save $20'), nên còn $100.",
+        "vocab": [["register", "v", "đăng ký"], ["sign up", "v", "ghi danh"]]
+      },
+      {
+        "n": 185,
+        "q": "How does Lisa suggest going to the class?",
+        "options": [
+          "By car",
+          "By bus",
+          "By subway",
+          "On foot"
+        ],
+        "answer": "C",
+        "translation": "Lisa gợi ý đi đến lớp học bằng phương tiện gì?",
+        "explanation": "Tin nhắn cuối Lisa viết: 'so let's take the subway together after work'.",
+        "vocab": [["subway", "n", "tàu điện ngầm"], ["flyer", "n", "tờ rơi"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186–190 refer to the following schedule, e-mail, and reply.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-1\">Document 1: City Book Fair — Saturday, October 10</p><ul class=\"list-disc pl-5 mb-2 text-xs\"><li><strong>10:00 A.M.:</strong> Opening Ceremony (Main Hall)</li><li><strong>11:00 A.M.:</strong> Author Talk with Daniel Ross (Room A)</li><li><strong>1:30 P.M.:</strong> Children's Storytelling (Room B)</li><li><strong>3:00 P.M.:</strong> Cooking Book Signing by Chef Grace (Room A)</li></ul><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: E-mail</p><p class=\"text-xs mb-1\"><strong>To:</strong> info@citybookfair.org<br><strong>From:</strong> Kevin Park<br><strong>Subject:</strong> Question about Saturday Events</p><p class=\"mb-1\">Hello, I am planning to attend the City Book Fair on October 10. I really want to meet Author Daniel Ross and get his new travel book signed. Do I need to buy a special ticket for his talk in Room A?</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: E-mail Reply</p><p class=\"text-xs mb-1\"><strong>To:</strong> Kevin Park<br><strong>From:</strong> City Book Fair Team</p><p>Dear Kevin, thank you for your e-mail! All talks and book signings are free with a $5 general entry ticket. Please note that Daniel Ross's talk has been moved from Room A to the Main Hall so more people can sit down.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "When will the City Book Fair take place?",
+        "options": [
+          "On Friday, October 9",
+          "On Saturday, October 10",
+          "On Sunday, October 11",
+          "On Monday, October 12"
+        ],
+        "answer": "B",
+        "translation": "Hội chợ sách thành phố sẽ diễn ra khi nào?",
+        "explanation": "Tiêu đề Document 1 ghi: 'City Book Fair — Saturday, October 10'.",
+        "vocab": [["book fair", "n", "hội chợ sách"], ["opening ceremony", "n", "lễ khai mạc"]]
+      },
+      {
+        "n": 187,
+        "q": "What event is scheduled for 1:30 P.M.?",
+        "options": [
+          "Opening Ceremony",
+          "Author Talk with Daniel Ross",
+          "Children's Storytelling",
+          "Cooking Book Signing"
+        ],
+        "answer": "C",
+        "translation": "Sự kiện nào diễn ra vào lúc 1:30 chiều?",
+        "explanation": "Lịch trình ghi '1:30 P.M.: Children's Storytelling (Room B)'.",
+        "vocab": [["storytelling", "n", "kể chuyện"], ["author", "n", "tác giả"]]
+      },
+      {
+        "n": 188,
+        "q": "What kind of book did Daniel Ross write?",
+        "options": [
+          "A cooking book",
+          "A children's book",
+          "A travel book",
+          "A history book"
+        ],
+        "answer": "C",
+        "translation": "Daniel Ross đã viết thể loại sách gì?",
+        "explanation": "Trong Document 2, Kevin viết: 'meet Author Daniel Ross and get his new travel book signed'.",
+        "vocab": [["book signing", "n", "buổi ký tặng sách"], ["attend", "v", "tham dự"]]
+      },
+      {
+        "n": 189,
+        "q": "How much does Kevin need to pay to attend Daniel Ross's talk?",
+        "options": [
+          "Nothing at all",
+          "$5",
+          "$10",
+          "$15"
+        ],
+        "answer": "B",
+        "translation": "Kevin cần trả bao nhiêu để tham dự buổi nói chuyện của Daniel Ross?",
+        "explanation": "Document 3 trả lời: 'All talks and book signings are free with a $5 general entry ticket'.",
+        "vocab": [["general entry", "n", "vé vào cửa chung"], ["note", "v", "lưu ý"]]
+      },
+      {
+        "n": 190,
+        "q": "Where will Daniel Ross's talk actually be held?",
+        "options": [
+          "In Room A",
+          "In Room B",
+          "In the Main Hall",
+          "Outside the building"
+        ],
+        "answer": "C",
+        "translation": "Buổi nói chuyện của Daniel Ross thực tế sẽ được tổ chức ở đâu?",
+        "explanation": "Document 3 thông báo: 'Daniel Ross's talk has been moved from Room A to the Main Hall'.",
+        "vocab": [["move", "v", "chuyển đến"], ["sit down", "v", "ngồi xuống"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191–195 refer to the following price list, repair ticket, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-1\">Document 1: TechCare Computer Repair — Price List</p><ul class=\"list-disc pl-5 mb-2 text-xs\"><li><strong>Screen Replacement:</strong> $120</li><li><strong>Battery Replacement:</strong> $60</li><li><strong>Keyboard Repair:</strong> $45</li><li><strong>System Check &amp; Cleaning:</strong> $25</li></ul><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Repair Ticket #884</p><p class=\"text-xs mb-1\"><strong>Customer:</strong> Daniel Kim &nbsp;|&nbsp; <strong>Phone:</strong> 555-0144<br><strong>Device:</strong> Silver Laptop &nbsp;|&nbsp; <strong>Drop-off Date:</strong> November 2<br><strong>Requested Service:</strong> Battery Replacement</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: E-mail from TechCare</p><p class=\"text-xs mb-1\"><strong>To:</strong> Daniel Kim<br><strong>Date:</strong> November 3<br><strong>Subject:</strong> Update on Repair Ticket #884</p><p>Dear Mr. Kim, we have replaced the battery on your silver laptop. While testing the laptop, our technician also noticed that your cooling fan was very dusty and performed a System Check &amp; Cleaning at no extra charge. Your laptop is ready for pickup today until 7:00 P.M.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "Which service costs $45 at TechCare?",
+        "options": [
+          "Screen Replacement",
+          "Battery Replacement",
+          "Keyboard Repair",
+          "System Check & Cleaning"
+        ],
+        "answer": "C",
+        "translation": "Dịch vụ nào có giá 45 đô la tại TechCare?",
+        "explanation": "Trong Document 1, mục Keyboard Repair có giá $45.",
+        "vocab": [["replacement", "n", "sự thay thế"], ["repair", "n", "sửa chữa"]]
+      },
+      {
+        "n": 192,
+        "q": "When did Daniel Kim bring his laptop to the shop?",
+        "options": [
+          "On November 1",
+          "On November 2",
+          "On November 3",
+          "On November 4"
+        ],
+        "answer": "B",
+        "translation": "Daniel Kim đã mang máy tính xách tay đến cửa hàng khi nào?",
+        "explanation": "Document 2 ghi: 'Drop-off Date: November 2'.",
+        "vocab": [["drop-off", "n", "ngày gửi đồ"], ["device", "n", "thiết bị"]]
+      },
+      {
+        "n": 193,
+        "q": "How much will Daniel Kim have to pay in total?",
+        "options": [
+          "$25",
+          "$60",
+          "$85",
+          "$120"
+        ],
+        "answer": "B",
+        "translation": "Daniel Kim sẽ phải trả tổng cộng bao nhiêu tiền?",
+        "explanation": "Ông Kim yêu cầu Battery Replacement ($60). Dịch vụ System Check & Cleaning được làm 'at no extra charge' (miễn phí thêm), nên tổng vẫn là $60.",
+        "vocab": [["no extra charge", "n", "không tính thêm phí"], ["dusty", "adj", "bụi bặm"]]
+      },
+      {
+        "n": 194,
+        "q": "What extra problem did the technician find?",
+        "options": [
+          "The screen was cracked.",
+          "The keyboard was broken.",
+          "The cooling fan was dusty.",
+          "The charger was missing."
+        ],
+        "answer": "C",
+        "translation": "Kỹ thuật viên đã phát hiện thêm vấn đề gì?",
+        "explanation": "Document 3 viết: 'our technician also noticed that your cooling fan was very dusty'.",
+        "vocab": [["cooling fan", "n", "quạt tản nhiệt"], ["notice", "v", "nhận thấy"]]
+      },
+      {
+        "n": 195,
+        "q": "By what time can Daniel Kim pick up his laptop today?",
+        "options": [
+          "Until 5:00 P.M.",
+          "Until 6:00 P.M.",
+          "Until 7:00 P.M.",
+          "Until 8:00 P.M."
+        ],
+        "answer": "C",
+        "translation": "Hôm nay Daniel Kim có thể đến nhận lại máy tính trước mấy giờ?",
+        "explanation": "Câu cuối Document 3 ghi: 'Your laptop is ready for pickup today until 7:00 P.M.'.",
+        "vocab": [["pickup", "n", "việc đến lấy đồ"], ["perform", "v", "thực hiện"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196–200 refer to the following notice, task list, and e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-1\">Document 1: Meeting Room Change Notice</p><p class=\"mb-2 text-xs\">Please note that Friday's Marketing Team Meeting (10:00 A.M.) has been moved from Room 301 to Room 405 because the air conditioner in Room 301 is being repaired.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 2: Meeting Task List</p><ul class=\"list-disc pl-5 mb-2 text-xs\"><li><strong>Bring printed reports:</strong> Rachel</li><li><strong>Set up projector:</strong> Ben</li><li><strong>Order coffee &amp; snacks:</strong> Mia</li><li><strong>Take meeting notes:</strong> Sam</li></ul><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Document 3: E-mail</p><p class=\"text-xs mb-1\"><strong>To:</strong> Marketing Team<br><strong>From:</strong> Ben Taylor<br><strong>Subject:</strong> Friday Meeting</p><p>Hi everyone, I have a dentist appointment on Friday morning, so I will arrive at 10:30 A.M. instead of 10:00 A.M. Could someone else please handle my task before the meeting starts in Room 405? Thanks, Ben.</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "Why was the meeting moved to Room 405?",
+        "options": [
+          "Room 301 is too small.",
+          "The air conditioner in Room 301 is being repaired.",
+          "Room 405 has better coffee.",
+          "Another team booked Room 301."
+        ],
+        "answer": "B",
+        "translation": "Tại sao cuộc họp được chuyển sang Phòng 405?",
+        "explanation": "Document 1 ghi: 'because the air conditioner in Room 301 is being repaired'.",
+        "vocab": [["air conditioner", "n", "máy điều hòa"], ["notice", "n", "thông báo"]]
+      },
+      {
+        "n": 197,
+        "q": "Who is responsible for ordering coffee and snacks?",
+        "options": [
+          "Rachel",
+          "Ben",
+          "Mia",
+          "Sam"
+        ],
+        "answer": "C",
+        "translation": "Ai chịu trách nhiệm đặt cà phê và đồ ăn nhẹ?",
+        "explanation": "Trong Document 2, dòng 'Order coffee & snacks: Mia'.",
+        "vocab": [["snack", "n", "đồ ăn nhẹ"], ["task list", "n", "danh sách công việc"]]
+      },
+      {
+        "n": 198,
+        "q": "Why will Ben be late for the meeting on Friday?",
+        "options": [
+          "He is picking up printed reports.",
+          "He has a dentist appointment.",
+          "He is fixing the air conditioner.",
+          "His train is delayed."
+        ],
+        "answer": "B",
+        "translation": "Tại sao Ben sẽ đến họp muộn vào thứ Sáu?",
+        "explanation": "Trong Document 3, Ben viết: 'I have a dentist appointment on Friday morning'.",
+        "vocab": [["dentist", "n", "nha sĩ"], ["appointment", "n", "cuộc hẹn"]]
+      },
+      {
+        "n": 199,
+        "q": "What task does Ben need someone else to do?",
+        "options": [
+          "Bring printed reports",
+          "Set up the projector",
+          "Order coffee",
+          "Take meeting notes"
+        ],
+        "answer": "B",
+        "translation": "Ben cần người khác làm giúp nhiệm vụ gì?",
+        "explanation": "Kết hợp Document 2 ('Set up projector: Ben') và Document 3 ('Could someone else please handle my task'), nhiệm vụ của Ben là lắp đặt máy chiếu.",
+        "vocab": [["projector", "n", "máy chiếu"], ["handle", "v", "xử lý, đảm nhận"]]
+      },
+      {
+        "n": 200,
+        "q": "What time will Ben arrive at Room 405?",
+        "options": [
+          "At 9:30 A.M.",
+          "At 10:00 A.M.",
+          "At 10:15 A.M.",
+          "At 10:30 A.M."
+        ],
+        "answer": "D",
+        "translation": "Ben sẽ đến Phòng 405 lúc mấy giờ?",
+        "explanation": "Ben viết trong email: 'so I will arrive at 10:30 A.M. instead of 10:00 A.M.'.",
+        "vocab": [["instead of", "prep", "thay vì"], ["arrive", "v", "đến nơi"]]
+      }
+    ]
+  }
+]

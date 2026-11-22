@@ -1,0 +1,506 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Staff<br>From: Priya Raman, Operations Manager<br>Re: New Time for Customer-Service Training</p><p class=\"mt-2\">Due to a scheduling conflict with the annual safety inspection, the customer-service training session originally planned for Thursday morning has been moved to Friday at 2:00 p.m. in Room 4B. The room <strong>[131]</strong> forty people comfortably, so seating should not be an issue. All participants are asked to complete the pre-session reading before Friday, <strong>[132]</strong> the workshop will begin with a small-group discussion rather than a lecture. A draft agenda is attached to this e-mail. <strong>[133]</strong> Employees <strong>[134]</strong> cannot attend at the new time should notify me by Wednesday so that a make-up session can be arranged.</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": [
+          "seats",
+          "seating",
+          "seated",
+          "is seated"
+        ],
+        "answer": "A",
+        "translation": "Phòng này có thể chứa bốn mươi người một cách thoải mái, nên chỗ ngồi sẽ không thành vấn đề.",
+        "explanation": "Chủ ngữ \"The room\" là số ít nên động từ phải chia theo ngôi thứ ba số ít, và câu cần một ngoại động từ mang nghĩa \"chứa được\" đi với tân ngữ \"forty people\". Trích đáp án đúng: seats.",
+        "vocab": [
+          [
+            "seat",
+            "v",
+            "chứa được (số chỗ ngồi)"
+          ],
+          [
+            "comfortably",
+            "adv",
+            "một cách thoải mái"
+          ],
+          [
+            "seating",
+            "n",
+            "chỗ ngồi"
+          ]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the best answer to complete blank [132].",
+        "options": [
+          "despite",
+          "although",
+          "as",
+          "during"
+        ],
+        "answer": "C",
+        "translation": "Tất cả người tham gia được yêu cầu hoàn thành phần đọc trước buổi học trước thứ Sáu, vì buổi đào tạo sẽ bắt đầu bằng thảo luận nhóm nhỏ thay vì bài giảng.",
+        "explanation": "Sau chỗ trống là một mệnh đề đầy đủ (the workshop will begin...), nên cần liên từ; nghĩa của câu là giải thích lý do nên dùng \"as\". Các phương án còn lại hoặc là giới từ (despite, during), hoặc chỉ sự nhượng bộ (although). Trích đáp án đúng: as.",
+        "vocab": [
+          [
+            "participant",
+            "n",
+            "người tham gia"
+          ],
+          [
+            "pre-session",
+            "adj",
+            "trước buổi học"
+          ],
+          [
+            "lecture",
+            "n",
+            "bài giảng"
+          ]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Select the best answer to complete blank [133].",
+        "options": [
+          "Please review it thoroughly before Friday so that we can move quickly through the opening items.",
+          "The safety inspection, by contrast, will be conducted in the warehouse.",
+          "Lunch will be served in the cafeteria from noon to 1:30 p.m.",
+          "Room 4B was renovated last summer at considerable expense."
+        ],
+        "answer": "A",
+        "translation": "Vui lòng xem lại chương trình nghị sự đó một cách kỹ lưỡng trước thứ Sáu để chúng ta có thể đi nhanh qua các mục mở đầu.",
+        "explanation": "Câu trước vừa nhắc đến \"the agenda\" và câu sau nói về nhân viên không thể tham dự, nên câu cần điền phải tiếp tục mạch hướng dẫn chuẩn bị cho buổi học; \"it\" chỉ đúng \"the agenda\". Các phương án còn lại nói về thanh tra an toàn, bữa trưa và việc sửa phòng, không liên kết với hai câu xung quanh.",
+        "vocab": [
+          [
+            "agenda",
+            "n",
+            "chương trình nghị sự"
+          ],
+          [
+            "thoroughly",
+            "adv",
+            "một cách kỹ lưỡng"
+          ],
+          [
+            "opening",
+            "adj",
+            "mở đầu"
+          ]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Select the best answer to complete blank [134].",
+        "options": [
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "answer": "A",
+        "translation": "Những nhân viên không thể tham dự vào thời điểm mới nên thông báo cho tôi trước thứ Tư để có thể sắp xếp một buổi học bù.",
+        "explanation": "Mệnh đề quan hệ bổ nghĩa cho \"Employees\" (chỉ người) và giữ vai trò chủ ngữ của động từ \"cannot attend\", nên dùng \"who\". \"Whom\" dùng cho tân ngữ, \"which\" cho vật, \"whose\" chỉ sở hữu. Trích đáp án đúng: who.",
+        "vocab": [
+          [
+            "notify",
+            "v",
+            "thông báo"
+          ],
+          [
+            "make-up",
+            "adj",
+            "học bù, làm bù"
+          ],
+          [
+            "arrange",
+            "v",
+            "sắp xếp"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Beginning on March 3, the parking area behind the West Building will be closed for resurfacing. The work is expected to last approximately two weeks, <strong>[135]</strong> weather delays occur. During this period, staff members are asked to use the visitor lot on Oak Street or to take the shuttle that departs from the main entrance every fifteen minutes. <strong>[136]</strong> Because the visitor lot has only sixty spaces, employees <strong>[137]</strong> arrive after 8:00 a.m. are strongly encouraged to carpool. We appreciate your patience while the resurfacing work <strong>[138]</strong>.</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": [
+          "unless",
+          "although",
+          "because",
+          "despite"
+        ],
+        "answer": "A",
+        "translation": "Công việc dự kiến kéo dài khoảng hai tuần, trừ khi có sự chậm trễ do thời tiết.",
+        "explanation": "Câu cần một liên từ nối mệnh đề chỉ thời lượng dự kiến với khả năng kéo dài hơn, tức điều kiện loại trừ, nên dùng \"unless\". \"Although\" chỉ nhượng bộ, \"because\" chỉ nguyên nhân, còn \"despite\" là giới từ nên không đứng trước mệnh đề. Trích đáp án đúng: unless.",
+        "vocab": [
+          [
+            "resurfacing",
+            "n",
+            "việc làm lại mặt đường"
+          ],
+          [
+            "approximately",
+            "adv",
+            "khoảng chừng"
+          ],
+          [
+            "delay",
+            "n",
+            "sự chậm trễ"
+          ]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": [
+          "The shuttle will operate from 6:30 a.m. to 7:30 p.m. on weekdays.",
+          "The resurfacing contract was awarded to a firm from Dayton.",
+          "The West Building cafeteria now offers a wider breakfast menu.",
+          "Employees must return their parking permits to the security desk."
+        ],
+        "answer": "A",
+        "translation": "Xe đưa đón sẽ hoạt động từ 6 giờ 30 sáng đến 7 giờ 30 tối vào các ngày trong tuần.",
+        "explanation": "Câu trước vừa giới thiệu tuyến xe đưa đón từ cổng chính, nên câu cần điền phải bổ sung thông tin về khung giờ của xe đưa đón. Các phương án còn lại nói về nhà thầu, thực đơn và thẻ đỗ xe, không nối được với câu xung quanh.",
+        "vocab": [
+          [
+            "shuttle",
+            "n",
+            "xe đưa đón"
+          ],
+          [
+            "depart",
+            "v",
+            "khởi hành"
+          ],
+          [
+            "entrance",
+            "n",
+            "lối vào"
+          ]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the best answer to complete blank [137].",
+        "options": [
+          "arriving",
+          "arrived",
+          "arrive",
+          "to arrive"
+        ],
+        "answer": "A",
+        "translation": "Vì bãi đỗ xe khách chỉ có sáu mươi chỗ, những nhân viên đến trước 8 giờ sáng được khuyến khích mạnh mẽ đi xe chung.",
+        "explanation": "Đây là dạng rút gọn của mệnh đề quan hệ chủ động \"who arrive after 8:00 a.m.\", nên dùng hiện tại phân từ \"arriving\" để bổ nghĩa cho \"employees\". \"Arrived\" mang nghĩa bị động, \"arrive\" tạo ra hai vị ngữ cho cùng một câu, \"to arrive\" chỉ mục đích.",
+        "vocab": [
+          [
+            "space",
+            "n",
+            "chỗ (đỗ xe)"
+          ],
+          [
+            "encourage",
+            "v",
+            "khuyến khích"
+          ],
+          [
+            "carpool",
+            "v",
+            "đi xe chung"
+          ]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Select the best answer to complete blank [138].",
+        "options": [
+          "is being carried out",
+          "is carrying out",
+          "carries out",
+          "has carried out"
+        ],
+        "answer": "A",
+        "translation": "Chúng tôi cảm ơn sự kiên nhẫn của quý vị trong khi công việc làm lại mặt đường đang được thực hiện.",
+        "explanation": "\"The resurfacing work\" là đối tượng của hành động nên cần dạng bị động, và \"while\" chỉ hành động đang diễn ra cùng lúc nên dùng bị động tiếp diễn. Ba phương án còn lại đều ở dạng chủ động nên không hợp nghĩa. Trích đáp án đúng: is being carried out.",
+        "vocab": [
+          [
+            "patience",
+            "n",
+            "sự kiên nhẫn"
+          ],
+          [
+            "carry out",
+            "phr",
+            "thực hiện"
+          ],
+          [
+            "work",
+            "n",
+            "công việc"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEETING MINUTES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Marketing Committee Meeting - February 12<br>Attendees: Daniel Cho, Elena Vasquez, Marcus Reed, Sophie Lin</p><p class=\"mt-2\">The committee met to review the results of the winter advertising campaign and to discuss next quarter's budget. Elena reported that online sales <strong>[139]</strong> by 18 percent since the campaign launched. She attributed the increase mainly to the short video series that was produced in-house. Marcus noted, <strong>[140]</strong>, that the cost of paid search advertising had risen faster than expected. The group agreed to shift a portion of that budget toward social media partnerships. <strong>[141]</strong> Sophie will prepare a revised spending plan and circulate it to members before the next meeting, <strong>[142]</strong> will be held on March 5 at 9:00 a.m. in the boardroom.</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": [
+          "have increased",
+          "has increased",
+          "would increase",
+          "increasing"
+        ],
+        "answer": "A",
+        "translation": "Elena báo cáo rằng doanh số bán hàng trực tuyến đã tăng 18 phần trăm kể từ khi chiến dịch ra mắt.",
+        "explanation": "\"Since the campaign launched\" chỉ một mốc trong quá khứ kéo dài đến hiện tại nên cần hiện tại hoàn thành; chủ ngữ \"online sales\" là số nhiều nên dùng \"have increased\". \"Has increased\" sai hòa hợp chủ vị, \"would increase\" là tương lai trong quá khứ không đi với \"since\", \"increasing\" thiếu trợ động từ.",
+        "vocab": [
+          [
+            "review",
+            "v",
+            "xem xét lại"
+          ],
+          [
+            "launch",
+            "v",
+            "ra mắt, khởi động"
+          ],
+          [
+            "attribute",
+            "v",
+            "quy cho"
+          ]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the best answer to complete blank [140].",
+        "options": [
+          "however",
+          "therefore",
+          "moreover",
+          "for example"
+        ],
+        "answer": "A",
+        "translation": "Tuy nhiên, Marcus lưu ý rằng chi phí quảng cáo tìm kiếm trả phí đã tăng nhanh hơn dự kiến.",
+        "explanation": "Câu trước nêu kết quả tích cực (doanh số tăng), câu này nêu mặt hạn chế (chi phí tăng), nên cần trạng từ nối chỉ tương phản. \"Therefore\" chỉ kết quả, \"moreover\" chỉ bổ sung, \"for example\" chỉ ví dụ. Trích đáp án đúng: however.",
+        "vocab": [
+          [
+            "note",
+            "v",
+            "lưu ý, ghi nhận"
+          ],
+          [
+            "paid search",
+            "n",
+            "quảng cáo tìm kiếm trả phí"
+          ],
+          [
+            "rise",
+            "v",
+            "tăng lên"
+          ]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": [
+          "Daniel suggested testing the budget shift with a small pilot project first.",
+          "The annual audit of the finance department begins next Monday.",
+          "The building manager has ordered additional recycling bins for the copy room.",
+          "Last year's holiday party was held at a restaurant near the harbor."
+        ],
+        "answer": "A",
+        "translation": "Daniel đề xuất thử nghiệm việc chuyển ngân sách bằng một dự án thí điểm nhỏ trước.",
+        "explanation": "Câu trước ghi nhận việc nhóm đồng ý chuyển một phần ngân sách sang hợp tác mạng xã hội, còn câu sau nói Sophie sẽ lập kế hoạch chi tiêu mới; câu cần điền phải là bước triển khai ý vừa thống nhất. Các phương án còn lại nói về kiểm toán, thùng rác tái chế và tiệc cuối năm, không liên quan đến mạch họp.",
+        "vocab": [
+          [
+            "shift",
+            "v",
+            "chuyển, dời"
+          ],
+          [
+            "portion",
+            "n",
+            "phần, tỷ lệ"
+          ],
+          [
+            "pilot",
+            "adj",
+            "thí điểm"
+          ]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Select the best answer to complete blank [142].",
+        "options": [
+          "which",
+          "that",
+          "what",
+          "where"
+        ],
+        "answer": "A",
+        "translation": "Sophie sẽ chuẩn bị một kế hoạch chi tiêu đã chỉnh sửa và gửi cho các thành viên trước cuộc họp tiếp theo, cuộc họp sẽ diễn ra lúc 9 giờ sáng ngày 5 tháng 3 tại phòng họp hội đồng.",
+        "explanation": "Sau dấu phẩy cần mệnh đề quan hệ không xác định bổ nghĩa cho \"the next meeting\", và trong trường hợp này không dùng \"that\". \"What\" không có tiền ngữ, \"where\" không làm chủ ngữ cho \"will be held\". Trích đáp án đúng: which.",
+        "vocab": [
+          [
+            "revised",
+            "adj",
+            "đã được chỉnh sửa"
+          ],
+          [
+            "circulate",
+            "v",
+            "gửi, lưu hành"
+          ],
+          [
+            "boardroom",
+            "n",
+            "phòng họp hội đồng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following letter:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">LETTER</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Ms. Okafor,</p><p class=\"mt-2\">On behalf of the Lakeside Chamber of Commerce, I am pleased to invite you to our annual Small Business Forum, <strong>[143]</strong> at the Riverside Conference Center on April 18. This year's program focuses on practical ways for local companies to reduce energy costs. <strong>[144]</strong> The keynote address will be delivered by Dr. Amara Nwosu, whose research on sustainable supply chains <strong>[145]</strong> widely cited by industry groups. We would be grateful if you could confirm your attendance by April 4 so that we can finalize the seating arrangements. A detailed agenda <strong>[146]</strong> to all registered guests one week before the event.</p><p class=\"mt-2\">Sincerely,<br>Jonah Petrov, Events Director</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": [
+          "to be held",
+          "holding",
+          "held",
+          "to hold"
+        ],
+        "answer": "A",
+        "translation": "Thay mặt Phòng Thương mại Lakeside, tôi hân hạnh mời bà đến Diễn đàn Doanh nghiệp Nhỏ thường niên của chúng tôi, dự kiến tổ chức tại Trung tâm Hội nghị Riverside vào ngày 18 tháng 4.",
+        "explanation": "Cụm rút gọn bổ nghĩa cho sự kiện trong tương lai và sự kiện là đối tượng được tổ chức nên dùng dạng bị động \"to be held\". \"Holding\" mang nghĩa chủ động, \"held\" chỉ sự việc đã xảy ra, \"to hold\" là chủ động trong khi diễn đàn không tự tổ chức chính nó.",
+        "vocab": [
+          [
+            "on behalf of",
+            "phr",
+            "thay mặt cho"
+          ],
+          [
+            "annual",
+            "adj",
+            "thường niên"
+          ],
+          [
+            "chamber of commerce",
+            "n",
+            "phòng thương mại"
+          ]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the best answer to complete blank [144].",
+        "options": [
+          "Sessions will include workshops on lighting upgrades, insulation, and fleet management.",
+          "Membership fees for the chamber will rise slightly next year.",
+          "Last year's forum attracted fewer than two hundred guests.",
+          "The conference center's parking garage closes at 10:00 p.m."
+        ],
+        "answer": "A",
+        "translation": "Các phiên thảo luận sẽ bao gồm hội thảo về nâng cấp hệ thống chiếu sáng, cách nhiệt và quản lý đội xe.",
+        "explanation": "Câu trước nêu chương trình năm nay tập trung vào các cách cắt giảm chi phí năng lượng, câu sau giới thiệu bài phát biểu chính; câu cần điền phải triển khai cụ thể nội dung chương trình. Các phương án còn lại nói về lệ phí thành viên, số khách năm trước và giờ đóng cửa bãi xe, đều lệch mạch.",
+        "vocab": [
+          [
+            "session",
+            "n",
+            "phiên (thảo luận)"
+          ],
+          [
+            "insulation",
+            "n",
+            "vật liệu cách nhiệt"
+          ],
+          [
+            "fleet",
+            "n",
+            "đội xe"
+          ]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": [
+          "has been",
+          "have been",
+          "having been",
+          "be"
+        ],
+        "answer": "A",
+        "translation": "Bài phát biểu chính sẽ do Tiến sĩ Amara Nwosu trình bày, người có nghiên cứu về chuỗi cung ứng bền vững được các nhóm ngành trích dẫn rộng rãi.",
+        "explanation": "\"Research\" là danh từ không đếm được nên động từ chia số ít, và nghiên cứu là đối tượng được trích dẫn nên cần bị động; hiện tại hoàn thành diễn tả việc còn được duy trì đến nay. \"Have been\" sai hòa hợp chủ vị, \"having been\" không đứng làm vị ngữ, \"be\" thiếu trợ động từ. Trích đáp án đúng: has been.",
+        "vocab": [
+          [
+            "keynote address",
+            "n",
+            "bài phát biểu chính"
+          ],
+          [
+            "sustainable",
+            "adj",
+            "bền vững"
+          ],
+          [
+            "cite",
+            "v",
+            "trích dẫn"
+          ]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Select the best answer to complete blank [146].",
+        "options": [
+          "will be sent",
+          "will send",
+          "is sending",
+          "has sent"
+        ],
+        "answer": "A",
+        "translation": "Một chương trình nghị sự chi tiết sẽ được gửi đến tất cả khách đã đăng ký một tuần trước sự kiện.",
+        "explanation": "\"A detailed agenda\" là vật được gửi đi nên cần dạng bị động, và mốc \"one week before the event\" cho thấy hành động ở tương lai, vì vậy dùng \"will be sent\". Ba phương án còn lại đều ở dạng chủ động. Trích đáp án đúng: will be sent.",
+        "vocab": [
+          [
+            "confirm",
+            "v",
+            "xác nhận"
+          ],
+          [
+            "finalize",
+            "v",
+            "hoàn tất, chốt"
+          ],
+          [
+            "registered",
+            "adj",
+            "đã đăng ký"
+          ]
+        ]
+      }
+    ]
+  }
+]

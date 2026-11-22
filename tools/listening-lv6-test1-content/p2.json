@@ -1,0 +1,477 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "Hasn't the external counsel vetted the non-disclosure clauses in the acquisition draft?",
+    "questionVi": "Chẳng phải luật sư cố vấn bên ngoài đã thẩm định các điều khoản bảo mật trong bản dự thảo mua lại rồi sao?",
+    "options": [
+      "The retainer agreement hasn't been billed to our cost center yet.",
+      "Their managing partner requested an extension until tomorrow morning.",
+      "No, the air conditioning in the drafting room is quite chilly."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải luật sư cố vấn bên ngoài đã thẩm định các điều khoản bảo mật trong bản dự thảo mua lại rồi sao?\n(A) Hợp đồng phí dịch vụ trả trước vẫn chưa được tính vào trung tâm chi phí của chúng ta.\n(B) Luật sư điều hành của họ đã xin gia hạn đến sáng mai.\n(C) Không, máy điều hòa trong phòng thiết kế khá lạnh.",
+    "explanation": "Câu hỏi phủ định ('Hasn't the external counsel vetted...') kiểm tra tiến độ thẩm định pháp lý trong thương vụ M&A. Đáp án B phản hồi gián tiếp: luật sư điều hành phía họ đã xin gia hạn đến sáng mai (tức là vẫn chưa thẩm định xong). Bẫy: (A) liên tưởng từ vựng pháp lý ('retainer agreement') nhưng lệch sang chuyện thanh toán chi phí; (C) bẫy đa nghĩa từ 'draft' (bản dự thảo hợp đồng vs gió lùa/phòng thiết kế).",
+    "vocab": [
+      ["vet", "v", "thẩm định, rà soát kỹ lưỡng"],
+      ["non-disclosure clause", "n", "điều khoản bảo mật thông tin"],
+      ["retainer", "n", "phí thuê luật sư/cố vấn định kỳ"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Do you happen to know why the customs brokerage held up our semiconductor consignment?",
+    "questionVi": "Bạn có tình cờ biết tại sao bên đại lý hải quan lại giữ lại lô hàng chất bán dẫn của chúng ta không?",
+    "options": [
+      "There was a discrepancy in the country-of-origin declarations.",
+      "Because the symphony conductor arrived late for the rehearsal.",
+      "We consigned the obsolete inventory to a liquidation warehouse."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có tình cờ biết tại sao bên đại lý hải quan lại giữ lại lô hàng chất bán dẫn của chúng ta không?\n(A) Có sự sai lệch trong tờ khai xuất xứ hàng hóa.\n(B) Bởi vì nhạc trưởng dàn nhạc giao hưởng đã đến buổi tổng duyệt muộn.\n(C) Chúng tôi đã ký gửi lô hàng tồn kho lỗi thời cho một kho thanh lý.",
+    "explanation": "Câu hỏi nhúng ('Do you happen to know why...') hỏi nguyên nhân lô hàng bán dẫn bị giữ tại hải quan. Đáp án A đưa ra lý do trực tiếp bằng thuật ngữ xuất nhập khẩu ('discrepancy in the country-of-origin declarations') mà không cần từ 'Because'. Bẫy: (B) dùng 'Because' nhưng bẫy âm gần giống 'semiconductor' vs 'symphony conductor'; (C) bẫy lặp từ gốc 'consignment' / 'consigned'.",
+    "vocab": [
+      ["customs brokerage", "n", "đại lý làm thủ tục hải quan"],
+      ["consignment", "n", "lô hàng ký gửi / vận chuyển"],
+      ["discrepancy", "n", "sự sai lệch, bất nhất"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "The forensic auditors uncovered several unsubstantiated ledger entries in the APAC subsidiary.",
+    "questionVi": "Các kiểm toán viên điều tra đã phát hiện một số bút toán sổ cái không có chứng từ xác thực tại công ty con khu vực Châu Á - Thái Bình Dương.",
+    "options": [
+      "The window ledge in the executive suite needs repainting.",
+      "The Comptroller is convening an emergency reconciliation session at two.",
+      "Yes, the forensic laboratory is located on the third floor."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Các kiểm toán viên điều tra đã phát hiện một số bút toán sổ cái không có chứng từ xác thực tại công ty con khu vực Châu Á - Thái Bình Dương.\n(A) Bệ cửa sổ trong phòng điều hành cần được sơn lại.\n(B) Giám đốc kiểm soát tài chính đang triệu tập một phiên họp đối soát khẩn cấp lúc hai giờ.\n(C) Đúng vậy, phòng thí nghiệm pháp y nằm ở tầng ba.",
+    "explanation": "Câu phát biểu hàm ý thông báo về sự cố kiểm toán nghiêm trọng tại công ty con. Đáp án B phản hồi gián tiếp bằng hành động xử lý tương ứng của Giám đốc kiểm soát tài chính ('The Comptroller is convening an emergency reconciliation session'). Bẫy: (A) bẫy đồng âm/gần âm 'ledger' (sổ cái) vs 'ledge' (bệ cửa sổ); (C) bẫy lặp từ và hiểu sai nghĩa 'forensic' (kiểm toán điều tra tài chính vs phòng thí nghiệm pháp y hình sự).",
+    "vocab": [
+      ["forensic auditor", "n", "kiểm toán viên điều tra gian lận"],
+      ["unsubstantiated", "adj", "không có căn cứ/chứng từ chứng minh"],
+      ["reconciliation", "n", "sự đối soát (sổ sách, tài khoản)"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "The board of directors won't ratify the dividend recapitalization without a solvency opinion, will they?",
+    "questionVi": "Hội đồng quản trị sẽ không phê chuẩn việc tái cơ cấu vốn để chia cổ tức nếu không có báo cáo đánh giá khả năng thanh toán, đúng không?",
+    "options": [
+      "The chemical solvent must be stored in a ventilated cabinet.",
+      "Fiduciary bylaws strictly prohibit them from bypassing that safeguard.",
+      "No, the board members boarded the flight to Zurich an hour ago."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Hội đồng quản trị sẽ không phê chuẩn việc tái cơ cấu vốn để chia cổ tức nếu không có báo cáo đánh giá khả năng thanh toán, đúng không?\n(A) Dung môi hóa học phải được bảo quản trong tủ thông gió.\n(B) Quy chế ủy thác nghiêm cấm họ bỏ qua bước bảo vệ đó.\n(C) Không, các thành viên hội đồng đã lên chuyến bay đi Zurich một tiếng trước rồi.",
+    "explanation": "Câu hỏi đuôi ('won't ratify..., will they?') về quy trình quản trị doanh nghiệp. Đáp án B gián tiếp khẳng định HĐQT không thể phê chuẩn nếu thiếu báo cáo, vì quy chế ủy thác ('fiduciary bylaws') nghiêm cấm việc bỏ qua cơ chế an toàn đó. Bẫy: (A) bẫy từ gần âm 'solvency' (khả năng thanh toán nợ) vs 'solvent' (dung môi hóa học); (C) bẫy đa nghĩa và lặp từ 'board' (hội đồng quản trị vs lên máy bay).",
+    "vocab": [
+      ["ratify", "v", "phê chuẩn, thông qua chính thức"],
+      ["solvency", "n", "khả năng thanh toán nợ dài hạn"],
+      ["fiduciary", "adj", "thuộc về ủy thác, tín nhiệm pháp lý"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "Whose prerogative is it to authorize spot-market procurement when our primary tier-one supplier defaults?",
+    "questionVi": "Khi nhà cung cấp cấp 1 chính của chúng ta vi phạm nghĩa vụ cung ứng, ai có thẩm quyền phê duyệt việc mua hàng giao ngay trên thị trường?",
+    "options": [
+      "Anything exceeding fifty thousand dollars requires the Chief Operating Officer's sign-off.",
+      "You can reset the default settings in the procurement portal.",
+      "We spotted a few typographical errors in the vendor directory."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khi nhà cung cấp cấp 1 chính của chúng ta vi phạm nghĩa vụ cung ứng, ai có thẩm quyền phê duyệt việc mua hàng giao ngay trên thị trường?\n(A) Bất kỳ khoản nào vượt quá năm mươi nghìn đô la đều cần chữ ký phê duyệt của Giám đốc Vận hành (COO).\n(B) Bạn có thể đặt lại cài đặt mặc định trong cổng thông tin mua sắm.\n(C) Chúng tôi đã phát hiện một vài lỗi đánh máy trong danh bạ nhà cung cấp.",
+    "explanation": "Câu hỏi 'Whose prerogative...' hỏi về phân quyền phê duyệt mua hàng khẩn cấp trong chuỗi cung ứng. Đáp án A trả lời gián tiếp dựa trên hạn mức tài chính và chức danh ('requires the Chief Operating Officer's sign-off'). Bẫy: (B) bẫy đa nghĩa từ 'default' (vỡ nợ/vi phạm hợp đồng vs cài đặt mặc định trên phần mềm) kèm lặp từ 'procurement'; (C) bẫy đa nghĩa từ 'spot' (thị trường giao ngay 'spot-market' vs 'spotted' phát hiện ra).",
+    "vocab": [
+      ["prerogative", "n", "đặc quyền, thẩm quyền riêng"],
+      ["spot-market", "n", "thị trường giao ngay"],
+      ["default", "v", "vi phạm nghĩa vụ hợp đồng, vỡ nợ"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Shouldn't we hedge our foreign exchange exposure before the central bank announces its monetary tightening?",
+    "questionVi": "Chẳng phải chúng ta nên phòng vệ rủi ro tỷ giá hối đoái trước khi ngân hàng trung ương công bố chính sách thắt chặt tiền tệ sao?",
+    "options": [
+      "The landscaping crew trimmed the hedges along the perimeter fence.",
+      "Our treasury desk already locked in forward contracts yesterday afternoon.",
+      "The exposure settings on the camera lens need to be recalibrated."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải chúng ta nên phòng vệ rủi ro tỷ giá hối đoái trước khi ngân hàng trung ương công bố chính sách thắt chặt tiền tệ sao?\n(A) Đội chăm sóc cảnh quan đã cắt tỉa hàng rào cây xanh dọc theo hàng rào chu vi.\n(B) Bộ phận nguồn vốn của chúng ta đã chốt các hợp đồng kỳ hạn vào chiều hôm qua rồi.\n(C) Cài đặt độ phơi sáng trên ống kính máy ảnh cần được hiệu chỉnh lại.",
+    "explanation": "Câu hỏi phủ định mang tính đề xuất về quản trị rủi ro tài chính ('hedge our foreign exchange exposure'). Đáp án B phản hồi gián tiếp: bộ phận nguồn vốn ('treasury desk') đã chốt hợp đồng kỳ hạn ('forward contracts') từ chiều qua, nghĩa là việc phòng vệ đã được thực hiện. Bẫy: (A) bẫy đa nghĩa từ 'hedge' (phòng vệ giá tài chính vs hàng rào cây bụi); (C) bẫy đa nghĩa từ 'exposure' (mức độ chịu rủi ro tài chính vs độ phơi sáng nhiếp ảnh).",
+    "vocab": [
+      ["hedge", "v", "phòng vệ rủi ro biến động giá/tỷ giá"],
+      ["exposure", "n", "mức độ phơi nhiễm rủi ro tài chính"],
+      ["forward contract", "n", "hợp đồng kỳ hạn"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Can you clarify how the antitrust divestiture will impact our European distribution footprint?",
+    "questionVi": "Bạn có thể làm rõ việc thoái vốn chống độc quyền sẽ tác động thế nào đến mạng lưới phân phối tại châu Âu của chúng ta không?",
+    "options": [
+      "We're only relinquishing the retail storefronts, not the regional fulfillment hubs.",
+      "Carbon footprints are measured annually by our sustainability taskforce.",
+      "Trust between the negotiating parties has been steadily improving."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể làm rõ việc thoái vốn chống độc quyền sẽ tác động thế nào đến mạng lưới phân phối tại châu Âu của chúng ta không?\n(A) Chúng ta chỉ từ bỏ các cửa hàng bán lẻ mặt tiền, chứ không phải các trung tâm hoàn tất đơn hàng khu vực.\n(B) Lượng khí thải carbon được đo lường hàng năm bởi đội đặc nhiệm phát triển bền vững của chúng ta.\n(C) Sự tin tưởng giữa các bên đàm phán đang được cải thiện vững chắc.",
+    "explanation": "Câu hỏi nhúng yêu cầu giải thích tác động của lệnh thoái vốn chống độc quyền ('antitrust divestiture') lên mạng lưới phân phối. Đáp án A giải thích gián tiếp bằng cách phân định phạm vi tài sản phải nhượng lại ('relinquishing the retail storefronts, not the regional fulfillment hubs'). Bẫy: (B) bẫy từ 'footprint' (quy mô hiện diện thị trường vs 'carbon footprint' dấu chân carbon); (C) bẫy tách từ 'antitrust' (luật chống độc quyền) thành 'trust' (sự tin tưởng).",
+    "vocab": [
+      ["antitrust", "adj", "chống độc quyền"],
+      ["divestiture", "n", "sự thoái vốn, bán bớt tài sản/công ty con"],
+      ["relinquish", "v", "từ bỏ, nhượng lại quyền sở hữu"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "The arbitration panel's ruling on the patent infringement suit is legally binding, isn't it?",
+    "questionVi": "Phán quyết của hội đồng trọng tài về vụ kiện xâm phạm bằng sáng chế có giá trị ràng buộc pháp lý, phải không?",
+    "options": [
+      "The spiral binding on these briefing booklets is coming undone.",
+      "That gray business suit needs to be picked up from the dry cleaner's.",
+      "Unless either litigant proves procedural misconduct within thirty days."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Phán quyết của hội đồng trọng tài về vụ kiện xâm phạm bằng sáng chế có giá trị ràng buộc pháp lý, phải không?\n(A) Phần gáy lò xo đóng quyển của những cuốn tài liệu tóm tắt này đang bị bung ra.\n(B) Bộ âu phục công sở màu xám đó cần được lấy về từ tiệm giặt khô.\n(C) Trừ khi một trong hai bên tranh tụng chứng minh được sai phạm về tố tụng trong vòng ba mươi ngày.",
+    "explanation": "Câu hỏi đuôi về tính chung thẩm/ràng buộc của phán quyết trọng tài thương mại. Đáp án C trả lời gián tiếp không dùng Yes/No mà nêu điều kiện ngoại lệ duy nhất để kháng nghị phán quyết ('Unless either litigant proves procedural misconduct'). Bẫy: (A) bẫy đa nghĩa từ 'binding' (có tính ràng buộc pháp lý vs gáy sách đóng quyển); (B) bẫy đa nghĩa từ 'suit' (vụ kiện pháp lý vs bộ com-lê).",
+    "vocab": [
+      ["arbitration", "n", "sự phân xử bằng trọng tài thương mại"],
+      ["infringement", "n", "sự xâm phạm (bản quyền, sáng chế)"],
+      ["litigant", "n", "đương sự, bên tham gia tranh tụng"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "How do you propose we mitigate the bottleneck at the Rotterdam transshipment terminal?",
+    "questionVi": "Bạn đề xuất chúng ta giảm thiểu tình trạng tắc nghẽn tại cảng trung chuyển Rotterdam bằng cách nào?",
+    "options": [
+      "By rerouting perishable cargo through Antwerp's automated berths.",
+      "The glass bottles were neck-and-neck on the bottling conveyor.",
+      "Flight departures from Terminal Two have been delayed by fog."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn đề xuất chúng ta giảm thiểu tình trạng tắc nghẽn tại cảng trung chuyển Rotterdam bằng cách nào?\n(A) Bằng cách chuyển hướng hàng hóa dễ hỏng qua các bến tàu tự động của cảng Antwerp.\n(B) Những chiếc chai thủy tinh đi sát nhau trên băng chuyền đóng chai.\n(C) Các chuyến bay khởi hành từ Nhà ga số 2 đã bị hoãn do sương mù.",
+    "explanation": "Câu hỏi phương thức giải quyết điểm nghẽn chuỗi cung ứng cảng biển ('How do you propose we mitigate the bottleneck...'). Đáp án A đưa ra giải pháp logistics cụ thể ('rerouting perishable cargo through Antwerp's automated berths'). Bẫy: (B) bẫy tách từ 'bottleneck' (điểm nghẽn cổ chai) thành 'bottles' và 'neck-and-neck'; (C) bẫy lặp từ 'terminal' (cảng bốc dỡ container hàng hải vs nhà ga hành khách sân bay).",
+    "vocab": [
+      ["mitigate", "v", "giảm thiểu, làm dịu bớt (rủi ro, thiệt hại)"],
+      ["transshipment", "n", "sự trung chuyển hàng hóa"],
+      ["berth", "n", "bến neo đậu tàu biển"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "Didn't the underwriting syndicate stipulate a debt-service coverage ratio above one point five?",
+    "questionVi": "Chẳng phải tổ hợp bảo lãnh phát hành đã quy định tỷ lệ khả năng trả nợ phải trên mức 1,5 sao?",
+    "options": [
+      "Cellular coverage in the underground parking garage is virtually nonexistent.",
+      "They waived that covenant after reviewing our audited cash-flow projections.",
+      "Yes, the syndicated column appears in every Sunday edition."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải tổ hợp bảo lãnh phát hành đã quy định tỷ lệ khả năng trả nợ phải trên mức 1,5 sao?\n(A) Vùng phủ sóng di động trong hầm để xe ngầm hầu như không có.\n(B) Họ đã miễn trừ điều khoản cam kết đó sau khi xem xét dự phóng dòng tiền đã kiểm toán của chúng ta.\n(C) Đúng vậy, chuyên mục báo chí hợp tác này xuất hiện trong mọi ấn bản Chủ nhật.",
+    "explanation": "Câu hỏi phủ định về điều kiện tín dụng/phát hành trái phiếu ('stipulate a debt-service coverage ratio...'). Đáp án B phản hồi gián tiếp: phía ngân hàng bảo lãnh đã miễn trừ khế ước đó ('waived that covenant') sau khi thẩm định dòng tiền. Bẫy: (A) bẫy đa nghĩa từ 'coverage' (khả năng đảm bảo trả nợ vs vùng phủ sóng điện thoại); (C) bẫy từ phái sinh 'syndicate' (tổ hợp ngân hàng bảo lãnh) vs 'syndicated column' (chuyên mục báo chí xuất bản đồng loạt).",
+    "vocab": [
+      ["underwriting syndicate", "n", "tổ hợp bảo lãnh phát hành chứng khoán/tín dụng"],
+      ["stipulate", "v", "quy định rõ, đặt điều kiện trong hợp đồng"],
+      ["covenant", "n", "khế ước, điều khoản cam kết ràng buộc"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "Our institutional shareholders are growing increasingly vocal about executive compensation packages.",
+    "questionVi": "Các cổ đông tổ chức của chúng ta đang ngày càng lên tiếng mạnh mẽ về các gói thù lao dành cho ban điều hành.",
+    "options": [
+      "The acoustic panels in the auditorium should improve vocal clarity.",
+      "The remuneration committee is drafting a clawback provision linked to long-term ROE.",
+      "Your parcel package was signed for by the mailroom attendant."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Các cổ đông tổ chức của chúng ta đang ngày càng lên tiếng mạnh mẽ về các gói thù lao dành cho ban điều hành.\n(A) Các tấm tiêu âm trong hội trường sẽ cải thiện độ rõ của giọng nói.\n(B) Ủy ban thù lao đang soạn thảo điều khoản thu hồi thưởng gắn liền với chỉ số ROE dài hạn.\n(C) Kiện hàng bưu phẩm của bạn đã được nhân viên phòng văn thư ký nhận.",
+    "explanation": "Câu phát biểu hàm ý phản ánh áp lực từ cổ đông tổ chức đối với chế độ đãi ngộ lãnh đạo ('executive compensation packages'). Đáp án B phản hồi gián tiếp bằng động thái của Ủy ban thù lao ('remuneration committee' - từ đồng nghĩa C2 của compensation) đang bổ sung điều khoản thu hồi thưởng ('clawback provision'). Bẫy: (A) bẫy đa nghĩa từ 'vocal' (lên tiếng phản đối mạnh mẽ vs thuộc về giọng hát/âm thanh); (C) bẫy đa nghĩa từ 'package' (gói đãi ngộ tài chính vs kiện hàng bưu phẩm).",
+    "vocab": [
+      ["remuneration", "n", "thù lao, tiền thưởng và lương"],
+      ["clawback provision", "n", "điều khoản thu hồi tiền thưởng đã chi trả"],
+      ["institutional shareholder", "n", "cổ đông tổ chức (quỹ đầu tư, ngân hàng)"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "Would you mind verifying whether the letter of credit is irrevocable before we commence fabrication?",
+    "questionVi": "Bạn có phiền xác minh xem thư tín dụng đó có phải là loại không thể hủy ngang trước khi chúng ta bắt đầu chế tạo không?",
+    "options": [
+      "The synthetic fabric samples were dispatched to the textile mill.",
+      "The issuing bank's confirmation telex just landed in my inbox.",
+      "No, I didn't credit your account for the returned merchandise."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có phiền xác minh xem thư tín dụng đó có phải là loại không thể hủy ngang trước khi chúng ta bắt đầu chế tạo không?\n(A) Các mẫu vải tổng hợp đã được gửi đến nhà máy dệt.\n(B) Điện tín xác nhận của ngân hàng phát hành vừa mới vào hộp thư đến của tôi.\n(C) Không, tôi đã không ghi có vào tài khoản của bạn cho món hàng trả lại.",
+    "explanation": "Câu hỏi nhúng lịch sự ('Would you mind verifying whether...') trong thanh toán quốc tế (L/C). Đáp án B phản hồi gián tiếp rằng điện tín xác nhận từ ngân hàng phát hành ('issuing bank's confirmation telex') vừa gửi tới, hàm ý sẽ kiểm tra hoặc đã có chứng từ xác nhận ngay lập tức. Bẫy: (A) bẫy từ gần âm/cùng gốc cổ 'fabrication' (sự gia công chế tạo máy móc/kết cấu) vs 'fabric' (vải dệt); (C) bẫy lặp từ 'credit'.",
+    "vocab": [
+      ["letter of credit", "n", "thư tín dụng (L/C)"],
+      ["irrevocable", "adj", "không thể hủy ngang"],
+      ["fabrication", "n", "sự chế tạo, gia công sản xuất"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "Why was the capital expenditure requisition for the cleanroom retrofit deferred to Q4?",
+    "questionVi": "Tại sao phiếu đề xuất chi phí đầu tư tài sản cố định để nâng cấp phòng sạch lại bị hoãn sang Quý 4?",
+    "options": [
+      "The custodial staff already sanitized and cleaned the breakroom.",
+      "We had to prioritize liquidity for the impending bond redemption.",
+      "Because the retro furniture style didn't match the lobby decor."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Tại sao phiếu đề xuất chi phí đầu tư tài sản cố định để nâng cấp phòng sạch lại bị hoãn sang Quý 4?\n(A) Nhân viên tạp vụ đã khử trùng và dọn sạch phòng nghỉ giải lao rồi.\n(B) Chúng ta đã phải ưu tiên thanh khoản cho đợt mua lại/tất toán trái phiếu sắp tới.\n(C) Bởi vì phong cách nội thất cổ điển không hợp với trang trí sảnh chờ.",
+    "explanation": "Câu hỏi 'Why' về lý do hoãn ngân sách CAPEX ('capital expenditure requisition'). Đáp án B giải thích nguyên nhân tài chính gián tiếp (không có 'Because'): công ty phải ưu tiên giữ thanh khoản ('prioritize liquidity') cho đợt tất toán trái phiếu sắp tới ('impending bond redemption'). Bẫy: (A) bẫy tách từ 'cleanroom' (phòng sạch tiêu chuẩn bán dẫn/dược phẩm) thành 'cleaned the breakroom'; (C) bẫy từ gần âm 'retrofit' (cải tạo, nâng cấp kỹ thuật) vs 'retro' (phong cách hoài cổ).",
+    "vocab": [
+      ["capital expenditure", "n", "chi phí đầu tư tư bản / tài sản cố định (CAPEX)"],
+      ["retrofit", "n/v", "việc nâng cấp, cải tạo trang thiết bị hiện hữu"],
+      ["redemption", "n", "sự mua lại, tất toán (trái phiếu đến hạn)"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "Who's spearheading the due diligence workstream for the biotech spin-off?",
+    "questionVi": "Ai đang dẫn dắt nhóm công tác thẩm định chuyên sâu cho thương vụ tách công ty công nghệ sinh học vậy?",
+    "options": [
+      "We delegated the valuation and regulatory review to McKinsey's transaction advisory team.",
+      "The washing machine's spin cycle is making a rattling noise.",
+      "He's a very diligent intern who always submits his timesheets early."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Ai đang dẫn dắt nhóm công tác thẩm định chuyên sâu cho thương vụ tách công ty công nghệ sinh học vậy?\n(A) Chúng ta đã ủy quyền phần định giá và rà soát pháp lý cho đội tư vấn giao dịch của McKinsey.\n(B) Chu trình vắt của máy giặt đang phát ra tiếng kêu lạch cạch.\n(C) Cậu ấy là một thực tập sinh rất chăm chỉ, người luôn nộp bảng chấm công sớm.",
+    "explanation": "Câu hỏi 'Who' tìm người phụ trách quy trình thẩm định doanh nghiệp ('due diligence workstream') khi tách công ty con ('spin-off'). Đáp án A trả lời gián tiếp bằng cách cho biết đã thuê ngoài đội tư vấn giao dịch của McKinsey ('delegated... to McKinsey's transaction advisory team'). Bẫy: (B) bẫy từ 'spin-off' (tách công ty) vs 'spin cycle' (chu trình vắt của máy giặt); (C) bẫy từ cùng gốc 'due diligence' (thẩm định chuyên sâu M&A) vs 'diligent' (chăm chỉ).",
+    "vocab": [
+      ["spearhead", "v", "đi đầu, dẫn dắt (một chiến dịch/dự án)"],
+      ["due diligence", "n", "thẩm định chuyên sâu (trước khi M&A/đầu tư)"],
+      ["spin-off", "n", "công ty tách ra độc lập từ tập đoàn mẹ"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "We're facing hefty liquidated damages if the turnkey substation isn't commissioned by November.",
+    "questionVi": "Chúng ta sẽ phải đối mặt với khoản tiền phạt vi phạm hợp đồng rất nặng nếu trạm biến áp chìa khóa trao tay không được nghiệm thu đưa vào vận hành trước tháng Mười Một.",
+    "options": [
+      "Sales representatives earn a five percent commission on every new account.",
+      "Our legal team is invoking the force majeure clause due to the port strike.",
+      "The damaged merchandise was liquidated at a steep discount."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta sẽ phải đối mặt với khoản tiền phạt vi phạm hợp đồng rất nặng nếu trạm biến áp chìa khóa trao tay không được nghiệm thu đưa vào vận hành trước tháng Mười Một.\n(A) Nhân viên kinh doanh hưởng hoa hồng năm phần trăm trên mỗi khách hàng mới.\n(B) Đội ngũ pháp chế của chúng ta đang viện dẫn điều khoản bất khả kháng do cuộc đình công ở cảng.\n(C) Lô hàng hóa bị hư hỏng đã được thanh lý với mức chiết khấu sâu.",
+    "explanation": "Câu phát biểu hàm ý nêu nguy cơ bị phạt hợp đồng ('liquidated damages') do chậm tiến độ bàn giao dự án ('turnkey substation'). Đáp án B đưa ra đối sách pháp lý hợp lý: viện dẫn điều khoản bất khả kháng ('invoking the force majeure clause') do đình công cảng biển để miễn trừ trách nhiệm. Bẫy: (A) bẫy đa nghĩa từ 'commissioned' (nghiệm thu vận hành kỹ thuật vs 'commission' tiền hoa hồng bán hàng); (C) bẫy lặp và xáo trộn 2 từ 'liquidated' và 'damages' theo nghĩa đen (thanh lý hàng hư hỏng).",
+    "vocab": [
+      ["liquidated damages", "n", "tiền bồi thường/phạt vi phạm hợp đồng đã ấn định trước"],
+      ["turnkey", "adj", "chìa khóa trao tay (trọn gói từ thiết kế đến vận hành)"],
+      ["force majeure", "n", "sự kiện bất khả kháng"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "Haven't the actuaries recalibrated the pension liability assumptions for the upcoming fiscal year?",
+    "questionVi": "Chẳng phải các chuyên gia định phí bảo hiểm đã hiệu chỉnh lại các giả định nghĩa vụ quỹ hưu trí cho năm tài chính sắp tới rồi sao?",
+    "options": [
+      "Actually, I prefer the boutique hotel pension near the train station.",
+      "They're waiting for the updated mortality tables from the regulatory authority.",
+      "I assumed the receptionist had already forwarded your message."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải các chuyên gia định phí bảo hiểm đã hiệu chỉnh lại các giả định nghĩa vụ quỹ hưu trí cho năm tài chính sắp tới rồi sao?\n(A) Thực ra, tôi thích nhà nghỉ nhỏ kiểu boutique gần ga tàu hơn.\n(B) Họ đang đợi bảng tỷ lệ tử vong cập nhật từ cơ quan quản lý nhà nước.\n(C) Tôi cứ tưởng lễ tân đã chuyển tiếp tin nhắn của bạn rồi.",
+    "explanation": "Câu hỏi phủ định về nghiệp vụ định phí quỹ hưu trí ('actuaries recalibrated the pension liability assumptions'). Đáp án B phản hồi gián tiếp: họ vẫn đang đợi bảng số liệu sinh tử ('mortality tables') từ cơ quan quản lý nên chưa hoàn tất. Bẫy: (A) bẫy âm gần giống 'actuaries' vs 'Actually' và đa nghĩa từ 'pension' (quỹ hưu trí vs nhà nghỉ nhỏ ở châu Âu); (C) bẫy từ cùng gốc 'assumptions' (các giả định mô hình tài chính) vs 'assumed' (cứ tưởng rằng).",
+    "vocab": [
+      ["actuary", "n", "chuyên gia định phí bảo hiểm / tính toán rủi ro"],
+      ["pension liability", "n", "nghĩa vụ nợ quỹ hưu trí"],
+      ["mortality table", "n", "bảng tỷ lệ tử vong (dùng trong tính toán bảo hiểm)"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "You didn't disclose the contingent liabilities during the investor roadshow, did you?",
+    "questionVi": "Bạn đã không tiết lộ các khoản nợ tiềm tàng trong buổi thuyết trình giới thiệu đầu tư (roadshow) đấy chứ?",
+    "options": [
+      "Every material risk factor was already itemized in the red herring prospectus.",
+      "The road construction show was postponed due to inclement weather.",
+      "Our Asian contingent arrives at the convention center tonight."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn đã không tiết lộ các khoản nợ tiềm tàng trong buổi thuyết trình giới thiệu đầu tư (roadshow) đấy chứ?\n(A) Mọi yếu tố rủi ro trọng yếu đều đã được liệt kê chi tiết trong bản cáo bạch sơ bộ rồi.\n(B) Triển lãm xây dựng đường bộ đã bị hoãn do thời tiết xấu.\n(C) Phái đoàn châu Á của chúng ta sẽ đến trung tâm hội nghị vào tối nay.",
+    "explanation": "Câu hỏi đuôi ('You didn't disclose..., did you?') trong bối cảnh chào bán chứng khoán (IPO roadshow). Đáp án A phản hồi gián tiếp: mọi yếu tố rủi ro trọng yếu ('material risk factor') đều đã được công bố công khai trong bản cáo bạch sơ bộ ('red herring prospectus'), nên nhà đầu tư vốn đã nắm rõ. Bẫy: (B) bẫy tách từ 'roadshow' (buổi giới thiệu cơ hội đầu tư lưu động) thành 'road... show'; (C) bẫy đa nghĩa từ 'contingent' (khoản nợ tiềm tàng 'contingent liabilities' vs phái đoàn đại biểu).",
+    "vocab": [
+      ["contingent liability", "n", "khoản nợ tiềm tàng (phụ thuộc sự kiện tương lai)"],
+      ["roadshow", "n", "chuỗi buổi thuyết trình gặp gỡ các nhà đầu tư lớn"],
+      ["prospectus", "n", "bản cáo bạch (khi phát hành chứng khoán)"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "Could you ascertain whether our director-and-officer indemnity policy covers regulatory subpoenas?",
+    "questionVi": "Bạn có thể xác minh chắc chắn xem hợp đồng bảo hiểm bồi thường trách nhiệm cho thành viên HĐQT và ban giám đốc (D&O) của chúng ta có chi trả cho trát triệu tập của cơ quan quản lý không?",
+    "options": [
+      "According to the brokerage endorsement, legal defense retainers are reimbursable up to two million.",
+      "Company policy strictly forbids personal phone calls during shift hours.",
+      "The film director was nominated for an industry award."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể xác minh chắc chắn xem hợp đồng bảo hiểm bồi thường trách nhiệm cho thành viên HĐQT và ban giám đốc (D&O) của chúng ta có chi trả cho trát triệu tập của cơ quan quản lý không?\n(A) Theo phụ lục sửa đổi bổ sung của công ty môi giới bảo hiểm, phí thuê luật sư bào chữa được hoàn trả tối đa hai triệu đô la.\n(B) Chính sách công ty nghiêm cấm các cuộc gọi điện thoại cá nhân trong giờ làm việc theo ca.\n(C) Đạo diễn bộ phim đã được đề cử giải thưởng trong ngành.",
+    "explanation": "Câu hỏi nhúng ('Could you ascertain whether...') về phạm vi bảo hiểm trách nhiệm quản trị (D&O indemnity policy). Đáp án A cung cấp thông tin chi tiết từ phụ lục bảo hiểm ('brokerage endorsement'): chi phí luật sư bào chữa được bồi hoàn tới 2 triệu USD. Bẫy: (B) bẫy đa nghĩa từ 'policy' (hợp đồng bảo hiểm vs nội quy công ty); (C) bẫy đa nghĩa từ 'director' (thành viên Hội đồng quản trị vs đạo diễn điện ảnh).",
+    "vocab": [
+      ["ascertain", "v", "xác minh, tìm hiểu chắc chắn"],
+      ["indemnity", "n", "sự bồi thường, bảo đảm miễn trừ tổn thất"],
+      ["subpoena", "n", "trát đòi hầu tòa / yêu cầu cung cấp chứng cứ"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "When is the parliamentary committee slated to release its white paper on algorithmic trading?",
+    "questionVi": "Khi nào ủy ban nghị viện dự kiến công bố sách trắng về giao dịch thuật toán?",
+    "options": [
+      "We ran out of white copy paper for the laser printer.",
+      "They're holding off until the public consultation period concludes in mid-July.",
+      "The slate tiles on the roof were cracked by the hailstorm."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Khi nào ủy ban nghị viện dự kiến công bố sách trắng về giao dịch thuật toán?\n(A) Chúng ta đã hết giấy in màu trắng cho máy in laser rồi.\n(B) Họ đang trì hoãn cho đến khi giai đoạn lấy ý kiến tham vấn cộng đồng kết thúc vào giữa tháng Bảy.\n(C) Những viên ngói đá phiến trên mái nhà đã bị nứt do trận mưa đá.",
+    "explanation": "Câu hỏi 'When' hỏi thời điểm ban hành sách trắng chính sách ('white paper'). Đáp án B phản hồi gián tiếp: họ đang hoãn lại cho đến khi đợt tham vấn cộng đồng kết thúc vào giữa tháng 7 ('until the public consultation period concludes in mid-July'). Bẫy: (A) bẫy nghĩa đen cụm từ 'white paper' (sách trắng báo cáo chính sách chuyên sâu vs giấy in màu trắng); (C) bẫy đa nghĩa từ 'slated' (được lên lịch dự kiến vs 'slate' đá phiến lợp mái).",
+    "vocab": [
+      ["slated", "adj", "được lên lịch, dự kiến (to be slated to do sth)"],
+      ["white paper", "n", "sách trắng (báo cáo chính thức về chính sách/công nghệ)"],
+      ["public consultation", "n", "việc lấy ý kiến tham vấn cộng đồng"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "Which sovereign wealth fund anchored the Series D private placement?",
+    "questionVi": "Quỹ đầu tư quốc gia nào đã đóng vai trò nhà đầu tư mỏ neo cho đợt phát hành riêng lẻ vòng Series D vậy?",
+    "options": [
+      "The vessel dropped anchor just outside the harbor breakwater.",
+      "Strict confidentiality covenants bar us from naming the institutional backers.",
+      "The job placement agency charges a fifteen percent recruitment fee."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Quỹ đầu tư quốc gia nào đã đóng vai trò nhà đầu tư mỏ neo cho đợt phát hành riêng lẻ vòng Series D vậy?\n(A) Con tàu đã thả neo ngay bên ngoài đê chắn sóng của bến cảng.\n(B) Các điều khoản cam kết bảo mật nghiêm ngặt cấm chúng tôi tiết lộ tên các nhà hậu thuẫn tổ chức.\n(C) Công ty giới thiệu việc làm thu phí tuyển dụng mười lăm phần trăm.",
+    "explanation": "Câu hỏi 'Which' hỏi danh tính quỹ đầu tư quốc gia ('sovereign wealth fund') dẫn dắt đợt phát hành cổ phần riêng lẻ ('private placement'). Đáp án B từ chối tiết lộ một cách gián tiếp do vướng cam kết bảo mật ('confidentiality covenants bar us from naming...'). Bẫy: (A) bẫy đa nghĩa từ 'anchor' (nhà đầu tư chủ chốt dẫn dắt thương vụ vs mỏ neo tàu thủy); (C) bẫy đa nghĩa từ 'placement' (phát hành chứng khoán riêng lẻ vs giới thiệu việc làm).",
+    "vocab": [
+      ["sovereign wealth fund", "n", "quỹ đầu tư quốc gia"],
+      ["private placement", "n", "đợt phát hành chứng khoán riêng lẻ"],
+      ["anchor", "v", "đóng vai trò nhà đầu tư chủ chốt (mỏ neo)"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "The gross margin erosion in our specialty chemicals division is becoming untenable.",
+    "questionVi": "Sự xói mòn biên lợi nhuận gộp ở mảng hóa chất chuyên dụng của chúng ta đang trở nên không thể duy trì/chống đỡ nổi nữa.",
+    "options": [
+      "Soil erosion along the riverbank has been stabilized with retaining walls.",
+      "We're passing the feedstock surcharges on to downstream buyers starting next quarter.",
+      "Please widen the page margins before printing the final manuscript."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Sự xói mòn biên lợi nhuận gộp ở mảng hóa chất chuyên dụng của chúng ta đang trở nên không thể duy trì/chống đỡ nổi nữa.\n(A) Sự xói mòn đất dọc bờ sông đã được ổn định bằng các bức tường chắn.\n(B) Chúng ta sẽ chuyển phần phụ phí nguyên liệu đầu vào sang cho người mua ở khâu hạ nguồn bắt đầu từ quý tới.\n(C) Vui lòng nới rộng căn lề trang trước khi in bản thảo cuối cùng.",
+    "explanation": "Câu phát biểu hàm ý cảnh báo về sự sụt giảm nghiêm trọng biên lợi nhuận gộp ('gross margin erosion'). Đáp án B đưa ra giải pháp kinh doanh trực diện: chuyển chi phí nguyên liệu đầu vào tăng thêm ('feedstock surcharges') sang giá bán cho khách hàng hạ nguồn ('downstream buyers') từ quý tới. Bẫy: (A) bẫy nghĩa đen từ 'erosion' (xói mòn đất tự nhiên vs suy giảm lợi nhuận); (C) bẫy đa nghĩa từ 'margin' (biên lợi nhuận vs lề trang giấy).",
+    "vocab": [
+      ["gross margin", "n", "biên lợi nhuận gộp"],
+      ["untenable", "adj", "không thể duy trì, không thể bảo vệ/chống đỡ được"],
+      ["feedstock", "n", "nguyên liệu thô đầu vào (cho sản xuất công nghiệp/hóa chất)"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "Isn't the minority shareholder bloc entitled to preemptive rights under the amended articles of association?",
+    "questionVi": "Chẳng phải nhóm cổ đông thiểu số được hưởng quyền ưu tiên mua cổ phần trước theo điều lệ công ty sửa đổi sao?",
+    "options": [
+      "Only if their aggregate equity stake remains above the ten percent threshold.",
+      "The magazine article was written by a freelance journalist.",
+      "Turn right at the next traffic light and go two blocks."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải nhóm cổ đông thiểu số được hưởng quyền ưu tiên mua cổ phần trước theo điều lệ công ty sửa đổi sao?\n(A) Chỉ khi tổng tỷ lệ sở hữu cổ phần của họ duy trì trên ngưỡng mười phần trăm.\n(B) Bài báo trên tạp chí được viết bởi một nhà báo tự do.\n(C) Rẽ phải ở đèn giao thông tiếp theo và đi hai dãy nhà.",
+    "explanation": "Câu hỏi phủ định về quyền pháp lý của cổ đông thiểu số ('preemptive rights' - quyền ưu tiên mua cổ phần mới phát hành để chống pha loãng) theo Điều lệ công ty ('articles of association'). Đáp án A trả lời gián tiếp bằng điều kiện ràng buộc về tỷ lệ sở hữu tối thiểu ('aggregate equity stake remains above the ten percent threshold'). Bẫy: (B) bẫy đa nghĩa từ 'article' (điều khoản trong Điều lệ công ty vs bài báo tạp chí); (C) bẫy đồng âm 'bloc' (khối/nhóm liên minh cổ đông) vs 'block' (dãy nhà) và đa nghĩa từ 'right' (quyền lợi pháp lý vs rẽ phải).",
+    "vocab": [
+      ["preemptive right", "n", "quyền ưu tiên mua cổ phần mới phát hành"],
+      ["articles of association", "n", "điều lệ công ty"],
+      ["equity stake", "n", "phần vốn góp / tỷ lệ sở hữu cổ phần"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "I'm wondering whether we should amortize the acquired goodwill over ten years or test it annually for impairment.",
+    "questionVi": "Tôi đang băn khoăn liệu chúng ta nên phân bổ dần lợi thế thương mại mua lại trong mười năm hay đánh giá sự suy giảm giá trị của nó hàng năm.",
+    "options": [
+      "Donations of clothing and household goods are always welcome at the charity.",
+      "International Financial Reporting Standards mandate annual impairment testing for public entities.",
+      "His hearing was slightly impaired by the factory machinery noise."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Tôi đang băn khoăn liệu chúng ta nên phân bổ dần lợi thế thương mại mua lại trong mười năm hay đánh giá sự suy giảm giá trị của nó hàng năm.\n(A) Việc quyên góp quần áo và đồ gia dụng luôn được hoan nghênh tại tổ chức từ thiện.\n(B) Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) bắt buộc các công ty đại chúng phải kiểm tra sự suy giảm giá trị hàng năm.\n(C) Thính giác của anh ấy bị suy giảm nhẹ do tiếng ồn máy móc nhà máy.",
+    "explanation": "Câu hỏi nhúng dạng lựa chọn ('whether we should... or...') về hạch toán kế toán đối với lợi thế thương mại ('goodwill') sau M&A. Đáp án B giải quyết gián tiếp bằng cách dẫn chiếu quy định bắt buộc của Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) áp dụng cho công ty đại chúng. Bẫy: (A) bẫy liên tưởng 'goodwill' (lợi thế thương mại vô hình trong kế toán vs lòng hảo tâm/tổ chức từ thiện Goodwill); (C) bẫy từ cùng gốc 'impairment' (sự suy giảm giá trị tài sản kế toán) vs 'impaired' (khiếm khuyết/suy giảm thính giác).",
+    "vocab": [
+      ["amortize", "v", "khấu hao / phân bổ dần (tài sản vô hình hoặc khoản nợ)"],
+      ["goodwill", "n", "lợi thế thương mại (giá trị vô hình khi mua lại doanh nghiệp)"],
+      ["impairment", "n", "sự suy giảm giá trị tài sản"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "Where did the compliance officer archive the whistle-blower depositions from the internal probe?",
+    "questionVi": "Chuyên viên tuân thủ đã lưu trữ các bản lời khai của người tố giác từ cuộc điều tra nội bộ ở đâu?",
+    "options": [
+      "The referee blew the whistle to end the second half.",
+      "In an encrypted vault accessible solely to the audit committee chair.",
+      "The space probe transmitted high-resolution images of the asteroid."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chuyên viên tuân thủ đã lưu trữ các bản lời khai của người tố giác từ cuộc điều tra nội bộ ở đâu?\n(A) Trọng tài đã thổi còi kết thúc hiệp hai.\n(B) Trong một kho lưu trữ mã hóa chỉ duy nhất chủ tịch ủy ban kiểm toán mới có quyền truy cập.\n(C) Tàu thăm dò vũ trụ đã truyền về những hình ảnh độ phân giải cao của tiểu hành tinh.",
+    "explanation": "Câu hỏi 'Where' hỏi nơi lưu trữ hồ sơ mật từ cuộc điều tra nội bộ ('whistle-blower depositions from the internal probe'). Đáp án B chỉ rõ vị trí lưu trữ bảo mật ('In an encrypted vault accessible solely to the audit committee chair'). Bẫy: (A) bẫy nghĩa đen của 'whistle-blower' (người tố cáo sai phạm nội bộ vs trọng tài thổi còi 'blew the whistle'); (C) bẫy đa nghĩa từ 'probe' (cuộc điều tra thanh tra vs tàu thăm dò không gian).",
+    "vocab": [
+      ["whistle-blower", "n", "người tố giác sai phạm nội bộ"],
+      ["deposition", "n", "bản lời khai có tuyên thệ"],
+      ["probe", "n", "cuộc điều tra, thanh tra chuyên sâu"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "There's virtually no leeway in the master service agreement for retroactive price escalations, is there?",
+    "questionVi": "Hầu như không có khoảng linh hoạt nào trong hợp đồng dịch vụ tổng thể cho việc điều chỉnh tăng giá có hiệu lực hồi tố, đúng không?",
+    "options": [
+      "The escalator near the main concourse is undergoing routine maintenance.",
+      "Not unless the consumer price index surges beyond six percent year-over-year.",
+      "We agreed to service the photocopying equipment twice a year."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Hầu như không có khoảng linh hoạt nào trong hợp đồng dịch vụ tổng thể cho việc điều chỉnh tăng giá có hiệu lực hồi tố, đúng không?\n(A) Thang cuốn gần sảnh chính đang được bảo trì định kỳ.\n(B) Không có, trừ khi chỉ số giá tiêu dùng tăng vọt vượt quá sáu phần trăm so với cùng kỳ năm trước.\n(C) Chúng tôi đã đồng ý bảo dưỡng thiết bị photocopy hai lần một năm.",
+    "explanation": "Câu hỏi đuôi ('There's virtually no leeway..., is there?') về điều khoản trượt giá hồi tố ('retroactive price escalations') trong hợp đồng dịch vụ tổng thể (MSA). Đáp án B xác nhận gián tiếp kèm điều kiện kích hoạt hiếm hoi dựa trên lạm phát ('Not unless the consumer price index surges beyond six percent...'). Bẫy: (A) bẫy từ gần âm/cùng gốc 'escalation' (sự leo thang/điều chỉnh tăng giá) vs 'escalator' (thang cuốn); (C) bẫy lặp từ 'service' và 'agreed' (từ 'agreement').",
+    "vocab": [
+      ["leeway", "n", "khoảng tự do, dư địa linh hoạt"],
+      ["retroactive", "adj", "có hiệu lực hồi tố (áp dụng ngược về trước)"],
+      ["price escalation", "n", "sự điều chỉnh tăng giá theo biến động chi phí"]
+    ]
+  }
+]

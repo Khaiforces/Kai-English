@@ -1,0 +1,1312 @@
+[
+  {
+    "id": 176,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and conference program.",
+    "passageHtml": "<div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> NexaTech Expo Registration<br><strong>To:</strong> Dana Whitfield<br><strong>Date:</strong> April 28<br><strong>Subject:</strong> Registration confirmed - NexaTech Expo 2026</p><p>Dear Ms. Whitfield,</p><p>We are pleased to confirm your registration for NexaTech Expo 2026, which will take place on May 12 and 13 at the Riverfront Convention Center. Your Innovation Pass covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12. It does not include the pre-conference workshops on May 11, which are priced separately.</p><p>Please collect your badge at the East Lobby registration desk starting at 7:30 a.m. on May 12. A photo ID is required. Seating for the \"AI in Manufacturing\" panel is limited, so reserved seats must be booked through your online account.</p><p>We look forward to welcoming you.</p><p>Sincerely,<br>NexaTech Registration Team</p></div><div class=\"passage\"><h3>NexaTech Expo 2026 - Program Highlights</h3><p><strong>May 11 (pre-conference workshops; separate fee)</strong></p><ul><li>9:00 a.m. - 12:00 p.m. Hands-On Cybersecurity for Operations - $180</li><li>1:00 - 4:00 p.m. Fundamentals of Industrial IoT - $150</li></ul><p><strong>May 12</strong></p><ul><li>9:00 a.m. Opening Keynote: The Next Decade of Automation - Grand Hall</li><li>11:00 a.m. AI in Manufacturing - Room 204 (limited seating)</li><li>2:00 p.m. Cloud Security for Small Firms - Room 108</li><li>6:30 p.m. Networking Reception - Riverside Terrace</li></ul><p><strong>May 13</strong></p><ul><li>9:30 a.m. Customer Data Without the Chaos - Room 201</li><li>1:00 p.m. Building Resilient Supply Chains - Room 305</li><li>3:30 p.m. Closing Keynote: Designing for Trust - Grand Hall</li></ul></div>",
+    "questionText": "What does Ms. Whitfield's Innovation Pass include?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Admission to the May 11 workshops"
+      },
+      {
+        "key": "B",
+        "text": "(B) A reserved seat at every presentation"
+      },
+      {
+        "key": "C",
+        "text": "(C) Both days of the expo and the May 12 reception"
+      },
+      {
+        "key": "D",
+        "text": "(D) Transportation to the Riverfront Convention Center"
+      }
+    ],
+    "correct": "C",
+    "translation": "Thẻ Innovation Pass của bà Whitfield bao gồm những gì?",
+    "explanation": "E-mail nêu rõ pass 'covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12', còn chương trình xác nhận kỳ hội nghị diễn ra ngày 12-13/5 và lễ giao lưu vào 6:30 tối ngày 12/5. Ghép hai thông tin này, C đúng. A sai vì e-mail nói pass không gồm workshop ngày 11/5; B sai vì chỉ phiên 'AI in Manufacturing' cần đặt chỗ trước, không phải mọi phiên; D sai vì bài không đề cập phương tiện đưa đón.",
+    "vocab": [
+      {
+        "word": "registration",
+        "pos": "n.",
+        "meaning": "sự đăng ký"
+      },
+      {
+        "word": "keynote",
+        "pos": "n.",
+        "meaning": "bài phát biểu chính"
+      },
+      {
+        "word": "reception",
+        "pos": "n.",
+        "meaning": "tiệc tiếp khách, buổi giao lưu"
+      },
+      {
+        "word": "pre-conference",
+        "pos": "adj.",
+        "meaning": "trước hội nghị"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and conference program.",
+    "passageHtml": "<div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> NexaTech Expo Registration<br><strong>To:</strong> Dana Whitfield<br><strong>Date:</strong> April 28<br><strong>Subject:</strong> Registration confirmed - NexaTech Expo 2026</p><p>Dear Ms. Whitfield,</p><p>We are pleased to confirm your registration for NexaTech Expo 2026, which will take place on May 12 and 13 at the Riverfront Convention Center. Your Innovation Pass covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12. It does not include the pre-conference workshops on May 11, which are priced separately.</p><p>Please collect your badge at the East Lobby registration desk starting at 7:30 a.m. on May 12. A photo ID is required. Seating for the \"AI in Manufacturing\" panel is limited, so reserved seats must be booked through your online account.</p><p>We look forward to welcoming you.</p><p>Sincerely,<br>NexaTech Registration Team</p></div><div class=\"passage\"><h3>NexaTech Expo 2026 - Program Highlights</h3><p><strong>May 11 (pre-conference workshops; separate fee)</strong></p><ul><li>9:00 a.m. - 12:00 p.m. Hands-On Cybersecurity for Operations - $180</li><li>1:00 - 4:00 p.m. Fundamentals of Industrial IoT - $150</li></ul><p><strong>May 12</strong></p><ul><li>9:00 a.m. Opening Keynote: The Next Decade of Automation - Grand Hall</li><li>11:00 a.m. AI in Manufacturing - Room 204 (limited seating)</li><li>2:00 p.m. Cloud Security for Small Firms - Room 108</li><li>6:30 p.m. Networking Reception - Riverside Terrace</li></ul><p><strong>May 13</strong></p><ul><li>9:30 a.m. Customer Data Without the Chaos - Room 201</li><li>1:00 p.m. Building Resilient Supply Chains - Room 305</li><li>3:30 p.m. Closing Keynote: Designing for Trust - Grand Hall</li></ul></div>",
+    "questionText": "What should Ms. Whitfield do to attend the AI in Manufacturing panel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Pay an additional fee at the door"
+      },
+      {
+        "key": "B",
+        "text": "(B) Book a seat through her online account"
+      },
+      {
+        "key": "C",
+        "text": "(C) Arrive at the Grand Hall by 11:00 a.m."
+      },
+      {
+        "key": "D",
+        "text": "(D) Register for a separate two-day pass"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bà Whitfield nên làm gì để tham dự phiên thảo luận 'AI in Manufacturing'?",
+    "explanation": "E-mail cho biết chỗ ngồi cho phiên này có hạn và 'reserved seats must be booked through your online account', nên B đúng. Chương trình còn xác nhận phiên diễn ra lúc 11:00 tại Room 204. A sai vì không có yêu cầu trả thêm phí tại cửa; C sai vì địa điểm là Room 204 chứ không phải Grand Hall; D sai vì bà Whitfield đã có Innovation Pass cho cả hai ngày, không cần mua gói khác.",
+    "vocab": [
+      {
+        "word": "reserved",
+        "pos": "adj.",
+        "meaning": "đã được đặt trước"
+      },
+      {
+        "word": "panel",
+        "pos": "n.",
+        "meaning": "phiên thảo luận, nhóm chuyên gia"
+      },
+      {
+        "word": "limited",
+        "pos": "adj.",
+        "meaning": "có giới hạn"
+      },
+      {
+        "word": "account",
+        "pos": "n.",
+        "meaning": "tài khoản"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and conference program.",
+    "passageHtml": "<div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> NexaTech Expo Registration<br><strong>To:</strong> Dana Whitfield<br><strong>Date:</strong> April 28<br><strong>Subject:</strong> Registration confirmed - NexaTech Expo 2026</p><p>Dear Ms. Whitfield,</p><p>We are pleased to confirm your registration for NexaTech Expo 2026, which will take place on May 12 and 13 at the Riverfront Convention Center. Your Innovation Pass covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12. It does not include the pre-conference workshops on May 11, which are priced separately.</p><p>Please collect your badge at the East Lobby registration desk starting at 7:30 a.m. on May 12. A photo ID is required. Seating for the \"AI in Manufacturing\" panel is limited, so reserved seats must be booked through your online account.</p><p>We look forward to welcoming you.</p><p>Sincerely,<br>NexaTech Registration Team</p></div><div class=\"passage\"><h3>NexaTech Expo 2026 - Program Highlights</h3><p><strong>May 11 (pre-conference workshops; separate fee)</strong></p><ul><li>9:00 a.m. - 12:00 p.m. Hands-On Cybersecurity for Operations - $180</li><li>1:00 - 4:00 p.m. Fundamentals of Industrial IoT - $150</li></ul><p><strong>May 12</strong></p><ul><li>9:00 a.m. Opening Keynote: The Next Decade of Automation - Grand Hall</li><li>11:00 a.m. AI in Manufacturing - Room 204 (limited seating)</li><li>2:00 p.m. Cloud Security for Small Firms - Room 108</li><li>6:30 p.m. Networking Reception - Riverside Terrace</li></ul><p><strong>May 13</strong></p><ul><li>9:30 a.m. Customer Data Without the Chaos - Room 201</li><li>1:00 p.m. Building Resilient Supply Chains - Room 305</li><li>3:30 p.m. Closing Keynote: Designing for Trust - Grand Hall</li></ul></div>",
+    "questionText": "Which event is Ms. Whitfield unable to attend with her current registration?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The opening keynote on May 12"
+      },
+      {
+        "key": "B",
+        "text": "(B) The networking reception on May 12"
+      },
+      {
+        "key": "C",
+        "text": "(C) The cybersecurity workshop on May 11"
+      },
+      {
+        "key": "D",
+        "text": "(D) The closing keynote on May 13"
+      }
+    ],
+    "correct": "C",
+    "translation": "Sự kiện nào bà Whitfield không thể tham dự với đăng ký hiện tại?",
+    "explanation": "E-mail nói Innovation Pass 'does not include the pre-conference workshops on May 11, which are priced separately', và chương trình liệt kê workshop 'Hands-On Cybersecurity for Operations' vào sáng 11/5 với phí riêng 180 đô-la. Do đó C đúng. A, B và D đều nằm trong hai ngày 12-13/5 hoặc buổi giao lưu tối 12/5, là những nội dung pass đã bao gồm.",
+    "vocab": [
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "meaning": "buổi tập huấn, hội thảo thực hành"
+      },
+      {
+        "word": "separate",
+        "pos": "adj.",
+        "meaning": "riêng biệt"
+      },
+      {
+        "word": "fee",
+        "pos": "n.",
+        "meaning": "lệ phí"
+      },
+      {
+        "word": "unable",
+        "pos": "adj.",
+        "meaning": "không thể"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and conference program.",
+    "passageHtml": "<div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> NexaTech Expo Registration<br><strong>To:</strong> Dana Whitfield<br><strong>Date:</strong> April 28<br><strong>Subject:</strong> Registration confirmed - NexaTech Expo 2026</p><p>Dear Ms. Whitfield,</p><p>We are pleased to confirm your registration for NexaTech Expo 2026, which will take place on May 12 and 13 at the Riverfront Convention Center. Your Innovation Pass covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12. It does not include the pre-conference workshops on May 11, which are priced separately.</p><p>Please collect your badge at the East Lobby registration desk starting at 7:30 a.m. on May 12. A photo ID is required. Seating for the \"AI in Manufacturing\" panel is limited, so reserved seats must be booked through your online account.</p><p>We look forward to welcoming you.</p><p>Sincerely,<br>NexaTech Registration Team</p></div><div class=\"passage\"><h3>NexaTech Expo 2026 - Program Highlights</h3><p><strong>May 11 (pre-conference workshops; separate fee)</strong></p><ul><li>9:00 a.m. - 12:00 p.m. Hands-On Cybersecurity for Operations - $180</li><li>1:00 - 4:00 p.m. Fundamentals of Industrial IoT - $150</li></ul><p><strong>May 12</strong></p><ul><li>9:00 a.m. Opening Keynote: The Next Decade of Automation - Grand Hall</li><li>11:00 a.m. AI in Manufacturing - Room 204 (limited seating)</li><li>2:00 p.m. Cloud Security for Small Firms - Room 108</li><li>6:30 p.m. Networking Reception - Riverside Terrace</li></ul><p><strong>May 13</strong></p><ul><li>9:30 a.m. Customer Data Without the Chaos - Room 201</li><li>1:00 p.m. Building Resilient Supply Chains - Room 305</li><li>3:30 p.m. Closing Keynote: Designing for Trust - Grand Hall</li></ul></div>",
+    "questionText": "Ms. Whitfield wants to attend both the supply chain session and the networking reception. What does she need to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Exchange her pass for a two-day badge"
+      },
+      {
+        "key": "B",
+        "text": "(B) Plan to be at the convention center on May 12 and May 13"
+      },
+      {
+        "key": "C",
+        "text": "(C) Register separately for the supply chain session"
+      },
+      {
+        "key": "D",
+        "text": "(D) Arrive before 9:00 a.m. on May 13"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bà Whitfield muốn tham dự cả phiên về chuỗi cung ứng và buổi giao lưu. Bà ấy cần làm gì?",
+    "explanation": "Chương trình ghi buổi giao lưu diễn ra tối 12/5, còn phiên 'Building Resilient Supply Chains' diễn ra lúc 1:00 chiều 13/5; e-mail xác nhận pass có giá trị cả hai ngày 12 và 13/5. Vì vậy bà ấy cần có mặt ở trung tâm hội nghị cả hai ngày, tức B. A sai vì không cần đổi thẻ; C sai vì không có yêu cầu đăng ký riêng cho phiên này; D sai vì phiên bắt đầu lúc 1:00 chiều, không phải trước 9:00 sáng.",
+    "vocab": [
+      {
+        "word": "supply chain",
+        "pos": "n.",
+        "meaning": "chuỗi cung ứng"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "phiên họp, buổi thảo luận"
+      },
+      {
+        "word": "convention center",
+        "pos": "n.",
+        "meaning": "trung tâm hội nghị"
+      },
+      {
+        "word": "exchange",
+        "pos": "v.",
+        "meaning": "đổi, trao đổi"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and conference program.",
+    "passageHtml": "<div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> NexaTech Expo Registration<br><strong>To:</strong> Dana Whitfield<br><strong>Date:</strong> April 28<br><strong>Subject:</strong> Registration confirmed - NexaTech Expo 2026</p><p>Dear Ms. Whitfield,</p><p>We are pleased to confirm your registration for NexaTech Expo 2026, which will take place on May 12 and 13 at the Riverfront Convention Center. Your Innovation Pass covers both days of the expo, all keynote presentations, and the networking reception on the evening of May 12. It does not include the pre-conference workshops on May 11, which are priced separately.</p><p>Please collect your badge at the East Lobby registration desk starting at 7:30 a.m. on May 12. A photo ID is required. Seating for the \"AI in Manufacturing\" panel is limited, so reserved seats must be booked through your online account.</p><p>We look forward to welcoming you.</p><p>Sincerely,<br>NexaTech Registration Team</p></div><div class=\"passage\"><h3>NexaTech Expo 2026 - Program Highlights</h3><p><strong>May 11 (pre-conference workshops; separate fee)</strong></p><ul><li>9:00 a.m. - 12:00 p.m. Hands-On Cybersecurity for Operations - $180</li><li>1:00 - 4:00 p.m. Fundamentals of Industrial IoT - $150</li></ul><p><strong>May 12</strong></p><ul><li>9:00 a.m. Opening Keynote: The Next Decade of Automation - Grand Hall</li><li>11:00 a.m. AI in Manufacturing - Room 204 (limited seating)</li><li>2:00 p.m. Cloud Security for Small Firms - Room 108</li><li>6:30 p.m. Networking Reception - Riverside Terrace</li></ul><p><strong>May 13</strong></p><ul><li>9:30 a.m. Customer Data Without the Chaos - Room 201</li><li>1:00 p.m. Building Resilient Supply Chains - Room 305</li><li>3:30 p.m. Closing Keynote: Designing for Trust - Grand Hall</li></ul></div>",
+    "questionText": "What is the earliest time Ms. Whitfield can collect her badge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) 7:30 a.m. on May 11"
+      },
+      {
+        "key": "B",
+        "text": "(B) 9:00 a.m. on May 12"
+      },
+      {
+        "key": "C",
+        "text": "(C) 6:30 p.m. on May 12"
+      },
+      {
+        "key": "D",
+        "text": "(D) 7:30 a.m. on May 12"
+      }
+    ],
+    "correct": "D",
+    "translation": "Bà Whitfield có thể nhận thẻ sớm nhất vào lúc nào?",
+    "explanation": "E-mail nói thẻ được phát tại quầy đăng ký East Lobby 'starting at 7:30 a.m. on May 12', còn chương trình xác nhận hội nghị bắt đầu ngày 12/5. Vì vậy thời điểm sớm nhất là 7:30 sáng 12/5, đáp án D. A sai vì ngày 11/5 là các workshop trước hội nghị, chưa phát thẻ; B và C là giờ diễn ra các hoạt động, không phải giờ mở quầy đăng ký.",
+    "vocab": [
+      {
+        "word": "badge",
+        "pos": "n.",
+        "meaning": "thẻ đeo, thẻ tham dự"
+      },
+      {
+        "word": "collect",
+        "pos": "v.",
+        "meaning": "nhận, lấy"
+      },
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "meaning": "sảnh"
+      },
+      {
+        "word": "photo ID",
+        "pos": "n.",
+        "meaning": "giấy tờ tùy thân có ảnh"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following order confirmation and e-mail.",
+    "passageHtml": "<div class=\"passage\"><h3>Order Confirmation - Copperline Office Furnishings</h3><p><strong>Order no.:</strong> CD-2291<br><strong>Customer:</strong> Marlowe Design Studio, Suite 400, 18 Mercer Street<br><strong>Order date:</strong> September 2<br><strong>Scheduled delivery:</strong> September 9</p><p><strong>Items</strong></p><ul><li>6 Ergonomic Task Chairs - $185 each - $1,110</li><li>2 Height-Adjustable Desks - $640 each - $1,280</li><li>1 Oak Conference Table - $950 - $950</li></ul><p><strong>Subtotal:</strong> $3,340<br><strong>Delivery and standard setup:</strong> $120<br><strong>Total:</strong> $3,460</p><p><em>Note: White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed.</em></p></div><div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> Nadia Cole, Operations Manager, Marlowe Design Studio<br><strong>To:</strong> Customer Service, Copperline Office Furnishings<br><strong>Date:</strong> September 9<br><strong>Subject:</strong> Order CD-2291 - incomplete delivery</p><p>The truck arrived this morning, but the delivery was not complete. We received five chairs, one of which has a cracked frame, and the two desks. The conference table was not on the truck. The driver told our receptionist that the table is backordered until September 20.</p><p>We have a client presentation on September 16 and cannot hold it without the table. Please arrange for a replacement chair to be delivered by September 12 and the conference table by September 15. If the table cannot arrive by then, cancel it and refund the $950. Because the delay is affecting our business, we also expect a 10 percent discount on the table. I have attached photos of the damaged chair.</p><p>Regards,<br>Nadia Cole</p></div>",
+    "questionText": "What is the value of the undamaged furniture that Marlowe Design Studio received?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) $2,205"
+      },
+      {
+        "key": "B",
+        "text": "(B) $2,960"
+      },
+      {
+        "key": "C",
+        "text": "(C) $3,340"
+      },
+      {
+        "key": "D",
+        "text": "(D) $2,020"
+      }
+    ],
+    "correct": "D",
+    "translation": "Giá trị của số nội thất không bị hư mà Marlowe Design Studio đã nhận là bao nhiêu?",
+    "explanation": "E-mail cho biết công ty nhận được 5 ghế nhưng 1 ghế bị nứt khung, tức chỉ 4 ghế còn tốt, cùng 2 bàn làm việc. Đơn giá trong bảng xác nhận là 185 đô-la/ghế và 640 đô-la/bàn, nên giá trị còn tốt là 4 × 185 + 2 × 640 = 740 + 1.280 = 2.020 đô-la, đáp án D. A là giá trị nếu tính cả chiếc ghế bị hỏng; B và C không khớp với số lượng và đơn giá trong chứng từ.",
+    "vocab": [
+      {
+        "word": "undamaged",
+        "pos": "adj.",
+        "meaning": "không bị hư hại"
+      },
+      {
+        "word": "cracked",
+        "pos": "adj.",
+        "meaning": "bị nứt"
+      },
+      {
+        "word": "flat-packed",
+        "pos": "adj.",
+        "meaning": "được đóng gói dạng tấm rời"
+      },
+      {
+        "word": "assembly",
+        "pos": "n.",
+        "meaning": "việc lắp ráp"
+      },
+      {
+        "word": "furniture",
+        "pos": "n.",
+        "meaning": "đồ nội thất"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following order confirmation and e-mail.",
+    "passageHtml": "<div class=\"passage\"><h3>Order Confirmation - Copperline Office Furnishings</h3><p><strong>Order no.:</strong> CD-2291<br><strong>Customer:</strong> Marlowe Design Studio, Suite 400, 18 Mercer Street<br><strong>Order date:</strong> September 2<br><strong>Scheduled delivery:</strong> September 9</p><p><strong>Items</strong></p><ul><li>6 Ergonomic Task Chairs - $185 each - $1,110</li><li>2 Height-Adjustable Desks - $640 each - $1,280</li><li>1 Oak Conference Table - $950 - $950</li></ul><p><strong>Subtotal:</strong> $3,340<br><strong>Delivery and standard setup:</strong> $120<br><strong>Total:</strong> $3,460</p><p><em>Note: White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed.</em></p></div><div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> Nadia Cole, Operations Manager, Marlowe Design Studio<br><strong>To:</strong> Customer Service, Copperline Office Furnishings<br><strong>Date:</strong> September 9<br><strong>Subject:</strong> Order CD-2291 - incomplete delivery</p><p>The truck arrived this morning, but the delivery was not complete. We received five chairs, one of which has a cracked frame, and the two desks. The conference table was not on the truck. The driver told our receptionist that the table is backordered until September 20.</p><p>We have a client presentation on September 16 and cannot hold it without the table. Please arrange for a replacement chair to be delivered by September 12 and the conference table by September 15. If the table cannot arrive by then, cancel it and refund the $950. Because the delay is affecting our business, we also expect a 10 percent discount on the table. I have attached photos of the damaged chair.</p><p>Regards,<br>Nadia Cole</p></div>",
+    "questionText": "Which item is currently unavailable?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The task chair"
+      },
+      {
+        "key": "B",
+        "text": "(B) The height-adjustable desk"
+      },
+      {
+        "key": "C",
+        "text": "(C) The oak conference table"
+      },
+      {
+        "key": "D",
+        "text": "(D) The standard delivery service"
+      }
+    ],
+    "correct": "C",
+    "translation": "Món hàng nào hiện đang không có sẵn?",
+    "explanation": "Bảng xác nhận đơn hàng có mục '1 Oak Conference Table', còn e-mail cho biết chiếc bàn này 'was not on the truck' và tài xế nói bàn đang 'backordered until September 20'. Vì vậy C đúng. A sai vì vẫn có 5 ghế được giao (dù một chiếc bị hỏng); B sai vì cả hai bàn làm việc đã được giao; D sai vì dịch vụ giao hàng đã được thực hiện, chỉ thiếu món hàng.",
+    "vocab": [
+      {
+        "word": "backorder",
+        "pos": "v.",
+        "meaning": "bị chậm giao do hết hàng"
+      },
+      {
+        "word": "unavailable",
+        "pos": "adj.",
+        "meaning": "không có sẵn"
+      },
+      {
+        "word": "delivery",
+        "pos": "n.",
+        "meaning": "việc giao hàng"
+      },
+      {
+        "word": "item",
+        "pos": "n.",
+        "meaning": "món hàng, hạng mục"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following order confirmation and e-mail.",
+    "passageHtml": "<div class=\"passage\"><h3>Order Confirmation - Copperline Office Furnishings</h3><p><strong>Order no.:</strong> CD-2291<br><strong>Customer:</strong> Marlowe Design Studio, Suite 400, 18 Mercer Street<br><strong>Order date:</strong> September 2<br><strong>Scheduled delivery:</strong> September 9</p><p><strong>Items</strong></p><ul><li>6 Ergonomic Task Chairs - $185 each - $1,110</li><li>2 Height-Adjustable Desks - $640 each - $1,280</li><li>1 Oak Conference Table - $950 - $950</li></ul><p><strong>Subtotal:</strong> $3,340<br><strong>Delivery and standard setup:</strong> $120<br><strong>Total:</strong> $3,460</p><p><em>Note: White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed.</em></p></div><div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> Nadia Cole, Operations Manager, Marlowe Design Studio<br><strong>To:</strong> Customer Service, Copperline Office Furnishings<br><strong>Date:</strong> September 9<br><strong>Subject:</strong> Order CD-2291 - incomplete delivery</p><p>The truck arrived this morning, but the delivery was not complete. We received five chairs, one of which has a cracked frame, and the two desks. The conference table was not on the truck. The driver told our receptionist that the table is backordered until September 20.</p><p>We have a client presentation on September 16 and cannot hold it without the table. Please arrange for a replacement chair to be delivered by September 12 and the conference table by September 15. If the table cannot arrive by then, cancel it and refund the $950. Because the delay is affecting our business, we also expect a 10 percent discount on the table. I have attached photos of the damaged chair.</p><p>Regards,<br>Nadia Cole</p></div>",
+    "questionText": "What does Ms. Cole want Copperline to do if the conference table cannot arrive by September 15?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Supply a different table at the same price"
+      },
+      {
+        "key": "B",
+        "text": "(B) Cancel the table order and refund $950"
+      },
+      {
+        "key": "C",
+        "text": "(C) Replace it with two additional desks"
+      },
+      {
+        "key": "D",
+        "text": "(D) Waive the delivery fee for the whole order"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bà Cole muốn Copperline làm gì nếu bàn hội nghị không thể đến trước ngày 15 tháng 9?",
+    "explanation": "E-mail nêu điều kiện: 'If the table cannot arrive by then, cancel it and refund the $950'. Con số 950 đô-la khớp với giá chiếc bàn trong bảng xác nhận đơn hàng, nên B đúng. A sai vì bà không đề nghị đổi sang mẫu bàn khác; C sai vì không yêu cầu thay bằng bàn làm việc; D sai vì khoản giảm 10% bà yêu cầu chỉ áp dụng cho chiếc bàn, không phải miễn toàn bộ phí giao hàng.",
+    "vocab": [
+      {
+        "word": "cancel",
+        "pos": "v.",
+        "meaning": "hủy"
+      },
+      {
+        "word": "refund",
+        "pos": "v.",
+        "meaning": "hoàn tiền"
+      },
+      {
+        "word": "waive",
+        "pos": "v.",
+        "meaning": "miễn, không thu"
+      },
+      {
+        "word": "entire",
+        "pos": "adj.",
+        "meaning": "toàn bộ"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following order confirmation and e-mail.",
+    "passageHtml": "<div class=\"passage\"><h3>Order Confirmation - Copperline Office Furnishings</h3><p><strong>Order no.:</strong> CD-2291<br><strong>Customer:</strong> Marlowe Design Studio, Suite 400, 18 Mercer Street<br><strong>Order date:</strong> September 2<br><strong>Scheduled delivery:</strong> September 9</p><p><strong>Items</strong></p><ul><li>6 Ergonomic Task Chairs - $185 each - $1,110</li><li>2 Height-Adjustable Desks - $640 each - $1,280</li><li>1 Oak Conference Table - $950 - $950</li></ul><p><strong>Subtotal:</strong> $3,340<br><strong>Delivery and standard setup:</strong> $120<br><strong>Total:</strong> $3,460</p><p><em>Note: White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed.</em></p></div><div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> Nadia Cole, Operations Manager, Marlowe Design Studio<br><strong>To:</strong> Customer Service, Copperline Office Furnishings<br><strong>Date:</strong> September 9<br><strong>Subject:</strong> Order CD-2291 - incomplete delivery</p><p>The truck arrived this morning, but the delivery was not complete. We received five chairs, one of which has a cracked frame, and the two desks. The conference table was not on the truck. The driver told our receptionist that the table is backordered until September 20.</p><p>We have a client presentation on September 16 and cannot hold it without the table. Please arrange for a replacement chair to be delivered by September 12 and the conference table by September 15. If the table cannot arrive by then, cancel it and refund the $950. Because the delay is affecting our business, we also expect a 10 percent discount on the table. I have attached photos of the damaged chair.</p><p>Regards,<br>Nadia Cole</p></div>",
+    "questionText": "Why is the delay in the table's delivery a problem for Ms. Cole?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The table was supposed to be assembled on September 20."
+      },
+      {
+        "key": "B",
+        "text": "(B) The order was placed after the client presentation."
+      },
+      {
+        "key": "C",
+        "text": "(C) The chairs cannot be used until the table arrives."
+      },
+      {
+        "key": "D",
+        "text": "(D) The table will not arrive in time for a client presentation on September 16."
+      }
+    ],
+    "correct": "D",
+    "translation": "Vì sao việc giao bàn hội nghị bị chậm lại là vấn đề đối với bà Cole?",
+    "explanation": "Bảng xác nhận cho biết bàn được hẹn giao ngày 9/9, nhưng e-mail báo bàn bị chậm đến 20/9, trong khi công ty có 'a client presentation on September 16'. Như vậy bàn sẽ không kịp cho buổi thuyết trình, nên D đúng. A sai vì ngày 20/9 là ngày dự kiến giao bàn, không phải ngày lắp ráp; B sai vì đơn hàng được đặt ngày 2/9, trước buổi thuyết trình; C không được nêu trong bài.",
+    "vocab": [
+      {
+        "word": "delay",
+        "pos": "n.",
+        "meaning": "sự chậm trễ"
+      },
+      {
+        "word": "backorder",
+        "pos": "v.",
+        "meaning": "bị chậm giao do hết hàng"
+      },
+      {
+        "word": "in time",
+        "pos": "phr.",
+        "meaning": "kịp thời gian"
+      },
+      {
+        "word": "presentation",
+        "pos": "n.",
+        "meaning": "buổi thuyết trình"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following order confirmation and e-mail.",
+    "passageHtml": "<div class=\"passage\"><h3>Order Confirmation - Copperline Office Furnishings</h3><p><strong>Order no.:</strong> CD-2291<br><strong>Customer:</strong> Marlowe Design Studio, Suite 400, 18 Mercer Street<br><strong>Order date:</strong> September 2<br><strong>Scheduled delivery:</strong> September 9</p><p><strong>Items</strong></p><ul><li>6 Ergonomic Task Chairs - $185 each - $1,110</li><li>2 Height-Adjustable Desks - $640 each - $1,280</li><li>1 Oak Conference Table - $950 - $950</li></ul><p><strong>Subtotal:</strong> $3,340<br><strong>Delivery and standard setup:</strong> $120<br><strong>Total:</strong> $3,460</p><p><em>Note: White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed.</em></p></div><div class=\"passage\"><h3>E-mail</h3><p><strong>From:</strong> Nadia Cole, Operations Manager, Marlowe Design Studio<br><strong>To:</strong> Customer Service, Copperline Office Furnishings<br><strong>Date:</strong> September 9<br><strong>Subject:</strong> Order CD-2291 - incomplete delivery</p><p>The truck arrived this morning, but the delivery was not complete. We received five chairs, one of which has a cracked frame, and the two desks. The conference table was not on the truck. The driver told our receptionist that the table is backordered until September 20.</p><p>We have a client presentation on September 16 and cannot hold it without the table. Please arrange for a replacement chair to be delivered by September 12 and the conference table by September 15. If the table cannot arrive by then, cancel it and refund the $950. Because the delay is affecting our business, we also expect a 10 percent discount on the table. I have attached photos of the damaged chair.</p><p>Regards,<br>Nadia Cole</p></div>",
+    "questionText": "What can be inferred about the chairs?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They were supposed to be assembled by Copperline."
+      },
+      {
+        "key": "B",
+        "text": "(B) They cost more than the desks."
+      },
+      {
+        "key": "C",
+        "text": "(C) They are not covered by the assembly service."
+      },
+      {
+        "key": "D",
+        "text": "(D) They will all be replaced free of charge."
+      }
+    ],
+    "correct": "C",
+    "translation": "Có thể suy ra điều gì về những chiếc ghế?",
+    "explanation": "Ghi chú trong bảng xác nhận nêu 'White-glove assembly is included for the desks and conference table only. Chairs are shipped flat-packed', tức dịch vụ lắp ráp chỉ áp dụng cho bàn làm việc và bàn hội nghị, còn ghế được giao dạng tấm rời. Vì vậy C đúng. A trái với ghi chú; B sai vì mỗi ghế 185 đô-la, rẻ hơn bàn 640 đô-la; D không được nêu và bà Cole chỉ yêu cầu thay một ghế bị hỏng.",
+    "vocab": [
+      {
+        "word": "assembly",
+        "pos": "n.",
+        "meaning": "lắp ráp"
+      },
+      {
+        "word": "covered",
+        "pos": "adj.",
+        "meaning": "được bao gồm, được bảo đảm"
+      },
+      {
+        "word": "flat-packed",
+        "pos": "adj.",
+        "meaning": "đóng gói dạng tấm rời"
+      },
+      {
+        "word": "infer",
+        "pos": "v.",
+        "meaning": "suy ra"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, campaign summary table, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 4<br><strong>Subject:</strong> Third-Quarter Results for the \"City Kitchen\" Campaign</p><hr class=\"my-2 border-neutral-300\"><p>Thank you for your support during the third-quarter launch of our <em>City Kitchen</em> line of compact countertop appliances. As shown in the attached summary table, overall unit sales rose by 24 percent compared with the second quarter, and traffic to our product recipes page more than doubled.</p><p class=\"mt-2\">While online video ads generated strong awareness among younger buyers, our post-purchase survey showed that live weekend cooking demonstrations in partner stores produced the highest conversion rate. Based on these findings, we are adjusting our fourth-quarter promotional budget and expanding the demonstration program for the holiday shopping season.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">City Kitchen Campaign — Q3 Results &amp; Q4 Budget Plan</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Marketing Channel / Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Q3 Performance</th><th class=\"border border-neutral-800 p-2 text-left\">Q4 Strategy Adjustment</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Overall Appliance Sales</td><td class=\"border border-neutral-800 p-2\">+24% vs. Q2</td><td class=\"border border-neutral-800 p-2\">Holiday bundle pricing starts Nov. 1</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Website Traffic</td><td class=\"border border-neutral-800 p-2\">+110% (Doubled vs. Q2)</td><td class=\"border border-neutral-800 p-2\">Add 15 new video recipes</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">In-Store Cooking Demos / Sampling</td><td class=\"border border-neutral-800 p-2\">#1 driver of completed purchases</td><td class=\"border border-neutral-800 p-2\">Expand to 12 additional stores in November</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Social Media vs. E-mail Ads</td><td class=\"border border-neutral-800 p-2\">Low social ad clicks among buyers 45+</td><td class=\"border border-neutral-800 p-2\">Shift 30% of social budget to targeted e-mail newsletters for 45+ demographic</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 5<br><strong>Subject:</strong> Follow-Up: Holiday Demo Staffing &amp; Testimonials</p><hr class=\"my-2 border-neutral-300\"><p>As a follow-up to yesterday's memo, please ask each store coordinator in your region to collect five short customer testimonials from shoppers who purchased a <em>City Kitchen</em> appliance during the third quarter. The testimonials should be e-mailed to me by <strong>October 18</strong>, with a copy to Graphic Designer <strong>Daniel Reyes</strong>, who is preparing our holiday print catalog.</p><p class=\"mt-2\">In addition, sales associates who wish to work overtime at the weekend demo booths in November should sign up on the intranet by <strong>October 11</strong>.</p></div>",
+    "questionText": "What is the main purpose of the memorandum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To summarize a campaign and outline upcoming actions"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce a change in company leadership"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request additional funding for social media"
+      },
+      {
+        "key": "D",
+        "text": "(D) To introduce a new line of kitchen equipment"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích chính của bản ghi nhớ là gì?",
+    "explanation": "Bản ghi nhớ dành phần đầu để báo cáo kết quả chiến dịch 'City Kitchen' (doanh số tăng 24%, lưu lượng truy cập tăng gần gấp đôi) và phần sau nêu các bước tiếp theo (chuyển ngân sách, mở rộng lấy mẫu, làm video, nộp lời chứng thực). Vì vậy A đúng. B sai vì không có thay đổi lãnh đạo; C sai vì ngân sách mạng xã hội bị cắt giảm chứ không được tăng; D sai vì sản phẩm được nhắc đến là bữa ăn chế biến sẵn, không phải thiết bị nhà bếp.",
+    "vocab": [
+      {
+        "word": "campaign",
+        "pos": "n.",
+        "meaning": "chiến dịch"
+      },
+      {
+        "word": "encouraging",
+        "pos": "adj.",
+        "meaning": "đáng khích lệ"
+      },
+      {
+        "word": "conversion",
+        "pos": "n.",
+        "meaning": "sự chuyển đổi thành khách hàng"
+      },
+      {
+        "word": "outline",
+        "pos": "v.",
+        "meaning": "phác thảo, nêu ra"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, campaign summary table, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 4<br><strong>Subject:</strong> Third-Quarter Results for the \"City Kitchen\" Campaign</p><hr class=\"my-2 border-neutral-300\"><p>Thank you for your support during the third-quarter launch of our <em>City Kitchen</em> line of compact countertop appliances. As shown in the attached summary table, overall unit sales rose by 24 percent compared with the second quarter, and traffic to our product recipes page more than doubled.</p><p class=\"mt-2\">While online video ads generated strong awareness among younger buyers, our post-purchase survey showed that live weekend cooking demonstrations in partner stores produced the highest conversion rate. Based on these findings, we are adjusting our fourth-quarter promotional budget and expanding the demonstration program for the holiday shopping season.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">City Kitchen Campaign — Q3 Results &amp; Q4 Budget Plan</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Marketing Channel / Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Q3 Performance</th><th class=\"border border-neutral-800 p-2 text-left\">Q4 Strategy Adjustment</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Overall Appliance Sales</td><td class=\"border border-neutral-800 p-2\">+24% vs. Q2</td><td class=\"border border-neutral-800 p-2\">Holiday bundle pricing starts Nov. 1</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Website Traffic</td><td class=\"border border-neutral-800 p-2\">+110% (Doubled vs. Q2)</td><td class=\"border border-neutral-800 p-2\">Add 15 new video recipes</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">In-Store Cooking Demos / Sampling</td><td class=\"border border-neutral-800 p-2\">#1 driver of completed purchases</td><td class=\"border border-neutral-800 p-2\">Expand to 12 additional stores in November</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Social Media vs. E-mail Ads</td><td class=\"border border-neutral-800 p-2\">Low social ad clicks among buyers 45+</td><td class=\"border border-neutral-800 p-2\">Shift 30% of social budget to targeted e-mail newsletters for 45+ demographic</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 5<br><strong>Subject:</strong> Follow-Up: Holiday Demo Staffing &amp; Testimonials</p><hr class=\"my-2 border-neutral-300\"><p>As a follow-up to yesterday's memo, please ask each store coordinator in your region to collect five short customer testimonials from shoppers who purchased a <em>City Kitchen</em> appliance during the third quarter. The testimonials should be e-mailed to me by <strong>October 18</strong>, with a copy to Graphic Designer <strong>Daniel Reyes</strong>, who is preparing our holiday print catalog.</p><p class=\"mt-2\">In addition, sales associates who wish to work overtime at the weekend demo booths in November should sign up on the intranet by <strong>October 11</strong>.</p></div>",
+    "questionText": "Which promotional method produced the largest share of new customers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Social media advertisements"
+      },
+      {
+        "key": "B",
+        "text": "(B) E-mail marketing"
+      },
+      {
+        "key": "C",
+        "text": "(C) In-store sampling"
+      },
+      {
+        "key": "D",
+        "text": "(D) The recipe website"
+      }
+    ],
+    "correct": "C",
+    "translation": "Phương thức quảng bá nào tạo ra tỷ lệ khách hàng mới lớn nhất?",
+    "explanation": "Bản ghi nhớ nêu rõ 'In-store sampling accounted for the largest share of new customers', nên C đúng. A sai vì quảng cáo mạng xã hội tạo ra ít chuyển đổi hơn dự kiến; B chỉ được nhắc là sẽ nhận thêm ngân sách và hiệu quả với khách trên 45 tuổi; D chỉ là kênh có lưu lượng truy cập tăng, không được nói là nguồn khách hàng mới lớn nhất.",
+    "vocab": [
+      {
+        "word": "sampling",
+        "pos": "n.",
+        "meaning": "việc lấy mẫu, dùng thử sản phẩm"
+      },
+      {
+        "word": "account for",
+        "pos": "phr. v.",
+        "meaning": "chiếm, giải thích cho"
+      },
+      {
+        "word": "conversion",
+        "pos": "n.",
+        "meaning": "sự chuyển đổi thành hành vi mua"
+      },
+      {
+        "word": "projected",
+        "pos": "adj.",
+        "meaning": "được dự báo"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, campaign summary table, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 4<br><strong>Subject:</strong> Third-Quarter Results for the \"City Kitchen\" Campaign</p><hr class=\"my-2 border-neutral-300\"><p>Thank you for your support during the third-quarter launch of our <em>City Kitchen</em> line of compact countertop appliances. As shown in the attached summary table, overall unit sales rose by 24 percent compared with the second quarter, and traffic to our product recipes page more than doubled.</p><p class=\"mt-2\">While online video ads generated strong awareness among younger buyers, our post-purchase survey showed that live weekend cooking demonstrations in partner stores produced the highest conversion rate. Based on these findings, we are adjusting our fourth-quarter promotional budget and expanding the demonstration program for the holiday shopping season.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">City Kitchen Campaign — Q3 Results &amp; Q4 Budget Plan</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Marketing Channel / Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Q3 Performance</th><th class=\"border border-neutral-800 p-2 text-left\">Q4 Strategy Adjustment</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Overall Appliance Sales</td><td class=\"border border-neutral-800 p-2\">+24% vs. Q2</td><td class=\"border border-neutral-800 p-2\">Holiday bundle pricing starts Nov. 1</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Website Traffic</td><td class=\"border border-neutral-800 p-2\">+110% (Doubled vs. Q2)</td><td class=\"border border-neutral-800 p-2\">Add 15 new video recipes</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">In-Store Cooking Demos / Sampling</td><td class=\"border border-neutral-800 p-2\">#1 driver of completed purchases</td><td class=\"border border-neutral-800 p-2\">Expand to 12 additional stores in November</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Social Media vs. E-mail Ads</td><td class=\"border border-neutral-800 p-2\">Low social ad clicks among buyers 45+</td><td class=\"border border-neutral-800 p-2\">Shift 30% of social budget to targeted e-mail newsletters for 45+ demographic</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 5<br><strong>Subject:</strong> Follow-Up: Holiday Demo Staffing &amp; Testimonials</p><hr class=\"my-2 border-neutral-300\"><p>As a follow-up to yesterday's memo, please ask each store coordinator in your region to collect five short customer testimonials from shoppers who purchased a <em>City Kitchen</em> appliance during the third quarter. The testimonials should be e-mailed to me by <strong>October 18</strong>, with a copy to Graphic Designer <strong>Daniel Reyes</strong>, who is preparing our holiday print catalog.</p><p class=\"mt-2\">In addition, sales associates who wish to work overtime at the weekend demo booths in November should sign up on the intranet by <strong>October 11</strong>.</p></div>",
+    "questionText": "What will the company do next quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Discontinue the meal-kit line"
+      },
+      {
+        "key": "B",
+        "text": "(B) Launch the chef videos in October"
+      },
+      {
+        "key": "C",
+        "text": "(C) Hire additional local chefs"
+      },
+      {
+        "key": "D",
+        "text": "(D) Move part of the social media budget to e-mail marketing"
+      }
+    ],
+    "correct": "D",
+    "translation": "Công ty sẽ làm gì trong quý tới?",
+    "explanation": "Bản ghi nhớ cho biết: 'For the next quarter, we will move 30 percent of the social media budget to e-mail marketing', nên D đúng. A sai vì dòng bữa ăn chế biến sẵn vẫn đang bán tốt và không bị ngừng; B sai vì ba video đầu tiên dự kiến ra mắt vào tháng 1, không phải tháng 10; C sai vì công ty mời đầu bếp địa phương tham gia video, không nói tuyển dụng họ.",
+    "vocab": [
+      {
+        "word": "budget",
+        "pos": "n.",
+        "meaning": "ngân sách"
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "meaning": "mở rộng"
+      },
+      {
+        "word": "creative team",
+        "pos": "n.",
+        "meaning": "nhóm sáng tạo"
+      },
+      {
+        "word": "discontinue",
+        "pos": "v.",
+        "meaning": "ngừng, chấm dứt"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, campaign summary table, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 4<br><strong>Subject:</strong> Third-Quarter Results for the \"City Kitchen\" Campaign</p><hr class=\"my-2 border-neutral-300\"><p>Thank you for your support during the third-quarter launch of our <em>City Kitchen</em> line of compact countertop appliances. As shown in the attached summary table, overall unit sales rose by 24 percent compared with the second quarter, and traffic to our product recipes page more than doubled.</p><p class=\"mt-2\">While online video ads generated strong awareness among younger buyers, our post-purchase survey showed that live weekend cooking demonstrations in partner stores produced the highest conversion rate. Based on these findings, we are adjusting our fourth-quarter promotional budget and expanding the demonstration program for the holiday shopping season.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">City Kitchen Campaign — Q3 Results &amp; Q4 Budget Plan</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Marketing Channel / Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Q3 Performance</th><th class=\"border border-neutral-800 p-2 text-left\">Q4 Strategy Adjustment</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Overall Appliance Sales</td><td class=\"border border-neutral-800 p-2\">+24% vs. Q2</td><td class=\"border border-neutral-800 p-2\">Holiday bundle pricing starts Nov. 1</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Website Traffic</td><td class=\"border border-neutral-800 p-2\">+110% (Doubled vs. Q2)</td><td class=\"border border-neutral-800 p-2\">Add 15 new video recipes</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">In-Store Cooking Demos / Sampling</td><td class=\"border border-neutral-800 p-2\">#1 driver of completed purchases</td><td class=\"border border-neutral-800 p-2\">Expand to 12 additional stores in November</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Social Media vs. E-mail Ads</td><td class=\"border border-neutral-800 p-2\">Low social ad clicks among buyers 45+</td><td class=\"border border-neutral-800 p-2\">Shift 30% of social budget to targeted e-mail newsletters for 45+ demographic</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 5<br><strong>Subject:</strong> Follow-Up: Holiday Demo Staffing &amp; Testimonials</p><hr class=\"my-2 border-neutral-300\"><p>As a follow-up to yesterday's memo, please ask each store coordinator in your region to collect five short customer testimonials from shoppers who purchased a <em>City Kitchen</em> appliance during the third quarter. The testimonials should be e-mailed to me by <strong>October 18</strong>, with a copy to Graphic Designer <strong>Daniel Reyes</strong>, who is preparing our holiday print catalog.</p><p class=\"mt-2\">In addition, sales associates who wish to work overtime at the weekend demo booths in November should sign up on the intranet by <strong>October 11</strong>.</p></div>",
+    "questionText": "What are regional sales managers required to do by October 18?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Volunteer at a sampling event"
+      },
+      {
+        "key": "B",
+        "text": "(B) Design a video series"
+      },
+      {
+        "key": "C",
+        "text": "(C) Submit customer testimonials"
+      },
+      {
+        "key": "D",
+        "text": "(D) Copy Daniel Reyes on budget reports"
+      }
+    ],
+    "correct": "C",
+    "translation": "Các quản lý bán hàng khu vực phải làm gì trước ngày 18 tháng 10?",
+    "explanation": "Bản ghi nhớ yêu cầu: 'By October 18, each regional sales manager should submit at least five customer testimonials', nên C đúng. A sai vì việc tình nguyện tại sự kiện lấy mẫu có hạn chót riêng là 11/10 và dành cho nhân viên nói chung; B sai vì nhóm sáng tạo mới là người làm video; D sai vì Daniel Reyes được sao chép khi gửi lời chứng thực, không phải báo cáo ngân sách.",
+    "vocab": [
+      {
+        "word": "testimonial",
+        "pos": "n.",
+        "meaning": "lời chứng thực, nhận xét của khách hàng"
+      },
+      {
+        "word": "regional",
+        "pos": "adj.",
+        "meaning": "theo khu vực"
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "meaning": "nộp, gửi"
+      },
+      {
+        "word": "copy",
+        "pos": "v.",
+        "meaning": "gửi bản sao cho"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following memorandum, campaign summary table, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 4<br><strong>Subject:</strong> Third-Quarter Results for the \"City Kitchen\" Campaign</p><hr class=\"my-2 border-neutral-300\"><p>Thank you for your support during the third-quarter launch of our <em>City Kitchen</em> line of compact countertop appliances. As shown in the attached summary table, overall unit sales rose by 24 percent compared with the second quarter, and traffic to our product recipes page more than doubled.</p><p class=\"mt-2\">While online video ads generated strong awareness among younger buyers, our post-purchase survey showed that live weekend cooking demonstrations in partner stores produced the highest conversion rate. Based on these findings, we are adjusting our fourth-quarter promotional budget and expanding the demonstration program for the holiday shopping season.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">City Kitchen Campaign — Q3 Results &amp; Q4 Budget Plan</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Marketing Channel / Metric</th><th class=\"border border-neutral-800 p-2 text-left\">Q3 Performance</th><th class=\"border border-neutral-800 p-2 text-left\">Q4 Strategy Adjustment</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Overall Appliance Sales</td><td class=\"border border-neutral-800 p-2\">+24% vs. Q2</td><td class=\"border border-neutral-800 p-2\">Holiday bundle pricing starts Nov. 1</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Website Traffic</td><td class=\"border border-neutral-800 p-2\">+110% (Doubled vs. Q2)</td><td class=\"border border-neutral-800 p-2\">Add 15 new video recipes</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">In-Store Cooking Demos / Sampling</td><td class=\"border border-neutral-800 p-2\">#1 driver of completed purchases</td><td class=\"border border-neutral-800 p-2\">Expand to 12 additional stores in November</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Social Media vs. E-mail Ads</td><td class=\"border border-neutral-800 p-2\">Low social ad clicks among buyers 45+</td><td class=\"border border-neutral-800 p-2\">Shift 30% of social budget to targeted e-mail newsletters for 45+ demographic</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Regional Sales Managers<br><strong>From:</strong> Elena Park, Marketing Director<br><strong>Date:</strong> October 5<br><strong>Subject:</strong> Follow-Up: Holiday Demo Staffing &amp; Testimonials</p><hr class=\"my-2 border-neutral-300\"><p>As a follow-up to yesterday's memo, please ask each store coordinator in your region to collect five short customer testimonials from shoppers who purchased a <em>City Kitchen</em> appliance during the third quarter. The testimonials should be e-mailed to me by <strong>October 18</strong>, with a copy to Graphic Designer <strong>Daniel Reyes</strong>, who is preparing our holiday print catalog.</p><p class=\"mt-2\">In addition, sales associates who wish to work overtime at the weekend demo booths in November should sign up on the intranet by <strong>October 11</strong>.</p></div>",
+    "questionText": "What can be inferred about customers over 45?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They responded well to e-mail marketing."
+      },
+      {
+        "key": "B",
+        "text": "(B) They prefer meal kits to restaurant meals."
+      },
+      {
+        "key": "C",
+        "text": "(C) They are mostly located in the tri-state area."
+      },
+      {
+        "key": "D",
+        "text": "(D) They receive free product samples."
+      }
+    ],
+    "correct": "A",
+    "translation": "Có thể suy ra điều gì về nhóm khách hàng trên 45 tuổi?",
+    "explanation": "Bản ghi nhớ nói e-mail marketing 'performed well among customers over 45' và công ty quyết định chuyển 30% ngân sách mạng xã hội sang kênh này. Từ đó suy ra nhóm khách trên 45 tuổi phản hồi tốt với tiếp thị qua e-mail, đáp án A. B và D không có thông tin hỗ trợ trong bài; C sai vì khu vực tri-state là phạm vi chiến dịch, không phải đặc điểm riêng của nhóm tuổi này.",
+    "vocab": [
+      {
+        "word": "respond",
+        "pos": "v.",
+        "meaning": "phản hồi, hưởng ứng"
+      },
+      {
+        "word": "preference",
+        "pos": "n.",
+        "meaning": "sự ưa thích"
+      },
+      {
+        "word": "infer",
+        "pos": "v.",
+        "meaning": "suy ra"
+      },
+      {
+        "word": "tri-state",
+        "pos": "adj.",
+        "meaning": "thuộc ba bang"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following patient bulletin, services comparison chart, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIVERSIDE FAMILY HEALTH — PATIENT INFORMATION BULLETIN</p><hr class=\"my-2 border-neutral-300\"><p>On Wednesday, April 1, Riverside Family Health will relocate from our current Oak Avenue clinic to a larger, newly renovated facility at <strong>4150 Northgate Boulevard, Suite 210</strong>. The move allows us to add three examination rooms, an on-site blood-draw station, and expanded evening hours.</p><p class=\"mt-2\">Our Oak Avenue office will close permanently at 5:00 p.m. on Friday, March 27, so that medical equipment and patient records can be transferred safely over the weekend. Please review the attached chart and patient portal notice for full details on our new hours, telehealth policy, and parking validation.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Family Health — New Facility Services &amp; Hours (Effective April 1)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Service Category</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Policy at 4150 Northgate Blvd.</th><th class=\"border border-neutral-800 p-2 text-left\">Patient Notes</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Weekday Clinic Hours</td><td class=\"border border-neutral-800 p-2\">Monday–Friday, 7:00 a.m.–7:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Extended by 2 hours in the evening</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Saturday Walk-In &amp; Lab Hours</td><td class=\"border border-neutral-800 p-2\">Saturday, 8:00 a.m.–1:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Routine blood work &amp; urgent visits</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Telehealth Video Visits</td><td class=\"border border-neutral-800 p-2\">Available for follow-up &amp; medication reviews</td><td class=\"border border-neutral-800 p-2\"><strong>Annual physicals require an in-person visit</strong></td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Prescription Refill Requests</td><td class=\"border border-neutral-800 p-2\">Submit via online Patient Portal</td><td class=\"border border-neutral-800 p-2\">Allow 2 business days for processing</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Registered Patients, Riverside Family Health<br><strong>From:</strong> Patient Services Desk &lt;info@riversidefamilyhealth.org&gt;<br><strong>Date:</strong> March 10<br><strong>Subject:</strong> Preparing for Your Visit at Northgate Boulevard</p><hr class=\"my-2 border-neutral-300\"><p>Dear Patient,</p><p class=\"mt-2\">Ahead of our April 1 opening at 4150 Northgate Boulevard, please log into the Patient Portal before <strong>March 20</strong> to confirm your contact details and upload any changes to your health insurance policy.</p><p class=\"mt-2\">Please note that our main telephone number will remain the same, and calls to our old Oak Avenue line will be automatically forwarded until June 30. When visiting the new clinic by car, you may park free of charge in <strong>Garage B</strong> (adjacent to the medical building) as long as you have your parking ticket validated at our front desk.</p></div>",
+    "questionText": "What is the purpose of the bulletin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To announce a clinic relocation and new services"
+      },
+      {
+        "key": "B",
+        "text": "(B) To advertise a new insurance plan"
+      },
+      {
+        "key": "C",
+        "text": "(C) To explain how to request medical records"
+      },
+      {
+        "key": "D",
+        "text": "(D) To recruit additional physicians"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của bản tin dành cho bệnh nhân là gì?",
+    "explanation": "Bản tin mở đầu bằng việc phòng khám sẽ chuyển đến Northgate Medical Pavilion từ ngày 1/4, sau đó giới thiệu cơ sở mới có thêm phòng khám, phòng xét nghiệm tại chỗ và giờ mở cửa mở rộng. Vì vậy A đúng. B sai vì bài yêu cầu cập nhật thông tin bảo hiểm chứ không quảng cáo gói mới; C sai vì không hướng dẫn xin hồ sơ bệnh án; D sai vì không có thông tin tuyển bác sĩ.",
+    "vocab": [
+      {
+        "word": "relocation",
+        "pos": "n.",
+        "meaning": "việc chuyển địa điểm"
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở vật chất"
+      },
+      {
+        "word": "extended",
+        "pos": "adj.",
+        "meaning": "được kéo dài, mở rộng"
+      },
+      {
+        "word": "bulletin",
+        "pos": "n.",
+        "meaning": "bản tin, thông báo"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following patient bulletin, services comparison chart, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIVERSIDE FAMILY HEALTH — PATIENT INFORMATION BULLETIN</p><hr class=\"my-2 border-neutral-300\"><p>On Wednesday, April 1, Riverside Family Health will relocate from our current Oak Avenue clinic to a larger, newly renovated facility at <strong>4150 Northgate Boulevard, Suite 210</strong>. The move allows us to add three examination rooms, an on-site blood-draw station, and expanded evening hours.</p><p class=\"mt-2\">Our Oak Avenue office will close permanently at 5:00 p.m. on Friday, March 27, so that medical equipment and patient records can be transferred safely over the weekend. Please review the attached chart and patient portal notice for full details on our new hours, telehealth policy, and parking validation.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Family Health — New Facility Services &amp; Hours (Effective April 1)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Service Category</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Policy at 4150 Northgate Blvd.</th><th class=\"border border-neutral-800 p-2 text-left\">Patient Notes</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Weekday Clinic Hours</td><td class=\"border border-neutral-800 p-2\">Monday–Friday, 7:00 a.m.–7:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Extended by 2 hours in the evening</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Saturday Walk-In &amp; Lab Hours</td><td class=\"border border-neutral-800 p-2\">Saturday, 8:00 a.m.–1:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Routine blood work &amp; urgent visits</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Telehealth Video Visits</td><td class=\"border border-neutral-800 p-2\">Available for follow-up &amp; medication reviews</td><td class=\"border border-neutral-800 p-2\"><strong>Annual physicals require an in-person visit</strong></td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Prescription Refill Requests</td><td class=\"border border-neutral-800 p-2\">Submit via online Patient Portal</td><td class=\"border border-neutral-800 p-2\">Allow 2 business days for processing</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Registered Patients, Riverside Family Health<br><strong>From:</strong> Patient Services Desk &lt;info@riversidefamilyhealth.org&gt;<br><strong>Date:</strong> March 10<br><strong>Subject:</strong> Preparing for Your Visit at Northgate Boulevard</p><hr class=\"my-2 border-neutral-300\"><p>Dear Patient,</p><p class=\"mt-2\">Ahead of our April 1 opening at 4150 Northgate Boulevard, please log into the Patient Portal before <strong>March 20</strong> to confirm your contact details and upload any changes to your health insurance policy.</p><p class=\"mt-2\">Please note that our main telephone number will remain the same, and calls to our old Oak Avenue line will be automatically forwarded until June 30. When visiting the new clinic by car, you may park free of charge in <strong>Garage B</strong> (adjacent to the medical building) as long as you have your parking ticket validated at our front desk.</p></div>",
+    "questionText": "What should patients do before March 20?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Book an annual physical examination"
+      },
+      {
+        "key": "B",
+        "text": "(B) Update their insurance information in the patient portal"
+      },
+      {
+        "key": "C",
+        "text": "(C) Pay any outstanding balance at the front desk"
+      },
+      {
+        "key": "D",
+        "text": "(D) Choose a new primary care physician"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bệnh nhân nên làm gì trước ngày 20 tháng 3?",
+    "explanation": "Bản tin nêu: 'please update your insurance information in the patient portal before March 20', nên B đúng. A sai vì không có hạn chót đặt lịch khám thể chất trong thông báo; C sai vì bài không nhắc đến việc thanh toán số dư; D sai vì bệnh nhân không được yêu cầu chọn bác sĩ mới.",
+    "vocab": [
+      {
+        "word": "insurance",
+        "pos": "n.",
+        "meaning": "bảo hiểm"
+      },
+      {
+        "word": "portal",
+        "pos": "n.",
+        "meaning": "cổng thông tin trực tuyến"
+      },
+      {
+        "word": "uninterrupted",
+        "pos": "adj.",
+        "meaning": "không bị gián đoạn"
+      },
+      {
+        "word": "update",
+        "pos": "v.",
+        "meaning": "cập nhật"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following patient bulletin, services comparison chart, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIVERSIDE FAMILY HEALTH — PATIENT INFORMATION BULLETIN</p><hr class=\"my-2 border-neutral-300\"><p>On Wednesday, April 1, Riverside Family Health will relocate from our current Oak Avenue clinic to a larger, newly renovated facility at <strong>4150 Northgate Boulevard, Suite 210</strong>. The move allows us to add three examination rooms, an on-site blood-draw station, and expanded evening hours.</p><p class=\"mt-2\">Our Oak Avenue office will close permanently at 5:00 p.m. on Friday, March 27, so that medical equipment and patient records can be transferred safely over the weekend. Please review the attached chart and patient portal notice for full details on our new hours, telehealth policy, and parking validation.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Family Health — New Facility Services &amp; Hours (Effective April 1)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Service Category</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Policy at 4150 Northgate Blvd.</th><th class=\"border border-neutral-800 p-2 text-left\">Patient Notes</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Weekday Clinic Hours</td><td class=\"border border-neutral-800 p-2\">Monday–Friday, 7:00 a.m.–7:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Extended by 2 hours in the evening</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Saturday Walk-In &amp; Lab Hours</td><td class=\"border border-neutral-800 p-2\">Saturday, 8:00 a.m.–1:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Routine blood work &amp; urgent visits</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Telehealth Video Visits</td><td class=\"border border-neutral-800 p-2\">Available for follow-up &amp; medication reviews</td><td class=\"border border-neutral-800 p-2\"><strong>Annual physicals require an in-person visit</strong></td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Prescription Refill Requests</td><td class=\"border border-neutral-800 p-2\">Submit via online Patient Portal</td><td class=\"border border-neutral-800 p-2\">Allow 2 business days for processing</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Registered Patients, Riverside Family Health<br><strong>From:</strong> Patient Services Desk &lt;info@riversidefamilyhealth.org&gt;<br><strong>Date:</strong> March 10<br><strong>Subject:</strong> Preparing for Your Visit at Northgate Boulevard</p><hr class=\"my-2 border-neutral-300\"><p>Dear Patient,</p><p class=\"mt-2\">Ahead of our April 1 opening at 4150 Northgate Boulevard, please log into the Patient Portal before <strong>March 20</strong> to confirm your contact details and upload any changes to your health insurance policy.</p><p class=\"mt-2\">Please note that our main telephone number will remain the same, and calls to our old Oak Avenue line will be automatically forwarded until June 30. When visiting the new clinic by car, you may park free of charge in <strong>Garage B</strong> (adjacent to the medical building) as long as you have your parking ticket validated at our front desk.</p></div>",
+    "questionText": "Which type of appointment must be conducted in person?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A medication review"
+      },
+      {
+        "key": "B",
+        "text": "(B) A follow-up visit"
+      },
+      {
+        "key": "C",
+        "text": "(C) A discussion of laboratory results"
+      },
+      {
+        "key": "D",
+        "text": "(D) An annual physical examination"
+      }
+    ],
+    "correct": "D",
+    "translation": "Loại cuộc hẹn nào bắt buộc phải khám trực tiếp?",
+    "explanation": "Bản tin nêu telehealth vẫn được dùng cho 'follow-up visits and medication reviews', nhưng 'annual physical examinations must be conducted in person'. Do đó D đúng. A và B là hai dịch vụ được nêu rõ vẫn có thể thực hiện qua telehealth; C không được nhắc đến như một ngoại lệ bắt buộc khám trực tiếp.",
+    "vocab": [
+      {
+        "word": "telehealth",
+        "pos": "n.",
+        "meaning": "khám bệnh từ xa"
+      },
+      {
+        "word": "physical examination",
+        "pos": "n.",
+        "meaning": "khám sức khỏe tổng quát"
+      },
+      {
+        "word": "follow-up",
+        "pos": "n.",
+        "meaning": "buổi tái khám"
+      },
+      {
+        "word": "in person",
+        "pos": "adv.",
+        "meaning": "trực tiếp"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following patient bulletin, services comparison chart, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIVERSIDE FAMILY HEALTH — PATIENT INFORMATION BULLETIN</p><hr class=\"my-2 border-neutral-300\"><p>On Wednesday, April 1, Riverside Family Health will relocate from our current Oak Avenue clinic to a larger, newly renovated facility at <strong>4150 Northgate Boulevard, Suite 210</strong>. The move allows us to add three examination rooms, an on-site blood-draw station, and expanded evening hours.</p><p class=\"mt-2\">Our Oak Avenue office will close permanently at 5:00 p.m. on Friday, March 27, so that medical equipment and patient records can be transferred safely over the weekend. Please review the attached chart and patient portal notice for full details on our new hours, telehealth policy, and parking validation.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Family Health — New Facility Services &amp; Hours (Effective April 1)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Service Category</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Policy at 4150 Northgate Blvd.</th><th class=\"border border-neutral-800 p-2 text-left\">Patient Notes</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Weekday Clinic Hours</td><td class=\"border border-neutral-800 p-2\">Monday–Friday, 7:00 a.m.–7:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Extended by 2 hours in the evening</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Saturday Walk-In &amp; Lab Hours</td><td class=\"border border-neutral-800 p-2\">Saturday, 8:00 a.m.–1:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Routine blood work &amp; urgent visits</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Telehealth Video Visits</td><td class=\"border border-neutral-800 p-2\">Available for follow-up &amp; medication reviews</td><td class=\"border border-neutral-800 p-2\"><strong>Annual physicals require an in-person visit</strong></td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Prescription Refill Requests</td><td class=\"border border-neutral-800 p-2\">Submit via online Patient Portal</td><td class=\"border border-neutral-800 p-2\">Allow 2 business days for processing</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Registered Patients, Riverside Family Health<br><strong>From:</strong> Patient Services Desk &lt;info@riversidefamilyhealth.org&gt;<br><strong>Date:</strong> March 10<br><strong>Subject:</strong> Preparing for Your Visit at Northgate Boulevard</p><hr class=\"my-2 border-neutral-300\"><p>Dear Patient,</p><p class=\"mt-2\">Ahead of our April 1 opening at 4150 Northgate Boulevard, please log into the Patient Portal before <strong>March 20</strong> to confirm your contact details and upload any changes to your health insurance policy.</p><p class=\"mt-2\">Please note that our main telephone number will remain the same, and calls to our old Oak Avenue line will be automatically forwarded until June 30. When visiting the new clinic by car, you may park free of charge in <strong>Garage B</strong> (adjacent to the medical building) as long as you have your parking ticket validated at our front desk.</p></div>",
+    "questionText": "How long does it take to process a prescription refill request?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) One business day"
+      },
+      {
+        "key": "B",
+        "text": "(B) One week"
+      },
+      {
+        "key": "C",
+        "text": "(C) Until the next scheduled appointment"
+      },
+      {
+        "key": "D",
+        "text": "(D) Two business days"
+      }
+    ],
+    "correct": "D",
+    "translation": "Việc xử lý yêu cầu cấp lại đơn thuốc mất bao lâu?",
+    "explanation": "Bản tin cho biết yêu cầu cấp lại đơn thuốc 'will be processed within two business days', nên D đúng. A sai vì thời hạn là hai ngày làm việc, không phải một; B và C không xuất hiện trong bài. Yêu cầu có thể gửi qua cổng thông tin bệnh nhân, nhưng thời gian xử lý vẫn là hai ngày làm việc.",
+    "vocab": [
+      {
+        "word": "prescription",
+        "pos": "n.",
+        "meaning": "đơn thuốc"
+      },
+      {
+        "word": "refill",
+        "pos": "n.",
+        "meaning": "việc cấp lại thuốc"
+      },
+      {
+        "word": "process",
+        "pos": "v.",
+        "meaning": "xử lý"
+      },
+      {
+        "word": "business day",
+        "pos": "n.",
+        "meaning": "ngày làm việc"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following patient bulletin, services comparison chart, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIVERSIDE FAMILY HEALTH — PATIENT INFORMATION BULLETIN</p><hr class=\"my-2 border-neutral-300\"><p>On Wednesday, April 1, Riverside Family Health will relocate from our current Oak Avenue clinic to a larger, newly renovated facility at <strong>4150 Northgate Boulevard, Suite 210</strong>. The move allows us to add three examination rooms, an on-site blood-draw station, and expanded evening hours.</p><p class=\"mt-2\">Our Oak Avenue office will close permanently at 5:00 p.m. on Friday, March 27, so that medical equipment and patient records can be transferred safely over the weekend. Please review the attached chart and patient portal notice for full details on our new hours, telehealth policy, and parking validation.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Family Health — New Facility Services &amp; Hours (Effective April 1)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Service Category</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Policy at 4150 Northgate Blvd.</th><th class=\"border border-neutral-800 p-2 text-left\">Patient Notes</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Weekday Clinic Hours</td><td class=\"border border-neutral-800 p-2\">Monday–Friday, 7:00 a.m.–7:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Extended by 2 hours in the evening</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Saturday Walk-In &amp; Lab Hours</td><td class=\"border border-neutral-800 p-2\">Saturday, 8:00 a.m.–1:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Routine blood work &amp; urgent visits</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Telehealth Video Visits</td><td class=\"border border-neutral-800 p-2\">Available for follow-up &amp; medication reviews</td><td class=\"border border-neutral-800 p-2\"><strong>Annual physicals require an in-person visit</strong></td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Prescription Refill Requests</td><td class=\"border border-neutral-800 p-2\">Submit via online Patient Portal</td><td class=\"border border-neutral-800 p-2\">Allow 2 business days for processing</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Registered Patients, Riverside Family Health<br><strong>From:</strong> Patient Services Desk &lt;info@riversidefamilyhealth.org&gt;<br><strong>Date:</strong> March 10<br><strong>Subject:</strong> Preparing for Your Visit at Northgate Boulevard</p><hr class=\"my-2 border-neutral-300\"><p>Dear Patient,</p><p class=\"mt-2\">Ahead of our April 1 opening at 4150 Northgate Boulevard, please log into the Patient Portal before <strong>March 20</strong> to confirm your contact details and upload any changes to your health insurance policy.</p><p class=\"mt-2\">Please note that our main telephone number will remain the same, and calls to our old Oak Avenue line will be automatically forwarded until June 30. When visiting the new clinic by car, you may park free of charge in <strong>Garage B</strong> (adjacent to the medical building) as long as you have your parking ticket validated at our front desk.</p></div>",
+    "questionText": "What is indicated about calls to the old office number?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They will be forwarded until June 30."
+      },
+      {
+        "key": "B",
+        "text": "(B) They will be disconnected on April 1."
+      },
+      {
+        "key": "C",
+        "text": "(C) They will be answered only on weekdays."
+      },
+      {
+        "key": "D",
+        "text": "(D) They will be transferred to the billing office."
+      }
+    ],
+    "correct": "A",
+    "translation": "Có thông tin gì về các cuộc gọi đến số điện thoại văn phòng cũ?",
+    "explanation": "Bản tin nêu rõ: 'Calls to the old office number will be forwarded until June 30', nên A đúng. B sai vì số cũ vẫn được chuyển tiếp đến ngày 30/6 chứ không bị ngắt từ 1/4; C sai vì không có giới hạn chỉ ngày thường; D sai vì không có thông tin chuyển đến bộ phận thanh toán.",
+    "vocab": [
+      {
+        "word": "forward",
+        "pos": "v.",
+        "meaning": "chuyển tiếp"
+      },
+      {
+        "word": "disconnect",
+        "pos": "v.",
+        "meaning": "ngắt kết nối"
+      },
+      {
+        "word": "billing",
+        "pos": "n.",
+        "meaning": "việc thanh toán, lập hóa đơn"
+      },
+      {
+        "word": "indicate",
+        "pos": "v.",
+        "meaning": "cho biết"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following service announcement, timetable, and rider alert:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">COASTAL RAIL AUTHORITY — NEW WEEKDAY EXPRESS SERVICE</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, May 4, the Coastal Rail Authority will introduce a weekday morning and evening express train between <strong>Fairview Station</strong> and <strong>Harbor Point Terminal</strong>, with a single intermediate stop at <strong>Millbrook Junction</strong>. Designed for daily commuters, the express service completes the trip in 38 minutes—12 minutes faster than the regular local line.</p><p class=\"mt-2\">Each express train consists of four newly refurbished carriages with complimentary Wi-Fi and power outlets at every seat. Please review the timetable and rider alert below for ticketing rules, bicycle storage limits, and temporary maintenance adjustments in June.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Coastal Rail Weekday Express — Schedule &amp; Train Configuration</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Direction / Feature</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rider Guidelines</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Morning Southbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Fairview 7:10 a.m. → Millbrook 7:28 a.m. → Arrives Harbor Point 7:48 a.m.</td><td class=\"border border-neutral-800 p-2\">38-minute total travel time (saves 12 min)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Evening Northbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Harbor Point 5:45 p.m. → Millbrook 6:05 p.m. → Arrives Fairview 6:23 p.m.</td><td class=\"border border-neutral-800 p-2\">Subject to June 2–13 track work (see alert)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Seating &amp; Bicycle Racks</td><td class=\"border border-neutral-800 p-2\">96 seats per carriage; racks for 6 bicycles per train</td><td class=\"border border-neutral-800 p-2\">Bike spaces are first-come, first-served</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Designated Quiet Car</td><td class=\"border border-neutral-800 p-2\"><strong>Last carriage (Rear car of the train)</strong></td><td class=\"border border-neutral-800 p-2\">No phone calls; silence mobile devices</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIDER ALERT — TICKETING &amp; JUNE TRACK MAINTENANCE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Ticketing Policy:</strong> Standard monthly passes and single-ride tickets are valid on the Express at no extra fare. However, tickets must be purchased before boarding via the Coastal Rail mobile app or station vending machines; <strong>conductors do not accept cash on board</strong>.</p><p class=\"mt-2\"><strong>June 2–13 Track Maintenance:</strong> Due to evening rail replacement work near Millbrook Viaduct from June 2 through June 13, the <strong>5:45 p.m. return express from Harbor Point</strong> will be replaced by an express motorcoach bus. Please allow an additional 20 minutes of travel time during this two-week period.</p></div>",
+    "questionText": "What is the purpose of the announcement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To introduce an express train and describe a temporary service change"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce an increase in ticket prices"
+      },
+      {
+        "key": "C",
+        "text": "(C) To advertise a new station near Millbrook"
+      },
+      {
+        "key": "D",
+        "text": "(D) To explain how to apply for a monthly pass"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của thông báo là gì?",
+    "explanation": "Thông báo giới thiệu tuyến express mới giữa Fairview và Harbor Point từ ngày 2/6, đồng thời nêu việc chuyến tàu chiều 5:45 sẽ tạm thời được thay bằng xe buýt từ 2/6 đến 13/6 do sửa đường ray. Vì vậy A đúng. B sai vì không có thay đổi giá vé; C sai vì Millbrook là điểm dừng hiện có, không phải ga mới; D sai vì không hướng dẫn đăng ký vé tháng.",
+    "vocab": [
+      {
+        "word": "express",
+        "pos": "n.",
+        "meaning": "tàu chạy nhanh, ít điểm dừng"
+      },
+      {
+        "word": "launch",
+        "pos": "v.",
+        "meaning": "khởi chạy, đưa vào hoạt động"
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "meaning": "tạm thời"
+      },
+      {
+        "word": "announcement",
+        "pos": "n.",
+        "meaning": "thông báo"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following service announcement, timetable, and rider alert:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">COASTAL RAIL AUTHORITY — NEW WEEKDAY EXPRESS SERVICE</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, May 4, the Coastal Rail Authority will introduce a weekday morning and evening express train between <strong>Fairview Station</strong> and <strong>Harbor Point Terminal</strong>, with a single intermediate stop at <strong>Millbrook Junction</strong>. Designed for daily commuters, the express service completes the trip in 38 minutes—12 minutes faster than the regular local line.</p><p class=\"mt-2\">Each express train consists of four newly refurbished carriages with complimentary Wi-Fi and power outlets at every seat. Please review the timetable and rider alert below for ticketing rules, bicycle storage limits, and temporary maintenance adjustments in June.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Coastal Rail Weekday Express — Schedule &amp; Train Configuration</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Direction / Feature</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rider Guidelines</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Morning Southbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Fairview 7:10 a.m. → Millbrook 7:28 a.m. → Arrives Harbor Point 7:48 a.m.</td><td class=\"border border-neutral-800 p-2\">38-minute total travel time (saves 12 min)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Evening Northbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Harbor Point 5:45 p.m. → Millbrook 6:05 p.m. → Arrives Fairview 6:23 p.m.</td><td class=\"border border-neutral-800 p-2\">Subject to June 2–13 track work (see alert)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Seating &amp; Bicycle Racks</td><td class=\"border border-neutral-800 p-2\">96 seats per carriage; racks for 6 bicycles per train</td><td class=\"border border-neutral-800 p-2\">Bike spaces are first-come, first-served</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Designated Quiet Car</td><td class=\"border border-neutral-800 p-2\"><strong>Last carriage (Rear car of the train)</strong></td><td class=\"border border-neutral-800 p-2\">No phone calls; silence mobile devices</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIDER ALERT — TICKETING &amp; JUNE TRACK MAINTENANCE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Ticketing Policy:</strong> Standard monthly passes and single-ride tickets are valid on the Express at no extra fare. However, tickets must be purchased before boarding via the Coastal Rail mobile app or station vending machines; <strong>conductors do not accept cash on board</strong>.</p><p class=\"mt-2\"><strong>June 2–13 Track Maintenance:</strong> Due to evening rail replacement work near Millbrook Viaduct from June 2 through June 13, the <strong>5:45 p.m. return express from Harbor Point</strong> will be replaced by an express motorcoach bus. Please allow an additional 20 minutes of travel time during this two-week period.</p></div>",
+    "questionText": "How much faster is the new express service than the current service?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) 6 minutes"
+      },
+      {
+        "key": "B",
+        "text": "(B) 12 minutes"
+      },
+      {
+        "key": "C",
+        "text": "(C) 20 minutes"
+      },
+      {
+        "key": "D",
+        "text": "(D) 38 minutes"
+      }
+    ],
+    "correct": "B",
+    "translation": "Tuyến express mới nhanh hơn tuyến hiện tại bao nhiêu phút?",
+    "explanation": "Thông báo nêu tuyến express đến Harbor Point trong 38 phút, '12 minutes faster than the current service', nên B đúng. A không được nhắc đến; C là khoảng thời gian hành khách nên dự phòng thêm khi đi xe buýt thay thế; D là tổng thời gian di chuyển của tuyến express, không phải mức chênh lệch.",
+    "vocab": [
+      {
+        "word": "departure",
+        "pos": "n.",
+        "meaning": "giờ khởi hành"
+      },
+      {
+        "word": "current",
+        "pos": "adj.",
+        "meaning": "hiện tại"
+      },
+      {
+        "word": "reach",
+        "pos": "v.",
+        "meaning": "đến, tới"
+      },
+      {
+        "word": "allow",
+        "pos": "v.",
+        "meaning": "dành ra, tính đến"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following service announcement, timetable, and rider alert:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">COASTAL RAIL AUTHORITY — NEW WEEKDAY EXPRESS SERVICE</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, May 4, the Coastal Rail Authority will introduce a weekday morning and evening express train between <strong>Fairview Station</strong> and <strong>Harbor Point Terminal</strong>, with a single intermediate stop at <strong>Millbrook Junction</strong>. Designed for daily commuters, the express service completes the trip in 38 minutes—12 minutes faster than the regular local line.</p><p class=\"mt-2\">Each express train consists of four newly refurbished carriages with complimentary Wi-Fi and power outlets at every seat. Please review the timetable and rider alert below for ticketing rules, bicycle storage limits, and temporary maintenance adjustments in June.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Coastal Rail Weekday Express — Schedule &amp; Train Configuration</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Direction / Feature</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rider Guidelines</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Morning Southbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Fairview 7:10 a.m. → Millbrook 7:28 a.m. → Arrives Harbor Point 7:48 a.m.</td><td class=\"border border-neutral-800 p-2\">38-minute total travel time (saves 12 min)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Evening Northbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Harbor Point 5:45 p.m. → Millbrook 6:05 p.m. → Arrives Fairview 6:23 p.m.</td><td class=\"border border-neutral-800 p-2\">Subject to June 2–13 track work (see alert)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Seating &amp; Bicycle Racks</td><td class=\"border border-neutral-800 p-2\">96 seats per carriage; racks for 6 bicycles per train</td><td class=\"border border-neutral-800 p-2\">Bike spaces are first-come, first-served</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Designated Quiet Car</td><td class=\"border border-neutral-800 p-2\"><strong>Last carriage (Rear car of the train)</strong></td><td class=\"border border-neutral-800 p-2\">No phone calls; silence mobile devices</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIDER ALERT — TICKETING &amp; JUNE TRACK MAINTENANCE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Ticketing Policy:</strong> Standard monthly passes and single-ride tickets are valid on the Express at no extra fare. However, tickets must be purchased before boarding via the Coastal Rail mobile app or station vending machines; <strong>conductors do not accept cash on board</strong>.</p><p class=\"mt-2\"><strong>June 2–13 Track Maintenance:</strong> Due to evening rail replacement work near Millbrook Viaduct from June 2 through June 13, the <strong>5:45 p.m. return express from Harbor Point</strong> will be replaced by an express motorcoach bus. Please allow an additional 20 minutes of travel time during this two-week period.</p></div>",
+    "questionText": "What is true about the replacement buses?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They leave earlier than the train did."
+      },
+      {
+        "key": "B",
+        "text": "(B) They require a separate reservation."
+      },
+      {
+        "key": "C",
+        "text": "(C) They stop at every station on the line."
+      },
+      {
+        "key": "D",
+        "text": "(D) They accept monthly passes without an extra charge."
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì đúng về các xe buýt thay thế?",
+    "explanation": "Thông báo nêu: 'Monthly pass holders may board the replacement buses at no extra charge; single-ride tickets will be honored as well', nên D đúng. A sai vì bài chỉ nói hành khách nên dự phòng thêm 20 phút, không nói xe rời sớm hơn; B sai vì không yêu cầu đặt chỗ riêng; C sai vì không có thông tin về các điểm dừng của xe buýt.",
+    "vocab": [
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "meaning": "phương tiện thay thế"
+      },
+      {
+        "word": "monthly pass",
+        "pos": "n.",
+        "meaning": "vé tháng"
+      },
+      {
+        "word": "honor",
+        "pos": "v.",
+        "meaning": "chấp nhận, tôn trọng"
+      },
+      {
+        "word": "single-ride",
+        "pos": "adj.",
+        "meaning": "một lượt đi"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following service announcement, timetable, and rider alert:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">COASTAL RAIL AUTHORITY — NEW WEEKDAY EXPRESS SERVICE</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, May 4, the Coastal Rail Authority will introduce a weekday morning and evening express train between <strong>Fairview Station</strong> and <strong>Harbor Point Terminal</strong>, with a single intermediate stop at <strong>Millbrook Junction</strong>. Designed for daily commuters, the express service completes the trip in 38 minutes—12 minutes faster than the regular local line.</p><p class=\"mt-2\">Each express train consists of four newly refurbished carriages with complimentary Wi-Fi and power outlets at every seat. Please review the timetable and rider alert below for ticketing rules, bicycle storage limits, and temporary maintenance adjustments in June.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Coastal Rail Weekday Express — Schedule &amp; Train Configuration</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Direction / Feature</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rider Guidelines</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Morning Southbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Fairview 7:10 a.m. → Millbrook 7:28 a.m. → Arrives Harbor Point 7:48 a.m.</td><td class=\"border border-neutral-800 p-2\">38-minute total travel time (saves 12 min)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Evening Northbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Harbor Point 5:45 p.m. → Millbrook 6:05 p.m. → Arrives Fairview 6:23 p.m.</td><td class=\"border border-neutral-800 p-2\">Subject to June 2–13 track work (see alert)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Seating &amp; Bicycle Racks</td><td class=\"border border-neutral-800 p-2\">96 seats per carriage; racks for 6 bicycles per train</td><td class=\"border border-neutral-800 p-2\">Bike spaces are first-come, first-served</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Designated Quiet Car</td><td class=\"border border-neutral-800 p-2\"><strong>Last carriage (Rear car of the train)</strong></td><td class=\"border border-neutral-800 p-2\">No phone calls; silence mobile devices</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIDER ALERT — TICKETING &amp; JUNE TRACK MAINTENANCE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Ticketing Policy:</strong> Standard monthly passes and single-ride tickets are valid on the Express at no extra fare. However, tickets must be purchased before boarding via the Coastal Rail mobile app or station vending machines; <strong>conductors do not accept cash on board</strong>.</p><p class=\"mt-2\"><strong>June 2–13 Track Maintenance:</strong> Due to evening rail replacement work near Millbrook Viaduct from June 2 through June 13, the <strong>5:45 p.m. return express from Harbor Point</strong> will be replaced by an express motorcoach bus. Please allow an additional 20 minutes of travel time during this two-week period.</p></div>",
+    "questionText": "How can passengers purchase a ticket?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Through the app or at station vending machines"
+      },
+      {
+        "key": "B",
+        "text": "(B) With cash from the conductor on board"
+      },
+      {
+        "key": "C",
+        "text": "(C) By calling the station at least one day ahead"
+      },
+      {
+        "key": "D",
+        "text": "(D) Only by reserving a seat online"
+      }
+    ],
+    "correct": "A",
+    "translation": "Hành khách có thể mua vé bằng cách nào?",
+    "explanation": "Thông báo cho biết: 'Tickets can be purchased through the Coastal Rail app or at station vending machines', nên A đúng. B sai vì 'Cash will no longer be accepted on board'; C sai vì không có hình thức mua qua điện thoại; D sai vì đặt chỗ không bắt buộc và không phải cách duy nhất để mua vé.",
+    "vocab": [
+      {
+        "word": "vending machine",
+        "pos": "n.",
+        "meaning": "máy bán hàng tự động"
+      },
+      {
+        "word": "app",
+        "pos": "n.",
+        "meaning": "ứng dụng di động"
+      },
+      {
+        "word": "on board",
+        "pos": "adv.",
+        "meaning": "trên tàu, trên xe"
+      },
+      {
+        "word": "purchase",
+        "pos": "v.",
+        "meaning": "mua"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following service announcement, timetable, and rider alert:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">COASTAL RAIL AUTHORITY — NEW WEEKDAY EXPRESS SERVICE</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, May 4, the Coastal Rail Authority will introduce a weekday morning and evening express train between <strong>Fairview Station</strong> and <strong>Harbor Point Terminal</strong>, with a single intermediate stop at <strong>Millbrook Junction</strong>. Designed for daily commuters, the express service completes the trip in 38 minutes—12 minutes faster than the regular local line.</p><p class=\"mt-2\">Each express train consists of four newly refurbished carriages with complimentary Wi-Fi and power outlets at every seat. Please review the timetable and rider alert below for ticketing rules, bicycle storage limits, and temporary maintenance adjustments in June.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Coastal Rail Weekday Express — Schedule &amp; Train Configuration</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Direction / Feature</th><th class=\"border border-neutral-800 p-2 text-left\">Schedule / Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rider Guidelines</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Morning Southbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Fairview 7:10 a.m. → Millbrook 7:28 a.m. → Arrives Harbor Point 7:48 a.m.</td><td class=\"border border-neutral-800 p-2\">38-minute total travel time (saves 12 min)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Evening Northbound Express</td><td class=\"border border-neutral-800 p-2\">Departs Harbor Point 5:45 p.m. → Millbrook 6:05 p.m. → Arrives Fairview 6:23 p.m.</td><td class=\"border border-neutral-800 p-2\">Subject to June 2–13 track work (see alert)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Seating &amp; Bicycle Racks</td><td class=\"border border-neutral-800 p-2\">96 seats per carriage; racks for 6 bicycles per train</td><td class=\"border border-neutral-800 p-2\">Bike spaces are first-come, first-served</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Designated Quiet Car</td><td class=\"border border-neutral-800 p-2\"><strong>Last carriage (Rear car of the train)</strong></td><td class=\"border border-neutral-800 p-2\">No phone calls; silence mobile devices</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">RIDER ALERT — TICKETING &amp; JUNE TRACK MAINTENANCE</p><hr class=\"my-2 border-neutral-300\"><p><strong>Ticketing Policy:</strong> Standard monthly passes and single-ride tickets are valid on the Express at no extra fare. However, tickets must be purchased before boarding via the Coastal Rail mobile app or station vending machines; <strong>conductors do not accept cash on board</strong>.</p><p class=\"mt-2\"><strong>June 2–13 Track Maintenance:</strong> Due to evening rail replacement work near Millbrook Viaduct from June 2 through June 13, the <strong>5:45 p.m. return express from Harbor Point</strong> will be replaced by an express motorcoach bus. Please allow an additional 20 minutes of travel time during this two-week period.</p></div>",
+    "questionText": "What can be inferred about passengers who want to use the quiet car?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) They must reserve a seat in advance."
+      },
+      {
+        "key": "B",
+        "text": "(B) They should board the last carriage."
+      },
+      {
+        "key": "C",
+        "text": "(C) They must pay an additional fee."
+      },
+      {
+        "key": "D",
+        "text": "(D) They cannot bring bicycles on the train."
+      }
+    ],
+    "correct": "B",
+    "translation": "Có thể suy ra điều gì về hành khách muốn sử dụng toa yên tĩnh?",
+    "explanation": "Thông báo nêu 'a quiet car will be located at the rear', tức toa yên tĩnh nằm ở cuối tàu, nên hành khách nên lên toa cuối cùng; B đúng. A sai vì thông báo nói không cần đặt chỗ trước; C sai vì không có phụ phí cho toa yên tĩnh; D sai vì tàu có chỗ cho sáu xe đạp, không có quy định cấm mang xe đạp.",
+    "vocab": [
+      {
+        "word": "quiet car",
+        "pos": "n.",
+        "meaning": "toa yên tĩnh"
+      },
+      {
+        "word": "carriage",
+        "pos": "n.",
+        "meaning": "toa tàu"
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "meaning": "đặt trước"
+      },
+      {
+        "word": "additional",
+        "pos": "adj.",
+        "meaning": "thêm, bổ sung"
+      },
+      {
+        "word": "board",
+        "pos": "v.",
+        "meaning": "lên tàu, lên xe"
+      }
+    ]
+  }
+]

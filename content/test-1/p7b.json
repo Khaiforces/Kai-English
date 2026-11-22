@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 176,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: E-mail</strong></p><p><strong>To:</strong> Elena Marsh, Merchandise Planner, Meridian Home Goods<br><strong>From:</strong> Daniel Okafor, Export Coordinator, Northwind Ceramics<br><strong>Date:</strong> March 3<br><strong>Subject:</strong> Update on Order NC-4821 (Stoneware Dinnerware)</p><p>Dear Ms. Marsh,</p><p>I am writing to update you on order NC-4821, which was originally scheduled to leave our facility on March 12. Scheduled maintenance on our kiln No. 3 has been extended by six days, so the glazing stage will finish later than planned. We now expect to load the container on March 18, with the vessel departing on March 20 and arriving at the Port of Savannah on April 2.</p><p>I understand that your Spring Home Event begins on April 8. To help you meet that date, we can divide the order: the first 1,200 sets can travel by air and arrive on March 28, while the remainder goes by sea. The air freight would add $2,400 to the shipping cost, but Northwind will absorb that charge. Please confirm by March 6 whether you want a split shipment or prefer to wait for the full order. If we do not hear from you by then, we will send everything by sea.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Document 2: Internal Memo</strong></p><p><strong>To:</strong> Distribution and Marketing Teams<br><strong>From:</strong> Elena Marsh, Merchandise Planner<br><strong>Date:</strong> March 5<br><strong>Subject:</strong> Order NC-4821 and the Spring Home Event</p><p>I have confirmed with Northwind that we will use the split shipment. The 1,200 sets arriving on March 28 will be sent directly to the five flagship stores that are taking part in the Spring Home Event, which runs from April 8 to April 20. The rest of the order will reach Savannah on April 2, clear customs in two business days, and be trucked to our regional warehouse. Those units should be available for regional stores on April 7.</p><p>Because Northwind is covering the air-freight charge, we will not change the retail price of the dinnerware. Marketing should move the online launch from April 8 to April 10 so that regional inventory is in place before customers begin ordering. Please also note that the new pattern has been assigned item code HG-7745; all stores must use this code when scanning the product.</p><p>Elena</p></div>",
+    "questionText": "What is the purpose of Mr. Okafor's e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To explain a change to a delivery schedule"
+      },
+      {
+        "key": "B",
+        "text": "(B) To request payment for an outstanding invoice"
+      },
+      {
+        "key": "C",
+        "text": "(C) To cancel an order that is no longer available"
+      },
+      {
+        "key": "D",
+        "text": "(D) To introduce a new line of stoneware products"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích của e-mail ông Okafor là gì? — Giải thích một thay đổi trong lịch giao hàng của đơn NC-4821.",
+    "explanation": "Đáp án A. E-mail thông báo đơn NC-4821 sẽ rời cơ sở muộn hơn dự kiến và nêu các mốc mới: đóng container ngày 18/3, tàu khởi hành ngày 20/3, đến Savannah ngày 2/4. B sai vì không có hóa đơn hay yêu cầu thanh toán nào. C sai vì đơn hàng vẫn được thực hiện, chỉ thay đổi cách giao. D sai vì đây là đơn hàng stoneware đã đặt trước, không phải hoạt động giới thiệu sản phẩm mới.",
+    "vocab": [
+      {
+        "word": "facility",
+        "pos": "n.",
+        "meaning": "cơ sở sản xuất, nhà máy"
+      },
+      {
+        "word": "glazing",
+        "pos": "n.",
+        "meaning": "công đoạn tráng men"
+      },
+      {
+        "word": "vessel",
+        "pos": "n.",
+        "meaning": "tàu (vận tải)"
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "meaning": "lô hàng, việc gửi hàng"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: E-mail</strong></p><p><strong>To:</strong> Elena Marsh, Merchandise Planner, Meridian Home Goods<br><strong>From:</strong> Daniel Okafor, Export Coordinator, Northwind Ceramics<br><strong>Date:</strong> March 3<br><strong>Subject:</strong> Update on Order NC-4821 (Stoneware Dinnerware)</p><p>Dear Ms. Marsh,</p><p>I am writing to update you on order NC-4821, which was originally scheduled to leave our facility on March 12. Scheduled maintenance on our kiln No. 3 has been extended by six days, so the glazing stage will finish later than planned. We now expect to load the container on March 18, with the vessel departing on March 20 and arriving at the Port of Savannah on April 2.</p><p>I understand that your Spring Home Event begins on April 8. To help you meet that date, we can divide the order: the first 1,200 sets can travel by air and arrive on March 28, while the remainder goes by sea. The air freight would add $2,400 to the shipping cost, but Northwind will absorb that charge. Please confirm by March 6 whether you want a split shipment or prefer to wait for the full order. If we do not hear from you by then, we will send everything by sea.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Document 2: Internal Memo</strong></p><p><strong>To:</strong> Distribution and Marketing Teams<br><strong>From:</strong> Elena Marsh, Merchandise Planner<br><strong>Date:</strong> March 5<br><strong>Subject:</strong> Order NC-4821 and the Spring Home Event</p><p>I have confirmed with Northwind that we will use the split shipment. The 1,200 sets arriving on March 28 will be sent directly to the five flagship stores that are taking part in the Spring Home Event, which runs from April 8 to April 20. The rest of the order will reach Savannah on April 2, clear customs in two business days, and be trucked to our regional warehouse. Those units should be available for regional stores on April 7.</p><p>Because Northwind is covering the air-freight charge, we will not change the retail price of the dinnerware. Marketing should move the online launch from April 8 to April 10 so that regional inventory is in place before customers begin ordering. Please also note that the new pattern has been assigned item code HG-7745; all stores must use this code when scanning the product.</p><p>Elena</p></div>",
+    "questionText": "What caused the delay in the production of order NC-4821?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A customs inspection at the port"
+      },
+      {
+        "key": "B",
+        "text": "(B) A shortage of raw materials"
+      },
+      {
+        "key": "C",
+        "text": "(C) A problem with a delivery vessel"
+      },
+      {
+        "key": "D",
+        "text": "(D) Longer-than-planned kiln maintenance"
+      }
+    ],
+    "correct": "D",
+    "translation": "Điều gì đã gây ra sự chậm trễ trong quá trình sản xuất đơn NC-4821? — Việc bảo trì lò nung kéo dài hơn dự kiến.",
+    "explanation": "Đáp án D. E-mail nêu rõ: “Scheduled maintenance on our kiln No. 3 has been extended by six days”, tức việc bảo trì lò số 3 bị kéo dài thêm sáu ngày. A sai vì thủ tục hải quan diễn ra sau khi hàng đến cảng và không phải nguyên nhân trì hoãn sản xuất. B không được nhắc đến. C sai vì vấn đề nằm ở khâu sản xuất/tráng men, không phải tàu vận chuyển.",
+    "vocab": [
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "meaning": "việc bảo trì, bảo dưỡng"
+      },
+      {
+        "word": "extend",
+        "pos": "v.",
+        "meaning": "kéo dài, gia hạn"
+      },
+      {
+        "word": "raw material",
+        "pos": "n.",
+        "meaning": "nguyên liệu thô"
+      },
+      {
+        "word": "customs inspection",
+        "pos": "n.",
+        "meaning": "kiểm tra hải quan"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: E-mail</strong></p><p><strong>To:</strong> Elena Marsh, Merchandise Planner, Meridian Home Goods<br><strong>From:</strong> Daniel Okafor, Export Coordinator, Northwind Ceramics<br><strong>Date:</strong> March 3<br><strong>Subject:</strong> Update on Order NC-4821 (Stoneware Dinnerware)</p><p>Dear Ms. Marsh,</p><p>I am writing to update you on order NC-4821, which was originally scheduled to leave our facility on March 12. Scheduled maintenance on our kiln No. 3 has been extended by six days, so the glazing stage will finish later than planned. We now expect to load the container on March 18, with the vessel departing on March 20 and arriving at the Port of Savannah on April 2.</p><p>I understand that your Spring Home Event begins on April 8. To help you meet that date, we can divide the order: the first 1,200 sets can travel by air and arrive on March 28, while the remainder goes by sea. The air freight would add $2,400 to the shipping cost, but Northwind will absorb that charge. Please confirm by March 6 whether you want a split shipment or prefer to wait for the full order. If we do not hear from you by then, we will send everything by sea.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Document 2: Internal Memo</strong></p><p><strong>To:</strong> Distribution and Marketing Teams<br><strong>From:</strong> Elena Marsh, Merchandise Planner<br><strong>Date:</strong> March 5<br><strong>Subject:</strong> Order NC-4821 and the Spring Home Event</p><p>I have confirmed with Northwind that we will use the split shipment. The 1,200 sets arriving on March 28 will be sent directly to the five flagship stores that are taking part in the Spring Home Event, which runs from April 8 to April 20. The rest of the order will reach Savannah on April 2, clear customs in two business days, and be trucked to our regional warehouse. Those units should be available for regional stores on April 7.</p><p>Because Northwind is covering the air-freight charge, we will not change the retail price of the dinnerware. Marketing should move the online launch from April 8 to April 10 so that regional inventory is in place before customers begin ordering. Please also note that the new pattern has been assigned item code HG-7745; all stores must use this code when scanning the product.</p><p>Elena</p></div>",
+    "questionText": "What does Northwind Ceramics offer to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lower the unit price by ten percent"
+      },
+      {
+        "key": "B",
+        "text": "(B) Pay the cost of air freight"
+      },
+      {
+        "key": "C",
+        "text": "(C) Send replacement sets for damaged items"
+      },
+      {
+        "key": "D",
+        "text": "(D) Extend the Spring Home Event"
+      }
+    ],
+    "correct": "B",
+    "translation": "Northwind Ceramics đề nghị làm gì? — Trả chi phí vận chuyển bằng đường hàng không.",
+    "explanation": "Đáp án B. E-mail cho biết chi phí vận chuyển hàng không tăng thêm 2.400 đô-la nhưng “Northwind will absorb that charge”, nghĩa là công ty sẽ gánh khoản này. A sai vì không có việc giảm giá 10%; memo còn khẳng định giá bán lẻ không đổi. C không được nhắc đến vì không có hư hỏng. D sai vì Spring Home Event do Meridian tổ chức, không phải Northwind.",
+    "vocab": [
+      {
+        "word": "absorb a charge",
+        "pos": "v. phr.",
+        "meaning": "gánh chịu một khoản chi phí"
+      },
+      {
+        "word": "air freight",
+        "pos": "n.",
+        "meaning": "vận tải hàng không"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      },
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "meaning": "hàng thay thế"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: E-mail</strong></p><p><strong>To:</strong> Elena Marsh, Merchandise Planner, Meridian Home Goods<br><strong>From:</strong> Daniel Okafor, Export Coordinator, Northwind Ceramics<br><strong>Date:</strong> March 3<br><strong>Subject:</strong> Update on Order NC-4821 (Stoneware Dinnerware)</p><p>Dear Ms. Marsh,</p><p>I am writing to update you on order NC-4821, which was originally scheduled to leave our facility on March 12. Scheduled maintenance on our kiln No. 3 has been extended by six days, so the glazing stage will finish later than planned. We now expect to load the container on March 18, with the vessel departing on March 20 and arriving at the Port of Savannah on April 2.</p><p>I understand that your Spring Home Event begins on April 8. To help you meet that date, we can divide the order: the first 1,200 sets can travel by air and arrive on March 28, while the remainder goes by sea. The air freight would add $2,400 to the shipping cost, but Northwind will absorb that charge. Please confirm by March 6 whether you want a split shipment or prefer to wait for the full order. If we do not hear from you by then, we will send everything by sea.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Document 2: Internal Memo</strong></p><p><strong>To:</strong> Distribution and Marketing Teams<br><strong>From:</strong> Elena Marsh, Merchandise Planner<br><strong>Date:</strong> March 5<br><strong>Subject:</strong> Order NC-4821 and the Spring Home Event</p><p>I have confirmed with Northwind that we will use the split shipment. The 1,200 sets arriving on March 28 will be sent directly to the five flagship stores that are taking part in the Spring Home Event, which runs from April 8 to April 20. The rest of the order will reach Savannah on April 2, clear customs in two business days, and be trucked to our regional warehouse. Those units should be available for regional stores on April 7.</p><p>Because Northwind is covering the air-freight charge, we will not change the retail price of the dinnerware. Marketing should move the online launch from April 8 to April 10 so that regional inventory is in place before customers begin ordering. Please also note that the new pattern has been assigned item code HG-7745; all stores must use this code when scanning the product.</p><p>Elena</p></div>",
+    "questionText": "What did Ms. Marsh decide to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Use a combination of air and sea shipping"
+      },
+      {
+        "key": "B",
+        "text": "(B) Wait for the entire order to arrive by sea"
+      },
+      {
+        "key": "C",
+        "text": "(C) Transfer the order to another supplier"
+      },
+      {
+        "key": "D",
+        "text": "(D) Delay the Spring Home Event until April 10"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bà Marsh đã quyết định làm gì? — Sử dụng kết hợp vận chuyển hàng không và đường biển.",
+    "explanation": "Đáp án A. Memo nội bộ của bà Marsh viết: “I have confirmed with Northwind that we will use the split shipment”, tức đồng ý chia đơn hàng: 1.200 bộ đi máy bay, phần còn lại đi đường biển. B sai vì đó là phương án mặc định nếu không phản hồi trước 6/3, nhưng bà đã phản hồi và chọn chia đơn. C sai vì không có việc đổi nhà cung cấp. D sai vì ngày 10/4 là ngày ra mắt bán hàng trực tuyến, không phải ngày tổ chức sự kiện.",
+    "vocab": [
+      {
+        "word": "split shipment",
+        "pos": "n.",
+        "meaning": "việc chia lô hàng để gửi nhiều cách"
+      },
+      {
+        "word": "confirm",
+        "pos": "v.",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "transfer",
+        "pos": "v.",
+        "meaning": "chuyển, chuyển nhượng"
+      },
+      {
+        "word": "delay",
+        "pos": "v.",
+        "meaning": "trì hoãn"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 176-180 refer to the following e-mail and internal memo:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: E-mail</strong></p><p><strong>To:</strong> Elena Marsh, Merchandise Planner, Meridian Home Goods<br><strong>From:</strong> Daniel Okafor, Export Coordinator, Northwind Ceramics<br><strong>Date:</strong> March 3<br><strong>Subject:</strong> Update on Order NC-4821 (Stoneware Dinnerware)</p><p>Dear Ms. Marsh,</p><p>I am writing to update you on order NC-4821, which was originally scheduled to leave our facility on March 12. Scheduled maintenance on our kiln No. 3 has been extended by six days, so the glazing stage will finish later than planned. We now expect to load the container on March 18, with the vessel departing on March 20 and arriving at the Port of Savannah on April 2.</p><p>I understand that your Spring Home Event begins on April 8. To help you meet that date, we can divide the order: the first 1,200 sets can travel by air and arrive on March 28, while the remainder goes by sea. The air freight would add $2,400 to the shipping cost, but Northwind will absorb that charge. Please confirm by March 6 whether you want a split shipment or prefer to wait for the full order. If we do not hear from you by then, we will send everything by sea.</p><p>Regards,<br>Daniel Okafor</p><hr><p><strong>Document 2: Internal Memo</strong></p><p><strong>To:</strong> Distribution and Marketing Teams<br><strong>From:</strong> Elena Marsh, Merchandise Planner<br><strong>Date:</strong> March 5<br><strong>Subject:</strong> Order NC-4821 and the Spring Home Event</p><p>I have confirmed with Northwind that we will use the split shipment. The 1,200 sets arriving on March 28 will be sent directly to the five flagship stores that are taking part in the Spring Home Event, which runs from April 8 to April 20. The rest of the order will reach Savannah on April 2, clear customs in two business days, and be trucked to our regional warehouse. Those units should be available for regional stores on April 7.</p><p>Because Northwind is covering the air-freight charge, we will not change the retail price of the dinnerware. Marketing should move the online launch from April 8 to April 10 so that regional inventory is in place before customers begin ordering. Please also note that the new pattern has been assigned item code HG-7745; all stores must use this code when scanning the product.</p><p>Elena</p></div>",
+    "questionText": "According to the memo, why will the online launch be moved to April 10?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To avoid competing with the in-store event"
+      },
+      {
+        "key": "B",
+        "text": "(B) To allow time for new product photographs"
+      },
+      {
+        "key": "C",
+        "text": "(C) To make sure regional inventory is available"
+      },
+      {
+        "key": "D",
+        "text": "(D) To reflect a change in the retail price"
+      }
+    ],
+    "correct": "C",
+    "translation": "Theo memo, vì sao buổi ra mắt trực tuyến được dời sang ngày 10 tháng 4? — Để bảo đảm hàng trong kho khu vực đã sẵn sàng.",
+    "explanation": "Đáp án C. Memo nêu mục đích: “so that regional inventory is in place before customers begin ordering”. Kết hợp với e-mail, phần hàng đường biển đến Savannah ngày 2/4, thông quan trong hai ngày làm việc và có thể có mặt tại kho khu vực ngày 7/4, nên dời ra mắt sang 10/4 để kịp hàng. A sai vì không có lý do tránh cạnh tranh; sự kiện tại cửa hàng và bán online có thể diễn ra song song. B không được nhắc đến. D sai vì memo khẳng định giá bán lẻ không thay đổi.",
+    "vocab": [
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "meaning": "hàng tồn kho"
+      },
+      {
+        "word": "launch",
+        "pos": "n.",
+        "meaning": "buổi ra mắt, việc tung sản phẩm"
+      },
+      {
+        "word": "retail price",
+        "pos": "n.",
+        "meaning": "giá bán lẻ"
+      },
+      {
+        "word": "in place",
+        "pos": "phrase",
+        "meaning": "đã sẵn sàng, đúng vị trí"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following job posting and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: Job Posting</strong></p><p><strong>Logistics Data Analyst — Beacon Analytics</strong><br><strong>Location:</strong> Columbus, Ohio (hybrid)<br><strong>Employment type:</strong> Full-time</p><p>Beacon Analytics is seeking a Logistics Data Analyst to support our growing retail distribution network. The analyst will examine shipment data, build weekly dashboards in Power BI, work with carriers to resolve delivery issues, and prepare monthly reports on transportation costs.</p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in supply chain management, statistics, or a related field</li><li>At least two years of experience in logistics, operations, or data analysis</li><li>Advanced Excel skills</li><li>Power BI certification preferred</li><li>Knowledge of SQL is an advantage</li></ul><p>The position is hybrid: three days per week at our Columbus office and two days remote. The salary range is $62,000-$70,000 per year. Applications must be submitted by May 15, and the successful candidate will begin on June 2.</p><hr><p><strong>Document 2: E-mail</strong></p><p><strong>To:</strong> Maya Chen<br><strong>From:</strong> Rachel Kim, Talent Acquisition, Beacon Analytics<br><strong>Date:</strong> May 14<br><strong>Subject:</strong> Your application for Logistics Data Analyst</p><p>Dear Ms. Chen,</p><p>Thank you for applying for the Logistics Data Analyst position on May 9. The hiring committee was impressed by your three years as an operations analyst at Hartwell Freight and by your Power BI certification.</p><p>We would like to invite you to a 45-minute video interview on May 21 at 10:00 a.m. with Omar Haddad, our director of logistics. Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19. Kindly confirm your attendance by May 16. If you need any accommodation for the interview, please contact Human Resources by May 18.</p><p>Please note that the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week. After that, you will follow the hybrid schedule described in the job posting.</p><p>We look forward to speaking with you.</p><p>Sincerely,<br>Rachel Kim</p></div>",
+    "questionText": "What is the main purpose of Ms. Kim's e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To offer Ms. Chen the analyst position"
+      },
+      {
+        "key": "B",
+        "text": "(B) To invite Ms. Chen to an interview"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request references from Ms. Chen"
+      },
+      {
+        "key": "D",
+        "text": "(D) To confirm Ms. Chen's first day of work"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính trong e-mail của bà Kim là gì? — Mời bà Chen tham gia phỏng vấn.",
+    "explanation": "Đáp án B. E-mail nêu rõ: “We would like to invite you to a 45-minute video interview on May 21”. A sai vì thư chỉ mời phỏng vấn, chưa đưa ra lời đề nghị việc làm. C sai vì không yêu cầu người giới thiệu. D sai vì ngày 2/6 là ngày bắt đầu làm việc được nêu trong tin tuyển dụng, không phải nội dung xác nhận của e-mail này.",
+    "vocab": [
+      {
+        "word": "application",
+        "pos": "n.",
+        "meaning": "đơn ứng tuyển"
+      },
+      {
+        "word": "hiring committee",
+        "pos": "n.",
+        "meaning": "hội đồng tuyển dụng"
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "meaning": "vị trí công việc"
+      },
+      {
+        "word": "accommodation",
+        "pos": "n.",
+        "meaning": "sự hỗ trợ, điều chỉnh cần thiết"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following job posting and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: Job Posting</strong></p><p><strong>Logistics Data Analyst — Beacon Analytics</strong><br><strong>Location:</strong> Columbus, Ohio (hybrid)<br><strong>Employment type:</strong> Full-time</p><p>Beacon Analytics is seeking a Logistics Data Analyst to support our growing retail distribution network. The analyst will examine shipment data, build weekly dashboards in Power BI, work with carriers to resolve delivery issues, and prepare monthly reports on transportation costs.</p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in supply chain management, statistics, or a related field</li><li>At least two years of experience in logistics, operations, or data analysis</li><li>Advanced Excel skills</li><li>Power BI certification preferred</li><li>Knowledge of SQL is an advantage</li></ul><p>The position is hybrid: three days per week at our Columbus office and two days remote. The salary range is $62,000-$70,000 per year. Applications must be submitted by May 15, and the successful candidate will begin on June 2.</p><hr><p><strong>Document 2: E-mail</strong></p><p><strong>To:</strong> Maya Chen<br><strong>From:</strong> Rachel Kim, Talent Acquisition, Beacon Analytics<br><strong>Date:</strong> May 14<br><strong>Subject:</strong> Your application for Logistics Data Analyst</p><p>Dear Ms. Chen,</p><p>Thank you for applying for the Logistics Data Analyst position on May 9. The hiring committee was impressed by your three years as an operations analyst at Hartwell Freight and by your Power BI certification.</p><p>We would like to invite you to a 45-minute video interview on May 21 at 10:00 a.m. with Omar Haddad, our director of logistics. Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19. Kindly confirm your attendance by May 16. If you need any accommodation for the interview, please contact Human Resources by May 18.</p><p>Please note that the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week. After that, you will follow the hybrid schedule described in the job posting.</p><p>We look forward to speaking with you.</p><p>Sincerely,<br>Rachel Kim</p></div>",
+    "questionText": "Which job requirement does Ms. Chen meet through her certification?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A bachelor's degree"
+      },
+      {
+        "key": "B",
+        "text": "(B) Two years of logistics experience"
+      },
+      {
+        "key": "C",
+        "text": "(C) Power BI proficiency"
+      },
+      {
+        "key": "D",
+        "text": "(D) Advanced SQL knowledge"
+      }
+    ],
+    "correct": "C",
+    "translation": "Bà Chen đáp ứng yêu cầu công việc nào nhờ chứng chỉ của mình? — Khả năng sử dụng Power BI.",
+    "explanation": "Đáp án C. Tin tuyển dụng ghi “Power BI certification preferred”, còn e-mail xác nhận hội đồng tuyển dụng ấn tượng với “your Power BI certification” của bà Chen. A sai vì e-mail không đề cập bằng cấp của bà. B sai vì kinh nghiệm hai năm đến từ ba năm làm việc tại Hartwell Freight, không phải từ chứng chỉ. D sai vì SQL chỉ là lợi thế và không được nhắc đến trong hồ sơ của bà.",
+    "vocab": [
+      {
+        "word": "requirement",
+        "pos": "n.",
+        "meaning": "yêu cầu"
+      },
+      {
+        "word": "proficiency",
+        "pos": "n.",
+        "meaning": "sự thành thạo"
+      },
+      {
+        "word": "certification",
+        "pos": "n.",
+        "meaning": "chứng chỉ"
+      },
+      {
+        "word": "advanced",
+        "pos": "adj.",
+        "meaning": "cao cấp, trình độ cao"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following job posting and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: Job Posting</strong></p><p><strong>Logistics Data Analyst — Beacon Analytics</strong><br><strong>Location:</strong> Columbus, Ohio (hybrid)<br><strong>Employment type:</strong> Full-time</p><p>Beacon Analytics is seeking a Logistics Data Analyst to support our growing retail distribution network. The analyst will examine shipment data, build weekly dashboards in Power BI, work with carriers to resolve delivery issues, and prepare monthly reports on transportation costs.</p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in supply chain management, statistics, or a related field</li><li>At least two years of experience in logistics, operations, or data analysis</li><li>Advanced Excel skills</li><li>Power BI certification preferred</li><li>Knowledge of SQL is an advantage</li></ul><p>The position is hybrid: three days per week at our Columbus office and two days remote. The salary range is $62,000-$70,000 per year. Applications must be submitted by May 15, and the successful candidate will begin on June 2.</p><hr><p><strong>Document 2: E-mail</strong></p><p><strong>To:</strong> Maya Chen<br><strong>From:</strong> Rachel Kim, Talent Acquisition, Beacon Analytics<br><strong>Date:</strong> May 14<br><strong>Subject:</strong> Your application for Logistics Data Analyst</p><p>Dear Ms. Chen,</p><p>Thank you for applying for the Logistics Data Analyst position on May 9. The hiring committee was impressed by your three years as an operations analyst at Hartwell Freight and by your Power BI certification.</p><p>We would like to invite you to a 45-minute video interview on May 21 at 10:00 a.m. with Omar Haddad, our director of logistics. Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19. Kindly confirm your attendance by May 16. If you need any accommodation for the interview, please contact Human Resources by May 18.</p><p>Please note that the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week. After that, you will follow the hybrid schedule described in the job posting.</p><p>We look forward to speaking with you.</p><p>Sincerely,<br>Rachel Kim</p></div>",
+    "questionText": "According to the job posting, how many days per week will the analyst work at the Columbus office after training?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) One"
+      },
+      {
+        "key": "B",
+        "text": "(B) Two"
+      },
+      {
+        "key": "C",
+        "text": "(C) Three"
+      },
+      {
+        "key": "D",
+        "text": "(D) Five"
+      }
+    ],
+    "correct": "C",
+    "translation": "Theo tin tuyển dụng, sau khi hoàn tất huấn luyện, nhà phân tích sẽ làm việc tại văn phòng Columbus bao nhiêu ngày mỗi tuần? — Ba ngày.",
+    "explanation": "Đáp án C. Tin tuyển dụng quy định rõ: “three days per week at our Columbus office and two days remote”. E-mail cũng nói sau sáu tuần huấn luyện sẽ áp dụng lịch hybrid mô tả trong tin tuyển dụng. A và B sai vì thấp hơn số ngày làm tại văn phòng. D sai vì năm ngày chỉ áp dụng trong sáu tuần huấn luyện ban đầu, không phải sau đó.",
+    "vocab": [
+      {
+        "word": "hybrid",
+        "pos": "adj.",
+        "meaning": "kết hợp làm việc tại văn phòng và từ xa"
+      },
+      {
+        "word": "remote",
+        "pos": "adj.",
+        "meaning": "từ xa"
+      },
+      {
+        "word": "on-site",
+        "pos": "adj.",
+        "meaning": "tại chỗ, tại văn phòng"
+      },
+      {
+        "word": "schedule",
+        "pos": "n.",
+        "meaning": "lịch làm việc"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following job posting and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: Job Posting</strong></p><p><strong>Logistics Data Analyst — Beacon Analytics</strong><br><strong>Location:</strong> Columbus, Ohio (hybrid)<br><strong>Employment type:</strong> Full-time</p><p>Beacon Analytics is seeking a Logistics Data Analyst to support our growing retail distribution network. The analyst will examine shipment data, build weekly dashboards in Power BI, work with carriers to resolve delivery issues, and prepare monthly reports on transportation costs.</p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in supply chain management, statistics, or a related field</li><li>At least two years of experience in logistics, operations, or data analysis</li><li>Advanced Excel skills</li><li>Power BI certification preferred</li><li>Knowledge of SQL is an advantage</li></ul><p>The position is hybrid: three days per week at our Columbus office and two days remote. The salary range is $62,000-$70,000 per year. Applications must be submitted by May 15, and the successful candidate will begin on June 2.</p><hr><p><strong>Document 2: E-mail</strong></p><p><strong>To:</strong> Maya Chen<br><strong>From:</strong> Rachel Kim, Talent Acquisition, Beacon Analytics<br><strong>Date:</strong> May 14<br><strong>Subject:</strong> Your application for Logistics Data Analyst</p><p>Dear Ms. Chen,</p><p>Thank you for applying for the Logistics Data Analyst position on May 9. The hiring committee was impressed by your three years as an operations analyst at Hartwell Freight and by your Power BI certification.</p><p>We would like to invite you to a 45-minute video interview on May 21 at 10:00 a.m. with Omar Haddad, our director of logistics. Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19. Kindly confirm your attendance by May 16. If you need any accommodation for the interview, please contact Human Resources by May 18.</p><p>Please note that the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week. After that, you will follow the hybrid schedule described in the job posting.</p><p>We look forward to speaking with you.</p><p>Sincerely,<br>Rachel Kim</p></div>",
+    "questionText": "What must Ms. Chen do before May 19?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Complete an Excel exercise"
+      },
+      {
+        "key": "B",
+        "text": "(B) Provide a list of references"
+      },
+      {
+        "key": "C",
+        "text": "(C) Attend a video interview"
+      },
+      {
+        "key": "D",
+        "text": "(D) Contact Human Resources"
+      }
+    ],
+    "correct": "A",
+    "translation": "Bà Chen phải làm gì trước ngày 19 tháng 5? — Hoàn thành bài tập Excel.",
+    "explanation": "Đáp án A. E-mail yêu cầu: “Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19”. B sai vì không có yêu cầu cung cấp người giới thiệu. C sai vì phỏng vấn diễn ra ngày 21/5, sau mốc 19/5. D sai vì chỉ liên hệ nhân sự nếu cần hỗ trợ đặc biệt, hạn là 18/5, và đây không phải việc bắt buộc với mọi ứng viên.",
+    "vocab": [
+      {
+        "word": "complete",
+        "pos": "v.",
+        "meaning": "hoàn thành"
+      },
+      {
+        "word": "link",
+        "pos": "n.",
+        "meaning": "đường liên kết"
+      },
+      {
+        "word": "reference",
+        "pos": "n.",
+        "meaning": "người/nội dung giới thiệu"
+      },
+      {
+        "word": "attend",
+        "pos": "v.",
+        "meaning": "tham dự"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 181-185 refer to the following job posting and e-mail:",
+    "passageHtml": "<div class='bg-slate-50 p-4 rounded-lg border border-slate-200 text-sm leading-relaxed'><p><strong>Document 1: Job Posting</strong></p><p><strong>Logistics Data Analyst — Beacon Analytics</strong><br><strong>Location:</strong> Columbus, Ohio (hybrid)<br><strong>Employment type:</strong> Full-time</p><p>Beacon Analytics is seeking a Logistics Data Analyst to support our growing retail distribution network. The analyst will examine shipment data, build weekly dashboards in Power BI, work with carriers to resolve delivery issues, and prepare monthly reports on transportation costs.</p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in supply chain management, statistics, or a related field</li><li>At least two years of experience in logistics, operations, or data analysis</li><li>Advanced Excel skills</li><li>Power BI certification preferred</li><li>Knowledge of SQL is an advantage</li></ul><p>The position is hybrid: three days per week at our Columbus office and two days remote. The salary range is $62,000-$70,000 per year. Applications must be submitted by May 15, and the successful candidate will begin on June 2.</p><hr><p><strong>Document 2: E-mail</strong></p><p><strong>To:</strong> Maya Chen<br><strong>From:</strong> Rachel Kim, Talent Acquisition, Beacon Analytics<br><strong>Date:</strong> May 14<br><strong>Subject:</strong> Your application for Logistics Data Analyst</p><p>Dear Ms. Chen,</p><p>Thank you for applying for the Logistics Data Analyst position on May 9. The hiring committee was impressed by your three years as an operations analyst at Hartwell Freight and by your Power BI certification.</p><p>We would like to invite you to a 45-minute video interview on May 21 at 10:00 a.m. with Omar Haddad, our director of logistics. Before the interview, please complete a 30-minute Excel exercise; the link will be active until May 19. Kindly confirm your attendance by May 16. If you need any accommodation for the interview, please contact Human Resources by May 18.</p><p>Please note that the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week. After that, you will follow the hybrid schedule described in the job posting.</p><p>We look forward to speaking with you.</p><p>Sincerely,<br>Rachel Kim</p></div>",
+    "questionText": "What is indicated about Ms. Chen's first six weeks on the job?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) She will work remotely four days a week."
+      },
+      {
+        "key": "B",
+        "text": "(B) She will start on May 21."
+      },
+      {
+        "key": "C",
+        "text": "(C) She will report directly to Mr. Haddad."
+      },
+      {
+        "key": "D",
+        "text": "(D) She will be at the Columbus office every workday."
+      }
+    ],
+    "correct": "D",
+    "translation": "Có thông tin gì về sáu tuần đầu tiên làm việc của bà Chen? — Bà ấy sẽ có mặt tại văn phòng Columbus mỗi ngày làm việc.",
+    "explanation": "Đáp án D. E-mail ghi: “the first six weeks of the role are an on-site training period, during which you will work at the Columbus office five days a week”. A sai vì làm từ xa bốn ngày không phải lịch trong giai đoạn huấn luyện; sau đó bà mới làm hybrid ba ngày tại văn phòng, hai ngày từ xa. B sai vì 21/5 là ngày phỏng vấn, còn ngày bắt đầu theo tin tuyển dụng là 2/6. C sai vì ông Haddad chỉ là người phỏng vấn, không có thông tin ông là quản lý trực tiếp.",
+    "vocab": [
+      {
+        "word": "indicate",
+        "pos": "v.",
+        "meaning": "cho thấy, chỉ ra"
+      },
+      {
+        "word": "training period",
+        "pos": "n.",
+        "meaning": "giai đoạn huấn luyện"
+      },
+      {
+        "word": "workday",
+        "pos": "n.",
+        "meaning": "ngày làm việc"
+      },
+      {
+        "word": "report directly to",
+        "pos": "v. phr.",
+        "meaning": "báo cáo trực tiếp cho"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following e-mail, event summary, and reply e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>From:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>Date:</strong> May 8<br><strong>Subject:</strong> North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Alvarez,</p><p class=\"mt-2\">Thank you for selecting the Harborview Hotel for the North Coast Medical Association's Annual Symposium from June 12 to June 14. I am attaching the revised Event Summary and Room Block Schedule reflecting the adjustments we discussed yesterday.</p><p class=\"mt-2\">Please note that the Bayview Terrace is undergoing exterior renovation next month, so we have reassigned your Saturday evening banquet to an indoor venue as shown in the schedule. In addition, because construction crews will be working near the main lobby, symposium attendees arriving by car should use the East Entrance off Harbor Boulevard, which leads directly to the underground parking garage.</p><p class=\"mt-2\">To hold the room block and meeting spaces, please return the signed agreement along with the required deposit by the deadline listed on the schedule.</p><p class=\"mt-2\">Warm regards,<br>Sofia Reyes<br>Senior Event Coordinator, Harborview Hotel</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harborview Hotel — Event Summary &amp; Room Block Schedule</p><p class=\"text-xs mb-2\"><strong>Client:</strong> North Coast Medical Association (NCMA) &nbsp;|&nbsp; <strong>Event Dates:</strong> June 12–14</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Item / Space</th><th class=\"border border-neutral-800 p-2 text-left\">Reserved Dates &amp; Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rate / Details</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Guest Room Block</td><td class=\"border border-neutral-800 p-2\">120 Standard Rooms (June 12–14)</td><td class=\"border border-neutral-800 p-2\">$165/night (Includes breakfast at the Cove Restaurant)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Harbor Hall (Main Sessions)</td><td class=\"border border-neutral-800 p-2\">June 12–14 (Classroom seating for 300)</td><td class=\"border border-neutral-800 p-2\">Includes 2 wireless microphones &amp; ceiling projector</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Mariners Ballroom (Banquet)</td><td class=\"border border-neutral-800 p-2\">Saturday, June 14 (Up to 240 guests)</td><td class=\"border border-neutral-800 p-2\">Replaces Bayview Terrace; menu selection due June 5</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Airport Shuttle Service</td><td class=\"border border-neutral-800 p-2\">Daily, 6:00 a.m.–11:00 p.m. (Every 30 min)</td><td class=\"border border-neutral-800 p-2\">Complimentary for registered symposium guests</td></tr></tbody></table><p class=\"mt-2 text-xs\"><strong>Payment Terms:</strong> $5,000 deposit due by <strong>May 20</strong>; final guest count due by <strong>June 5</strong>.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>From:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>Date:</strong> May 9<br><strong>Subject:</strong> RE: North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Reyes,</p><p class=\"mt-2\">Thank you for sending the updated schedule so quickly. The Mariners Ballroom will work well for our Saturday dinner, and I will notify our members to enter through the East Entrance if they are driving to the hotel.</p><p class=\"mt-2\">Our treasurer has already approved the $5,000 deposit, and I will mail the signed agreement before May 20. I will also send you our final guest count and banquet menu choices by June 5.</p><p class=\"mt-2\">Sincerely,<br>Michelle Alvarez, Program Director</p></div>",
+    "questionText": "What is the main purpose of the e-mail?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To apologize for an error in a recent invoice"
+      },
+      {
+        "key": "B",
+        "text": "(B) To advertise a newly renovated ballroom"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request a deposit for a block of guest rooms"
+      },
+      {
+        "key": "D",
+        "text": "(D) To review event arrangements and provide important details"
+      }
+    ],
+    "correct": "D",
+    "translation": "Mục đích chính của e-mail là gì? — Rà soát các sắp xếp cho sự kiện và cung cấp những thông tin quan trọng.",
+    "explanation": "Đáp án D. E-mail tổng hợp nhiều thông tin cho hội nghị: lối vào, đặt phòng, phòng họp, tiệc, xe đưa đón và tiền đặt cọc. A sai vì không có lỗi hóa đơn hay lời xin lỗi. B sai vì việc sảnh đang được cải tạo chỉ là lý do đổi lối vào, không phải quảng cáo. C sai vì khoản đặt cọc 5.000 đô-la là để giữ phòng khiêu vũ, không phải cho khối phòng nghỉ; hơn nữa đây chỉ là một chi tiết trong thư.",
+    "vocab": [
+      {
+        "word": "refurbish",
+        "pos": "v.",
+        "meaning": "cải tạo, nâng cấp"
+      },
+      {
+        "word": "deposit",
+        "pos": "n.",
+        "meaning": "tiền đặt cọc"
+      },
+      {
+        "word": "arrangement",
+        "pos": "n.",
+        "meaning": "sự sắp xếp"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following e-mail, event summary, and reply e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>From:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>Date:</strong> May 8<br><strong>Subject:</strong> North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Alvarez,</p><p class=\"mt-2\">Thank you for selecting the Harborview Hotel for the North Coast Medical Association's Annual Symposium from June 12 to June 14. I am attaching the revised Event Summary and Room Block Schedule reflecting the adjustments we discussed yesterday.</p><p class=\"mt-2\">Please note that the Bayview Terrace is undergoing exterior renovation next month, so we have reassigned your Saturday evening banquet to an indoor venue as shown in the schedule. In addition, because construction crews will be working near the main lobby, symposium attendees arriving by car should use the East Entrance off Harbor Boulevard, which leads directly to the underground parking garage.</p><p class=\"mt-2\">To hold the room block and meeting spaces, please return the signed agreement along with the required deposit by the deadline listed on the schedule.</p><p class=\"mt-2\">Warm regards,<br>Sofia Reyes<br>Senior Event Coordinator, Harborview Hotel</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harborview Hotel — Event Summary &amp; Room Block Schedule</p><p class=\"text-xs mb-2\"><strong>Client:</strong> North Coast Medical Association (NCMA) &nbsp;|&nbsp; <strong>Event Dates:</strong> June 12–14</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Item / Space</th><th class=\"border border-neutral-800 p-2 text-left\">Reserved Dates &amp; Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rate / Details</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Guest Room Block</td><td class=\"border border-neutral-800 p-2\">120 Standard Rooms (June 12–14)</td><td class=\"border border-neutral-800 p-2\">$165/night (Includes breakfast at the Cove Restaurant)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Harbor Hall (Main Sessions)</td><td class=\"border border-neutral-800 p-2\">June 12–14 (Classroom seating for 300)</td><td class=\"border border-neutral-800 p-2\">Includes 2 wireless microphones &amp; ceiling projector</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Mariners Ballroom (Banquet)</td><td class=\"border border-neutral-800 p-2\">Saturday, June 14 (Up to 240 guests)</td><td class=\"border border-neutral-800 p-2\">Replaces Bayview Terrace; menu selection due June 5</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Airport Shuttle Service</td><td class=\"border border-neutral-800 p-2\">Daily, 6:00 a.m.–11:00 p.m. (Every 30 min)</td><td class=\"border border-neutral-800 p-2\">Complimentary for registered symposium guests</td></tr></tbody></table><p class=\"mt-2 text-xs\"><strong>Payment Terms:</strong> $5,000 deposit due by <strong>May 20</strong>; final guest count due by <strong>June 5</strong>.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>From:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>Date:</strong> May 9<br><strong>Subject:</strong> RE: North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Reyes,</p><p class=\"mt-2\">Thank you for sending the updated schedule so quickly. The Mariners Ballroom will work well for our Saturday dinner, and I will notify our members to enter through the East Entrance if they are driving to the hotel.</p><p class=\"mt-2\">Our treasurer has already approved the $5,000 deposit, and I will mail the signed agreement before May 20. I will also send you our final guest count and banquet menu choices by June 5.</p><p class=\"mt-2\">Sincerely,<br>Michelle Alvarez, Program Director</p></div>",
+    "questionText": "Where should symposium attendees enter the hotel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) At the East Entrance on Harbor Street"
+      },
+      {
+        "key": "B",
+        "text": "(B) Through the main lobby"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the Grand Ballroom loading dock"
+      },
+      {
+        "key": "D",
+        "text": "(D) At the parking garage on Harbor Street"
+      }
+    ],
+    "correct": "A",
+    "translation": "Người tham dự hội nghị nên vào khách sạn bằng lối nào? — Lối vào phía Đông trên đường Harbor.",
+    "explanation": "Đáp án A. E-mail nêu: “the main entrance will be closed. Please use the East Entrance on Harbor Street”. B sai vì sảnh chính đang cải tạo và lối vào chính đóng. C sai vì Grand Ballroom chỉ có bàn đăng ký ở tiền sảnh bên ngoài, không phải nơi vào khách sạn. D sai vì không có thông tin lối vào từ bãi đỗ xe.",
+    "vocab": [
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "meaning": "lối vào"
+      },
+      {
+        "word": "foyer",
+        "pos": "n.",
+        "meaning": "tiền sảnh"
+      },
+      {
+        "word": "registration desk",
+        "pos": "n.",
+        "meaning": "bàn đăng ký"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following e-mail, event summary, and reply e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>From:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>Date:</strong> May 8<br><strong>Subject:</strong> North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Alvarez,</p><p class=\"mt-2\">Thank you for selecting the Harborview Hotel for the North Coast Medical Association's Annual Symposium from June 12 to June 14. I am attaching the revised Event Summary and Room Block Schedule reflecting the adjustments we discussed yesterday.</p><p class=\"mt-2\">Please note that the Bayview Terrace is undergoing exterior renovation next month, so we have reassigned your Saturday evening banquet to an indoor venue as shown in the schedule. In addition, because construction crews will be working near the main lobby, symposium attendees arriving by car should use the East Entrance off Harbor Boulevard, which leads directly to the underground parking garage.</p><p class=\"mt-2\">To hold the room block and meeting spaces, please return the signed agreement along with the required deposit by the deadline listed on the schedule.</p><p class=\"mt-2\">Warm regards,<br>Sofia Reyes<br>Senior Event Coordinator, Harborview Hotel</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harborview Hotel — Event Summary &amp; Room Block Schedule</p><p class=\"text-xs mb-2\"><strong>Client:</strong> North Coast Medical Association (NCMA) &nbsp;|&nbsp; <strong>Event Dates:</strong> June 12–14</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Item / Space</th><th class=\"border border-neutral-800 p-2 text-left\">Reserved Dates &amp; Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rate / Details</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Guest Room Block</td><td class=\"border border-neutral-800 p-2\">120 Standard Rooms (June 12–14)</td><td class=\"border border-neutral-800 p-2\">$165/night (Includes breakfast at the Cove Restaurant)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Harbor Hall (Main Sessions)</td><td class=\"border border-neutral-800 p-2\">June 12–14 (Classroom seating for 300)</td><td class=\"border border-neutral-800 p-2\">Includes 2 wireless microphones &amp; ceiling projector</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Mariners Ballroom (Banquet)</td><td class=\"border border-neutral-800 p-2\">Saturday, June 14 (Up to 240 guests)</td><td class=\"border border-neutral-800 p-2\">Replaces Bayview Terrace; menu selection due June 5</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Airport Shuttle Service</td><td class=\"border border-neutral-800 p-2\">Daily, 6:00 a.m.–11:00 p.m. (Every 30 min)</td><td class=\"border border-neutral-800 p-2\">Complimentary for registered symposium guests</td></tr></tbody></table><p class=\"mt-2 text-xs\"><strong>Payment Terms:</strong> $5,000 deposit due by <strong>May 20</strong>; final guest count due by <strong>June 5</strong>.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>From:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>Date:</strong> May 9<br><strong>Subject:</strong> RE: North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Reyes,</p><p class=\"mt-2\">Thank you for sending the updated schedule so quickly. The Mariners Ballroom will work well for our Saturday dinner, and I will notify our members to enter through the East Entrance if they are driving to the hotel.</p><p class=\"mt-2\">Our treasurer has already approved the $5,000 deposit, and I will mail the signed agreement before May 20. I will also send you our final guest count and banquet menu choices by June 5.</p><p class=\"mt-2\">Sincerely,<br>Michelle Alvarez, Program Director</p></div>",
+    "questionText": "What is the deadline for providing the final banquet guest count?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) May 15"
+      },
+      {
+        "key": "B",
+        "text": "(B) May 20"
+      },
+      {
+        "key": "C",
+        "text": "(C) June 5"
+      },
+      {
+        "key": "D",
+        "text": "(D) June 14"
+      }
+    ],
+    "correct": "C",
+    "translation": "Hạn chót để cung cấp số lượng khách cuối cùng cho bữa tiệc là khi nào? — Ngày 5 tháng 6.",
+    "explanation": "Đáp án C. E-mail yêu cầu: “Please provide the final guest count by June 5”. A là ngày gửi e-mail, B là hạn đặt cọc 5.000 đô-la, D là ngày tổ chức tiệc. Cả ba mốc này đều không phải hạn cung cấp số lượng khách.",
+    "vocab": [
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "meaning": "hạn chót"
+      },
+      {
+        "word": "guest count",
+        "pos": "n.",
+        "meaning": "số lượng khách"
+      },
+      {
+        "word": "banquet",
+        "pos": "n.",
+        "meaning": "bữa tiệc lớn, yến tiệc"
+      },
+      {
+        "word": "accommodate",
+        "pos": "v.",
+        "meaning": "chứa được, tiếp nhận"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following e-mail, event summary, and reply e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>From:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>Date:</strong> May 8<br><strong>Subject:</strong> North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Alvarez,</p><p class=\"mt-2\">Thank you for selecting the Harborview Hotel for the North Coast Medical Association's Annual Symposium from June 12 to June 14. I am attaching the revised Event Summary and Room Block Schedule reflecting the adjustments we discussed yesterday.</p><p class=\"mt-2\">Please note that the Bayview Terrace is undergoing exterior renovation next month, so we have reassigned your Saturday evening banquet to an indoor venue as shown in the schedule. In addition, because construction crews will be working near the main lobby, symposium attendees arriving by car should use the East Entrance off Harbor Boulevard, which leads directly to the underground parking garage.</p><p class=\"mt-2\">To hold the room block and meeting spaces, please return the signed agreement along with the required deposit by the deadline listed on the schedule.</p><p class=\"mt-2\">Warm regards,<br>Sofia Reyes<br>Senior Event Coordinator, Harborview Hotel</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harborview Hotel — Event Summary &amp; Room Block Schedule</p><p class=\"text-xs mb-2\"><strong>Client:</strong> North Coast Medical Association (NCMA) &nbsp;|&nbsp; <strong>Event Dates:</strong> June 12–14</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Item / Space</th><th class=\"border border-neutral-800 p-2 text-left\">Reserved Dates &amp; Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rate / Details</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Guest Room Block</td><td class=\"border border-neutral-800 p-2\">120 Standard Rooms (June 12–14)</td><td class=\"border border-neutral-800 p-2\">$165/night (Includes breakfast at the Cove Restaurant)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Harbor Hall (Main Sessions)</td><td class=\"border border-neutral-800 p-2\">June 12–14 (Classroom seating for 300)</td><td class=\"border border-neutral-800 p-2\">Includes 2 wireless microphones &amp; ceiling projector</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Mariners Ballroom (Banquet)</td><td class=\"border border-neutral-800 p-2\">Saturday, June 14 (Up to 240 guests)</td><td class=\"border border-neutral-800 p-2\">Replaces Bayview Terrace; menu selection due June 5</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Airport Shuttle Service</td><td class=\"border border-neutral-800 p-2\">Daily, 6:00 a.m.–11:00 p.m. (Every 30 min)</td><td class=\"border border-neutral-800 p-2\">Complimentary for registered symposium guests</td></tr></tbody></table><p class=\"mt-2 text-xs\"><strong>Payment Terms:</strong> $5,000 deposit due by <strong>May 20</strong>; final guest count due by <strong>June 5</strong>.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>From:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>Date:</strong> May 9<br><strong>Subject:</strong> RE: North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Reyes,</p><p class=\"mt-2\">Thank you for sending the updated schedule so quickly. The Mariners Ballroom will work well for our Saturday dinner, and I will notify our members to enter through the East Entrance if they are driving to the hotel.</p><p class=\"mt-2\">Our treasurer has already approved the $5,000 deposit, and I will mail the signed agreement before May 20. I will also send you our final guest count and banquet menu choices by June 5.</p><p class=\"mt-2\">Sincerely,<br>Michelle Alvarez, Program Director</p></div>",
+    "questionText": "What is included in the group room rate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Airport shuttle service"
+      },
+      {
+        "key": "B",
+        "text": "(B) Breakfast at the Cove Restaurant"
+      },
+      {
+        "key": "C",
+        "text": "(C) Daily parking"
+      },
+      {
+        "key": "D",
+        "text": "(D) Access to Harbor Hall"
+      }
+    ],
+    "correct": "B",
+    "translation": "Giá phòng theo đoàn bao gồm những gì? — Bữa sáng tại nhà hàng Cove.",
+    "explanation": "Đáp án B. E-mail viết: “The rate includes breakfast in the Cove Restaurant and complimentary Wi-Fi”. A sai vì xe đưa đón sân bay miễn phí là dịch vụ riêng, không được nêu là phần của giá phòng. C sai vì khách phải trả 18 đô-la mỗi xe mỗi ngày cho bãi đỗ. D sai vì Harbor Hall là nơi tổ chức bài phát biểu, không phải tiện ích đi kèm giá phòng.",
+    "vocab": [
+      {
+        "word": "occupancy",
+        "pos": "n.",
+        "meaning": "số người sử dụng phòng"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "group rate",
+        "pos": "n.",
+        "meaning": "giá ưu đãi cho đoàn"
+      },
+      {
+        "word": "vehicle",
+        "pos": "n.",
+        "meaning": "xe cộ, phương tiện"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 186-190 refer to the following e-mail, event summary, and reply e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>From:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>Date:</strong> May 8<br><strong>Subject:</strong> North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Alvarez,</p><p class=\"mt-2\">Thank you for selecting the Harborview Hotel for the North Coast Medical Association's Annual Symposium from June 12 to June 14. I am attaching the revised Event Summary and Room Block Schedule reflecting the adjustments we discussed yesterday.</p><p class=\"mt-2\">Please note that the Bayview Terrace is undergoing exterior renovation next month, so we have reassigned your Saturday evening banquet to an indoor venue as shown in the schedule. In addition, because construction crews will be working near the main lobby, symposium attendees arriving by car should use the East Entrance off Harbor Boulevard, which leads directly to the underground parking garage.</p><p class=\"mt-2\">To hold the room block and meeting spaces, please return the signed agreement along with the required deposit by the deadline listed on the schedule.</p><p class=\"mt-2\">Warm regards,<br>Sofia Reyes<br>Senior Event Coordinator, Harborview Hotel</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Harborview Hotel — Event Summary &amp; Room Block Schedule</p><p class=\"text-xs mb-2\"><strong>Client:</strong> North Coast Medical Association (NCMA) &nbsp;|&nbsp; <strong>Event Dates:</strong> June 12–14</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Item / Space</th><th class=\"border border-neutral-800 p-2 text-left\">Reserved Dates &amp; Capacity</th><th class=\"border border-neutral-800 p-2 text-left\">Rate / Details</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Guest Room Block</td><td class=\"border border-neutral-800 p-2\">120 Standard Rooms (June 12–14)</td><td class=\"border border-neutral-800 p-2\">$165/night (Includes breakfast at the Cove Restaurant)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Harbor Hall (Main Sessions)</td><td class=\"border border-neutral-800 p-2\">June 12–14 (Classroom seating for 300)</td><td class=\"border border-neutral-800 p-2\">Includes 2 wireless microphones &amp; ceiling projector</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Mariners Ballroom (Banquet)</td><td class=\"border border-neutral-800 p-2\">Saturday, June 14 (Up to 240 guests)</td><td class=\"border border-neutral-800 p-2\">Replaces Bayview Terrace; menu selection due June 5</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Airport Shuttle Service</td><td class=\"border border-neutral-800 p-2\">Daily, 6:00 a.m.–11:00 p.m. (Every 30 min)</td><td class=\"border border-neutral-800 p-2\">Complimentary for registered symposium guests</td></tr></tbody></table><p class=\"mt-2 text-xs\"><strong>Payment Terms:</strong> $5,000 deposit due by <strong>May 20</strong>; final guest count due by <strong>June 5</strong>.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Sofia Reyes &lt;sreyes@harborviewhotel.com&gt;<br><strong>From:</strong> Michelle Alvarez &lt;malvarez@ncma.org&gt;<br><strong>Date:</strong> May 9<br><strong>Subject:</strong> RE: North Coast Medical Association — Annual Symposium</p><hr class=\"my-2 border-neutral-300\"><p>Dear Ms. Reyes,</p><p class=\"mt-2\">Thank you for sending the updated schedule so quickly. The Mariners Ballroom will work well for our Saturday dinner, and I will notify our members to enter through the East Entrance if they are driving to the hotel.</p><p class=\"mt-2\">Our treasurer has already approved the $5,000 deposit, and I will mail the signed agreement before May 20. I will also send you our final guest count and banquet menu choices by June 5.</p><p class=\"mt-2\">Sincerely,<br>Michelle Alvarez, Program Director</p></div>",
+    "questionText": "What should guests who arrive after 11:00 p.m. do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Wait for the next hotel shuttle"
+      },
+      {
+        "key": "B",
+        "text": "(B) Call the event services manager"
+      },
+      {
+        "key": "C",
+        "text": "(C) Enter through the East Entrance"
+      },
+      {
+        "key": "D",
+        "text": "(D) Take a taxi and keep the receipt"
+      }
+    ],
+    "correct": "D",
+    "translation": "Khách đến sau 11 giờ đêm nên làm gì? — Đi taxi và giữ lại hóa đơn.",
+    "explanation": "Đáp án D. E-mail hướng dẫn: “Guests arriving after 11:00 p.m. should take a taxi; the hotel will reimburse the fare when the receipt is presented at check-in”. A sai vì chuyến xe đưa đón cuối cùng là 11 giờ đêm. B không được nhắc đến. C là hướng dẫn chung cho mọi khách vì sảnh chính đóng, không phải biện pháp dành riêng cho khách đến muộn.",
+    "vocab": [
+      {
+        "word": "reimburse",
+        "pos": "v.",
+        "meaning": "hoàn lại tiền"
+      },
+      {
+        "word": "fare",
+        "pos": "n.",
+        "meaning": "tiền vé, tiền cước"
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "meaning": "hóa đơn, biên lai"
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following notice, specification table, and memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">CEDAR FALLS PACKAGING PLANT — NOTICE TO PRODUCTION STAFF</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, September 22, the Cedar Falls Plant will conduct a two-week trial run of the newly installed Automated Packaging Line 4. During the trial period, Line 4 will operate for one shift per day while our engineering team monitors output speed and carton-sealing quality.</p><p class=\"mt-2\">Operators currently assigned to Line 2 will rotate onto Line 4 in teams of six according to the schedule posted outside the supervisor's office. Please review the attached specification table and training memorandum for daily operating hours, production targets, and mandatory safety requirements.</p><p class=\"mt-2\">— Luis Ortega, Plant Manager</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Automated Packaging Line 4 — Trial Run Specifications (Sept. 22–Oct. 3)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Parameter</th><th class=\"border border-neutral-800 p-2 text-left\">Line 4 Trial Schedule / Target</th><th class=\"border border-neutral-800 p-2 text-left\">Comparison / Requirement</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Operating Shift</td><td class=\"border border-neutral-800 p-2\">7:00 a.m. – 3:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Single shift during 2-week trial</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Routine Maintenance &amp; Calibration</td><td class=\"border border-neutral-800 p-2\">3:00 p.m. – 4:00 p.m. daily</td><td class=\"border border-neutral-800 p-2\">Line shut down for engineering check</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Output Target</td><td class=\"border border-neutral-800 p-2\">12,000 units per shift</td><td class=\"border border-neutral-800 p-2\">25% higher than Line 2 capacity</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Quality Approval Standard</td><td class=\"border border-neutral-800 p-2\">Fewer than 15 defective cartons per 10,000 units</td><td class=\"border border-neutral-800 p-2\">Required to approve second shift in November</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Line 2 Packaging Operators<br><strong>From:</strong> Safety &amp; Training Office<br><strong>Date:</strong> September 15<br><strong>Subject:</strong> Mandatory Line 4 Orientation</p><hr class=\"my-2 border-neutral-300\"><p>All operators rotating onto Line 4 must complete a 90-minute training session in Training Room C on Friday, September 19, before their first shift on the new equipment.</p><p class=\"mt-2\">Because Line 4 uses high-pressure heat sealers, please bring your own safety glasses to both the training session and the production floor. Disposable hearing protection will be provided at the entrance to the packaging area. If you discover a mechanical issue during the trial, record it in the digital log at your workstation rather than using the paper forms.</p></div>",
+    "questionText": "What is the main purpose of the notice?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To explain why Line 2 will close permanently"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce a trial run of a new packaging line"
+      },
+      {
+        "key": "C",
+        "text": "(C) To introduce a new plant operations manager"
+      },
+      {
+        "key": "D",
+        "text": "(D) To remind staff about annual safety training"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mục đích chính của thông báo là gì? — Công bố việc chạy thử một dây chuyền đóng gói mới.",
+    "explanation": "Đáp án B. Tiêu đề và đoạn đầu cho biết Line 4 sẽ “operate in trial mode for three weeks” từ 22/9. A sai vì Line 2 chỉ tạm ngừng làm thêm giờ, không đóng cửa vĩnh viễn. C sai vì ông Ortega đã là quản lý vận hành, thông báo không giới thiệu người mới. D sai vì buổi huấn luyện là về dây chuyền 4 và chỉ kéo dài 90 phút, không phải huấn luyện an toàn thường niên.",
+    "vocab": [
+      {
+        "word": "trial run",
+        "pos": "n.",
+        "meaning": "việc chạy thử"
+      },
+      {
+        "word": "suspend",
+        "pos": "v.",
+        "meaning": "tạm dừng"
+      },
+      {
+        "word": "rotation",
+        "pos": "n.",
+        "meaning": "sự luân phiên"
+      },
+      {
+        "word": "quality standard",
+        "pos": "n.",
+        "meaning": "tiêu chuẩn chất lượng"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following notice, specification table, and memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">CEDAR FALLS PACKAGING PLANT — NOTICE TO PRODUCTION STAFF</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, September 22, the Cedar Falls Plant will conduct a two-week trial run of the newly installed Automated Packaging Line 4. During the trial period, Line 4 will operate for one shift per day while our engineering team monitors output speed and carton-sealing quality.</p><p class=\"mt-2\">Operators currently assigned to Line 2 will rotate onto Line 4 in teams of six according to the schedule posted outside the supervisor's office. Please review the attached specification table and training memorandum for daily operating hours, production targets, and mandatory safety requirements.</p><p class=\"mt-2\">— Luis Ortega, Plant Manager</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Automated Packaging Line 4 — Trial Run Specifications (Sept. 22–Oct. 3)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Parameter</th><th class=\"border border-neutral-800 p-2 text-left\">Line 4 Trial Schedule / Target</th><th class=\"border border-neutral-800 p-2 text-left\">Comparison / Requirement</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Operating Shift</td><td class=\"border border-neutral-800 p-2\">7:00 a.m. – 3:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Single shift during 2-week trial</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Routine Maintenance &amp; Calibration</td><td class=\"border border-neutral-800 p-2\">3:00 p.m. – 4:00 p.m. daily</td><td class=\"border border-neutral-800 p-2\">Line shut down for engineering check</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Output Target</td><td class=\"border border-neutral-800 p-2\">12,000 units per shift</td><td class=\"border border-neutral-800 p-2\">25% higher than Line 2 capacity</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Quality Approval Standard</td><td class=\"border border-neutral-800 p-2\">Fewer than 15 defective cartons per 10,000 units</td><td class=\"border border-neutral-800 p-2\">Required to approve second shift in November</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Line 2 Packaging Operators<br><strong>From:</strong> Safety &amp; Training Office<br><strong>Date:</strong> September 15<br><strong>Subject:</strong> Mandatory Line 4 Orientation</p><hr class=\"my-2 border-neutral-300\"><p>All operators rotating onto Line 4 must complete a 90-minute training session in Training Room C on Friday, September 19, before their first shift on the new equipment.</p><p class=\"mt-2\">Because Line 4 uses high-pressure heat sealers, please bring your own safety glasses to both the training session and the production floor. Disposable hearing protection will be provided at the entrance to the packaging area. If you discover a mechanical issue during the trial, record it in the digital log at your workstation rather than using the paper forms.</p></div>",
+    "questionText": "During the trial, what hours will Line 4 operate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) From 7:00 a.m. to 3:00 p.m."
+      },
+      {
+        "key": "B",
+        "text": "(B) From 7:00 a.m. to 4:00 p.m."
+      },
+      {
+        "key": "C",
+        "text": "(C) From 3:00 p.m. to 11:00 p.m."
+      },
+      {
+        "key": "D",
+        "text": "(D) From 6:00 a.m. to 2:00 p.m."
+      }
+    ],
+    "correct": "A",
+    "translation": "Trong thời gian chạy thử, dây chuyền 4 hoạt động từ mấy giờ đến mấy giờ? — Từ 7 giờ sáng đến 3 giờ chiều.",
+    "explanation": "Đáp án A. Thông báo ghi: “the line will run a single shift from 7:00 a.m. to 3:00 p.m., followed by maintenance from 3:00 to 4:00 p.m.”. B sai vì 3-4 giờ chiều là thời gian bảo trì, không phải sản xuất. C sai vì không có ca chiều. D sai vì đây không phải khung giờ được nêu.",
+    "vocab": [
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "meaning": "bảo trì"
+      },
+      {
+        "word": "operate",
+        "pos": "v.",
+        "meaning": "vận hành"
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "meaning": "phân công"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following notice, specification table, and memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">CEDAR FALLS PACKAGING PLANT — NOTICE TO PRODUCTION STAFF</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, September 22, the Cedar Falls Plant will conduct a two-week trial run of the newly installed Automated Packaging Line 4. During the trial period, Line 4 will operate for one shift per day while our engineering team monitors output speed and carton-sealing quality.</p><p class=\"mt-2\">Operators currently assigned to Line 2 will rotate onto Line 4 in teams of six according to the schedule posted outside the supervisor's office. Please review the attached specification table and training memorandum for daily operating hours, production targets, and mandatory safety requirements.</p><p class=\"mt-2\">— Luis Ortega, Plant Manager</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Automated Packaging Line 4 — Trial Run Specifications (Sept. 22–Oct. 3)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Parameter</th><th class=\"border border-neutral-800 p-2 text-left\">Line 4 Trial Schedule / Target</th><th class=\"border border-neutral-800 p-2 text-left\">Comparison / Requirement</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Operating Shift</td><td class=\"border border-neutral-800 p-2\">7:00 a.m. – 3:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Single shift during 2-week trial</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Routine Maintenance &amp; Calibration</td><td class=\"border border-neutral-800 p-2\">3:00 p.m. – 4:00 p.m. daily</td><td class=\"border border-neutral-800 p-2\">Line shut down for engineering check</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Output Target</td><td class=\"border border-neutral-800 p-2\">12,000 units per shift</td><td class=\"border border-neutral-800 p-2\">25% higher than Line 2 capacity</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Quality Approval Standard</td><td class=\"border border-neutral-800 p-2\">Fewer than 15 defective cartons per 10,000 units</td><td class=\"border border-neutral-800 p-2\">Required to approve second shift in November</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Line 2 Packaging Operators<br><strong>From:</strong> Safety &amp; Training Office<br><strong>Date:</strong> September 15<br><strong>Subject:</strong> Mandatory Line 4 Orientation</p><hr class=\"my-2 border-neutral-300\"><p>All operators rotating onto Line 4 must complete a 90-minute training session in Training Room C on Friday, September 19, before their first shift on the new equipment.</p><p class=\"mt-2\">Because Line 4 uses high-pressure heat sealers, please bring your own safety glasses to both the training session and the production floor. Disposable hearing protection will be provided at the entrance to the packaging area. If you discover a mechanical issue during the trial, record it in the digital log at your workstation rather than using the paper forms.</p></div>",
+    "questionText": "What are operators asked to bring to the training session?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Their rotation schedule"
+      },
+      {
+        "key": "B",
+        "text": "(B) Hearing protection"
+      },
+      {
+        "key": "C",
+        "text": "(C) A printed production target"
+      },
+      {
+        "key": "D",
+        "text": "(D) Safety glasses"
+      }
+    ],
+    "correct": "D",
+    "translation": "Người vận hành được yêu cầu mang gì đến buổi huấn luyện? — Kính bảo hộ.",
+    "explanation": "Đáp án D. Thông báo yêu cầu: “Please bring your safety glasses; hearing protection will be provided at the door”. A sai vì lịch luân phiên sẽ được dán vào thứ Sáu, không phải tài liệu phải mang theo. B sai vì thiết bị bảo vệ thính giác được phát tại cửa. C sai vì không có yêu cầu mang bản in mục tiêu sản xuất.",
+    "vocab": [
+      {
+        "word": "safety glasses",
+        "pos": "n.",
+        "meaning": "kính bảo hộ"
+      },
+      {
+        "word": "hearing protection",
+        "pos": "n.",
+        "meaning": "thiết bị bảo vệ thính giác"
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "buổi học, phiên họp"
+      },
+      {
+        "word": "provide",
+        "pos": "v.",
+        "meaning": "cung cấp"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following notice, specification table, and memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">CEDAR FALLS PACKAGING PLANT — NOTICE TO PRODUCTION STAFF</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, September 22, the Cedar Falls Plant will conduct a two-week trial run of the newly installed Automated Packaging Line 4. During the trial period, Line 4 will operate for one shift per day while our engineering team monitors output speed and carton-sealing quality.</p><p class=\"mt-2\">Operators currently assigned to Line 2 will rotate onto Line 4 in teams of six according to the schedule posted outside the supervisor's office. Please review the attached specification table and training memorandum for daily operating hours, production targets, and mandatory safety requirements.</p><p class=\"mt-2\">— Luis Ortega, Plant Manager</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Automated Packaging Line 4 — Trial Run Specifications (Sept. 22–Oct. 3)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Parameter</th><th class=\"border border-neutral-800 p-2 text-left\">Line 4 Trial Schedule / Target</th><th class=\"border border-neutral-800 p-2 text-left\">Comparison / Requirement</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Operating Shift</td><td class=\"border border-neutral-800 p-2\">7:00 a.m. – 3:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Single shift during 2-week trial</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Routine Maintenance &amp; Calibration</td><td class=\"border border-neutral-800 p-2\">3:00 p.m. – 4:00 p.m. daily</td><td class=\"border border-neutral-800 p-2\">Line shut down for engineering check</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Output Target</td><td class=\"border border-neutral-800 p-2\">12,000 units per shift</td><td class=\"border border-neutral-800 p-2\">25% higher than Line 2 capacity</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Quality Approval Standard</td><td class=\"border border-neutral-800 p-2\">Fewer than 15 defective cartons per 10,000 units</td><td class=\"border border-neutral-800 p-2\">Required to approve second shift in November</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Line 2 Packaging Operators<br><strong>From:</strong> Safety &amp; Training Office<br><strong>Date:</strong> September 15<br><strong>Subject:</strong> Mandatory Line 4 Orientation</p><hr class=\"my-2 border-neutral-300\"><p>All operators rotating onto Line 4 must complete a 90-minute training session in Training Room C on Friday, September 19, before their first shift on the new equipment.</p><p class=\"mt-2\">Because Line 4 uses high-pressure heat sealers, please bring your own safety glasses to both the training session and the production floor. Disposable hearing protection will be provided at the entrance to the packaging area. If you discover a mechanical issue during the trial, record it in the digital log at your workstation rather than using the paper forms.</p></div>",
+    "questionText": "Why is the production target for Line 4 lower than that for Line 2?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Fewer staff are assigned to Line 4."
+      },
+      {
+        "key": "B",
+        "text": "(B) Line 4 will run for only three weeks."
+      },
+      {
+        "key": "C",
+        "text": "(C) The new sensors take longer to verify packages."
+      },
+      {
+        "key": "D",
+        "text": "(D) The plant expects more defects during the trial."
+      }
+    ],
+    "correct": "C",
+    "translation": "Vì sao mục tiêu sản xuất của dây chuyền 4 thấp hơn dây chuyền 2? — Cảm biến mới cần nhiều thời gian hơn để kiểm tra từng gói hàng.",
+    "explanation": "Đáp án C. Thông báo giải thích: “because the new sensors on Line 4 require more time to verify each package”. A không được nêu; nhân viên được luân phiên theo cặp chứ không nói thiếu người. B chỉ là thời gian chạy thử, không phải lý do mục tiêu thấp hơn. D sai vì mục tiêu chất lượng là ít hơn 15 lỗi trên 10.000 sản phẩm, không phải dự kiến nhiều lỗi hơn.",
+    "vocab": [
+      {
+        "word": "sensor",
+        "pos": "n.",
+        "meaning": "cảm biến"
+      },
+      {
+        "word": "verify",
+        "pos": "v.",
+        "meaning": "kiểm tra, xác minh"
+      },
+      {
+        "word": "target",
+        "pos": "n.",
+        "meaning": "mục tiêu"
+      },
+      {
+        "word": "defect",
+        "pos": "n.",
+        "meaning": "lỗi sản phẩm"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 191-195 refer to the following notice, specification table, and memorandum:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider\">CEDAR FALLS PACKAGING PLANT — NOTICE TO PRODUCTION STAFF</p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, September 22, the Cedar Falls Plant will conduct a two-week trial run of the newly installed Automated Packaging Line 4. During the trial period, Line 4 will operate for one shift per day while our engineering team monitors output speed and carton-sealing quality.</p><p class=\"mt-2\">Operators currently assigned to Line 2 will rotate onto Line 4 in teams of six according to the schedule posted outside the supervisor's office. Please review the attached specification table and training memorandum for daily operating hours, production targets, and mandatory safety requirements.</p><p class=\"mt-2\">— Luis Ortega, Plant Manager</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Automated Packaging Line 4 — Trial Run Specifications (Sept. 22–Oct. 3)</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Parameter</th><th class=\"border border-neutral-800 p-2 text-left\">Line 4 Trial Schedule / Target</th><th class=\"border border-neutral-800 p-2 text-left\">Comparison / Requirement</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Operating Shift</td><td class=\"border border-neutral-800 p-2\">7:00 a.m. – 3:00 p.m.</td><td class=\"border border-neutral-800 p-2\">Single shift during 2-week trial</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Routine Maintenance &amp; Calibration</td><td class=\"border border-neutral-800 p-2\">3:00 p.m. – 4:00 p.m. daily</td><td class=\"border border-neutral-800 p-2\">Line shut down for engineering check</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Daily Output Target</td><td class=\"border border-neutral-800 p-2\">12,000 units per shift</td><td class=\"border border-neutral-800 p-2\">25% higher than Line 2 capacity</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Quality Approval Standard</td><td class=\"border border-neutral-800 p-2\">Fewer than 15 defective cartons per 10,000 units</td><td class=\"border border-neutral-800 p-2\">Required to approve second shift in November</td></tr></tbody></table></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> Line 2 Packaging Operators<br><strong>From:</strong> Safety &amp; Training Office<br><strong>Date:</strong> September 15<br><strong>Subject:</strong> Mandatory Line 4 Orientation</p><hr class=\"my-2 border-neutral-300\"><p>All operators rotating onto Line 4 must complete a 90-minute training session in Training Room C on Friday, September 19, before their first shift on the new equipment.</p><p class=\"mt-2\">Because Line 4 uses high-pressure heat sealers, please bring your own safety glasses to both the training session and the production floor. Disposable hearing protection will be provided at the entrance to the packaging area. If you discover a mechanical issue during the trial, record it in the digital log at your workstation rather than using the paper forms.</p></div>",
+    "questionText": "What must happen before Line 4 begins operating two shifts?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Line 2 overtime must be restored."
+      },
+      {
+        "key": "B",
+        "text": "(B) The line must meet a quality standard for three weeks."
+      },
+      {
+        "key": "C",
+        "text": "(C) A new technician must be hired."
+      },
+      {
+        "key": "D",
+        "text": "(D) All operators must complete a second training session."
+      }
+    ],
+    "correct": "B",
+    "translation": "Điều gì phải xảy ra trước khi dây chuyền 4 bắt đầu hoạt động hai ca? — Dây chuyền phải đạt tiêu chuẩn chất lượng trong ba tuần.",
+    "explanation": "Đáp án B. Thông báo nêu điều kiện: “If Line 4 meets our quality standard of fewer than 15 defects per 10,000 units for three consecutive weeks, it will move to two shifts in November”. A sai vì làm thêm giờ ở Line 2 bị tạm dừng trong thời gian chạy thử, không phải điều kiện để mở ca hai. C sai vì chỉ cần báo lỗi cho kỹ thuật viên đang trực, không cần tuyển người mới. D sai vì chỉ có một buổi huấn luyện 90 phút được yêu cầu.",
+    "vocab": [
+      {
+        "word": "consecutive",
+        "pos": "adj.",
+        "meaning": "liên tiếp"
+      },
+      {
+        "word": "restore",
+        "pos": "v.",
+        "meaning": "khôi phục"
+      },
+      {
+        "word": "overtime",
+        "pos": "n.",
+        "meaning": "giờ làm thêm"
+      },
+      {
+        "word": "standard",
+        "pos": "n.",
+        "meaning": "tiêu chuẩn"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following memorandum, move schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Marketing and Communications Staff<br><strong>From:</strong> Facilities Management Office<br><strong>Date:</strong> October 14<br><strong>Subject:</strong> Relocation to Riverside Tower</p><hr class=\"my-2 border-neutral-300\"><p>The Marketing and Communications Department will relocate from the Oak Street Annex to the sixth and seventh floors of Riverside Tower over the weekend of October 24–25. Packing crates and color-coded labels will be delivered to each workstation on Monday, October 20.</p><p class=\"mt-2\">Please review the attached Move Timeline &amp; Floor Directory carefully. Note that employees should pack only personal items and paper files into the crates; our IT support team will disconnect, transport, and reinstall all desktop computers, monitors, and docking stations.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Tower Relocation — Key Dates &amp; Directory</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date / Floor</th><th class=\"border border-neutral-800 p-2 text-left\">Activity / Assigned Teams</th><th class=\"border border-neutral-800 p-2 text-left\">Important Instructions</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (by 4:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">Clear desks &amp; seal packing crates</td><td class=\"border border-neutral-800 p-2\">Attach yellow labels (Floor 6) or blue labels (Floor 7)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Thu., Oct. 23 (from 5:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">IT Equipment Disconnection</td><td class=\"border border-neutral-800 p-2\">Leave computers &amp; monitors on desks</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 6</td><td class=\"border border-neutral-800 p-2\">Brand Strategy &amp; Media Relations</td><td class=\"border border-neutral-800 p-2\">Includes Conference Room 6B</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 7</td><td class=\"border border-neutral-800 p-2\">Graphic Design &amp; Digital Content</td><td class=\"border border-neutral-800 p-2\">Includes Studio &amp; Print Lab</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Parking Note: The underground garage at Riverside Tower will not open until November 1. Until then, staff may use the free shuttle running every 15 minutes from the Oak Street lot.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Marketing and Communications Staff<br><strong>From:</strong> Riverside Tower Security Desk<br><strong>Date:</strong> October 16<br><strong>Subject:</strong> New Building Access Badges &amp; Monday Welcome</p><hr class=\"my-2 border-neutral-300\"><p>Welcome to Riverside Tower! Your current Oak Street ID cards will not open the turnstiles at the new building. Please pick up your new electronic access badge at the main lobby security desk between October 20 and October 23 (8:00 a.m.–5:30 p.m.).</p><p class=\"mt-2\">On Monday, October 27, your department's first morning meeting in the new space will take place at 9:30 a.m. in Conference Room 6B.</p></div>",
+    "questionText": "What is the main purpose of the memo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To inform staff about a move and explain what they need to do"
+      },
+      {
+        "key": "B",
+        "text": "(B) To announce the opening of a new parking garage"
+      },
+      {
+        "key": "C",
+        "text": "(C) To request volunteers to help with packing"
+      },
+      {
+        "key": "D",
+        "text": "(D) To introduce new members of the facilities team"
+      }
+    ],
+    "correct": "A",
+    "translation": "Mục đích chính của memo là gì? — Thông báo cho nhân viên về việc chuyển văn phòng và giải thích những việc họ cần làm.",
+    "explanation": "Đáp án A. Memo thông báo phòng Marketing và Truyền thông chuyển đến Riverside Tower vào 24-25/10, sau đó hướng dẫn đóng gói, làm thẻ, đi lại và cơ sở vật chất. B sai vì gara chỉ mở ngày 1/11 và đây là thông tin phụ, không phải mục đích. C sai vì không kêu gọi tình nguyện viên; nhân viên tự đóng gói đồ cá nhân. D sai vì không giới thiệu thành viên mới của bộ phận cơ sở vật chất.",
+    "vocab": [
+      {
+        "word": "relocation",
+        "pos": "n.",
+        "meaning": "việc chuyển chỗ, di dời"
+      },
+      {
+        "word": "transition",
+        "pos": "n.",
+        "meaning": "quá trình chuyển đổi"
+      },
+      {
+        "word": "crate",
+        "pos": "n.",
+        "meaning": "thùng gỗ/thùng đựng đồ"
+      },
+      {
+        "word": "facilities",
+        "pos": "n.",
+        "meaning": "cơ sở vật chất"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following memorandum, move schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Marketing and Communications Staff<br><strong>From:</strong> Facilities Management Office<br><strong>Date:</strong> October 14<br><strong>Subject:</strong> Relocation to Riverside Tower</p><hr class=\"my-2 border-neutral-300\"><p>The Marketing and Communications Department will relocate from the Oak Street Annex to the sixth and seventh floors of Riverside Tower over the weekend of October 24–25. Packing crates and color-coded labels will be delivered to each workstation on Monday, October 20.</p><p class=\"mt-2\">Please review the attached Move Timeline &amp; Floor Directory carefully. Note that employees should pack only personal items and paper files into the crates; our IT support team will disconnect, transport, and reinstall all desktop computers, monitors, and docking stations.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Tower Relocation — Key Dates &amp; Directory</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date / Floor</th><th class=\"border border-neutral-800 p-2 text-left\">Activity / Assigned Teams</th><th class=\"border border-neutral-800 p-2 text-left\">Important Instructions</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (by 4:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">Clear desks &amp; seal packing crates</td><td class=\"border border-neutral-800 p-2\">Attach yellow labels (Floor 6) or blue labels (Floor 7)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Thu., Oct. 23 (from 5:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">IT Equipment Disconnection</td><td class=\"border border-neutral-800 p-2\">Leave computers &amp; monitors on desks</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 6</td><td class=\"border border-neutral-800 p-2\">Brand Strategy &amp; Media Relations</td><td class=\"border border-neutral-800 p-2\">Includes Conference Room 6B</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 7</td><td class=\"border border-neutral-800 p-2\">Graphic Design &amp; Digital Content</td><td class=\"border border-neutral-800 p-2\">Includes Studio &amp; Print Lab</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Parking Note: The underground garage at Riverside Tower will not open until November 1. Until then, staff may use the free shuttle running every 15 minutes from the Oak Street lot.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Marketing and Communications Staff<br><strong>From:</strong> Riverside Tower Security Desk<br><strong>Date:</strong> October 16<br><strong>Subject:</strong> New Building Access Badges &amp; Monday Welcome</p><hr class=\"my-2 border-neutral-300\"><p>Welcome to Riverside Tower! Your current Oak Street ID cards will not open the turnstiles at the new building. Please pick up your new electronic access badge at the main lobby security desk between October 20 and October 23 (8:00 a.m.–5:30 p.m.).</p><p class=\"mt-2\">On Monday, October 27, your department's first morning meeting in the new space will take place at 9:30 a.m. in Conference Room 6B.</p></div>",
+    "questionText": "What should staff do with their computers and monitors?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Pack them in the two crates"
+      },
+      {
+        "key": "B",
+        "text": "(B) Ask the movers to transport them"
+      },
+      {
+        "key": "C",
+        "text": "(C) Leave them for IT staff to move"
+      },
+      {
+        "key": "D",
+        "text": "(D) Take them home before October 22"
+      }
+    ],
+    "correct": "C",
+    "translation": "Nhân viên nên làm gì với máy tính và màn hình của họ? — Để nhân viên IT chuyển.",
+    "explanation": "Đáp án C. Memo căn dặn: “Do not pack computers, monitors, or telephones; IT staff will disconnect and move this equipment after 5:00 p.m. on October 23”. A sai vì không được đóng gói thiết bị vào thùng. B sai vì người chuyển nhà chỉ phụ trách đồ nội thất. D sai vì không có yêu cầu mang thiết bị về nhà.",
+    "vocab": [
+      {
+        "word": "disconnect",
+        "pos": "v.",
+        "meaning": "ngắt kết nối"
+      },
+      {
+        "word": "monitor",
+        "pos": "n.",
+        "meaning": "màn hình máy tính"
+      },
+      {
+        "word": "furniture",
+        "pos": "n.",
+        "meaning": "đồ nội thất"
+      },
+      {
+        "word": "pack",
+        "pos": "v.",
+        "meaning": "đóng gói, xếp đồ"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following memorandum, move schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Marketing and Communications Staff<br><strong>From:</strong> Facilities Management Office<br><strong>Date:</strong> October 14<br><strong>Subject:</strong> Relocation to Riverside Tower</p><hr class=\"my-2 border-neutral-300\"><p>The Marketing and Communications Department will relocate from the Oak Street Annex to the sixth and seventh floors of Riverside Tower over the weekend of October 24–25. Packing crates and color-coded labels will be delivered to each workstation on Monday, October 20.</p><p class=\"mt-2\">Please review the attached Move Timeline &amp; Floor Directory carefully. Note that employees should pack only personal items and paper files into the crates; our IT support team will disconnect, transport, and reinstall all desktop computers, monitors, and docking stations.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Tower Relocation — Key Dates &amp; Directory</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date / Floor</th><th class=\"border border-neutral-800 p-2 text-left\">Activity / Assigned Teams</th><th class=\"border border-neutral-800 p-2 text-left\">Important Instructions</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (by 4:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">Clear desks &amp; seal packing crates</td><td class=\"border border-neutral-800 p-2\">Attach yellow labels (Floor 6) or blue labels (Floor 7)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Thu., Oct. 23 (from 5:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">IT Equipment Disconnection</td><td class=\"border border-neutral-800 p-2\">Leave computers &amp; monitors on desks</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 6</td><td class=\"border border-neutral-800 p-2\">Brand Strategy &amp; Media Relations</td><td class=\"border border-neutral-800 p-2\">Includes Conference Room 6B</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 7</td><td class=\"border border-neutral-800 p-2\">Graphic Design &amp; Digital Content</td><td class=\"border border-neutral-800 p-2\">Includes Studio &amp; Print Lab</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Parking Note: The underground garage at Riverside Tower will not open until November 1. Until then, staff may use the free shuttle running every 15 minutes from the Oak Street lot.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Marketing and Communications Staff<br><strong>From:</strong> Riverside Tower Security Desk<br><strong>Date:</strong> October 16<br><strong>Subject:</strong> New Building Access Badges &amp; Monday Welcome</p><hr class=\"my-2 border-neutral-300\"><p>Welcome to Riverside Tower! Your current Oak Street ID cards will not open the turnstiles at the new building. Please pick up your new electronic access badge at the main lobby security desk between October 20 and October 23 (8:00 a.m.–5:30 p.m.).</p><p class=\"mt-2\">On Monday, October 27, your department's first morning meeting in the new space will take place at 9:30 a.m. in Conference Room 6B.</p></div>",
+    "questionText": "How can staff obtain a new building badge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By contacting the Facilities Office by October 23"
+      },
+      {
+        "key": "B",
+        "text": "(B) By having a photo taken at the security desk"
+      },
+      {
+        "key": "C",
+        "text": "(C) By downloading a form from the intranet"
+      },
+      {
+        "key": "D",
+        "text": "(D) By exchanging it at the Birch Building lobby"
+      }
+    ],
+    "correct": "B",
+    "translation": "Nhân viên có thể lấy thẻ tòa nhà mới bằng cách nào? — Chụp ảnh tại bàn bảo vệ.",
+    "explanation": "Đáp án B. Memo hướng dẫn: “Visit the security desk in the Riverside Tower lobby between October 20 and 23 ... to have your photo taken”. A sai vì không cần liên hệ Facilities Office. C sai vì intranet chỉ đăng sơ đồ chỗ ngồi, không có mẫu đăng ký thẻ. D sai vì thẻ mới được làm tại sảnh Riverside Tower, không phải đổi tại Birch Building.",
+    "vocab": [
+      {
+        "word": "badge",
+        "pos": "n.",
+        "meaning": "thẻ nhân viên, thẻ ra vào"
+      },
+      {
+        "word": "identification",
+        "pos": "n.",
+        "meaning": "giấy tờ tùy thân"
+      },
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "meaning": "sảnh chờ"
+      },
+      {
+        "word": "assignment",
+        "pos": "n.",
+        "meaning": "sự phân công"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following memorandum, move schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Marketing and Communications Staff<br><strong>From:</strong> Facilities Management Office<br><strong>Date:</strong> October 14<br><strong>Subject:</strong> Relocation to Riverside Tower</p><hr class=\"my-2 border-neutral-300\"><p>The Marketing and Communications Department will relocate from the Oak Street Annex to the sixth and seventh floors of Riverside Tower over the weekend of October 24–25. Packing crates and color-coded labels will be delivered to each workstation on Monday, October 20.</p><p class=\"mt-2\">Please review the attached Move Timeline &amp; Floor Directory carefully. Note that employees should pack only personal items and paper files into the crates; our IT support team will disconnect, transport, and reinstall all desktop computers, monitors, and docking stations.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Tower Relocation — Key Dates &amp; Directory</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date / Floor</th><th class=\"border border-neutral-800 p-2 text-left\">Activity / Assigned Teams</th><th class=\"border border-neutral-800 p-2 text-left\">Important Instructions</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (by 4:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">Clear desks &amp; seal packing crates</td><td class=\"border border-neutral-800 p-2\">Attach yellow labels (Floor 6) or blue labels (Floor 7)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Thu., Oct. 23 (from 5:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">IT Equipment Disconnection</td><td class=\"border border-neutral-800 p-2\">Leave computers &amp; monitors on desks</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 6</td><td class=\"border border-neutral-800 p-2\">Brand Strategy &amp; Media Relations</td><td class=\"border border-neutral-800 p-2\">Includes Conference Room 6B</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 7</td><td class=\"border border-neutral-800 p-2\">Graphic Design &amp; Digital Content</td><td class=\"border border-neutral-800 p-2\">Includes Studio &amp; Print Lab</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Parking Note: The underground garage at Riverside Tower will not open until November 1. Until then, staff may use the free shuttle running every 15 minutes from the Oak Street lot.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Marketing and Communications Staff<br><strong>From:</strong> Riverside Tower Security Desk<br><strong>Date:</strong> October 16<br><strong>Subject:</strong> New Building Access Badges &amp; Monday Welcome</p><hr class=\"my-2 border-neutral-300\"><p>Welcome to Riverside Tower! Your current Oak Street ID cards will not open the turnstiles at the new building. Please pick up your new electronic access badge at the main lobby security desk between October 20 and October 23 (8:00 a.m.–5:30 p.m.).</p><p class=\"mt-2\">On Monday, October 27, your department's first morning meeting in the new space will take place at 9:30 a.m. in Conference Room 6B.</p></div>",
+    "questionText": "How should staff travel to Riverside Tower before November 1?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By using the new parking garage"
+      },
+      {
+        "key": "B",
+        "text": "(B) By taking a company taxi"
+      },
+      {
+        "key": "C",
+        "text": "(C) By walking from the Birch Building"
+      },
+      {
+        "key": "D",
+        "text": "(D) By riding a shuttle from the Birch Building lot"
+      }
+    ],
+    "correct": "D",
+    "translation": "Nhân viên nên đi đến Riverside Tower bằng cách nào trước ngày 1 tháng 11? — Đi xe đưa đón từ bãi đỗ xe của tòa nhà Birch.",
+    "explanation": "Đáp án D. Memo cho biết gara Riverside Tower chưa mở đến 1/11 và “a shuttle will run from the Birch Building parking lot every 15 minutes”. A sai vì gara chưa hoạt động trước 1/11. B và C không được nhắc đến trong memo.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "garage",
+        "pos": "n.",
+        "meaning": "bãi đỗ xe, nhà để xe"
+      },
+      {
+        "word": "commute",
+        "pos": "v.",
+        "meaning": "đi lại (giữa nhà và nơi làm)"
+      },
+      {
+        "word": "interval",
+        "pos": "n.",
+        "meaning": "khoảng thời gian cách nhau"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "type": "reading",
+    "part": 7,
+    "partName": "Part 7: Đọc hiểu (Reading Comprehension)",
+    "passageTitle": "Questions 196-200 refer to the following memorandum, move schedule, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong><br><strong>To:</strong> All Marketing and Communications Staff<br><strong>From:</strong> Facilities Management Office<br><strong>Date:</strong> October 14<br><strong>Subject:</strong> Relocation to Riverside Tower</p><hr class=\"my-2 border-neutral-300\"><p>The Marketing and Communications Department will relocate from the Oak Street Annex to the sixth and seventh floors of Riverside Tower over the weekend of October 24–25. Packing crates and color-coded labels will be delivered to each workstation on Monday, October 20.</p><p class=\"mt-2\">Please review the attached Move Timeline &amp; Floor Directory carefully. Note that employees should pack only personal items and paper files into the crates; our IT support team will disconnect, transport, and reinstall all desktop computers, monitors, and docking stations.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Riverside Tower Relocation — Key Dates &amp; Directory</p><table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-800 p-2 text-left\">Date / Floor</th><th class=\"border border-neutral-800 p-2 text-left\">Activity / Assigned Teams</th><th class=\"border border-neutral-800 p-2 text-left\">Important Instructions</th></tr></thead><tbody><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Wed., Oct. 22 (by 4:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">Clear desks &amp; seal packing crates</td><td class=\"border border-neutral-800 p-2\">Attach yellow labels (Floor 6) or blue labels (Floor 7)</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Thu., Oct. 23 (from 5:00 p.m.)</td><td class=\"border border-neutral-800 p-2\">IT Equipment Disconnection</td><td class=\"border border-neutral-800 p-2\">Leave computers &amp; monitors on desks</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 6</td><td class=\"border border-neutral-800 p-2\">Brand Strategy &amp; Media Relations</td><td class=\"border border-neutral-800 p-2\">Includes Conference Room 6B</td></tr><tr><td class=\"border border-neutral-800 p-2 font-semibold\">Riverside Tower — Floor 7</td><td class=\"border border-neutral-800 p-2\">Graphic Design &amp; Digital Content</td><td class=\"border border-neutral-800 p-2\">Includes Studio &amp; Print Lab</td></tr></tbody></table><p class=\"mt-2 text-xs italic\">Parking Note: The underground garage at Riverside Tower will not open until November 1. Until then, staff may use the free shuttle running every 15 minutes from the Oak Street lot.</p></div><div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> Marketing and Communications Staff<br><strong>From:</strong> Riverside Tower Security Desk<br><strong>Date:</strong> October 16<br><strong>Subject:</strong> New Building Access Badges &amp; Monday Welcome</p><hr class=\"my-2 border-neutral-300\"><p>Welcome to Riverside Tower! Your current Oak Street ID cards will not open the turnstiles at the new building. Please pick up your new electronic access badge at the main lobby security desk between October 20 and October 23 (8:00 a.m.–5:30 p.m.).</p><p class=\"mt-2\">On Monday, October 27, your department's first morning meeting in the new space will take place at 9:30 a.m. in Conference Room 6B.</p></div>",
+    "questionText": "According to the memo, what should staff do by 4:00 p.m. on October 22?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Clear their desks"
+      },
+      {
+        "key": "B",
+        "text": "(B) Label their computers"
+      },
+      {
+        "key": "C",
+        "text": "(C) Return their old badges"
+      },
+      {
+        "key": "D",
+        "text": "(D) Attend a department meeting"
+      }
+    ],
+    "correct": "A",
+    "translation": "Theo memo, nhân viên phải làm gì trước 4 giờ chiều ngày 22 tháng 10? — Dọn sạch bàn làm việc.",
+    "explanation": "Đáp án A. Memo ghi: “Please clear your desk by 4:00 p.m. on October 22”. B sai vì nhãn ghi tên và số bàn được dán lên thùng đồ cá nhân, không phải lên máy tính; máy tính do IT chuyển. C sai vì không có yêu cầu trả thẻ cũ, chỉ cần mang giấy tờ tùy thân khi làm thẻ mới. D sai vì cuộc họp bộ phận diễn ra ngày 27/10 lúc 9 giờ 30.",
+    "vocab": [
+      {
+        "word": "clear",
+        "pos": "v.",
+        "meaning": "dọn sạch, thu dọn"
+      },
+      {
+        "word": "label",
+        "pos": "v.",
+        "meaning": "dán nhãn"
+      },
+      {
+        "word": "assignment",
+        "pos": "n.",
+        "meaning": "sự phân công"
+      },
+      {
+        "word": "department",
+        "pos": "n.",
+        "meaning": "bộ phận, phòng ban"
+      }
+    ]
+  }
+]

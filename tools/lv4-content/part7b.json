@@ -1,0 +1,782 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following e-mail and invoice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: E-MAIL</p><p class=\"mt-2\">To: Marisol Vega, Facilities Manager<br>From: Devon Achterberg, Brightline Office Supply<br>Date: March 4<br>Subject: Your February order</p><p class=\"mt-2\">Ms. Vega,</p><p class=\"mt-2\">Thank you for ordering 24 ergonomic desk chairs (Model E-410) from our winter catalog. The chairs left our warehouse on February 26 and should reach your receiving area within five business days.</p><p class=\"mt-2\">I noticed that the invoice we issued lists our standard unit price of $189. Your order qualified for the volume discount advertised in the catalog, which brings the price down to $164 per chair. Our billing team has already sent a corrected invoice, so please disregard the earlier copy.</p><p class=\"mt-2\">For your records, the catalog reference is page 14, item C-2288. The same model is in stock if you decide to order additional chairs before the end of the quarter.</p><p class=\"mt-2\">One more thing: if your building cannot accept deliveries before 8:00 A.M., let me know and I will ask the carrier to adjust the drop-off window.</p><p class=\"mt-2\">Devon Achterberg</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: INVOICE</p><p class=\"mt-2\">Brightline Office Supply<br>Invoice No. 20-4471 (revised)<br>Bill to: Cordell Analytics, 1400 Halstead Avenue<br>Order date: February 22 &nbsp;|&nbsp; Ship date: February 26</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"text-left py-1\">Item</th><th class=\"text-right py-1\">Qty</th><th class=\"text-right py-1\">Unit price</th><th class=\"text-right py-1\">Amount</th></tr><tr><td class=\"py-1\">E-410 desk chair</td><td class=\"text-right\">24</td><td class=\"text-right\">$164.00</td><td class=\"text-right\">$3,936.00</td></tr><tr><td class=\"py-1\">Inside delivery</td><td class=\"text-right\">1</td><td class=\"text-right\">$85.00</td><td class=\"text-right\">$85.00</td></tr><tr class=\"border-t border-neutral-300\"><td class=\"py-1 font-bold\">Total due</td><td></td><td></td><td class=\"text-right font-bold\">$4,021.00</td></tr></table><p class=\"mt-2\">Payment due: March 30</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "Why did Mr. Achterberg send this e-mail?",
+        "options": [
+          "To confirm that an order has been canceled",
+          "To explain why an invoice was corrected",
+          "To request a change of shipping address",
+          "To announce a seasonal price increase"
+        ],
+        "answer": "B",
+        "translation": "Thư giải thích lý do hóa đơn được chỉnh sửa: đơn hàng được hưởng chiết khấu số lượng nên giá mỗi ghế giảm còn 164 đô-la, và bộ phận thanh toán đã gửi bản mới.",
+        "explanation": "Thư nêu rõ rằng đơn hàng được hưởng chiết khấu số lượng nên giá mỗi ghế giảm còn 164 đô-la và hóa đơn đã được phát hành lại, tức mục đích là giải thích việc sửa hóa đơn chứ không phải hủy đơn, đổi địa chỉ hay tăng giá.",
+        "vocab": [
+          [
+            "volume discount",
+            "n",
+            "chiết khấu theo số lượng"
+          ],
+          [
+            "issued",
+            "v",
+            "đã phát hành"
+          ],
+          [
+            "carrier",
+            "n",
+            "đơn vị vận chuyển"
+          ]
+        ]
+      },
+      {
+        "n": 177,
+        "q": "How much would the chairs have cost at the standard unit price?",
+        "options": [
+          "$3,936.00",
+          "$4,021.00",
+          "$4,536.00",
+          "$4,621.00"
+        ],
+        "answer": "C",
+        "translation": "Giá tiêu chuẩn là 189 đô-la một chiếc; với 24 chiếc, tổng theo giá tiêu chuẩn là 4.536 đô-la.",
+        "explanation": "Phải đọc cả hai tài liệu: thư cho biết giá tiêu chuẩn là 189 đô-la một chiếc, hóa đơn cho biết đơn hàng gồm 24 chiếc, nên 189 × 24 = 4.536 đô-la. Các mức còn lại là thành tiền theo giá chiết khấu (3.936), tổng phải trả sau chiết khấu cộng phí giao hàng (4.021) và giá tiêu chuẩn cộng phí giao hàng (4.621).",
+        "vocab": [
+          [
+            "total due",
+            "n",
+            "tổng tiền phải trả"
+          ],
+          [
+            "inside delivery",
+            "n",
+            "giao hàng vào tận nơi"
+          ],
+          [
+            "unit price",
+            "n",
+            "đơn giá"
+          ]
+        ]
+      },
+      {
+        "n": 178,
+        "q": "What can be inferred about the first invoice Ms. Vega received?",
+        "options": [
+          "It listed a higher unit price than the revised one does.",
+          "It was sent out after the chairs had been delivered.",
+          "It included a charge for a second delivery.",
+          "It did not show the order date."
+        ],
+        "answer": "A",
+        "translation": "Hóa đơn đầu tiên mà cô Vega nhận được liệt kê mức đơn giá cao hơn so với hóa đơn đã chỉnh sửa.",
+        "explanation": "Thư cho biết hóa đơn ban đầu tính theo giá tiêu chuẩn 189 đô-la và chỉ bản đã sửa mới áp giá 164 đô-la, nên bản đầu chắc chắn cao hơn. Không có thông tin nào về việc gửi sau khi giao hàng, phí giao lần hai hay thiếu ngày đặt hàng.",
+        "vocab": [
+          [
+            "revised",
+            "adj",
+            "đã được sửa đổi"
+          ],
+          [
+            "standard",
+            "adj",
+            "tiêu chuẩn"
+          ],
+          [
+            "qualified for",
+            "phr",
+            "đủ điều kiện để hưởng"
+          ]
+        ]
+      },
+      {
+        "n": 179,
+        "q": "The e-mail mentions a standard unit price of $189. How much is charged for each chair on the revised invoice?",
+        "options": [
+          "$85.00",
+          "$164.00",
+          "$189.00",
+          "$3,936.00"
+        ],
+        "answer": "B",
+        "translation": "Hóa đơn đã chỉnh sửa tính 164,00 đô-la cho mỗi chiếc ghế.",
+        "explanation": "Phải đối chiếu hai tài liệu: thư giải thích giá tiêu chuẩn 189 đô-la được thay bằng giá chiết khấu 164 đô-la, và cột đơn giá trong hóa đơn đã sửa đúng là $164.00; 3.936 đô-la là thành tiền của cả lô chứ không phải đơn giá.",
+        "vocab": [
+          [
+            "disregard",
+            "v",
+            "bỏ qua"
+          ],
+          [
+            "bring down",
+            "phr",
+            "hạ xuống"
+          ],
+          [
+            "per chair",
+            "phr",
+            "mỗi chiếc ghế"
+          ]
+        ]
+      },
+      {
+        "n": 180,
+        "q": "In the e-mail, the word \"disregard\" is closest in meaning to",
+        "options": [
+          "ignore",
+          "return",
+          "review",
+          "record"
+        ],
+        "answer": "A",
+        "translation": "Xin hãy bỏ qua bản trước đó — tức là không cần dùng đến bản hóa đơn cũ nữa.",
+        "explanation": "Vì hóa đơn đã được sửa và gửi lại, người viết muốn khách không dùng bản cũ, nên \"disregard\" mang nghĩa bỏ qua, không phải trả lại, xem lại hay ghi chép lại.",
+        "vocab": [
+          [
+            "earlier copy",
+            "n",
+            "bản trước đó"
+          ],
+          [
+            "billing team",
+            "n",
+            "bộ phận thanh toán"
+          ],
+          [
+            "drop-off window",
+            "n",
+            "khung giờ giao hàng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and text message:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: ADVERTISEMENT</p><p class=\"mt-2\">HARBORLINE CYCLING STUDIO — SPRING OPEN HOUSE<br>Saturday, April 12 &nbsp;|&nbsp; 9:00 A.M. – 2:00 P.M.</p><p class=\"mt-2\">Free trial classes start every half hour, from 9:30 A.M. to 1:30 P.M. No reservation is needed: simply arrive ten minutes early with comfortable shoes.</p><p class=\"mt-2\">Sign up for an annual membership before April 30 and receive 20 percent off the regular fee. Bring a friend — if you both enroll, each of you also receives a free water bottle.</p><p class=\"mt-2\">The studio is on the second floor of the Fenwick Building. Secure bicycle parking is available in the rear lot.</p><p class=\"mt-2\">Please note: our locker rooms are being renovated until May, so showers will not be available on the day of the event.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: TEXT MESSAGE</p><p class=\"mt-2\">Priya: Did you see the Harborline ad? I would like to try the 10:30 class on Saturday.<br>Dana: I cannot be there that early. I am covering a shift at the store until noon.<br>Priya: Then let us aim for the last trial class of the day.<br>Dana: The one at 1:30? That works for me.<br>Priya: We should ride our bikes over.<br>Dana: Fine, but we will not be able to shower there afterward, so I will stop home first.<br>Priya: And if we both sign up this month, the annual fee is twenty percent off, right?<br>Dana: That is how I read the ad. I will bring my card.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "What does the advertisement announce?",
+        "options": [
+          "To announce an open house at a fitness studio",
+          "To recruit part-time instructors",
+          "To advertise a sale on used bicycles",
+          "To describe office space for rent"
+        ],
+        "answer": "A",
+        "translation": "Harborline Cycling Studio tổ chức ngày hội mở cửa mùa xuân với các lớp học thử miễn phí và ưu đãi khi đăng ký hội viên năm.",
+        "explanation": "Toàn bộ tờ quảng cáo xoay quanh sự kiện ngày 12 tháng 4 với lớp học thử miễn phí và ưu đãi hội viên, không hề tuyển giáo viên, bán xe đạp hay cho thuê văn phòng.",
+        "vocab": [
+          [
+            "open house",
+            "n",
+            "buổi mở cửa cho khách tham quan"
+          ],
+          [
+            "enroll",
+            "v",
+            "ghi danh, đăng ký"
+          ],
+          [
+            "annual membership",
+            "n",
+            "thẻ hội viên năm"
+          ]
+        ]
+      },
+      {
+        "n": 182,
+        "q": "At which time will Priya and Dana most likely attend a trial class?",
+        "options": [
+          "9:30 A.M.",
+          "10:30 A.M.",
+          "12:00 P.M.",
+          "1:30 P.M."
+        ],
+        "answer": "D",
+        "translation": "Priya: Vậy mình nhắm tới lớp học thử cuối cùng trong ngày nhé. Dana: Lớp 1 giờ 30 phút ấy à? Được đấy.",
+        "explanation": "Phải đối chiếu hai tài liệu: quảng cáo cho biết các lớp học thử chạy từ 9:30 đến 13:30, còn tin nhắn cho thấy Dana bận đến 12 giờ và cả hai thống nhất chọn lớp cuối cùng trong ngày, tức 1:30 P.M.",
+        "vocab": [
+          [
+            "trial",
+            "adj",
+            "dùng thử"
+          ],
+          [
+            "shift",
+            "n",
+            "ca làm việc"
+          ],
+          [
+            "aim for",
+            "phr",
+            "nhắm tới"
+          ]
+        ]
+      },
+      {
+        "n": 183,
+        "q": "What is indicated about the locker rooms?",
+        "options": [
+          "They are being converted into bicycle storage.",
+          "They are under renovation, so showers will not be available.",
+          "They are open only to annual members.",
+          "They are located in the rear parking lot."
+        ],
+        "answer": "B",
+        "translation": "Xin lưu ý: phòng thay đồ của chúng tôi đang được cải tạo đến tháng Năm, nên sẽ không có vòi tắm vào ngày diễn ra sự kiện.",
+        "explanation": "Quảng cáo ghi rõ phòng thay đồ đang được cải tạo đến tháng Năm và không có vòi tắm trong ngày hội; không có thông tin về việc chuyển thành chỗ để xe, giới hạn cho hội viên năm hay nằm ở bãi đỗ phía sau.",
+        "vocab": [
+          [
+            "locker room",
+            "n",
+            "phòng thay đồ"
+          ],
+          [
+            "renovated",
+            "v",
+            "đang được cải tạo (bị động)"
+          ],
+          [
+            "available",
+            "adj",
+            "có sẵn, dùng được"
+          ]
+        ]
+      },
+      {
+        "n": 184,
+        "q": "What is suggested about Dana?",
+        "options": [
+          "She works at a store on Saturday mornings.",
+          "She has already paid for an annual membership.",
+          "She does not own a bicycle.",
+          "She teaches the 10:30 class."
+        ],
+        "answer": "A",
+        "translation": "Dana: Mình không thể tới sớm thế được. Mình phải trực ca ở cửa hàng đến trưa.",
+        "explanation": "Lời nhắn cho biết cô ấy phải trực ca ở cửa hàng đến 12 giờ thứ Bảy, ngụ ý cô ấy đi làm buổi sáng hôm đó. Cô ấy vẫn chưa đăng ký hội viên, có xe đạp để đi, và không phải người dạy lớp.",
+        "vocab": [
+          [
+            "cover a shift",
+            "phr",
+            "trực ca"
+          ],
+          [
+            "regular fee",
+            "n",
+            "mức phí thông thường"
+          ],
+          [
+            "membership",
+            "n",
+            "tư cách hội viên"
+          ]
+        ]
+      },
+      {
+        "n": 185,
+        "q": "In the advertisement, the word \"secure\" is closest in meaning to",
+        "options": [
+          "protected",
+          "narrow",
+          "inexpensive",
+          "crowded"
+        ],
+        "answer": "A",
+        "translation": "Bãi đỗ xe đạp an toàn (được bảo vệ) nằm ở khu vực phía sau tòa nhà.",
+        "explanation": "Trong cụm \"secure bicycle parking\", từ này ca ngợi chỗ để xe được bảo vệ an toàn, không liên quan đến độ hẹp, giá rẻ hay sự đông đúc.",
+        "vocab": [
+          [
+            "secure",
+            "adj",
+            "an toàn, được bảo vệ"
+          ],
+          [
+            "rear lot",
+            "n",
+            "bãi đỗ phía sau"
+          ],
+          [
+            "water bottle",
+            "n",
+            "bình nước"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following schedule, e-mail, and reply:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: CONFERENCE SCHEDULE</p><p class=\"mt-2\">Meridian Marketing Summit — Thursday, May 8</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"text-left py-1\">Time</th><th class=\"text-left py-1\">Session</th><th class=\"text-left py-1\">Location</th></tr><tr><td class=\"py-1\">9:00 – 10:00</td><td>Keynote: Retail in 2028 (R. Okafor)</td><td>Grand Hall</td></tr><tr><td class=\"py-1\">10:15 – 11:15</td><td>Breakout A: Measuring Social Return (L. Brennan)</td><td>Room 2A</td></tr><tr><td class=\"py-1\">10:15 – 11:15</td><td>Breakout B: Copywriting for Small Teams (T. Iwasaki)</td><td>Room 2B</td></tr><tr><td class=\"py-1\">11:30 – 12:30</td><td>Panel: Keeping Clients for the Long Term (S. Duval)</td><td>Grand Hall</td></tr><tr><td class=\"py-1\">12:30 – 1:45</td><td>Lunch</td><td>Terrace Room</td></tr><tr><td class=\"py-1\">2:00 – 3:00</td><td>Workshop: Building an Analytics Dashboard — limited to 30 seats</td><td>Room 3C</td></tr></table><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: E-MAIL</p><p class=\"mt-2\">To: registration@meridiansummit.org<br>From: Halina Brecht<br>Date: May 2<br>Subject: Workshop seating</p><p class=\"mt-2\">I have registered for the full day on May 8 and I am especially interested in the analytics workshop. The schedule says the room holds only thirty people. Can I reserve a place now, or must I sign up when I arrive?</p><p class=\"mt-2\">Also, my flight lands at 10:20 that morning, so I expect to reach the venue around 11:00. Will that leave me enough time for the panel discussion?</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: REPLY</p><p class=\"mt-2\">To: Halina Brecht<br>From: registration@meridiansummit.org<br>Date: May 3<br>Subject: Re: Workshop seating</p><p class=\"mt-2\">Ms. Brecht,</p><p class=\"mt-2\">You can hold a workshop seat today at no charge — simply reply to this message with the confirmation number from your registration. A seat will be kept for you until ten minutes before the workshop begins.</p><p class=\"mt-2\">As for the panel, it runs from 11:30 to 12:30 in the Grand Hall, so arriving at 11:00 is fine. Please collect your badge at the registration desk first; the Grand Hall doors close five minutes before each session.</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What is the purpose of Ms. Brecht's e-mail?",
+        "options": [
+          "To ask how to reserve a seat and whether her arrival time is workable",
+          "To cancel her registration for the summit",
+          "To complain that a session was moved to a smaller room",
+          "To apply for a position as a speaker"
+        ],
+        "answer": "A",
+        "translation": "Tôi có thể đặt chỗ trước hay phải đăng ký khi đến? Và liệu đến nơi khoảng 11 giờ thì có kịp dự phiên toạ đàm không?",
+        "explanation": "Thư đặt hai câu hỏi: cách giữ chỗ cho hội thảo nhỏ và liệu giờ đến dự kiến có kịp phiên toạ đàm hay không; không có nội dung hủy đăng ký, phàn nàn hay xin làm diễn giả.",
+        "vocab": [
+          [
+            "reserve",
+            "v",
+            "giữ chỗ, đặt trước"
+          ],
+          [
+            "venue",
+            "n",
+            "địa điểm tổ chức"
+          ],
+          [
+            "sign up",
+            "phr",
+            "đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 187,
+        "q": "Which part of the program will Ms. Brecht most likely miss?",
+        "options": [
+          "The keynote address",
+          "The panel discussion",
+          "The lunch break",
+          "The analytics workshop"
+        ],
+        "answer": "A",
+        "translation": "Chuyến bay của tôi hạ cánh lúc 10 giờ 20 và tôi dự kiến đến địa điểm khoảng 11 giờ.",
+        "explanation": "Bài phát biểu chính diễn ra 9:00–10:00, trong khi cô Brecht hạ cánh lúc 10:20 và chỉ tới nơi khoảng 11:00, nên phần này bị lỡ trọn. Phiên toạ đàm 11:30–12:30, bữa trưa 12:30–1:45 và hội thảo 2:00–3:00 đều còn kịp.",
+        "vocab": [
+          [
+            "keynote",
+            "n",
+            "bài phát biểu chính"
+          ],
+          [
+            "breakout",
+            "n",
+            "phiên thảo luận nhóm nhỏ"
+          ],
+          [
+            "panel",
+            "n",
+            "phiên toạ đàm"
+          ]
+        ]
+      },
+      {
+        "n": 188,
+        "q": "According to the reply, how can Ms. Brecht secure a place in the workshop?",
+        "options": [
+          "By paying a small fee at the registration desk",
+          "By replying with the confirmation number from her registration",
+          "By arriving ten minutes before the workshop starts",
+          "By contacting the workshop presenter directly"
+        ],
+        "answer": "B",
+        "translation": "Cô có thể giữ một chỗ tại hội thảo ngay hôm nay mà không mất phí — chỉ cần trả lời thư này kèm mã xác nhận trong đăng ký của cô.",
+        "explanation": "Thư trả lời hướng dẫn: chỉ cần trả lời kèm mã xác nhận trong đăng ký, miễn phí, và chỗ được giữ đến mười phút trước giờ bắt đầu. Không cần trả phí tại bàn đăng ký, không cần đến sớm mười phút và không phải liên hệ diễn giả.",
+        "vocab": [
+          [
+            "confirmation number",
+            "n",
+            "mã xác nhận"
+          ],
+          [
+            "at no charge",
+            "phr",
+            "miễn phí"
+          ],
+          [
+            "registration desk",
+            "n",
+            "bàn đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 189,
+        "q": "All of the following are stated in the schedule EXCEPT:",
+        "options": [
+          "The keynote takes place in the Grand Hall.",
+          "Breakout B is led by T. Iwasaki.",
+          "Lunch is served in the Terrace Room.",
+          "The analytics workshop has unlimited seating."
+        ],
+        "answer": "D",
+        "translation": "Hội thảo: Xây dựng bảng điều khiển phân tích — giới hạn 30 chỗ, phòng 3C.",
+        "explanation": "Lịch ghi rõ hội thảo phân tích chỉ có 30 chỗ, nên ý \"không giới hạn số chỗ\" là sai; ba ý còn lại đều xuất hiện đúng trong bảng chương trình.",
+        "vocab": [
+          [
+            "limited to",
+            "phr",
+            "được giới hạn ở"
+          ],
+          [
+            "session",
+            "n",
+            "phiên họp"
+          ],
+          [
+            "holds",
+            "v",
+            "chứa được (số người)"
+          ]
+        ]
+      },
+      {
+        "n": 190,
+        "q": "In the reply, the word \"hold\" is closest in meaning to",
+        "options": [
+          "reserve",
+          "carry",
+          "stop",
+          "contain"
+        ],
+        "answer": "A",
+        "translation": "Cô có thể giữ (đặt trước) một chỗ tại hội thảo ngay hôm nay mà không mất phí.",
+        "explanation": "Trong ngữ cảnh đăng ký chỗ ngồi, \"hold a seat\" nghĩa là giữ chỗ cho khách, không phải mang vác, dừng lại hay chứa đựng.",
+        "vocab": [
+          [
+            "hold",
+            "v",
+            "giữ (chỗ)"
+          ],
+          [
+            "badge",
+            "n",
+            "thẻ tên"
+          ],
+          [
+            "doors close",
+            "phr",
+            "cửa đóng"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following price list, registration form, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: PRICE LIST</p><p class=\"mt-2\">Northgate Community Center — Summer Programs</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"text-left py-1\">Program or service</th><th class=\"text-right py-1\">Fee</th></tr><tr><td class=\"py-1\">Adult swim pass (10 visits)</td><td class=\"text-right\">$75</td></tr><tr><td class=\"py-1\">Senior swim pass (10 visits)</td><td class=\"text-right\">$55</td></tr><tr><td class=\"py-1\">Aqua fitness class (8 sessions)</td><td class=\"text-right\">$96</td></tr><tr><td class=\"py-1\">Personal training (one hour)</td><td class=\"text-right\">$60</td></tr><tr><td class=\"py-1\">Locker rental (3 months)</td><td class=\"text-right\">$40</td></tr></table><p class=\"mt-2\">Residents of the Northgate district pay the fees above. Non-residents pay a 15 percent surcharge on every program and service.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: REGISTRATION FORM</p><p class=\"mt-2\">Name: Evelyn S. Marchetti<br>Address: 58 Delft Harbor Road (outside the Northgate district)<br>Programs selected: Aqua fitness class (8 sessions); Locker rental (3 months)<br>Preferred start date: June 3<br>Payment: credit card</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: E-MAIL</p><p class=\"mt-2\">To: Evelyn S. Marchetti<br>From: Northgate Community Center<br>Date: May 16<br>Subject: Your summer registration</p><p class=\"mt-2\">Ms. Marchetti,</p><p class=\"mt-2\">Your form has arrived, and two points need your attention. Because your address is outside the Northgate district, the non-resident surcharge applies to both items you selected.</p><p class=\"mt-2\">Also, the aqua fitness class on your form meets on Tuesdays and Thursdays at 7:00 A.M. The summer flyer we printed last month gave 7:00 P.M. for the Tuesday–Thursday class, which was a misprint. If the early hour does not suit you, we can move you to the Monday and Wednesday class at 6:30 P.M., which still has space. Please tell us your decision by May 25 so that your locker key can be prepared.</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "Why is the community center contacting Ms. Marchetti?",
+        "options": [
+          "To confirm a registration and ask the customer to make a choice",
+          "To advertise additional summer programs",
+          "To request payment of a late fee",
+          "To announce a change in the center's address"
+        ],
+        "answer": "A",
+        "translation": "Đơn của cô đã được nhận và có hai điểm cần cô lưu ý... Vui lòng cho chúng tôi biết quyết định của cô trước ngày 25 tháng 5.",
+        "explanation": "Thư xác nhận đã nhận phiếu đăng ký, nêu hai điểm cần điều chỉnh và đề nghị khách chọn lớp phù hợp trước 25 tháng 5, nên mục đích là xác nhận và hỏi ý khách.",
+        "vocab": [
+          [
+            "registration",
+            "n",
+            "việc đăng ký"
+          ],
+          [
+            "item",
+            "n",
+            "mục, hạng mục"
+          ],
+          [
+            "form",
+            "n",
+            "mẫu đơn"
+          ]
+        ]
+      },
+      {
+        "n": 192,
+        "q": "How much will Ms. Marchetti owe in total?",
+        "options": [
+          "$136.00",
+          "$156.40",
+          "$196.00",
+          "$211.60"
+        ],
+        "answer": "B",
+        "translation": "Lớp aqua fitness 8 buổi giá 96 đô-la, thuê tủ khóa 3 tháng 40 đô-la; người không cư trú chịu thêm 15% phụ phí trên mọi dịch vụ.",
+        "explanation": "Phải kết hợp ba tài liệu: bảng giá cho 96 + 40 = 136 đô-la, phiếu đăng ký cho thấy địa chỉ ngoài khu Northgate, và bảng giá cộng thư xác nhận mức phụ phí 15%, tức 136 + 20,40 = 156,40 đô-la.",
+        "vocab": [
+          [
+            "non-resident",
+            "n",
+            "người không cư trú trong khu vực"
+          ],
+          [
+            "locker rental",
+            "n",
+            "thuê tủ khóa"
+          ],
+          [
+            "surcharge",
+            "n",
+            "phụ phí"
+          ]
+        ]
+      },
+      {
+        "n": 193,
+        "q": "On which days does the class Ms. Marchetti registered for meet?",
+        "options": [
+          "Mondays and Wednesdays",
+          "Tuesdays and Thursdays",
+          "Saturdays only",
+          "Every weekday"
+        ],
+        "answer": "B",
+        "translation": "Lớp aqua fitness trong phiếu của cô học vào thứ Ba và thứ Năm lúc 7 giờ sáng.",
+        "explanation": "Thư nêu rõ lớp mà cô đã chọn họp vào thứ Ba và thứ Năm lúc 7:00 sáng; lịch thứ Hai và thứ Tư 6:30 chiều chỉ là phương án thay thế được đề nghị.",
+        "vocab": [
+          [
+            "session",
+            "n",
+            "buổi học"
+          ],
+          [
+            "meets",
+            "v",
+            "diễn ra, học vào"
+          ],
+          [
+            "preferred start date",
+            "n",
+            "ngày bắt đầu mong muốn"
+          ]
+        ]
+      },
+      {
+        "n": 194,
+        "q": "What is indicated about the summer flyer?",
+        "options": [
+          "It was mailed only to non-residents.",
+          "It showed an incorrect time for a class.",
+          "It listed higher fees than the Web site does.",
+          "It was printed after the first class began."
+        ],
+        "answer": "B",
+        "translation": "Tờ rơi mùa hè in tháng trước ghi lớp thứ Ba–thứ Năm bắt đầu lúc 7 giờ tối, nhưng đó là lỗi in ấn (lớp thật sự học 7 giờ sáng).",
+        "explanation": "Thư thừa nhận tờ rơi in sai giờ của lớp aqua fitness (buổi tối thay vì 7 giờ sáng) và gọi đó là lỗi in ấn; không có thông tin về việc chỉ gửi cho người ngoài khu vực, giá cao hơn hay thời điểm in.",
+        "vocab": [
+          [
+            "flyer",
+            "n",
+            "tờ rơi quảng cáo"
+          ],
+          [
+            "misprint",
+            "n",
+            "lỗi in ấn"
+          ],
+          [
+            "listed",
+            "v",
+            "đã ghi, đã liệt kê"
+          ]
+        ]
+      },
+      {
+        "n": 195,
+        "q": "In the e-mail, the word \"suit\" is closest in meaning to",
+        "options": [
+          "be convenient for",
+          "dress formally",
+          "match in color",
+          "be affordable for"
+        ],
+        "answer": "A",
+        "translation": "Nếu giờ sớm đó không phù hợp với cô, chúng tôi có thể chuyển cô sang lớp thứ Hai và thứ Tư lúc 6 giờ 30 chiều.",
+        "explanation": "Cấu trúc \"if the early hour does not suit you\" nói về việc giờ học có thuận tiện cho người học hay không, nên nghĩa ở đây là phù hợp, thuận tiện chứ không phải ăn mặc, hợp màu hay vừa túi tiền.",
+        "vocab": [
+          [
+            "suit",
+            "v",
+            "phù hợp, thuận tiện cho"
+          ],
+          [
+            "space",
+            "n",
+            "chỗ trống"
+          ],
+          [
+            "decision",
+            "n",
+            "quyết định"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following notice, tenant list, and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">DOCUMENT 1: NOTICE</p><p class=\"mt-2\">RIDGELINE BUSINESS PARK — FLOORING REPLACEMENT</p><p class=\"mt-2\">Suites 200, 210, 220, and 240 in the East Wing will have their floors replaced between June 9 and June 20. To keep the work on schedule, each affected tenant will be moved to a flex space on the third floor for the duration of the project. Moving crews will pack files and equipment on the day before each suite's start date.</p><p class=\"mt-2\">During the work, the service elevator will be reserved for the crews from 8:00 A.M. to 4:00 P.M., and Lot C behind the East Wing will be closed to all vehicles. Tenants who normally park there may use the garage on Winslow Street at no additional cost.</p><p class=\"mt-2\">We apologize for the inconvenience and appreciate your cooperation.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 2: TENANT RELOCATION LIST</p><table class=\"mt-2 w-full border-collapse text-sm\"><tr class=\"border-b border-neutral-300\"><th class=\"text-left py-1\">Suite</th><th class=\"text-left py-1\">Tenant</th><th class=\"text-right py-1\">Staff</th><th class=\"text-right py-1\">Temporary space</th><th class=\"text-left py-1\">Work begins</th></tr><tr><td class=\"py-1\">200</td><td>Halden &amp; Roe Accounting</td><td class=\"text-right\">6</td><td class=\"text-right\">3A</td><td class=\"text-left py-1\">June 9</td></tr><tr><td class=\"py-1\">210</td><td>Verity Design Group</td><td class=\"text-right\">11</td><td class=\"text-right\">3B</td><td class=\"text-left py-1\">June 10</td></tr><tr><td class=\"py-1\">220</td><td>Corex Legal Services</td><td class=\"text-right\">4</td><td class=\"text-right\">3C</td><td class=\"text-left py-1\">June 11</td></tr><tr><td class=\"py-1\">240</td><td>Pinnacle Insurance</td><td class=\"text-right\">9</td><td class=\"text-right\">3D</td><td class=\"text-left py-1\">June 12</td></tr></table><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">DOCUMENT 3: E-MAIL</p><p class=\"mt-2\">To: facilities@ridgelinepark.com<br>From: Owen Trask, Verity Design Group<br>Date: May 19<br>Subject: June flooring work</p><p class=\"mt-2\">We have read the notice about the East Wing. Our studio will be difficult to relocate in a single day: eleven designers work at large monitors, and two rendering machines cannot be disconnected for long. Could we move during the second week of the project instead, or could the crew work around our suite while we are closed on weekends? Missing a client deadline in late June would be very costly for us.</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "What is the notice mainly about?",
+        "options": [
+          "To announce a temporary relocation and changes to parking",
+          "To advertise unused office space in the East Wing",
+          "To introduce a new facilities manager",
+          "To request comments on a renovation plan"
+        ],
+        "answer": "A",
+        "translation": "Các phòng 200, 210, 220 và 240 ở cánh Đông sẽ được thay sàn từ ngày 9 đến 20 tháng 6; mỗi khách thuê bị ảnh hưởng sẽ được chuyển tạm lên không gian linh hoạt ở tầng ba.",
+        "explanation": "Thông báo nêu lịch thay sàn, việc di dời tạm lên tầng ba và các thay đổi về thang máy, bãi đỗ xe, nên mục đích là thông tin về di dời và chỗ đỗ xe, không phải quảng cáo, giới thiệu nhân sự hay xin ý kiến.",
+        "vocab": [
+          [
+            "replacement",
+            "n",
+            "việc thay thế"
+          ],
+          [
+            "affected",
+            "adj",
+            "bị ảnh hưởng"
+          ],
+          [
+            "duration",
+            "n",
+            "khoảng thời gian diễn ra"
+          ]
+        ]
+      },
+      {
+        "n": 197,
+        "q": "When will moving crews pack the files at Corex Legal Services?",
+        "options": [
+          "On June 9",
+          "On June 10",
+          "On June 11",
+          "On June 12"
+        ],
+        "answer": "B",
+        "translation": "Phòng 220 của Corex Legal Services bắt đầu thi công ngày 11 tháng 6, nên đội thi công đóng gói hồ sơ vào ngày trước đó, tức ngày 10 tháng 6.",
+        "explanation": "Phải đối chiếu hai tài liệu: thông báo nêu quy tắc đóng gói vào ngày trước ngày khởi công của mỗi phòng, còn bảng danh sách ghi Corex Legal Services ở phòng 220 và phòng này bắt đầu thi công ngày 11 tháng 6, nên việc đóng gói diễn ra ngày 10 tháng 6. Các mốc còn lại là ngày khởi công của phòng khác hoặc của chính phòng 220.",
+        "vocab": [
+          [
+            "crew",
+            "n",
+            "đội thi công"
+          ],
+          [
+            "pack",
+            "v",
+            "đóng gói"
+          ],
+          [
+            "start date",
+            "n",
+            "ngày bắt đầu"
+          ]
+        ]
+      },
+      {
+        "n": 198,
+        "q": "What concern does the e-mail raise?",
+        "options": [
+          "The cost of parking in the Winslow Street garage",
+          "The difficulty of moving specialized equipment in a single day",
+          "The noise created by the service elevator",
+          "The limited number of flex spaces on the third floor"
+        ],
+        "answer": "B",
+        "translation": "Studio của chúng tôi sẽ rất khó di dời trong một ngày: mười một nhà thiết kế làm việc với màn hình lớn và hai máy kết xuất không thể ngắt kết nối lâu.",
+        "explanation": "Người viết lo việc chuyển đi gói gọn trong một ngày là bất khả thi vì màn hình lớn và hai máy kết xuất không thể tháo rời lâu, nên đề nghị dời sang tuần thứ hai hoặc thi công vào cuối tuần; chi phí gửi xe, tiếng ồn và số lượng phòng không được nêu.",
+        "vocab": [
+          [
+            "disconnect",
+            "v",
+            "ngắt kết nối, tháo ra"
+          ],
+          [
+            "deadline",
+            "n",
+            "hạn chót"
+          ],
+          [
+            "work around",
+            "phr",
+            "thi công/làm việc vòng tránh"
+          ]
+        ]
+      },
+      {
+        "n": 199,
+        "q": "According to the notice, all of the following will occur during the project EXCEPT:",
+        "options": [
+          "The service elevator will be reserved for the crews during the day.",
+          "Lot C will be closed to all vehicles.",
+          "Tenants will pay extra to use the Winslow Street garage.",
+          "Affected tenants will be moved to the third floor."
+        ],
+        "answer": "C",
+        "translation": "Khách thuê thường đỗ ở đó có thể dùng ga-ra trên phố Winslow mà không phải trả thêm chi phí.",
+        "explanation": "Thông báo nói rõ việc dùng ga-ra Winslow không tốn thêm phí, nên ý \"phải trả thêm\" là sai; ba ý còn lại đều được nêu đúng trong thông báo.",
+        "vocab": [
+          [
+            "reserved for",
+            "phr",
+            "được dành riêng cho"
+          ],
+          [
+            "no additional cost",
+            "phr",
+            "không phải trả thêm"
+          ],
+          [
+            "cooperation",
+            "n",
+            "sự hợp tác"
+          ]
+        ]
+      },
+      {
+        "n": 200,
+        "q": "In the notice, the word \"reserved\" is closest in meaning to",
+        "options": [
+          "set aside",
+          "rebuilt",
+          "hidden",
+          "rented out"
+        ],
+        "answer": "A",
+        "translation": "Trong thời gian thi công, thang máy phục vụ sẽ được dành riêng cho các đội thi công từ 8 giờ sáng đến 4 giờ chiều.",
+        "explanation": "Thang máy được dành riêng cho đội thi công trong khung giờ đó, nên \"reserved\" ở đây nghĩa là để riêng, dành riêng, không phải xây lại, che giấu hay cho thuê.",
+        "vocab": [
+          [
+            "reserved",
+            "adj",
+            "được dành riêng (bị động)"
+          ],
+          [
+            "crews",
+            "n",
+            "đội thi công"
+          ],
+          [
+            "inconvenience",
+            "n",
+            "sự bất tiện"
+          ]
+        ]
+      }
+    ]
+  }
+]

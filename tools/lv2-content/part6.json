@@ -1,0 +1,506 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: Sales Team<br>From: Dana Reed<br>Re: Thursday meeting</p><p class=\"mt-2\">Hello everyone,</p><p class=\"mt-2\">The weekly sales meeting will now take place <strong>[131]</strong> Thursday, October 12, at 10:30 a.m. The large conference room is <strong>[132]</strong> for a client presentation that morning, so we will meet in the small room next to the copy area.</p><p class=\"mt-2\">Please bring your monthly sales figures. Ken from marketing will also join us to talk about the new brochure. <strong>[133]</strong> He will answer your questions about it at the end of the meeting.</p><p class=\"mt-2\">If you cannot attend, please let me know <strong>[134]</strong> Wednesday. I will send the notes to everyone on Friday.</p><p class=\"mt-2\">Thank you,<br>Dana Reed</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        "answer": "A",
+        "translation": "Cuộc họp bán hàng hằng tuần sẽ diễn ra vào thứ Năm, ngày 12 tháng 10, lúc 10:30 sáng.",
+        "explanation": "Trước thứ trong tuần và ngày cụ thể phải dùng giới từ 'on' ('on Thursday, October 12'). 'In' dùng cho tháng/năm, 'at' dùng cho giờ.",
+        "vocab": [
+          [
+            "weekly",
+            "adj",
+            "hằng tuần"
+          ],
+          [
+            "take place",
+            "v",
+            "diễn ra"
+          ],
+          [
+            "conference room",
+            "n",
+            "phòng họp lớn"
+          ]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the best answer to complete blank [132].",
+        "options": [
+          "reserve",
+          "reserves",
+          "reserved",
+          "reservation"
+        ],
+        "answer": "C",
+        "translation": "Phòng họp lớn đã được đặt trước cho buổi thuyết trình của khách hàng vào sáng hôm đó, nên chúng ta sẽ họp ở phòng nhỏ cạnh khu photocopy.",
+        "explanation": "Phòng họp không tự đặt trước mà 'được đặt trước' → câu bị động 'is + V3', chọn 'reserved'. 'Reservation' là danh từ nên không đứng sau 'is' trong cấu trúc này.",
+        "vocab": [
+          [
+            "reserve",
+            "v",
+            "đặt trước"
+          ],
+          [
+            "presentation",
+            "n",
+            "buổi thuyết trình"
+          ],
+          [
+            "copy area",
+            "n",
+            "khu photocopy"
+          ]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Select the sentence that best completes blank [133].",
+        "options": [
+          "The marketing team moved to the third floor last year.",
+          "Ken has worked for the company for six years.",
+          "Copies of the brochure will be on the table for everyone.",
+          "The client presentation was cancelled last week."
+        ],
+        "answer": "C",
+        "translation": "Các bản sao của cuốn brochure sẽ được đặt trên bàn cho mọi người. Anh ấy sẽ trả lời câu hỏi của bạn về nó vào cuối buổi họp.",
+        "explanation": "Câu sau có 'answer your questions about it' — 'it' phải chỉ cuốn brochure vừa được nhắc ở câu trước, nên câu C nối mạch. A và B là thông tin nền không liên quan, D mâu thuẫn với 'a client presentation that morning'.",
+        "vocab": [
+          [
+            "brochure",
+            "n",
+            "tài liệu quảng cáo"
+          ],
+          [
+            "copy",
+            "n",
+            "bản sao"
+          ],
+          [
+            "join",
+            "v",
+            "tham gia"
+          ]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Select the best answer to complete blank [134].",
+        "options": [
+          "by",
+          "until",
+          "from",
+          "at"
+        ],
+        "answer": "A",
+        "translation": "Nếu bạn không thể tham dự, vui lòng cho tôi biết trước thứ Tư. Tôi sẽ gửi biên bản cho mọi người vào thứ Sáu.",
+        "explanation": "Hạn chót phải làm gì trước một mốc thời gian dùng 'by' ('by Wednesday' = trước/thời điểm muộn nhất là thứ Tư). 'Until' chỉ việc kéo dài liên tục đến mốc đó, 'from/at' sai nghĩa.",
+        "vocab": [
+          [
+            "attend",
+            "v",
+            "tham dự"
+          ],
+          [
+            "let someone know",
+            "v",
+            "cho ai đó biết"
+          ],
+          [
+            "notes",
+            "n",
+            "biên bản ghi chú"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">STAFF TRAINING NOTICE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All employees<br>From: Training Department<br>Subject: Customer service course</p><p class=\"mt-2\">Our company will offer a two-day customer service course on November 6 and 7. The course is for employees who talk to clients <strong>[135]</strong> the phone every day. It will cover simple ways to handle complaints.</p><p class=\"mt-2\">Classes will be held in the training room, from 9:00 a.m. to 4:00 p.m. Lunch will be <strong>[136]</strong> by the company. Each class is limited to 15 people, so please register early.</p><p class=\"mt-2\"><strong>[137]</strong> You can sign up on the company intranet until October 25. If you have questions, call Ms. Park at extension 214.</p><p class=\"mt-2\">We look forward to <strong>[138]</strong> you in class.</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": "B",
+        "translation": "Khoá học dành cho nhân viên nói chuyện với khách hàng qua điện thoại hằng ngày.",
+        "explanation": "Cụm cố định 'on the phone' (qua điện thoại). 'In/at/by the phone' không dùng để nói về việc gọi điện.",
+        "vocab": [
+          [
+            "offer",
+            "v",
+            "cung cấp, tổ chức"
+          ],
+          [
+            "client",
+            "n",
+            "khách hàng"
+          ],
+          [
+            "handle",
+            "v",
+            "xử lý"
+          ]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": [
+          "provided",
+          "provide",
+          "providing",
+          "provides"
+        ],
+        "answer": "A",
+        "translation": "Bữa trưa sẽ do công ty cung cấp.",
+        "explanation": "Chủ ngữ 'Lunch' không tự cung cấp mà 'được cung cấp' → bị động 'will be + V3', chọn 'provided'.",
+        "vocab": [
+          [
+            "provide",
+            "v",
+            "cung cấp"
+          ],
+          [
+            "be limited to",
+            "v",
+            "bị giới hạn ở"
+          ],
+          [
+            "register",
+            "v",
+            "đăng ký"
+          ]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the sentence that best completes blank [137].",
+        "options": [
+          "The training room was painted last summer.",
+          "Ms. Park has worked here for six years.",
+          "Places are given on a first-come, first-served basis.",
+          "Lunch is not included in the course."
+        ],
+        "answer": "C",
+        "translation": "Chỗ ngồi được phân theo thứ tự đăng ký trước. Bạn có thể đăng ký trên mạng nội bộ của công ty đến ngày 25 tháng 10.",
+        "explanation": "Câu trước nói lớp giới hạn 15 người và nhắc 'register early', câu sau hướng dẫn cách đăng ký → câu C nói về việc giữ chỗ là cầu nối phù hợp. A, B lạc chủ đề; D trái với 'Lunch will be provided by the company'.",
+        "vocab": [
+          [
+            "first-come, first-served",
+            "adj",
+            "ai đến trước được phục vụ trước"
+          ],
+          [
+            "sign up",
+            "v",
+            "đăng ký"
+          ],
+          [
+            "intranet",
+            "n",
+            "mạng nội bộ"
+          ]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Select the best answer to complete blank [138].",
+        "options": [
+          "see",
+          "saw",
+          "seeing",
+          "sees"
+        ],
+        "answer": "C",
+        "translation": "Chúng tôi mong gặp bạn trong lớp học.",
+        "explanation": "Cấu trúc 'look forward to + V-ing' (mong chờ việc gì), nên chọn 'seeing'. 'To' ở đây là giới từ, không phải dấu hiệu động từ nguyên mẫu.",
+        "vocab": [
+          [
+            "look forward to",
+            "v",
+            "mong chờ"
+          ],
+          [
+            "extension",
+            "n",
+            "số máy lẻ"
+          ],
+          [
+            "class",
+            "n",
+            "lớp học"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEETING MINUTES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Team: Warehouse Operations<br>Date: March 14<br>Attendees: Mr. Silva, Ms. Tran, Mr. Ito</p><p class=\"mt-2\">The meeting began at 9:00 a.m. Mr. Silva <strong>[139]</strong> the new delivery schedule. It starts on April 1. Trucks will leave the warehouse at 6:00 a.m. every weekday.</p><p class=\"mt-2\">Ms. Tran said that two forklifts are making an <strong>[140]</strong> noise. She will ask the repair company to come on Monday morning. Mr. Ito will check the lights in the loading area.</p><p class=\"mt-2\"><strong>[141]</strong> The next meeting will be <strong>[142]</strong> on March 28 to review the results.</p><p class=\"mt-2\">The meeting ended at 10:15 a.m.</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": [
+          "explain",
+          "explains",
+          "explained",
+          "explaining"
+        ],
+        "answer": "C",
+        "translation": "Cuộc họp bắt đầu lúc 9:00 sáng. Ông Silva đã giải thích lịch giao hàng mới.",
+        "explanation": "Biên bản kể việc đã xảy ra trong cuộc họp ('The meeting began at 9:00 a.m.') nên dùng quá khứ đơn 'explained'.",
+        "vocab": [
+          [
+            "delivery",
+            "n",
+            "việc giao hàng"
+          ],
+          [
+            "schedule",
+            "n",
+            "lịch trình"
+          ],
+          [
+            "warehouse",
+            "n",
+            "nhà kho"
+          ]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the best answer to complete blank [140].",
+        "options": [
+          "usual",
+          "usually",
+          "unusually",
+          "unusual"
+        ],
+        "answer": "D",
+        "translation": "Bà Tran cho biết hai xe nâng đang phát ra tiếng động bất thường.",
+        "explanation": "Trước danh từ 'noise' cần tính từ; nghĩa của câu là có vấn đề nên chọn 'unusual' (bất thường). 'Usually/unusually' là trạng từ, 'usual' sai nghĩa.",
+        "vocab": [
+          [
+            "forklift",
+            "n",
+            "xe nâng"
+          ],
+          [
+            "noise",
+            "n",
+            "tiếng động"
+          ],
+          [
+            "repair",
+            "v",
+            "sửa chữa"
+          ]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the sentence that best completes blank [141].",
+        "options": [
+          "The warehouse is about ten minutes from the highway.",
+          "All three attendees agreed to test the new schedule for one month.",
+          "Ms. Tran has worked at the warehouse since 2019.",
+          "Trucks must be washed every Friday afternoon."
+        ],
+        "answer": "B",
+        "translation": "Cả ba người dự họp đều đồng ý thử lịch mới trong một tháng. Cuộc họp tiếp theo sẽ được tổ chức vào ngày 28 tháng 3 để xem lại kết quả.",
+        "explanation": "Câu sau nhắc 'to review the results' (xem lại kết quả) — 'results' phải là kết quả của việc thử lịch mới, nên câu B nối mạch. A, C, D là thông tin rời rạc, không có gì để 'review'.",
+        "vocab": [
+          [
+            "attendee",
+            "n",
+            "người tham dự"
+          ],
+          [
+            "agree",
+            "v",
+            "đồng ý"
+          ],
+          [
+            "test",
+            "v",
+            "thử nghiệm"
+          ]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Select the best answer to complete blank [142].",
+        "options": [
+          "hold",
+          "held",
+          "holding",
+          "holds"
+        ],
+        "answer": "B",
+        "translation": "Cuộc họp tiếp theo sẽ được tổ chức vào ngày 28 tháng 3.",
+        "explanation": "Cuộc họp 'được tổ chức' → bị động tương lai 'will be + V3', chọn 'held'. 'Hold/holds/holding' không đứng sau 'be' trong cấu trúc bị động.",
+        "vocab": [
+          [
+            "review",
+            "v",
+            "xem lại"
+          ],
+          [
+            "result",
+            "n",
+            "kết quả"
+          ],
+          [
+            "next",
+            "adj",
+            "tiếp theo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following invitation:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INVITATION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Ms. Alvarez,</p><p class=\"mt-2\">On behalf of Greenfield Business Center, I would like to invite you to our yearly small business workshop. It will take place on Saturday, May 20, from 9:00 a.m. to 3:00 p.m. in our main hall.</p><p class=\"mt-2\">The workshop is free for all local business owners. Our speakers will give a short <strong>[143]</strong> on online marketing. There will also be time for questions.</p><p class=\"mt-2\"><strong>[144]</strong> A light lunch will be served at noon, and coffee will be available all day.</p><p class=\"mt-2\">Please <strong>[145]</strong> your attendance by May 12 so that we can plan the seating. You can reply to this e-mail or call 555-0173.</p><p class=\"mt-2\">We hope to see you <strong>[146]</strong> the workshop.</p><p class=\"mt-2\">Sincerely,<br>Daniel Cho<br>Greenfield Business Center</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": [
+          "present",
+          "presentation",
+          "presented",
+          "presenting"
+        ],
+        "answer": "B",
+        "translation": "Diễn giả của chúng tôi sẽ có một bài trình bày ngắn về tiếp thị trực tuyến.",
+        "explanation": "Sau 'a short' cần danh từ, chọn 'presentation'. 'Present' là động từ/tính từ, 'presented/presenting' là dạng động từ.",
+        "vocab": [
+          [
+            "yearly",
+            "adj",
+            "hằng năm"
+          ],
+          [
+            "workshop",
+            "n",
+            "hội thảo"
+          ],
+          [
+            "speaker",
+            "n",
+            "diễn giả"
+          ]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the sentence that best completes blank [144].",
+        "options": [
+          "The morning session will end with a short break at 10:30.",
+          "The workshop fee is $25 for members.",
+          "Our center opened in 1998.",
+          "Ms. Alvarez works for a large company."
+        ],
+        "answer": "A",
+        "translation": "Phiên buổi sáng sẽ kết thúc bằng giờ nghỉ ngắn lúc 10:30. Bữa trưa nhẹ sẽ được phục vụ vào giữa trưa và cà phê có suốt cả ngày.",
+        "explanation": "Câu sau nói về bữa trưa lúc giữa trưa và cà phê cả ngày, nên câu trước phải nói về mốc thời gian buổi sáng → chọn A. B trái với 'The workshop is free'; C, D lạc chủ đề.",
+        "vocab": [
+          [
+            "session",
+            "n",
+            "phiên họp, buổi"
+          ],
+          [
+            "break",
+            "n",
+            "giờ nghỉ"
+          ],
+          [
+            "serve",
+            "v",
+            "phục vụ"
+          ]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": [
+          "confirms",
+          "confirmed",
+          "confirmation",
+          "confirm"
+        ],
+        "answer": "D",
+        "translation": "Vui lòng xác nhận việc tham dự của bạn trước ngày 12 tháng 5 để chúng tôi sắp xếp chỗ ngồi.",
+        "explanation": "Sau 'Please' dùng động từ nguyên mẫu để đưa ra lời đề nghị, chọn 'confirm'. 'Confirmation' là danh từ, 'confirms/confirmed' sai dạng.",
+        "vocab": [
+          [
+            "confirm",
+            "v",
+            "xác nhận"
+          ],
+          [
+            "attendance",
+            "n",
+            "việc tham dự"
+          ],
+          [
+            "seating",
+            "n",
+            "việc sắp xếp chỗ ngồi"
+          ]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Select the best answer to complete blank [146].",
+        "options": [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        "answer": "B",
+        "translation": "Chúng tôi mong được gặp bạn tại hội thảo.",
+        "explanation": "Với sự kiện (hội thảo) dùng giới từ 'at' — 'at the workshop'. 'In' dùng cho không gian kín, 'on' cho bề mặt/ngày, 'to' chỉ hướng.",
+        "vocab": [
+          [
+            "invite",
+            "v",
+            "mời"
+          ],
+          [
+            "attend",
+            "v",
+            "tham dự"
+          ],
+          [
+            "local",
+            "adj",
+            "địa phương"
+          ]
+        ]
+      }
+    ]
+  }
+]

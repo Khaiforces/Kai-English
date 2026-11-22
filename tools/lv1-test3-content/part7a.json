@@ -1,0 +1,555 @@
+[
+  {
+    "passageTitle": "Questions 147-148 refer to the following coupon.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3 text-center\"><p class=\"font-bold text-base mb-1\">SUNNY PETALS FLOWER SHOP</p><p class=\"font-semibold text-lg mb-2\">25% OFF ANY BOUQUET</p><p class=\"mb-2\">Valid on roses, lilies, and birthday flower boxes.</p><p class=\"mb-1\">Show this coupon at our shop: 88 River Road</p><p class=\"text-xs text-neutral-600\">Good until May 31. One coupon per customer.</p></div>",
+    "questions": [
+      {
+        "n": 147,
+        "q": "What does Sunny Petals Flower Shop offer with this coupon?",
+        "options": [
+          "Free home delivery",
+          "A 25 percent discount",
+          "A free flower pot",
+          "Two bouquets for five dollars"
+        ],
+        "answer": "B",
+        "translation": "Cửa hàng hoa Sunny Petals ưu đãi gì với phiếu giảm giá này?",
+        "explanation": "Trên phiếu ghi rõ '25% OFF ANY BOUQUET' (Giảm 25% cho bất kỳ bó hoa nào).",
+        "vocab": [
+          ["coupon", "n", "phiếu giảm giá"],
+          ["bouquet", "n", "bó hoa"]
+        ]
+      },
+      {
+        "n": 148,
+        "q": "When does the coupon expire?",
+        "options": [
+          "On May 1",
+          "On May 25",
+          "On May 31",
+          "On June 30"
+        ],
+        "answer": "C",
+        "translation": "Phiếu giảm giá hết hạn khi nào?",
+        "explanation": "Dòng cuối ghi 'Good until May 31' (Có giá trị đến hết ngày 31 tháng 5).",
+        "vocab": [
+          ["expire", "v", "hết hạn"],
+          ["valid", "adj", "có hiệu lực"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 149-151 refer to the following text message.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold mb-2\">Text Message — Delivery Alert</p><p class=\"mb-2\"><strong>From:</strong> FastBox Delivery (9:15 A.M.)</p><p class=\"mb-2\">Hello Ms. Nguyen. Your package from City Book Store is out for delivery today. Our driver, Sam, will arrive at your office between 1:00 P.M. and 3:00 P.M.</p><p>Please reply YES if someone will be at the front desk to sign for the box. If no one is there, we can leave it in Locker 4.</p></div>",
+    "questions": [
+      {
+        "n": 149,
+        "q": "What is inside the package?",
+        "options": [
+          "Shoes from a sports shop",
+          "Items from City Book Store",
+          "Food from a restaurant",
+          "Medicine from a clinic"
+        ],
+        "answer": "B",
+        "translation": "Bên trong bưu kiện có gì?",
+        "explanation": "Tin nhắn ghi 'Your package from City Book Store' (Bưu kiện của bạn từ Hiệu sách City).",
+        "vocab": [
+          ["package", "n", "bưu kiện, gói hàng"],
+          ["delivery", "n", "việc giao hàng"]
+        ]
+      },
+      {
+        "n": 150,
+        "q": "When will the driver arrive?",
+        "options": [
+          "At 9:15 A.M.",
+          "Before 12:00 P.M.",
+          "Between 1:00 P.M. and 3:00 P.M.",
+          "After 5:00 P.M."
+        ],
+        "answer": "C",
+        "translation": "Tài xế sẽ đến vào lúc nào?",
+        "explanation": "Tin nhắn nêu 'Sam, will arrive at your office between 1:00 P.M. and 3:00 P.M.'",
+        "vocab": [
+          ["driver", "n", "tài xế"],
+          ["arrive", "v", "đến nơi"]
+        ]
+      },
+      {
+        "n": 151,
+        "q": "Where can the driver put the box if no one is at the front desk?",
+        "options": [
+          "In Locker 4",
+          "In the parking lot",
+          "At a neighbor's house",
+          "Back at the bookstore"
+        ],
+        "answer": "A",
+        "translation": "Tài xế có thể đặt hộp ở đâu nếu không có ai ở quầy lễ tân?",
+        "explanation": "Câu cuối ghi 'If no one is there, we can leave it in Locker 4.'",
+        "vocab": [
+          ["reply", "v", "trả lời"],
+          ["locker", "n", "tủ khóa"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 152-154 refer to the following notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">NOTICE: Temporary Water Shut-Off</p><p class=\"mb-2\"><strong>Building:</strong> Greenview Apartments</p><p class=\"mb-2\"><strong>Date:</strong> Friday, July 14</p><p class=\"mb-2\"><strong>Time:</strong> 10:00 A.M. to 1:00 P.M.</p><p class=\"mb-2\">Plumbers will replace an old water pipe on the first floor. During these three hours, there will be no cold or hot water in any apartment.</p><p>Please fill some bottles with water before 10:00 A.M. We are sorry for the trouble.</p></div>",
+    "questions": [
+      {
+        "n": 152,
+        "q": "Why will the water be turned off?",
+        "options": [
+          "To clean the swimming pool",
+          "To replace an old water pipe",
+          "To paint the first floor",
+          "To check the electricity"
+        ],
+        "answer": "B",
+        "translation": "Tại sao nước sẽ bị cắt?",
+        "explanation": "Thông báo ghi 'Plumbers will replace an old water pipe on the first floor.' (Thợ sửa ống nước sẽ thay một ống nước cũ ở tầng một).",
+        "vocab": [
+          ["temporary", "adj", "tạm thời"],
+          ["pipe", "n", "ống nước"]
+        ]
+      },
+      {
+        "n": 153,
+        "q": "How long will the water shut-off last?",
+        "options": [
+          "One hour",
+          "Two hours",
+          "Three hours",
+          "Four hours"
+        ],
+        "answer": "C",
+        "translation": "Việc cắt nước sẽ kéo dài bao lâu?",
+        "explanation": "Từ 10:00 A.M. đến 1:00 P.M. là 3 tiếng ('During these three hours').",
+        "vocab": [
+          ["shut-off", "n", "sự ngắt, cắt (nước/điện)"],
+          ["trouble", "n", "sự bất tiện, rắc rối"]
+        ]
+      },
+      {
+        "n": 154,
+        "q": "What are residents asked to do before 10:00 A.M.?",
+        "options": [
+          "Leave the building",
+          "Call the building manager",
+          "Fill some bottles with water",
+          "Open all windows"
+        ],
+        "answer": "C",
+        "translation": "Cư dân được yêu cầu làm gì trước 10 giờ sáng?",
+        "explanation": "Câu cuối khuyên 'Please fill some bottles with water before 10:00 A.M.' (Vui lòng hứng đầy một ít chai nước trước 10 giờ sáng).",
+        "vocab": [
+          ["fill", "v", "làm đầy, đổ đầy"],
+          ["bottle", "n", "chai, bình"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 155-157 refer to the following schedule.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">HARBOR HISTORY MUSEUM — OPENING HOURS</p><table class=\"w-full border-collapse border border-neutral-400 text-xs sm:text-sm mb-2\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-400 p-1.5 text-left\">Day</th><th class=\"border border-neutral-400 p-1.5 text-left\">Hours</th></tr></thead><tbody><tr><td class=\"border border-neutral-400 p-1.5\">Monday</td><td class=\"border border-neutral-400 p-1.5\">Closed</td></tr><tr><td class=\"border border-neutral-400 p-1.5\">Tuesday – Friday</td><td class=\"border border-neutral-400 p-1.5\">9:00 A.M. – 5:00 P.M.</td></tr><tr><td class=\"border border-neutral-400 p-1.5\">Saturday – Sunday</td><td class=\"border border-neutral-400 p-1.5\">10:00 A.M. – 6:00 P.M.</td></tr></tbody></table><p><strong>Tickets:</strong> Adults $10 | Students $5 | Children under 6: Free</p></div>",
+    "questions": [
+      {
+        "n": 155,
+        "q": "On which day is the museum closed?",
+        "options": [
+          "Monday",
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "answer": "A",
+        "translation": "Bảo tàng đóng cửa vào ngày nào?",
+        "explanation": "Bảng giờ ghi rõ 'Monday: Closed'.",
+        "vocab": [
+          ["museum", "n", "bảo tàng"],
+          ["closed", "adj", "đóng cửa"]
+        ]
+      },
+      {
+        "n": 156,
+        "q": "What time does the museum open on Saturday?",
+        "options": [
+          "At 9:00 A.M.",
+          "At 10:00 A.M.",
+          "At 5:00 P.M.",
+          "At 6:00 P.M."
+        ],
+        "answer": "B",
+        "translation": "Bảo tàng mở cửa lúc mấy giờ vào thứ Bảy?",
+        "explanation": "Hàng cuối bảng ghi 'Saturday – Sunday: 10:00 A.M. – 6:00 P.M.'",
+        "vocab": [
+          ["opening hours", "n", "giờ mở cửa"],
+          ["weekend", "n", "cuối tuần"]
+        ]
+      },
+      {
+        "n": 157,
+        "q": "How much does a ticket cost for a student?",
+        "options": [
+          "Free",
+          "$5",
+          "$6",
+          "$10"
+        ],
+        "answer": "B",
+        "translation": "Giá vé cho một học sinh/sinh viên là bao nhiêu?",
+        "explanation": "Dòng giá vé ghi 'Students $5'.",
+        "vocab": [
+          ["ticket", "n", "vé"],
+          ["adult", "n", "người lớn"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 158-160 refer to the following train timetable.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">MORNING TRAINS: CENTRAL STATION TO AIRPORT</p><table class=\"w-full border-collapse border border-neutral-400 text-xs sm:text-sm mb-2\"><thead><tr class=\"bg-neutral-100\"><th class=\"border border-neutral-400 p-1.5 text-left\">Train</th><th class=\"border border-neutral-400 p-1.5 text-left\">Departs Central</th><th class=\"border border-neutral-400 p-1.5 text-left\">Arrives Airport</th><th class=\"border border-neutral-400 p-1.5 text-left\">Platform</th></tr></thead><tbody><tr><td class=\"border border-neutral-400 p-1.5\">#102</td><td class=\"border border-neutral-400 p-1.5\">6:30 A.M.</td><td class=\"border border-neutral-400 p-1.5\">7:05 A.M.</td><td class=\"border border-neutral-400 p-1.5\">Platform 2</td></tr><tr><td class=\"border border-neutral-400 p-1.5\">#104</td><td class=\"border border-neutral-400 p-1.5\">7:15 A.M.</td><td class=\"border border-neutral-400 p-1.5\">7:50 A.M.</td><td class=\"border border-neutral-400 p-1.5\">Platform 1</td></tr><tr><td class=\"border border-neutral-400 p-1.5\">#106</td><td class=\"border border-neutral-400 p-1.5\">8:00 A.M.</td><td class=\"border border-neutral-400 p-1.5\">8:35 A.M.</td><td class=\"border border-neutral-400 p-1.5\">Platform 3</td></tr></tbody></table><p class=\"text-xs text-neutral-600\">*All trains run every day. One-way ticket: $8.</p></div>",
+    "questions": [
+      {
+        "n": 158,
+        "q": "Which train leaves Central Station at 7:15 A.M.?",
+        "options": [
+          "Train #102",
+          "Train #104",
+          "Train #106",
+          "Train #108"
+        ],
+        "answer": "B",
+        "translation": "Chuyến tàu nào rời Ga Trung tâm lúc 7 giờ 15 sáng?",
+        "explanation": "Theo bảng giờ, Train #104 khởi hành ('Departs Central') lúc 7:15 A.M.",
+        "vocab": [
+          ["depart", "v", "khởi hành"],
+          ["platform", "n", "sân ga"]
+        ]
+      },
+      {
+        "n": 159,
+        "q": "Where does Train #106 leave from?",
+        "options": [
+          "Platform 1",
+          "Platform 2",
+          "Platform 3",
+          "Platform 4"
+        ],
+        "answer": "C",
+        "translation": "Chuyến tàu #106 khởi hành từ sân ga nào?",
+        "explanation": "Hàng cuối bảng ghi Train #106 ở 'Platform 3'.",
+        "vocab": [
+          ["timetable", "n", "bảng giờ chạy tàu/xe"],
+          ["airport", "n", "sân bay"]
+        ]
+      },
+      {
+        "n": 160,
+        "q": "How long is the train ride from Central Station to the Airport?",
+        "options": [
+          "25 minutes",
+          "30 minutes",
+          "35 minutes",
+          "45 minutes"
+        ],
+        "answer": "C",
+        "translation": "Chuyến tàu từ Ga Trung tâm đến Sân bay mất bao lâu?",
+        "explanation": "Ví dụ chuyến #102 đi lúc 6:30 A.M. và đến lúc 7:05 A.M., tổng thời gian là 35 phút.",
+        "vocab": [
+          ["one-way", "adj", "một chiều"],
+          ["ride", "n", "chuyến đi"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 161-163 refer to the following job advertisement.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">HELP WANTED: Part-Time Cashier</p><p class=\"mb-2\"><strong>Fresh Market Grocery</strong> is looking for a friendly part-time cashier.</p><ul class=\"list-disc pl-5 mb-2\"><li><strong>Hours:</strong> Saturdays &amp; Sundays, 1:00 P.M. – 7:00 P.M.</li><li><strong>Pay:</strong> $14 per hour</li><li><strong>Duties:</strong> Scan groceries, take payments, and bag items.</li></ul><p>No experience is needed. We will train you! Call Mr. Gomez at 555-0148 to set up a short interview.</p></div>",
+    "questions": [
+      {
+        "n": 161,
+        "q": "What job is Fresh Market Grocery offering?",
+        "options": [
+          "Store manager",
+          "Delivery driver",
+          "Part-time cashier",
+          "Head chef"
+        ],
+        "answer": "C",
+        "translation": "Cửa hàng Fresh Market Grocery đang tuyển vị trí nào?",
+        "explanation": "Tiêu đề ghi rõ 'Part-Time Cashier' (Nhân viên thu ngân bán thời gian).",
+        "vocab": [
+          ["cashier", "n", "nhân viên thu ngân"],
+          ["part-time", "adj", "bán thời gian"]
+        ]
+      },
+      {
+        "n": 162,
+        "q": "How much does the job pay per hour?",
+        "options": [
+          "$10",
+          "$12",
+          "$14",
+          "$16"
+        ],
+        "answer": "C",
+        "translation": "Công việc này trả bao nhiêu tiền mỗi giờ?",
+        "explanation": "Mục Pay ghi rõ '$14 per hour'.",
+        "vocab": [
+          ["duty", "n", "nhiệm vụ"],
+          ["experience", "n", "kinh nghiệm"]
+        ]
+      },
+      {
+        "n": 163,
+        "q": "How should interested people apply?",
+        "options": [
+          "Send a letter by mail",
+          "Visit the store at 7:00 P.M.",
+          "Call Mr. Gomez",
+          "Fill out an online form"
+        ],
+        "answer": "C",
+        "translation": "Những người quan tâm nên ứng tuyển bằng cách nào?",
+        "explanation": "Câu cuối ghi 'Call Mr. Gomez at 555-0148 to set up a short interview.'",
+        "vocab": [
+          ["interview", "n", "buổi phỏng vấn"],
+          ["train", "v", "đào tạo, hướng dẫn"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 164-166 refer to the following rules.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">FITLIFE GYM — MEMBER RULES</p><ol class=\"list-decimal pl-5 mb-2 space-y-1\"><li>Always scan your member card at the front desk.</li><li>Wear clean sports shoes inside the workout area.</li><li>Wipe down machines with a towel after using them.</li><li>Do not bring food into the gym. Water bottles are okay.</li><li>Put all weights back on the racks when you finish.</li></ol><p class=\"text-xs text-neutral-600\">Thank you for keeping FitLife Gym clean and safe!</p></div>",
+    "questions": [
+      {
+        "n": 164,
+        "q": "What must members show at the front desk?",
+        "options": [
+          "A driver's license",
+          "A member card",
+          "A clean towel",
+          "A water bottle"
+        ],
+        "answer": "B",
+        "translation": "Hội viên phải xuất trình gì tại quầy lễ tân?",
+        "explanation": "Quy tắc số 1 ghi 'Always scan your member card at the front desk.'",
+        "vocab": [
+          ["member", "n", "hội viên, thành viên"],
+          ["scan", "v", "quét (thẻ, mã)"]
+        ]
+      },
+      {
+        "n": 165,
+        "q": "What is allowed inside the gym?",
+        "options": [
+          "Hot meals",
+          "Sandwiches",
+          "Water bottles",
+          "Outdoor boots"
+        ],
+        "answer": "C",
+        "translation": "Thứ gì được phép mang vào phòng tập?",
+        "explanation": "Quy tắc số 4 ghi 'Do not bring food into the gym. Water bottles are okay.'",
+        "vocab": [
+          ["workout", "n", "buổi tập luyện"],
+          ["towel", "n", "khăn lau"]
+        ]
+      },
+      {
+        "n": 166,
+        "q": "Where should members put weights after using them?",
+        "options": [
+          "On the floor",
+          "Near the door",
+          "Back on the racks",
+          "In their lockers"
+        ],
+        "answer": "C",
+        "translation": "Hội viên nên để tạ ở đâu sau khi sử dụng xong?",
+        "explanation": "Quy tắc số 5 ghi 'Put all weights back on the racks when you finish.'",
+        "vocab": [
+          ["weight", "n", "quả tạ"],
+          ["rack", "n", "giá để đồ"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 167-169 refer to the following receipt.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-1\">BLUE SKY LAUNDRY</p><p class=\"text-xs mb-2\">12 Pine Street | Tel: 555-0177</p><p class=\"mb-1\"><strong>Customer:</strong> David Park | <strong>Date:</strong> August 3</p><hr class=\"my-2 border-neutral-300\"><p class=\"mb-1\">2 White Shirts (Wash &amp; Iron) ........ $8.00</p><p class=\"mb-1\">1 Winter Coat (Dry Clean) ............ $12.00</p><p class=\"mb-1\">1 Pair of Pants (Wash &amp; Iron) ........ $5.00</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold mb-1\">Total Paid (Cash): $25.00</p><p class=\"text-xs\">Pick-up Date: Saturday, August 5, after 2:00 P.M.</p></div>",
+    "questions": [
+      {
+        "n": 167,
+        "q": "How much did it cost to dry-clean the winter coat?",
+        "options": [
+          "$5.00",
+          "$8.00",
+          "$12.00",
+          "$25.00"
+        ],
+        "answer": "C",
+        "translation": "Chi phí giặt khô chiếc áo khoác mùa đông là bao nhiêu?",
+        "explanation": "Trên hóa đơn ghi '1 Winter Coat (Dry Clean) ............ $12.00'.",
+        "vocab": [
+          ["receipt", "n", "hóa đơn, biên lai"],
+          ["dry clean", "v", "giặt khô"]
+        ]
+      },
+      {
+        "n": 168,
+        "q": "How did Mr. Park pay for his laundry?",
+        "options": [
+          "By check",
+          "By credit card",
+          "In cash",
+          "With a gift card"
+        ],
+        "answer": "C",
+        "translation": "Ông Park đã thanh toán tiền giặt ủi bằng cách nào?",
+        "explanation": "Dòng tổng tiền ghi 'Total Paid (Cash): $25.00'.",
+        "vocab": [
+          ["laundry", "n", "đồ giặt, tiệm giặt ủi"],
+          ["iron", "v", "là, ủi (quần áo)"]
+        ]
+      },
+      {
+        "n": 169,
+        "q": "When can Mr. Park pick up his clothes?",
+        "options": [
+          "On August 3",
+          "On August 4",
+          "On August 5",
+          "On August 6"
+        ],
+        "answer": "C",
+        "translation": "Khi nào ông Park có thể đến lấy quần áo?",
+        "explanation": "Dòng cuối ghi 'Pick-up Date: Saturday, August 5, after 2:00 P.M.'",
+        "vocab": [
+          ["pick up", "v", "đến lấy, đón"],
+          ["pants", "n", "quần dài"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 170-172 refer to the following invitation.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">Oak City Book Club — Monthly Meeting</p><p class=\"mb-2\">Dear Club Members,</p><p class=\"mb-2\">You are invited to our next meeting on Thursday, September 21, at 6:30 P.M. We will meet in Room B at the Oak City Public Library.</p><p class=\"mb-2\">This month, we will talk about the novel <em>The Quiet Lake</em> by Emma Sato. Tea and cookies will be served.</p><p>Feel free to bring a friend! Please e-mail Maya at maya@oakbookclub.org by September 18 if you plan to come.</p></div>",
+    "questions": [
+      {
+        "n": 170,
+        "q": "Where will the book club meeting take place?",
+        "options": [
+          "At a coffee shop",
+          "At Emma Sato's house",
+          "At the Oak City Public Library",
+          "At a local bookstore"
+        ],
+        "answer": "C",
+        "translation": "Buổi họp câu lạc bộ sách sẽ diễn ra ở đâu?",
+        "explanation": "Thư mời ghi 'We will meet in Room B at the Oak City Public Library.'",
+        "vocab": [
+          ["invitation", "n", "thư mời"],
+          ["novel", "n", "tiểu thuyết"]
+        ]
+      },
+      {
+        "n": 171,
+        "q": "What will be served at the meeting?",
+        "options": [
+          "Pizza and soda",
+          "Coffee and cake",
+          "Tea and cookies",
+          "Juice and fruit"
+        ],
+        "answer": "C",
+        "translation": "Đồ ăn thức uống nào sẽ được phục vụ tại buổi họp?",
+        "explanation": "Đoạn 2 ghi rõ 'Tea and cookies will be served.'",
+        "vocab": [
+          ["serve", "v", "phục vụ"],
+          ["cookie", "n", "bánh quy"]
+        ]
+      },
+      {
+        "n": 172,
+        "q": "What should members do by September 18?",
+        "options": [
+          "Buy a new book",
+          "E-mail Maya",
+          "Pay a club fee",
+          "Write a short story"
+        ],
+        "answer": "B",
+        "translation": "Các thành viên nên làm gì trước ngày 18 tháng 9?",
+        "explanation": "Câu cuối yêu cầu 'Please e-mail Maya at maya@oakbookclub.org by September 18 if you plan to come.'",
+        "vocab": [
+          ["plan", "v", "dự định"],
+          ["member", "n", "thành viên"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 173-175 refer to the following price list.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">SPARKLE CAR WASH — PRICE LIST</p><ul class=\"list-none space-y-1 mb-2\"><li><strong>Basic Wash</strong> (Outside wash &amp; dry): <strong>$12</strong></li><li><strong>Silver Wash</strong> (Outside wash + wheel cleaning): <strong>$18</strong></li><li><strong>Gold Wash</strong> (Outside wash + wheel cleaning + inside vacuum): <strong>$25</strong></li></ul><p class=\"mb-1\"><strong>Special Deal:</strong> Every Tuesday, seniors (age 60+) get $3 off any wash.</p><p class=\"text-xs text-neutral-600\">Open daily: 8:00 A.M. – 6:00 P.M.</p></div>",
+    "questions": [
+      {
+        "n": 173,
+        "q": "How much does a Basic Wash cost?",
+        "options": [
+          "$12",
+          "$15",
+          "$18",
+          "$25"
+        ],
+        "answer": "A",
+        "translation": "Gói rửa xe cơ bản (Basic Wash) giá bao nhiêu?",
+        "explanation": "Dòng đầu danh sách ghi 'Basic Wash (Outside wash & dry): $12'.",
+        "vocab": [
+          ["price list", "n", "bảng giá"],
+          ["wheel", "n", "bánh xe"]
+        ]
+      },
+      {
+        "n": 174,
+        "q": "Which service includes an inside vacuum?",
+        "options": [
+          "Basic Wash",
+          "Silver Wash",
+          "Gold Wash",
+          "Tuesday Wash"
+        ],
+        "answer": "C",
+        "translation": "Dịch vụ nào bao gồm hút bụi bên trong xe?",
+        "explanation": "Mục Gold Wash ghi rõ 'Outside wash + wheel cleaning + inside vacuum'.",
+        "vocab": [
+          ["vacuum", "n", "hút bụi"],
+          ["include", "v", "bao gồm"]
+        ]
+      },
+      {
+        "n": 175,
+        "q": "When can seniors get a $3 discount?",
+        "options": [
+          "On Mondays",
+          "On Tuesdays",
+          "On Fridays",
+          "On Sundays"
+        ],
+        "answer": "B",
+        "translation": "Khi nào người cao tuổi được giảm 3 đô la?",
+        "explanation": "Mục Special Deal ghi 'Every Tuesday, seniors (age 60+) get $3 off any wash.'",
+        "vocab": [
+          ["senior", "n", "người cao tuổi"],
+          ["discount", "n", "giảm giá"]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "loading_dock_unloading",
+    "imageUrl": "listening/images/lv4-test-01/part1/q1.jpg",
+    "imageCaption": "Hai nhân viên giao hàng đang dùng xe nâng tay dỡ các pa-lét hàng bọc màng co từ thùng xe tải xuống dốc bê tông.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Workers are uploading wooden crates directly from a parked cargo truck.",
+      "Delivery staff are unloading shrink-wrapped pallets from the back of a truck.",
+      "Several wooden pallets are rolling a delivery driver down the concrete ramp.",
+      "An already emptied delivery van is still being unloaded at the dock."
+    ],
+    "correct": "B",
+    "translation": "(A) Các công nhân đang tải lên mạng các thùng gỗ trực tiếp từ một chiếc xe tải chở hàng đang đỗ.\n(B) Nhân viên giao hàng đang dỡ các pa-lét bọc màng co từ phía sau một chiếc xe tải.\n(C) Một vài pa-lét gỗ đang lăn đẩy tài xế giao hàng xuống con dốc bê tông.\n(D) Một chiếc xe giao hàng đã trống rỗng vẫn đang được dỡ hàng tại bến bãi.",
+    "explanation": "Phương án (B) mô tả một cảnh giao nhận kho vận tự nhiên và hợp lý: nhân viên đang dỡ các pa-lét hàng bọc màng co từ thùng xe tải. Phương án (A) mắc bẫy từ gần âm khi dùng động từ 'uploading' (tải dữ liệu lên mạng) thay vì 'unloading' (dỡ hàng vật lý). Phương án (C) đảo ngược chủ thể và đối tượng một cách phi lý (pa-lét đẩy tài xế). Phương án (D) chứa mâu thuẫn nội tại giữa 'already emptied' (đã dỡ trống) và 'still being unloaded' (vẫn đang được dỡ hàng).",
+    "vocab": [
+      [
+        "unload",
+        "v",
+        "dỡ hàng xuống"
+      ],
+      [
+        "shrink-wrapped",
+        "adj",
+        "được bọc màng co bảo vệ"
+      ],
+      [
+        "pallet",
+        "n",
+        "pa-lét, kệ kê hàng"
+      ],
+      [
+        "concrete ramp",
+        "n",
+        "dốc bê tông bốc xếp hàng"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "conference_room_chairs",
+    "imageUrl": "listening/images/lv4-test-01/part1/q2.jpg",
+    "imageCaption": "Một phòng họp hiện đại trống người với nhiều ghế văn phòng được đẩy gọn gàng dưới bàn họp dài và màn hình treo tường đã tắt.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "An unplugged wall monitor is displaying financial graphs to the staff.",
+      "An intern is running printed spreadsheets through a desktop shredder to make copies.",
+      "Several office chairs have been pushed neatly underneath a long conference table.",
+      "A leather briefcase is carefully reviewing notes beside a laptop."
+    ],
+    "correct": "C",
+    "translation": "(A) Một màn hình treo tường đã rút phích cắm đang hiển thị biểu đồ tài chính cho nhân viên.\n(B) Một thực tập sinh đang đưa các bảng tính đã in qua máy hủy giấy để tạo bản sao.\n(C) Một số chiếc ghế văn phòng đã được đẩy gọn gàng vào dưới chiếc bàn họp dài.\n(D) Một chiếc cặp da đang cẩn thận xem lại ghi chú bên cạnh máy tính xách tay.",
+    "explanation": "Phương án (C) dùng cấu trúc hiện tại hoàn thành bị động ('have been pushed') diễn tả trạng thái tĩnh gọn gàng, hoàn toàn thực tế trong phòng họp văn phòng. Phương án (A) mâu thuẫn vì màn hình đã rút phích cắm ('unplugged') không thể hiển thị biểu đồ. Phương án (B) sai chức năng thiết bị khi dùng máy hủy giấy ('shredder') để sao chép tài liệu. Phương án (D) đảo chủ thể bất hợp lý khi gán hành động đọc ghi chú của con người cho chiếc cặp da.",
+    "vocab": [
+      [
+        "unplugged",
+        "adj",
+        "đã rút phích cắm điện"
+      ],
+      [
+        "shredder",
+        "n",
+        "máy hủy tài liệu"
+      ],
+      [
+        "underneath",
+        "prep",
+        "ở phía bên dưới"
+      ],
+      [
+        "briefcase",
+        "n",
+        "cặp táp đựng tài liệu"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "crosswalk_pedestrians",
+    "imageUrl": "listening/images/lv4-test-01/part1/q3.jpg",
+    "imageCaption": "Những người đi bộ đang đứng chờ ngay ngắn trên vỉa hè bên dưới hàng cây rợp bóng tại vạch kẻ sang đường.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Pedestrians are waiting at a crosswalk beneath a row of shade trees.",
+      "A grounds crew member is proving the overgrown hedges along the stone fence.",
+      "Commuters are boarding a passenger bus that has already departed the terminal.",
+      "Several stone benches have been stacked upside down on top of a streetlamp."
+    ],
+    "correct": "A",
+    "translation": "(A) Người đi bộ đang chờ ở vạch sang đường bên dưới hàng cây rợp bóng mát.\n(B) Một nhân viên chăm sóc cảnh quan đang chứng minh những hàng rào cây mọc um tùm dọc tường đá.\n(C) Hành khách đang lên một chiếc xe buýt đã rời khỏi nhà ga.\n(D) Một vài chiếc ghế đá đã được xếp chồng ngược lên trên đỉnh một cây đèn đường.",
+    "explanation": "Phương án (A) miêu tả chính xác và tự nhiên một khung cảnh đường phố thường ngày. Phương án (B) là bẫy từ gần âm: 'proving' (chứng minh) bị dùng nhầm thay cho 'pruning' (cắt tỉa cây), khiến câu vô nghĩa. Phương án (C) mâu thuẫn về mặt thời gian và vật lý vì không thể lên chiếc xe buýt đã rời bến. Phương án (D) mô tả trạng thái sắp đặt phi thực tế trên cột đèn đường.",
+    "vocab": [
+      [
+        "pedestrian",
+        "n",
+        "người đi bộ"
+      ],
+      [
+        "crosswalk",
+        "n",
+        "vạch kẻ sang đường"
+      ],
+      [
+        "overgrown hedge",
+        "n",
+        "hàng rào cây mọc rậm rạp"
+      ],
+      [
+        "commuter",
+        "n",
+        "người đi làm hằng ngày bằng phương tiện công cộng"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "circuit_board_inspection",
+    "imageUrl": "listening/images/lv4-test-01/part1/q4.jpg",
+    "imageCaption": "Một thanh tra chất lượng đeo kính bảo hộ đang kiểm tra bảng mạch điện tử dưới đèn kính lúp tại bàn kỹ thuật.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Sealed boxes of laboratory glassware have been left wide open on the counter.",
+      "Two engineers are celebrating sensitive pressure gauges with a wrench.",
+      "Protective safety goggles are adjusting a technician's coat in the hallway.",
+      "A quality inspector is examining a circuit board under a magnifying lamp."
+    ],
+    "correct": "D",
+    "translation": "(A) Những hộp đồ thủy tinh phòng thí nghiệm đã niêm phong lại đang bị để mở toang trên quầy.\n(B) Hai kỹ sư đang ăn mừng các đồng hồ đo áp suất nhạy bằng một chiếc cờ lê.\n(C) Kính bảo hộ an toàn đang chỉnh lại áo khoác của kỹ thuật viên ngoài hành lang.\n(D) Một thanh tra chất lượng đang kiểm tra bảng mạch điện tử dưới đèn kính lúp.",
+    "explanation": "Phương án (D) mô tả chân thực công việc kiểm tra kỹ thuật trong xưởng hoặc phòng thí nghiệm. Phương án (A) tự mâu thuẫn giữa 'sealed' (đã niêm phong) và 'left wide open' (bị để mở toang). Phương án (B) sử dụng bẫy gần âm giữa 'celebrating' (ăn mừng) và 'calibrating' (hiệu chuẩn thiết bị). Phương án (C) đảo ngược chủ ngữ vô tri (kính bảo hộ) thực hiện hành động của người.",
+    "vocab": [
+      [
+        "glassware",
+        "n",
+        "đồ thủy tinh (phòng thí nghiệm)"
+      ],
+      [
+        "pressure gauge",
+        "n",
+        "đồng hồ đo áp suất"
+      ],
+      [
+        "circuit board",
+        "n",
+        "bảng mạch điện tử"
+      ],
+      [
+        "magnifying lamp",
+        "n",
+        "đèn có gắn kính lúp"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "barista_pouring_milk",
+    "imageUrl": "listening/images/lv4-test-01/part1/q5.jpg",
+    "imageCaption": "Một nhân viên pha chế đứng sau quầy cà phê đang rót sữa đánh nóng từ ca inox vào tách sứ.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A closed café storefront is serving a long line of morning customers inside.",
+      "A barista is pouring steamed milk into ceramic cups behind the counter.",
+      "Customers are browsing a dry desert menu printed on laminated cards.",
+      "Freshly brewed espresso is being poured directly into a perforated woven basket."
+    ],
+    "correct": "B",
+    "translation": "(A) Một mặt tiền quán cà phê đã đóng cửa đang phục vụ hàng dài khách buổi sáng bên trong.\n(B) Một nhân viên pha chế đang rót sữa đánh nóng vào các tách sứ phía sau quầy.\n(C) Khách hàng đang xem thực đơn sa mạc khô cằn được in trên các tấm thẻ ép nhựa.\n(D) Cà phê espresso mới pha đang được rót thẳng vào một chiếc giỏ đan có lỗ thủng.",
+    "explanation": "Phương án (B) mô tả đúng quy trình phục vụ tự nhiên tại quầy cà phê. Phương án (A) mâu thuẫn khi quán đã đóng cửa ('closed storefront') nhưng vẫn phục vụ khách bên trong. Phương án (C) đánh bẫy từ gần âm giữa 'desert' (sa mạc) và 'dessert' (món tráng miệng). Phương án (D) vô lý về mặt vật lý vì không thể rót chất lỏng vào giỏ đan có lỗ ('perforated').",
+    "vocab": [
+      [
+        "barista",
+        "n",
+        "nhân viên pha chế cà phê"
+      ],
+      [
+        "laminated",
+        "adj",
+        "được ép nhựa bảo vệ"
+      ],
+      [
+        "perforated",
+        "adj",
+        "có đục lỗ, thủng lỗ"
+      ],
+      [
+        "storefront",
+        "n",
+        "mặt tiền cửa hàng"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "museum_gallery_plaques",
+    "imageUrl": "listening/images/lv4-test-01/part1/q6.jpg",
+    "imageCaption": "Hai khách tham quan bảo tàng đang đứng đọc các tấm bảng thông tin gắn bên cạnh những bức ảnh đóng khung trên tường.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "An empty exhibition hall is currently packed with guests viewing sculptures.",
+      "Several framed oil paintings are admiring tourists along the museum corridor.",
+      "Visitors are reading informational plaques mounted beside framed photographs.",
+      "Exhibit pamphlets are being nailed directly onto the glass front of a display case."
+    ],
+    "correct": "C",
+    "translation": "(A) Một sảnh triển lãm trống rỗng hiện đang chật kín khách tham quan ngắm tượng điêu khắc.\n(B) Một vài bức tranh sơn dầu đóng khung đang chiêm ngưỡng khách du lịch dọc hành lang bảo tàng.\n(C) Khách tham quan đang đọc các tấm bảng thông tin gắn bên cạnh những bức ảnh đóng khung.\n(D) Các tờ rơi triển lãm đang được đóng đinh trực tiếp lên mặt kính phía trước của tủ trưng bày.",
+    "explanation": "Phương án (C) mô tả hợp lý bối cảnh tham quan triển lãm hoặc bảo tàng. Phương án (A) tự mâu thuẫn giữa 'empty' (trống rỗng) và 'packed with guests' (chật kín khách). Phương án (B) bẫy đảo chủ thể – tân ngữ khiến tranh sơn dầu trở thành chủ thể ngắm du khách. Phương án (D) dùng bị động tiếp diễn miêu tả hành động đóng đinh lên mặt kính ('nailed directly onto the glass') hoàn toàn phi thực tế.",
+    "vocab": [
+      [
+        "plaque",
+        "n",
+        "tấm bảng ghi chú, bảng đồng"
+      ],
+      [
+        "mounted",
+        "adj",
+        "được gắn cố định trên tường"
+      ],
+      [
+        "display case",
+        "n",
+        "tủ kính trưng bày"
+      ],
+      [
+        "pamphlet",
+        "n",
+        "tờ rơi, sách mỏng giới thiệu"
+      ]
+    ]
+  }
+]

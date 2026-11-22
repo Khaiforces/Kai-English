@@ -1,0 +1,662 @@
+[
+  {
+    "id": 101,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Since the new inventory software was installed last month, the warehouse staff _______ fewer errors when recording shipments.",
+    "options": [
+      {"key": "A", "text": "(A) make"},
+      {"key": "B", "text": "(B) made"},
+      {"key": "C", "text": "(C) have made"},
+      {"key": "D", "text": "(D) are making"}
+    ],
+    "correct": "C",
+    "translation": "Kể từ khi phần mềm quản lý hàng tồn kho mới được cài đặt vào tháng trước, nhân viên kho đã mắc ít lỗi hơn khi ghi nhận các lô hàng.",
+    "explanation": "Mệnh đề chính cần thì hiện tại hoàn thành vì hành động bắt đầu từ mốc quá khứ 'since...' và để lại kết quả ở hiện tại. 'Have made' diễn tả đúng sự tích lũy kết quả từ lúc phần mềm được cài đặt. A sai vì hiện tại đơn không thể hiện được khoảng thời gian kéo dài từ 'since'; B sai vì quá khứ đơn không phù hợp khi mệnh đề chính nêu kết quả đến hiện tại; D sai vì hiện tại tiếp diễn chỉ hành động đang diễn ra, không nhấn mạnh kết quả đã đạt được.",
+    "vocab": [
+      {"word": "inventory", "pos": "n", "meaning": "hàng tồn kho"},
+      {"word": "shipment", "pos": "n", "meaning": "lô hàng; việc gửi hàng"},
+      {"word": "record", "pos": "v", "meaning": "ghi lại, ghi nhận"},
+      {"word": "error", "pos": "n", "meaning": "lỗi"}
+    ]
+  },
+  {
+    "id": 102,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The marketing department decided to _______ the advertising budget equally between online and print campaigns.",
+    "options": [
+      {"key": "A", "text": "(A) allocate"},
+      {"key": "B", "text": "(B) attach"},
+      {"key": "C", "text": "(C) appoint"},
+      {"key": "D", "text": "(D) approve"}
+    ],
+    "correct": "A",
+    "translation": "Bộ phận tiếp thị đã quyết định phân bổ ngân sách quảng cáo một cách ngang bằng giữa các chiến dịch trực tuyến và in ấn.",
+    "explanation": "'Allocate' nghĩa là phân bổ, chia nguồn lực hoặc tiền bạc cho các mục đích khác nhau, rất hợp với 'budget equally between...'. B sai vì 'attach' là đính kèm; C sai vì 'appoint' là bổ nhiệm người vào vị trí; D sai vì 'approve' là phê duyệt, không diễn tả việc chia ngân sách.",
+    "vocab": [
+      {"word": "allocate", "pos": "v", "meaning": "phân bổ"},
+      {"word": "budget", "pos": "n", "meaning": "ngân sách"},
+      {"word": "campaign", "pos": "n", "meaning": "chiến dịch"},
+      {"word": "equally", "pos": "adv", "meaning": "một cách ngang bằng"}
+    ]
+  },
+  {
+    "id": 103,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The clinic's new digital filing system has significantly improved the _______ of patient records.",
+    "options": [
+      {"key": "A", "text": "(A) accurately"},
+      {"key": "B", "text": "(B) accurate"},
+      {"key": "C", "text": "(C) accuracy"},
+      {"key": "D", "text": "(D) accurateness"}
+    ],
+    "correct": "C",
+    "translation": "Hệ thống lưu trữ kỹ thuật số mới của phòng khám đã cải thiện đáng kể độ chính xác của hồ sơ bệnh nhân.",
+    "explanation": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ, nên 'accuracy' (độ chính xác) là đáp án đúng. A là trạng từ, B là tính từ, không thể đứng làm trung tâm của cụm danh từ; D là dạng danh từ không phổ biến và không phù hợp bằng 'accuracy' trong ngữ cảnh này.",
+    "vocab": [
+      {"word": "clinic", "pos": "n", "meaning": "phòng khám"},
+      {"word": "filing system", "pos": "n", "meaning": "hệ thống lưu trữ hồ sơ"},
+      {"word": "significantly", "pos": "adv", "meaning": "một cách đáng kể"},
+      {"word": "patient record", "pos": "n", "meaning": "hồ sơ bệnh nhân"}
+    ]
+  },
+  {
+    "id": 104,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All staff members are required to submit their expense reports _______ the last business day of each month.",
+    "options": [
+      {"key": "A", "text": "(A) by"},
+      {"key": "B", "text": "(B) until"},
+      {"key": "C", "text": "(C) since"},
+      {"key": "D", "text": "(D) during"}
+    ],
+    "correct": "A",
+    "translation": "Tất cả nhân viên được yêu cầu nộp báo cáo chi phí trước ngày làm việc cuối cùng của mỗi tháng.",
+    "explanation": "'By + mốc thời gian' có nghĩa là chậm nhất là vào thời điểm đó, đúng với hạn chót nộp báo cáo. B sai vì 'until' nhấn mạnh việc kéo dài liên tục đến mốc thời gian; C sai vì 'since' chỉ mốc bắt đầu; D sai vì 'during' chỉ khoảng thời gian diễn ra, không mang nghĩa hạn chót.",
+    "vocab": [
+      {"word": "be required to", "pos": "phrase", "meaning": "được yêu cầu làm gì"},
+      {"word": "submit", "pos": "v", "meaning": "nộp"},
+      {"word": "expense report", "pos": "n", "meaning": "báo cáo chi phí"},
+      {"word": "business day", "pos": "n", "meaning": "ngày làm việc"}
+    ]
+  },
+  {
+    "id": 105,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The logistics company agreed to _______ the delivery route after customers reported repeated delays.",
+    "options": [
+      {"key": "A", "text": "(A) reverse"},
+      {"key": "B", "text": "(B) revise"},
+      {"key": "C", "text": "(C) reserve"},
+      {"key": "D", "text": "(D) remove"}
+    ],
+    "correct": "B",
+    "translation": "Công ty hậu cần đã đồng ý điều chỉnh tuyến giao hàng sau khi khách hàng phản ánh về những sự chậm trễ lặp đi lặp lại.",
+    "explanation": "'Revise the route' nghĩa là xem lại và điều chỉnh tuyến đường, phù hợp với việc khắc phục tình trạng giao hàng chậm. A sai vì 'reverse' là đảo ngược hoàn toàn; C sai vì 'reserve' là đặt trước, giữ chỗ; D sai vì 'remove' là loại bỏ, không đi với ý nghĩa cải thiện tuyến đường.",
+    "vocab": [
+      {"word": "logistics", "pos": "n", "meaning": "hậu cần"},
+      {"word": "revise", "pos": "v", "meaning": "xem lại và điều chỉnh"},
+      {"word": "delivery route", "pos": "n", "meaning": "tuyến giao hàng"},
+      {"word": "repeated", "pos": "adj", "meaning": "lặp đi lặp lại"}
+    ]
+  },
+  {
+    "id": 106,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The success of the construction project depended largely on the _______ of its main supplier.",
+    "options": [
+      {"key": "A", "text": "(A) rely"},
+      {"key": "B", "text": "(B) reliable"},
+      {"key": "C", "text": "(C) reliably"},
+      {"key": "D", "text": "(D) reliability"}
+    ],
+    "correct": "D",
+    "translation": "Sự thành công của dự án xây dựng phụ thuộc phần lớn vào độ tin cậy của nhà cung cấp chính.",
+    "explanation": "Cụm 'the ... of' cần một danh từ, và 'reliability' (độ tin cậy) là danh từ phù hợp. A là động từ, B là tính từ, C là trạng từ nên đều không thể đứng sau mạo từ 'the' trong cấu trúc này.",
+    "vocab": [
+      {"word": "depend on", "pos": "phrase", "meaning": "phụ thuộc vào"},
+      {"word": "largely", "pos": "adv", "meaning": "phần lớn"},
+      {"word": "supplier", "pos": "n", "meaning": "nhà cung cấp"},
+      {"word": "reliability", "pos": "n", "meaning": "độ tin cậy"}
+    ]
+  },
+  {
+    "id": 107,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The consultant _______ proposal was accepted by the board will begin work next week.",
+    "options": [
+      {"key": "A", "text": "(A) who"},
+      {"key": "B", "text": "(B) whose"},
+      {"key": "C", "text": "(C) which"},
+      {"key": "D", "text": "(D) whom"}
+    ],
+    "correct": "B",
+    "translation": "Vị chuyên gia tư vấn có đề xuất được hội đồng chấp nhận sẽ bắt đầu công việc vào tuần tới.",
+    "explanation": "Cần đại từ quan hệ chỉ sở hữu đứng trước danh từ 'proposal': 'whose proposal' = đề xuất của người đó. A và D chỉ người nhưng không nối trực tiếp với danh từ sở hữu; C dùng cho vật, không phù hợp với 'consultant'.",
+    "vocab": [
+      {"word": "consultant", "pos": "n", "meaning": "chuyên gia tư vấn"},
+      {"word": "proposal", "pos": "n", "meaning": "đề xuất"},
+      {"word": "accept", "pos": "v", "meaning": "chấp nhận"},
+      {"word": "board", "pos": "n", "meaning": "hội đồng quản trị"}
+    ]
+  },
+  {
+    "id": 108,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All customer service representatives receive training on how to _______ complaints politely and efficiently.",
+    "options": [
+      {"key": "A", "text": "(A) deal"},
+      {"key": "B", "text": "(B) solve"},
+      {"key": "C", "text": "(C) handle"},
+      {"key": "D", "text": "(D) treat"}
+    ],
+    "correct": "C",
+    "translation": "Tất cả nhân viên chăm sóc khách hàng đều được đào tạo về cách xử lý khiếu nại một cách lịch sự và hiệu quả.",
+    "explanation": "'Handle complaints' là collocation chuẩn, nghĩa là tiếp nhận và xử lý khiếu nại. A sai vì 'deal' phải đi với 'with' mới có nghĩa xử lý; B sai vì 'solve' thường đi với 'problem', không phải khiếu nại; D sai vì 'treat' dùng cho người hoặc bệnh, không dùng cho 'complaints'.",
+    "vocab": [
+      {"word": "representative", "pos": "n", "meaning": "nhân viên đại diện"},
+      {"word": "complaint", "pos": "n", "meaning": "lời khiếu nại, phàn nàn"},
+      {"word": "politely", "pos": "adv", "meaning": "một cách lịch sự"},
+      {"word": "efficiently", "pos": "adv", "meaning": "một cách hiệu quả"}
+    ]
+  },
+  {
+    "id": 109,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The company offers a _______ discount to customers who renew their contracts early.",
+    "options": [
+      {"key": "A", "text": "(A) substantial"},
+      {"key": "B", "text": "(B) substance"},
+      {"key": "C", "text": "(C) substantially"},
+      {"key": "D", "text": "(D) substantiate"}
+    ],
+    "correct": "A",
+    "translation": "Công ty đưa ra mức giảm giá đáng kể cho những khách hàng gia hạn hợp đồng sớm.",
+    "explanation": "Trước danh từ 'discount' cần một tính từ bổ nghĩa, và 'substantial' (đáng kể, lớn) phù hợp về nghĩa. B là danh từ, C là trạng từ, D là động từ nên không thể đứng trực tiếp trước 'discount' trong cấu trúc này.",
+    "vocab": [
+      {"word": "offer", "pos": "v", "meaning": "cung cấp, đưa ra"},
+      {"word": "discount", "pos": "n", "meaning": "mức giảm giá"},
+      {"word": "renew", "pos": "v", "meaning": "gia hạn"},
+      {"word": "substantial", "pos": "adj", "meaning": "đáng kể, lớn"}
+    ]
+  },
+  {
+    "id": 110,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The new safety procedures must be _______ by every employee before the factory reopens.",
+    "options": [
+      {"key": "A", "text": "(A) follow"},
+      {"key": "B", "text": "(B) following"},
+      {"key": "C", "text": "(C) to follow"},
+      {"key": "D", "text": "(D) followed"}
+    ],
+    "correct": "D",
+    "translation": "Các quy trình an toàn mới phải được mọi nhân viên tuân thủ trước khi nhà máy mở cửa trở lại.",
+    "explanation": "Cấu trúc bị động với động từ khuyết thiếu là 'must be + quá khứ phân từ', nên 'followed' là đáp án đúng. A là động từ nguyên mẫu, B là V-ing, C là động từ nguyên mẫu có 'to' — cả ba đều không tạo thành dạng bị động sau 'must be'.",
+    "vocab": [
+      {"word": "safety procedure", "pos": "n", "meaning": "quy trình an toàn"},
+      {"word": "employee", "pos": "n", "meaning": "nhân viên"},
+      {"word": "reopen", "pos": "v", "meaning": "mở cửa trở lại"},
+      {"word": "follow", "pos": "v", "meaning": "tuân theo"}
+    ]
+  },
+  {
+    "id": 111,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The IT department will _______ the old servers with more energy-efficient models next quarter.",
+    "options": [
+      {"key": "A", "text": "(A) substitute"},
+      {"key": "B", "text": "(B) replace"},
+      {"key": "C", "text": "(C) exchange"},
+      {"key": "D", "text": "(D) remove"}
+    ],
+    "correct": "B",
+    "translation": "Bộ phận công nghệ thông tin sẽ thay thế các máy chủ cũ bằng những mẫu tiết kiệm năng lượng hơn vào quý tới.",
+    "explanation": "Cấu trúc 'replace A with B' nghĩa là thay thế A bằng B, đúng với ngữ cảnh nâng cấp máy chủ. A sai vì 'substitute' thường dùng 'substitute B for A'; C sai vì 'exchange A for B' mới đúng; D sai vì 'remove' chỉ loại bỏ, không diễn tả việc thay bằng mẫu mới.",
+    "vocab": [
+      {"word": "IT department", "pos": "n", "meaning": "bộ phận công nghệ thông tin"},
+      {"word": "server", "pos": "n", "meaning": "máy chủ"},
+      {"word": "energy-efficient", "pos": "adj", "meaning": "tiết kiệm năng lượng"},
+      {"word": "quarter", "pos": "n", "meaning": "quý (ba tháng)"}
+    ]
+  },
+  {
+    "id": 112,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "_______ the heavy rain, the outdoor product launch proceeded as scheduled.",
+    "options": [
+      {"key": "A", "text": "(A) Despite"},
+      {"key": "B", "text": "(B) Although"},
+      {"key": "C", "text": "(C) Because of"},
+      {"key": "D", "text": "(D) In spite"}
+    ],
+    "correct": "A",
+    "translation": "Mặc dù trời mưa lớn, buổi ra mắt sản phẩm ngoài trời vẫn diễn ra theo đúng kế hoạch.",
+    "explanation": "Sau chỗ trống là cụm danh từ 'the heavy rain', nên cần giới từ 'Despite' để tạo cụm chỉ sự nhượng bộ. B sai vì 'Although' phải đi với một mệnh đề; C sai vì 'Because of' chỉ nguyên nhân, trái với quan hệ nhượng bộ trong câu; D sai vì 'In spite' cần thêm 'of' mới đúng.",
+    "vocab": [
+      {"word": "heavy rain", "pos": "n", "meaning": "mưa lớn"},
+      {"word": "outdoor", "pos": "adj", "meaning": "ngoài trời"},
+      {"word": "product launch", "pos": "n", "meaning": "buổi ra mắt sản phẩm"},
+      {"word": "proceed", "pos": "v", "meaning": "tiến hành, tiếp tục"}
+    ]
+  },
+  {
+    "id": 113,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The marketing team was asked to provide a more _______ analysis of the target audience.",
+    "options": [
+      {"key": "A", "text": "(A) detail"},
+      {"key": "B", "text": "(B) details"},
+      {"key": "C", "text": "(C) detailedly"},
+      {"key": "D", "text": "(D) detailed"}
+    ],
+    "correct": "D",
+    "translation": "Nhóm tiếp thị được yêu cầu cung cấp một bản phân tích chi tiết hơn về khách hàng mục tiêu.",
+    "explanation": "Cần tính từ bổ nghĩa cho danh từ 'analysis', và 'detailed' (chi tiết) là tính từ phù hợp sau 'more'. A và B là danh từ, không thể đứng trước 'analysis' để bổ nghĩa; C không phải trạng từ chuẩn trong tiếng Anh.",
+    "vocab": [
+      {"word": "provide", "pos": "v", "meaning": "cung cấp"},
+      {"word": "detailed", "pos": "adj", "meaning": "chi tiết"},
+      {"word": "analysis", "pos": "n", "meaning": "bản phân tích"},
+      {"word": "target audience", "pos": "n", "meaning": "khách hàng mục tiêu"}
+    ]
+  },
+  {
+    "id": 114,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All contractors must _______ with the safety regulations posted at the construction site.",
+    "options": [
+      {"key": "A", "text": "(A) obey"},
+      {"key": "B", "text": "(B) follow"},
+      {"key": "C", "text": "(C) comply"},
+      {"key": "D", "text": "(D) observe"}
+    ],
+    "correct": "C",
+    "translation": "Tất cả nhà thầu phải tuân thủ các quy định an toàn được niêm yết tại công trường.",
+    "explanation": "Động từ 'comply' đi với giới từ 'with' tạo thành cụm 'comply with' (tuân thủ), đúng với giới từ 'with' có sẵn trong câu. A, B và D đều là ngoại động từ dùng trực tiếp với tân ngữ, không đi với 'with' trong nghĩa này.",
+    "vocab": [
+      {"word": "contractor", "pos": "n", "meaning": "nhà thầu"},
+      {"word": "safety regulation", "pos": "n", "meaning": "quy định an toàn"},
+      {"word": "construction site", "pos": "n", "meaning": "công trường xây dựng"},
+      {"word": "comply with", "pos": "phrase", "meaning": "tuân thủ"}
+    ]
+  },
+  {
+    "id": 115,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Of the two proposals, the second one seems _______ and more practical.",
+    "options": [
+      {"key": "A", "text": "(A) clear"},
+      {"key": "B", "text": "(B) clearer"},
+      {"key": "C", "text": "(C) clearly"},
+      {"key": "D", "text": "(D) the clearest"}
+    ],
+    "correct": "B",
+    "translation": "Trong hai đề xuất, đề xuất thứ hai có vẻ rõ ràng hơn và thực tế hơn.",
+    "explanation": "Cụm 'Of the two proposals' giới hạn phạm vi so sánh giữa hai đối tượng, nên cần dạng so sánh hơn 'clearer', đồng thời song song với 'more practical'. A là tính từ gốc, không thể hiện so sánh; C là trạng từ; D là so sánh nhất, chỉ dùng khi so sánh từ ba đối tượng trở lên.",
+    "vocab": [
+      {"word": "proposal", "pos": "n", "meaning": "đề xuất"},
+      {"word": "practical", "pos": "adj", "meaning": "thực tế, khả thi"},
+      {"word": "seem", "pos": "v", "meaning": "có vẻ"},
+      {"word": "comparative", "pos": "n", "meaning": "dạng so sánh hơn"}
+    ]
+  },
+  {
+    "id": 116,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Because the shipment was damaged during transit, the supplier agreed to issue a full _______.",
+    "options": [
+      {"key": "A", "text": "(A) refund"},
+      {"key": "B", "text": "(B) receipt"},
+      {"key": "C", "text": "(C) invoice"},
+      {"key": "D", "text": "(D) discount"}
+    ],
+    "correct": "A",
+    "translation": "Vì lô hàng bị hư hỏng trong quá trình vận chuyển, nhà cung cấp đã đồng ý hoàn lại toàn bộ tiền.",
+    "explanation": "'Issue a full refund' là cụm chuẩn nghĩa là hoàn tiền toàn bộ, phù hợp với việc hàng bị hỏng. B là biên nhận, C là hóa đơn, D là khoản giảm giá — đều không phải hành động đền bù toàn bộ giá trị hàng hóa bị hỏng.",
+    "vocab": [
+      {"word": "shipment", "pos": "n", "meaning": "lô hàng"},
+      {"word": "damaged", "pos": "adj", "meaning": "bị hư hỏng"},
+      {"word": "transit", "pos": "n", "meaning": "quá trình vận chuyển"},
+      {"word": "refund", "pos": "n", "meaning": "tiền hoàn lại"}
+    ]
+  },
+  {
+    "id": 117,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The company's _______ to customer privacy has earned it a loyal following.",
+    "options": [
+      {"key": "A", "text": "(A) commit"},
+      {"key": "B", "text": "(B) committed"},
+      {"key": "C", "text": "(C) committing"},
+      {"key": "D", "text": "(D) commitment"}
+    ],
+    "correct": "D",
+    "translation": "Cam kết của công ty đối với quyền riêng tư của khách hàng đã giúp công ty có được lượng khách hàng trung thành.",
+    "explanation": "Sau sở hữu cách 'company's' và trước giới từ 'to' cần một danh từ, nên 'commitment' (cam kết) là đáp án đúng. A là động từ, B là tính từ/phân từ, C là dạng V-ing; không dạng nào phù hợp làm trung tâm cụm danh từ ở vị trí này.",
+    "vocab": [
+      {"word": "commitment", "pos": "n", "meaning": "cam kết"},
+      {"word": "privacy", "pos": "n", "meaning": "quyền riêng tư"},
+      {"word": "earn", "pos": "v", "meaning": "giành được"},
+      {"word": "loyal following", "pos": "n", "meaning": "lượng khách hàng trung thành"}
+    ]
+  },
+  {
+    "id": 118,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Neither the manager nor the employees _______ aware of the schedule change.",
+    "options": [
+      {"key": "A", "text": "(A) was"},
+      {"key": "B", "text": "(B) is"},
+      {"key": "C", "text": "(C) were"},
+      {"key": "D", "text": "(D) has been"}
+    ],
+    "correct": "C",
+    "translation": "Cả người quản lý và các nhân viên đều không biết về việc thay đổi lịch.",
+    "explanation": "Với cấu trúc 'Neither ... nor ...', động từ chia theo chủ ngữ gần nhất. 'The employees' là số nhiều nên cần 'were'. A và D chia số ít; B cũng là số ít và không hòa hợp với chủ ngữ số nhiều.",
+    "vocab": [
+      {"word": "manager", "pos": "n", "meaning": "người quản lý"},
+      {"word": "employee", "pos": "n", "meaning": "nhân viên"},
+      {"word": "aware of", "pos": "adj", "meaning": "nhận thức được, biết về"},
+      {"word": "schedule change", "pos": "n", "meaning": "việc thay đổi lịch"}
+    ]
+  },
+  {
+    "id": 119,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The new software allows users to _______ files directly from their mobile devices to the cloud.",
+    "options": [
+      {"key": "A", "text": "(A) download"},
+      {"key": "B", "text": "(B) upload"},
+      {"key": "C", "text": "(C) install"},
+      {"key": "D", "text": "(D) update"}
+    ],
+    "correct": "B",
+    "translation": "Phần mềm mới cho phép người dùng tải tệp trực tiếp từ thiết bị di động lên đám mây.",
+    "explanation": "'Upload' nghĩa là tải lên, đúng với hướng di chuyển 'from their mobile devices to the cloud'. A sai vì 'download' là tải xuống theo hướng ngược lại; C sai vì 'install' là cài đặt; D sai vì 'update' là cập nhật.",
+    "vocab": [
+      {"word": "allow", "pos": "v", "meaning": "cho phép"},
+      {"word": "upload", "pos": "v", "meaning": "tải lên"},
+      {"word": "mobile device", "pos": "n", "meaning": "thiết bị di động"},
+      {"word": "cloud", "pos": "n", "meaning": "đám mây (lưu trữ trực tuyến)"}
+    ]
+  },
+  {
+    "id": 120,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Candidates are asked to submit two professional _______ along with their résumés.",
+    "options": [
+      {"key": "A", "text": "(A) references"},
+      {"key": "B", "text": "(B) refer"},
+      {"key": "C", "text": "(C) referred"},
+      {"key": "D", "text": "(D) referential"}
+    ],
+    "correct": "A",
+    "translation": "Các ứng viên được yêu cầu nộp hai người tham khảo chuyên môn cùng với sơ yếu lý lịch.",
+    "explanation": "Sau số từ 'two' và tính từ 'professional' cần danh từ đếm được số nhiều: 'references' (người tham khảo). B là động từ, C là phân từ, D là tính từ — đều không thể làm tân ngữ danh từ số nhiều ở vị trí này.",
+    "vocab": [
+      {"word": "candidate", "pos": "n", "meaning": "ứng viên"},
+      {"word": "submit", "pos": "v", "meaning": "nộp"},
+      {"word": "professional reference", "pos": "n", "meaning": "người tham khảo chuyên môn"},
+      {"word": "résumé", "pos": "n", "meaning": "sơ yếu lý lịch"}
+    ]
+  },
+  {
+    "id": 121,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The manager suggested _______ the client meeting until the revised figures are available.",
+    "options": [
+      {"key": "A", "text": "(A) to postpone"},
+      {"key": "B", "text": "(B) postpone"},
+      {"key": "C", "text": "(C) postponed"},
+      {"key": "D", "text": "(D) postponing"}
+    ],
+    "correct": "D",
+    "translation": "Người quản lý đề nghị hoãn cuộc họp với khách hàng cho đến khi có số liệu đã chỉnh sửa.",
+    "explanation": "Động từ 'suggest' được theo sau bởi danh động từ (V-ing) khi nêu đề xuất, nên 'postponing' là đáp án đúng. A sai vì 'suggest' không đi với 'to + V'; B là động từ nguyên mẫu không 'to'; C là quá khứ phân từ, không phù hợp.",
+    "vocab": [
+      {"word": "suggest", "pos": "v", "meaning": "đề nghị"},
+      {"word": "postpone", "pos": "v", "meaning": "hoãn"},
+      {"word": "revised figures", "pos": "n", "meaning": "số liệu đã chỉnh sửa"},
+      {"word": "available", "pos": "adj", "meaning": "có sẵn"}
+    ]
+  },
+  {
+    "id": 122,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The hotel chain plans to _______ its check-in process so that guests can receive their room keys in under a minute.",
+    "options": [
+      {"key": "A", "text": "(A) expand"},
+      {"key": "B", "text": "(B) streamline"},
+      {"key": "C", "text": "(C) lengthen"},
+      {"key": "D", "text": "(D) postpone"}
+    ],
+    "correct": "B",
+    "translation": "Chuỗi khách sạn dự định tinh giản quy trình nhận phòng để khách có thể nhận chìa khóa phòng trong vòng chưa đầy một phút.",
+    "explanation": "'Streamline a process' nghĩa là tinh giản quy trình để nhanh và hiệu quả hơn, phù hợp với mục tiêu nhận phòng dưới một phút. A sai vì 'expand' là mở rộng; C sai vì 'lengthen' là kéo dài, trái nghĩa với mục tiêu; D sai vì 'postpone' là hoãn.",
+    "vocab": [
+      {"word": "hotel chain", "pos": "n", "meaning": "chuỗi khách sạn"},
+      {"word": "streamline", "pos": "v", "meaning": "tinh giản, hợp lý hóa"},
+      {"word": "check-in process", "pos": "n", "meaning": "quy trình nhận phòng"},
+      {"word": "guest", "pos": "n", "meaning": "khách lưu trú"}
+    ]
+  },
+  {
+    "id": 123,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The technician's _______ explanation helped the client understand the problem.",
+    "options": [
+      {"key": "A", "text": "(A) clarity"},
+      {"key": "B", "text": "(B) clarify"},
+      {"key": "C", "text": "(C) clear"},
+      {"key": "D", "text": "(D) clearly"}
+    ],
+    "correct": "C",
+    "translation": "Lời giải thích rõ ràng của kỹ thuật viên đã giúp khách hàng hiểu được vấn đề.",
+    "explanation": "Cần tính từ bổ nghĩa cho danh từ 'explanation', nên 'clear' là đáp án đúng. A là danh từ, B là động từ, D là trạng từ; không từ nào phù hợp để đứng trước và bổ nghĩa cho 'explanation'.",
+    "vocab": [
+      {"word": "technician", "pos": "n", "meaning": "kỹ thuật viên"},
+      {"word": "explanation", "pos": "n", "meaning": "lời giải thích"},
+      {"word": "client", "pos": "n", "meaning": "khách hàng"},
+      {"word": "clarify", "pos": "v", "meaning": "làm rõ"}
+    ]
+  },
+  {
+    "id": 124,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "If the payment _______ by Friday, the subscription will be automatically renewed.",
+    "options": [
+      {"key": "A", "text": "(A) is received"},
+      {"key": "B", "text": "(B) will be received"},
+      {"key": "C", "text": "(C) receives"},
+      {"key": "D", "text": "(D) will receive"}
+    ],
+    "correct": "A",
+    "translation": "Nếu khoản thanh toán được nhận trước thứ Sáu, gói đăng ký sẽ được tự động gia hạn.",
+    "explanation": "Trong câu điều kiện loại 1, mệnh đề 'if' dùng hiện tại đơn; vì 'the payment' là đối tượng được nhận nên cần dạng bị động 'is received'. B sai vì không dùng 'will' trong mệnh đề if; C và D là dạng chủ động, không phù hợp vì khoản thanh toán không tự 'nhận'.",
+    "vocab": [
+      {"word": "payment", "pos": "n", "meaning": "khoản thanh toán"},
+      {"word": "receive", "pos": "v", "meaning": "nhận"},
+      {"word": "subscription", "pos": "n", "meaning": "gói đăng ký"},
+      {"word": "automatically", "pos": "adv", "meaning": "một cách tự động"}
+    ]
+  },
+  {
+    "id": 125,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "All visitors must _______ at the front desk before entering the laboratory.",
+    "options": [
+      {"key": "A", "text": "(A) check out"},
+      {"key": "B", "text": "(B) fill out"},
+      {"key": "C", "text": "(C) take off"},
+      {"key": "D", "text": "(D) sign in"}
+    ],
+    "correct": "D",
+    "translation": "Tất cả khách phải đăng ký tại quầy lễ tân trước khi vào phòng thí nghiệm.",
+    "explanation": "'Sign in' nghĩa là ghi danh, đăng ký khi đến, phù hợp với việc khách phải làm thủ tục tại quầy lễ tân. A là trả phòng/rời đi; B là điền biểu mẫu (cần tân ngữ); C là cất cánh hoặc cởi ra — đều không đúng ngữ cảnh.",
+    "vocab": [
+      {"word": "visitor", "pos": "n", "meaning": "khách đến thăm"},
+      {"word": "front desk", "pos": "n", "meaning": "quầy lễ tân"},
+      {"word": "laboratory", "pos": "n", "meaning": "phòng thí nghiệm"},
+      {"word": "sign in", "pos": "phr v", "meaning": "đăng ký khi đến"}
+    ]
+  },
+  {
+    "id": 126,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The new policy applies _______ all employees, regardless of their position.",
+    "options": [
+      {"key": "A", "text": "(A) for"},
+      {"key": "B", "text": "(B) with"},
+      {"key": "C", "text": "(C) to"},
+      {"key": "D", "text": "(D) on"}
+    ],
+    "correct": "C",
+    "translation": "Chính sách mới áp dụng cho tất cả nhân viên, bất kể chức vụ của họ.",
+    "explanation": "Cấu trúc 'apply to + đối tượng' nghĩa là áp dụng cho ai/cái gì, đúng với ngữ cảnh chính sách dành cho nhân viên. A sai vì 'apply for' nghĩa là ứng tuyển; B và D không tạo thành cụm động từ đúng trong nghĩa này.",
+    "vocab": [
+      {"word": "policy", "pos": "n", "meaning": "chính sách"},
+      {"word": "apply to", "pos": "phrase", "meaning": "áp dụng cho"},
+      {"word": "regardless of", "pos": "prep", "meaning": "bất kể"},
+      {"word": "position", "pos": "n", "meaning": "chức vụ, vị trí"}
+    ]
+  },
+  {
+    "id": 127,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Regular maintenance can extend the _______ of the equipment by several years.",
+    "options": [
+      {"key": "A", "text": "(A) living"},
+      {"key": "B", "text": "(B) lifespan"},
+      {"key": "C", "text": "(C) live"},
+      {"key": "D", "text": "(D) lively"}
+    ],
+    "correct": "B",
+    "translation": "Việc bảo trì thường xuyên có thể kéo dài tuổi thọ của thiết bị thêm vài năm.",
+    "explanation": "Cần danh từ chỉ 'tuổi thọ' để đi với 'extend the ... of the equipment': 'lifespan' là lựa chọn chính xác. A là dạng V-ing/tính từ, C là động từ/tính từ, D là tính từ nghĩa 'sống động'; không từ nào phù hợp làm danh từ trung tâm ở đây.",
+    "vocab": [
+      {"word": "maintenance", "pos": "n", "meaning": "việc bảo trì"},
+      {"word": "extend", "pos": "v", "meaning": "kéo dài"},
+      {"word": "lifespan", "pos": "n", "meaning": "tuổi thọ"},
+      {"word": "equipment", "pos": "n", "meaning": "thiết bị"}
+    ]
+  },
+  {
+    "id": 128,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "Not until the auditor arrived _______ the missing documents discovered.",
+    "options": [
+      {"key": "A", "text": "(A) were"},
+      {"key": "B", "text": "(B) was"},
+      {"key": "C", "text": "(C) did"},
+      {"key": "D", "text": "(D) had"}
+    ],
+    "correct": "A",
+    "translation": "Mãi cho đến khi kiểm toán viên đến, các tài liệu bị mất mới được phát hiện.",
+    "explanation": "Cấu trúc đảo ngữ với 'Not until ...' đưa trợ động từ lên trước chủ ngữ. Câu mang nghĩa bị động 'the missing documents were discovered', nên dùng 'were' trước chủ ngữ số nhiều. B sai vì 'was' không hợp với chủ ngữ số nhiều; C sai vì 'did' cần động từ nguyên mẫu 'discover'; D sai vì 'had' cần 'been discovered'.",
+    "vocab": [
+      {"word": "auditor", "pos": "n", "meaning": "kiểm toán viên"},
+      {"word": "missing", "pos": "adj", "meaning": "bị mất, thất lạc"},
+      {"word": "document", "pos": "n", "meaning": "tài liệu"},
+      {"word": "discover", "pos": "v", "meaning": "phát hiện"}
+    ]
+  },
+  {
+    "id": 129,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The supplier failed to _______ the terms of the contract, so the company terminated the agreement.",
+    "options": [
+      {"key": "A", "text": "(A) obey"},
+      {"key": "B", "text": "(B) observe"},
+      {"key": "C", "text": "(C) respect"},
+      {"key": "D", "text": "(D) fulfill"}
+    ],
+    "correct": "D",
+    "translation": "Nhà cung cấp đã không thực hiện đúng các điều khoản của hợp đồng, nên công ty đã chấm dứt thỏa thuận.",
+    "explanation": "'Fulfill the terms of a contract' là collocation chuẩn nghĩa là thực hiện đầy đủ các điều khoản hợp đồng. A và B thường đi với luật, quy định; C thường dùng với người hoặc quyền lợi, không phải cách diễn đạt chuẩn cho 'terms of the contract' trong ngữ cảnh này.",
+    "vocab": [
+      {"word": "supplier", "pos": "n", "meaning": "nhà cung cấp"},
+      {"word": "terms", "pos": "n", "meaning": "các điều khoản"},
+      {"word": "terminate", "pos": "v", "meaning": "chấm dứt"},
+      {"word": "agreement", "pos": "n", "meaning": "thỏa thuận"}
+    ]
+  },
+  {
+    "id": 130,
+    "type": "reading",
+    "part": 5,
+    "partName": "Part 5: Hoàn thành câu (Incomplete Sentences)",
+    "questionText": "The new employee was praised for completing the assignment _______ than anyone had expected.",
+    "options": [
+      {"key": "A", "text": "(A) quick"},
+      {"key": "B", "text": "(B) quicker"},
+      {"key": "C", "text": "(C) more quickly"},
+      {"key": "D", "text": "(D) most quickly"}
+    ],
+    "correct": "C",
+    "translation": "Nhân viên mới được khen ngợi vì đã hoàn thành nhiệm vụ nhanh hơn mọi người mong đợi.",
+    "explanation": "Cần trạng từ bổ nghĩa cho động từ 'completing', và có 'than' nên phải dùng dạng so sánh hơn của trạng từ: 'more quickly'. A là tính từ, B là tính từ so sánh hơn (không bổ nghĩa cho động từ), D là so sánh nhất, không đi với 'than'.",
+    "vocab": [
+      {"word": "employee", "pos": "n", "meaning": "nhân viên"},
+      {"word": "praise", "pos": "v", "meaning": "khen ngợi"},
+      {"word": "assignment", "pos": "n", "meaning": "nhiệm vụ được giao"},
+      {"word": "complete", "pos": "v", "meaning": "hoàn thành"}
+    ]
+  }
+]

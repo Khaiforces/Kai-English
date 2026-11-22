@@ -1,0 +1,489 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "Wasn't the legacy payroll system supposed to undergo its final cutover during the holiday weekend?",
+    "questionVi": "Chẳng phải hệ thống tính lương cũ dự kiến sẽ thực hiện đợt chuyển đổi cuối cùng vào dịp cuối tuần nghỉ lễ sao?",
+    "options": [
+      "Our database architects flagged a critical schema incompatibility during Friday's dress rehearsal.",
+      "I'll cut over to the stationery aisle to grab some printer cartridges.",
+      "Yes, salaried employees are entitled to double overtime on public holidays."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải hệ thống tính lương cũ dự kiến sẽ thực hiện đợt chuyển đổi cuối cùng vào dịp cuối tuần nghỉ lễ sao?\n(A) Các kiến trúc sư cơ sở dữ liệu của chúng ta đã phát hiện lỗi không tương thích lược đồ nghiêm trọng trong buổi chạy thử hôm thứ Sáu.\n(B) Tôi sẽ rẽ sang lối bán văn phòng phẩm để lấy vài hộp mực máy in.\n(C) Đúng vậy, nhân viên hưởng lương tháng được hưởng gấp đôi tiền làm thêm giờ vào ngày lễ.",
+    "explanation": "Câu hỏi phủ định kiểm tra tiến độ chuyển đổi hệ thống ('undergo its final cutover'). Đáp án đúng là (A) phản hồi gián tiếp: đội ngũ dữ liệu đã phát hiện lỗi tương thích nghiêm trọng trong buổi chạy thử thứ Sáu, hàm ý kế hoạch chuyển đổi phải hoãn lại. Phương án (B) bẫy đa nghĩa cụm từ 'cutover' (chuyển đổi vận hành hệ thống CNTT) sang 'cut over' (đi tắt sang lối khác); phương án (C) bẫy liên tưởng từ 'payroll' và 'holiday' sang chính sách trả lương làm thêm.",
+    "vocab": [
+      ["cutover", "n", "quá trình chuyển đổi từ hệ thống cũ sang hệ thống mới"],
+      ["legacy system", "n", "hệ thống công nghệ cũ đã lỗi thời"],
+      ["incompatibility", "n", "sự không tương thích"],
+      ["dress rehearsal", "n", "buổi chạy thử nghiệm toàn phần trước khi vận hành thật"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Do you know why the municipal zoning board rejected our variance request for the hyperscale data center?",
+    "questionVi": "Bạn có biết tại sao hội đồng quy hoạch đô thị lại bác bỏ đơn xin cấp phép ngoại lệ quy hoạch cho trung tâm dữ liệu siêu quy mô của chúng ta không?",
+    "options": [
+      "Our statistical variance narrowed considerably in the second quarter.",
+      "Actually, the acoustic attenuation barriers around the backup generators fell short of residential decibel limits.",
+      "The boardroom projector requires a longer fiber-optic cable."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có biết tại sao hội đồng quy hoạch đô thị lại bác bỏ đơn xin cấp phép ngoại lệ quy hoạch cho trung tâm dữ liệu siêu quy mô của chúng ta không?\n(A) Phương sai thống kê của chúng ta đã thu hẹp đáng kể trong quý hai.\n(B) Thực ra, các vách ngăn giảm âm quanh hệ thống máy phát điện dự phòng không đạt giới hạn tiếng ồn cho khu dân cư.\n(C) Máy chiếu phòng họp cần một sợi cáp quang dài hơn.",
+    "explanation": "Câu hỏi nhúng ('Do you know why...') hỏi nguyên nhân đơn xin ngoại lệ quy hoạch ('variance request') bị từ chối. Đáp án đúng là (B) đưa ra lý do trực diện mà không cần từ 'Because': vách ngăn giảm ồn máy phát dự phòng không đạt chuẩn giới hạn decibel gần khu dân cư. Phương án (A) bẫy đa nghĩa từ 'variance' (giấy phép ngoại lệ quy hoạch đất đai vs phương sai thống kê); phương án (C) bẫy lặp từ 'board' ('zoning board' vs 'boardroom') và liên tưởng công nghệ ('fiber-optic').",
+    "vocab": [
+      ["zoning board", "n", "hội đồng quy hoạch phân khu chức năng đô thị"],
+      ["variance", "n", "giấy phép ngoại lệ cho phép xây dựng khác quy chuẩn chung"],
+      ["attenuation", "n", "sự suy giảm (tiếng ồn, tín hiệu)"],
+      ["fall short of", "v", "không đạt tiêu chuẩn/kỳ vọng"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "The geotechnical survey revealed fractured bedrock beneath the proposed viaduct piers.",
+    "questionVi": "Cuộc khảo sát địa kỹ thuật đã phát hiện tầng đá gốc bị nứt gãy bên dưới các trụ cầu cạn dự kiến xây dựng.",
+    "options": [
+      "You can reserve a private boat slip along the harbor pier.",
+      "She fractured her wrist while unloading the surveying tripod.",
+      "Our structural engineers are already revising the deep-pile foundation specifications."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Cuộc khảo sát địa kỹ thuật đã phát hiện tầng đá gốc bị nứt gãy bên dưới các trụ cầu cạn dự kiến xây dựng.\n(A) Bạn có thể đặt một chỗ neo tàu riêng dọc theo bến cầu cảng.\n(B) Cô ấy bị rạn cổ tay trong khi dỡ chiếc chân máy trắc địa.\n(C) Các kỹ sư kết cấu của chúng ta đang hiệu chỉnh lại thông số kỹ thuật móng cọc sâu rồi.",
+    "explanation": "Câu phát biểu nêu sự cố địa chất nghiêm trọng ảnh hưởng đến công trình cầu cạn. Đáp án đúng là (C) phản hồi gián tiếp bằng giải pháp kỹ thuật tương ứng: đội ngũ kỹ sư kết cấu đang điều chỉnh lại thiết kế móng cọc sâu ('deep-pile foundation specifications'). Phương án (A) bẫy đa nghĩa từ 'pier' (trụ cầu cạn vs cầu tàu bến cảng); phương án (B) bẫy lặp từ 'fractured' (đá nứt gãy vs gãy xương cổ tay) và từ cùng gốc 'survey/surveying'.",
+    "vocab": [
+      ["geotechnical", "adj", "thuộc về địa kỹ thuật"],
+      ["viaduct", "n", "cầu cạn (vượt thung lũng, đường bộ hoặc đường sắt)"],
+      ["pier", "n", "trụ cầu chịu lực"],
+      ["specification", "n", "thông số, quy cách kỹ thuật"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "Under a triple-net commercial lease, structural roof repairs still remain the landlord's obligation, don't they?",
+    "questionVi": "Theo hợp đồng thuê thương mại ròng ba bên, việc sửa chữa kết cấu mái nhà vẫn thuộc nghĩa vụ của bên cho thuê, đúng không?",
+    "options": [
+      "Check the addendum; our facility team assumed full capital maintenance in exchange for rent abatement.",
+      "The fishermen hauled in three full nets of salmon before dawn.",
+      "That commercial television spot will air during prime time tonight."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Theo hợp đồng thuê thương mại ròng ba bên, việc sửa chữa kết cấu mái nhà vẫn thuộc nghĩa vụ của bên cho thuê, đúng không?\n(A) Hãy xem lại phụ lục hợp đồng; đội vận hành cơ sở vật chất của chúng ta đã nhận toàn bộ bảo trì tài sản lớn để đổi lấy việc giảm miễn tiền thuê.\n(B) Các ngư dân đã kéo lên ba tấm lưới đầy cá hồi trước lúc bình minh.\n(C) Đoạn quảng cáo truyền hình thương mại đó sẽ phát sóng vào khung giờ vàng tối nay.",
+    "explanation": "Câu hỏi đuôi ('...don't they?') kiểm tra lại phân bổ trách nhiệm sửa chữa mái nhà trong hợp đồng thuê bất động sản thương mại. Đáp án đúng là (A) đính chính gián tiếp bằng cách dẫn chiếu phụ lục hợp đồng ('addendum'): bên thuê đã nhận luôn phần bảo trì lớn ('capital maintenance') để đổi lấy ưu đãi giảm tiền thuê ('rent abatement'). Phương án (B) bẫy đa nghĩa 'net' (thuần/ròng vs lưới đánh cá); phương án (C) bẫy đa nghĩa 'commercial' (thương mại bất động sản vs quảng cáo truyền hình).",
+    "vocab": [
+      ["addendum", "n", "phụ lục bổ sung (vào hợp đồng)"],
+      ["abatement", "n", "sự miễn giảm (tiền thuê, thuế)"],
+      ["obligation", "n", "nghĩa vụ, trách nhiệm ràng buộc"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "Who has the authority to release the milestone disbursement from the escrow account?",
+    "questionVi": "Ai có thẩm quyền giải ngân khoản thanh toán theo mốc tiến độ từ tài khoản ký quỹ vậy?",
+    "options": [
+      "The crowd began to disperse shortly after the press briefing ended.",
+      "Both the project sponsor and the independent certifier must countersign the completion dossier.",
+      "We reached our annual revenue milestone two weeks ahead of schedule."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Ai có thẩm quyền giải ngân khoản thanh toán theo mốc tiến độ từ tài khoản ký quỹ vậy?\n(A) Đám đông bắt đầu giải tán ngay sau khi buổi họp báo kết thúc.\n(B) Cả đơn vị tài trợ dự án lẫn bên kiểm định độc lập đều phải ký đối chứng hồ sơ nghiệm thu hoàn thành.\n(C) Chúng tôi đã đạt cột mốc doanh thu hàng năm sớm hơn hai tuần so với kế hoạch.",
+    "explanation": "Câu hỏi 'Who' tìm chủ thể có quyền phê duyệt giải ngân từ tài khoản ký quỹ ('escrow account'). Đáp án đúng là (B) trả lời gián tiếp quy trình đồng phê duyệt gồm cả nhà tài trợ dự án và đơn vị kiểm định độc lập ('countersign the completion dossier'). Phương án (A) bẫy từ gần âm 'disbursement' (giải ngân) vs 'disperse' (giải tán đám đông); phương án (C) bẫy lặp từ 'milestone' sang ngữ cảnh doanh thu.",
+    "vocab": [
+      ["disbursement", "n", "sự giải ngân, chi trả khoản tiền"],
+      ["escrow", "n", "tài khoản ký quỹ trung gian bảo đảm"],
+      ["countersign", "v", "ký đối chứng, đồng ký xác nhận"],
+      ["dossier", "n", "bộ hồ sơ tài liệu chi tiết"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Shouldn't our cybersecurity vendor run an adversarial penetration test before we launch the payment gateway?",
+    "questionVi": "Chẳng phải nhà cung cấp an ninh mạng nên chạy bài kiểm thử thâm nhập giả lập tấn công trước khi chúng ta ra mắt cổng thanh toán sao?",
+    "options": [
+      "Please empty the children's sandbox before the playground inspection.",
+      "The stone gateway arch in the courtyard needs pressure washing.",
+      "They've been probing our sandbox environment for vulnerabilities since Monday morning."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chẳng phải nhà cung cấp an ninh mạng nên chạy bài kiểm thử thâm nhập giả lập tấn công trước khi chúng ta ra mắt cổng thanh toán sao?\n(A) Vui lòng dọn trống hố cát của trẻ em trước buổi kiểm tra sân chơi.\n(B) Cổng vòm bằng đá ở khoảng sân cần được xịt rửa áp lực cao.\n(C) Họ đã rà quét lỗ hổng trong môi trường thử nghiệm cách ly của chúng ta từ sáng thứ Hai rồi.",
+    "explanation": "Câu hỏi phủ định đề xuất kiểm tra bảo mật trước khi vận hành cổng thanh toán. Đáp án đúng là (C) xác nhận gián tiếp rằng nhà cung cấp an ninh mạng đã và đang dò tìm lỗ hổng trên môi trường thử nghiệm cách ly ('sandbox environment') từ đầu tuần. Phương án (A) bẫy đa nghĩa từ 'sandbox' (môi trường kiểm thử phần mềm cô lập vs hố cát sân chơi); phương án (B) bẫy đa nghĩa từ 'gateway' (cổng thanh toán trực tuyến vs cổng vòm kiến trúc).",
+    "vocab": [
+      ["adversarial", "adj", "mang tính đối kháng, giả lập phe tấn công"],
+      ["penetration test", "n", "kiểm thử xâm nhập bảo mật"],
+      ["vulnerability", "n", "lỗ hổng, điểm yếu (hệ thống)"],
+      ["sandbox", "n", "môi trường thử nghiệm phần mềm tách biệt"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Could you clarify how plant management plans to stagger technician shifts during the robotic welding recalibration?",
+    "questionVi": "Bạn có thể làm rõ ban quản lý nhà máy dự định bố trí so le ca làm việc của kỹ thuật viên như thế nào trong thời gian hiệu chuẩn lại dây chuyền hàn robot không?",
+    "options": [
+      "Two-thirds of the assembly crew will rotate onto overnight maintenance blocks until Friday.",
+      "Remember to water the potted plants in the executive lounge.",
+      "The staggering cost of raw steel caught our procurement team off guard."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể làm rõ ban quản lý nhà máy dự định bố trí so le ca làm việc của kỹ thuật viên như thế nào trong thời gian hiệu chuẩn lại dây chuyền hàn robot không?\n(A) Hai phần ba tổ lắp ráp sẽ luân chuyển sang các ca bảo trì ban đêm cho đến hết thứ Sáu.\n(B) Hãy nhớ tưới nước cho những chậu cây cảnh ở phòng chờ ban điều hành.\n(C) Chi phí thép thô tăng cao gây choáng váng đã khiến đội thu mua của chúng ta trở tay không kịp.",
+    "explanation": "Câu hỏi nhúng yêu cầu giải thích phương án bố trí lệch ca ('stagger technician shifts') khi hiệu chuẩn dây chuyền robot. Đáp án đúng là (A) nêu rõ cách thức sắp xếp: hai phần ba đội ngũ sẽ luân chuyển sang các ca bảo trì đêm ('overnight maintenance blocks'). Phương án (B) bẫy đa nghĩa từ 'plant' (nhà máy sản xuất vs cây trồng); phương án (C) bẫy từ cùng gốc/đa nghĩa 'stagger' (phân ca so le) vs 'staggering' (gây sửng sốt, khổng lồ).",
+    "vocab": [
+      ["stagger", "v", "bố trí so le, lệch khung giờ"],
+      ["recalibration", "n", "sự hiệu chuẩn lại thông số thiết bị"],
+      ["rotate", "v", "luân chuyển ca/vị trí"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "Statutory health-data privacy mandates prohibit us from purging patient records prematurely, don't they?",
+    "questionVi": "Các quy định luật định về bảo mật dữ liệu y tế nghiêm cấm chúng ta xóa bỏ hồ sơ bệnh nhân trước thời hạn, phải không?",
+    "options": [
+      "The bronze statue in the hospital atrium was donated by an alumnus.",
+      "Precisely, an unredacted archive must be retained for seven years post-discharge.",
+      "She broke the regional track-and-field record last Saturday."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Các quy định luật định về bảo mật dữ liệu y tế nghiêm cấm chúng ta xóa bỏ hồ sơ bệnh nhân trước thời hạn, phải không?\n(A) Bức tượng đồng ở sảnh giếng trời bệnh viện được một cựu sinh viên trao tặng.\n(B) Chính xác, một bản lưu trữ nguyên vẹn không che nội dung phải được giữ lại suốt bảy năm sau khi xuất viện.\n(C) Cô ấy đã phá kỷ lục điền kinh khu vực vào thứ Bảy tuần trước.",
+    "explanation": "Câu hỏi đuôi về quy định pháp lý lưu trữ dữ liệu y tế. Đáp án đúng là (B) xác nhận chuẩn C2 bằng cách diễn giải lại 'prohibit purging prematurely' thành 'must be retained for seven years post-discharge' (phải lưu giữ 7 năm sau xuất viện). Phương án (A) bẫy từ gần âm 'statutory' (theo luật định) vs 'statue' (bức tượng); phương án (C) bẫy đa nghĩa từ 'record' (hồ sơ bệnh án vs kỷ lục thể thao).",
+    "vocab": [
+      ["statutory", "adj", "theo quy định của luật pháp, luật định"],
+      ["purge", "v", "xóa sạch, thanh lọc hoàn toàn (dữ liệu)"],
+      ["unredacted", "adj", "nguyên vẹn, chưa bị bôi đen/che giấu nội dung"],
+      ["retain", "v", "lưu giữ, duy trì"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "When are the marine engineers scheduled to begin commissioning the offshore wind turbines?",
+    "questionVi": "Khi nào các kỹ sư hàng hải dự kiến bắt đầu nghiệm thu vận hành các tua-bin gió ngoài khơi?",
+    "options": [
+      "The gallery commissioned a local sculptor to carve a centerpiece.",
+      "Please wind the extension cord neatly before putting it in the toolbox.",
+      "Operations are contingent on a seventy-two-hour calm-weather window early next month."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Khi nào các kỹ sư hàng hải dự kiến bắt đầu nghiệm thu vận hành các tua-bin gió ngoài khơi?\n(A) Phòng trưng bày đã đặt hàng một nhà điêu khắc địa phương chạm khắc tác phẩm trung tâm.\n(B) Vui lòng cuộn gọn dây nối điện trước khi cất vào hộp dụng cụ.\n(C) Hoạt động triển khai phụ thuộc vào khoảng thời tiết êm biển kéo dài bảy mươi hai giờ vào đầu tháng tới.",
+    "explanation": "Câu hỏi 'When' hỏi mốc thời gian vận hành thử nghiệm ('commissioning') dự án điện gió ngoài khơi. Đáp án đúng là (C) trả lời gián tiếp rằng tiến độ phụ thuộc vào cửa sổ thời tiết lặng sóng 72 giờ vào đầu tháng sau ('early next month'). Phương án (A) bẫy đa nghĩa từ 'commission' (nghiệm thu đưa thiết bị kỹ thuật vào hoạt động vs đặt hàng tác phẩm nghệ thuật); phương án (B) bẫy từ đồng tự khác âm/đa nghĩa 'wind' (gió vs cuộn dây).",
+    "vocab": [
+      ["commission", "v", "nghiệm thu và đưa công trình/máy móc vào vận hành"],
+      ["offshore", "adj", "ngoài khơi"],
+      ["contingent on", "adj", "phụ thuộc vào điều kiện nào đó"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "Didn't the architectural firm specify triple-glazed thermal windows to qualify for green-building certification?",
+    "questionVi": "Chẳng phải công ty kiến trúc đã chỉ định lắp kính cách nhiệt ba lớp để đủ điều kiện đạt chứng nhận công trình xanh sao?",
+    "options": [
+      "Value engineering prompted us to substitute an electrochromic tint system yielding equivalent insulation.",
+      "The pastry chef brushed a glossy sugar glaze over the fruit tarts.",
+      "The green pasture beside the highway is zoned for livestock grazing."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải công ty kiến trúc đã chỉ định lắp kính cách nhiệt ba lớp để đủ điều kiện đạt chứng nhận công trình xanh sao?\n(A) Quá trình tối ưu hóa chi phí kỹ thuật đã thúc đẩy chúng tôi thay thế bằng hệ thống kính đổi màu điện tử cho hiệu quả cách nhiệt tương đương.\n(B) Đầu bếp làm bánh đã phết một lớp men đường bóng lên các chiếc bánh tart trái cây.\n(C) Bãi cỏ xanh bên cạnh đường cao tốc được quy hoạch để chăn thả gia súc.",
+    "explanation": "Câu hỏi phủ định kiểm tra thông số vật liệu kính cách nhiệt trong hồ sơ chứng nhận công trình xanh. Đáp án đúng là (A) trả lời gián tiếp lý do thay đổi thông số: tối ưu hóa giá trị kỹ thuật ('value engineering') khiến nhóm chuyển sang kính điện sắc có độ cách nhiệt tương đương. Phương án (B) bẫy từ cùng gốc 'glazed' (lắp lớp kính) vs 'glaze' (lớp phủ bóng bánh ngọt); phương án (C) bẫy lặp từ 'green' và từ gần âm 'glazed' vs 'grazing'.",
+    "vocab": [
+      ["triple-glazed", "adj", "có cấu tạo ba lớp kính cách nhiệt/cách âm"],
+      ["value engineering", "n", "tối ưu hóa chi phí mà vẫn đảm bảo công năng kỹ thuật"],
+      ["insulation", "n", "sự cách nhiệt, cách âm"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "Our packaging supplier warned of a severe bottleneck in compostable bioplastic resin shipments.",
+    "questionVi": "Nhà cung cấp bao bì của chúng ta cảnh báo về tình trạng tắc nghẽn nghiêm trọng trong các lô hàng hạt nhựa sinh học phân hủy được.",
+    "options": [
+      "He officially resigned from the editorial board last Tuesday.",
+      "Then we'd better pivot back to molded fiber trays for the autumn product rollout.",
+      "Keep the damp basement dry to prevent mold from spreading."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Nhà cung cấp bao bì của chúng ta cảnh báo về tình trạng tắc nghẽn nghiêm trọng trong các lô hàng hạt nhựa sinh học phân hủy được.\n(A) Ông ấy đã chính thức từ chức khỏi ban biên tập vào thứ Ba tuần trước.\n(B) Vậy thì tốt hơn hết chúng ta nên xoay trục quay lại dùng khay sợi ép cho đợt ra mắt sản phẩm mùa thu.\n(C) Hãy giữ cho tầng hầm ẩm ướt được khô ráo để ngăn nấm mốc lan rộng.",
+    "explanation": "Câu phát biểu thông báo rủi ro gián đoạn nguồn cung hạt nhựa sinh học. Đáp án đúng là (B) đề xuất giải pháp ứng phó hợp lý: chuyển tạm sang khay sợi đúc khuôn ('molded fiber trays') để kịp tiến độ tung sản phẩm mùa thu. Phương án (A) bẫy từ gần âm 'resin' (nhựa nguyên liệu) vs 'resigned' (từ chức); phương án (C) bẫy từ đồng âm 'molded' (đúc khuôn) vs 'mold' (nấm mốc).",
+    "vocab": [
+      ["compostable", "adj", "có thể phân hủy thành mùn sinh học"],
+      ["resin", "n", "hạt nhựa, nhựa polymer nguyên liệu"],
+      ["pivot", "v", "chuyển hướng chiến lược/phương án"],
+      ["rollout", "n", "đợt triển khai, ra mắt sản phẩm mới"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "Are we migrating the disaster-recovery backups to a multi-region cloud architecture or retaining an on-premise cold standby?",
+    "questionVi": "Chúng ta sẽ di chuyển các bản sao lưu phục hồi sau thảm họa lên kiến trúc đám mây đa vùng hay giữ lại hệ thống dự phòng nguội tại chỗ?",
+    "options": [
+      "Flocks of geese are migrating southward ahead of the winter frost.",
+      "Please keep the bottled beverages cold in the mini-fridge until guests arrive.",
+      "Either way, our uptime service-level agreement mandates automated failover within fifteen minutes."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chúng ta sẽ di chuyển các bản sao lưu phục hồi sau thảm họa lên kiến trúc đám mây đa vùng hay giữ lại hệ thống dự phòng nguội tại chỗ?\n(A) Những đàn ngỗng trời đang di cư về phương nam trước đợt sương giá mùa đông.\n(B) Vui lòng giữ đồ uống đóng chai lạnh trong tủ lạnh mini cho đến khi khách đến.\n(C) Dù chọn phương án nào, thỏa thuận cam kết thời gian hoạt động của chúng ta đều bắt buộc cơ chế chuyển đổi dự phòng tự động trong vòng mười lăm phút.",
+    "explanation": "Câu hỏi lựa chọn về hạ tầng sao lưu dự phòng ('multi-region cloud' hay 'on-premise cold standby'). Đáp án đúng là (C) phản hồi gián tiếp mang tính ràng buộc kỹ thuật: dù chọn mô hình nào cũng phải đáp ứng cam kết chuyển đổi dự phòng tự động ('automated failover') dưới 15 phút (hàm ý 'cold standby' khó đạt chuẩn nếu không tự động hóa). Phương án (A) bẫy đa nghĩa 'migrating' (di trú dữ liệu hệ thống vs chim di cư); phương án (B) bẫy lặp từ 'cold' theo nghĩa nhiệt độ.",
+    "vocab": [
+      ["on-premise", "adj", "đặt tại hạ tầng nội bộ của doanh nghiệp"],
+      ["standby", "n/adj", "hệ thống dự phòng sẵn sàng thay thế"],
+      ["failover", "n", "cơ chế tự động chuyển sang hệ thống dự phòng khi gặp sự cố"],
+      ["mandate", "v", "quy định bắt buộc"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "Why was the digital billboard campaign across the transit network pulled prematurely?",
+    "questionVi": "Tại sao chiến dịch quảng cáo bảng điện tử kỹ thuật số trên toàn mạng lưới giao thông công cộng lại bị rút xuống sớm vậy?",
+    "options": [
+      "The licensing clearance for the background soundtrack expired unexpectedly over the weekend.",
+      "Passengers should pull the emergency cord only if the train stalls.",
+      "I walked across the pedestrian overpass to catch the morning tram."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao chiến dịch quảng cáo bảng điện tử kỹ thuật số trên toàn mạng lưới giao thông công cộng lại bị rút xuống sớm vậy?\n(A) Giấy phép bản quyền cho đoạn nhạc nền bất ngờ hết hạn vào dịp cuối tuần qua.\n(B) Hành khách chỉ nên kéo dây khẩn cấp nếu đoàn tàu bị chết máy.\n(C) Tôi đã đi bộ qua cầu vượt dành cho người đi bộ để kịp chuyến tàu điện buổi sáng.",
+    "explanation": "Câu hỏi 'Why' tìm lý do chiến dịch quảng cáo ngoài trời kỹ thuật số bị gỡ bỏ sớm ('pulled prematurely'). Đáp án đúng là (A) giải thích gián tiếp nguyên nhân pháp lý: bản quyền nhạc nền ('licensing clearance for the background soundtrack') bất ngờ hết hạn. Phương án (B) bẫy đa nghĩa từ 'pulled' (rút/gỡ chiến dịch vs kéo dây phanh); phương án (C) bẫy lặp từ 'across' và liên tưởng ngữ cảnh giao thông công cộng ('transit network' vs 'morning tram').",
+    "vocab": [
+      ["prematurely", "adv", "sớm hơn dự kiến, trước thời hạn"],
+      ["licensing clearance", "n", "sự cấp phép/giấy phép sử dụng bản quyền"],
+      ["expire", "v", "hết hạn hiệu lực"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "Where will the acoustics team conduct decibel profiling for the prototype electric drivetrain?",
+    "questionVi": "Nhóm chuyên gia âm học sẽ tiến hành đo biểu đồ mức độ tiếng ồn cho nguyên mẫu hệ truyền động điện ở đâu?",
+    "options": [
+      "The chamber of commerce is hosting a regional trade summit tomorrow.",
+      "Inside the newly insulated anechoic chamber at the proving grounds.",
+      "The freight train was delayed by a minor track switching fault."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Nhóm chuyên gia âm học sẽ tiến hành đo biểu đồ mức độ tiếng ồn cho nguyên mẫu hệ truyền động điện ở đâu?\n(A) Phòng thương mại sẽ đăng cai một hội nghị thượng đỉnh thương mại khu vực vào ngày mai.\n(B) Bên trong buồng tiêu âm không phản xạ vừa được cách âm tại bãi thử nghiệm xe.\n(C) Chuyến tàu chở hàng đã bị chậm trễ do một lỗi nhỏ ở bộ chuyển ray.",
+    "explanation": "Câu hỏi 'Where' hỏi địa điểm đo âm học của nguyên mẫu hệ truyền động điện ('prototype electric drivetrain'). Đáp án đúng là (B) nêu chính xác địa điểm kỹ thuật chuyên dụng: buồng không phản âm ('anechoic chamber') tại bãi thử nghiệm ('proving grounds'). Phương án (A) bẫy đa nghĩa từ 'chamber' (buồng thí nghiệm vs phòng thương mại); phương án (C) bẫy tách từ 'drivetrain' thành 'freight train'.",
+    "vocab": [
+      ["acoustics", "n", "âm học, kỹ thuật đo và kiểm soát âm thanh"],
+      ["drivetrain", "n", "hệ thống truyền động (của phương tiện)"],
+      ["anechoic chamber", "n", "buồng triệt âm, không phản xạ âm thanh"],
+      ["proving grounds", "n", "bãi/khu thử nghiệm xe và thiết bị"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "Can't the coastal desalination facility ramp up output to offset the industrial park's drought rationing?",
+    "questionVi": "Chẳng phải nhà máy khử mặn ven biển có thể tăng sản lượng để bù đắp cho việc phân bổ hạn mức nước mùa hạn hán tại khu công nghiệp sao?",
+    "options": [
+      "We took a scenic walk through the municipal park after lunch.",
+      "You'll need to scale down the font size so the chart fits on one page.",
+      "Not until engineers flush the mineral scaling off the reverse-osmosis membranes."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chẳng phải nhà máy khử mặn ven biển có thể tăng sản lượng để bù đắp cho việc phân bổ hạn mức nước mùa hạn hán tại khu công nghiệp sao?\n(A) Chúng tôi đã đi dạo ngắm cảnh qua công viên thành phố sau bữa trưa.\n(B) Bạn sẽ cần thu nhỏ cỡ chữ để biểu đồ vừa vặn trên một trang giấy.\n(C) Chưa thể đâu, cho đến khi các kỹ sư súc rửa sạch lớp cặn khoáng bám trên các màng thẩm thấu ngược.",
+    "explanation": "Câu hỏi phủ định hỏi khả năng nâng công suất nhà máy khử mặn ('desalination facility'). Đáp án đúng là (C) giải thích gián tiếp rào cản kỹ thuật khiến chưa thể tăng sản lượng: phải đợi súc rửa lớp cặn khoáng ('mineral scaling') khỏi màng lọc thẩm thấu ngược. Phương án (A) bẫy đa nghĩa 'park' ('industrial park' khu công nghiệp vs 'municipal park' công viên); phương án (B) bẫy đa nghĩa 'scale down' (thu nhỏ kích thước) với 'mineral scaling' (cặn khoáng đóng vảy).",
+    "vocab": [
+      ["desalination", "n", "quá trình khử muối/khử mặn nước biển"],
+      ["rationing", "n", "sự phân phối theo định mức hạn chế"],
+      ["mineral scaling", "n", "lớp cặn khoáng đóng bám trên bề mặt thiết bị"],
+      ["membrane", "n", "màng lọc"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "Management ratified the cold-chain drivers' collective bargaining agreement without altering the overtime cap, right?",
+    "questionVi": "Ban lãnh đạo đã phê chuẩn thỏa ước lao động tập thể của đội ngũ tài xế vận tải chuỗi lạnh mà không thay đổi trần giờ làm thêm, đúng không?",
+    "options": [
+      "Actually, union negotiators secured a tiered weekend premium during the final mediation round.",
+      "The department store offers a great bargain on winter coats through Sunday.",
+      "Please cap the ink bottles tightly before packing the display crate."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Ban lãnh đạo đã phê chuẩn thỏa ước lao động tập thể của đội ngũ tài xế vận tải chuỗi lạnh mà không thay đổi trần giờ làm thêm, đúng không?\n(A) Thực ra, các nhà đàm phán công đoàn đã giành được mức phụ cấp cuối tuần theo bậc trong vòng hòa giải cuối cùng.\n(B) Cửa hàng bách hóa đang có mức giá hời lớn cho áo khoác mùa đông đến hết Chủ nhật.\n(C) Vui lòng đậy chặt nắp các lọ mực trước khi đóng thùng hàng trưng bày.",
+    "explanation": "Câu hỏi đuôi xác nhận điều khoản của thỏa ước lao động tập thể ('collective bargaining agreement'). Đáp án đúng là (A) đính chính gián tiếp bằng chi tiết bổ sung từ vòng hòa giải cuối ('final mediation round'): công đoàn đã thương lượng được phụ cấp cuối tuần theo bậc ('tiered weekend premium'). Phương án (B) bẫy đa nghĩa/cùng gốc 'bargaining' (thương lượng hợp đồng) vs 'bargain' (món hàng giá hời); phương án (C) bẫy đa nghĩa 'cap' (mức trần giới hạn vs nắp lọ).",
+    "vocab": [
+      ["collective bargaining", "n", "thương lượng tập thể (giữa công đoàn và chủ sử dụng lao động)"],
+      ["cap", "n", "mức trần giới hạn tối đa"],
+      ["mediation", "n", "sự hòa giải tranh chấp"],
+      ["tiered", "adj", "chia theo từng bậc, nhiều cấp độ"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "Breakage rates on our cross-country intermodal rail shipments jumped twelve percent last month.",
+    "questionVi": "Tỷ lệ hàng vỡ hỏng trên các chuyến hàng đường sắt đa phương thức xuyên quốc gia của chúng ta đã tăng vọt mười hai phần trăm trong tháng trước.",
+    "options": [
+      "Let's take a fifteen-minute coffee break before reviewing the slides.",
+      "I'll instruct the dispatch depot to switch to high-density inflatable dunnage bags.",
+      "Workers installed a steel handrail along the warehouse staircase."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Tỷ lệ hàng vỡ hỏng trên các chuyến hàng đường sắt đa phương thức xuyên quốc gia của chúng ta đã tăng vọt mười hai phần trăm trong tháng trước.\n(A) Chúng ta hãy nghỉ giải lao uống cà phê mười lăm phút trước khi xem lại các trang trình chiếu.\n(B) Tôi sẽ chỉ đạo kho điều phối chuyển sang sử dụng túi khí chèn hàng mật độ cao.\n(C) Công nhân đã lắp đặt tay vịn bằng thép dọc theo cầu thang nhà kho.",
+    "explanation": "Câu phát biểu phản ánh tình trạng tổn thất hàng hóa trong vận tải đường sắt đa phương thức. Đáp án đúng là (B) đưa ra biện pháp khắc phục trực diện: chỉ đạo kho điều phối đổi sang túi khí chèn hàng chịu lực ('inflatable dunnage bags') để giảm va đập. Phương án (A) bẫy từ cùng gốc 'breakage' (tỷ lệ vỡ hỏng) vs 'break' (nghỉ giải lao); phương án (C) bẫy lặp thành phần âm 'rail' trong 'handrail' (tay vịn cầu thang) vs 'rail shipments'.",
+    "vocab": [
+      ["intermodal", "adj", "đa phương thức (kết hợp đường sắt, đường bộ, đường biển)"],
+      ["breakage", "n", "sự đổ vỡ, tỷ lệ hàng bị vỡ hỏng"],
+      ["dispatch depot", "n", "kho/trạm điều phối vận tải"],
+      ["dunnage", "n", "vật liệu chèn lót bảo vệ hàng hóa trong container"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "How frequently do municipal safety inspectors require load-bearing recertification for our tower cranes?",
+    "questionVi": "Các thanh tra an toàn đô thị yêu cầu tái cấp chứng nhận khả năng chịu tải cho các cần trục tháp của chúng ta với tần suất bao lâu một lần?",
+    "options": [
+      "A flock of white cranes nested along the coastal wetland reserve.",
+      "The excess luggage weight exceeded the airline's carry-on allowance.",
+      "Every six months, or immediately after any severe windstorm exceeding gale force."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Các thanh tra an toàn đô thị yêu cầu tái cấp chứng nhận khả năng chịu tải cho các cần trục tháp của chúng ta với tần suất bao lâu một lần?\n(A) Một đàn sếu trắng đã làm tổ dọc theo khu bảo tồn đất ngập nước ven biển.\n(B) Trọng lượng hành lý thừa đã vượt quá hạn mức hành lý xách tay của hãng hàng không.\n(C) Mỗi sáu tháng một lần, hoặc ngay lập tức sau bất kỳ trận bão gió mạnh nào vượt cấp gió giật.",
+    "explanation": "Câu hỏi 'How frequently' hỏi chu kỳ kiểm định lại tải trọng cần trục tháp. Đáp án đúng là (C) cung cấp tần suất định kỳ ('Every six months') kèm điều kiện kiểm định đột xuất sau bão lớn. Phương án (A) bẫy đa nghĩa từ 'cranes' (cần trục xây dựng vs chim sếu); phương án (B) bẫy liên tưởng 'load-bearing' (chịu tải kết cấu) sang cân nặng hành lý sân bay.",
+    "vocab": [
+      ["load-bearing", "adj", "chịu lực, chịu tải"],
+      ["recertification", "n", "sự tái kiểm định và cấp lại chứng nhận"],
+      ["gale force", "n", "sức gió giật cấp bão"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "Which LiDAR sensor array did the robotics division select for the automated warehouse fleet?",
+    "questionVi": "Bộ phận robot đã chọn cụm cảm biến LiDAR nào cho đội xe vận hành tự động trong kho hàng vậy?",
+    "options": [
+      "The solid-state unit proved far less susceptible to calibration drift under high-bay LED lighting.",
+      "Snowdrifts blocked the loading bay entrance until early afternoon.",
+      "Our corporate fleet includes twelve hybrid sedans for regional managers."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bộ phận robot đã chọn cụm cảm biến LiDAR nào cho đội xe vận hành tự động trong kho hàng vậy?\n(A) Thiết bị thể rắn chứng minh khả năng ít bị trôi sai số hiệu chuẩn hơn hẳn dưới hệ thống đèn LED trần cao.\n(B) Các đụn tuyết trôi đã chặn kín lối vào bến bốc dỡ cho đến đầu giờ chiều.\n(C) Đội xe công ty chúng ta gồm mười hai chiếc sedan hybrid dành cho các quản lý khu vực.",
+    "explanation": "Câu hỏi 'Which' tìm dòng cảm biến LiDAR được lựa chọn cho xe tự hành trong kho. Đáp án đúng là (A) chỉ rõ dòng thiết bị thể rắn ('solid-state unit') kèm ưu điểm kỹ thuật ít trôi sai số hiệu chuẩn ('calibration drift') dưới ánh sáng công nghiệp. Phương án (B) bẫy tách ghép từ 'calibration drift' và 'high-bay' sang 'snowdrifts' và 'loading bay'; phương án (C) bẫy lặp từ 'fleet' (đội xe tự hành kho vận vs đội xe con quản lý).",
+    "vocab": [
+      ["solid-state", "adj", "thể rắn (không có bộ phận chuyển động cơ học)"],
+      ["susceptible to", "adj", "dễ bị ảnh hưởng bởi"],
+      ["calibration drift", "n", "sự trôi/sai lệch dần thông số hiệu chuẩn theo thời gian"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "Do you happen to know whether the journal granted us an open-access fee waiver for the clinical trial paper?",
+    "questionVi": "Bạn có tình cờ biết liệu tạp chí khoa học đó đã chấp thuận miễn phí xuất bản truy cập mở cho bài báo thử nghiệm lâm sàng của chúng ta chưa?",
+    "options": [
+      "Spectators waved from the pier as the research vessel departed.",
+      "The managing editor applied an institutional grant credit on the galley proofs invoice.",
+      "The aircraft galley was restocked with chilled refreshments before boarding."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có tình cờ biết liệu tạp chí khoa học đó đã chấp thuận miễn phí xuất bản truy cập mở cho bài báo thử nghiệm lâm sàng của chúng ta chưa?\n(A) Khán giả đã vẫy tay từ cầu tàu khi con tàu nghiên cứu rời bến.\n(B) Tổng biên tập điều hành đã áp dụng khoản tín dụng tài trợ cấp tổ chức vào hóa đơn bản in thử.\n(C) Khoang bếp máy bay đã được bổ sung đồ uống ướp lạnh trước giờ lên tàu.",
+    "explanation": "Câu hỏi nhúng ('whether...') hỏi về việc miễn phí xuất bản học thuật ('open-access fee waiver'). Đáp án đúng là (B) xác nhận gián tiếp bằng nghiệp vụ xuất bản: tổng biên tập đã cấn trừ tài trợ tổ chức vào hóa đơn bản in thử ('galley proofs invoice'). Phương án (A) bẫy đồng âm 'waiver' (giấy miễn trừ phí) vs 'waved' (vẫy tay); phương án (C) bẫy đa nghĩa từ 'galley' (bản in thử sắp chữ trong xuất bản vs khoang bếp máy bay/tàu thủy).",
+    "vocab": [
+      ["waiver", "n", "sự miễn trừ (phí, nghĩa vụ, quy định)"],
+      ["open-access", "adj", "truy cập mở miễn phí cho độc giả"],
+      ["galley proofs", "n", "bản in thử để kiểm tra lỗi trước khi xuất bản chính thức"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "Haven't the landscape architects submitted the bioswale drainage schematics for the campus expansion yet?",
+    "questionVi": "Chẳng phải các kiến trúc sư cảnh quan vẫn chưa nộp bản vẽ kỹ thuật hệ thống rãnh thu nước sinh học cho dự án mở rộng khuôn viên sao?",
+    "options": [
+      "Wait until the thunderstorm clears before walking across the university quad.",
+      "The watercolor landscape hanging in the foyer was painted by an alumna.",
+      "They're tweaking the runoff retention grades to satisfy the revised municipal storm-water code."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chẳng phải các kiến trúc sư cảnh quan vẫn chưa nộp bản vẽ kỹ thuật hệ thống rãnh thu nước sinh học cho dự án mở rộng khuôn viên sao?\n(A) Hãy đợi cho đến khi cơn giông tan bớt rồi hẵng đi bộ băng qua sân vuông trường đại học.\n(B) Bức tranh phong cảnh màu nước treo ở tiền sảnh do một nữ cựu sinh viên vẽ.\n(C) Họ đang tinh chỉnh độ dốc giữ nước mưa chảy tràn để đáp ứng bộ quy chuẩn thoát nước mưa đô thị mới sửa đổi.",
+    "explanation": "Câu hỏi phủ định kiểm tra lý do bản vẽ thoát nước cảnh quan chưa được nộp. Đáp án đúng là (C) xác nhận gián tiếp rằng bản vẽ vẫn đang được chỉnh sửa về độ dốc giữ nước chảy tràn ('runoff retention grades') cho khớp quy chuẩn mới. Phương án (A) bẫy lặp từ 'storm' ('storm-water code' quy chuẩn thoát nước mưa vs 'thunderstorm' cơn giông); phương án (B) bẫy đa nghĩa từ 'landscape' (kiến trúc cảnh quan vs tranh phong cảnh).",
+    "vocab": [
+      ["schematic", "n", "bản vẽ sơ đồ kỹ thuật"],
+      ["runoff", "n", "nước mưa chảy tràn trên bề mặt"],
+      ["retention grade", "n", "độ dốc/cấp độ giữ nước"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "The hotel's west wing just lost power twenty minutes ahead of our keynote plenary session.",
+    "questionVi": "Cánh tây của khách sạn vừa bị mất điện chỉ hai mươi phút trước phiên họp toàn thể phát biểu chủ đề chính của chúng ta.",
+    "options": [
+      "Building engineering is already engaging the automatic transfer switch to isolate the main auditorium circuit.",
+      "I'd prefer the chicken wing appetizer rather than the mushroom soup.",
+      "Please power off your desktop monitor before leaving for the evening."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Cánh tây của khách sạn vừa bị mất điện chỉ hai mươi phút trước phiên họp toàn thể phát biểu chủ đề chính của chúng ta.\n(A) Bộ phận kỹ thuật tòa nhà đang kích hoạt bộ chuyển nguồn tự động để tách riêng mạch điện cho khán phòng chính rồi.\n(B) Tôi thích món khai vị cánh gà hơn là súp nấm.\n(C) Vui lòng tắt nguồn màn hình máy tính để bàn trước khi ra về buổi tối.",
+    "explanation": "Câu phát biểu báo động sự cố mất điện sát giờ khai mạc phiên toàn thể ('plenary session'). Đáp án đúng là (A) phản hồi gián tiếp bằng hành động xử lý kỹ thuật khẩn cấp: kích hoạt bộ chuyển nguồn tự động ('automatic transfer switch') cấp điện riêng cho khán phòng chính. Phương án (B) bẫy đa nghĩa từ 'wing' (khu cánh tòa nhà vs cánh gà món ăn); phương án (C) bẫy lặp từ 'power' sang thao tác tắt máy tính.",
+    "vocab": [
+      ["plenary session", "n", "phiên họp toàn thể (có mặt đầy đủ đại biểu)"],
+      ["transfer switch", "n", "bộ chuyển mạch nguồn điện dự phòng"],
+      ["isolate", "v", "cô lập, tách riêng (một mạch điện hoặc khu vực)"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "Participants in the rotational leadership fellowship aren't exempt from the six-month regional posting, are they?",
+    "questionVi": "Những người tham gia chương trình đào tạo lãnh đạo luân chuyển không được miễn trừ đợt điều động công tác khu vực kéo dài sáu tháng, phải không?",
+    "options": [
+      "Please post the revised seating chart on the staff bulletin board.",
+      "Only candidates with documented medical hardships can petition for a domestic placement.",
+      "The rotating restaurant at the top of the tower offers panoramic city views."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Những người tham gia chương trình đào tạo lãnh đạo luân chuyển không được miễn trừ đợt điều động công tác khu vực kéo dài sáu tháng, phải không?\n(A) Vui lòng dán sơ đồ chỗ ngồi đã sửa đổi lên bảng thông báo nhân viên.\n(B) Chỉ những ứng viên có khó khăn y tế được xác nhận bằng hồ sơ mới có thể làm đơn xin bố trí làm việc trong nước.\n(C) Nhà hàng xoay ở đỉnh tháp mang lại tầm nhìn toàn cảnh thành phố.",
+    "explanation": "Câu hỏi đuôi hỏi về quy định miễn trừ đợt điều động công tác khu vực ('regional posting'). Đáp án đúng là (B) xác nhận gián tiếp rằng quy định này là bắt buộc, ngoại trừ trường hợp đặc biệt có chứng nhận y tế mới được xin ở lại trong nước ('domestic placement'). Phương án (A) bẫy đa nghĩa từ 'posting' (đợt bổ nhiệm công tác vs dán thông báo); phương án (C) bẫy từ cùng gốc 'rotational' (luân chuyển vị trí) vs 'rotating' (xoay tròn vật lý).",
+    "vocab": [
+      ["exempt", "adj", "được miễn trừ (nghĩa vụ, quy định)"],
+      ["posting", "n", "đợt bổ nhiệm/điều động công tác tại một nơi khác"],
+      ["petition", "v/n", "làm đơn kiến nghị chính thức"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "What regulatory hurdle is holding up our pilot program for autonomous medical-supply drones?",
+    "questionVi": "Rào cản pháp lý nào đang làm đình trệ chương trình thí điểm thiết bị bay không người lái giao vật tư y tế của chúng ta vậy?",
+    "options": [
+      "The track team cleared every hurdle cleanly during yesterday's qualifier.",
+      "The monotonous drone of the ventilation fan made it hard to concentrate.",
+      "We're still awaiting aviation authority approval for beyond-visual-line-of-sight corridors over urban airspace."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Rào cản pháp lý nào đang làm đình trệ chương trình thí điểm thiết bị bay không người lái giao vật tư y tế của chúng ta vậy?\n(A) Đội điền kinh đã vượt qua mọi rào chắn gọn gàng trong vòng loại hôm qua.\n(B) Tiếng ù đều đều đơn điệu của quạt thông gió khiến mọi người khó tập trung.\n(C) Chúng ta vẫn đang chờ cơ quan hàng không phê duyệt hành lang bay ngoài tầm nhìn trực tiếp qua không phận đô thị.",
+    "explanation": "Câu hỏi 'What' hỏi cụ thể vướng mắc pháp lý của chương trình drone y tế. Đáp án đúng là (C) trả lời trực diện chuẩn thuật ngữ hàng không: đang chờ cấp phép hành lang bay ngoài tầm nhìn trực tiếp ('beyond-visual-line-of-sight corridors') trong không phận đô thị. Phương án (A) bẫy đa nghĩa từ 'hurdle' (rào cản pháp lý vs rào chạy điền kinh); phương án (B) bẫy đa nghĩa từ 'drone' (thiết bị bay không người lái vs tiếng ù rền).",
+    "vocab": [
+      ["hurdle", "n", "trở ngại, rào cản (pháp lý, kỹ thuật)"],
+      ["autonomous", "adj", "tự hành, không cần người điều khiển trực tiếp"],
+      ["airspace", "n", "không phận"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "Wouldn't it be prudent to stage a crisis-response tabletop exercise before peak summer aviation traffic begins?",
+    "questionVi": "Chẳng phải sẽ thận trọng hơn nếu tổ chức một buổi diễn tập giả định ứng phó khủng hoảng trước khi mùa cao điểm giao thông hàng không mùa hè bắt đầu sao?",
+    "options": [
+      "Public affairs already reserved the war room for a cross-departmental simulation next Thursday.",
+      "The solid oak tabletop should be polished with protective beeswax.",
+      "I usually avoid rush-hour traffic by taking the express commuter rail."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải sẽ thận trọng hơn nếu tổ chức một buổi diễn tập giả định ứng phó khủng hoảng trước khi mùa cao điểm giao thông hàng không mùa hè bắt đầu sao?\n(A) Bộ phận đối ngoại đã đặt phòng tác chiến cho một buổi mô phỏng liên phòng ban vào thứ Năm tuần tới rồi.\n(B) Mặt bàn gỗ sồi nguyên khối nên được đánh bóng bằng sáp ong bảo vệ.\n(C) Tôi thường tránh kẹt xe giờ cao điểm bằng cách đi tàu điện ngoại ô tốc hành.",
+    "explanation": "Câu hỏi phủ định mang tính đề xuất tổ chức diễn tập ứng phó khủng hoảng ('tabletop exercise'). Đáp án đúng là (A) đồng tình gián tiếp bằng thông tin đã triển khai: bộ phận đối ngoại đã đặt phòng tác chiến cho buổi mô phỏng liên phòng ban ('cross-departmental simulation') vào thứ Năm tới. Phương án (B) bẫy đa nghĩa cụm 'tabletop' (bài diễn tập thảo luận kịch bản vs mặt bàn vật lý); phương án (C) bẫy lặp từ 'traffic' (lưu lượng bay hàng không vs kẹt xe đường bộ).",
+    "vocab": [
+      ["prudent", "adj", "thận trọng, khôn ngoan nhìn xa"],
+      ["tabletop exercise", "n", "buổi diễn tập giả định xử lý tình huống trên bàn họp"],
+      ["simulation", "n", "sự mô phỏng, diễn tập tình huống"]
+    ]
+  }
+]

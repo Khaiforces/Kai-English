@@ -1,0 +1,821 @@
+[
+  {
+    "id": 32,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Brian, our freight forwarder just notified me that the refrigerated container from Rotterdam is still sitting at port inspection.\nMan: Again? If it misses this afternoon's dispatch window, the temperature-sensitive vaccines inside won't reach the regional clinics before tomorrow morning.\nWoman: That's my concern too. The customs broker said the paperwork discrepancy should be cleared within two hours, though our usual carrier doesn't have another driver available until five.\nMan: Let's not wait on them. I'll book an expedited van through our backup logistics vendor so it can pick up the cargo the moment it's released.\nWoman: Good call. Send me the revised tracking number once it's confirmed so I can update the hospital procurement team.",
+    "questionText": "What problem does the woman mention?",
+    "options": [
+      "A delivery vehicle broke down on the highway.",
+      "A shipment is being held up at a checkpoint.",
+      "A hospital canceled its medical supply order.",
+      "A refrigeration unit lost power overnight."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đề cập đến vấn đề gì?\n(A) Một xe giao hàng bị hỏng trên đường cao tốc.\n(B) Một lô hàng đang bị giữ lại tại điểm kiểm tra.\n(C) Một bệnh viện đã hủy đơn đặt vật tư y tế.\n(D) Một thiết bị làm lạnh bị mất điện qua đêm.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói công-te-nơ lạnh từ Rotterdam vẫn đang nằm chờ kiểm tra tại cảng (\"still sitting at port inspection\") do sai sót giấy tờ, được diễn đạt lại là \"held up at a checkpoint\". Phương án A, C và D là thông tin nhiễu không có trong hội thoại (vắc-xin nhạy cảm nhiệt độ nhưng không có tủ lạnh mất điện, bệnh viện không hủy đơn).",
+    "vocab": [
+      ["freight forwarder", "n.", "đơn vị giao nhận vận tải"],
+      ["discrepancy", "n.", "sự sai lệch, không khớp"],
+      ["expedited", "adj.", "hỏa tốc, được đẩy nhanh"]
+    ]
+  },
+  {
+    "id": 33,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Brian, our freight forwarder just notified me that the refrigerated container from Rotterdam is still sitting at port inspection.\nMan: Again? If it misses this afternoon's dispatch window, the temperature-sensitive vaccines inside won't reach the regional clinics before tomorrow morning.\nWoman: That's my concern too. The customs broker said the paperwork discrepancy should be cleared within two hours, though our usual carrier doesn't have another driver available until five.\nMan: Let's not wait on them. I'll book an expedited van through our backup logistics vendor so it can pick up the cargo the moment it's released.\nWoman: Good call. Send me the revised tracking number once it's confirmed so I can update the hospital procurement team.",
+    "questionText": "Why does the man say, \"Let's not wait on them\"?",
+    "options": [
+      "He thinks the customs broker works too slowly.",
+      "He wants to hire a permanent driver immediately.",
+      "He prefers to use an alternative transport provider.",
+      "He plans to pick up the cargo himself."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông lại nói: \"Đừng chờ họ nữa\"?\n(A) Ông ấy nghĩ nhân viên khai báo hải quan làm việc quá chậm.\n(B) Ông ấy muốn thuê ngay một tài xế chính thức.\n(C) Ông ấy muốn sử dụng một nhà cung cấp vận tải thay thế.\n(D) Ông ấy định tự mình đi lấy lô hàng.",
+    "explanation": "Đáp án đúng: C. Khi nghe nhà vận chuyển thường lệ không có tài xế trước năm giờ, người đàn ông nói \"Let's not wait on them\" và ngay sau đó giải thích sẽ đặt xe tải hỏa tốc qua nhà cung cấp hậu cần dự phòng (\"backup logistics vendor\"), tức dùng đơn vị vận chuyển thay thế. Phương án A bẫy bằng chi tiết nhân viên hải quan, còn B và D sai hành động của người nói.",
+    "vocab": [
+      ["dispatch window", "n. phr.", "khung giờ xuất bến / điều phối"],
+      ["customs broker", "n.", "đại lý khai báo hải quan"],
+      ["backup vendor", "n. phr.", "nhà cung cấp dự phòng"]
+    ]
+  },
+  {
+    "id": 34,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Brian, our freight forwarder just notified me that the refrigerated container from Rotterdam is still sitting at port inspection.\nMan: Again? If it misses this afternoon's dispatch window, the temperature-sensitive vaccines inside won't reach the regional clinics before tomorrow morning.\nWoman: That's my concern too. The customs broker said the paperwork discrepancy should be cleared within two hours, though our usual carrier doesn't have another driver available until five.\nMan: Let's not wait on them. I'll book an expedited van through our backup logistics vendor so it can pick up the cargo the moment it's released.\nWoman: Good call. Send me the revised tracking number once it's confirmed so I can update the hospital procurement team.",
+    "questionText": "What does the woman ask the man to do?",
+    "options": [
+      "Forward her updated shipment details",
+      "Contact the hospital procurement team directly",
+      "Resubmit the customs clearance paperwork",
+      "Inspect the condition of the vaccines"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ yêu cầu người đàn ông làm gì?\n(A) Gửi cho cô ấy thông tin theo dõi lô hàng đã cập nhật\n(B) Liên hệ trực tiếp với nhóm thu mua của bệnh viện\n(C) Nộp lại giấy tờ thông quan hải quan\n(D) Kiểm tra tình trạng của lô vắc-xin",
+    "explanation": "Đáp án đúng: A. Ở cuối hội thoại, người phụ nữ yêu cầu: \"Send me the revised tracking number once it's confirmed\" (gửi số vận đơn đã sửa đổi khi xác nhận xong), tương ứng với \"updated shipment details\". Phương án B sai chủ thể hành động (chính cô ấy sẽ cập nhật cho nhóm thu mua của bệnh viện); C và D không được yêu cầu.",
+    "vocab": [
+      ["tracking number", "n.", "mã vận đơn theo dõi"],
+      ["procurement team", "n. phr.", "đội ngũ thu mua"],
+      ["cargo", "n.", "hàng hóa vận chuyển"]
+    ]
+  },
+  {
+    "id": 35,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Maya, have the database engineers finished testing the customer portal migration to the new cloud server?\nWoman: Almost. Most user records transferred cleanly, but we ran into a compatibility conflict between the legacy payment module and the updated security protocol.\nMan: Does that push back Tuesday's rollout?\nWoman: Well, the patch should be ready by Monday afternoon, though we'd still need several hours to run verification checks.\nMan: We can't afford any service interruptions during Tuesday morning's billing cycle.\nWoman: Understood. Let's reschedule the switchover for Saturday night when transaction traffic is minimal, and I'll alert the support desk right away.",
+    "questionText": "What caused the technical issue?",
+    "options": [
+      "Missing customer records from the old database",
+      "An unexpected surge in online transaction traffic",
+      "A mismatch between an older component and new security rules",
+      "Insufficient storage space on the cloud server"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì đã gây ra sự cố kỹ thuật?\n(A) Dữ liệu khách hàng bị thiếu từ cơ sở dữ liệu cũ\n(B) Lượng giao dịch trực tuyến tăng đột biến ngoài dự kiến\n(C) Sự không tương thích giữa một thành phần cũ và quy tắc bảo mật mới\n(D) Không đủ dung lượng lưu trữ trên máy chủ đám mây",
+    "explanation": "Đáp án đúng: C. Người phụ nữ giải thích có xung đột tương thích giữa mô-đun thanh toán cũ và giao thức bảo mật mới cập nhật (\"compatibility conflict between the legacy payment module and the updated security protocol\"). Phương án A sai vì phần lớn hồ sơ người dùng chuyển sang suôn sẻ; B bẫy từ \"transaction traffic\"; D không được nhắc tới.",
+    "vocab": [
+      ["migration", "n.", "quá trình chuyển đổi dữ liệu / hệ thống"],
+      ["compatibility conflict", "n. phr.", "xung đột tương thích"],
+      ["legacy", "adj.", "thuộc hệ thống cũ (lâu đời)"]
+    ]
+  },
+  {
+    "id": 36,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Maya, have the database engineers finished testing the customer portal migration to the new cloud server?\nWoman: Almost. Most user records transferred cleanly, but we ran into a compatibility conflict between the legacy payment module and the updated security protocol.\nMan: Does that push back Tuesday's rollout?\nWoman: Well, the patch should be ready by Monday afternoon, though we'd still need several hours to run verification checks.\nMan: We can't afford any service interruptions during Tuesday morning's billing cycle.\nWoman: Understood. Let's reschedule the switchover for Saturday night when transaction traffic is minimal, and I'll alert the support desk right away.",
+    "questionText": "What does the man mean when he says, \"We can't afford any service interruptions during Tuesday morning's billing cycle\"?",
+    "options": [
+      "The company's budget cannot cover extra IT labor.",
+      "The system update should be postponed to a quieter time.",
+      "The support desk must handle all billing inquiries manually.",
+      "Tuesday's invoices have already been delayed once."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông có ý gì khi nói: \"Chúng ta không thể để xảy ra bất kỳ gián đoạn dịch vụ nào trong chu kỳ lập hóa đơn sáng thứ Ba\"?\n(A) Ngân sách công ty không đủ chi trả cho nhân công CNTT thêm.\n(B) Bản cập nhật hệ thống nên được dời sang thời điểm ít bận rộn hơn.\n(C) Bộ phận hỗ trợ phải xử lý thủ công mọi thắc mắc về hóa đơn.\n(D) Hóa đơn ngày thứ Ba từng bị trì hoãn một lần rồi.",
+    "explanation": "Đáp án đúng: B. Cụm \"can't afford\" ở đây mang nghĩa không thể chấp nhận rủi ro gián đoạn dịch vụ vào sáng thứ Ba bận rộn, ngụ ý đề nghị dời lịch chuyển đổi sang lúc vắng người dùng hơn. Người phụ nữ hiểu ngay ý này và đề xuất chuyển sang tối thứ Bảy (\"reschedule the switchover for Saturday night\"). Phương án A mắc bẫy nghĩa đen của từ \"afford\" (chi trả tiền bạc); C và D không có căn cứ.",
+    "vocab": [
+      ["rollout", "n.", "đợt triển khai, ra mắt"],
+      ["verification check", "n. phr.", "kiểm tra xác minh"],
+      ["switchover", "n.", "sự chuyển đổi hệ thống"]
+    ]
+  },
+  {
+    "id": 37,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Maya, have the database engineers finished testing the customer portal migration to the new cloud server?\nWoman: Almost. Most user records transferred cleanly, but we ran into a compatibility conflict between the legacy payment module and the updated security protocol.\nMan: Does that push back Tuesday's rollout?\nWoman: Well, the patch should be ready by Monday afternoon, though we'd still need several hours to run verification checks.\nMan: We can't afford any service interruptions during Tuesday morning's billing cycle.\nWoman: Understood. Let's reschedule the switchover for Saturday night when transaction traffic is minimal, and I'll alert the support desk right away.",
+    "questionText": "What will the woman do next?",
+    "options": [
+      "Notify the customer service team of the schedule change",
+      "Install the security patch herself",
+      "Conduct a meeting with database engineers",
+      "Send out Tuesday's billing statements early"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì tiếp theo?\n(A) Thông báo cho đội ngũ hỗ trợ về việc thay đổi lịch trình\n(B) Tự mình cài đặt bản vá bảo mật\n(C) Tổ chức cuộc họp với các kỹ sư cơ sở dữ liệu\n(D) Gửi bảng kê hóa đơn ngày thứ Ba sớm hơn",
+    "explanation": "Đáp án đúng: A. Cuối bài, người phụ nữ nói: \"I'll alert the support desk right away\" (tôi sẽ báo ngay cho bộ phận hỗ trợ), được diễn đạt lại thành \"Notify the customer service team\". Phương án B, C và D không được nhắc tới như hành động sắp tới của cô ấy.",
+    "vocab": [
+      ["patch", "n.", "bản vá lỗi phần mềm"],
+      ["transaction traffic", "n. phr.", "lưu lượng giao dịch"],
+      ["support desk", "n.", "bộ phận hỗ trợ kỹ thuật / khách hàng"]
+    ]
+  },
+  {
+    "id": 38,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation with three speakers:",
+    "audioScript": "Woman: Kevin, the keynote sponsor just called from the lobby. They brought an oversized LED backdrop that won't fit inside Booth 14.\nMan: Seriously? The trade show opens in three hours, and the exhibit hall floor plan was locked in last week.\nMan 2: Actually, I noticed the corner space next to the main auditorium entrance is still vacant because one exhibitor withdrew yesterday.\nWoman: That's right, Derek. Would your crew have enough time to relocate their power cables and lighting rig over there?\nMan 2: It'll be tight, but if we get clearance from the venue manager now, we can finish the setup before the doors open.\nMan: I'll head over to the venue office right now to get their approval while you check the electrical outlets.",
+    "questionText": "What problem does the woman report?",
+    "options": [
+      "A keynote speaker missed an early flight.",
+      "A sponsor's display equipment is too large for its assigned spot.",
+      "An exhibit hall entrance has no electrical outlets.",
+      "Printed floor plans contain incorrect booth numbers."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ báo cáo vấn đề gì?\n(A) Một diễn giả chính đã lỡ chuyến bay sớm.\n(B) Thiết bị trưng bày của nhà tài trợ quá lớn so với vị trí được phân bổ.\n(C) Lối vào khu triển lãm không có ổ cắm điện.\n(D) Sơ đồ mặt bằng bản in ghi sai số gian hàng.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ báo rằng nhà tài trợ chính mang đến phông nền LED quá khổ không đặt vừa vào Gian hàng 14 (\"an oversized LED backdrop that won't fit inside Booth 14\"), tức thiết bị trưng bày quá lớn cho vị trí được giao. Phương án A bẫy từ \"keynote\", C bẫy từ \"electrical outlets\", D bẫy từ \"floor plan\".",
+    "vocab": [
+      ["keynote sponsor", "n. phr.", "nhà tài trợ chính"],
+      ["backdrop", "n.", "phông nền sân khấu / gian hàng"],
+      ["floor plan", "n.", "sơ đồ mặt bằng"]
+    ]
+  },
+  {
+    "id": 39,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation with three speakers:",
+    "audioScript": "Woman: Kevin, the keynote sponsor just called from the lobby. They brought an oversized LED backdrop that won't fit inside Booth 14.\nMan: Seriously? The trade show opens in three hours, and the exhibit hall floor plan was locked in last week.\nMan 2: Actually, I noticed the corner space next to the main auditorium entrance is still vacant because one exhibitor withdrew yesterday.\nWoman: That's right, Derek. Would your crew have enough time to relocate their power cables and lighting rig over there?\nMan 2: It'll be tight, but if we get clearance from the venue manager now, we can finish the setup before the doors open.\nMan: I'll head over to the venue office right now to get their approval while you check the electrical outlets.",
+    "questionText": "What does Derek suggest doing?",
+    "options": [
+      "Moving the sponsor to an unoccupied area",
+      "Replacing the LED backdrop with printed banners",
+      "Delaying the opening of the trade show",
+      "Asking another exhibitor to share a booth"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Derek đề xuất làm gì?\n(A) Chuyển nhà tài trợ sang một khu vực đang bỏ trống\n(B) Thay phông nền LED bằng băng rôn in sẵn\n(C) Hoãn giờ khai mạc hội chợ thương mại\n(D) Đề nghị một đơn vị triển lãm khác chia sẻ gian hàng",
+    "explanation": "Đáp án đúng: A. Derek (người đàn ông thứ hai) nhận thấy khoảng góc cạnh lối vào khán phòng chính vẫn còn trống do một đơn vị đã rút lui hôm qua (\"still vacant because one exhibitor withdrew\") và sẵn sàng chuyển dây điện cùng giàn đèn sang đó, tức chuyển sang khu vực chưa có người sử dụng (\"unoccupied area\"). Phương án B, C và D không được đề xuất.",
+    "vocab": [
+      ["vacant", "adj.", "bỏ trống, chưa có người dùng"],
+      ["withdraw", "v.", "rút lui"],
+      ["lighting rig", "n. phr.", "giàn đèn chiếu sáng"]
+    ]
+  },
+  {
+    "id": 40,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation with three speakers:",
+    "audioScript": "Woman: Kevin, the keynote sponsor just called from the lobby. They brought an oversized LED backdrop that won't fit inside Booth 14.\nMan: Seriously? The trade show opens in three hours, and the exhibit hall floor plan was locked in last week.\nMan 2: Actually, I noticed the corner space next to the main auditorium entrance is still vacant because one exhibitor withdrew yesterday.\nWoman: That's right, Derek. Would your crew have enough time to relocate their power cables and lighting rig over there?\nMan 2: It'll be tight, but if we get clearance from the venue manager now, we can finish the setup before the doors open.\nMan: I'll head over to the venue office right now to get their approval while you check the electrical outlets.",
+    "questionText": "What will Kevin probably do next?",
+    "options": [
+      "Inspect the lighting rig near the main entrance",
+      "Welcome the sponsor in the hotel lobby",
+      "Speak with building management for permission",
+      "Revise the official event schedule"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Kevin có thể sẽ làm gì tiếp theo?\n(A) Kiểm tra giàn đèn gần lối vào chính\n(B) Đón tiếp nhà tài trợ ở sảnh khách sạn\n(C) Trao đổi với ban quản lý địa điểm để xin phép\n(D) Điều chỉnh lịch trình sự kiện chính thức",
+    "explanation": "Đáp án đúng: C. Ở lượt lời cuối, Kevin (người đàn ông thứ nhất) nói: \"I'll head over to the venue office right now to get their approval\" (tôi sẽ qua văn phòng ban quản lý địa điểm ngay để xin chấp thuận). Phương án A là việc của nhóm Derek (kiểm tra ổ cắm điện và lắp giàn đèn); B bẫy từ \"lobby\"; D không được nhắc tới.",
+    "vocab": [
+      ["clearance", "n.", "sự cho phép, phê duyệt chính thức"],
+      ["venue", "n.", "địa điểm tổ chức sự kiện"],
+      ["electrical outlet", "n. phr.", "ổ cắm điện"]
+    ]
+  },
+  {
+    "id": 41,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Man: Claire, I've been going over the second-quarter expense ledger, and the product research division is already twelve percent over its travel and consulting budget.\nWoman: I expected that. Our engineers had to make three unscheduled site visits to the battery testing facility in Phoenix.\nMan: The board requires any departmental overrun above ten percent to be offset before the end of the month. Do we have room to cut back on upcoming software subscriptions?\nWoman: Not without slowing down the prototype schedule. However, the regional trade seminar in June was postponed until autumn, so there's a sizable surplus left in the marketing outreach fund.\nMan: That might solve it. Let's draft a formal reallocation request for the finance director to review this afternoon.",
+    "questionText": "Why did the product research division exceed its budget?",
+    "options": [
+      "Software licensing fees increased unexpectedly.",
+      "Engineers took additional business trips that were not planned.",
+      "External consultants charged higher hourly rates.",
+      "Battery testing equipment had to be replaced."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao bộ phận nghiên cứu sản phẩm vượt quá ngân sách?\n(A) Phí bản quyền phần mềm tăng ngoài dự kiến.\n(B) Các kỹ sư đã có thêm những chuyến công tác không nằm trong kế hoạch.\n(C) Chuyên gia tư vấn bên ngoài tính mức phí theo giờ cao hơn.\n(D) Thiết bị thử nghiệm pin phải được thay thế.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ giải thích các kỹ sư phải thực hiện ba chuyến thị sát đột xuất tới cơ sở thử nghiệm pin ở Phoenix (\"three unscheduled site visits\"), được diễn đạt lại thành \"additional business trips that were not planned\". Phương án A và C bẫy các từ \"software\", \"consulting\"; D bẫy cụm \"battery testing\".",
+    "vocab": [
+      ["expense ledger", "n. phr.", "sổ cái chi phí"],
+      ["overrun", "n.", "khoản vượt chi, vượt định mức"],
+      ["unscheduled", "adj.", "ngoài kế hoạch, đột xuất"]
+    ]
+  },
+  {
+    "id": 42,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Man: Claire, I've been going over the second-quarter expense ledger, and the product research division is already twelve percent over its travel and consulting budget.\nWoman: I expected that. Our engineers had to make three unscheduled site visits to the battery testing facility in Phoenix.\nMan: The board requires any departmental overrun above ten percent to be offset before the end of the month. Do we have room to cut back on upcoming software subscriptions?\nWoman: Not without slowing down the prototype schedule. However, the regional trade seminar in June was postponed until autumn, so there's a sizable surplus left in the marketing outreach fund.\nMan: That might solve it. Let's draft a formal reallocation request for the finance director to review this afternoon.",
+    "questionText": "What does the woman imply about the marketing outreach fund?",
+    "options": [
+      "It needs additional funding before autumn.",
+      "It was poorly managed during the first quarter.",
+      "Its unused balance could cover the research deficit.",
+      "Its remaining money has already been returned to the board."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ ngụ ý gì về quỹ tiếp cận tiếp thị?\n(A) Quỹ này cần bổ sung thêm tiền trước mùa thu.\n(B) Quỹ đã bị quản lý kém trong quý đầu tiên.\n(C) Số dư chưa dùng của quỹ có thể bù đắp khoản thâm hụt bên bộ phận nghiên cứu.\n(D) Số tiền còn lại đã được trả về cho hội đồng quản trị.",
+    "explanation": "Đáp án đúng: C. Người đàn ông yêu cầu tìm cách bù đắp khoản vượt chi (\"offset\"), và người phụ nữ chỉ ra hội thảo tháng Sáu bị hoãn nên quỹ tiếp cận tiếp thị vẫn còn khoản dư đáng kể (\"sizable surplus\"), ngụ ý có thể chuyển sang bù cho thâm hụt nghiên cứu. Phương án A, B và D sai thông tin.",
+    "vocab": [
+      ["offset", "v.", "bù đắp, cân đối lại"],
+      ["prototype", "n.", "nguyên mẫu thử nghiệm"],
+      ["surplus", "n.", "khoản thặng dư, số tiền dư"]
+    ]
+  },
+  {
+    "id": 43,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Man: Claire, I've been going over the second-quarter expense ledger, and the product research division is already twelve percent over its travel and consulting budget.\nWoman: I expected that. Our engineers had to make three unscheduled site visits to the battery testing facility in Phoenix.\nMan: The board requires any departmental overrun above ten percent to be offset before the end of the month. Do we have room to cut back on upcoming software subscriptions?\nWoman: Not without slowing down the prototype schedule. However, the regional trade seminar in June was postponed until autumn, so there's a sizable surplus left in the marketing outreach fund.\nMan: That might solve it. Let's draft a formal reallocation request for the finance director to review this afternoon.",
+    "questionText": "What do the speakers agree to do?",
+    "options": [
+      "Cancel upcoming software subscriptions",
+      "Prepare a proposal to transfer funds",
+      "Postpone the battery prototype testing",
+      "Attend a trade seminar in Phoenix"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hai người nói đồng ý làm gì?\n(A) Hủy các gói đăng ký phần mềm sắp tới\n(B) Soạn thảo đề xuất điều chuyển ngân sách\n(C) Trì hoãn việc thử nghiệm nguyên mẫu pin\n(D) Tham dự một hội thảo thương mại tại Phoenix",
+    "explanation": "Đáp án đúng: B. Cuối đoạn hội thoại, người đàn ông đề nghị: \"Let's draft a formal reallocation request for the finance director to review\" (hãy soạn yêu cầu phân bổ lại ngân sách chính thức để giám đốc tài chính xem xét), tương ứng với \"Prepare a proposal to transfer funds\". Phương án A bị người phụ nữ bác bỏ; C và D sai chi tiết.",
+    "vocab": [
+      ["reallocation", "n.", "sự phân bổ lại (ngân sách / nguồn lực)"],
+      ["cut back on", "phr. v.", "cắt giảm"],
+      ["finance director", "n. phr.", "giám đốc tài chính"]
+    ]
+  },
+  {
+    "id": 44,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Have you noticed the rattling noise coming from the air vents on the fourth floor? Plus, the conference room has been unusually humid all morning.\nMan: Yes, two analysts mentioned it earlier. I had our building technician check the main ventilation unit, and he thinks a pressure valve is failing.\nWoman: Can it be repaired today? External quality auditors are scheduled to inspect the fourth-floor archives tomorrow morning.\nMan: Our technician doesn't keep that specific replacement part in stock, so we've called an outside contractor. They can send a crew at six tonight after most staff leave.\nWoman: That's a relief. Please leave a notice at the security desk so the evening guards know to let the contractors in.",
+    "questionText": "What is the problem on the fourth floor?",
+    "options": [
+      "Several ceiling lights are flickering.",
+      "The climate control system is malfunctioning.",
+      "The archive room door cannot be locked.",
+      "A water pipe is leaking near the conference room."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vấn đề xảy ra ở tầng bốn là gì?\n(A) Một số đèn trần đang bị nhấp nháy.\n(B) Hệ thống điều hòa thông gió đang gặp trục trặc.\n(C) Cửa phòng lưu trữ không thể khóa lại.\n(D) Một đường ống nước bị rò rỉ gần phòng họp.",
+    "explanation": "Đáp án đúng: B. Cửa gió phát tiếng kêu lạch cạch, phòng họp ẩm bất thường và van áp suất của bộ phận thông gió chính bị hỏng (\"pressure valve is failing\" trong \"main ventilation unit\"), tức hệ thống kiểm soát không khí/nhiệt độ đang gặp sự cố. Phương án A, C và D không có trong hội thoại.",
+    "vocab": [
+      ["air vent", "n.", "cửa thông gió"],
+      ["ventilation unit", "n. phr.", "bộ phận / hệ thống thông gió"],
+      ["malfunction", "v.", "vận hành sai, gặp trục trặc"]
+    ]
+  },
+  {
+    "id": 45,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Have you noticed the rattling noise coming from the air vents on the fourth floor? Plus, the conference room has been unusually humid all morning.\nMan: Yes, two analysts mentioned it earlier. I had our building technician check the main ventilation unit, and he thinks a pressure valve is failing.\nWoman: Can it be repaired today? External quality auditors are scheduled to inspect the fourth-floor archives tomorrow morning.\nMan: Our technician doesn't keep that specific replacement part in stock, so we've called an outside contractor. They can send a crew at six tonight after most staff leave.\nWoman: That's a relief. Please leave a notice at the security desk so the evening guards know to let the contractors in.",
+    "questionText": "Why is the woman concerned about the timing of the repair?",
+    "options": [
+      "Outside inspectors will visit the floor the following day.",
+      "Most employees will be working overtime tonight.",
+      "A quarterly staff training is taking place on the fourth floor.",
+      "The security desk closes before six o'clock."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao người phụ nữ lại lo ngại về thời gian sửa chữa?\n(A) Các thanh tra bên ngoài sẽ đến kiểm tra tầng này vào ngày hôm sau.\n(B) Phần lớn nhân viên sẽ làm thêm giờ vào tối nay.\n(C) Một buổi đào tạo nhân viên định kỳ quý đang diễn ra ở tầng bốn.\n(D) Bàn bảo vệ đóng cửa trước sáu giờ.",
+    "explanation": "Đáp án đúng: A. Người phụ nữ hỏi liệu có sửa được hôm nay không vì các kiểm toán viên chất lượng bên ngoài sẽ tới kiểm tra kho lưu trữ tầng bốn vào sáng mai (\"External quality auditors are scheduled to inspect... tomorrow morning\"). Phương án B trái ngược với chi tiết nhân viên đã về gần hết lúc sáu giờ; C sai; D sai vì vẫn có bảo vệ ca tối.",
+    "vocab": [
+      ["auditor", "n.", "kiểm toán viên, thanh tra viên"],
+      ["archives", "n. pl.", "phòng / kho hồ sơ lưu trữ"],
+      ["pressure valve", "n. phr.", "van điều áp"]
+    ]
+  },
+  {
+    "id": 46,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Have you noticed the rattling noise coming from the air vents on the fourth floor? Plus, the conference room has been unusually humid all morning.\nMan: Yes, two analysts mentioned it earlier. I had our building technician check the main ventilation unit, and he thinks a pressure valve is failing.\nWoman: Can it be repaired today? External quality auditors are scheduled to inspect the fourth-floor archives tomorrow morning.\nMan: Our technician doesn't keep that specific replacement part in stock, so we've called an outside contractor. They can send a crew at six tonight after most staff leave.\nWoman: That's a relief. Please leave a notice at the security desk so the evening guards know to let the contractors in.",
+    "questionText": "Why is an external contractor being hired?",
+    "options": [
+      "The building technician is away on leave.",
+      "The warranty requires manufacturer-certified repairs.",
+      "An essential component is not available in-house.",
+      "The contractor offered a lower maintenance rate."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao một nhà thầu bên ngoài được thuê?\n(A) Kỹ thuật viên tòa nhà đang nghỉ phép.\n(B) Chế độ bảo hành yêu cầu đơn vị được hãng chứng nhận sửa chữa.\n(C) Một linh kiện cần thiết không có sẵn trong kho nội bộ.\n(D) Nhà thầu đưa ra mức phí bảo trì thấp hơn.",
+    "explanation": "Đáp án đúng: C. Người đàn ông nói kỹ thuật viên tòa nhà không có sẵn phụ tùng thay thế đặc thù đó trong kho (\"doesn't keep that specific replacement part in stock\"), nên họ phải gọi nhà thầu bên ngoài. Phương án A, B và D đều không được nhắc tới.",
+    "vocab": [
+      ["in stock", "phr.", "có sẵn trong kho"],
+      ["contractor", "n.", "nhà thầu"],
+      ["in-house", "adj./adv.", "nội bộ (trong công ty)"]
+    ]
+  },
+  {
+    "id": 47,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Hannah, Priya, I just compiled the feedback from last week's focus groups on our new compostable coffee packaging.\nWoman: Great. Did participants understand the sustainability claims on the front label?\nMan: Most liked the natural color palette, but nearly half said the recycling instructions on the back were too small to read in a dimly lit grocery aisle.\nWoman 2: I was afraid of that. Because we added three certification badges at the bottom, I had to shrink the care guide text.\nWoman: Let's move two of those badges to the side panel so the disposal instructions stand out clearly. Priya, can your design team send an updated mockup before Friday's print deadline?\nWoman 2: Definitely. I'll adjust the layout this afternoon and share the revised proof with both of you.",
+    "questionText": "What product feature did the focus group participants criticize?",
+    "options": [
+      "The durability of the compostable material",
+      "The color scheme on the front label",
+      "The legibility of instructions on the back",
+      "The lack of certification logos"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Những người tham gia nhóm khảo sát tập trung đã phê bình đặc điểm nào của sản phẩm?\n(A) Độ bền của vật liệu phân hủy sinh học\n(B) Bảng màu trên nhãn mặt trước\n(C) Độ rõ ràng dễ đọc của phần hướng dẫn ở mặt sau\n(D) Việc thiếu các biểu trưng chứng nhận",
+    "explanation": "Đáp án đúng: C. Người đàn ông báo cáo gần một nửa người tham gia cho biết hướng dẫn tái chế ở mặt sau quá nhỏ, khó đọc trong lối đi siêu thị thiếu sáng (\"too small to read\"), tương ứng với \"legibility of instructions on the back\". Phương án B sai vì đa số thích bảng màu tự nhiên; A và D trái ngược thông tin.",
+    "vocab": [
+      ["focus group", "n.", "nhóm thảo luận khảo sát thị trường"],
+      ["compostable", "adj.", "có thể phân hủy sinh học"],
+      ["legibility", "n.", "tính dễ đọc, độ rõ nét"]
+    ]
+  },
+  {
+    "id": 48,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Hannah, Priya, I just compiled the feedback from last week's focus groups on our new compostable coffee packaging.\nWoman: Great. Did participants understand the sustainability claims on the front label?\nMan: Most liked the natural color palette, but nearly half said the recycling instructions on the back were too small to read in a dimly lit grocery aisle.\nWoman 2: I was afraid of that. Because we added three certification badges at the bottom, I had to shrink the care guide text.\nWoman: Let's move two of those badges to the side panel so the disposal instructions stand out clearly. Priya, can your design team send an updated mockup before Friday's print deadline?\nWoman 2: Definitely. I'll adjust the layout this afternoon and share the revised proof with both of you.",
+    "questionText": "Why did Priya reduce the size of the text?",
+    "options": [
+      "To fit additional certification icons at the bottom",
+      "To lower ink costs for mass printing",
+      "To match the design of an older coffee line",
+      "To leave space for a promotional discount code"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao Priya lại thu nhỏ cỡ chữ?\n(A) Để đặt vừa các biểu tượng chứng nhận bổ sung ở phía dưới\n(B) Để giảm chi phí mực in cho việc in hàng loạt\n(C) Để khớp với thiết kế của dòng cà phê cũ hơn\n(D) Để chừa chỗ cho mã giảm giá khuyến mãi",
+    "explanation": "Đáp án đúng: A. Priya (người phụ nữ thứ hai) giải thích: \"Because we added three certification badges at the bottom, I had to shrink the care guide text\" (vì thêm ba huy hiệu chứng nhận ở đáy bao bì nên cô ấy phải thu nhỏ phần chữ hướng dẫn). Phương án B, C và D không được nhắc tới.",
+    "vocab": [
+      ["certification badge", "n. phr.", "biểu tượng / huy hiệu chứng nhận"],
+      ["shrink", "v.", "thu nhỏ lại"],
+      ["color palette", "n. phr.", "bảng phối màu"]
+    ]
+  },
+  {
+    "id": 49,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Hannah, Priya, I just compiled the feedback from last week's focus groups on our new compostable coffee packaging.\nWoman: Great. Did participants understand the sustainability claims on the front label?\nMan: Most liked the natural color palette, but nearly half said the recycling instructions on the back were too small to read in a dimly lit grocery aisle.\nWoman 2: I was afraid of that. Because we added three certification badges at the bottom, I had to shrink the care guide text.\nWoman: Let's move two of those badges to the side panel so the disposal instructions stand out clearly. Priya, can your design team send an updated mockup before Friday's print deadline?\nWoman 2: Definitely. I'll adjust the layout this afternoon and share the revised proof with both of you.",
+    "questionText": "What does Hannah instruct Priya to do?",
+    "options": [
+      "Contact the printing vendor to extend the deadline",
+      "Conduct another round of customer interviews",
+      "Relocate some visual elements on the packaging",
+      "Remove the sustainability claims from the front"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Hannah yêu cầu Priya làm gì?\n(A) Liên hệ nhà in để gia hạn thời hạn nộp bài\n(B) Thực hiện thêm một vòng phỏng vấn khách hàng nữa\n(C) Di chuyển vị trí một số thành phần hình ảnh trên bao bì\n(D) Xóa các tuyên bố bền vững khỏi mặt trước",
+    "explanation": "Đáp án đúng: C. Hannah (người phụ nữ thứ nhất) yêu cầu chuyển hai trong số các huy hiệu chứng nhận sang mặt bên và gửi bản mẫu cập nhật trước hạn chót ngày thứ Sáu (\"move two of those badges to the side panel\" -> \"Relocate some visual elements on the packaging\"). Phương án A, B và D sai thông tin.",
+    "vocab": [
+      ["side panel", "n. phr.", "mặt bên (của bao bì / hộp)"],
+      ["mockup", "n.", "bản mẫu thiết kế mô phỏng"],
+      ["revised proof", "n. phr.", "bản in thử đã chỉnh sửa"]
+    ]
+  },
+  {
+    "id": 50,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Brenda, the regional director asked whether we should shorten our onboarding program for technical support specialists from four weeks to two so new hires can start taking calls sooner.\nWoman: Have you seen the turnover figures for the first six months?\nMan: Fair point. Nearly a third of last year's recruits left before their annual review, and most cited feeling overwhelmed during their first month on the phones.\nWoman: Exactly. Instead of cutting training short, we should pair each newcomer with a senior mentor during weeks three and four so they build confidence while handling live inquiries.\nMan: That's a much stronger proposal. I'll include that mentoring framework in my report to the director.",
+    "questionText": "What proposal did the regional director ask about?",
+    "options": [
+      "Hiring more technical support specialists remotely",
+      "Reducing the length of employee training",
+      "Extending call center operating hours",
+      "Offering higher starting salaries to new recruits"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Giám đốc khu vực đã hỏi về đề xuất nào?\n(A) Tuyển thêm chuyên viên hỗ trợ kỹ thuật làm việc từ xa\n(B) Rút ngắn thời lượng đào tạo nhân viên\n(C) Kéo dài giờ hoạt động của tổng đài\n(D) Đưa ra mức lương khởi điểm cao hơn cho nhân viên mới",
+    "explanation": "Đáp án đúng: B. Người đàn ông mở đầu bằng việc nhắc giám đốc khu vực hỏi xem có nên rút ngắn chương trình hội nhập cho chuyên viên hỗ trợ kỹ thuật từ bốn tuần xuống hai tuần không (\"shorten our onboarding program... from four weeks to two\"), tương ứng với \"Reducing the length of employee training\". Phương án A, C và D không xuất hiện trong bài.",
+    "vocab": [
+      ["onboarding program", "n. phr.", "chương trình đào tạo hội nhập nhân viên mới"],
+      ["new hire", "n. phr.", "nhân viên mới tuyển"],
+      ["recruit", "n.", "người mới được tuyển dụng"]
+    ]
+  },
+  {
+    "id": 51,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Brenda, the regional director asked whether we should shorten our onboarding program for technical support specialists from four weeks to two so new hires can start taking calls sooner.\nWoman: Have you seen the turnover figures for the first six months?\nMan: Fair point. Nearly a third of last year's recruits left before their annual review, and most cited feeling overwhelmed during their first month on the phones.\nWoman: Exactly. Instead of cutting training short, we should pair each newcomer with a senior mentor during weeks three and four so they build confidence while handling live inquiries.\nMan: That's a much stronger proposal. I'll include that mentoring framework in my report to the director.",
+    "questionText": "What does the woman mean when she asks, \"Have you seen the turnover figures for the first six months?\"",
+    "options": [
+      "She doubts new hires will stay if training is shortened.",
+      "She thinks the human resources database is outdated.",
+      "She wants the man to compile a quarterly attendance chart.",
+      "She believes experienced staff are leaving too quickly."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi hỏi: \"Anh đã xem số liệu nghỉ việc trong sáu tháng đầu chưa?\"?\n(A) Cô ấy nghi ngờ nhân viên mới sẽ ở lại nếu đào tạo bị rút ngắn.\n(B) Cô ấy cho rằng cơ sở dữ liệu nhân sự đã lỗi thời.\n(C) Cô ấy muốn người đàn ông lập biểu đồ chuyên cần theo quý.\n(D) Cô ấy tin rằng nhân viên lâu năm đang nghỉ việc quá nhanh.",
+    "explanation": "Đáp án đúng: A. Câu hỏi tu từ của người phụ nữ nhắc đến tỷ lệ nghỉ việc sớm (\"turnover figures\") ngay lập tức khiến người đàn ông đồng tình (\"Fair point\"): gần một phần ba người mới nghỉ vì quá tải trong tháng đầu trực điện thoại. Vì vậy cô ấy ngụ ý rút ngắn đào tạo sẽ làm tình trạng nghỉ việc tệ hơn. Phương án D sai đối tượng (là người mới, không phải nhân viên lâu năm); B và C không liên quan.",
+    "vocab": [
+      ["turnover", "n.", "tỷ lệ nhân viên nghỉ việc / luân chuyển nhân sự"],
+      ["overwhelmed", "adj.", "bị quá tải, choáng ngợp"],
+      ["annual review", "n. phr.", "đánh giá hiệu suất hằng năm"]
+    ]
+  },
+  {
+    "id": 52,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Brenda, the regional director asked whether we should shorten our onboarding program for technical support specialists from four weeks to two so new hires can start taking calls sooner.\nWoman: Have you seen the turnover figures for the first six months?\nMan: Fair point. Nearly a third of last year's recruits left before their annual review, and most cited feeling overwhelmed during their first month on the phones.\nWoman: Exactly. Instead of cutting training short, we should pair each newcomer with a senior mentor during weeks three and four so they build confidence while handling live inquiries.\nMan: That's a much stronger proposal. I'll include that mentoring framework in my report to the director.",
+    "questionText": "What does the woman recommend for weeks three and four?",
+    "options": [
+      "Assigning recruits to answer simple e-mail inquiries",
+      "Scheduling a formal evaluation with the regional director",
+      "Partnering new employees with experienced staff",
+      "Reviewing recorded calls from the previous year"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất gì cho tuần thứ ba và tuần thứ tư?\n(A) Giao cho nhân viên mới trả lời các thư hỏi đơn giản\n(B) Lên lịch đánh giá chính thức với giám đốc khu vực\n(C) Ghép cặp nhân viên mới với nhân sự giàu kinh nghiệm\n(D) Nghe lại các cuộc gọi đã ghi âm từ năm trước",
+    "explanation": "Đáp án đúng: C. Người phụ nữ đề xuất ghép mỗi người mới với một người hướng dẫn cấp cao trong tuần ba và bốn (\"pair each newcomer with a senior mentor\"), được diễn đạt lại thành \"Partnering new employees with experienced staff\". Phương án A sai hình thức (họ xử lý yêu cầu trực tiếp qua điện thoại - \"live inquiries\"); B và D không có trong bài.",
+    "vocab": [
+      ["senior mentor", "n. phr.", "người cố vấn / hướng dẫn cấp cao"],
+      ["live inquiry", "n. phr.", "yêu cầu thực tế trực tiếp từ khách hàng"],
+      ["framework", "n.", "khung chương trình / cơ cấu tổ chức"]
+    ]
+  },
+  {
+    "id": 53,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Man: Looking at this month's figures for our flagship store, foot traffic is up eighteen percent, yet sales of our smart kitchen appliances actually dipped slightly.\nWoman: I walked the sales floor yesterday and noticed the smart blenders and air fryers are tucked behind the seasonal cookware display near the rear staircase.\nMan: Ah, so shoppers aren't even spotting them unless they walk all the way to the back.\nWoman: Right. Also, customers who order online for in-store pickup have been waiting over ten minutes at the main register because staff have to retrieve items from the basement stockroom.\nMan: Let's move the smart appliances closer to the main entrance and dedicate a side counter exclusively to online order pickups.",
+    "questionText": "What unexpected trend does the man mention?",
+    "options": [
+      "Overall store operating costs dropped sharply.",
+      "More visitors entered the store, but certain product sales fell.",
+      "Seasonal cookware sold out faster than anticipated.",
+      "Online orders declined during the weekend promotion."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông đề cập đến xu hướng bất ngờ nào?\n(A) Tổng chi phí vận hành cửa hàng giảm mạnh.\n(B) Lượng khách vào cửa hàng tăng, nhưng doanh số một số mặt hàng lại giảm.\n(C) Đồ nấu bếp theo mùa bán hết nhanh hơn dự kiến.\n(D) Đơn đặt hàng trực tuyến sụt giảm trong đợt khuyến mãi cuối tuần.",
+    "explanation": "Đáp án đúng: B. Người đàn ông nêu lượng khách ghé cửa hàng tăng 18%, nhưng doanh số thiết bị nhà bếp thông minh lại giảm nhẹ (\"foot traffic is up eighteen percent, yet sales of our smart kitchen appliances actually dipped slightly\"). Phương án A và D không xuất hiện; C bẫy từ \"seasonal cookware\".",
+    "vocab": [
+      ["flagship store", "n. phr.", "cửa hàng chủ lực / đầu tàu"],
+      ["foot traffic", "n. phr.", "lượng khách qua lại (tại cửa hàng)"],
+      ["dip", "v.", "giảm nhẹ"]
+    ]
+  },
+  {
+    "id": 54,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Man: Looking at this month's figures for our flagship store, foot traffic is up eighteen percent, yet sales of our smart kitchen appliances actually dipped slightly.\nWoman: I walked the sales floor yesterday and noticed the smart blenders and air fryers are tucked behind the seasonal cookware display near the rear staircase.\nMan: Ah, so shoppers aren't even spotting them unless they walk all the way to the back.\nWoman: Right. Also, customers who order online for in-store pickup have been waiting over ten minutes at the main register because staff have to retrieve items from the basement stockroom.\nMan: Let's move the smart appliances closer to the main entrance and dedicate a side counter exclusively to online order pickups.",
+    "questionText": "According to the woman, why are smart appliances selling poorly?",
+    "options": [
+      "Their prices are higher than competing brands.",
+      "They are placed in a low-visibility location.",
+      "Demonstration models are missing from the shelves.",
+      "Sales staff lack training on the features."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Theo người phụ nữ, vì sao thiết bị thông minh bán chậm?\n(A) Giá của chúng cao hơn các thương hiệu cạnh tranh.\n(B) Chúng được đặt ở vị trí khó nhìn thấy.\n(C) Thiếu mẫu trưng bày dùng thử trên kệ.\n(D) Nhân viên bán hàng thiếu đào tạo về các tính năng.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nhận xét máy xay và nồi chiên thông minh bị khuất sau quầy đồ nấu bếp theo mùa gần cầu thang phía sau (\"tucked behind... near the rear staircase\"), khiến khách hàng không nhìn thấy, tức đặt ở vị trí kém thu hút tầm nhìn (\"low-visibility location\"). Phương án A, C và D không có trong bài.",
+    "vocab": [
+      ["tucked behind", "phr.", "bị giấu / đặt khuất phía sau"],
+      ["seasonal display", "n. phr.", "khu trưng bày theo mùa"],
+      ["stockroom", "n.", "kho chứa hàng tại cửa hàng"]
+    ]
+  },
+  {
+    "id": 55,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Man: Looking at this month's figures for our flagship store, foot traffic is up eighteen percent, yet sales of our smart kitchen appliances actually dipped slightly.\nWoman: I walked the sales floor yesterday and noticed the smart blenders and air fryers are tucked behind the seasonal cookware display near the rear staircase.\nMan: Ah, so shoppers aren't even spotting them unless they walk all the way to the back.\nWoman: Right. Also, customers who order online for in-store pickup have been waiting over ten minutes at the main register because staff have to retrieve items from the basement stockroom.\nMan: Let's move the smart appliances closer to the main entrance and dedicate a side counter exclusively to online order pickups.",
+    "questionText": "What does the man propose to improve the pickup service?",
+    "options": [
+      "Offering free home delivery for heavy appliances",
+      "Hiring additional stockroom clerks",
+      "Setting up a separate counter for online pickups",
+      "Moving the main cash registers to the basement"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông đề xuất giải pháp gì để cải thiện dịch vụ nhận hàng?\n(A) Miễn phí giao tận nhà đối với thiết bị nặng\n(B) Tuyển thêm nhân viên kho hàng\n(C) Bố trí một quầy riêng cho khách đến lấy đơn trực tuyến\n(D) Chuyển các quầy thu ngân chính xuống tầng hầm",
+    "explanation": "Đáp án đúng: C. Cuối hội thoại, người đàn ông đề xuất dành riêng một quầy phụ cho việc nhận đơn đặt trực tuyến (\"dedicate a side counter exclusively to online order pickups\"), khớp với \"Setting up a separate counter\". Phương án D bẫy từ \"main register\" và \"basement\"; A và B không được nhắc đến.",
+    "vocab": [
+      ["in-store pickup", "n. phr.", "nhận hàng trực tiếp tại cửa hàng"],
+      ["retrieve", "v.", "lấy lại, mang ra từ kho"],
+      ["dedicate", "v.", "dành riêng cho mục đích cụ thể"]
+    ]
+  },
+  {
+    "id": 56,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Woman: Martin, I just received an update from Mr. Sato's assistant. Severe thunderstorms delayed his departure from Singapore, so he won't land until eight thirty tonight instead of four.\nMan: Oh no, that means he'll miss the afternoon tour of our assembly plant and the welcome dinner with the executive team.\nWoman: We can shift the plant tour to nine tomorrow morning before the contract signing, though I'm worried about how he'll get from the airport during late-evening traffic.\nMan: Let me cancel the standard shuttle and book a private car service directly to his hotel. Could you let the restaurant know we're dropping the reservation to four people?\nWoman: Sure, I'll call the restaurant right away and email Mr. Sato's assistant the updated morning itinerary.",
+    "questionText": "Why is the itinerary being changed?",
+    "options": [
+      "A factory assembly line is undergoing repairs.",
+      "A restaurant closed early due to a power outage.",
+      "A client's flight was delayed by bad weather.",
+      "The executive team has another meeting tonight."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao lịch trình lại được thay đổi?\n(A) Một dây chuyền lắp ráp của nhà máy đang được sửa chữa.\n(B) Một nhà hàng đóng cửa sớm vì mất điện.\n(C) Chuyến bay của khách hàng bị hoãn do thời tiết xấu.\n(D) Ban điều hành có cuộc họp khác vào tối nay.",
+    "explanation": "Đáp án đúng: C. Người phụ nữ thông báo mưa giông lớn làm chậm giờ khởi hành của ông Sato từ Singapore (\"Severe thunderstorms delayed his departure\"), tức chuyến bay bị trễ vì thời tiết xấu. Phương án A, B và D bẫy bằng các từ \"assembly\", \"restaurant\", \"executive team\" nhưng sai nguyên nhân.",
+    "vocab": [
+      ["severe thunderstorm", "n. phr.", "bão giông nghiêm trọng"],
+      ["assembly plant", "n. phr.", "nhà máy lắp ráp"],
+      ["itinerary", "n.", "lịch trình chuyến đi"]
+    ]
+  },
+  {
+    "id": 57,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Woman: Martin, I just received an update from Mr. Sato's assistant. Severe thunderstorms delayed his departure from Singapore, so he won't land until eight thirty tonight instead of four.\nMan: Oh no, that means he'll miss the afternoon tour of our assembly plant and the welcome dinner with the executive team.\nWoman: We can shift the plant tour to nine tomorrow morning before the contract signing, though I'm worried about how he'll get from the airport during late-evening traffic.\nMan: Let me cancel the standard shuttle and book a private car service directly to his hotel. Could you let the restaurant know we're dropping the reservation to four people?\nWoman: Sure, I'll call the restaurant right away and email Mr. Sato's assistant the updated morning itinerary.",
+    "questionText": "What is scheduled for nine o'clock tomorrow morning?",
+    "options": [
+      "A factory tour",
+      "A contract negotiation with the hotel",
+      "A breakfast meeting at a downtown restaurant",
+      "An airport pickup by shuttle"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hoạt động nào được xếp lịch vào chín giờ sáng mai?\n(A) Chuyến tham quan nhà máy\n(B) Cuộc thương thảo hợp đồng với khách sạn\n(C) Bữa sáng họp mặt tại một nhà hàng trung tâm\n(D) Đón tại sân bay bằng xe trung chuyển",
+    "explanation": "Đáp án đúng: A. Người phụ nữ đề xuất dời chuyến tham quan nhà máy lắp ráp sang chín giờ sáng mai trước lễ ký hợp đồng (\"shift the plant tour to nine tomorrow morning\"), tương ứng với \"A factory tour\". Phương án B ghép sai từ \"contract\" và \"hotel\"; C và D sai thời điểm/nội dung.",
+    "vocab": [
+      ["shift", "v.", "chuyển đổi, dời lịch"],
+      ["contract signing", "n. phr.", "lễ ký kết hợp đồng"],
+      ["executive team", "n. phr.", "đội ngũ lãnh đạo điều hành"]
+    ]
+  },
+  {
+    "id": 58,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Woman: Martin, I just received an update from Mr. Sato's assistant. Severe thunderstorms delayed his departure from Singapore, so he won't land until eight thirty tonight instead of four.\nMan: Oh no, that means he'll miss the afternoon tour of our assembly plant and the welcome dinner with the executive team.\nWoman: We can shift the plant tour to nine tomorrow morning before the contract signing, though I'm worried about how he'll get from the airport during late-evening traffic.\nMan: Let me cancel the standard shuttle and book a private car service directly to his hotel. Could you let the restaurant know we're dropping the reservation to four people?\nWoman: Sure, I'll call the restaurant right away and email Mr. Sato's assistant the updated morning itinerary.",
+    "questionText": "What will the man arrange?",
+    "options": [
+      "A late check-in at the hotel",
+      "Direct private transportation from the airport",
+      "A revised table reservation for tonight",
+      "An interpreter for the contract signing"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ thu xếp việc gì?\n(A) Nhận phòng muộn tại khách sạn\n(B) Phương tiện đưa đón riêng đi thẳng từ sân bay\n(C) Đặt lại số bàn ăn cho tối nay\n(D) Một phiên dịch viên cho lễ ký kết hợp đồng",
+    "explanation": "Đáp án đúng: B. Người đàn ông nói sẽ hủy xe trung chuyển thông thường và đặt dịch vụ xe riêng đưa thẳng về khách sạn (\"book a private car service directly to his hotel\"). Phương án C là việc anh ấy nhờ người phụ nữ gọi báo nhà hàng giảm số người xuống còn bốn; A và D không được nhắc tới.",
+    "vocab": [
+      ["shuttle", "n.", "xe đưa đón tuyến cố định / trung chuyển"],
+      ["private car service", "n. phr.", "dịch vụ xe riêng có tài xế"],
+      ["reservation", "n.", "việc đặt bàn / đặt chỗ trước"]
+    ]
+  },
+  {
+    "id": 59,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Rachel, our inspection team just flagged a batch of aluminum brackets coming off Line 2. The mounting holes are consistently half a millimeter off-center.\nWoman: That's well outside our tolerance range. Carlos, has the cutting tool on Line 2 been recalibrated since yesterday's maintenance?\nMan 2: We ran a calibration check before the morning shift, and everything measured fine. However, the optical sensor looked slightly worn when we replaced a drill bit at noon.\nWoman: Let's halt Line 2 right now before any more faulty parts are produced. Victor, how far back do we need to quarantine the inventory?\nMan: Everything packaged after twelve fifteen will have to be rechecked manually. I'll also alert purchasing in case we need a rush order for replacement sensors.",
+    "questionText": "What quality defect was discovered?",
+    "options": [
+      "Aluminum brackets had rough surface edges.",
+      "Drilled holes were not positioned accurately.",
+      "Packaging boxes were missing safety labels.",
+      "A drill bit broke during the morning shift."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Lỗi chất lượng nào đã được phát hiện?\n(A) Giá đỡ nhôm có phần cạnh bề mặt thô nhám.\n(B) Các lỗ khoan không được định vị chính xác.\n(C) Thùng đóng gói bị thiếu nhãn an toàn.\n(D) Một mũi khoan bị gãy trong ca làm việc buổi sáng.",
+    "explanation": "Đáp án đúng: B. Victor (người đàn ông thứ nhất) báo cáo các lỗ bắt vít trên lô giá đỡ nhôm đồng loạt bị lệch tâm nửa mi-li-mét (\"mounting holes are consistently half a millimeter off-center\"), tức các lỗ khoan không nằm đúng vị trí chuẩn. Phương án A bẫy từ \"aluminum brackets\"; D bẫy từ \"drill bit\" (thực tế mũi khoan chỉ được thay vào buổi trưa); C không có trong bài.",
+    "vocab": [
+      ["tolerance range", "n. phr.", "ngưỡng dung sai cho phép"],
+      ["off-center", "adj.", "lệch tâm"],
+      ["defect", "n.", "khuyết tật, lỗi kỹ thuật"]
+    ]
+  },
+  {
+    "id": 60,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Rachel, our inspection team just flagged a batch of aluminum brackets coming off Line 2. The mounting holes are consistently half a millimeter off-center.\nWoman: That's well outside our tolerance range. Carlos, has the cutting tool on Line 2 been recalibrated since yesterday's maintenance?\nMan 2: We ran a calibration check before the morning shift, and everything measured fine. However, the optical sensor looked slightly worn when we replaced a drill bit at noon.\nWoman: Let's halt Line 2 right now before any more faulty parts are produced. Victor, how far back do we need to quarantine the inventory?\nMan: Everything packaged after twelve fifteen will have to be rechecked manually. I'll also alert purchasing in case we need a rush order for replacement sensors.",
+    "questionText": "What does Carlos think may have caused the issue?",
+    "options": [
+      "A maintenance crew skipped yesterday's inspection.",
+      "A sensor component has begun to wear out.",
+      "Incorrect aluminum sheets were delivered by a supplier.",
+      "The morning shift exceeded the recommended production speed."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Carlos nghĩ điều gì có thể đã gây ra sự cố?\n(A) Đội bảo trì đã bỏ qua đợt kiểm tra hôm qua.\n(B) Một bộ phận cảm biến đã bắt đầu bị mòn.\n(C) Nhà cung cấp đã giao sai tấm nhôm.\n(D) Ca sáng chạy vượt quá tốc độ sản xuất khuyến nghị.",
+    "explanation": "Đáp án đúng: B. Carlos (người đàn ông thứ hai) cho biết đã kiểm tra hiệu chuẩn trước ca sáng và mọi thứ đo đạc bình thường, nhưng cảm biến quang học trông hơi mòn khi thay mũi khoan lúc trưa (\"optical sensor looked slightly worn\"). Phương án A sai vì có kiểm tra hiệu chuẩn; C và D không được nhắc tới.",
+    "vocab": [
+      ["recalibrate", "v.", "hiệu chuẩn lại (máy móc, thước đo)"],
+      ["optical sensor", "n. phr.", "cảm biến quang học"],
+      ["worn", "adj.", "bị mài mòn, cũ hỏng"]
+    ]
+  },
+  {
+    "id": 61,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation with three speakers:",
+    "audioScript": "Man: Rachel, our inspection team just flagged a batch of aluminum brackets coming off Line 2. The mounting holes are consistently half a millimeter off-center.\nWoman: That's well outside our tolerance range. Carlos, has the cutting tool on Line 2 been recalibrated since yesterday's maintenance?\nMan 2: We ran a calibration check before the morning shift, and everything measured fine. However, the optical sensor looked slightly worn when we replaced a drill bit at noon.\nWoman: Let's halt Line 2 right now before any more faulty parts are produced. Victor, how far back do we need to quarantine the inventory?\nMan: Everything packaged after twelve fifteen will have to be rechecked manually. I'll also alert purchasing in case we need a rush order for replacement sensors.",
+    "questionText": "What will Victor do next?",
+    "options": [
+      "Recalibrate the cutting machine on Line 2",
+      "Notify the procurement department",
+      "Train workers on manual inspection techniques",
+      "Repair the damaged optical sensor himself"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Victor sẽ làm gì tiếp theo?\n(A) Hiệu chuẩn lại máy cắt trên Dây chuyền 2\n(B) Thông báo cho bộ phận mua hàng\n(C) Đào tạo công nhân kỹ thuật kiểm tra thủ công\n(D) Tự mình sửa cảm biến quang học bị hỏng",
+    "explanation": "Đáp án đúng: B. Victor (người đàn ông thứ nhất) nói ở cuối đoạn hội thoại: \"I'll also alert purchasing in case we need a rush order for replacement sensors\" (tôi cũng sẽ báo cho bộ phận mua hàng đề phòng cần đặt gấp cảm biến thay thế). \"Purchasing\" được diễn đạt lại thành \"the procurement department\". Phương án A, C và D không phải việc Victor sẽ làm.",
+    "vocab": [
+      ["halt", "v.", "tạm dừng khẩn cấp"],
+      ["quarantine", "v.", "cách ly (lô hàng lỗi để kiểm tra)"],
+      ["rush order", "n. phr.", "đơn đặt hàng gấp"]
+    ]
+  },
+  {
+    "id": 62,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Thomas, our current packaging supplier, Crestwood Paper, just sent their renewal quote, and they're raising prices by fourteen percent next quarter.\nMan: Fourteen percent? I know raw pulp costs went up, but that's steep for corrugated shipping cartons.\nWoman: Exactly. I reached out to two alternative distributors, and GreenBox Supply quoted us five percent below what we're paying right now, provided we sign an annual volume commitment.\nMan: Before we commit for a full year, have we tested whether their recycled cardboard holds up during humid coastal deliveries?\nWoman: Not yet, and that's why I held off on signing. I'll request a trial pallet of fifty cartons today so our shipping crew can run drop and moisture tests next week.",
+    "questionText": "Why is the woman considering switching suppliers?",
+    "options": [
+      "Crestwood Paper has been delivering orders late.",
+      "The current vendor plans a significant price increase.",
+      "GreenBox Supply offers faster international shipping.",
+      "Crestwood Paper stopped producing recycled cartons."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người phụ nữ đang cân nhắc đổi nhà cung cấp?\n(A) Crestwood Paper giao hàng bị chậm trễ.\n(B) Nhà cung cấp hiện tại dự kiến tăng giá đáng kể.\n(C) GreenBox Supply cung cấp dịch vụ vận chuyển quốc tế nhanh hơn.\n(D) Crestwood Paper đã ngừng sản xuất thùng các-tông tái chế.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói nhà cung cấp hiện tại là Crestwood Paper vừa gửi báo giá gia hạn với mức tăng 14% trong quý tới (\"raising prices by fourteen percent\"), và người đàn ông gọi mức đó là quá đắt (\"steep\"), tức tăng giá đáng kể. Phương án A, C và D không có trong hội thoại.",
+    "vocab": [
+      ["renewal quote", "n. phr.", "báo giá gia hạn hợp đồng"],
+      ["steep", "adj.", "quá cao, đắt đỏ (về giá cả)"],
+      ["volume commitment", "n. phr.", "cam kết sản lượng đặt mua"]
+    ]
+  },
+  {
+    "id": 63,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Thomas, our current packaging supplier, Crestwood Paper, just sent their renewal quote, and they're raising prices by fourteen percent next quarter.\nMan: Fourteen percent? I know raw pulp costs went up, but that's steep for corrugated shipping cartons.\nWoman: Exactly. I reached out to two alternative distributors, and GreenBox Supply quoted us five percent below what we're paying right now, provided we sign an annual volume commitment.\nMan: Before we commit for a full year, have we tested whether their recycled cardboard holds up during humid coastal deliveries?\nWoman: Not yet, and that's why I held off on signing. I'll request a trial pallet of fifty cartons today so our shipping crew can run drop and moisture tests next week.",
+    "questionText": "What does the man mean when he asks, \"have we tested whether their recycled cardboard holds up during humid coastal deliveries?\"",
+    "options": [
+      "He wants to verify the material's durability before signing a contract.",
+      "He thinks coastal deliveries should be outsourced.",
+      "He remembers a previous problem with GreenBox Supply's cartons.",
+      "He prefers non-recycled cardboard for all shipments."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông có ý gì khi hỏi: \"chúng ta đã kiểm tra xem bìa các-tông tái chế của họ có chịu được các chuyến giao hàng ven biển ẩm ướt không chưa\"?\n(A) Ông ấy muốn xác minh độ bền vật liệu trước khi ký hợp đồng.\n(B) Ông ấy cho rằng nên thuê ngoài các chuyến giao hàng ven biển.\n(C) Ông ấy nhớ một sự cố trước đây với thùng hàng của GreenBox Supply.\n(D) Ông ấy thích dùng bìa không tái chế cho mọi lô hàng.",
+    "explanation": "Đáp án đúng: A. Cụm \"holds up\" nghĩa là chịu đựng được, giữ nguyên chất lượng, nên câu hỏi trước khi cam kết trọn năm (\"Before we commit for a full year\") thể hiện mong muốn kiểm chứng độ bền vật liệu trước khi ký hợp đồng. Người phụ nữ đồng ý và sẽ đặt hàng mẫu để thử độ rơi và độ ẩm. Phương án B, C và D suy diễn sai.",
+    "vocab": [
+      ["hold up", "phr. v.", "chịu đựng tốt, giữ được độ bền"],
+      ["corrugated", "adj.", "dạng sóng (bìa các-tông sóng)"],
+      ["hold off on", "phr. v.", "tạm hoãn làm gì"]
+    ]
+  },
+  {
+    "id": 64,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Thomas, our current packaging supplier, Crestwood Paper, just sent their renewal quote, and they're raising prices by fourteen percent next quarter.\nMan: Fourteen percent? I know raw pulp costs went up, but that's steep for corrugated shipping cartons.\nWoman: Exactly. I reached out to two alternative distributors, and GreenBox Supply quoted us five percent below what we're paying right now, provided we sign an annual volume commitment.\nMan: Before we commit for a full year, have we tested whether their recycled cardboard holds up during humid coastal deliveries?\nWoman: Not yet, and that's why I held off on signing. I'll request a trial pallet of fifty cartons today so our shipping crew can run drop and moisture tests next week.",
+    "questionText": "What does the woman plan to do today?",
+    "options": [
+      "Sign an annual agreement with GreenBox Supply",
+      "Negotiate a smaller price hike with Crestwood Paper",
+      "Order sample boxes for quality testing",
+      "Inspect the warehouse humidity controls"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ dự định làm gì trong hôm nay?\n(A) Ký thỏa thuận thường niên với GreenBox Supply\n(B) Thương lượng mức tăng giá nhỏ hơn với Crestwood Paper\n(C) Đặt hộp mẫu để kiểm thử chất lượng\n(D) Kiểm tra hệ thống kiểm soát độ ẩm tại kho",
+    "explanation": "Đáp án đúng: C. Cuối hội thoại, người phụ nữ nói hôm nay cô ấy sẽ yêu cầu một kiện dùng thử gồm năm mươi thùng (\"request a trial pallet of fifty cartons today\") để đội giao nhận thử va đập và độ ẩm vào tuần tới. Phương án A sai vì cô ấy trì hoãn ký kết; B và D không có trong bài.",
+    "vocab": [
+      ["trial pallet", "n. phr.", "kiện hàng mẫu dùng thử"],
+      ["moisture test", "n. phr.", "kiểm tra độ chịu ẩm"],
+      ["distributor", "n.", "nhà phân phối"]
+    ]
+  },
+  {
+    "id": 65,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Now that we're adding fifteen customer success representatives next month, our current floor is running out of workstations.\nWoman: I spoke with the building's leasing agent yesterday. The corner suite across the hall is vacant, though taking it would add nearly four thousand dollars a month to our rent.\nMan: That's pretty steep. What about converting the oversized archival library on our side into an open workstation zone?\nWoman: I considered that, too, since most records have been digitized anyway. Still, we'd have to knock down a partition wall and run network cabling, which requires landlord permission under our lease.\nMan: Let's ask the property manager for an estimate on both options—a short-term lease for the vacant suite versus approving minor interior renovations.",
+    "questionText": "Why do the speakers need additional workspace?",
+    "options": [
+      "Several meeting rooms are being remodeled.",
+      "New employees are joining the company soon.",
+      "Archives from another branch are being moved here.",
+      "The current lease is about to expire."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao hai người cần thêm không gian làm việc?\n(A) Một số phòng họp đang được cải tạo.\n(B) Nhân viên mới sắp gia nhập công ty.\n(C) Hồ sơ lưu trữ từ chi nhánh khác đang được chuyển về đây.\n(D) Hợp đồng thuê hiện tại sắp hết hạn.",
+    "explanation": "Đáp án đúng: B. Người đàn ông nói công ty sắp tuyển thêm mười lăm chuyên viên chăm sóc khách hàng vào tháng tới nên tầng hiện tại sắp hết bàn làm việc (\"adding fifteen customer success representatives next month\"), đồng nghĩa sắp có nhân viên mới gia nhập. Phương án A, C và D bẫy từ \"renovation\", \"archival\", \"lease\" nhưng sai lý do.",
+    "vocab": [
+      ["workstation", "n.", "bàn / vị trí làm việc"],
+      ["leasing agent", "n. phr.", "nhân viên môi giới cho thuê"],
+      ["vacant", "adj.", "còn trống (mặt bằng)"]
+    ]
+  },
+  {
+    "id": 66,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Now that we're adding fifteen customer success representatives next month, our current floor is running out of workstations.\nWoman: I spoke with the building's leasing agent yesterday. The corner suite across the hall is vacant, though taking it would add nearly four thousand dollars a month to our rent.\nMan: That's pretty steep. What about converting the oversized archival library on our side into an open workstation zone?\nWoman: I considered that, too, since most records have been digitized anyway. Still, we'd have to knock down a partition wall and run network cabling, which requires landlord permission under our lease.\nMan: Let's ask the property manager for an estimate on both options—a short-term lease for the vacant suite versus approving minor interior renovations.",
+    "questionText": "Why is the archival library a candidate for conversion?",
+    "options": [
+      "It already has sufficient network outlets.",
+      "Most of its stored files are now available electronically.",
+      "It is larger than the corner suite across the hall.",
+      "The landlord previously offered to remodel it for free."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao phòng lưu trữ hồ sơ lại là lựa chọn phù hợp để cải tạo?\n(A) Phòng đó đã có đủ ổ cắm mạng.\n(B) Phần lớn tài liệu lưu trữ ở đó nay đã có bản điện tử.\n(C) Phòng đó rộng hơn văn phòng góc bên kia hành lang.\n(D) Chủ tòa nhà trước đây từng đề nghị sửa miễn phí.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ nói cô ấy cũng từng cân nhắc chuyển đổi thư viện lưu trữ quá lớn vì phần lớn hồ sơ đều đã được số hóa (\"most records have been digitized anyway\"), tương ứng với \"available electronically\". Phương án A sai vì họ vẫn phải đi dây mạng mới; C và D không có trong bài.",
+    "vocab": [
+      ["convert", "v.", "chuyển đổi công năng"],
+      ["digitize", "v.", "số hóa"],
+      ["partition wall", "n. phr.", "vách ngăn tường"]
+    ]
+  },
+  {
+    "id": 67,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Now that we're adding fifteen customer success representatives next month, our current floor is running out of workstations.\nWoman: I spoke with the building's leasing agent yesterday. The corner suite across the hall is vacant, though taking it would add nearly four thousand dollars a month to our rent.\nMan: That's pretty steep. What about converting the oversized archival library on our side into an open workstation zone?\nWoman: I considered that, too, since most records have been digitized anyway. Still, we'd have to knock down a partition wall and run network cabling, which requires landlord permission under our lease.\nMan: Let's ask the property manager for an estimate on both options—a short-term lease for the vacant suite versus approving minor interior renovations.",
+    "questionText": "What obstacle does the woman mention regarding renovating the current floor?",
+    "options": [
+      "The leasing agent refuses to negotiate short-term contracts.",
+      "Removing a wall needs authorization from the building owner.",
+      "Network cabling technicians are booked until next month.",
+      "Digitizing the remaining paper files will take too long."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ nhắc tới trở ngại nào liên quan đến việc cải tạo tầng hiện tại?\n(A) Nhân viên cho thuê từ chối đàm phán hợp đồng ngắn hạn.\n(B) Việc phá dỡ vách tường cần có sự chấp thuận của chủ tòa nhà.\n(C) Kỹ thuật viên đi dây mạng đã kín lịch tới tháng sau.\n(D) Việc số hóa phần hồ sơ giấy còn lại sẽ mất quá nhiều thời gian.",
+    "explanation": "Đáp án đúng: B. Người phụ nữ lưu ý muốn tháo dỡ vách ngăn và đi dây mạng thì phải có sự cho phép của chủ sở hữu theo hợp đồng thuê (\"requires landlord permission under our lease\"), được diễn đạt lại là \"needs authorization from the building owner\". Phương án A, C và D không xuất hiện trong hội thoại.",
+    "vocab": [
+      ["landlord", "n.", "chủ nhà / chủ sở hữu tòa nhà"],
+      ["network cabling", "n. phr.", "hệ thống đi dây cáp mạng"],
+      ["renovation", "n.", "sự cải tạo, sửa sang lại"]
+    ]
+  },
+  {
+    "id": 68,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Ben, I'm on the line with an administrator from Oakridge University. One of the conference projectors they bought from us started shutting off unexpectedly, and their twelve-month warranty expired three weeks ago.\nMan: Technically that falls outside standard coverage, so a repair would normally carry a diagnostic fee.\nWoman: Oakridge has outfitted over forty lecture halls with our equipment over the past four years.\nMan: Oh, in that case we definitely shouldn't charge them for a minor power-supply fix. Let's waive the service fee as a one-time goodwill exception, or offer them a twenty-percent credit if they prefer to upgrade to our laser model.\nWoman: That sounds fair. I'll put the administrator back on the line and present both choices.",
+    "questionText": "Why did the university administrator contact the speakers' company?",
+    "options": [
+      "To purchase equipment for forty new lecture halls",
+      "To renew an extended service contract",
+      "To report a technical malfunction on a projector",
+      "To complain about a billing error on a diagnostic fee"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao người quản trị viên đại học liên hệ với công ty của hai người?\n(A) Để mua thiết bị cho bốn mươi giảng đường mới\n(B) Để gia hạn hợp đồng dịch vụ mở rộng\n(C) Để báo cáo sự cố kỹ thuật trên một máy chiếu\n(D) Để khiếu nại lỗi hóa đơn về phí kiểm tra chẩn đoán",
+    "explanation": "Đáp án đúng: C. Người phụ nữ nói nhân viên quản trị từ Đại học Oakridge gọi về việc một chiếc máy chiếu hội nghị họ mua bỗng dưng tự tắt (\"started shutting off unexpectedly\"), tương ứng với báo cáo trục trặc kỹ thuật. Phương án A bẫy chi tiết bốn mươi giảng đường đã trang bị trước đây; B và D sai thông tin.",
+    "vocab": [
+      ["warranty", "n.", "chế độ / thời hạn bảo hành"],
+      ["diagnostic fee", "n. phr.", "phí kiểm tra chẩn đoán lỗi"],
+      ["standard coverage", "n. phr.", "phạm vi bảo hành tiêu chuẩn"]
+    ]
+  },
+  {
+    "id": 69,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Ben, I'm on the line with an administrator from Oakridge University. One of the conference projectors they bought from us started shutting off unexpectedly, and their twelve-month warranty expired three weeks ago.\nMan: Technically that falls outside standard coverage, so a repair would normally carry a diagnostic fee.\nWoman: Oakridge has outfitted over forty lecture halls with our equipment over the past four years.\nMan: Oh, in that case we definitely shouldn't charge them for a minor power-supply fix. Let's waive the service fee as a one-time goodwill exception, or offer them a twenty-percent credit if they prefer to upgrade to our laser model.\nWoman: That sounds fair. I'll put the administrator back on the line and present both choices.",
+    "questionText": "What does the woman imply when she says, \"Oakridge has outfitted over forty lecture halls with our equipment over the past four years\"?",
+    "options": [
+      "The university is an important long-term customer deserving flexibility.",
+      "Several older projectors need to be recalled immediately.",
+      "The repair technician is familiar with the campus layout.",
+      "The university has exceeded its annual discount allowance."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ ngụ ý gì khi nói: \"Oakridge đã trang bị thiết bị của chúng ta cho hơn bốn mươi giảng đường trong bốn năm qua\"?\n(A) Trường đại học là khách hàng lớn lâu năm xứng đáng được linh hoạt giải quyết.\n(B) Một số máy chiếu đời cũ cần bị thu hồi ngay lập tức.\n(C) Kỹ thuật viên sửa chữa quen thuộc với bố cục khuôn viên trường.\n(D) Trường đại học đã vượt quá hạn mức chiết khấu hằng năm.",
+    "explanation": "Đáp án đúng: A. Ngay sau khi người đàn ông nói theo quy định sẽ phải tính phí chẩn đoán, người phụ nữ nêu con số Oakridge đã mua thiết bị cho hơn bốn mươi giảng đường suốt bốn năm nhằm thuyết phục áp dụng linh hoạt cho khách hàng lâu năm. Người đàn ông lập tức hiểu ý và đồng ý miễn phí hoặc chiết khấu nâng cấp. Phương án B, C và D đều sai ngữ cảnh.",
+    "vocab": [
+      ["outfit", "v.", "trang bị, lắp đặt thiết bị đầy đủ"],
+      ["lecture hall", "n. phr.", "giảng đường đại học"],
+      ["flexibility", "n.", "sự linh hoạt"]
+    ]
+  },
+  {
+    "id": 70,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Ben, I'm on the line with an administrator from Oakridge University. One of the conference projectors they bought from us started shutting off unexpectedly, and their twelve-month warranty expired three weeks ago.\nMan: Technically that falls outside standard coverage, so a repair would normally carry a diagnostic fee.\nWoman: Oakridge has outfitted over forty lecture halls with our equipment over the past four years.\nMan: Oh, in that case we definitely shouldn't charge them for a minor power-supply fix. Let's waive the service fee as a one-time goodwill exception, or offer them a twenty-percent credit if they prefer to upgrade to our laser model.\nWoman: That sounds fair. I'll put the administrator back on the line and present both choices.",
+    "questionText": "What will the woman probably offer the customer?",
+    "options": [
+      "A full refund on the original projector",
+      "A complimentary repair or a discount on a newer unit",
+      "A free three-year warranty extension for all lecture halls",
+      "A temporary loaner projector during the repair"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ có thể sẽ đề nghị phương án nào cho khách hàng?\n(A) Hoàn tiền toàn bộ cho chiếc máy chiếu ban đầu\n(B) Sửa chữa miễn phí hoặc giảm giá khi mua mẫu mới hơn\n(C) Gia hạn bảo hành ba năm miễn phí cho toàn bộ giảng đường\n(D) Cho mượn máy chiếu tạm thời trong lúc sửa chữa",
+    "explanation": "Đáp án đúng: B. Người đàn ông đề xuất hai lựa chọn: miễn phí dịch vụ sửa nguồn như một ngoại lệ thiện chí (\"waive the service fee\"), hoặc tặng mức khấu trừ 20% nếu muốn nâng cấp lên mẫu laser (\"twenty-percent credit if they prefer to upgrade\"), và người phụ nữ đồng ý đưa cả hai lựa chọn đó cho khách. Phương án A, C và D không được nhắc tới.",
+    "vocab": [
+      ["waive", "v.", "miễn trừ (phí, điều khoản)"],
+      ["goodwill exception", "n. phr.", "ngoại lệ mang tính thiện chí"],
+      ["credit", "n.", "khoản tiền khấu trừ / ưu đãi"]
+    ]
+  }
+]

@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 32,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g1",
+    "audioScript": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "audioVoiceText": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "questionText": "What are the speakers mainly discussing?",
+    "options": [
+      "(A) Whether a software release can take place as scheduled.",
+      "(B) How to reduce the cost of a payment module.",
+      "(C) Which features to remove from a mobile app.",
+      "(D) When to hire additional testing staff."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người chủ yếu đang thảo luận điều gì?\n(A) Liệu một bản phát hành phần mềm có thể ra mắt đúng kế hoạch hay không.\n(B) Làm thế nào để giảm chi phí của mô-đun thanh toán.\n(C) Nên bỏ những tính năng nào khỏi ứng dụng di động.\n(D) Khi nào cần tuyển thêm nhân viên kiểm thử.",
+    "explanation": "Ngay lượt nói đầu, người phụ nữ cho biết không chắc có thể đưa bản cập nhật lên ngày 28 như kế hoạch, và cả đoạn hội thoại xoay quanh việc dời ngày phát hành. Các phương án B, C, D không được nhắc đến.",
+    "vocab": [
+      [
+        "release schedule",
+        "n",
+        "lịch phát hành"
+      ],
+      [
+        "push live",
+        "phr",
+        "đưa lên chạy thực tế"
+      ],
+      [
+        "sign off",
+        "phr",
+        "phê duyệt"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g1",
+    "audioScript": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "audioVoiceText": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "questionText": "Why is the launch date in question?",
+    "options": [
+      "(A) The testing team is understaffed.",
+      "(B) A client requested major design changes.",
+      "(C) A supplier has not provided a required certificate.",
+      "(D) The server hardware is outdated."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Vì sao ngày ra mắt bị đặt dấu hỏi?\n(A) Nhóm kiểm thử đang thiếu nhân lực.\n(B) Một khách hàng yêu cầu thay đổi thiết kế lớn.\n(C) Một nhà cung cấp chưa gửi chứng nhận bắt buộc.\n(D) Phần cứng máy chủ đã lỗi thời.",
+    "explanation": "Người đàn ông hỏi về load test, và người phụ nữ cho biết đó chỉ là một phần: mô-đun đã ổn định, nhưng cổng thanh toán của bên thứ ba chưa gửi chứng nhận bảo mật nên bộ phận tuân thủ không phê duyệt.",
+    "vocab": [
+      [
+        "gateway",
+        "n",
+        "cổng kết nối"
+      ],
+      [
+        "security certificate",
+        "n",
+        "chứng nhận bảo mật"
+      ],
+      [
+        "load test",
+        "n",
+        "kiểm thử tải"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g1",
+    "audioScript": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "audioVoiceText": "Woman: I reviewed the release schedule this morning, and I don't think we can push the mobile app update live on the twenty-eighth as planned.\nMan: Is the payment module still failing the load tests?\nWoman: That was part of it. The module itself is stable now, but the third-party gateway we integrated last month hasn't returned its security certificate, and compliance won't sign off without it.\nMan: Then let's move the launch to the fifth of next month and use the extra week for regression testing.\nWoman: That works, but please tell the client's account manager before she announces anything to their retail partners.",
+    "questionText": "What does the woman ask the man to do?",
+    "options": [
+      "(A) Move the regression tests to next month.",
+      "(B) Inform the client's account manager of the change.",
+      "(C) Contact the compliance department himself.",
+      "(D) Announce the delay directly to retail partners."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị người đàn ông làm gì?\n(A) Dời các bài kiểm thử hồi quy sang tháng sau.\n(B) Thông báo thay đổi cho quản lý phụ trách khách hàng.\n(C) Tự liên hệ bộ phận tuân thủ.\n(D) Trực tiếp thông báo việc hoãn cho các đối tác bán lẻ.",
+    "explanation": "Câu cuối, người phụ nữ nói \"please tell the client's account manager before she announces anything\". Việc thông báo cho đối tác bán lẻ là của quản lý khách hàng, không phải người đàn ông.",
+    "vocab": [
+      [
+        "account manager",
+        "n",
+        "quản lý phụ trách khách hàng"
+      ],
+      [
+        "regression testing",
+        "n",
+        "kiểm thử hồi quy"
+      ],
+      [
+        "announce",
+        "v",
+        "thông báo"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g2",
+    "audioScript": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "audioVoiceText": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "questionText": "What is the man concerned about?",
+    "options": [
+      "(A) A workshop may be cancelled after a budget reduction.",
+      "(B) A conference venue has raised its rental rates.",
+      "(C) Too few employees registered for a course.",
+      "(D) A guest trainer is unavailable in June."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông lo lắng về điều gì?\n(A) Một buổi hội thảo có thể bị hủy sau khi ngân sách bị cắt.\n(B) Một địa điểm hội nghị đã tăng giá thuê.\n(C) Quá ít nhân viên đăng ký một khóa học.\n(D) Một giảng viên khách mời không có mặt vào tháng Sáu.",
+    "explanation": "Người đàn ông nói ngân sách đào tạo bị cắt 15% nên hội thảo tháng Sáu không còn được chi trả. Các phương án còn lại không xuất hiện trong hội thoại.",
+    "vocab": [
+      [
+        "budget",
+        "n",
+        "ngân sách"
+      ],
+      [
+        "deposit",
+        "n",
+        "tiền đặt cọc"
+      ],
+      [
+        "attendee",
+        "n",
+        "người tham dự"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g2",
+    "audioScript": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "audioVoiceText": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "questionText": "What does the woman suggest doing with the money saved?",
+    "options": [
+      "(A) Hiring an outside facilitator.",
+      "(B) Extending the workshop by one day.",
+      "(C) Refunding the attendees' registration fees.",
+      "(D) Paying for coaching sessions later."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị dùng số tiền tiết kiệm được để làm gì?\n(A) Thuê một người điều phối bên ngoài.\n(B) Kéo dài hội thảo thêm một ngày.\n(C) Hoàn lại phí đăng ký cho người tham dự.\n(D) Chi trả cho các buổi huấn luyện cá nhân vào cuối năm.",
+    "explanation": "Người phụ nữ nói bỏ được địa điểm thuê sẽ tiết kiệm khoảng 9.000 đô la và có thể dùng một phần cho \"coaching sessions later in the year\". Việc rút ngắn chương trình là đề xuất của ủy ban, không phải của cô ấy.",
+    "vocab": [
+      [
+        "venue",
+        "n",
+        "địa điểm tổ chức"
+      ],
+      [
+        "coaching session",
+        "n",
+        "buổi huấn luyện cá nhân"
+      ],
+      [
+        "proposal",
+        "n",
+        "bản đề xuất"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g2",
+    "audioScript": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "audioVoiceText": "Man: The finance committee cut our training budget by fifteen percent for next quarter, so the leadership workshop in June is no longer covered.\nWoman: But we already paid the deposit to the venue and confirmed forty attendees. Cancelling now would cost us more than running it.\nMan: That is what I told them. They suggested we shorten the program from three days to one and hold it in our own conference room.\nWoman: Dropping the venue would save about nine thousand dollars, and we could spend part of that on coaching sessions later in the year.\nMan: Let me rework the proposal and get it to the committee before their meeting on Thursday.",
+    "questionText": "What will the man probably do next?",
+    "options": [
+      "(A) Revise the proposal for the committee.",
+      "(B) Book a smaller conference room.",
+      "(C) Ask attendees to confirm their schedules.",
+      "(D) Request a larger budget from finance."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông có khả năng sẽ làm gì tiếp theo?\n(A) Chỉnh sửa bản đề xuất để trình ủy ban.\n(B) Đặt một phòng hội nghị nhỏ hơn.\n(C) Đề nghị người tham dự xác nhận lịch.\n(D) Yêu cầu bộ phận tài chính cấp ngân sách lớn hơn.",
+    "explanation": "Lượt cuối, người đàn ông nói sẽ \"rework the proposal\" và gửi cho ủy ban trước cuộc họp thứ Năm. Các phương án khác không được nêu.",
+    "vocab": [
+      [
+        "rework",
+        "v",
+        "chỉnh sửa lại"
+      ],
+      [
+        "committee",
+        "n",
+        "ủy ban"
+      ],
+      [
+        "shorten",
+        "v",
+        "rút ngắn"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g3",
+    "audioScript": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "audioVoiceText": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "questionText": "What are the speakers doing?",
+    "options": [
+      "(A) Selecting a candidate for a coordinator position.",
+      "(B) Negotiating terms with a Brazilian supplier.",
+      "(C) Reviewing the content of a training course.",
+      "(D) Scheduling interviews for next month."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người đang làm gì?\n(A) Chọn một ứng viên cho vị trí điều phối viên.\n(B) Đàm phán điều khoản với một nhà cung cấp Brazil.\n(C) Xem lại nội dung một khóa đào tạo.\n(D) Lên lịch phỏng vấn cho tháng sau.",
+    "explanation": "Người phụ nữ nói đã phỏng vấn tám ứng viên và hội đồng tuyển dụng đang phân vân giữa hai người, tức là đang chọn ứng viên. Các phương án còn lại chỉ là chi tiết phụ hoặc không có trong bài.",
+    "vocab": [
+      [
+        "hiring panel",
+        "n",
+        "hội đồng tuyển dụng"
+      ],
+      [
+        "candidate",
+        "n",
+        "ứng viên"
+      ],
+      [
+        "logistics coordinator",
+        "n",
+        "điều phối viên hậu cần"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g3",
+    "audioScript": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "audioVoiceText": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "questionText": "What advantage does Rafael have over Denise?",
+    "options": [
+      "(A) He has used the warehouse software before.",
+      "(B) He is available to start immediately.",
+      "(C) He can communicate with an overseas supplier.",
+      "(D) He has stronger forecasting skills."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Rafael có lợi thế gì so với Denise?\n(A) Anh ấy từng dùng phần mềm kho hàng.\n(B) Anh ấy có thể bắt đầu làm ngay.\n(C) Anh ấy có thể giao tiếp với một nhà cung cấp ở nước ngoài.\n(D) Anh ấy có kỹ năng dự báo tốt hơn.",
+    "explanation": "Người phụ nữ nói Rafael speaks Portuguese, hữu ích với nhà cung cấp Brazil. Kỹ năng dự báo và phần mềm kho hàng là lợi thế của Denise, nên A và D sai; B không được nhắc đến.",
+    "vocab": [
+      [
+        "forecasting",
+        "n",
+        "dự báo"
+      ],
+      [
+        "warehouse",
+        "n",
+        "kho hàng"
+      ],
+      [
+        "supplier",
+        "n",
+        "nhà cung cấp"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g3",
+    "audioScript": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "audioVoiceText": "Woman: We have interviewed eight candidates for the logistics coordinator position, and the hiring panel is split between two of them.\nMan: What separates them? On paper their experience looks almost identical.\nWoman: Denise has stronger forecasting skills and already knows our warehouse software, while Rafael has managed a much larger team and speaks Portuguese, which would help with our Brazilian supplier.\nMan: Since the Sao Paulo contract starts in April, I would lean toward the language skills and send Denise to a forecasting course later.\nWoman: Then I will invite Rafael back for a second interview and ask how he would restructure the night shift.",
+    "questionText": "What will the woman do?",
+    "options": [
+      "(A) Offer the position to Denise.",
+      "(B) Arrange a second interview with Rafael.",
+      "(C) Post the job opening again.",
+      "(D) Delay the decision until April."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì?\n(A) Trao vị trí cho Denise.\n(B) Sắp xếp một buổi phỏng vấn thứ hai với Rafael.\n(C) Đăng lại tin tuyển dụng.\n(D) Trì hoãn quyết định đến tháng Tư.",
+    "explanation": "Câu cuối, người phụ nữ nói sẽ mời Rafael quay lại phỏng vấn lần hai và hỏi cách anh ấy tái cơ cấu ca đêm. Việc chọn Denise hay chờ đến tháng Tư đều không được nêu.",
+    "vocab": [
+      [
+        "night shift",
+        "n",
+        "ca đêm"
+      ],
+      [
+        "restructure",
+        "v",
+        "tái cơ cấu"
+      ],
+      [
+        "lean toward",
+        "phr",
+        "nghiêng về"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g4",
+    "audioScript": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "audioVoiceText": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "questionText": "What is the problem?",
+    "options": [
+      "(A) A shipment is being held at customs.",
+      "(B) A printer has delivered the wrong catalogs.",
+      "(C) A distribution center has closed temporarily.",
+      "(D) A trade show has been postponed."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vấn đề là gì?\n(A) Một lô hàng đang bị giữ ở hải quan.\n(B) Một nhà in đã giao nhầm catalog.\n(C) Một trung tâm phân phối tạm thời đóng cửa.\n(D) Một hội chợ thương mại đã bị hoãn.",
+    "explanation": "Người đàn ông nói trang theo dõi vẫn cho thấy container đang nằm ở hải quan, và người phụ nữ xác nhận hải quan yêu cầu hóa đơn sửa đổi trước khi thông quan. Ba phương án còn lại không có căn cứ.",
+    "vocab": [
+      [
+        "container",
+        "n",
+        "công-ten-nơ"
+      ],
+      [
+        "customs",
+        "n",
+        "hải quan"
+      ],
+      [
+        "tracking page",
+        "n",
+        "trang theo dõi vận đơn"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g4",
+    "audioScript": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "audioVoiceText": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "questionText": "What has the woman already done?",
+    "options": [
+      "(A) Contacted a local printer.",
+      "(B) Emailed the corrected invoice.",
+      "(C) Canceled the spring mailing.",
+      "(D) Visited the distribution center."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đã làm gì rồi?\n(A) Liên hệ một nhà in địa phương.\n(B) Gửi email hóa đơn đã sửa.\n(C) Hủy đợt gửi thư mùa xuân.\n(D) Đến thăm trung tâm phân phối.",
+    "explanation": "Cô ấy nói \"I already emailed it\" — tức đã gửi hóa đơn sửa đổi. Việc thuê nhà in địa phương là đề xuất của người đàn ông ở lượt cuối, chưa thực hiện.",
+    "vocab": [
+      [
+        "freight forwarder",
+        "n",
+        "đại lý giao nhận"
+      ],
+      [
+        "commercial invoice",
+        "n",
+        "hóa đơn thương mại"
+      ],
+      [
+        "clearance",
+        "n",
+        "thông quan"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g4",
+    "audioScript": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "audioVoiceText": "Man: The container of printed catalogs was supposed to reach the Chicago distribution center yesterday, but the tracking page still shows it sitting at customs.\nWoman: I called the freight forwarder this morning. The paperwork lists the goods as promotional samples, so customs wants a corrected commercial invoice before releasing anything.\nMan: Can we send the invoice from the printer? It shows the declared value, which should be all they need.\nWoman: I already emailed it, but the trade show starts Monday, and even a two-day clearance delay would make the pallets useless.\nMan: Then let us have a local printer produce a short run for the show and keep the container for the spring mailing.",
+    "questionText": "What does the man suggest?",
+    "options": [
+      "(A) Paying an additional customs fee.",
+      "(B) Having a small quantity printed locally.",
+      "(C) Shipping the pallets by air freight.",
+      "(D) Postponing the trade show."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông đề xuất điều gì?\n(A) Trả thêm một khoản phí hải quan.\n(B) In một số lượng nhỏ tại địa phương.\n(C) Chuyển các tấm kê hàng bằng đường hàng không.\n(D) Hoãn hội chợ thương mại.",
+    "explanation": "Người đàn ông đề nghị để nhà in địa phương làm một \"short run\" cho hội chợ và giữ container cho đợt gửi mùa xuân. Không có phương án trả phí hải quan hay đổi phương thức vận chuyển.",
+    "vocab": [
+      [
+        "short run",
+        "n",
+        "lô sản xuất nhỏ"
+      ],
+      [
+        "pallet",
+        "n",
+        "tấm kê hàng"
+      ],
+      [
+        "mailing",
+        "n",
+        "đợt gửi bưu phẩm"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g5",
+    "audioScript": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "audioVoiceText": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "questionText": "Why is the customer upset?",
+    "options": [
+      "(A) His orders arrived later than promised.",
+      "(B) The wrong adapters were included in his orders.",
+      "(C) He was charged twice for shipping.",
+      "(D) A discount was not applied to his invoices."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao khách hàng không hài lòng?\n(A) Đơn hàng của ông ấy đến muộn hơn cam kết.\n(B) Các bộ chuyển nguồn bị giao sai trong đơn hàng.\n(C) Ông ấy bị tính phí vận chuyển hai lần.\n(D) Một khoản giảm giá không được áp dụng cho hóa đơn.",
+    "explanation": "Người phụ nữ nói hai đơn hàng gần nhất giao nhầm bộ chuyển nguồn khiến nhân viên phải đóng gói lại. Không có chi tiết nào về giao muộn, phí vận chuyển hay giảm giá.",
+    "vocab": [
+      [
+        "adapter",
+        "n",
+        "bộ chuyển nguồn"
+      ],
+      [
+        "repackage",
+        "v",
+        "đóng gói lại"
+      ],
+      [
+        "credit",
+        "n",
+        "khoản giảm trừ hóa đơn"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g5",
+    "audioScript": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "audioVoiceText": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "questionText": "According to the man, what caused the mistake?",
+    "options": [
+      "(A) Two product models have nearly identical labels.",
+      "(B) The packing staff were recently replaced.",
+      "(C) The delivery schedule was changed.",
+      "(D) The invoicing system produced wrong codes."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Theo người đàn ông, điều gì đã gây ra lỗi?\n(A) Hai mẫu sản phẩm có nhãn gần như giống hệt nhau.\n(B) Nhân viên đóng gói mới được thay gần đây.\n(C) Lịch giao hàng đã bị thay đổi.\n(D) Hệ thống xuất hóa đơn tạo mã sai.",
+    "explanation": "Người đàn ông giải thích dây chuyền đóng gói đổi nhà cung cấp từ tháng Giêng và nhãn của hai mẫu máy \"look nearly identical\", khiến đóng gói nhầm. Ba phương án còn lại không được nhắc tới.",
+    "vocab": [
+      [
+        "packing line",
+        "n",
+        "dây chuyền đóng gói"
+      ],
+      [
+        "batch",
+        "n",
+        "lô hàng"
+      ],
+      [
+        "identical",
+        "adj",
+        "giống hệt nhau"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g5",
+    "audioScript": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "audioVoiceText": "Woman: Mr. Okafor from Beacon Retail called again. His last two orders arrived with the wrong power adapters, and his staff had to repackage every unit before they could sell them.\nMan: That is the second complaint this month. The packing line switched to a new adapter supplier in January, and the labels on the two models look nearly identical.\nWoman: He wants a credit on both invoices and a written assurance that it will not happen again.\nMan: Approve the credit, and I will have quality control add a color-coded sticker to each adapter box starting with the next batch.\nWoman: I will also offer to send a representative to his store to check the remaining stock.",
+    "questionText": "What does the woman offer to do?",
+    "options": [
+      "(A) Waive the shipping fee on the next order.",
+      "(B) Send someone to inspect the customer's stock.",
+      "(C) Replace the entire inventory free of charge.",
+      "(D) Visit the packing line herself."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ đề nghị làm gì?\n(A) Miễn phí vận chuyển cho đơn hàng tiếp theo.\n(B) Cử người đến kiểm tra hàng tồn của khách.\n(C) Thay toàn bộ hàng tồn miễn phí.\n(D) Tự mình đến dây chuyền đóng gói.",
+    "explanation": "Câu cuối, người phụ nữ nói sẽ cử một đại diện đến cửa hàng của khách để kiểm tra số hàng còn lại. Việc dán nhãn màu là do người đàn ông đề xuất, không phải cô ấy.",
+    "vocab": [
+      [
+        "assurance",
+        "n",
+        "sự bảo đảm"
+      ],
+      [
+        "quality control",
+        "n",
+        "kiểm soát chất lượng"
+      ],
+      [
+        "remaining stock",
+        "n",
+        "hàng tồn còn lại"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g6",
+    "audioScript": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "audioVoiceText": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "questionText": "What problem does the man report?",
+    "options": [
+      "(A) Fewer people have registered than expected.",
+      "(B) The hotel has cancelled a room block.",
+      "(C) The conference venue has been double-booked.",
+      "(D) A speaker has withdrawn from the program."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông báo cáo vấn đề gì?\n(A) Số người đăng ký ít hơn dự kiến.\n(B) Khách sạn đã hủy khối phòng đặt trước.\n(C) Địa điểm hội nghị bị đặt trùng.\n(D) Một diễn giả đã rút khỏi chương trình.",
+    "explanation": "Ông ấy nói số đăng ký thấp hơn nhiều so với dự báo: chỉ khoảng 120 người xác nhận trong khi đã giữ 400 phòng khách sạn. Khách sạn không hủy gì cả.",
+    "vocab": [
+      [
+        "projected",
+        "adj",
+        "được dự báo"
+      ],
+      [
+        "hotel block",
+        "n",
+        "khối phòng đặt trước"
+      ],
+      [
+        "registration",
+        "n",
+        "việc đăng ký"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g6",
+    "audioScript": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "audioVoiceText": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "questionText": "What does the woman imply about the announcement email?",
+    "options": [
+      "(A) It contained an incorrect price.",
+      "(B) It was sent at a time when few people read it.",
+      "(C) It was never approved by the manager.",
+      "(D) It listed the wrong conference dates."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ ngụ ý gì về email thông báo?\n(A) Nó ghi sai giá.\n(B) Nó được gửi vào thời điểm ít người đọc.\n(C) Nó chưa được quản lý phê duyệt.\n(D) It listed the wrong conference dates.",
+    "explanation": "Cô ấy nói email được gửi \"during the holiday week\", tức là vào tuần lễ mà ít người để ý, nên nhiều người bỏ lỡ hạn đăng ký. Hội thoại không hề nói email sai giá, sai ngày hay chưa được duyệt.",
+    "vocab": [
+      [
+        "early-bird rate",
+        "n",
+        "mức giá đăng ký sớm"
+      ],
+      [
+        "deadline",
+        "n",
+        "hạn chót"
+      ],
+      [
+        "list",
+        "n",
+        "danh sách người nhận"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g6",
+    "audioScript": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "audioVoiceText": "Man: The registration numbers for the regional sales conference are well below what we projected. We have about a hundred and twenty people confirmed, and the hotel block is four hundred rooms.\nWoman: The early-bird rate closed two weeks earlier this year, and the email announcing it went out during the holiday week.\nMan: So most people never saw the deadline. Should we quietly honor the lower rate for anyone who calls us?\nWoman: I would rather extend the rate publicly until Friday and send one clear message to the whole list, otherwise we will be answering the same question for days.\nMan: Fine. I will ask the design team to adjust the registration page this afternoon.",
+    "questionText": "What will the man do this afternoon?",
+    "options": [
+      "(A) Call the hotel to reduce the room block.",
+      "(B) Write to everyone who registered early.",
+      "(C) Have the registration page updated.",
+      "(D) Interview candidates for the design team."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì vào chiều nay?\n(A) Gọi khách sạn để giảm số phòng đặt trước.\n(B) Viết thư cho những người đã đăng ký sớm.\n(C) Cho cập nhật trang đăng ký.\n(D) Phỏng vấn ứng viên cho nhóm thiết kế.",
+    "explanation": "Câu cuối, người đàn ông nói sẽ nhờ nhóm thiết kế chỉnh trang đăng ký ngay chiều nay để áp dụng mức giá gia hạn. Việc giảm số phòng không được nhắc đến.",
+    "vocab": [
+      [
+        "adjust",
+        "v",
+        "điều chỉnh"
+      ],
+      [
+        "extend",
+        "v",
+        "gia hạn"
+      ],
+      [
+        "honor",
+        "v",
+        "áp dụng đúng (mức giá)"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g7",
+    "audioScript": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "audioVoiceText": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "questionText": "What is the woman worried about?",
+    "options": [
+      "(A) A key person is leaving before an important project.",
+      "(B) The payroll system has crashed twice this month.",
+      "(C) The vendor has raised its support fees.",
+      "(D) Department heads have rejected a new schedule."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ lo lắng về điều gì?\n(A) Một người quan trọng sẽ rời đi trước một dự án quan trọng.\n(B) Hệ thống lương đã bị treo hai lần trong tháng này.\n(C) Nhà cung cấp đã tăng phí hỗ trợ.\n(D) Các trưởng bộ phận đã từ chối lịch mới.",
+    "explanation": "Cô ấy cho biết chuyên gia kỹ thuật của nhà cung cấp sẽ nghỉ việc vào cuối tháng, trong khi đợt chuyển đổi hệ thống lương đã lên lịch vào ngày 11. Ba phương án còn lại không xuất hiện.",
+    "vocab": [
+      [
+        "migration",
+        "n",
+        "việc chuyển đổi hệ thống"
+      ],
+      [
+        "vendor",
+        "n",
+        "nhà cung cấp"
+      ],
+      [
+        "configuration",
+        "n",
+        "cấu hình"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g7",
+    "audioScript": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "audioVoiceText": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "questionText": "Why does the woman mention Priya?",
+    "options": [
+      "(A) To identify someone with relevant experience.",
+      "(B) To recommend her for a permanent promotion.",
+      "(C) To explain why the schedule was delayed.",
+      "(D) To warn that she may resign as well."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Vì sao người phụ nữ nhắc đến Priya?\n(A) To identify someone with relevant experience\n(B) Để giới thiệu cô ấy cho một đợt thăng chức chính thức.\n(C) Để giải thích vì sao lịch trình bị trễ.\n(D) Để cảnh báo rằng cô ấy cũng có thể nghỉ việc.",
+    "explanation": "Người đàn ông hỏi có ai nội bộ từng làm dự án chuyển đổi hệ thống quy mô lớn chưa, và người phụ nữ nêu Priya đã chạy nâng cấp cơ sở dữ liệu tài chính, tức là gợi ý cô ấy dẫn dắt. Không có ý định thăng chức hay cảnh báo nghỉ việc.",
+    "vocab": [
+      [
+        "cutover",
+        "n",
+        "thời điểm chuyển hệ thống"
+      ],
+      [
+        "retainer",
+        "n",
+        "hợp đồng hỗ trợ duy trì"
+      ],
+      [
+        "go-live",
+        "n",
+        "thời điểm đưa vào vận hành"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g7",
+    "audioScript": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "audioVoiceText": "Woman: The migration of the payroll system is scheduled for the weekend of the eleventh, but the vendor's technical lead just told me he is resigning at the end of this month.\nMan: That is not ideal. Do we have anyone internally who has handled a migration of that size?\nWoman: Priya ran the finance database upgrade two years ago, and she already knows our server configuration better than the vendor does.\nMan: Then let us ask her to lead the cutover and keep the vendor on a support retainer for the first month after go-live.\nWoman: I will check with her supervisor. If she agrees, we should announce the new lead to department heads before the weekend.",
+    "questionText": "What will the woman do next?",
+    "options": [
+      "(A) Contact the vendor's technical lead.",
+      "(B) Move the migration to a later weekend.",
+      "(C) Ask Priya's supervisor for approval.",
+      "(D) Notify department heads immediately."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì tiếp theo?\n(A) Liên hệ chuyên gia kỹ thuật của nhà cung cấp.\n(B) Dời đợt chuyển đổi sang một cuối tuần khác.\n(C) Xin ý kiến của quản lý trực tiếp của Priya.\n(D) Thông báo ngay cho các trưởng bộ phận.",
+    "explanation": "Câu cuối, cô ấy nói \"I will check with her supervisor\", việc thông báo cho trưởng bộ phận chỉ xảy ra nếu Priya đồng ý. Cô ấy cũng không đề cập dời lịch.",
+    "vocab": [
+      [
+        "supervisor",
+        "n",
+        "quản lý trực tiếp"
+      ],
+      [
+        "announce",
+        "v",
+        "thông báo"
+      ],
+      [
+        "schedule",
+        "v",
+        "lên lịch"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g8",
+    "audioScript": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "audioVoiceText": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "questionText": "What is the total cost of the consultant's current quote?",
+    "options": [
+      "(A) Eleven thousand dollars.",
+      "(B) Twenty-four thousand dollars.",
+      "(C) Thirty-five thousand dollars.",
+      "(D) Forty-six thousand dollars."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tổng chi phí theo báo giá hiện tại của chuyên gia tư vấn là bao nhiêu?\n(A) 11.000 đô la.\n(B) 24.000 đô la.\n(C) 35.000 đô la.\n(D) 46.000 đô la.",
+    "explanation": "Báo giá gồm 11.000 đô cho phần đánh giá nhu cầu cộng 4.000 đô mỗi ngày hội thảo; với sáu ngày thì thành 11.000 + 24.000 = 35.000 đô. Con số 11.000 là bẫy vì chỉ là một phần chi phí.",
+    "vocab": [
+      [
+        "quote",
+        "n",
+        "báo giá"
+      ],
+      [
+        "needs assessment",
+        "n",
+        "đánh giá nhu cầu"
+      ],
+      [
+        "facilitator",
+        "n",
+        "người điều phối khóa học"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g8",
+    "audioScript": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "audioVoiceText": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "questionText": "Why does the woman prefer the alternative model?",
+    "options": [
+      "(A) It requires no preparation time.",
+      "(B) It builds skills the company can reuse.",
+      "(C) It is recommended by the directors.",
+      "(D) It removes the needs assessment entirely."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người phụ nữ thích phương án thay thế hơn?\n(A) Nó không cần thời gian chuẩn bị.\n(B) Nó tạo ra kỹ năng mà công ty có thể tái sử dụng.\n(C) Nó được các giám đốc khuyến nghị.\n(D) Nó loại bỏ hoàn toàn phần đánh giá nhu cầu.",
+    "explanation": "Cô ấy nói mô hình đó để lại những người có thể tự chạy khóa học vào năm sau mà không phải trả tiền cho chuyên gia lần nữa — tức là năng lực nội bộ dùng lại được.",
+    "vocab": [
+      [
+        "recalculate",
+        "v",
+        "tính lại"
+      ],
+      [
+        "internal",
+        "adj",
+        "nội bộ"
+      ],
+      [
+        "learning budget",
+        "n",
+        "ngân sách đào tạo"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g8",
+    "audioScript": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "audioVoiceText": "Man: I have the final quote for the customer service training program. The consultant charges eleven thousand for the needs assessment plus four thousand per workshop day.\nWoman: With six workshop days that comes to thirty-five thousand, which is a third of our whole learning budget.\nMan: He did say we could reduce the number of days if we let his team train our internal facilitators instead.\nWoman: That model would leave us with people who can run the course again next year without paying him again.\nMan: I will ask him to recalculate on that basis and bring both options to the directors on Monday.",
+    "questionText": "What will the man do on Monday?",
+    "options": [
+      "(A) Sign the contract with the consultant.",
+      "(B) Present two options to the directors.",
+      "(C) Train the internal facilitators himself.",
+      "(D) Request an increase in the learning budget."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì vào thứ Hai?\n(A) Ký hợp đồng với chuyên gia tư vấn.\n(B) Trình bày hai phương án cho các giám đốc.\n(C) Tự đào tạo đội ngũ điều phối nội bộ.\n(D) Đề nghị tăng ngân sách đào tạo.",
+    "explanation": "Lượt cuối, ông ấy nói sẽ yêu cầu tính lại theo hướng đó và mang cả hai phương án lên ban giám đốc vào thứ Hai. Việc ký hợp đồng chưa được quyết định.",
+    "vocab": [
+      [
+        "director",
+        "n",
+        "giám đốc"
+      ],
+      [
+        "option",
+        "n",
+        "phương án"
+      ],
+      [
+        "consultant",
+        "n",
+        "chuyên gia tư vấn"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g9",
+    "audioScript": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "audioVoiceText": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "questionText": "What position is currently vacant?",
+    "options": [
+      "(A) Assistant manager at the downtown branch.",
+      "(B) Manager of the Riverside branch.",
+      "(C) Corporate accounts director.",
+      "(D) Regional training coordinator."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vị trí nào hiện đang trống?\n(A) Trợ lý quản lý chi nhánh trung tâm.\n(B) Quản lý chi nhánh Riverside.\n(C) Giám đốc phụ trách tài khoản doanh nghiệp.\n(D) Điều phối viên đào tạo khu vực.",
+    "explanation": "Người phụ nữ nói chi nhánh Riverside không có quản lý từ khi bà Tran chuyển đi hồi tháng Ba. Các vị trí còn lại không được nói là trống.",
+    "vocab": [
+      [
+        "branch",
+        "n",
+        "chi nhánh"
+      ],
+      [
+        "transfer",
+        "v",
+        "chuyển công tác"
+      ],
+      [
+        "cover duties",
+        "phr",
+        "đảm nhận trách nhiệm thay"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g9",
+    "audioScript": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "audioVoiceText": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "questionText": "What has been a result of the situation?",
+    "options": [
+      "(A) Some customers want to move their accounts.",
+      "(B) The downtown branch has hired extra staff.",
+      "(C) Mrs. Tran has asked to return.",
+      "(D) The branch has extended its opening hours."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hệ quả của tình trạng này là gì?\n(A) Một số khách hàng muốn chuyển tài khoản của họ đi nơi khác.\n(B) Chi nhánh trung tâm đã tuyển thêm nhân viên.\n(C) Bà Tran đã xin quay lại.\n(D) Chi nhánh đã kéo dài giờ mở cửa.",
+    "explanation": "Người phụ nữ cho biết thời gian chờ tăng sáu phút và hai khách hàng doanh nghiệp đã đề nghị chuyển sang chi nhánh trung tâm. Các phương án còn lại không có trong hội thoại.",
+    "vocab": [
+      [
+        "wait time",
+        "n",
+        "thời gian chờ"
+      ],
+      [
+        "corporate account",
+        "n",
+        "tài khoản doanh nghiệp"
+      ],
+      [
+        "take turns",
+        "phr",
+        "thay phiên nhau"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g9",
+    "audioScript": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "audioVoiceText": "Woman: The Riverside branch has been without a manager since Mrs. Tran transferred in March, and the staff there are taking turns covering her duties.\nMan: How has that affected their numbers?\nWoman: Customer wait times are up by six minutes, and two corporate accounts have already asked to move to our downtown branch.\nMan: Then we cannot wait for the external search to finish. Let us promote the assistant manager there on an interim basis and start the formal search again in September.\nWoman: I will draft the announcement today, and I would like to visit the branch myself on Thursday to explain the decision.",
+    "questionText": "What does the man propose?",
+    "options": [
+      "(A) Closing the branch until a manager is found.",
+      "(B) Transferring Mrs. Tran back to Riverside.",
+      "(C) Appointing the assistant manager temporarily.",
+      "(D) Hiring a manager from a rival bank."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông đề xuất điều gì?\n(A) Đóng cửa chi nhánh cho đến khi tìm được quản lý.\n(B) Chuyển bà Tran trở lại Riverside.\n(C) Bổ nhiệm trợ lý quản lý tạm thời.\n(D) Tuyển một quản lý từ ngân hàng đối thủ.",
+    "explanation": "Ông ấy nói nên thăng chức trợ lý quản lý tại chi nhánh đó \"on an interim basis\" và khởi động lại quy trình tìm kiếm chính thức vào tháng Chín.",
+    "vocab": [
+      [
+        "interim",
+        "adj",
+        "tạm thời"
+      ],
+      [
+        "promote",
+        "v",
+        "thăng chức"
+      ],
+      [
+        "external search",
+        "n",
+        "tìm kiếm ứng viên bên ngoài"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g10",
+    "audioScript": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "audioVoiceText": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "questionText": "What are the speakers discussing?",
+    "options": [
+      "(A) Proposed changes to a distribution agreement.",
+      "(B) The results of an annual sales audit.",
+      "(C) A hiring plan for the central region.",
+      "(D) A dispute over an unpaid invoice."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người đang thảo luận điều gì?\n(A) Những thay đổi được đề xuất cho một thỏa thuận phân phối.\n(B) Kết quả một cuộc kiểm toán bán hàng hằng năm.\n(C) Kế hoạch tuyển dụng cho khu vực miền Trung.\n(D) Một tranh chấp về hóa đơn chưa thanh toán.",
+    "explanation": "Người đàn ông nói bộ phận pháp lý muốn ba thay đổi trước khi ký thỏa thuận phân phối với Halvorsen Supply. Cuộc kiểm toán chỉ là một điều khoản được nhắc đến, không phải chủ đề chính.",
+    "vocab": [
+      [
+        "distribution agreement",
+        "n",
+        "thỏa thuận phân phối"
+      ],
+      [
+        "clause",
+        "n",
+        "điều khoản"
+      ],
+      [
+        "territory",
+        "n",
+        "lãnh thổ, khu vực phân phối"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g10",
+    "audioScript": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "audioVoiceText": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "questionText": "What concerns the woman?",
+    "options": [
+      "(A) The payment period is too short.",
+      "(B) The agreement restricts where products can be sold.",
+      "(C) The audit would require extra staff.",
+      "(D) The supplier may cancel the contract."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ lo ngại điều gì?\n(A) Thời hạn thanh toán quá ngắn.\n(B) Thỏa thuận giới hạn nơi sản phẩm được bán.\n(C) Việc kiểm toán sẽ cần thêm nhân sự.\n(D) Nhà cung cấp có thể hủy hợp đồng.",
+    "explanation": "Cô ấy nói các điều khoản thanh toán \"are workable\" nhưng giới hạn lãnh thổ khiến cô lo vì kế hoạch tăng trưởng có khu vực miền Trung — tức là giới hạn nơi bán hàng.",
+    "vocab": [
+      [
+        "payment terms",
+        "n",
+        "điều khoản thanh toán"
+      ],
+      [
+        "volume target",
+        "n",
+        "mục tiêu sản lượng"
+      ],
+      [
+        "growth plan",
+        "n",
+        "kế hoạch tăng trưởng"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g10",
+    "audioScript": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "audioVoiceText": "Man: Legal has reviewed the distribution agreement with Halvorsen Supply, and they want three changes before we sign.\nWoman: Which ones?\nMan: The payment window goes from thirty days to forty-five, the territory is limited to the northern provinces, and they ask for the right to audit our sales records once a year.\nWoman: The payment terms are workable, but the territory limit worries me. Our growth plan includes the central region next year.\nMan: I can ask for a clause that adds provinces automatically once we hit a volume target.\nWoman: Do that, and let me know before Thursday so I can brief the board.",
+    "questionText": "What will the woman do before Thursday?",
+    "options": [
+      "(A) Brief the board on the agreement.",
+      "(B) Contact Halvorsen Supply directly.",
+      "(C) Sign the revised contract.",
+      "(D) Visit the northern provinces."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ sẽ làm gì trước thứ Năm?\n(A) Báo cáo tóm tắt cho hội đồng quản trị về thỏa thuận.\n(B) Liên hệ trực tiếp với Halvorsen Supply.\n(C) Ký hợp đồng đã sửa.\n(D) Đi thăm các tỉnh phía bắc.",
+    "explanation": "Câu cuối, cô ấy đề nghị ông ấy cho biết trước thứ Năm để cô \"brief the board\", tức là báo cáo tóm tắt cho hội đồng quản trị. Cô ấy không liên hệ nhà cung cấp, không ký hợp đồng và không đi công tác.",
+    "vocab": [
+      [
+        "brief",
+        "v",
+        "báo cáo tóm tắt cho"
+      ],
+      [
+        "board",
+        "n",
+        "hội đồng quản trị"
+      ],
+      [
+        "clause",
+        "n",
+        "điều khoản"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g11",
+    "audioScript": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "audioVoiceText": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "questionText": "What does the woman report?",
+    "options": [
+      "(A) Delivery ratings have fallen again.",
+      "(B) Fuel costs have risen sharply.",
+      "(C) Several drivers have resigned.",
+      "(D) The survey was conducted incorrectly."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ báo cáo điều gì?\n(A) Điểm đánh giá giao hàng lại giảm.\n(B) Chi phí nhiên liệu tăng mạnh.\n(C) Một số tài xế đã nghỉ việc.\n(D) Cuộc khảo sát được thực hiện sai cách.",
+    "explanation": "Cô ấy nói điểm hài lòng về giao hàng đã giảm quý thứ ba liên tiếp. Chi phí nhiên liệu chỉ là lý do khiến tuyến đường được vẽ lại, không phải điều cô ấy báo cáo.",
+    "vocab": [
+      [
+        "satisfaction survey",
+        "n",
+        "khảo sát mức độ hài lòng"
+      ],
+      [
+        "arrival window",
+        "n",
+        "khung giờ giao hàng"
+      ],
+      [
+        "mileage",
+        "n",
+        "quãng đường"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g11",
+    "audioScript": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "audioVoiceText": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "questionText": "What does the man say is causing the delays?",
+    "options": [
+      "(A) Trucks are being loaded too late.",
+      "(B) Drivers are unfamiliar with the new routes.",
+      "(C) Routes pass through a congested area at a busy time.",
+      "(D) The number of delivery vehicles has been reduced."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người đàn ông nói nguyên nhân gây chậm trễ là gì?\n(A) Xe tải được chất hàng quá muộn.\n(B) Tài xế chưa quen tuyến đường mới.\n(C) Tuyến đường đi qua khu vực đông đúc vào giờ cao điểm.\n(D) Số lượng xe giao hàng đã bị giảm.",
+    "explanation": "Ông ấy giải thích tuyến mới đưa xe qua khu công nghiệp đúng lúc trường học tan, gây ùn tắc. Việc vẽ lại tuyến nhằm tiết kiệm nhiên liệu, không phải do tài xế thiếu kinh nghiệm.",
+    "vocab": [
+      [
+        "industrial district",
+        "n",
+        "khu công nghiệp"
+      ],
+      [
+        "let out",
+        "phr",
+        "tan học, tan ca"
+      ],
+      [
+        "redraw",
+        "v",
+        "vẽ lại"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g11",
+    "audioScript": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "audioVoiceText": "Woman: The results of the customer satisfaction survey came in, and our delivery score dropped for the third quarter in a row.\nMan: That matches what I hear from the drivers. Most complaints are about the two-hour arrival windows being missed in the afternoon.\nWoman: Do we know why? The routes were redrawn in January to save fuel.\nMan: The new routes cut mileage, but they send trucks through the industrial district at exactly the time the schools let out.\nWoman: Then let us test a version that keeps the trucks out of that area between three and four, even if it adds a few kilometers.\nMan: I will rebuild two routes and compare the results for a month.",
+    "questionText": "What will the man do?",
+    "options": [
+      "(A) Buy additional delivery trucks.",
+      "(B) Change two routes and measure the effect.",
+      "(C) Ask customers to choose shorter windows.",
+      "(D) Hire more drivers for afternoon shifts."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì?\n(A) Mua thêm xe giao hàng.\n(B) Thay đổi hai tuyến đường và đo lường kết quả.\n(C) Đề nghị khách chọn khung giờ ngắn hơn.\n(D) Tuyển thêm tài xế cho ca chiều.",
+    "explanation": "Câu cuối, ông ấy nói sẽ xây dựng lại hai tuyến và so sánh kết quả trong một tháng. Việc mua xe hay tuyển thêm tài xế không được nhắc đến.",
+    "vocab": [
+      [
+        "route",
+        "n",
+        "tuyến đường"
+      ],
+      [
+        "mileage",
+        "n",
+        "quãng đường"
+      ],
+      [
+        "industrial district",
+        "n",
+        "khu công nghiệp"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g12",
+    "audioScript": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "audioVoiceText": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "questionText": "What did the audit team find?",
+    "options": [
+      "(A) Some invoices lacked a required approval.",
+      "(B) The Manila office exceeded its budget.",
+      "(C) Supporting documents were lost in transit.",
+      "(D) An office manager submitted false expenses."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Nhóm kiểm toán đã phát hiện điều gì?\n(A) Một số hóa đơn thiếu chữ ký phê duyệt bắt buộc.\n(B) Văn phòng Manila đã vượt ngân sách.\n(C) Chứng từ bị thất lạc khi vận chuyển.\n(D) Một quản lý văn phòng khai chi phí sai sự thật.",
+    "explanation": "Người đàn ông nói tám hóa đơn được duyệt mà không có chữ ký thứ hai. Việc quản lý vắng mặt chỉ là bối cảnh giải thích, không phải hành vi gian lận.",
+    "vocab": [
+      [
+        "audit team",
+        "n",
+        "nhóm kiểm toán"
+      ],
+      [
+        "signature",
+        "n",
+        "chữ ký"
+      ],
+      [
+        "flag",
+        "v",
+        "đánh dấu, cảnh báo"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g12",
+    "audioScript": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "audioVoiceText": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "questionText": "Why does the woman mention the office manager's leave?",
+    "options": [
+      "(A) To request an extension of the deadline.",
+      "(B) To explain why the process was not followed.",
+      "(C) To complain about staffing levels in Manila.",
+      "(D) To suggest that someone else should be dismissed."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người phụ nữ nhắc đến việc quản lý văn phòng nghỉ phép?\n(A) Để xin gia hạn thời hạn.\n(B) Để giải thích vì sao quy trình không được tuân thủ.\n(C) Để phàn nàn về nhân sự ở Manila.\n(D) Để đề nghị sa thải một người khác.",
+    "explanation": "Cô ấy nêu quy định mới có từ tháng Hai và quản lý vắng mặt khi buổi tập huấn diễn ra, nhằm lý giải vì sao nhân viên không nắm được quy trình. Đây là giải thích, không phải xin gia hạn.",
+    "vocab": [
+      [
+        "medical leave",
+        "n",
+        "nghỉ ốm"
+      ],
+      [
+        "introduce",
+        "v",
+        "đưa vào áp dụng"
+      ],
+      [
+        "transaction",
+        "n",
+        "giao dịch"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g12",
+    "audioScript": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "audioVoiceText": "Man: The audit team flagged eight invoices from the Manila office that were approved without a second signature.\nWoman: That rule was only introduced in February, and the office manager there was on medical leave when the training session was held.\nMan: I understand, but the finance director wants every one of those transactions reviewed line by line before the quarter closes.\nWoman: That is two hundred pages of supporting documents. Could we have the Manila staff pull the files and send them electronically?\nMan: Yes, and I will send them a short checklist so the review is consistent with ours.",
+    "questionText": "What will the man send to the Manila office?",
+    "options": [
+      "(A) A revised invoice template.",
+      "(B) A list of items to check.",
+      "(C) A copy of the audit report.",
+      "(D) A request for additional staff."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông sẽ gửi gì đến văn phòng Manila?\n(A) Mẫu hóa đơn đã chỉnh sửa.\n(B) Danh sách các mục cần kiểm tra.\n(C) Bản sao báo cáo kiểm toán.\n(D) Yêu cầu bổ sung nhân sự.",
+    "explanation": "Câu cuối, ông ấy nói sẽ gửi một \"short checklist\" để việc rà soát thống nhất với bên mình — tức danh sách các mục cần kiểm tra.",
+    "vocab": [
+      [
+        "checklist",
+        "n",
+        "danh sách kiểm tra"
+      ],
+      [
+        "consistent",
+        "adj",
+        "nhất quán"
+      ],
+      [
+        "supporting documents",
+        "n",
+        "chứng từ kèm theo"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g13",
+    "audioScript": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "audioVoiceText": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "questionText": "What is the organizer offering?",
+    "options": [
+      "(A) A free upgrade to a larger booth.",
+      "(B) A discount or a different booth location.",
+      "(C) A refund of the registration fee.",
+      "(D) Priority booking for next year."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Ban tổ chức đang đề nghị điều gì?\n(A) Nâng cấp miễn phí lên gian hàng lớn hơn.\n(B) A discount or a different booth location\n(C) Hoàn lại phí đăng ký.\n(D) Ưu tiên đặt chỗ cho năm sau.",
+    "explanation": "Ban tổ chức đưa ra hai lựa chọn: giảm 15% cho vị trí gần cửa hàng hoặc chuyển sang gian góc với diện tích nhỏ hơn. Không có phương án nâng cấp miễn phí.",
+    "vocab": [
+      [
+        "booth",
+        "n",
+        "gian hàng"
+      ],
+      [
+        "loading entrance",
+        "n",
+        "cửa bốc dỡ hàng"
+      ],
+      [
+        "organizer",
+        "n",
+        "ban tổ chức"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g13",
+    "audioScript": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "audioVoiceText": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "questionText": "Why does the man dislike the first location?",
+    "options": [
+      "(A) It is too expensive for the budget.",
+      "(B) Visitors tend to walk past it without stopping.",
+      "(C) It has no electrical connections.",
+      "(D) It is smaller than last year's booth."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Vì sao người đàn ông không thích vị trí đầu tiên?\n(A) Nó quá đắt so với ngân sách.\n(B) Visitors tend to walk past it without stopping.\n(C) Nó không có kết nối điện.\n(D) Nó nhỏ hơn gian hàng năm ngoái.",
+    "explanation": "Ông ấy nói khách tham quan sẽ đi thẳng qua gian hàng đó trên đường đến khu trưng bày chính, tức là gian hàng dễ bị bỏ qua. Giá và diện tích là hai lựa chọn khác mà ban tổ chức đưa ra.",
+    "vocab": [
+      [
+        "main exhibits",
+        "n",
+        "khu trưng bày chính"
+      ],
+      [
+        "walk past",
+        "phr",
+        "đi ngang qua"
+      ],
+      [
+        "position",
+        "n",
+        "vị trí"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "type": "listening",
+    "part": 3,
+    "partName": "Part 3: Đoạn hội thoại (Short Conversations)",
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioGroup": "lv5-t1-p3-g13",
+    "audioScript": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "audioVoiceText": "Woman: I just got off the phone with the organizer of the trade fair in Hamburg. They can only give us a booth near the loading entrance this year.\nMan: That is the worst position in the hall. Visitors walk straight past it on their way to the main exhibits.\nWoman: They offered a discount of fifteen percent on the space, or the option to move to a corner booth if we accept a smaller area.\nMan: A corner booth with two open sides would get us more attention than a large space by the door.\nWoman: I agree. I will confirm the corner option and ask whether they can add an extra electrical connection for the demo unit.",
+    "questionText": "What will the woman ask the organizer to provide?",
+    "options": [
+      "(A) An additional power supply.",
+      "(B) A larger discount on the space.",
+      "(C) Extra staff for the booth.",
+      "(D) A list of registered visitors."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ sẽ đề nghị ban tổ chức cung cấp gì?\n(A) Thêm một nguồn cấp điện.\n(B) Mức giảm giá lớn hơn cho diện tích.\n(C) Thêm nhân viên cho gian hàng.\n(D) Danh sách khách đã đăng ký.",
+    "explanation": "Câu cuối, cô ấy nói sẽ xác nhận phương án gian góc và hỏi xem có thể thêm một kết nối điện cho thiết bị trình diễn hay không. Không có đề cập đến giảm giá thêm hay nhân viên.",
+    "vocab": [
+      [
+        "electrical connection",
+        "n",
+        "kết nối điện"
+      ],
+      [
+        "demo unit",
+        "n",
+        "thiết bị trình diễn"
+      ],
+      [
+        "confirm",
+        "v",
+        "xác nhận"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "n": 101,
+    "q": "Mr. Tanaka usually _______ to the office by train every morning.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answer": "B",
+    "translation": "Ông Tanaka thường đi đến văn phòng bằng tàu hỏa mỗi sáng.",
+    "explanation": "Chủ ngữ số ít 'Mr. Tanaka' đi với động từ chia ở thì hiện tại đơn (có 'usually', 'every morning'), nên chọn 'goes'.",
+    "vocab": [
+      [
+        "usually",
+        "adv",
+        "thường xuyên"
+      ],
+      [
+        "office",
+        "n",
+        "văn phòng"
+      ]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "Please send _______ monthly report to the manager before Friday.",
+    "options": [
+      "you",
+      "your",
+      "yours",
+      "yourself"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng gửi báo cáo hàng tháng của bạn cho người quản lý trước thứ Sáu.",
+    "explanation": "Trước cụm danh từ 'monthly report' cần một tính từ sở hữu, nên chọn 'your'.",
+    "vocab": [
+      [
+        "monthly",
+        "adj",
+        "hàng tháng"
+      ],
+      [
+        "report",
+        "n",
+        "báo cáo"
+      ]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "The new coffee shop is located _______ the post office and the bank.",
+    "options": [
+      "between",
+      "among",
+      "under",
+      "into"
+    ],
+    "answer": "A",
+    "translation": "Quán cà phê mới nằm giữa bưu điện và ngân hàng.",
+    "explanation": "Cấu trúc 'between A and B' dùng để chỉ vị trí ở giữa hai đối tượng.",
+    "vocab": [
+      [
+        "located",
+        "adj",
+        "nằm ở, tọa lạc"
+      ],
+      [
+        "post office",
+        "n",
+        "bưu điện"
+      ]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "Ms. Kim will _______ a presentation at the sales meeting tomorrow.",
+    "options": [
+      "give",
+      "gives",
+      "gave",
+      "giving"
+    ],
+    "answer": "A",
+    "translation": "Cô Kim sẽ có một bài thuyết trình tại cuộc họp bán hàng vào ngày mai.",
+    "explanation": "Sau động từ khuyết thiếu 'will' luôn là động từ nguyên mẫu không 'to', nên chọn 'give'.",
+    "vocab": [
+      [
+        "presentation",
+        "n",
+        "bài thuyết trình"
+      ],
+      [
+        "meeting",
+        "n",
+        "cuộc họp"
+      ]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "All visitors must sign in at the front _______ upon arrival.",
+    "options": [
+      "desk",
+      "chair",
+      "wall",
+      "floor"
+    ],
+    "answer": "A",
+    "translation": "Tất cả khách tham quan phải ký tên tại quầy lễ tân khi đến nơi.",
+    "explanation": "'front desk' là cụm danh từ quen thuộc nghĩa là quầy lễ tân.",
+    "vocab": [
+      [
+        "visitor",
+        "n",
+        "khách tham quan"
+      ],
+      [
+        "arrival",
+        "n",
+        "sự đến nơi"
+      ]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The train to Busan arrived ten minutes _______ than expected.",
+    "options": [
+      "early",
+      "earlier",
+      "earliest",
+      "earliness"
+    ],
+    "answer": "B",
+    "translation": "Chuyến tàu đi Busan đã đến sớm hơn mười phút so với dự kiến.",
+    "explanation": "Có từ 'than' là dấu hiệu của câu so sánh hơn, nên chọn trạng từ so sánh hơn 'earlier'.",
+    "vocab": [
+      [
+        "arrive",
+        "v",
+        "đến nơi"
+      ],
+      [
+        "expect",
+        "v",
+        "mong đợi, dự kiến"
+      ]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "We need to buy more printer paper _______ the storage room is empty.",
+    "options": [
+      "because",
+      "but",
+      "or",
+      "so"
+    ],
+    "answer": "A",
+    "translation": "Chúng ta cần mua thêm giấy in bởi vì phòng kho đã hết.",
+    "explanation": "Mệnh đề sau nêu lý do cho việc cần mua giấy in, nên chọn liên từ chỉ nguyên nhân 'because'.",
+    "vocab": [
+      [
+        "printer",
+        "n",
+        "máy in"
+      ],
+      [
+        "storage",
+        "n",
+        "kho chứa"
+      ]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "David _______ his laptop at home yesterday, so he used a company computer.",
+    "options": [
+      "leave",
+      "leaves",
+      "left",
+      "leaving"
+    ],
+    "answer": "C",
+    "translation": "Hôm qua David đã để quên máy tính xách tay ở nhà nên anh ấy đã dùng máy tính của công ty.",
+    "explanation": "Có trạng từ chỉ thời gian quá khứ 'yesterday', nên động từ chia ở quá khứ đơn là 'left'.",
+    "vocab": [
+      [
+        "leave",
+        "v",
+        "để lại, bỏ quên"
+      ],
+      [
+        "company",
+        "n",
+        "công ty"
+      ]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "The hotel staff greeted the guests very _______ at the entrance.",
+    "options": [
+      "polite",
+      "politeness",
+      "politely",
+      "more polite"
+    ],
+    "answer": "C",
+    "translation": "Nhân viên khách sạn đã chào đón khách rất lịch sự ở lối vào.",
+    "explanation": "Cần một trạng từ để bổ nghĩa cho động từ thường 'greeted', nên chọn 'politely'.",
+    "vocab": [
+      [
+        "greet",
+        "v",
+        "chào đón"
+      ],
+      [
+        "entrance",
+        "n",
+        "lối vào"
+      ]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "Our team has a weekly meeting _______ Monday mornings at 9:00 A.M.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": "B",
+    "translation": "Nhóm của chúng tôi có cuộc họp hàng tuần vào các sáng thứ Hai lúc 9 giờ sáng.",
+    "explanation": "Trước thứ trong tuần hoặc buổi của một thứ cụ thể ('Monday mornings'), dùng giới từ 'on'.",
+    "vocab": [
+      [
+        "weekly",
+        "adj",
+        "hàng tuần"
+      ],
+      [
+        "morning",
+        "n",
+        "buổi sáng"
+      ]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "The manager asked _______ to check the inventory list again.",
+    "options": [
+      "we",
+      "our",
+      "us",
+      "ours"
+    ],
+    "answer": "C",
+    "translation": "Người quản lý đã yêu cầu chúng tôi kiểm tra lại danh sách hàng tồn kho.",
+    "explanation": "Sau động từ 'asked' cần một đại từ tân ngữ, nên chọn 'us'.",
+    "vocab": [
+      [
+        "inventory",
+        "n",
+        "hàng tồn kho"
+      ],
+      [
+        "check",
+        "v",
+        "kiểm tra"
+      ]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "This jacket is too _______, so I would like a medium size instead.",
+    "options": [
+      "small",
+      "smaller",
+      "smallest",
+      "smallness"
+    ],
+    "answer": "A",
+    "translation": "Chiếc áo khoác này quá nhỏ, vì vậy tôi muốn đổi sang cỡ vừa.",
+    "explanation": "Cấu trúc 'too + tính từ nguyên mẫu' (quá...), nên chọn tính từ 'small'.",
+    "vocab": [
+      [
+        "jacket",
+        "n",
+        "áo khoác"
+      ],
+      [
+        "instead",
+        "adv",
+        "thay vào đó"
+      ]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "Passengers should keep their boarding passes _______ they board the plane.",
+    "options": [
+      "until",
+      "during",
+      "for",
+      "with"
+    ],
+    "answer": "A",
+    "translation": "Hành khách nên giữ thẻ lên máy bay cho đến khi lên máy bay.",
+    "explanation": "'until' là liên từ đứng trước mệnh đề 'they board the plane' (cho đến khi).",
+    "vocab": [
+      [
+        "passenger",
+        "n",
+        "hành khách"
+      ],
+      [
+        "boarding pass",
+        "n",
+        "thẻ lên máy bay"
+      ]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "Ms. Garcia is _______ for answering all customer phone calls.",
+    "options": [
+      "response",
+      "respond",
+      "responsible",
+      "responsibly"
+    ],
+    "answer": "C",
+    "translation": "Cô Garcia chịu trách nhiệm trả lời tất cả các cuộc gọi của khách hàng.",
+    "explanation": "Cụm từ cố định 'be responsible for + V-ing/N' nghĩa là chịu trách nhiệm về việc gì.",
+    "vocab": [
+      [
+        "responsible",
+        "adj",
+        "chịu trách nhiệm"
+      ],
+      [
+        "customer",
+        "n",
+        "khách hàng"
+      ]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "The library will be closed _______ renovation next week.",
+    "options": [
+      "for",
+      "at",
+      "by",
+      "from"
+    ],
+    "answer": "A",
+    "translation": "Thư viện sẽ đóng cửa để sửa chữa vào tuần tới.",
+    "explanation": "Cụm 'closed for renovation' (đóng cửa để tu sửa/sửa chữa) dùng giới từ 'for' chỉ mục đích.",
+    "vocab": [
+      [
+        "library",
+        "n",
+        "thư viện"
+      ],
+      [
+        "renovation",
+        "n",
+        "sự sửa chữa, cải tạo"
+      ]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "There are _______ apples and bananas in the break room refrigerator.",
+    "options": [
+      "much",
+      "some",
+      "any",
+      "a"
+    ],
+    "answer": "B",
+    "translation": "Có một ít táo và chuối trong tủ lạnh ở phòng nghỉ.",
+    "explanation": "Câu khẳng định với danh từ đếm được số nhiều ('apples and bananas') dùng 'some'.",
+    "vocab": [
+      [
+        "break room",
+        "n",
+        "phòng nghỉ nhân viên"
+      ],
+      [
+        "refrigerator",
+        "n",
+        "tủ lạnh"
+      ]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "Mr. Lee works hard every day _______ he wants to earn a promotion.",
+    "options": [
+      "because",
+      "although",
+      "unless",
+      "while"
+    ],
+    "answer": "A",
+    "translation": "Ông Lee làm việc chăm chỉ mỗi ngày vì ông ấy muốn được thăng chức.",
+    "explanation": "Mệnh đề sau giải thích lý do cho mệnh đề trước, nên chọn 'because'.",
+    "vocab": [
+      [
+        "earn",
+        "v",
+        "đạt được, kiếm được"
+      ],
+      [
+        "promotion",
+        "n",
+        "sự thăng chức"
+      ]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "Please turn off all lights before _______ the conference room.",
+    "options": [
+      "leave",
+      "leaves",
+      "left",
+      "leaving"
+    ],
+    "answer": "D",
+    "translation": "Vui lòng tắt tất cả đèn trước khi rời khỏi phòng họp.",
+    "explanation": "Sau giới từ 'before' dùng danh động từ (V-ing), nên chọn 'leaving'.",
+    "vocab": [
+      [
+        "turn off",
+        "v",
+        "tắt"
+      ],
+      [
+        "conference room",
+        "n",
+        "phòng họp"
+      ]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "The company plans to _______ ten new engineers next month.",
+    "options": [
+      "hire",
+      "hires",
+      "hired",
+      "hiring"
+    ],
+    "answer": "A",
+    "translation": "Công ty dự định tuyển thêm mười kỹ sư mới vào tháng tới.",
+    "explanation": "Sau 'plans to' cần một động từ nguyên mẫu, nên chọn 'hire'.",
+    "vocab": [
+      [
+        "plan",
+        "v",
+        "dự định, lên kế hoạch"
+      ],
+      [
+        "hire",
+        "v",
+        "tuyển dụng"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "Our office is _______ the third floor of the Green Building.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "of"
+    ],
+    "answer": "B",
+    "translation": "Văn phòng của chúng tôi nằm ở tầng ba của Tòa nhà Green.",
+    "explanation": "Để chỉ vị trí trên một tầng lầu ('the third floor'), luôn dùng giới từ 'on'.",
+    "vocab": [
+      [
+        "floor",
+        "n",
+        "tầng lầu"
+      ],
+      [
+        "building",
+        "n",
+        "tòa nhà"
+      ]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "The weather was rainy, _______ we decided to hold the picnic indoors.",
+    "options": [
+      "so",
+      "or",
+      "for",
+      "nor"
+    ],
+    "answer": "A",
+    "translation": "Trời mưa, vì vậy chúng tôi quyết định tổ chức buổi dã ngoại trong nhà.",
+    "explanation": "Mệnh đề sau là kết quả của việc trời mưa, nên dùng liên từ 'so' (vì vậy).",
+    "vocab": [
+      [
+        "decide",
+        "v",
+        "quyết định"
+      ],
+      [
+        "indoors",
+        "adv",
+        "trong nhà"
+      ]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "Sarah fixed the broken chair _______ without any help.",
+    "options": [
+      "she",
+      "her",
+      "hers",
+      "herself"
+    ],
+    "answer": "D",
+    "translation": "Sarah đã tự mình sửa chiếc ghế bị hỏng mà không cần bất kỳ sự giúp đỡ nào.",
+    "explanation": "Dùng đại từ phản thân 'herself' để nhấn mạnh chủ ngữ 'Sarah' tự làm việc đó.",
+    "vocab": [
+      [
+        "fix",
+        "v",
+        "sửa chữa"
+      ],
+      [
+        "broken",
+        "adj",
+        "bị hỏng"
+      ]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "Please put the signed contract _______ the blue folder on my desk.",
+    "options": [
+      "in",
+      "at",
+      "of",
+      "for"
+    ],
+    "answer": "A",
+    "translation": "Vui lòng đặt hợp đồng đã ký vào trong bìa hồ sơ màu xanh trên bàn của tôi.",
+    "explanation": "Dùng giới từ in (bên trong) khi đặt tài liệu vào trong bìa hồ sơ (in the blue folder).",
+    "vocab": [
+      [
+        "signed",
+        "adj",
+        "đã ký"
+      ],
+      [
+        "folder",
+        "n",
+        "bìa hồ sơ, thư mục"
+      ]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "The _______ of the new software will take about two hours.",
+    "options": [
+      "install",
+      "installed",
+      "installing",
+      "installation"
+    ],
+    "answer": "D",
+    "translation": "Việc cài đặt phần mềm mới sẽ mất khoảng hai giờ.",
+    "explanation": "Giữa mạo từ 'The' và giới từ 'of' cần một danh từ làm chủ ngữ, nên chọn 'installation'.",
+    "vocab": [
+      [
+        "software",
+        "n",
+        "phần mềm"
+      ],
+      [
+        "installation",
+        "n",
+        "sự cài đặt"
+      ]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "All employees are required to wear _______ ID badges at work.",
+    "options": [
+      "they",
+      "them",
+      "their",
+      "theirs"
+    ],
+    "answer": "C",
+    "translation": "Tất cả nhân viên được yêu cầu đeo thẻ nhân viên của họ khi làm việc.",
+    "explanation": "Trước cụm danh từ 'ID badges' cần một tính từ sở hữu, nên chọn 'their'.",
+    "vocab": [
+      [
+        "employee",
+        "n",
+        "nhân viên"
+      ],
+      [
+        "badge",
+        "n",
+        "thẻ, phù hiệu"
+      ]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "This restaurant is famous _______ its fresh seafood and friendly service.",
+    "options": [
+      "for",
+      "at",
+      "with",
+      "to"
+    ],
+    "answer": "A",
+    "translation": "Nhà hàng này nổi tiếng với hải sản tươi ngon và dịch vụ thân thiện.",
+    "explanation": "Cấu trúc cố định 'be famous for' nghĩa là nổi tiếng về điều gì.",
+    "vocab": [
+      [
+        "famous",
+        "adj",
+        "nổi tiếng"
+      ],
+      [
+        "service",
+        "n",
+        "dịch vụ"
+      ]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The meeting ended _______ than we had expected.",
+    "options": [
+      "quick",
+      "quicker",
+      "quickly",
+      "more quickly"
+    ],
+    "answer": "D",
+    "translation": "Cuộc họp đã kết thúc nhanh hơn so với chúng tôi dự kiến.",
+    "explanation": "Bổ nghĩa cho động từ 'ended' cần trạng từ; có 'than' nên chọn trạng từ so sánh hơn 'more quickly'.",
+    "vocab": [
+      [
+        "end",
+        "v",
+        "kết thúc"
+      ],
+      [
+        "quickly",
+        "adv",
+        "một cách nhanh chóng"
+      ]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "Please call our customer service _______ if you have any questions.",
+    "options": [
+      "number",
+      "letter",
+      "address",
+      "email"
+    ],
+    "answer": "A",
+    "translation": "Vui lòng gọi số điện thoại chăm sóc khách hàng của chúng tôi nếu bạn có bất kỳ câu hỏi nào.",
+    "explanation": "Động từ 'call' (gọi điện) kết hợp hợp lý với 'customer service number' (số điện thoại CSKH).",
+    "vocab": [
+      [
+        "call",
+        "v",
+        "gọi điện"
+      ],
+      [
+        "question",
+        "n",
+        "câu hỏi"
+      ]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "We _______ the new product catalog to all clients last week.",
+    "options": [
+      "send",
+      "sent",
+      "will send",
+      "are sending"
+    ],
+    "answer": "B",
+    "translation": "Chúng tôi đã gửi danh mục sản phẩm mới cho tất cả khách hàng vào tuần trước.",
+    "explanation": "Trạng từ thời gian quá khứ 'last week' yêu cầu động từ chia ở quá khứ đơn là 'sent'.",
+    "vocab": [
+      [
+        "catalog",
+        "n",
+        "danh mục sản phẩm"
+      ],
+      [
+        "client",
+        "n",
+        "khách hàng"
+      ]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "The train station is just a five-minute _______ from my apartment.",
+    "options": [
+      "walk",
+      "walks",
+      "walked",
+      "walking"
+    ],
+    "answer": "A",
+    "translation": "Nhà ga chỉ cách căn hộ của tôi năm phút đi bộ.",
+    "explanation": "Sau cụm tính từ ghép 'five-minute' và mạo từ 'a' cần một danh từ số ít, nên chọn 'walk'.",
+    "vocab": [
+      [
+        "station",
+        "n",
+        "nhà ga"
+      ],
+      [
+        "apartment",
+        "n",
+        "căn hộ"
+      ]
+    ]
+  }
+]

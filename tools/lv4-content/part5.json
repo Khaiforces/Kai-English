@@ -1,0 +1,902 @@
+[
+  {
+    "n": 101,
+    "q": "Applicants who _______ the online form by Friday will be contacted by the human resources department next week.",
+    "options": [
+      "submits",
+      "submit",
+      "submitting",
+      "is submitted"
+    ],
+    "answer": "B",
+    "translation": "Những ứng viên nộp mẫu đơn trực tuyến trước thứ Sáu sẽ được bộ phận nhân sự liên hệ vào tuần sau.",
+    "explanation": "Chủ ngữ của mệnh đề quan hệ là “Applicants” số nhiều nên động từ chia nguyên mẫu “submit”; “submits” sai hòa hợp chủ–vị, còn “submitting” thiếu trợ động từ.",
+    "vocab": [
+      [
+        "applicant",
+        "n",
+        "ứng viên"
+      ],
+      [
+        "online form",
+        "n",
+        "mẫu đơn trực tuyến"
+      ],
+      [
+        "human resources",
+        "n",
+        "bộ phận nhân sự"
+      ]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "All shipments _______ to the main warehouse before the inventory count begins early on Monday morning.",
+    "options": [
+      "must deliver",
+      "must be delivered",
+      "must delivering",
+      "must been delivered"
+    ],
+    "answer": "B",
+    "translation": "Tất cả lô hàng phải được giao đến kho trước khi đợt kiểm kê bắt đầu vào sáng thứ Hai.",
+    "explanation": "“All shipments” chịu tác động của hành động nên sau động từ khuyết thiếu phải dùng bị động “must be delivered”.",
+    "vocab": [
+      [
+        "shipment",
+        "n",
+        "lô hàng"
+      ],
+      [
+        "warehouse",
+        "n",
+        "nhà kho"
+      ],
+      [
+        "inventory count",
+        "n",
+        "việc kiểm kê hàng tồn"
+      ]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "If the client _______ the revised contract by tomorrow, we will schedule the kickoff meeting for next week.",
+    "options": [
+      "approved",
+      "will approve",
+      "approves",
+      "approving"
+    ],
+    "answer": "C",
+    "translation": "Nếu khách hàng phê duyệt bản hợp đồng đã chỉnh sửa trước ngày mai, chúng ta sẽ lên lịch họp khởi động vào tuần sau.",
+    "explanation": "Câu điều kiện loại 1: mệnh đề “if” dùng hiện tại đơn “approves”, mệnh đề chính dùng “will schedule”.",
+    "vocab": [
+      [
+        "revised",
+        "adj",
+        "đã được chỉnh sửa"
+      ],
+      [
+        "contract",
+        "n",
+        "hợp đồng"
+      ],
+      [
+        "kickoff meeting",
+        "n",
+        "cuộc họp khởi động"
+      ]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "The manager suggested _______ the training session for the sales team until the new equipment arrives next month.",
+    "options": [
+      "to postpone",
+      "postponing",
+      "postpone",
+      "postponed"
+    ],
+    "answer": "B",
+    "translation": "Người quản lý đề nghị hoãn buổi đào tạo cho nhóm kinh doanh cho đến khi thiết bị mới về vào tháng sau.",
+    "explanation": "Động từ “suggest” được theo sau bởi danh động từ nên dùng “postponing”, không dùng “to postpone”.",
+    "vocab": [
+      [
+        "suggest",
+        "v",
+        "đề nghị"
+      ],
+      [
+        "postpone",
+        "v",
+        "hoãn"
+      ],
+      [
+        "equipment",
+        "n",
+        "thiết bị"
+      ]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "The new accounting software is far more efficient _______ the system that the finance team used previously.",
+    "options": [
+      "as",
+      "from",
+      "than",
+      "to"
+    ],
+    "answer": "C",
+    "translation": "Phần mềm kế toán mới hiệu quả hơn nhiều so với hệ thống mà nhóm tài chính từng dùng trước đây.",
+    "explanation": "Cấu trúc so sánh hơn với tính từ dài “more efficient” đi với “than” để nêu đối tượng được so sánh.",
+    "vocab": [
+      [
+        "efficient",
+        "adj",
+        "hiệu quả"
+      ],
+      [
+        "previously",
+        "adv",
+        "trước đây"
+      ],
+      [
+        "accounting",
+        "n",
+        "kế toán"
+      ]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The consultant _______ proposal was selected by the board will begin working on the project in April.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": "C",
+    "translation": "Vị cố vấn mà đề xuất của ông đã được hội đồng chọn sẽ bắt đầu làm dự án vào tháng Tư.",
+    "explanation": "“proposal” thuộc sở hữu của “consultant” nên cần đại từ quan hệ sở hữu “whose”; “who”, “whom” thay cho người, “which” thay cho vật.",
+    "vocab": [
+      [
+        "consultant",
+        "n",
+        "cố vấn"
+      ],
+      [
+        "proposal",
+        "n",
+        "đề xuất"
+      ],
+      [
+        "board",
+        "n",
+        "hội đồng quản trị"
+      ]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "Ms. Tanaka _______ at the Singapore office since she joined the company as a financial analyst in 2019.",
+    "options": [
+      "works",
+      "worked",
+      "has worked",
+      "is working"
+    ],
+    "answer": "C",
+    "translation": "Bà Tanaka đã làm việc tại văn phòng Singapore kể từ khi vào công ty năm 2019.",
+    "explanation": "“since” chỉ mốc thời gian mở đầu hành động còn kéo dài đến hiện tại nên dùng hiện tại hoàn thành “has worked”.",
+    "vocab": [
+      [
+        "since",
+        "prep",
+        "kể từ"
+      ],
+      [
+        "join",
+        "v",
+        "gia nhập"
+      ],
+      [
+        "office",
+        "n",
+        "văn phòng"
+      ]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "Please ensure that all invoices are sent to the accounting department for _______ before the end of the month.",
+    "options": [
+      "approve",
+      "approval",
+      "approved",
+      "to approve"
+    ],
+    "answer": "B",
+    "translation": "Vui lòng bảo đảm mọi hóa đơn được gửi tới phòng kế toán để phê duyệt trước cuối tháng.",
+    "explanation": "Sau giới từ “for” cần danh từ nên dùng “approval”; “approve” là động từ, “approved” là dạng quá khứ phân từ.",
+    "vocab": [
+      [
+        "invoice",
+        "n",
+        "hóa đơn"
+      ],
+      [
+        "ensure",
+        "v",
+        "bảo đảm"
+      ],
+      [
+        "approval",
+        "n",
+        "sự phê duyệt"
+      ]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "The damaged goods _______ to the supplier last week, and a replacement order was requested the next day.",
+    "options": [
+      "returned",
+      "were returned",
+      "have returned",
+      "are returning"
+    ],
+    "answer": "B",
+    "translation": "Số hàng bị hư đã được trả lại nhà cung cấp tuần trước, và một đơn thay thế được yêu cầu vào ngày hôm sau.",
+    "explanation": "“The damaged goods” không tự thực hiện hành động và có mốc “last week” nên cần bị động quá khứ “were returned”.",
+    "vocab": [
+      [
+        "damaged",
+        "adj",
+        "bị hư hỏng"
+      ],
+      [
+        "supplier",
+        "n",
+        "nhà cung cấp"
+      ],
+      [
+        "replacement",
+        "n",
+        "hàng thay thế"
+      ]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "All employees are required to comply _______ the new safety regulations at the distribution center.",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "with"
+    ],
+    "answer": "D",
+    "translation": "Tất cả nhân viên phải tuân thủ các quy định an toàn mới tại trung tâm phân phối.",
+    "explanation": "Cụm động từ cố định “comply with” nghĩa là tuân thủ; các giới từ khác không đi cùng “comply”.",
+    "vocab": [
+      [
+        "comply with",
+        "phr",
+        "tuân thủ"
+      ],
+      [
+        "regulation",
+        "n",
+        "quy định"
+      ],
+      [
+        "distribution center",
+        "n",
+        "trung tâm phân phối"
+      ]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "If the company had a larger training budget, it _______ additional staff for the customer service team.",
+    "options": [
+      "will hire",
+      "would hire",
+      "would have hired",
+      "hires"
+    ],
+    "answer": "B",
+    "translation": "Nếu công ty có ngân sách đào tạo lớn hơn, họ sẽ tuyển thêm nhân sự cho nhóm chăm sóc khách hàng.",
+    "explanation": "Câu điều kiện loại 2: mệnh đề “if” dùng quá khứ đơn “had”, mệnh đề chính dùng “would + động từ nguyên mẫu” là “would hire”.",
+    "vocab": [
+      [
+        "budget",
+        "n",
+        "ngân sách"
+      ],
+      [
+        "additional",
+        "adj",
+        "thêm"
+      ],
+      [
+        "customer service",
+        "n",
+        "chăm sóc khách hàng"
+      ]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "Each of the branch managers _______ responsible for submitting a monthly sales report to headquarters.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "answer": "B",
+    "translation": "Mỗi trưởng chi nhánh chịu trách nhiệm nộp báo cáo doanh số hằng tháng về trụ sở chính.",
+    "explanation": "Chủ ngữ “Each of + danh từ số nhiều” luôn chia động từ số ít nên dùng “is”, không dùng “are”.",
+    "vocab": [
+      [
+        "branch manager",
+        "n",
+        "trưởng chi nhánh"
+      ],
+      [
+        "be responsible for",
+        "phr",
+        "chịu trách nhiệm về"
+      ],
+      [
+        "headquarters",
+        "n",
+        "trụ sở chính"
+      ]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "The committee reviewed the budget proposal _______ before making a final decision on the new project.",
+    "options": [
+      "care",
+      "careful",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": "C",
+    "translation": "Ủy ban đã xem xét đề xuất ngân sách một cách cẩn thận trước khi đưa ra quyết định cuối cùng về dự án mới.",
+    "explanation": "Cần trạng từ “carefully” bổ nghĩa cho động từ “reviewed”; “careful” là tính từ, “carefulness” là danh từ.",
+    "vocab": [
+      [
+        "committee",
+        "n",
+        "ủy ban"
+      ],
+      [
+        "review",
+        "v",
+        "xem xét"
+      ],
+      [
+        "proposal",
+        "n",
+        "đề xuất"
+      ]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "The warehouse will remain open on Saturday _______ the annual inventory audit is completed by the external auditors.",
+    "options": [
+      "until",
+      "despite",
+      "during",
+      "because of"
+    ],
+    "answer": "A",
+    "translation": "Nhà kho sẽ vẫn mở cửa vào thứ Bảy cho đến khi đợt kiểm kê thường niên do kiểm toán viên bên ngoài thực hiện hoàn tất.",
+    "explanation": "Sau chỗ trống là một mệnh đề đầy đủ nên cần liên từ “until”; “despite”, “during”, “because of” chỉ đi với cụm danh từ.",
+    "vocab": [
+      [
+        "remain",
+        "v",
+        "duy trì (ở trạng thái), vẫn còn"
+      ],
+      [
+        "annual",
+        "adj",
+        "hằng năm"
+      ],
+      [
+        "external auditor",
+        "n",
+        "kiểm toán viên bên ngoài"
+      ]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "The company is looking for _______ experienced logistics manager to oversee its regional distribution network.",
+    "options": [
+      "a",
+      "the",
+      "an",
+      "any"
+    ],
+    "answer": "C",
+    "translation": "Công ty đang tìm một trưởng phòng hậu cần có kinh nghiệm để giám sát mạng lưới phân phối khu vực.",
+    "explanation": "“manager” được nhắc lần đầu nên dùng mạo từ không xác định; “experienced” bắt đầu bằng nguyên âm nên chọn “an”.",
+    "vocab": [
+      [
+        "logistics",
+        "n",
+        "hậu cần"
+      ],
+      [
+        "oversee",
+        "v",
+        "giám sát"
+      ],
+      [
+        "regional",
+        "adj",
+        "thuộc khu vực"
+      ]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "Employees must complete the online safety course _______ access to the production floor this quarter.",
+    "options": [
+      "gaining",
+      "gain",
+      "gained",
+      "to gain"
+    ],
+    "answer": "D",
+    "translation": "Nhân viên phải hoàn thành khóa an toàn trực tuyến để được vào khu vực sản xuất trong quý này.",
+    "explanation": "Dạng “to + động từ nguyên mẫu” diễn tả mục đích nên dùng “to gain”; “gaining” và “gain” không nêu được mục đích ở vị trí này.",
+    "vocab": [
+      [
+        "complete",
+        "v",
+        "hoàn thành"
+      ],
+      [
+        "gain access to",
+        "phr",
+        "được vào"
+      ],
+      [
+        "production floor",
+        "n",
+        "khu vực sản xuất"
+      ]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "The annual financial report _______ by an independent accounting firm, so the board can now review the findings.",
+    "options": [
+      "has audited",
+      "has been audited",
+      "have audited",
+      "is auditing"
+    ],
+    "answer": "B",
+    "translation": "Báo cáo tài chính thường niên đã được một công ty kế toán độc lập kiểm toán, nên hội đồng giờ có thể xem xét các kết luận.",
+    "explanation": "Chủ ngữ số ít “report” và hành động do bên khác thực hiện nên dùng bị động hiện tại hoàn thành “has been audited”.",
+    "vocab": [
+      [
+        "annual",
+        "adj",
+        "hằng năm"
+      ],
+      [
+        "audit",
+        "v",
+        "kiểm toán"
+      ],
+      [
+        "findings",
+        "n",
+        "kết luận, phát hiện"
+      ]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "_______ a customer's complaint promptly is essential to maintaining a strong relationship with long-term clients.",
+    "options": [
+      "Resolve",
+      "Resolved",
+      "Resolving",
+      "To resolving"
+    ],
+    "answer": "C",
+    "translation": "Giải quyết khiếu nại của khách hàng một cách nhanh chóng là điều thiết yếu để duy trì quan hệ bền chặt với khách hàng lâu năm.",
+    "explanation": "Chỗ trống nằm ở vị trí chủ ngữ nên cần danh động từ “Resolving”; “To resolving” sai cấu trúc, “Resolved” là dạng quá khứ.",
+    "vocab": [
+      [
+        "complaint",
+        "n",
+        "khiếu nại"
+      ],
+      [
+        "promptly",
+        "adv",
+        "nhanh chóng"
+      ],
+      [
+        "essential",
+        "adj",
+        "thiết yếu"
+      ]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "The flight to the Chicago trade show had already departed by the time Mr. Lee _______ at the gate.",
+    "options": [
+      "arrived",
+      "had arrived",
+      "arrives",
+      "was arriving"
+    ],
+    "answer": "A",
+    "translation": "Chuyến bay tới hội chợ thương mại ở Chicago đã khởi hành trước khi ông Lee có mặt ở cổng.",
+    "explanation": "Hành động xảy ra trước dùng quá khứ hoàn thành “had departed”; mệnh đề sau “by the time” dùng quá khứ đơn “arrived”.",
+    "vocab": [
+      [
+        "depart",
+        "v",
+        "khởi hành"
+      ],
+      [
+        "trade show",
+        "n",
+        "hội chợ thương mại"
+      ],
+      [
+        "gate",
+        "n",
+        "cổng (sân bay)"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "The department heads reviewed the proposals and then shared _______ comments with the rest of the team.",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "they"
+    ],
+    "answer": "A",
+    "translation": "Các trưởng bộ phận đã xem xét các đề xuất và sau đó chia sẻ ý kiến của họ với những người còn lại trong nhóm.",
+    "explanation": "Trước danh từ “comments” cần tính từ sở hữu “their”; “theirs” đứng độc lập, “them” và “they” là đại từ nhân xưng.",
+    "vocab": [
+      [
+        "department head",
+        "n",
+        "trưởng bộ phận"
+      ],
+      [
+        "share",
+        "v",
+        "chia sẻ"
+      ],
+      [
+        "comment",
+        "n",
+        "ý kiến"
+      ]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "The company has received _______ applications for the marketing position than it expected at the start of the year.",
+    "options": [
+      "much",
+      "many",
+      "more",
+      "most"
+    ],
+    "answer": "C",
+    "translation": "Công ty đã nhận được nhiều đơn ứng tuyển cho vị trí tiếp thị hơn dự kiến hồi đầu năm.",
+    "explanation": "Có “than” nên cần dạng so sánh hơn “more” đứng trước danh từ đếm được số nhiều “applications”.",
+    "vocab": [
+      [
+        "application",
+        "n",
+        "đơn ứng tuyển"
+      ],
+      [
+        "position",
+        "n",
+        "vị trí"
+      ],
+      [
+        "expect",
+        "v",
+        "dự kiến"
+      ]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "_______ the two-week delay in delivery, the customer agreed to keep the order and wait for the shipment.",
+    "options": [
+      "Although",
+      "Despite",
+      "Because",
+      "However"
+    ],
+    "answer": "B",
+    "translation": "Dù việc giao hàng bị chậm hai tuần, khách hàng vẫn đồng ý giữ đơn và chờ lô hàng.",
+    "explanation": "Sau chỗ trống là cụm danh từ “the two-week delay” nên cần giới từ “Despite”; “Although” phải đi với một mệnh đề.",
+    "vocab": [
+      [
+        "delay",
+        "n",
+        "sự chậm trễ"
+      ],
+      [
+        "delivery",
+        "n",
+        "việc giao hàng"
+      ],
+      [
+        "agree to",
+        "phr",
+        "đồng ý"
+      ]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "According to the construction schedule, the new branch office _______ by the end of next year.",
+    "options": [
+      "will complete",
+      "will be completed",
+      "is completing",
+      "has completed"
+    ],
+    "answer": "B",
+    "translation": "Theo tiến độ thi công, văn phòng chi nhánh mới sẽ được hoàn thành vào cuối năm sau.",
+    "explanation": "Tòa nhà không tự thực hiện hành động hoàn thành nên cần bị động tương lai “will be completed”.",
+    "vocab": [
+      [
+        "construction",
+        "n",
+        "việc thi công"
+      ],
+      [
+        "schedule",
+        "n",
+        "tiến độ"
+      ],
+      [
+        "complete",
+        "v",
+        "hoàn thành"
+      ]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "The customer service team received _______ feedback from clients about the new online return policy.",
+    "options": [
+      "favor",
+      "favorable",
+      "favorably",
+      "favored"
+    ],
+    "answer": "B",
+    "translation": "Nhóm chăm sóc khách hàng nhận được phản hồi tích cực từ khách về chính sách đổi trả trực tuyến mới.",
+    "explanation": "Trước danh từ “feedback” cần tính từ “favorable” (tích cực); “favorably” là trạng từ, “favor” là danh từ hoặc động từ.",
+    "vocab": [
+      [
+        "feedback",
+        "n",
+        "phản hồi"
+      ],
+      [
+        "favorable",
+        "adj",
+        "tích cực, thuận lợi"
+      ],
+      [
+        "return policy",
+        "n",
+        "chính sách đổi trả"
+      ]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "According to company policy, all visitors _______ sign in at the front desk before entering the building.",
+    "options": [
+      "might",
+      "could",
+      "must",
+      "would"
+    ],
+    "answer": "C",
+    "translation": "Theo quy định của công ty, mọi khách đến phải đăng ký tại quầy lễ tân trước khi vào tòa nhà.",
+    "explanation": "“According to company policy” diễn tả nghĩa vụ bắt buộc nên dùng “must”; “might”, “could”, “would” chỉ khả năng hoặc giả định.",
+    "vocab": [
+      [
+        "policy",
+        "n",
+        "quy định, chính sách"
+      ],
+      [
+        "sign in",
+        "phr",
+        "đăng ký vào"
+      ],
+      [
+        "front desk",
+        "n",
+        "quầy lễ tân"
+      ]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "Please keep all receipts _______ the warranty period in case the equipment needs to be repaired.",
+    "options": [
+      "during",
+      "while",
+      "when",
+      "whereas"
+    ],
+    "answer": "A",
+    "translation": "Vui lòng giữ lại tất cả hóa đơn trong thời gian bảo hành phòng khi thiết bị cần sửa chữa.",
+    "explanation": "Sau chỗ trống là cụm danh từ “the warranty period” nên dùng giới từ “during”; “while”, “when”, “whereas” đòi hỏi mệnh đề.",
+    "vocab": [
+      [
+        "receipt",
+        "n",
+        "hóa đơn, biên lai"
+      ],
+      [
+        "warranty period",
+        "n",
+        "thời gian bảo hành"
+      ],
+      [
+        "in case",
+        "phr",
+        "phòng khi"
+      ]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The sales figures _______ in the annual report were verified by an independent auditor last month.",
+    "options": [
+      "publishing",
+      "published",
+      "publish",
+      "publication"
+    ],
+    "answer": "B",
+    "translation": "Các số liệu bán hàng được công bố trong báo cáo thường niên đã được một kiểm toán viên độc lập xác minh tháng trước.",
+    "explanation": "Đây là dạng rút gọn của mệnh đề bị động “figures which were published” nên dùng quá khứ phân từ “published”.",
+    "vocab": [
+      [
+        "figure",
+        "n",
+        "con số"
+      ],
+      [
+        "verify",
+        "v",
+        "xác minh"
+      ],
+      [
+        "independent",
+        "adj",
+        "độc lập"
+      ]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "The marketing director had the promotional brochure _______ by an outside design agency before the launch.",
+    "options": [
+      "prepare",
+      "prepared",
+      "preparing",
+      "to prepare"
+    ],
+    "answer": "B",
+    "translation": "Giám đốc tiếp thị đã cho một công ty thiết kế bên ngoài chuẩn bị tờ quảng cáo trước buổi ra mắt.",
+    "explanation": "Cấu trúc “have + tân ngữ + quá khứ phân từ” diễn tả việc nhờ người khác làm nên dùng “prepared”.",
+    "vocab": [
+      [
+        "promotional",
+        "adj",
+        "để quảng cáo"
+      ],
+      [
+        "brochure",
+        "n",
+        "tờ gấp quảng cáo"
+      ],
+      [
+        "agency",
+        "n",
+        "công ty dịch vụ"
+      ]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "The support center received _______ complaints this month than last month after the new booking system was introduced.",
+    "options": [
+      "less",
+      "fewest",
+      "fewer",
+      "little"
+    ],
+    "answer": "C",
+    "translation": "Trung tâm hỗ trợ nhận được ít khiếu nại hơn trong tháng này so với tháng trước sau khi hệ thống đặt chỗ mới được đưa vào sử dụng.",
+    "explanation": "“complaints” là danh từ đếm được số nhiều và trong câu có “than” nên dùng “fewer”; “less” dành cho danh từ không đếm được.",
+    "vocab": [
+      [
+        "complaint",
+        "n",
+        "khiếu nại"
+      ],
+      [
+        "introduce",
+        "v",
+        "đưa vào sử dụng"
+      ],
+      [
+        "booking system",
+        "n",
+        "hệ thống đặt chỗ"
+      ]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "Not only _______ the new inventory system reduce processing time, but it also improved accuracy in the warehouse.",
+    "options": [
+      "were",
+      "has",
+      "did",
+      "was"
+    ],
+    "answer": "C",
+    "translation": "Hệ thống kiểm kê mới không chỉ giảm thời gian xử lý mà còn nâng cao độ chính xác trong kho.",
+    "explanation": "“Not only” đứng đầu câu gây đảo ngữ; vế sau dùng “improved” ở quá khứ nên trợ động từ phải là “did”.",
+    "vocab": [
+      [
+        "inventory",
+        "n",
+        "hàng tồn kho"
+      ],
+      [
+        "accuracy",
+        "n",
+        "độ chính xác"
+      ],
+      [
+        "processing time",
+        "n",
+        "thời gian xử lý"
+      ]
+    ]
+  }
+]

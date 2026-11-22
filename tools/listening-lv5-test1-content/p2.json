@@ -1,0 +1,477 @@
+[
+  {
+    "id": 7,
+    "part": 2,
+    "questionScript": "Who's supposed to sign off on the updated travel reimbursement policy?",
+    "questionVi": "Ai là người chịu trách nhiệm phê duyệt chính sách hoàn trả công tác phí mới cập nhật?",
+    "options": [
+      "The finance director has the final say.",
+      "Yes, I'll sign up for the workshop tomorrow.",
+      "By submitting receipts within five business days."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Ai là người chịu trách nhiệm phê duyệt chính sách hoàn trả công tác phí mới cập nhật?\n(A) Giám đốc tài chính là người quyết định cuối cùng.\n(B) Vâng, ngày mai tôi sẽ đăng ký tham gia hội thảo.\n(C) Bằng cách nộp hóa đơn trong vòng năm ngày làm việc.",
+    "explanation": "Câu hỏi 'Who' hỏi người có thẩm quyền phê duyệt (sign off on). (A) nêu đúng chức danh người quyết định cuối cùng. (B) bẫy cụm từ gần giống 'sign off' với 'sign up' và trả lời 'Yes' cho câu hỏi Wh-. (C) trả lời cho câu hỏi 'How', lạc trọng tâm.",
+    "vocab": [
+      ["sign off on", "phr", "phê duyệt, ký duyệt"],
+      ["reimbursement", "n", "sự hoàn trả chi phí"],
+      ["have the final say", "phr", "có quyền quyết định cuối cùng"]
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "questionScript": "Didn't the supplier guarantee delivery of the circuit boards before noon?",
+    "questionVi": "Chẳng phải nhà cung cấp đã cam kết giao bảng mạch trước buổi trưa sao?",
+    "options": [
+      "The board meeting was moved to Conference Room B.",
+      "Their truck broke down on the highway outside the city.",
+      "Actually, we ordered three hundred units."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chẳng phải nhà cung cấp đã cam kết giao bảng mạch trước buổi trưa sao?\n(A) Cuộc họp hội đồng đã được chuyển sang phòng họp B.\n(B) Xe tải của họ bị hỏng trên đường cao tốc ngoài thành phố.\n(C) Thật ra chúng tôi đã đặt ba trăm chiếc.",
+    "explanation": "Câu hỏi phủ định bày tỏ thắc mắc vì sao hàng chưa tới đúng hẹn. (B) giải thích gián tiếp lý do giao trễ do xe hỏng — rất tự nhiên ở Part 2. (A) bẫy đa nghĩa từ 'board' (bảng mạch vs hội đồng). (C) trả lời số lượng thay vì lý do chậm trễ.",
+    "vocab": [
+      ["circuit board", "n", "bảng mạch điện tử"],
+      ["break down", "phr", "bị hỏng (xe cộ, máy móc)"],
+      ["guarantee", "v", "cam kết, bảo đảm"]
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "questionScript": "How are we going to accommodate forty extra guests at the product launch?",
+    "questionVi": "Làm thế nào chúng ta có thể sắp xếp chỗ cho thêm bốn mươi khách mời tại buổi ra mắt sản phẩm?",
+    "options": [
+      "The new software launches next Monday.",
+      "No, the guest list hasn't been finalized.",
+      "Facilities can open up the folding partition to the adjacent hall."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Làm thế nào chúng ta có thể sắp xếp chỗ cho thêm bốn mươi khách mời tại buổi ra mắt sản phẩm?\n(A) Phần mềm mới sẽ ra mắt vào thứ Hai tới.\n(B) Không, danh sách khách mời vẫn chưa được chốt.\n(C) Bộ phận cơ sở vật chất có thể mở vách ngăn gấp thông sang hội trường kế bên.",
+    "explanation": "Câu hỏi 'How' hỏi giải pháp xử lý tình huống phát sinh thêm khách. (C) đưa ra phương án cụ thể là mở vách ngăn để nới rộng không gian. (A) lặp từ 'launch' sai chủ đề. (B) trả lời 'No' cho câu hỏi 'How'.",
+    "vocab": [
+      ["accommodate", "v", "đáp ứng chỗ ở/chỗ ngồi cho"],
+      ["folding partition", "n", "vách ngăn xếp/gấp"],
+      ["adjacent", "adj", "liền kề, kế bên"]
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "questionScript": "Could you check whether the quarterly sales figures have been reconciled?",
+    "questionVi": "Bạn có thể kiểm tra xem số liệu doanh thu quý đã được đối chiếu khớp chưa?",
+    "options": [
+      "I'll ask Ms. Sato in Accounting right after this call.",
+      "Yes, the annual sale starts on Friday.",
+      "About twelve percent higher than last year."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn có thể kiểm tra xem số liệu doanh thu quý đã được đối chiếu khớp chưa?\n(A) Tôi sẽ hỏi cô Sato ở phòng Kế toán ngay sau cuộc gọi này.\n(B) Vâng, đợt giảm giá thường niên bắt đầu vào thứ Sáu.\n(C) Cao hơn khoảng mười hai phần trăm so với năm ngoái.",
+    "explanation": "Lời đề nghị 'Could you check...' được đáp lại bằng hành động cụ thể sẽ thực hiện ngay sau cuộc gọi ở (A). (B) bẫy đa nghĩa 'sales' (doanh số) và 'sale' (đợt giảm giá). (C) nêu mức tăng trưởng, không trả lời yêu cầu kiểm tra.",
+    "vocab": [
+      ["reconcile", "v", "đối chiếu, làm khớp số liệu"],
+      ["sales figures", "n", "số liệu doanh thu"],
+      ["accounting", "n", "bộ phận kế toán"]
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "questionScript": "Why did the zoning committee postpone its decision on our warehouse expansion?",
+    "questionVi": "Tại sao ủy ban quy hoạch lại hoãn quyết định về việc mở rộng nhà kho của chúng ta?",
+    "options": [
+      "They're waiting for an updated traffic impact study.",
+      "The warehouse is located near the port.",
+      "Probably until the end of next month."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao ủy ban quy hoạch lại hoãn quyết định về việc mở rộng nhà kho của chúng ta?\n(A) Họ đang chờ bản đánh giá tác động giao thông được cập nhật.\n(B) Nhà kho nằm gần khu vực cảng.\n(C) Có lẽ là đến cuối tháng sau.",
+    "explanation": "Câu hỏi 'Why' hỏi nguyên nhân trì hoãn. (A) giải thích lý do hợp lý (chờ báo cáo đánh giá giao thông). (B) trả lời cho 'Where' và lặp lại 'warehouse'. (C) trả lời cho 'How long / Until when'.",
+    "vocab": [
+      ["zoning committee", "n", "ủy ban quy hoạch phân khu"],
+      ["postpone", "v", "trì hoãn"],
+      ["impact study", "n", "nghiên cứu/đánh giá tác động"]
+    ]
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "questionScript": "Would you rather have the client briefing at ten or push it back to two?",
+    "questionVi": "Bạn muốn họp báo cáo khách hàng lúc mười giờ hay dời lại sang hai giờ chiều?",
+    "options": [
+      "Yes, both clients arrived safely.",
+      "Push the carts toward the loading dock.",
+      "Two gives us enough time to polish the slides."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn muốn họp báo cáo khách hàng lúc mười giờ hay dời lại sang hai giờ chiều?\n(A) Vâng, cả hai khách hàng đều đã đến nơi an toàn.\n(B) Hãy đẩy mấy chiếc xe hàng về phía khu bốc xếp.\n(C) Hai giờ sẽ cho chúng ta đủ thời gian trau chuốt lại bộ slide.",
+    "explanation": "Câu hỏi lựa chọn (at ten or at two) cần chọn một phương án kèm lý do. (C) chọn mốc hai giờ và giải thích vì sao hợp lý hơn. (A) sai vì dùng 'Yes' cho câu hỏi lựa chọn. (B) bẫy lặp từ 'push'.",
+    "vocab": [
+      ["push back", "phr", "dời lại, lùi lịch"],
+      ["client briefing", "n", "buổi báo cáo ngắn cho khách hàng"],
+      ["polish", "v", "trau chuốt, hoàn thiện"]
+    ]
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "questionScript": "Our server migration took longer than anticipated over the weekend.",
+    "questionVi": "Quá trình chuyển đổi máy chủ của chúng ta cuối tuần qua mất nhiều thời gian hơn dự kiến.",
+    "options": [
+      "That explains why the internal portal was down on Monday morning.",
+      "The migrating birds usually fly south in autumn.",
+      "Let's serve refreshments in the main lobby."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Quá trình chuyển đổi máy chủ của chúng ta cuối tuần qua mất nhiều thời gian hơn dự kiến.\n(A) Thảo nào cổng thông tin nội bộ bị sập vào sáng thứ Hai.\n(B) Chim di cư thường bay về phương nam vào mùa thu.\n(C) Hãy phục vụ đồ ăn nhẹ ở sảnh chính.",
+    "explanation": "Câu trần thuật nêu sự cố kỹ thuật. (A) phản hồi tự nhiên bằng cách liên kết hệ quả thực tế (cổng nội bộ bị gián đoạn sáng thứ Hai). (B) bẫy từ cùng gốc 'migration / migrating'. (C) bẫy gần âm 'server / serve'.",
+    "vocab": [
+      ["server migration", "n", "quá trình di chuyển/chuyển đổi máy chủ"],
+      ["anticipated", "adj", "được dự kiến trước"],
+      ["internal portal", "n", "cổng thông tin nội bộ"]
+    ]
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "questionScript": "Where should the newly hired interns pick up their security badges?",
+    "questionVi": "Các thực tập sinh mới tuyển nên đến đâu để nhận thẻ an ninh?",
+    "options": [
+      "They start their orientation on Wednesday.",
+      "At the reception desk in the West Wing.",
+      "Please secure the latches on all windows."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Các thực tập sinh mới tuyển nên đến đâu để nhận thẻ an ninh?\n(A) Họ bắt đầu buổi định hướng vào thứ Tư.\n(B) Tại quầy lễ tân ở khu cánh Tây.\n(C) Vui lòng cài chốt an toàn trên tất cả cửa sổ.",
+    "explanation": "Câu hỏi 'Where' hỏi địa điểm nhận thẻ. (B) chỉ rõ nơi nhận tại quầy lễ tân khu cánh Tây. (A) trả lời cho 'When'. (C) bẫy từ cùng gốc 'security / secure'.",
+    "vocab": [
+      ["security badge", "n", "thẻ ra vào an ninh"],
+      ["orientation", "n", "buổi định hướng nhân viên mới"],
+      ["wing", "n", "khu vực, cánh (tòa nhà)"]
+    ]
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "questionScript": "You haven't finalized the catering menu for the awards banquet, have you?",
+    "questionVi": "Bạn vẫn chưa chốt thực đơn tiệc cho lễ trao giải, đúng không?",
+    "options": [
+      "The award went to our engineering team.",
+      "No, I'm still waiting to hear back about dietary restrictions.",
+      "Yes, the menu is printed in three languages."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn vẫn chưa chốt thực đơn tiệc cho lễ trao giải, đúng không?\n(A) Giải thưởng đã thuộc về đội ngũ kỹ sư của chúng ta.\n(B) Chưa, tôi vẫn đang chờ phản hồi về các yêu cầu ăn kiêng đặc biệt.\n(C) Vâng, thực đơn được in bằng ba thứ tiếng.",
+    "explanation": "Câu hỏi đuôi dạng phủ định xác nhận việc chưa chốt thực đơn. (B) trả lời 'No' khớp thực tế chưa xong và nêu lý do đang chờ thông tin kiêng khem của khách. (A) lặp từ 'award', (C) lặp từ 'menu' nhưng sai ngữ cảnh.",
+    "vocab": [
+      ["finalize", "v", "chốt lại, hoàn tất"],
+      ["banquet", "n", "tiệc lớn, yến tiệc"],
+      ["dietary restrictions", "n", "các hạn chế/yêu cầu về chế độ ăn"]
+    ]
+  },
+  {
+    "id": 16,
+    "part": 2,
+    "questionScript": "How often does the quality assurance team calibrate the optical sensors?",
+    "questionVi": "Đội đảm bảo chất lượng hiệu chuẩn các cảm biến quang học bao lâu một lần?",
+    "options": [
+      "At the beginning of every production shift.",
+      "The quality of the fabric is remarkably high.",
+      "It makes sense to order spare sensors."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Đội đảm bảo chất lượng hiệu chuẩn các cảm biến quang học bao lâu một lần?\n(A) Vào đầu mỗi ca sản xuất.\n(B) Chất lượng vải cao một cách đáng chú ý.\n(C) Đặt thêm cảm biến dự phòng là hợp lý.",
+    "explanation": "Câu hỏi tần suất 'How often' cần đáp án chỉ chu kỳ lặp lại. (A) nêu rõ tần suất (đầu mỗi ca sản xuất). (B) lặp lại 'quality' sai ngữ cảnh. (C) bẫy gần âm 'sensors / sense'.",
+    "vocab": [
+      ["quality assurance", "n", "đảm bảo chất lượng (QA)"],
+      ["calibrate", "v", "hiệu chuẩn, cân chỉnh"],
+      ["production shift", "n", "ca sản xuất"]
+    ]
+  },
+  {
+    "id": 17,
+    "part": 2,
+    "questionScript": "Do you know if Mr. Patel will be joining the videoconference from Singapore?",
+    "questionVi": "Bạn có biết liệu ông Patel có tham gia cuộc họp trực tuyến từ Singapore không?",
+    "options": [
+      "The conference table seats up to sixteen people.",
+      "He emailed earlier to say his flight was rerouted.",
+      "Yes, Singapore has a very humid climate."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có biết liệu ông Patel có tham gia cuộc họp trực tuyến từ Singapore không?\n(A) Bàn họp có thể ngồi tối đa mười sáu người.\n(B) Lúc trước ông ấy gửi email báo chuyến bay của mình bị đổi tuyến.\n(C) Vâng, Singapore có khí hậu rất ẩm.",
+    "explanation": "Câu hỏi gián tiếp 'Do you know if...' được trả lời bằng thông tin cập nhật mới nhất về lịch trình của ông Patel (chuyến bay bị đổi tuyến nên có thể ảnh hưởng việc tham dự). (A) lặp 'conference', (C) lặp 'Singapore'.",
+    "vocab": [
+      ["videoconference", "n", "cuộc họp trực tuyến qua video"],
+      ["reroute", "v", "chuyển hướng, đổi lộ trình"],
+      ["humid", "adj", "ẩm ướt"]
+    ]
+  },
+  {
+    "id": 18,
+    "part": 2,
+    "questionScript": "Why don't we bundle the maintenance contract with the hardware upgrade?",
+    "questionVi": "Sao chúng ta không gộp gói hợp đồng bảo trì cùng với đợt nâng cấp phần cứng nhỉ?",
+    "options": [
+      "The hardware store closes at seven.",
+      "Legal advised against combining two separate budgets.",
+      "I bundled up because it was freezing outside."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Sao chúng ta không gộp gói hợp đồng bảo trì cùng với đợt nâng cấp phần cứng nhỉ?\n(A) Cửa hàng dụng cụ đóng cửa lúc bảy giờ.\n(B) Bộ phận pháp chế khuyên không nên gộp chung hai khoản ngân sách riêng biệt.\n(C) Tôi mặc ấm vì ngoài trời lạnh cóng.",
+    "explanation": "Câu đề xuất 'Why don't we...' được từ chối khéo bằng lý do chuyên môn ở (B) (pháp chế khuyên tách ngân sách). (A) bẫy đa nghĩa 'hardware' (phần cứng máy tính vs đồ kim khí). (C) bẫy 'bundle / bundled up'.",
+    "vocab": [
+      ["bundle", "v", "gộp chung thành một gói"],
+      ["advise against", "phr", "khuyên không nên làm gì"],
+      ["separate", "adj", "riêng biệt, tách rời"]
+    ]
+  },
+  {
+    "id": 19,
+    "part": 2,
+    "questionScript": "Which courier service offers the fastest overnight shipping to Frankfurt?",
+    "questionVi": "Dịch vụ chuyển phát nhanh nào cung cấp giao hàng qua đêm nhanh nhất tới Frankfurt?",
+    "options": [
+      "The shipping crate weighs roughly forty kilograms.",
+      "At the courier counter near the north entrance.",
+      "Nordic Express usually guarantees delivery by nine a.m."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Dịch vụ chuyển phát nhanh nào cung cấp giao hàng qua đêm nhanh nhất tới Frankfurt?\n(A) Thùng hàng nặng khoảng bốn mươi ki-lô-gam.\n(B) Ở quầy chuyển phát gần lối vào phía bắc.\n(C) Nordic Express thường cam kết giao trước chín giờ sáng.",
+    "explanation": "Câu hỏi 'Which courier service' yêu cầu nêu tên một đơn vị cung cấp dịch vụ. (C) đưa ra tên hãng Nordic Express và mốc giờ cam kết. (A) lặp 'shipping', (B) trả lời cho 'Where'.",
+    "vocab": [
+      ["courier service", "n", "dịch vụ chuyển phát nhanh"],
+      ["overnight shipping", "n", "giao hàng qua đêm"],
+      ["roughly", "adv", "xấp xỉ, khoảng"]
+    ]
+  },
+  {
+    "id": 20,
+    "part": 2,
+    "questionScript": "We're running dangerously low on letterhead stationery in the print room.",
+    "questionVi": "Chúng ta sắp hết sạch giấy tiêu đề thư trong phòng in rồi.",
+    "options": [
+      "The train remained stationary for twenty minutes.",
+      "There should be two unopened boxes in the supply closet.",
+      "Please sign at the bottom of the letter."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta sắp hết sạch giấy tiêu đề thư trong phòng in rồi.\n(A) Đoàn tàu đứng yên suốt hai mươi phút.\n(B) Chắc vẫn còn hai thùng chưa mở trong tủ văn phòng phẩm đấy.\n(C) Vui lòng ký ở cuối bức thư.",
+    "explanation": "Câu thông báo thiếu vật tư văn phòng được đáp lại bằng giải pháp chỉ chỗ lấy hàng dự trữ ở (B). (A) bẫy đồng âm kinh điển 'stationery' (văn phòng phẩm) và 'stationary' (đứng yên). (C) bẫy 'letterhead / letter'.",
+    "vocab": [
+      ["run low on", "phr", "sắp hết, thiếu hụt"],
+      ["letterhead", "n", "giấy có in sẵn tiêu đề công ty"],
+      ["stationery", "n", "văn phòng phẩm"]
+    ]
+  },
+  {
+    "id": 21,
+    "part": 2,
+    "questionScript": "When will the revised zoning permits be posted on the municipal website?",
+    "questionVi": "Khi nào giấy phép quy hoạch đã chỉnh sửa sẽ được đăng lên trang web của thành phố?",
+    "options": [
+      "Within forty-eight hours of the final inspection.",
+      "I mailed the postcard before leaving the office.",
+      "The city council office is across from the library."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khi nào giấy phép quy hoạch đã chỉnh sửa sẽ được đăng lên trang web của thành phố?\n(A) Trong vòng bốn mươi tám giờ sau đợt kiểm tra cuối cùng.\n(B) Tôi đã gửi bưu thiếp trước khi rời văn phòng.\n(C) Văn phòng hội đồng thành phố nằm đối diện thư viện.",
+    "explanation": "Câu hỏi 'When' được trả lời bằng khoảng thời gian gắn với một mốc sự kiện (trong vòng 48 giờ sau kiểm tra cuối). (B) bẫy gần âm 'posted / postcard'. (C) trả lời cho 'Where'.",
+    "vocab": [
+      ["permit", "n", "giấy phép"],
+      ["municipal", "adj", "thuộc thành phố, đô thị"],
+      ["inspection", "n", "cuộc kiểm tra, thanh tra"]
+    ]
+  },
+  {
+    "id": 22,
+    "part": 2,
+    "questionScript": "Should I circulate the preliminary budget before or after the department heads meet?",
+    "questionVi": "Tôi nên gửi bản ngân sách sơ bộ trước hay sau khi các trưởng bộ phận họp?",
+    "options": [
+      "Air circulation on the fourth floor is much better now.",
+      "Yes, everyone met in the auditorium.",
+      "Wait until we incorporate their staffing projections."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Tôi nên gửi bản ngân sách sơ bộ trước hay sau khi các trưởng bộ phận họp?\n(A) Hệ thống lưu thông không khí ở tầng bốn giờ tốt hơn nhiều rồi.\n(B) Vâng, mọi người đã họp trong khán phòng.\n(C) Hãy đợi đến khi chúng ta đưa dự báo nhân sự của họ vào đã.",
+    "explanation": "Câu hỏi lựa chọn 'before or after' được trả lời gián tiếp ở (C): khuyên chờ đến khi bổ sung số liệu từ các trưởng bộ phận (tức là sau cuộc họp). (A) bẫy từ cùng gốc 'circulate / circulation'. (B) trả lời 'Yes' cho câu hỏi lựa chọn.",
+    "vocab": [
+      ["circulate", "v", "gửi phổ biến, lưu hành"],
+      ["preliminary", "adj", "sơ bộ, ban đầu"],
+      ["incorporate", "v", "đưa vào, lồng ghép"]
+    ]
+  },
+  {
+    "id": 23,
+    "part": 2,
+    "questionScript": "Has anyone looked into why the freight invoice exceeded the original quote?",
+    "questionVi": "Đã có ai tìm hiểu xem vì sao hóa đơn vận chuyển lại cao hơn báo giá ban đầu chưa?",
+    "options": [
+      "Yes, the fuel surcharge wasn't included in the initial estimate.",
+      "Please put that quote at the top of the brochure.",
+      "The freight train departs at six thirty sharp."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Đã có ai tìm hiểu xem vì sao hóa đơn vận chuyển lại cao hơn báo giá ban đầu chưa?\n(A) Rồi, phụ phí nhiên liệu chưa được tính vào ước tính ban đầu.\n(B) Vui lòng đặt câu trích dẫn đó lên đầu tờ giới thiệu.\n(C) Tàu chở hàng khởi hành đúng sáu giờ ba mươi.",
+    "explanation": "(A) xác nhận đã kiểm tra và nêu thẳng nguyên nhân chênh lệch (thiếu phụ phí nhiên liệu). (B) bẫy đa nghĩa 'quote' (báo giá vs câu trích dẫn). (C) lặp từ 'freight' sai ngữ cảnh.",
+    "vocab": [
+      ["look into", "phr", "tìm hiểu, điều tra"],
+      ["exceed", "v", "vượt quá"],
+      ["fuel surcharge", "n", "phụ phí nhiên liệu"]
+    ]
+  },
+  {
+    "id": 24,
+    "part": 2,
+    "questionScript": "How long do you anticipate the software audit will take?",
+    "questionVi": "Bạn dự đoán đợt kiểm tra phần mềm sẽ mất bao lâu?",
+    "options": [
+      "The auditorium is booked for the whole week.",
+      "At least three days, depending on how tidy the documentation is.",
+      "Yes, it was audited by an independent firm."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn dự đoán đợt kiểm tra phần mềm sẽ mất bao lâu?\n(A) Khán phòng đã được đặt kín cả tuần rồi.\n(B) Ít nhất ba ngày, tùy vào mức độ gọn gàng của bộ tài liệu.\n(C) Vâng, nó đã được kiểm toán bởi một công ty độc lập.",
+    "explanation": "Câu hỏi thời lượng 'How long' được đáp lại bằng ước lượng 'Ít nhất ba ngày' kèm điều kiện ở (B). (A) bẫy gần âm 'audit / auditorium'. (C) trả lời 'Yes' cho câu hỏi Wh-.",
+    "vocab": [
+      ["audit", "n", "cuộc kiểm tra, kiểm toán"],
+      ["anticipate", "v", "dự đoán, ước tính"],
+      ["documentation", "n", "hồ sơ tài liệu"]
+    ]
+  },
+  {
+    "id": 25,
+    "part": 2,
+    "questionScript": "Isn't the regional trade expo supposed to relocate to the convention center this year?",
+    "questionVi": "Chẳng phải hội chợ thương mại khu vực dự kiến sẽ chuyển sang trung tâm hội nghị vào năm nay sao?",
+    "options": [
+      "No, the organizers renewed their lease at the waterfront pavilion.",
+      "The region is famous for its coastal scenery.",
+      "We exported twelve containers last quarter."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chẳng phải hội chợ thương mại khu vực dự kiến sẽ chuyển sang trung tâm hội nghị vào năm nay sao?\n(A) Không, ban tổ chức đã gia hạn hợp đồng thuê tại nhà triển lãm ven sông.\n(B) Khu vực này nổi tiếng với phong cảnh ven biển.\n(C) Chúng tôi đã xuất khẩu mười hai công-te-nơ vào quý trước.",
+    "explanation": "Câu hỏi phủ định kiểm tra thông tin chuyển địa điểm. (A) phủ nhận ('No') và nêu thông tin chính xác (gia hạn thuê chỗ cũ). (B) bẫy từ cùng gốc 'regional / region'. (C) bẫy gần âm 'expo / exported'.",
+    "vocab": [
+      ["relocate", "v", "chuyển địa điểm"],
+      ["renew a lease", "phr", "gia hạn hợp đồng thuê"],
+      ["pavilion", "n", "khu/nhà triển lãm"]
+    ]
+  },
+  {
+    "id": 26,
+    "part": 2,
+    "questionScript": "What kind of warranty coverage comes with the industrial air compressors?",
+    "questionVi": "Máy nén khí công nghiệp đi kèm chế độ bảo hành như thế nào?",
+    "options": [
+      "They're compressed into smaller files for email.",
+      "Two years on parts and labor, with an optional extension.",
+      "We'll cover the story in the next newsletter."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Máy nén khí công nghiệp đi kèm chế độ bảo hành như thế nào?\n(A) Chúng được nén thành tệp nhỏ hơn để gửi email.\n(B) Hai năm cho linh kiện và nhân công, kèm tùy chọn gia hạn.\n(C) Chúng tôi sẽ đưa tin này trong bản tin tiếp theo.",
+    "explanation": "Câu hỏi về phạm vi bảo hành ('What kind of warranty coverage'). (B) nêu rõ thời hạn và hạng mục được bảo hành. (A) bẫy từ cùng gốc 'compressors / compressed'. (C) bẫy đa nghĩa 'coverage / cover a story'.",
+    "vocab": [
+      ["warranty coverage", "n", "phạm vi/chế độ bảo hành"],
+      ["parts and labor", "phr", "linh kiện và công sửa chữa"],
+      ["optional extension", "n", "tùy chọn gia hạn thêm"]
+    ]
+  },
+  {
+    "id": 27,
+    "part": 2,
+    "questionScript": "Could we waive the late-registration fee for our long-standing corporate partners?",
+    "questionVi": "Chúng ta có thể miễn phí đăng ký muộn cho các đối tác doanh nghiệp lâu năm không?",
+    "options": [
+      "The waves were too rough for the ferry.",
+      "Only if they confirm attendance before Friday's cutoff.",
+      "He partnered with a law firm in Chicago."
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta có thể miễn phí đăng ký muộn cho các đối tác doanh nghiệp lâu năm không?\n(A) Sóng quá lớn nên phà không chạy được.\n(B) Chỉ khi họ xác nhận tham dự trước hạn chót thứ Sáu.\n(C) Anh ấy đã hợp tác với một công ty luật ở Chicago.",
+    "explanation": "Câu hỏi xin ngoại lệ ('Could we waive...') được trả lời bằng điều kiện đi kèm ở (B) ('Only if...'). (A) bẫy đồng âm 'waive' (miễn trừ) và 'wave' (con sóng). (C) bẫy từ cùng gốc 'partners / partnered'.",
+    "vocab": [
+      ["waive", "v", "miễn (phí, quy định)"],
+      ["long-standing", "adj", "lâu năm, gắn bó lâu dài"],
+      ["cutoff", "n", "hạn chót, mốc dừng"]
+    ]
+  },
+  {
+    "id": 28,
+    "part": 2,
+    "questionScript": "Who's taking over Ms. Alvarez's accounts while she's on parental leave?",
+    "questionVi": "Ai sẽ tiếp quản các tài khoản khách hàng của cô Alvarez trong thời gian cô ấy nghỉ thai sản?",
+    "options": [
+      "David is handling the retail clients, and Nora has the rest.",
+      "She left the folder on the reception counter.",
+      "Yes, my checking account was updated yesterday."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Ai sẽ tiếp quản các tài khoản khách hàng của cô Alvarez trong thời gian cô ấy nghỉ thai sản?\n(A) David phụ trách nhóm khách bán lẻ, còn Nora lo phần còn lại.\n(B) Cô ấy để tập hồ sơ trên quầy lễ tân.\n(C) Vâng, tài khoản thanh toán của tôi đã được cập nhật hôm qua.",
+    "explanation": "Câu hỏi 'Who' hỏi người thay thế tạm thời. (A) phân công rõ hai nhân sự đảm nhận từng nhóm khách hàng. (B) bẫy đa nghĩa 'leave' (kỳ nghỉ) và 'left' (để lại). (C) bẫy đa nghĩa 'accounts' (khách hàng vs tài khoản ngân hàng).",
+    "vocab": [
+      ["take over", "phr", "tiếp quản, đảm nhận thay"],
+      ["parental leave", "n", "kỳ nghỉ chăm con/thai sản"],
+      ["handle", "v", "phụ trách, xử lý"]
+    ]
+  },
+  {
+    "id": 29,
+    "part": 2,
+    "questionScript": "I'm not sure whether the new acoustic panels will block out the hallway noise.",
+    "questionVi": "Tôi không chắc liệu các tấm tiêu âm mới có chặn được tiếng ồn từ hành lang không.",
+    "options": [
+      "The panel discussion begins in ten minutes.",
+      "Please walk quietly down the corridor.",
+      "According to the contractor, they reduce sound by thirty decibels."
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Tôi không chắc liệu các tấm tiêu âm mới có chặn được tiếng ồn từ hành lang không.\n(A) Phiên thảo luận nhóm bắt đầu sau mười phút nữa.\n(B) Vui lòng đi nhẹ nhàng dọc theo hành lang.\n(C) Theo nhà thầu thì chúng giảm được tới ba mươi đề-xi-ben tiếng ồn.",
+    "explanation": "Câu trần thuật bày tỏ băn khoăn về hiệu quả cách âm được giải đáp bằng thông số kỹ thuật từ nhà thầu ở (C). (A) bẫy đa nghĩa 'panel' (tấm vật liệu vs ban thảo luận). (B) liên tưởng đến 'hallway' nhưng không giải đáp hiệu quả tấm tiêu âm.",
+    "vocab": [
+      ["acoustic panel", "n", "tấm tiêu âm, cách âm"],
+      ["block out", "phr", "chặn, ngăn (âm thanh, ánh sáng)"],
+      ["contractor", "n", "nhà thầu"]
+    ]
+  },
+  {
+    "id": 30,
+    "part": 2,
+    "questionScript": "Where can I find the compliance checklist for hazardous material shipments?",
+    "questionVi": "Tôi có thể tìm danh mục kiểm tra tuân thủ cho các lô hàng vật liệu nguy hiểm ở đâu?",
+    "options": [
+      "Check the shared drive under Logistics Policies.",
+      "We shipped three pallets earlier this morning.",
+      "Yes, all drivers must comply with speed limits."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tôi có thể tìm danh mục kiểm tra tuân thủ cho các lô hàng vật liệu nguy hiểm ở đâu?\n(A) Kiểm tra ổ đĩa dùng chung trong mục Chính sách Hậu cần.\n(B) Chúng tôi đã gửi ba pallet hàng vào sáng sớm nay.\n(C) Vâng, mọi tài xế phải tuân thủ giới hạn tốc độ.",
+    "explanation": "Câu hỏi 'Where' hỏi vị trí tài liệu. (A) chỉ chính xác đường dẫn thư mục trên ổ dùng chung. (B) lặp 'shipments / shipped'. (C) bẫy từ cùng gốc 'compliance / comply' và trả lời 'Yes' cho câu hỏi Wh-.",
+    "vocab": [
+      ["compliance checklist", "n", "danh mục kiểm tra tuân thủ quy định"],
+      ["hazardous material", "n", "vật liệu nguy hiểm"],
+      ["shared drive", "n", "ổ đĩa dùng chung"]
+    ]
+  },
+  {
+    "id": 31,
+    "part": 2,
+    "questionScript": "The renovation won't disrupt power to the data center, will it?",
+    "questionVi": "Việc cải tạo sẽ không làm gián đoạn nguồn điện tới trung tâm dữ liệu đâu, phải không?",
+    "options": [
+      "No, the contractors installed a dedicated backup generator.",
+      "The data has been backed up to the cloud.",
+      "That's a very powerful presentation."
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Việc cải tạo sẽ không làm gián đoạn nguồn điện tới trung tâm dữ liệu đâu, phải không?\n(A) Không đâu, nhà thầu đã lắp đặt máy phát điện dự phòng riêng rồi.\n(B) Dữ liệu đã được sao lưu lên đám mây.\n(C) Đó là một bài thuyết trình rất ấn tượng.",
+    "explanation": "Câu hỏi đuôi bày tỏ lo ngại về sự cố mất điện. (A) trấn an bằng giải pháp kỹ thuật đã chuẩn bị sẵn (lắp máy phát dự phòng riêng). (B) bẫy lặp từ 'data'. (C) bẫy từ cùng gốc 'power / powerful'.",
+    "vocab": [
+      ["disrupt", "v", "làm gián đoạn"],
+      ["dedicated", "adj", "chuyên dụng, dành riêng"],
+      ["backup generator", "n", "máy phát điện dự phòng"]
+    ]
+  }
+]

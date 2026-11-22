@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="vi" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kai Toeic - Nền tảng Luyện Thi TOEIC 4 Kỹ Năng Toàn Diện</title>
+    <meta name="description" content="Luyện thi TOEIC 4 kỹ năng Nghe, Nói, Đọc, Viết miễn phí. Đề thi thử ETS sát đề thật, chấm điểm tự động, giải thích song ngữ chi tiết và AI chấm Writing/Speaking." />
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome 6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <!-- Google Fonts: Plus Jakarta Sans / Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            800: '#1e40af',
+                            900: '#1e3a8a',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Hiệu ứng lật thẻ Flashcard 3D */
+        .perspective-1000 { perspective: 1000px; }
+        .transform-style-3d { transform-style: preserve-3d; transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
+        .backface-hidden { backface-visibility: hidden; }
+        .rotate-y-180 { transform: rotateY(180deg); }
+        .flipped { transform: rotateY(180deg); }
+
+        /* Thanh cuộn tinh tế */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+        /* Hiệu ứng sóng âm khi phát Audio hoặc Thu âm */
+        @keyframes soundwave {
+            0%, 100% { height: 6px; }
+            50% { height: 22px; }
+        }
+        .wave-bar {
+            width: 4px;
+            background-color: #2563eb;
+            border-radius: 9999px;
+            display: inline-block;
+            animation: soundwave 1s ease-in-out infinite;
+        }
+        .wave-bar:nth-child(2) { animation-delay: 0.15s; }
+        .wave-bar:nth-child(3) { animation-delay: 0.3s; }
+        .wave-bar:nth-child(4) { animation-delay: 0.45s; }
+        .wave-bar:nth-child(5) { animation-delay: 0.6s; }
+        .listening-wave-bar {
+            flex: 1 0 3px;
+            max-width: 7px;
+            min-width: 2px;
+            border-radius: 9999px;
+            background: #4b5563;
+            transition: background-color 150ms ease, transform 150ms ease;
+        }
+        .listening-waveform-playing .listening-wave-bar {
+            animation: listening-wave 650ms ease-in-out infinite alternate;
+            background: #60a5fa;
+        }
+        .listening-waveform-playing .listening-wave-bar:nth-child(3n) { animation-delay: 180ms; }
+        .listening-waveform-playing .listening-wave-bar:nth-child(4n) { animation-delay: 320ms; }
+        @keyframes listening-wave {
+            from { transform: scaleY(0.55); opacity: 0.65; }
+            to { transform: scaleY(1); opacity: 1; }
+        }
+
+        .focus-mode-hidden { display: none !important; }
+
+        /* Chế độ làm bài toàn màn hình cho phần Luyện nghe */
+        body.listening-immersive #top-promo-bar,
+        body.listening-immersive > header,
+        body.listening-immersive > footer,
+        body.listening-immersive #left-sidebar,
+        body.listening-immersive #mobile-menu,
+        body.listening-immersive #focus-mode-toggle { display: none !important; }
+        body.listening-immersive #app-main { width: 100% !important; }
+        body.listening-immersive { background: #f8fafc; }
+        .focus-mode-shell { display: contents !important; }
+        body.focus-mode-active {
+            display: block !important;
+            min-height: 100vh;
+        }
+        #app-main.focus-mode-shell {
+            display: block !important;
+            width: 100% !important;
+            min-width: 0 !important;
+        }
+        .focus-mode-target {
+            width: 100% !important;
+            max-width: 1280px !important;
+            min-height: calc(100vh - 2rem);
+            margin: 1rem auto !important;
+        }
+        #focus-mode-toggle {
+            position: fixed;
+            top: 50%;
+            right: 0;
+            z-index: 80;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.6rem;
+            padding: 0.9rem 0.65rem;
+            border: 1px solid #a7f3d0;
+            border-right: 0;
+            border-radius: 0.9rem 0 0 0.9rem;
+            background: #ffffff;
+            color: #047857;
+            box-shadow: 0 8px 24px rgb(15 23 42 / 16%);
+            font-size: 0.75rem;
+            font-weight: 800;
+            transition: background-color 150ms ease, color 150ms ease;
+        }
+        #focus-mode-toggle:hover { background: #ecfdf5; }
+        #focus-mode-toggle[aria-pressed="true"] {
+            background: #047857;
+            border-color: #047857;
+            color: #ffffff;
+        }
+        #focus-mode-toggle .focus-mode-label {
+            writing-mode: vertical-rl;
+            transform: rotate(180deg);
+            letter-spacing: 0.02em;
+        }
+        body.focus-mode-active #focus-mode-toggle { right: 0.5rem; border-right: 1px solid #a7f3d0; border-radius: 0.9rem; }
+        @media (max-width: 640px) {
+            #focus-mode-toggle { padding: 0.75rem 0.55rem; }
+            .focus-mode-target { min-height: calc(100vh - 1rem); margin: 0.5rem auto !important; }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased selection:bg-brand-600 selection:text-white min-h-screen flex flex-col">
+
+    <!-- ================= TOP NOTIFICATION BAR ================= -->
+    <div id="top-promo-bar" class="bg-gradient-to-r from-indigo-900 via-brand-700 to-emerald-700 text-white text-xs sm:text-sm py-2 px-4 text-center relative">
+        <div class="max-w-7xl mx-auto flex items-center justify-center gap-2 flex-wrap">
+            <span class="bg-amber-400 text-slate-900 font-extrabold px-2 py-0.5 rounded-full text-[11px] uppercase tracking-wider">Mới 2026</span>
+            <span>Cập nhật trọn bộ đề <strong>ETS TOEIC 2026</strong> & Chấm điểm <strong>Speaking/Writing bằng AI</strong> miễn phí!</span>
+            <button onclick="app.navigate('mock-tests')" class="underline font-bold hover:text-amber-300 ml-1">Thi thử ngay &rarr;</button>
+        </div>
+    </div>
+
+    <!-- ================= HEADER / TOP HORIZONTAL BAR (Đề thi, Nghe, Nói, Đọc, Viết) ================= -->
+    <header class="bg-white/95 backdrop-blur-md border-b border-slate-200 sticky top-0 z-40 shadow-sm">
+        <div class="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
+            <!-- Logo Kai Toeic -->
+            <a href="#home" onclick="app.navigate('home'); return false;" class="flex items-center gap-2.5 group shrink-0">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-600 to-indigo-700 flex items-center justify-center text-white shadow-md shadow-brand-500/20 group-hover:scale-105 transition">
+                    <i class="fa-solid fa-graduation-cap text-lg"></i>
+                </div>
+                <div>
+                    <div class="flex items-center gap-1.5">
+                        <span class="font-extrabold text-xl tracking-tight text-slate-900">Kai <span class="text-brand-600">Toeic</span></span>
+                        <span class="text-[10px] font-bold bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded-md border border-emerald-200">4.0 AI</span>
+                    </div>
+                    <p class="text-[11px] text-slate-500 -mt-1 hidden sm:block">Luyện thi 4 kỹ năng</p>
+                </div>
+            </a>
+
+            <!-- Thanh ngang phía trên: Đề thi, Nghe, Nói, Đọc, Viết -->
+            <nav class="hidden lg:flex items-center gap-1.5 bg-slate-100/80 p-1.5 rounded-2xl border border-slate-200/80">
+                <button data-nav="mock-tests" onclick="app.navigate('mock-tests')" class="nav-btn px-4 py-2 rounded-xl text-sm font-bold text-slate-700 hover:bg-white hover:shadow-sm transition flex items-center gap-2">
+                    <i class="fa-solid fa-file-circle-check text-emerald-600"></i>
+                    <span>Đề thi</span>
+                    <span class="bg-rose-500 text-white text-[10px] font-extrabold px-1.5 py-0.2 rounded-full">HOT</span>
+                </button>
+                <button data-nav="listening" onclick="app.navigate('listening')" class="nav-btn px-4 py-2 rounded-xl text-sm font-bold text-slate-700 hover:bg-white hover:shadow-sm transition flex items-center gap-2">
+                    <i class="fa-solid fa-headphones text-indigo-600"></i>
+                    <span>Nghe</span>
+                </button>
+                <button data-nav="speaking" onclick="app.navigate('speaking')" class="nav-btn px-4 py-2 rounded-xl text-sm font-bold text-slate-700 hover:bg-white hover:shadow-sm transition flex items-center gap-2">
+                    <i class="fa-solid fa-microphone-lines text-rose-600"></i>
+                    <span>Nói</span>
+                </button>
+                <button data-nav="reading" onclick="app.navigate('reading')" class="nav-btn px-4 py-2 rounded-xl text-sm font-bold text-slate-700 hover:bg-white hover:shadow-sm transition flex items-center gap-2">
+                    <i class="fa-solid fa-book-open-reader text-amber-600"></i>
+                    <span>Đọc</span>
+                </button>
+                <button data-nav="writing" onclick="app.navigate('writing')" class="nav-btn px-4 py-2 rounded-xl text-sm font-bold text-slate-700 hover:bg-white hover:shadow-sm transition flex items-center gap-2">
+                    <i class="fa-solid fa-pen-nib text-purple-600"></i>
+                    <span>Viết</span>
+                </button>
+            </nav>
+
+            <!-- User Actions (Streak, Saved Words, Login/Profile) -->
+            <div class="flex items-center gap-2.5">
+                <!-- Streak Counter -->
+                <button onclick="app.navigate('dashboard')" title="Chuỗi ngày học liên tiếp" class="hidden sm:flex items-center gap-1.5 px-2.5 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold hover:bg-amber-100 transition">
+                    <i class="fa-solid fa-fire text-amber-500 text-sm"></i>
+                    <span id="header-streak">1</span> ngày
+                </button>
+
+                <!-- Sổ tay từ vựng đã lưu -->
+                <button onclick="app.openSavedWordsModal()" title="Sổ tay từ vựng của tôi" class="relative p-2 rounded-lg text-slate-600 hover:bg-slate-100 transition">
+                    <i class="fa-solid fa-bookmark text-brand-600"></i>
+                    <span id="header-saved-count" class="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-brand-600 text-white text-[10px] font-bold flex items-center justify-center">0</span>
+                </button>
+
+                <!-- Auth Container -->
+                <div id="header-auth-area">
+                    <!-- Sẽ được render động bởi app.js -->
+                </div>
+
+                <!-- Mobile Menu Toggle -->
+                <button onclick="app.toggleMobileMenu()" class="lg:hidden p-2 rounded-lg text-slate-600 hover:bg-slate-100">
+                    <i class="fa-solid fa-bars text-xl"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Navigation Drawer -->
+        <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-slate-100 px-4 pt-3 pb-5 space-y-2 shadow-lg">
+            <div class="text-[11px] font-extrabold uppercase tracking-wider text-slate-400 px-2">Danh mục chính (Cột trái)</div>
+            <button onclick="app.navigate('home'); app.toggleMobileMenu()" class="w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold text-slate-700 hover:bg-slate-100 flex items-center gap-2.5">
+                <i class="fa-solid fa-house text-brand-600 w-5"></i> Trang chủ
+            </button>
+            <div class="space-y-1">
+                <button onclick="app.navigate('vocabulary'); app.toggleMobileMenu()" class="w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold text-slate-700 hover:bg-slate-100 flex items-center justify-between">
+                    <span class="flex items-center gap-2.5"><i class="fa-solid fa-layer-group text-purple-600 w-5"></i> Từ vựng</span>
+                    <span class="text-[10px] font-bold bg-purple-100 text-purple-700 px-2 py-0.5 rounded-full">600 Từ + 300 PV</span>
+                </button>
+                <div class="pl-8 pr-2 space-y-1">
+                    <button onclick="app.openVocabSection('600-words'); app.toggleMobileMenu()" class="w-full text-left px-3 py-1.5 rounded-lg text-xs font-bold text-slate-600 hover:bg-purple-50 hover:text-purple-700 flex items-center gap-2">
+                        <i class="fa-solid fa-book-bookmark text-purple-600 w-4"></i> 600 Từ Vựng TOEIC
+                    </button>
+                    <button onclick="app.openVocabSection('300-phrasal'); app.toggleMobileMenu()" class="w-full text-left px-3 py-1.5 rounded-lg text-xs font-bold text-slate-600 hover:bg-cyan-50 hover:text-cyan-700 flex items-center gap-2">
+                        <i class="fa-solid fa-puzzle-piece text-cyan-600 w-4"></i> 300 Phrasal Verbs
+                    </button>
+                </div>
+            </div>
+            <button onclick="app.navigate('grammar'); app.toggleMobileMenu()" class="w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold text-slate-700 hover:bg-slate-100 flex items-center gap-2.5">
+                <i class="fa-solid fa-spell-check text-emerald-600 w-5"></i> Ngữ pháp
+            </button>
+
+            <div class="pt-2 border-t border-slate-100 text-[11px] font-extrabold uppercase tracking-wider text-slate-400 px-2">Kỹ năng & Luyện đề (Thanh ngang)</div>
+            <div class="grid grid-cols-2 gap-1.5">
+                <button onclick="app.navigate('mock-tests'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-file-circle-check text-emerald-600"></i> Đề thi
+                </button>
+                <button onclick="app.navigate('listening'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-headphones text-indigo-600"></i> Nghe
+                </button>
+                <button onclick="app.navigate('speaking'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-microphone-lines text-rose-600"></i> Nói
+                </button>
+                <button onclick="app.navigate('reading'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-book-open-reader text-amber-600"></i> Đọc
+                </button>
+                <button onclick="app.navigate('writing'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-pen-nib text-purple-600"></i> Viết
+                </button>
+                <button onclick="app.navigate('dashboard'); app.toggleMobileMenu()" class="text-left px-3 py-2.5 rounded-xl text-xs font-bold text-slate-700 bg-slate-50 hover:bg-slate-100 flex items-center gap-2">
+                    <i class="fa-solid fa-chart-line text-teal-600"></i> Tiến độ
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- ================= BỐ CỤC CHÍNH: THANH DỌC BÊN TRÁI (SIDEBAR) + NỘI DUNG CHÍNH ================= -->
+    <div class="flex-1 flex w-full mx-auto">
+        <!-- Thanh dọc bên trái (Left Vertical Sidebar): Tinh gọn gồm Trang chủ, Từ vựng, Ngữ pháp -->
+        <aside id="left-sidebar" class="hidden lg:flex flex-col w-52 shrink-0 bg-white border-r border-slate-200/80 p-3 sticky top-16 h-[calc(100vh-4rem)] select-none">
+            <nav class="space-y-1">
+                <!-- 1. Trang chủ -->
+                <button data-nav="home" onclick="app.navigate('home')" class="nav-btn w-full text-left px-3 py-2.5 rounded-xl text-xs sm:text-sm font-bold text-slate-700 hover:bg-slate-100 transition flex items-center gap-2.5">
+                    <i class="fa-solid fa-house text-brand-600 w-5 text-center"></i>
+                    <span>Trang chủ</span>
+                </button>
+
+                <!-- 2. Từ vựng (Mở rộng 2 mục con khi bấm vào) -->
+                <div>
+                    <button data-nav="vocabulary" onclick="app.toggleSidebarVocabMenu()" class="nav-btn w-full text-left px-3 py-2.5 rounded-xl text-xs sm:text-sm font-bold text-slate-700 hover:bg-slate-100 transition flex items-center justify-between">
+                        <span class="flex items-center gap-2.5">
+                            <i class="fa-solid fa-layer-group text-purple-600 w-5 text-center"></i>
+                            <span>Từ vựng</span>
+                        </span>
+                        <i id="sidebar-vocab-chevron" class="fa-solid fa-chevron-down text-[10px] text-slate-400 transition-transform"></i>
+                    </button>
+                    <div id="sidebar-vocab-submenu" class="hidden pl-7 pr-1 pt-1 space-y-0.5">
+                        <button id="sidebar-sub-600" onclick="app.openVocabSection('600-words')" class="w-full text-left px-2.5 py-1.5 rounded-lg text-xs font-semibold text-slate-600 hover:bg-purple-50 hover:text-purple-700 transition flex items-center gap-2">
+                            <span class="w-1.5 h-1.5 rounded-full bg-purple-500"></span>
+                            <span>600 Từ vựng TOEIC</span>
+                        </button>
+                        <button id="sidebar-sub-300" onclick="app.openVocabSection('300-phrasal')" class="w-full text-left px-2.5 py-1.5 rounded-lg text-xs font-semibold text-slate-600 hover:bg-cyan-50 hover:text-cyan-700 transition flex items-center gap-2">
+                            <span class="w-1.5 h-1.5 rounded-full bg-cyan-500"></span>
+                            <span>300 Phrasal Verbs</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- 3. Ngữ pháp -->
+                <button data-nav="grammar" onclick="app.navigate('grammar')" class="nav-btn w-full text-left px-3 py-2.5 rounded-xl text-xs sm:text-sm font-bold text-slate-700 hover:bg-slate-100 transition flex items-center gap-2.5">
+                    <i class="fa-solid fa-spell-check text-emerald-600 w-5 text-center"></i>
+                    <span>Ngữ pháp</span>
+                </button>
+            </nav>
+
+            <!-- Đường kẻ mảnh & lối tắt Tiến độ gọn ở dưới -->
+            <div class="mt-auto pt-3 border-t border-slate-100 space-y-1">
+                <button data-nav="dashboard" onclick="app.navigate('dashboard')" class="nav-btn w-full text-left px-3 py-2 rounded-xl text-xs font-semibold text-slate-500 hover:bg-slate-100 hover:text-slate-800 transition flex items-center gap-2.5">
+                    <i class="fa-solid fa-chart-line text-teal-600 w-5 text-center"></i>
+                    <span>Tiến độ học tập</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- ================= MAIN VIEW CONTAINER ================= -->
+        <main id="app-main" class="flex-1 min-w-0">
+            <!-- Nội dung từng trang (Home, Mock Test, Exam Room, Listening, Speaking, Reading, Writing, Vocab, Grammar, Dashboard) sẽ được render mượt mà tại đây -->
+        </main>
+    </div>
+
+    <!-- ================= FOOTER ================= -->
+    <footer id="app-footer" class="bg-slate-900 text-slate-400 pt-14 pb-10 border-t border-slate-800 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pb-10 border-b border-slate-800">
+                <div>
+                    <div class="flex items-center gap-2.5 mb-4">
+                        <div class="w-9 h-9 rounded-xl bg-brand-600 flex items-center justify-center text-white">
+                            <i class="fa-solid fa-graduation-cap"></i>
+                        </div>
+                        <span class="font-extrabold text-xl text-white">Kai <span class="text-brand-400">Toeic</span></span>
+                    </div>
+                    <p class="text-sm text-slate-400 leading-relaxed mb-4">
+                        Nền tảng luyện thi TOEIC 4 kỹ năng (Listening, Reading, Speaking, Writing) trực tuyến thông minh với kho đề ETS sát thực tế và trợ lý AI chấm chữa chi tiết.
+                    </p>
+                    <div class="flex items-center gap-3 text-slate-300">
+                        <a href="#home" onclick="app.showToast('Đã mở trang Fanpage Kai Toeic!'); return false;" class="w-9 h-9 rounded-lg bg-slate-800 hover:bg-brand-600 flex items-center justify-center transition"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#home" onclick="app.showToast('Đã mở kênh YouTube Kai Toeic!'); return false;" class="w-9 h-9 rounded-lg bg-slate-800 hover:bg-rose-600 flex items-center justify-center transition"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="#home" onclick="app.showToast('Đã mở kênh TikTok Kai Toeic!'); return false;" class="w-9 h-9 rounded-lg bg-slate-800 hover:bg-slate-700 flex items-center justify-center transition"><i class="fa-brands fa-tiktok"></i></a>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-sm uppercase tracking-wider mb-4">Luyện thi 4 Kỹ năng</h4>
+                    <ul class="space-y-2.5 text-sm">
+                        <li><a href="#" onclick="app.navigate('mock-tests'); return false;" class="hover:text-white transition">Thi thử TOEIC Online (Full 200 câu)</a></li>
+                        <li><a href="#" onclick="app.navigate('listening'); return false;" class="hover:text-white transition">Luyện Nghe Chép Chính Tả (Dictation)</a></li>
+                        <li><a href="#" onclick="app.navigate('reading'); return false;" class="hover:text-white transition">Đọc hiểu Part 7 Song Ngữ Anh-Việt</a></li>
+                        <li><a href="#" onclick="app.navigate('speaking-writing'); return false;" class="hover:text-white transition">Phòng thi ảo TOEIC Speaking & Writing</a></li>
+                        <li><a href="#" onclick="app.openVocabSection('600-words'); return false;" class="hover:text-white transition">Từ vựng: 600 Từ vựng TOEIC & 300 Phrasal Verbs</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-sm uppercase tracking-wider mb-4">Tiện ích Học viên</h4>
+                    <ul class="space-y-2.5 text-sm">
+                        <li><a href="#" onclick="app.navigate('dashboard'); return false;" class="hover:text-white transition">Bảng theo dõi lộ trình cá nhân</a></li>
+                        <li><a href="#" onclick="app.openSavedWordsModal(); return false;" class="hover:text-white transition">Sổ tay từ vựng cá nhân</a></li>
+                        <li><a href="#" onclick="app.openAuthModal(); return false;" class="hover:text-white transition">Đồng bộ lịch sử làm bài</a></li>
+                        <li><a href="#" onclick="app.openVipModal(); return false;" class="hover:text-white transition text-amber-400 font-semibold"><i class="fa-solid fa-crown mr-1"></i> Nâng cấp tài khoản VIP Pro</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-sm uppercase tracking-wider mb-4">Cài đặt Ứng dụng (PWA)</h4>
+                    <p class="text-sm text-slate-400 mb-3">Học mọi lúc mọi nơi trên điện thoại và máy tính với tốc độ siêu mượt.</p>
+                    <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 space-y-2">
+                        <div class="flex items-center gap-3">
+                            <i class="fa-solid fa-mobile-screen-button text-2xl text-brand-400"></i>
+                            <div class="text-xs">
+                                <p class="text-white font-bold">Kai Toeic Web App</p>
+                                <p class="text-slate-400">Hỗ trợ iOS, Android, Windows, macOS</p>
+                            </div>
+                        </div>
+                        <button onclick="app.showToast('Ứng dụng đã sẵn sàng hoạt động ngoại tuyến trên trình duyệt của bạn!')" class="w-full py-2 bg-brand-600 hover:bg-brand-500 text-white rounded-lg text-xs font-bold transition">
+                            <i class="fa-solid fa-download mr-1"></i> Lưu Web App vào máy
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
+                <p>© 2026 Kai Toeic. Thiết kế &amp; phát triển chuẩn trải nghiệm thực tế.</p>
+                <p>TOEIC® is a registered trademark of Educational Testing Service (ETS).</p>
+            </div>
+        </div>
+    </footer>
+
+    <button
+        id="focus-mode-toggle"
+        type="button"
+        onclick="app.toggleFocusMode()"
+        aria-label="Bật chế độ tập trung"
+        aria-pressed="false"
+        title="Chỉ hoạt động trong bài tập hoặc phòng thi"
+    >
+        <i class="fa-solid fa-bullseye text-base" aria-hidden="true"></i>
+        <span class="focus-mode-label">Tập trung</span>
+    </button>
+
+    <!-- ================= MODAL ĐĂNG NHẬP GOOGLE & QUẢN LÝ DỮ LIỆU ================= -->
+    <div id="auth-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4 overflow-y-auto">
+        <div class="bg-white rounded-2xl max-w-lg w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-fadeIn my-auto">
+            <button onclick="app.closeAuthModal()" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 flex items-center justify-center text-slate-500">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="text-center mb-5">
+                <div class="w-12 h-12 rounded-2xl bg-brand-600 text-white flex items-center justify-center mx-auto mb-2.5 shadow-lg shadow-brand-500/30">
+                    <i class="fa-brands fa-google text-xl"></i>
+                </div>
+                <h3 class="text-xl font-extrabold text-slate-900">Đăng nhập Tài khoản Google</h3>
+                <p class="text-xs sm:text-sm text-slate-500 mt-1">Tự động lưu trữ & đồng bộ lịch sử điểm thi, 600 từ vựng, 300 Phrasal Verbs và sổ tay cá nhân theo từng email Google</p>
+            </div>
+
+            <!-- Trạng thái Kết nối Cloud / Local -->
+            <div id="auth-cloud-status-banner" class="mb-4 p-3 rounded-xl bg-slate-50 border border-slate-200 flex items-center justify-between gap-2 text-xs">
+                <!-- Render động bởi app.js -->
+            </div>
+
+            <!-- Danh sách tài khoản Google đã lưu trên máy (Google Account Chooser) -->
+            <div id="saved-google-accounts-section" class="mb-4 hidden">
+                <label class="block text-[11px] font-extrabold text-slate-400 uppercase tracking-wider mb-2">Chọn tài khoản Google đã đăng nhập trên thiết bị này:</label>
+                <div id="saved-google-accounts-list" class="space-y-2 max-h-40 overflow-y-auto pr-1">
+                    <!-- Render động -->
+                </div>
+            </div>
+
+            <!-- Nút Đăng nhập bằng Popup Google OAuth (Firebase) -->
+            <button onclick="app.loginWithGooglePopup()" class="w-full py-3 px-4 rounded-xl border-2 border-brand-200 bg-brand-50/50 hover:bg-brand-100/60 hover:border-brand-500 flex items-center justify-center gap-3 font-extrabold text-sm text-slate-800 transition mb-4 shadow-sm">
+                <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="Google" class="w-5 h-5" onerror="this.style.display='none'" />
+                <span>Đăng nhập / Chọn tài khoản Google</span>
+            </button>
+
+            <div class="relative flex py-1.5 items-center mb-4">
+                <div class="flex-grow border-t border-slate-200"></div>
+                <span class="flex-shrink mx-3 text-[11px] text-slate-400 uppercase font-bold">Nhập tài khoản Gmail để tạo / chuyển hồ sơ</span>
+                <div class="flex-grow border-t border-slate-200"></div>
+            </div>
+
+            <form onsubmit="app.handleCustomLogin(event)" class="space-y-3.5">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    <div>
+                        <label class="block text-xs font-bold text-slate-700 uppercase mb-1">Tên hiển thị Google</label>
+                        <input type="text" id="auth-name" required placeholder="VD: Nguyễn Minh Anh" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:border-brand-600 focus:ring-2 focus:ring-brand-200 outline-none text-sm" />
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold text-slate-700 uppercase mb-1">Mục tiêu TOEIC</label>
+                        <select id="auth-target" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:border-brand-600 outline-none text-sm font-semibold text-slate-700">
+                            <option value="550">550+ TOEIC</option>
+                            <option value="650">650+ TOEIC</option>
+                            <option value="750" selected>750+ TOEIC</option>
+                            <option value="850">850+ TOEIC</option>
+                            <option value="950">950+ TOEIC</option>
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-xs font-bold text-slate-700 uppercase mb-1">Địa chỉ Gmail của bạn</label>
+                    <input type="email" id="auth-email" required placeholder="tenban@gmail.com" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:border-brand-600 focus:ring-2 focus:ring-brand-200 outline-none text-sm" />
+                </div>
+                <button type="submit" class="w-full py-3 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-extrabold text-sm shadow-lg shadow-brand-600/25 transition flex items-center justify-center gap-2">
+                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                    <span>Đăng nhập & Đồng bộ dữ liệu vào Gmail này</span>
+                </button>
+            </form>
+
+            <!-- Tiện ích Sao lưu / Khôi phục & Cấu hình Cloud -->
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-2 text-xs">
+                <div class="flex items-center gap-2">
+                    <button type="button" onclick="app.exportUserDataJson()" class="px-2.5 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold flex items-center gap-1.5 transition">
+                        <i class="fa-solid fa-download text-brand-600"></i> Tải file sao lưu (.json)
+                    </button>
+                    <label class="cursor-pointer px-2.5 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold flex items-center gap-1.5 transition">
+                        <i class="fa-solid fa-upload text-emerald-600"></i> Khôi phục dữ liệu
+                        <input type="file" accept=".json" onchange="app.importUserDataJson(event)" class="hidden" />
+                    </label>
+                </div>
+                <button type="button" onclick="document.getElementById('firebase-config-panel').classList.toggle('hidden')" class="text-slate-400 hover:text-brand-600 font-semibold underline">
+                    <i class="fa-solid fa-gear mr-0.5"></i> Cấu hình Firebase Cloud
+                </button>
+            </div>
+
+            <!-- Panel cấu hình Firebase tùy chọn cho người quản trị -->
+            <div id="firebase-config-panel" class="hidden mt-3 p-3.5 rounded-xl bg-slate-900 text-slate-200 text-xs space-y-2.5">
+                <div class="flex items-center justify-between">
+                    <span class="font-extrabold text-amber-300"><i class="fa-solid fa-fire mr-1"></i>Kết nối Google Firebase Cloud (Tùy chọn)</span>
+                    <span class="text-[10px] text-slate-400">Auth + Firestore</span>
+                </div>
+                <p class="text-[11px] text-slate-400 leading-relaxed">
+                    Mặc định hệ thống đã tự động lưu trữ tách biệt cho từng Gmail ngay trên trình duyệt. Nếu bạn muốn bật cửa sổ Google OAuth thật và đồng bộ đám mây giữa nhiều thiết bị, hãy dán JSON cấu hình Firebase Project (`firebaseConfig`) vào dưới đây:
+                </p>
+                <textarea id="firebase-config-input" rows="4" placeholder='{"apiKey": "AIza...", "authDomain": "your-app.firebaseapp.com", "projectId": "your-app"}' class="w-full p-2.5 rounded-lg bg-slate-800 border border-slate-700 text-emerald-300 font-mono text-[11px] outline-none focus:border-amber-400"></textarea>
+                <div class="flex items-center justify-end gap-2">
+                    <button type="button" onclick="app.clearFirebaseConfig()" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-rose-950 text-rose-400 font-bold">Xóa cấu hình</button>
+                    <button type="button" onclick="app.saveFirebaseConfig()" class="px-3.5 py-1.5 rounded-lg bg-amber-400 hover:bg-amber-300 text-slate-950 font-extrabold">Lưu & Kết nối Firebase</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= MODAL SỔ TAY TỪ VỰNG ĐÃ LƯU ================= -->
+    <div id="saved-words-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4">
+        <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[85vh] flex flex-col shadow-2xl border border-slate-100">
+            <div class="p-5 border-b border-slate-200 flex items-center justify-between">
+                <div class="flex items-center gap-2.5">
+                    <div class="w-9 h-9 rounded-xl bg-brand-100 text-brand-700 flex items-center justify-center">
+                        <i class="fa-solid fa-bookmark"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-extrabold text-slate-900 text-lg">Sổ tay từ vựng cá nhân</h3>
+                        <p class="text-xs text-slate-500">Các từ vựng bạn đã lưu khi làm đề thi hoặc đọc bài Part 7</p>
+                    </div>
+                </div>
+                <button onclick="app.closeSavedWordsModal()" class="w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 flex items-center justify-center text-slate-500">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div id="saved-words-body" class="p-5 overflow-y-auto flex-1 space-y-3">
+                <!-- Render động -->
+            </div>
+            <div class="p-4 border-t border-slate-200 bg-slate-50 rounded-b-2xl flex items-center justify-between">
+                <span class="text-xs text-slate-500">Mẹo: Bấm vào biểu tượng loa để nghe phát âm chuẩn Mỹ.</span>
+                <button onclick="app.closeSavedWordsModal()" class="px-4 py-2 bg-slate-800 text-white text-xs font-bold rounded-lg hover:bg-slate-700">Đóng</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= MODAL NÂNG CẤP VIP PRO ================= -->
+    <div id="vip-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4">
+        <div class="bg-white rounded-2xl max-w-lg w-full p-6 sm:p-8 shadow-2xl border border-amber-200 relative">
+            <button onclick="app.closeVipModal()" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 flex items-center justify-center text-slate-500">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="text-center">
+                <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-extrabold uppercase mb-3">
+                    <i class="fa-solid fa-crown text-amber-500"></i> Kai Toeic VIP Pro
+                </span>
+                <h3 class="text-2xl font-extrabold text-slate-900">Mở khóa toàn bộ Kho đề & AI</h3>
+                <p class="text-sm text-slate-600 mt-1 mb-6">Bạn có thể kích hoạt dùng thử <strong>VIP Pro Miễn Phí</strong> ngay trên bản Demo này để mở khóa 100% đề thi và tính năng cao cấp!</p>
+            </div>
+            <div class="bg-slate-50 p-4 rounded-xl border border-slate-200 space-y-2.5 text-sm mb-6">
+                <div class="flex items-center gap-2.5 text-slate-700">
+                    <i class="fa-solid fa-circle-check text-emerald-500"></i>
+                    <span>Mở khóa toàn bộ đề thi <strong>ETS 2025 & ETS 2026</strong> độc quyền</span>
+                </div>
+                <div class="flex items-center gap-2.5 text-slate-700">
+                    <i class="fa-solid fa-circle-check text-emerald-500"></i>
+                    <span>Chấm điểm AI không giới hạn cho <strong>TOEIC Speaking & Writing</strong></span>
+                </div>
+                <div class="flex items-center gap-2.5 text-slate-700">
+                    <i class="fa-solid fa-circle-check text-emerald-500"></i>
+                    <span>Xem giải thích chi tiết & bản dịch song ngữ cho toàn bộ 200 câu</span>
+                </div>
+            </div>
+            <button onclick="app.activateFreeVip()" class="w-full py-3.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white font-extrabold text-sm shadow-lg shadow-amber-500/30 transition">
+                <i class="fa-solid fa-bolt mr-1"></i> Kích hoạt VIP Pro Ngay (Miễn phí 100% bản Demo)
+            </button>
+        </div>
+    </div>
+
+    <!-- ================= MODAL BỘ CHỌN TÀI KHOẢN GOOGLE (GOOGLE OAUTH ACCOUNT CHOOSER) ================= -->
+    <div id="google-chooser-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-[60] hidden items-center justify-center p-4">
+        <div class="bg-white rounded-3xl max-w-[420px] w-full p-6 sm:p-8 shadow-2xl border border-slate-200 relative animate-fadeIn">
+            <button onclick="app.closeGoogleChooserModal()" class="absolute top-4 right-4 w-8 h-8 rounded-full hover:bg-slate-100 flex items-center justify-center text-slate-400 hover:text-slate-600">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+
+            <!-- Header chuẩn Google Sign-In -->
+            <div class="text-center mb-6">
+                <div class="flex items-center justify-center gap-2 mb-3">
+                    <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="Google" class="w-6 h-6" />
+                    <span class="text-sm font-bold text-slate-600">Đăng nhập bằng Google</span>
+                </div>
+                <h3 class="text-xl font-extrabold text-slate-900">Chọn một tài khoản</h3>
+                <p class="text-xs sm:text-sm text-slate-500 mt-1">để tiếp tục tới <strong class="text-brand-600">Kai Toeic</strong></p>
+            </div>
+
+            <!-- Danh sách tài khoản Google trên trình duyệt -->
+            <div id="google-chooser-accounts-list" class="divide-y divide-slate-100 border-y border-slate-200 max-h-60 overflow-y-auto mb-4">
+                <!-- Render động bởi app.js -->
+            </div>
+
+            <!-- Nút Sử dụng một tài khoản Google khác -->
+            <button type="button" onclick="app.toggleAddGoogleAccountForm()" class="w-full py-3 px-3 rounded-xl hover:bg-slate-50 flex items-center gap-3.5 text-left transition">
+                <div class="w-9 h-9 rounded-full bg-slate-100 text-slate-600 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-user-plus text-xs"></i>
+                </div>
+                <span class="text-sm font-bold text-slate-700">Sử dụng một tài khoản khác</span>
+            </button>
+
+            <!-- Form nhập Gmail mới (khi bấm Sử dụng một tài khoản khác) -->
+            <form id="google-chooser-add-form" onsubmit="app.handleGoogleChooserSubmit(event)" class="hidden mt-3 pt-3 border-t border-slate-100 space-y-3">
+                <div>
+                    <label class="block text-[11px] font-bold text-slate-600 uppercase mb-1">Địa chỉ Gmail của bạn</label>
+                    <input type="email" id="google-chooser-email" required placeholder="tenban@gmail.com" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:border-brand-600 focus:ring-2 focus:ring-brand-200 outline-none text-sm" />
+                </div>
+                <div>
+                    <label class="block text-[11px] font-bold text-slate-600 uppercase mb-1">Họ và tên hiển thị</label>
+                    <input type="text" id="google-chooser-name" required placeholder="VD: Nguyễn Minh Anh" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:border-brand-600 focus:ring-2 focus:ring-brand-200 outline-none text-sm" />
+                </div>
+                <button type="submit" class="w-full py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-extrabold text-xs sm:text-sm shadow-md transition">
+                    Tiếp tục với tài khoản Google này
+                </button>
+            </form>
+
+            <p class="text-[11px] text-slate-400 leading-relaxed mt-5 text-center">
+                Bằng cách tiếp tục, Google sẽ chia sẻ tên, địa chỉ email và ảnh hồ sơ của bạn với Kai Toeic để tự động đồng bộ tiến độ học tập.
+            </p>
+        </div>
+    </div>
+
+    <!-- ================= TOAST NOTIFICATION ================= -->
+    <div id="toast-container" class="fixed bottom-24 right-5 z-50 flex flex-col gap-2 pointer-events-none"></div>
+
+    <!-- ================= AI HỖ TRỢ DỊCH THUẬT (FLOATING CHAT WIDGET) ================= -->
+    <div id="ai-translator-widget" class="fixed bottom-5 right-5 z-[55] flex flex-col items-end">
+        <div id="ai-translator-popup" role="dialog" aria-label="AI Trợ lý Dịch thuật" class="hidden w-[340px] sm:w-[380px] max-w-[calc(100vw-2rem)] bg-white rounded-2xl shadow-2xl border border-slate-200 flex-col overflow-hidden mb-3">
+            <!-- Header -->
+            <div class="bg-gradient-to-r from-brand-700 to-indigo-700 text-white px-4 py-3 flex items-center justify-between gap-2">
+                <div class="flex items-center gap-2.5 min-w-0">
+                    <div class="w-8 h-8 rounded-xl bg-white/15 flex items-center justify-center shrink-0">
+                        <i class="fa-solid fa-language text-base" aria-hidden="true"></i>
+                    </div>
+                    <div class="min-w-0">
+                        <h3 class="font-extrabold text-sm leading-tight truncate">AI Trợ lý Dịch thuật</h3>
+                        <p class="text-[11px] text-blue-100 truncate">Anh ⇄ Việt • Từ điển TOEIC</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-1 shrink-0">
+                    <button id="ai-trans-dir-btn" type="button" onclick="app.cycleTranslatorDirection()" title="Đổi chiều dịch" class="px-2 py-1 rounded-lg bg-white/15 hover:bg-white/25 text-[11px] font-bold transition whitespace-nowrap">
+                        Tự động
+                    </button>
+                    <button type="button" onclick="app.clearTranslatorChat()" title="Xóa đoạn chat" aria-label="Xóa đoạn chat" class="w-7 h-7 rounded-lg hover:bg-white/20 flex items-center justify-center transition">
+                        <i class="fa-solid fa-trash-can text-xs" aria-hidden="true"></i>
+                    </button>
+                    <button type="button" onclick="app.toggleTranslatorChat(false)" title="Thu gọn" aria-label="Thu gọn hộp thoại" class="w-7 h-7 rounded-lg hover:bg-white/20 flex items-center justify-center transition">
+                        <i class="fa-solid fa-xmark text-sm" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Khung tin nhắn -->
+            <div id="ai-translator-messages" class="h-80 overflow-y-auto p-3.5 space-y-3 bg-slate-50/80 text-xs sm:text-sm">
+                <!-- Render động bởi app.js -->
+            </div>
+
+            <!-- Gợi ý nhanh -->
+            <div class="px-3 py-2 bg-white border-t border-slate-100 flex items-center gap-1.5 overflow-x-auto text-[11px]">
+                <button type="button" onclick="app.translateSelectedText()" class="px-2.5 py-1 rounded-full bg-brand-50 hover:bg-brand-100 text-brand-700 font-bold whitespace-nowrap transition flex items-center gap-1 shrink-0">
+                    <i class="fa-solid fa-highlighter text-[10px]" aria-hidden="true"></i> Dịch chữ bôi đen
+                </button>
+                <button type="button" onclick="app.quickTranslate('reimbursement')" class="px-2 py-1 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-600 font-semibold whitespace-nowrap shrink-0 transition">reimbursement</button>
+                <button type="button" onclick="app.quickTranslate('itinerary')" class="px-2 py-1 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-600 font-semibold whitespace-nowrap shrink-0 transition">itinerary</button>
+                <button type="button" onclick="app.quickTranslate('call off')" class="px-2 py-1 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-600 font-semibold whitespace-nowrap shrink-0 transition">call off</button>
+            </div>
+
+            <!-- Form nhập liệu -->
+            <form onsubmit="app.handleTranslatorSubmit(event)" class="p-2.5 bg-white border-t border-slate-200 flex items-center gap-2">
+                <input
+                    id="ai-translator-input"
+                    type="text"
+                    required
+                    autocomplete="off"
+                    placeholder="Nhập từ, cụm từ hoặc câu cần dịch..."
+                    class="flex-1 min-w-0 px-3 py-2 rounded-xl border border-slate-300 focus:border-brand-600 focus:ring-2 focus:ring-brand-200 outline-none text-xs sm:text-sm"
+                />
+                <button type="submit" aria-label="Gửi nội dung cần dịch" class="w-9 h-9 rounded-xl bg-brand-600 hover:bg-brand-700 text-white flex items-center justify-center shrink-0 transition shadow-sm">
+                    <i class="fa-solid fa-paper-plane text-xs" aria-hidden="true"></i>
+                </button>
+            </form>
+        </div>
+
+        <!-- Nút icon nhỏ ở góc dưới bên phải -->
+        <button
+            id="ai-translator-fab"
+            type="button"
+            onclick="app.toggleTranslatorChat()"
+            aria-label="Mở AI Hỗ trợ Dịch thuật"
+            aria-expanded="false"
+            title="AI Hỗ trợ Dịch thuật"
+            class="w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-gradient-to-tr from-brand-600 to-indigo-600 hover:from-brand-700 hover:to-indigo-700 text-white shadow-xl shadow-brand-600/30 hover:scale-105 active:scale-95 transition flex items-center justify-center relative"
+        >
+            <i id="ai-translator-fab-icon" class="fa-solid fa-language text-xl" aria-hidden="true"></i>
+            <span class="absolute -top-1 -right-1 px-1.5 py-0.5 rounded-full bg-amber-400 text-slate-900 text-[9px] font-extrabold leading-none shadow border border-white">AI</span>
+        </button>
+    </div>
+
+    <!-- Google Identity Services (GIS), Supabase Auth & Firebase SDK (Kết nối trực tiếp tài khoản Google thật) -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+
+    <!-- Scripts -->
+    <script src="vocab_data.js"></script>
+    <script src="phrasal_verbs_data.js"></script>
+    <script src="grammar_lectures.js"></script>
+    <script src="data.js"></script>
+    <script src="mock_tests_data.js"></script>
+    <script src="listening/lv1-test-01.js?v=20261121"></script>
+    <script src="listening/lv1-test-02.js?v=20261122"></script>
+    <script src="listening/lv1-test-03.js?v=20261122"></script>
+    <script src="listening/lv2-test-01.js?v=20261121"></script>
+    <script src="listening/lv3-test-01.js?v=20261117"></script>
+    <script src="listening/lv4-test-01.js?v=20261121"></script>
+    <script src="listening/lv4-test-02.js?v=20261121"></script>
+    <script src="listening/lv5-test-01.js?v=20261121"></script>
+    <script src="listening/lv6-test-01.js?v=20261117c"></script>
+    <script src="listening/lv6-test-02.js?v=20261121"></script>
+    <script src="listening/lv6-test-03.js?v=20261121"></script>
+    <script src="listening/lv6-test-04.js?v=20261121"></script>
+    <script src="listening/lv5-test-02.js?v=20261121"></script>
+    <script src="listening/lv5-test-03.js?v=20261121"></script>
+    <script src="reading/lv1-test-01.js"></script>
+    <script src="reading/lv1-test-02.js"></script>
+    <script src="reading/lv1-test-03.js"></script>
+    <script src="reading/lv2-test-01.js"></script>
+    <script src="reading/lv2-test-02.js?v=20261121"></script>
+    <script src="reading/lv4-test-01.js?v=20261119"></script>
+    <script src="reading/lv4-test-02.js?v=20261121"></script>
+    <script src="reading/lv5-test-01.js?v=20261116b"></script>
+    <script src="reading/lv6-test-01.js?v=20261116b"></script>
+    <script src="reading/test-01.js"></script>
+    <script src="reading/lv3-test-02.js?v=20261120"></script>
+    <script src="app.js?v=20261122c"></script>
+</body>
+</html>

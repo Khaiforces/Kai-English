@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "office_paperwork",
+    "imageCaption": "Một người đàn ông mặc sơ mi ngồi tại bàn làm việc văn phòng, tay lật xem xấp giấy tờ; trên bàn có chiếc laptop đang mở và một tách cà phê.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q1.jpg",
+    "options": [
+      "A man is looking over some paperwork at his desk.",
+      "The man is looking after the paperwork for his colleague.",
+      "A coffee cup is being placed on the filing cabinet.",
+      "A laptop has been folded and put into the drawer."
+    ],
+    "correct": "A",
+    "translation": "(A) Một người đàn ông đang xem lại giấy tờ tại bàn làm việc của anh ta.\n(B) Người đàn ông đang trông nom giấy tờ cho đồng nghiệp.\n(C) Một chiếc tách cà phê đang được đặt lên tủ hồ sơ.\n(D) Một chiếc máy tính xách tay đã được gấp lại và cất vào ngăn kéo.",
+    "explanation": "Bối cảnh: người đàn ông ngồi ở bàn, cầm xấp giấy và lật từng trang, máy tính vẫn mở, tách cà phê đặt trên bàn chứ không phải trên tủ hồ sơ. Vì vậy (A) đúng. (B) là bẫy gần âm 'look over' (xem lại) với 'look after' (trông nom). (C) sai vật thể/vị trí, (D) sai trạng thái vì máy tính đang mở và không có ai cất vào ngăn kéo.",
+    "vocab": [
+      [
+        "paperwork",
+        "n",
+        "giấy tờ, hồ sơ"
+      ],
+      [
+        "look over",
+        "phr",
+        "xem lại, kiểm tra qua"
+      ],
+      [
+        "filing cabinet",
+        "n",
+        "tủ đựng hồ sơ"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "warehouse_pallet",
+    "imageCaption": "Hai công nhân mặc áo phản quang đang bê và xếp các thùng các-tông niêm phong lên một tấm pa-lét gỗ trong nhà kho; phía sau có một xe nâng đang đỗ.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q2.jpg",
+    "options": [
+      "A forklift is being loaded onto a delivery truck.",
+      "Boxes are being stacked on a wooden pallet.",
+      "A pallet is being laid on top of the boxes.",
+      "The workers are unpacking the boxes in the aisle."
+    ],
+    "correct": "B",
+    "translation": "(A) Một chiếc xe nâng đang được đưa lên xe tải giao hàng.\n(B) Những chiếc thùng đang được xếp chồng lên một pa-lét gỗ.\n(C) Một pa-lét đang được đặt lên trên những chiếc thùng.\n(D) Những người công nhân đang mở thùng hàng ở lối đi.",
+    "explanation": "Bối cảnh: hai công nhân bê và xếp các thùng giấy chồng lên pa-lét gỗ, xe nâng đỗ cách đó vài mét nhưng không hoạt động. Do đó (B) đúng. (C) đảo ngược chủ thể bị tác động - pa-lét nằm dưới chứ không nằm trên thùng. (A) sai hành động vì xe nâng đang đỗ, (D) sai vì thùng còn nguyên niêm phong, không ai mở.",
+    "vocab": [
+      [
+        "pallet",
+        "n",
+        "pa-lét, bệ gỗ kê hàng"
+      ],
+      [
+        "stack",
+        "v",
+        "xếp chồng"
+      ],
+      [
+        "forklift",
+        "n",
+        "xe nâng"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "conference_chart",
+    "imageCaption": "Một nữ nhân viên đứng bên màn hình treo tường trong phòng họp, tay chỉ vào biểu đồ doanh số; các đồng nghiệp ngồi quanh bàn chăm chú lắng nghe.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q3.jpg",
+    "options": [
+      "A chart is being taken off the wall.",
+      "The chairs are being arranged around the table.",
+      "A woman is pointing at a chart on the screen.",
+      "All the participants are leaving the meeting room."
+    ],
+    "correct": "C",
+    "translation": "(A) Một biểu đồ đang được gỡ khỏi tường.\n(B) Những chiếc ghế đang được kê quanh bàn.\n(C) Một người phụ nữ đang chỉ vào biểu đồ trên màn hình.\n(D) Tất cả người tham dự đang rời khỏi phòng họp.",
+    "explanation": "Bối cảnh: người phụ nữ đứng cạnh màn hình, tay chỉ vào biểu đồ doanh số đang chiếu, các đồng nghiệp ngồi nghe. Nên (C) đúng. (A) sai vì biểu đồ ở trên màn hình chứ không treo trên tường và không ai gỡ. (B) sai vì ghế đã kê sẵn và mọi người đang ngồi. (D) sai thể hiện: người tham dự vẫn ở trong phòng.",
+    "vocab": [
+      [
+        "chart",
+        "n",
+        "biểu đồ"
+      ],
+      [
+        "screen",
+        "n",
+        "màn hình"
+      ],
+      [
+        "participant",
+        "n",
+        "người tham dự"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "reception_signing",
+    "imageCaption": "Một vị khách đang đứng ký vào mẫu đơn tại quầy lễ tân trong sảnh tòa nhà, đối diện là nữ nhân viên lễ tân đứng quan sát.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q4.jpg",
+    "options": [
+      "A name badge is being printed for the receptionist.",
+      "The receptionist is answering a phone call at her counter.",
+      "Visitors are waiting in line outside the building.",
+      "A visitor is signing a form at the front desk."
+    ],
+    "correct": "D",
+    "translation": "(A) Một thẻ tên đang được in cho nhân viên lễ tân.\n(B) Nhân viên lễ tân đang trả lời điện thoại tại quầy.\n(C) Khách đang xếp hàng chờ bên ngoài tòa nhà.\n(D) Một vị khách đang ký vào mẫu đơn tại quầy lễ tân.",
+    "explanation": "Bối cảnh: vị khách đứng tựa vào quầy, cầm bút ký vào mẫu đơn đăng ký, nhân viên lễ tân đứng đối diện và không cầm ống nghe. Vậy (D) đúng. (B) sai hành động, (C) sai vì khách đứng ngay tại quầy chứ không xếp hàng ngoài tòa nhà. (A) là bẫy cùng nhóm hành động tại quầy (in thẻ tên so với ký giấy).",
+    "vocab": [
+      [
+        "front desk",
+        "n",
+        "quầy lễ tân"
+      ],
+      [
+        "visitor",
+        "n",
+        "khách đến thăm, khách"
+      ],
+      [
+        "sign",
+        "v",
+        "ký tên"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "construction_site",
+    "imageCaption": "Ba công nhân đội mũ bảo hộ màu vàng và mặc áo phản quang đứng tại công trường đang thi công cạnh giàn giáo và vật liệu; phía sau là cần cẩu tháp.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q5.jpg",
+    "options": [
+      "Construction workers are wearing hard hats.",
+      "A crane is being repaired by two workers.",
+      "The building has been completely finished.",
+      "Materials are being removed from the scaffolding."
+    ],
+    "correct": "A",
+    "translation": "(A) Những người công nhân xây dựng đang đội mũ bảo hộ.\n(B) Một chiếc cần cẩu đang được hai công nhân sửa chữa.\n(C) Tòa nhà đã được hoàn thiện xong.\n(D) Vật liệu đang được dỡ xuống khỏi giàn giáo.",
+    "explanation": "Bối cảnh: ba công nhân đội mũ bảo hộ đứng dưới chân công trình, cần cẩu đang nâng một thanh dầm, giàn giáo vẫn còn vật liệu chờ dùng. Do đó (A) đúng. (B) sai hành động vì cần cẩu đang làm việc chứ không được sửa. (C) sai trạng thái: công trình còn dang dở. (D) sai chiều hành động, vật liệu đang được đưa lên chứ không dỡ xuống.",
+    "vocab": [
+      [
+        "hard hat",
+        "n",
+        "mũ bảo hộ"
+      ],
+      [
+        "crane",
+        "n",
+        "cần cẩu"
+      ],
+      [
+        "scaffolding",
+        "n",
+        "giàn giáo"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "retail_shelves",
+    "imageCaption": "Một nữ nhân viên cửa hàng đang dùng hai tay sắp xếp các gói hàng hóa lên kệ trong lối đi chứa đầy sản phẩm.",
+    "imageUrl": "listening/images/lv5-test-01/part1/q6.jpg",
+    "options": [
+      "A customer is paying for her purchases at the counter.",
+      "The shelves have been emptied for cleaning.",
+      "A clerk is arranging merchandise on a shelf.",
+      "A price tag is being removed from a shirt."
+    ],
+    "correct": "C",
+    "translation": "(A) Một khách hàng đang thanh toán hàng đã mua tại quầy.\n(B) Các kệ hàng đã được dọn trống để lau chùi.\n(C) Một nhân viên đang sắp xếp hàng hóa lên kệ.\n(D) Một chiếc nhãn giá đang được gỡ khỏi áo sơ mi.",
+    "explanation": "Ảnh cho thấy một nhân viên cửa hàng đang dùng hai tay sắp xếp các gói hàng hóa lên kệ. Vì vậy (C) đúng. (A) sai vì không có khách thanh toán tại quầy thu ngân; (B) sai vì các kệ đầy ắp hàng hóa chứ không hề trống; (D) sai vì không có ai gỡ nhãn giá khỏi áo sơ mi.",
+    "vocab": [
+      [
+        "merchandise",
+        "n",
+        "hàng hóa"
+      ],
+      [
+        "shelf",
+        "n",
+        "kệ hàng"
+      ],
+      [
+        "arrange",
+        "v",
+        "sắp xếp"
+      ]
+    ],
+    "questionText": "Look at the picture and choose the statement that best describes it."
+  }
+]

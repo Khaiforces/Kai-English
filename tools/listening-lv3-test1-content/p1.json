@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "office_desk_papers",
+    "imageCaption": "Một nam nhân viên mặc áo sơ mi thắt cà vạt đang ngồi tại bàn làm việc và đọc qua giấy tờ; trên bàn có nhiều chồng tài liệu, sách dày và đèn bàn.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A stack of documents is being sorted into labeled folders on the desk.",
+      "An employee is sitting at a desk while reading through some paperwork.",
+      "The desktop computer is being carried out of the room by two workers.",
+      "A glass of water has been spilled across the keyboard of the computer."
+    ],
+    "correct": "B",
+    "translation": "(A) Một xấp tài liệu đang được phân loại vào các bìa hồ sơ có dán nhãn trên bàn.\n(B) Một nhân viên đang ngồi tại bàn làm việc và đọc qua một số giấy tờ.\n(C) Chiếc máy tính để bàn đang được hai công nhân khiêng ra khỏi phòng.\n(D) Một cốc nước đã bị đổ tràn lên bàn phím của máy tính.",
+    "explanation": "Người đàn ông ngồi tại bàn và mở tài liệu trên tay để đọc, đúng với việc đang đọc giấy tờ tại chỗ làm. Các phương án còn lại đều dùng bị động tiếp diễn để mô tả hành động không hề xảy ra: tài liệu không bị phân loại vào bìa hồ sơ, máy tính không bị khiêng đi, và không có cốc nước nào bị đổ.",
+    "vocab": [
+      [
+        "stack",
+        "n",
+        "xấp, chồng (giấy tờ)"
+      ],
+      [
+        "paperwork",
+        "n",
+        "giấy tờ, hồ sơ công việc"
+      ],
+      [
+        "spill",
+        "v",
+        "làm đổ, tràn ra"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q1.jpg"
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "retail_shelves",
+    "imageCaption": "Một nhân viên cửa hàng đang đặt các hộp hàng lên kệ cao; phía sau có một khách hàng đẩy xe hàng đi qua lối đi.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Boxes of goods are being stacked onto the shelves by a store worker.",
+      "A customer is paying for groceries at the front counter near the entrance.",
+      "The shopping cart has been left blocking the aisle in the middle of the store.",
+      "Price tags are being printed and attached to each item on display."
+    ],
+    "correct": "A",
+    "translation": "(A) Những hộp hàng đang được một nhân viên cửa hàng xếp lên các kệ hàng.\n(B) Một khách hàng đang thanh toán thực phẩm tại quầy phía trước gần lối vào.\n(C) Chiếc xe đẩy hàng đã bị bỏ lại chắn giữa lối đi trong cửa hàng.\n(D) Các nhãn giá đang được in và gắn lên từng món hàng trưng bày.",
+    "explanation": "Nhân viên đang xếp hộp hàng lên kệ, nên câu bị động tiếp diễn mô tả việc xếp hàng lên kệ là đúng hiện trường. Khách hàng trong hình chỉ đẩy xe đi qua chứ không thanh toán, chiếc xe đang được đẩy chứ không bị bỏ chắn lối, và không có ai in nhãn giá.",
+    "vocab": [
+      [
+        "stack",
+        "v",
+        "xếp chồng lên"
+      ],
+      [
+        "aisle",
+        "n",
+        "lối đi giữa các kệ hàng"
+      ],
+      [
+        "counter",
+        "n",
+        "quầy (thanh toán, phục vụ)"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q2.jpg"
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "warehouse_forklift",
+    "imageCaption": "Một nhân viên kho đang lái xe nâng chở các pallet hàng về phía cửa cuốn đang mở của khu bốc xếp.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "The warehouse doors are being locked for the night by a security guard.",
+      "A worker is driving a forklift toward the open loading bay doors.",
+      "Pallet trucks are being repaired in the corner of the storage area.",
+      "Cargo containers are being unloaded from a ship down at the harbor."
+    ],
+    "correct": "B",
+    "translation": "(A) Các cửa kho đang được một nhân viên bảo vệ khóa lại cho đêm xuống.\n(B) Một công nhân đang lái xe nâng về phía cửa khu bốc xếp đang mở.\n(C) Các xe nâng pallet đang được sửa chữa ở góc khu vực chứa hàng.\n(D) Các thùng hàng đang được dỡ xuống từ một con tàu ở cảng.",
+    "explanation": "Hình có người ngồi trên xe nâng di chuyển về phía cửa bốc xếp đang mở, nên câu chủ động mô tả tài xế lái xe nâng là chính xác. Cửa kho đang mở chứ không bị khóa, không có ai sửa xe nâng, và bối cảnh là kho hàng chứ không phải cảng biển.",
+    "vocab": [
+      [
+        "forklift",
+        "n",
+        "xe nâng hàng"
+      ],
+      [
+        "loading bay",
+        "n",
+        "khu bốc xếp hàng hóa"
+      ],
+      [
+        "pallet",
+        "n",
+        "bệ kê hàng, pallet"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q3.jpg"
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "construction_blueprints",
+    "imageCaption": "Hai công nhân đội mũ bảo hộ đứng cạnh một bàn gỗ và cùng xem bản vẽ thi công; phía sau là giàn giáo dựng dở.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "The scaffolding in the background is being taken apart by a crew.",
+      "A delivery truck is backing into the site with a load of bricks.",
+      "Two workers in hard hats are reading through a set of building plans.",
+      "Safety equipment is being handed out to everyone at the main gate."
+    ],
+    "correct": "C",
+    "translation": "(A) Giàn giáo ở phía sau đang được một tổ thợ tháo dỡ.\n(B) Một xe tải giao hàng đang lùi vào công trường với một xe gạch.\n(C) Hai công nhân đội mũ bảo hộ đang đọc một bộ bản vẽ xây dựng.\n(D) Thiết bị an toàn đang được phát cho mọi người ở cổng chính.",
+    "explanation": "Hai công nhân đội mũ bảo hộ cúi xuống cùng xem bản vẽ trên bàn, đúng với hành động đọc bản vẽ thi công. Giàn giáo chỉ đứng yên phía sau, không có ai tháo dỡ, không có xe tải lùi vào công trường, và không ai phát đồ bảo hộ ở cổng.",
+    "vocab": [
+      [
+        "scaffolding",
+        "n",
+        "giàn giáo"
+      ],
+      [
+        "hard hat",
+        "n",
+        "mũ bảo hộ lao động"
+      ],
+      [
+        "blueprint",
+        "n",
+        "bản vẽ thiết kế, bản vẽ thi công"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q4.jpg"
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "hotel_reception",
+    "imageCaption": "Vài vị khách đứng xếp hàng trước quầy lễ tân của khách sạn, trong khi nhân viên lễ tân đang gõ máy tính phía sau quầy.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Luggage is being weighed at the front counter before the guests leave.",
+      "The lobby chairs have been moved into the hallway for cleaning today.",
+      "Room keys are being handed to the guests by the front desk clerk.",
+      "Several guests are waiting in line at the reception desk of the hotel."
+    ],
+    "correct": "D",
+    "translation": "(A) Hành lý đang được cân tại quầy phía trước trước khi khách rời đi.\n(B) Ghế ở sảnh đã được chuyển ra hành lang để vệ sinh trong hôm nay.\n(C) Chìa khóa phòng đang được nhân viên lễ tân trao cho khách.\n(D) Một số vị khách đang xếp hàng chờ tại quầy lễ tân của khách sạn.",
+    "explanation": "Các vị khách đứng thành hàng trước quầy lễ tân, đúng với việc đang chờ đến lượt làm thủ tục. Không có hành lý nào được cân, nhân viên đang làm việc trên máy tính chứ chưa trao chìa khóa, và ghế trong sảnh vẫn ở nguyên chỗ cũ.",
+    "vocab": [
+      [
+        "reception desk",
+        "n",
+        "quầy lễ tân"
+      ],
+      [
+        "guest",
+        "n",
+        "khách (lưu trú, dự sự kiện)"
+      ],
+      [
+        "luggage",
+        "n",
+        "hành lý"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q5.jpg"
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "outdoor_cafe_service",
+    "imageCaption": "Một nhân viên phục vụ mặc áo sơ mi trắng đang bưng một khay tròn đựng bốn tách cà phê bên trong quán.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A server is carrying a tray of drinks through a café.",
+      "The patio umbrellas are being folded up at the end of the day.",
+      "Menus are being printed for the new season at the copy shop.",
+      "The outdoor tables have all been moved indoors because of the rain."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên phục vụ đang bưng một khay đồ uống đi qua quán cà phê.\n(B) Những chiếc ô che nắng ngoài sân đang được gấp lại vào cuối ngày.\n(C) Các quyển thực đơn đang được in cho mùa mới tại tiệm photocopy.\n(D) Tất cả bàn ngoài trời đã được chuyển vào trong vì trời mưa.",
+    "explanation": "Nhân viên phục vụ đang bưng khay tròn đựng các tách cà phê trên tay trong quán, đúng với hành động đang phục vụ đồ uống. Không có ô che nắng nào đang được gập lại, không có việc in thực đơn tại tiệm photocopy, và cũng không có cảnh dời bàn ngoài trời vào trong do mưa.",
+    "vocab": [
+      [
+        "server",
+        "n",
+        "nhân viên phục vụ bàn"
+      ],
+      [
+        "tray",
+        "n",
+        "khay, mâm"
+      ],
+      [
+        "patio",
+        "n",
+        "sân ngoài trời (của quán, nhà)"
+      ]
+    ],
+    "imageUrl": "listening/images/lv3-test-01/part1/q6.jpg"
+  }
+]

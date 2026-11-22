@@ -1,0 +1,190 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following notice:",
+    "passageHtml": "<p><strong>MEMORANDUM — Office Relocation</strong><br>To: All staff, Third Floor<br>From: Facilities Management<br>Date: 12 May</p><p>Please be advised that the Marketing and Communications departments will relocate to the newly refurbished East Wing on Monday, 3 June. The move is scheduled to <strong>[131]</strong> approximately four working days, during which staff may continue to work remotely. Packing crates will be delivered to each desk on 31 May, and employees are asked to label their belongings clearly. Any equipment that is no longer in use should be reported to IT before the move <strong>[132]</strong> it can be collected for recycling.</p><p>Orientation sessions for the new floor will be held on 4 June at 10:00 a.m. and 2:00 p.m. Attendance at one of these sessions is <strong>[133]</strong>, as the new wing uses a shared-desk booking system that all employees must understand. <strong>[134]</strong> Badge access will be activated on the morning of the move.</p>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": ["last", "lasts", "lasting", "lasted"],
+        "answer": "A",
+        "translation": "Việc di chuyển dự kiến kéo dài khoảng bốn ngày làm việc, trong thời gian đó nhân viên có thể tiếp tục làm việc từ xa.",
+        "explanation": "Sau \"is scheduled to\" cần động từ nguyên mẫu không to, nên \"last\" là phương án đúng. \"lasts\" bị chia ở hiện tại đơn, \"lasting\" là V-ing không đứng sau \"to\", còn \"lasted\" là quá khứ đơn.",
+        "vocab": [["relocate", "v", "di dời, chuyển văn phòng"], ["refurbished", "adj", "được sửa sang, nâng cấp"], ["last", "v", "kéo dài"]]
+      },
+      {
+        "n": 132,
+        "q": "Select the best answer to complete blank [132].",
+        "options": ["such as", "even so", "so that", "rather than"],
+        "answer": "C",
+        "translation": "Mọi thiết bị không còn sử dụng cần được báo cho IT trước đợt di chuyển để chúng có thể được thu gom tái chế.",
+        "explanation": "\"so that\" dẫn một mệnh đề mục đích, phù hợp với ý \"để chúng có thể được thu gom\". \"such as\" dùng để nêu ví dụ, \"even so\" là trạng từ nối chỉ sự tương phản, còn \"rather than\" có nghĩa \"thay vì\" nên không hợp nghĩa.",
+        "vocab": [["belongings", "n", "đồ đạc, tài sản cá nhân"], ["no longer", "phr", "không còn nữa"], ["recycling", "n", "tái chế"]]
+      },
+      {
+        "n": 133,
+        "q": "Select the best answer to complete blank [133].",
+        "options": ["compulsory", "compulsively", "compulsory to", "compel"],
+        "answer": "A",
+        "translation": "Việc tham dự một trong các buổi này là bắt buộc, vì khu vực mới sử dụng hệ thống đặt bàn làm việc chung mà toàn bộ nhân viên phải hiểu rõ.",
+        "explanation": "Sau động từ \"is\" cần tính từ bổ nghĩa cho chủ ngữ \"attendance\", nên \"compulsory\" (bắt buộc) là phương án đúng. \"compulsively\" là trạng từ, \"compulsory to\" tạo cụm không tự nhiên, và \"compel\" là động từ nguyên mẫu.",
+        "vocab": [["orientation session", "n", "buổi giới thiệu, định hướng"], ["compulsory", "adj", "bắt buộc"], ["shared-desk", "adj", "dùng bàn làm việc chung"]]
+      },
+      {
+        "n": 134,
+        "q": "Which of the following sentences best fits in blank [134]?",
+        "options": [
+          "Employees who have already collected their crates do not need to attend.",
+          "Crates are available from the Facilities office on the ground floor.",
+          "Temporary badges can be obtained from the reception desk until then.",
+          "Temperature controls in the East Wing have been upgraded recently."
+        ],
+        "answer": "C",
+        "translation": "Thẻ tạm thời có thể được lấy tại quầy lễ tân cho đến trước thời điểm đó.",
+        "explanation": "Câu trước nói thẻ ra vào sẽ được kích hoạt vào sáng ngày chuyển đi, nên câu nối hợp lý là một giải pháp tạm thời trước mốc đó — tức thẻ tạm ở quầy lễ tân. Phương án về nhân viên đã nhận thùng và về thùng tại văn phòng Facilities không liên quan đến thẻ; phương án về hệ thống điều hòa hoàn toàn lạc chủ đề.",
+        "vocab": [["badge access", "n", "quyền ra vào bằng thẻ"], ["temporary", "adj", "tạm thời"], ["be activated", "v", "được kích hoạt"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following e-mail:",
+    "passageHtml": "<p>Dear Ms. Tanaka,</p><p>Thank you for registering for the Regional Supply Chain Forum, to be held at the Grand Meridian Hotel on 18–19 July. We have received your payment of $420, which <strong>[135]</strong> the two-day conference fee and a printed copy of the proceedings. Your confirmation number is SCF-20417; please quote it in any correspondence.</p><p>As a registered participant, you may choose up to three breakout workshops. Places are limited and are allocated on a first-come basis, so we <strong>[136]</strong> you to submit your selections before 30 June. The full program, along with a map of the venue, is attached to this message.</p><p>Please note that cancellations made after 10 July are not eligible for a refund. <strong>[137]</strong> Delegates who require an invoice for reimbursement purposes should contact our accounts team at billing@scforum.org. If you have not received your name badge by 15 July, <strong>[138]</strong>.</p><p>We look forward to welcoming you in July.</p><p>Sincerely,<br>Daniel Osei<br>Registration Coordinator</p>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": ["covers", "cover", "covering", "coverage"],
+        "answer": "A",
+        "translation": "Chúng tôi đã nhận được khoản thanh toán 420 đô la của bà, khoản này bao gồm lệ phí hội nghị hai ngày và một bản in của kỷ yếu.",
+        "explanation": "Chủ ngữ quan hệ \"which\" thay cho \"your payment of $420\" — danh từ số ít, nên động từ phải chia số ít \"covers\". \"cover\" là dạng số nhiều/nguyên mẫu, \"covering\" là V-ing không đứng làm vị ngữ, và \"coverage\" là danh từ.",
+        "vocab": [["proceedings", "n", "kỷ yếu hội nghị"], ["correspondence", "n", "thư từ, liên lạc"], ["cover", "v", "bao gồm, chi trả cho"]]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": ["encouraging", "encouragement", "encourage", "encouraged"],
+        "answer": "C",
+        "translation": "Số lượng chỗ có hạn và được phân bổ theo thứ tự đăng ký trước, vì vậy chúng tôi khuyến khích bà gửi lựa chọn trước ngày 30 tháng 6.",
+        "explanation": "Chủ ngữ \"we\" cần động từ chia ở hiện tại đơn làm vị ngữ chính, nên \"encourage\" là phương án đúng. \"encouraging\" và \"encouraged\" là dạng phân từ/V-ing không thể làm vị ngữ ở đây, còn \"encouragement\" là danh từ.",
+        "vocab": [["breakout workshop", "n", "buổi thảo luận nhóm nhỏ"], ["allocate", "v", "phân bổ"], ["first-come basis", "phr", "theo thứ tự đăng ký trước"]]
+      },
+      {
+        "n": 137,
+        "q": "Select the best answer to complete blank [137].",
+        "options": ["However", "Therefore", "For example", "Similarly"],
+        "answer": "A",
+        "translation": "Tuy nhiên, những đại biểu cần hóa đơn cho mục đích hoàn ứng nên liên hệ với bộ phận kế toán của chúng tôi.",
+        "explanation": "Câu trước nói về việc không được hoàn tiền khi hủy muộn, còn câu này chuyển sang một chủ đề khác (hóa đơn hoàn ứng), nên cần trạng từ nối chỉ sự chuyển ý \"However\". \"Therefore\" chỉ kết quả, \"For example\" chỉ ví dụ, \"Similarly\" chỉ sự tương đồng.",
+        "vocab": [["eligible for", "adj", "đủ điều kiện để"], ["refund", "n", "hoàn tiền"], ["reimbursement", "n", "hoàn ứng, bồi hoàn chi phí"]]
+      },
+      {
+        "n": 138,
+        "q": "Which of the following sentences best fits in blank [138]?",
+        "options": [
+          "the hotel offers a discounted rate for delegates staying two nights",
+          "please notify us immediately so that a replacement can be prepared",
+          "workshop selections will be confirmed by e-mail in early July",
+          "all sessions will be recorded and made available online afterwards"
+        ],
+        "answer": "B",
+        "translation": "vui lòng thông báo ngay cho chúng tôi để một thẻ mới có thể được chuẩn bị.",
+        "explanation": "Câu chứa chỗ trống bắt đầu bằng \"If you have not received your name badge...\", nên mệnh đề chính phải là lời đề nghị liên hệ để được cấp thẻ thay thế. Các phương án về giá phòng khách sạn, xác nhận lựa chọn workshop và ghi hình phiên họp đều không tiếp nối ý về thẻ tên.",
+        "vocab": [["name badge", "n", "thẻ tên đeo ngực"], ["notify", "v", "thông báo"], ["replacement", "n", "vật thay thế"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following notice:",
+    "passageHtml": "<p><strong>REVISED WARRANTY AND RETURN POLICY — Halden Home Appliances</strong></p><p>Effective 1 August, all Halden products carry a two-year limited warranty that begins on the date of purchase. The warranty covers manufacturing defects in materials and workmanship. It does <strong>[139]</strong> cover damage caused by improper installation, accidental drops, or unauthorized repairs performed by third parties.</p><ul><li>Customers wishing to return an item within 30 days of delivery may do so for a full refund, <strong>[140]</strong> the product is in its original packaging.</li><li>After 30 days, refunds are no longer available; defective units will be repaired or replaced at our discretion.</li><li>Proof of purchase must accompany every claim. Claims submitted without a receipt will be <strong>[141]</strong>.</li></ul><p>To file a claim, complete the online form and upload a photograph of the affected part. Our service team aims to respond within three business days. <strong>[142]</strong> Customers in remote areas should allow additional time for courier collection.</p>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": ["not", "no", "none", "nor"],
+        "answer": "A",
+        "translation": "Chính sách bảo hành không bao gồm hư hỏng do lắp đặt không đúng cách, làm rơi vô ý hoặc sửa chữa trái phép bởi bên thứ ba.",
+        "explanation": "Cấu trúc phủ định động từ dùng trợ động từ \"does\" + \"not\" + động từ nguyên mẫu, nên \"not\" là phương án đúng. \"no\" và \"none\" là từ hạn định/đại từ, còn \"nor\" cần cấu trúc đảo ngữ và không đứng sau \"does\".",
+        "vocab": [["warranty", "n", "chế độ bảo hành"], ["workmanship", "n", "tay nghề, chất lượng gia công"], ["improper installation", "n", "lắp đặt không đúng cách"]]
+      },
+      {
+        "n": 140,
+        "q": "Select the best answer to complete blank [140].",
+        "options": ["provided that", "in order to", "as long as it", "despite"],
+        "answer": "A",
+        "translation": "Khách hàng muốn trả hàng trong vòng 30 ngày kể từ khi giao có thể làm vậy để được hoàn tiền toàn bộ, với điều kiện sản phẩm còn nguyên bao bì gốc.",
+        "explanation": "\"provided that\" là liên từ chỉ điều kiện, theo sau là một mệnh đề đầy đủ (\"the product is in its original packaging\"), nên phù hợp. \"in order to\" đi với động từ nguyên mẫu, \"as long as it\" tạo mệnh đề thiếu động từ, còn \"despite\" đi với danh từ/cụm danh từ.",
+        "vocab": [["refund", "n", "tiền hoàn lại"], ["original packaging", "n", "bao bì gốc"], ["provided that", "conj", "với điều kiện là"]]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": ["reject", "rejected", "rejecting", "rejection"],
+        "answer": "B",
+        "translation": "Yêu cầu bảo hành gửi mà không có hóa đơn sẽ bị từ chối.",
+        "explanation": "Câu ở dạng bị động \"will be + quá khứ phân từ\", nên cần \"rejected\". \"reject\" là nguyên mẫu, \"rejecting\" là V-ing, còn \"rejection\" là danh từ không đứng sau \"be\" trong cấu trúc bị động.",
+        "vocab": [["proof of purchase", "n", "bằng chứng mua hàng"], ["claim", "n", "yêu cầu (bảo hành)"], ["submit", "v", "nộp, gửi"]]
+      },
+      {
+        "n": 142,
+        "q": "Which of the following sentences best fits in blank [142]?",
+        "options": [
+          "Refunds are processed to the original payment method only.",
+          "Our retail partners also honor this warranty in store.",
+          "Replacement parts are shipped from our central warehouse.",
+          "This timeline may be longer during peak holiday periods."
+        ],
+        "answer": "D",
+        "translation": "Khoảng thời gian này có thể dài hơn vào các dịp cao điểm lễ hội.",
+        "explanation": "Câu trước nêu thời hạn phản hồi trong ba ngày làm việc, và câu sau nói khách ở vùng xa cần thêm thời gian — nên câu nối hợp lý là việc thời hạn có thể kéo dài vào mùa cao điểm. Các phương án về hình thức hoàn tiền, đối tác bán lẻ và kho gửi linh kiện không liên quan đến thời gian xử lý.",
+        "vocab": [["timeline", "n", "thời hạn, tiến độ"], ["peak period", "n", "giai đoạn cao điểm"], ["courier collection", "n", "việc thu gom của đơn vị vận chuyển"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following article:",
+    "passageHtml": "<p><strong>Northbridge Logistics Opens Automated Hub Near Da Nang</strong></p><p>Northbridge Logistics officially opened its fourth regional distribution center last week, a 22,000-square-meter facility located 15 kilometers from Da Nang's Tien Sa Port. The company <strong>[143]</strong> more than $38 million in the project, which features automated sorting equipment capable of processing 40,000 parcels per hour.</p><p>According to chief operating officer Le Minh Chau, the hub was built to reduce delivery times for central Vietnam, a region where demand <strong>[144]</strong> sharply over the past three years. \"Previously, shipments to Hue and Quang Ngai were routed through Ho Chi Minh City,\" she said. \"Now they will be handled locally, cutting transit time by nearly two days.\"</p><p>The opening is expected to create about 250 jobs, most of them in warehouse operations and vehicle maintenance. Local officials have welcomed the investment, noting that it will also attract component suppliers to the surrounding industrial park. <strong>[145]</strong> The company plans to add a cold-storage section by 2028 to serve agricultural exporters. <strong>[146]</strong></p>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": ["invested", "investment", "investing", "investor"],
+        "answer": "A",
+        "translation": "Công ty đã đầu tư hơn 38 triệu đô la vào dự án này, với trang thiết bị phân loại tự động có khả năng xử lý 40.000 kiện hàng mỗi giờ.",
+        "explanation": "Câu cần động từ làm vị ngữ, chia ở quá khứ đơn cho phù hợp với bối cảnh đã hoàn thành, nên \"invested\" là phương án đúng. \"investment\" và \"investor\" là danh từ, còn \"investing\" là V-ing không thể đứng một mình làm vị ngữ ở đây.",
+        "vocab": [["distribution center", "n", "trung tâm phân phối"], ["automated sorting", "n", "phân loại tự động"], ["facility", "n", "cơ sở, nhà xưởng"]]
+      },
+      {
+        "n": 144,
+        "q": "Select the best answer to complete blank [144].",
+        "options": ["grow", "grows", "has grown", "growing"],
+        "answer": "C",
+        "translation": "Theo giám đốc điều hành Lê Minh Châu, trung tâm này được xây dựng để rút ngắn thời gian giao hàng cho miền Trung, khu vực mà nhu cầu đã tăng mạnh trong ba năm qua.",
+        "explanation": "Cụm \"over the past three years\" đòi hỏi thì hiện tại hoàn thành, và chủ ngữ \"demand\" là số ít, nên \"has grown\" là phương án đúng. \"grow\" và \"grows\" không diễn tả được hành động kéo dài đến hiện tại, còn \"growing\" là V-ing thiếu trợ động từ.",
+        "vocab": [["chief operating officer", "n", "giám đốc điều hành"], ["route through", "v", "chuyển qua, đi qua"], ["transit time", "n", "thời gian vận chuyển"]]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": ["Similarly", "In contrast", "Nevertheless", "In addition"],
+        "answer": "D",
+        "translation": "Ngoài ra, công ty dự kiến bổ sung một khu bảo quản lạnh vào năm 2028 để phục vụ các nhà xuất khẩu nông sản.",
+        "explanation": "Câu trước nêu lợi ích với các nhà cung ứng linh kiện, câu này bổ sung thêm một kế hoạch mở rộng khác, nên \"In addition\" phù hợp. \"Similarly\" dùng khi hai ý thực sự tương tự, \"In contrast\" và \"Nevertheless\" đều mang nghĩa đối lập.",
+        "vocab": [["component supplier", "n", "nhà cung ứng linh kiện"], ["industrial park", "n", "khu công nghiệp"], ["cold storage", "n", "kho bảo quản lạnh"]]
+      },
+      {
+        "n": 146,
+        "q": "Which of the following sentences best fits in blank [146]?",
+        "options": [
+          "Construction of the facility began in early 2023.",
+          "Tien Sa Port handles mostly container traffic.",
+          "The company currently employs 1,800 people nationwide.",
+          "Further expansion at the site is expected within two years."
+        ],
+        "answer": "D",
+        "translation": "Việc mở rộng thêm tại địa điểm này dự kiến sẽ diễn ra trong vòng hai năm tới.",
+        "explanation": "Đây là câu kết bài, và câu trước vừa nêu kế hoạch thêm khu bảo quản lạnh vào năm 2028, nên câu khép lại hợp lý là dự báo mở rộng tiếp theo tại chỗ. Phương án về thời điểm khởi công đã được nói ở đoạn đầu, phương án về cảng và về số nhân viên không nối tiếp ý mở rộng.",
+        "vocab": [["expansion", "n", "việc mở rộng"], ["site", "n", "địa điểm"], ["agricultural exporter", "n", "nhà xuất khẩu nông sản"]]
+      }
+    ]
+  }
+]

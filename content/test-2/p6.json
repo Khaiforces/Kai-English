@@ -1,0 +1,834 @@
+[
+  {
+    "id": 131,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Store Supervisors<br><strong>From:</strong> Denise Okafor, Operations Manager<br><strong>Date:</strong> March 14<br><strong>Subject:</strong> Staffing for the Spring Home Event</p><hr class=\"my-2 border-neutral-300\"><p>Dear Supervisors,</p><p class=\"mt-2\">Our annual Spring Home Event will run from Friday, March 28, through Sunday, April 6. Last year's event brought a record number of shoppers to our stores, and we expect similar traffic this year. Each store supervisor, together with the assistant managers, <strong>[131]</strong> responsible for confirming that enough associates are scheduled for every shift during the event.</p><p class=\"mt-2\">Please review your store's staffing plan and send any requested changes to the operations office <strong>[132]</strong> Friday, March 21. Requests received after that date may not be accommodated.</p><p class=\"mt-2\"><strong>[133]</strong>, the Riverside store will extend its weekend hours until 9 p.m. throughout the promotion. Staff at that location will receive updated schedules by Wednesday.</p><p class=\"mt-2\">This campaign offers our team a valuable opportunity to show shoppers the quality of service that sets our company apart. <strong>[134]</strong>. Thank you for your careful planning.</p><p class=\"mt-2\">Best regards,<br>Denise Okafor</p></div>",
+    "questionText": "Question 131: Select the best answer to complete blank [131].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) are"
+      },
+      {
+        "key": "B",
+        "text": "(B) is"
+      },
+      {
+        "key": "C",
+        "text": "(C) be"
+      },
+      {
+        "key": "D",
+        "text": "(D) being"
+      }
+    ],
+    "correct": "B",
+    "translation": "Mỗi giám sát cửa hàng, cùng với các trợ lý quản lý, chịu trách nhiệm xác nhận rằng đủ nhân viên được xếp lịch cho mọi ca làm việc trong sự kiện.",
+    "explanation": "Đáp án B. Chủ ngữ chính của câu là 'Each store supervisor' — một cụm danh từ số ít. Cụm 'together with the assistant managers' chỉ là thành phần bổ sung, không làm thay đổi số của động từ, nên động từ phải chia số ít 'is'. A sai vì 'are' dùng cho chủ ngữ số nhiều. C sai vì 'be' là dạng nguyên thể, không thể làm vị ngữ chính khi không có trợ động từ. D sai vì 'being' không phải động từ chia theo thì. Dấu hiệu nhận biết là cấu trúc 'Each + danh từ số ít + together with ... + động từ số ít'.",
+    "vocab": [
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "meaning": "giám sát viên, người quản lý ca"
+      },
+      {
+        "word": "associate",
+        "pos": "n.",
+        "meaning": "nhân viên (cửa hàng)"
+      },
+      {
+        "word": "staffing plan",
+        "pos": "n.",
+        "meaning": "kế hoạch bố trí nhân sự"
+      },
+      {
+        "word": "accommodate",
+        "pos": "v.",
+        "meaning": "đáp ứng, tạo điều kiện cho"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Store Supervisors<br><strong>From:</strong> Denise Okafor, Operations Manager<br><strong>Date:</strong> March 14<br><strong>Subject:</strong> Staffing for the Spring Home Event</p><hr class=\"my-2 border-neutral-300\"><p>Dear Supervisors,</p><p class=\"mt-2\">Our annual Spring Home Event will run from Friday, March 28, through Sunday, April 6. Last year's event brought a record number of shoppers to our stores, and we expect similar traffic this year. Each store supervisor, together with the assistant managers, <strong>[131]</strong> responsible for confirming that enough associates are scheduled for every shift during the event.</p><p class=\"mt-2\">Please review your store's staffing plan and send any requested changes to the operations office <strong>[132]</strong> Friday, March 21. Requests received after that date may not be accommodated.</p><p class=\"mt-2\"><strong>[133]</strong>, the Riverside store will extend its weekend hours until 9 p.m. throughout the promotion. Staff at that location will receive updated schedules by Wednesday.</p><p class=\"mt-2\">This campaign offers our team a valuable opportunity to show shoppers the quality of service that sets our company apart. <strong>[134]</strong>. Thank you for your careful planning.</p><p class=\"mt-2\">Best regards,<br>Denise Okafor</p></div>",
+    "questionText": "Question 132: Select the best answer to complete blank [132].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) since"
+      },
+      {
+        "key": "B",
+        "text": "(B) during"
+      },
+      {
+        "key": "C",
+        "text": "(C) by"
+      },
+      {
+        "key": "D",
+        "text": "(D) until"
+      }
+    ],
+    "correct": "C",
+    "translation": "Vui lòng xem lại kế hoạch nhân sự của cửa hàng bạn và gửi mọi yêu cầu thay đổi đến văn phòng điều hành trước thứ Sáu ngày 21 tháng 3.",
+    "explanation": "Đáp án C. 'By + một mốc thời gian' có nghĩa là 'trước hoặc muộn nhất là mốc thời gian đó', rất phù hợp với hạn chót gửi yêu cầu. Câu sau còn xác nhận 'Requests received after that date may not be accommodated' (yêu cầu nhận sau ngày đó có thể không được đáp ứng), cho thấy đây là thời hạn cuối. A sai vì 'since' chỉ mốc bắt đầu của một khoảng thời gian kéo dài đến hiện tại. B sai vì 'during' đi với một khoảng thời gian, không phải hạn chót. D sai vì 'until' nhấn mạnh hành động tiếp diễn đến mốc đó, không diễn tả việc hoàn tất trước hạn.",
+    "vocab": [
+      {
+        "word": "staffing plan",
+        "pos": "n.",
+        "meaning": "kế hoạch bố trí nhân sự"
+      },
+      {
+        "word": "requested change",
+        "pos": "n.",
+        "meaning": "thay đổi được yêu cầu"
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "meaning": "hạn chót"
+      },
+      {
+        "word": "operations office",
+        "pos": "n.",
+        "meaning": "văn phòng điều hành"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Store Supervisors<br><strong>From:</strong> Denise Okafor, Operations Manager<br><strong>Date:</strong> March 14<br><strong>Subject:</strong> Staffing for the Spring Home Event</p><hr class=\"my-2 border-neutral-300\"><p>Dear Supervisors,</p><p class=\"mt-2\">Our annual Spring Home Event will run from Friday, March 28, through Sunday, April 6. Last year's event brought a record number of shoppers to our stores, and we expect similar traffic this year. Each store supervisor, together with the assistant managers, <strong>[131]</strong> responsible for confirming that enough associates are scheduled for every shift during the event.</p><p class=\"mt-2\">Please review your store's staffing plan and send any requested changes to the operations office <strong>[132]</strong> Friday, March 21. Requests received after that date may not be accommodated.</p><p class=\"mt-2\"><strong>[133]</strong>, the Riverside store will extend its weekend hours until 9 p.m. throughout the promotion. Staff at that location will receive updated schedules by Wednesday.</p><p class=\"mt-2\">This campaign offers our team a valuable opportunity to show shoppers the quality of service that sets our company apart. <strong>[134]</strong>. Thank you for your careful planning.</p><p class=\"mt-2\">Best regards,<br>Denise Okafor</p></div>",
+    "questionText": "Question 133: Select the best answer to complete blank [133].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In addition"
+      },
+      {
+        "key": "B",
+        "text": "(B) Nevertheless"
+      },
+      {
+        "key": "C",
+        "text": "(C) Otherwise"
+      },
+      {
+        "key": "D",
+        "text": "(D) In contrast"
+      }
+    ],
+    "correct": "A",
+    "translation": "Ngoài ra, cửa hàng Riverside sẽ kéo dài giờ mở cửa cuối tuần đến 9 giờ tối trong suốt chương trình khuyến mãi.",
+    "explanation": "Đáp án A. Đoạn trước đã yêu cầu các giám sát xem lại kế hoạch nhân sự và gửi thay đổi; câu này bổ sung thêm một thông tin về việc kéo dài giờ mở cửa, nên 'In addition' (Ngoài ra) là liên từ phù hợp. B sai vì 'Nevertheless' (Tuy nhiên) dùng để chuyển ý tương phản. C sai vì 'Otherwise' (Nếu không thì) dùng để nêu hệ quả của một điều kiện. D sai vì 'In contrast' (Ngược lại) cũng thể hiện sự đối lập, không có trong ngữ cảnh này.",
+    "vocab": [
+      {
+        "word": "extend hours",
+        "pos": "phrase",
+        "meaning": "kéo dài giờ mở cửa"
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "meaning": "chương trình khuyến mãi"
+      },
+      {
+        "word": "updated schedule",
+        "pos": "n.",
+        "meaning": "lịch làm việc đã cập nhật"
+      },
+      {
+        "word": "location",
+        "pos": "n.",
+        "meaning": "địa điểm, chi nhánh"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Store Supervisors<br><strong>From:</strong> Denise Okafor, Operations Manager<br><strong>Date:</strong> March 14<br><strong>Subject:</strong> Staffing for the Spring Home Event</p><hr class=\"my-2 border-neutral-300\"><p>Dear Supervisors,</p><p class=\"mt-2\">Our annual Spring Home Event will run from Friday, March 28, through Sunday, April 6. Last year's event brought a record number of shoppers to our stores, and we expect similar traffic this year. Each store supervisor, together with the assistant managers, <strong>[131]</strong> responsible for confirming that enough associates are scheduled for every shift during the event.</p><p class=\"mt-2\">Please review your store's staffing plan and send any requested changes to the operations office <strong>[132]</strong> Friday, March 21. Requests received after that date may not be accommodated.</p><p class=\"mt-2\"><strong>[133]</strong>, the Riverside store will extend its weekend hours until 9 p.m. throughout the promotion. Staff at that location will receive updated schedules by Wednesday.</p><p class=\"mt-2\">This campaign offers our team a valuable opportunity to show shoppers the quality of service that sets our company apart. <strong>[134]</strong>. Thank you for your careful planning.</p><p class=\"mt-2\">Best regards,<br>Denise Okafor</p></div>",
+    "questionText": "Question 134: Select the best sentence to complete blank [134].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The store's winter clearance sale ended two months ago."
+      },
+      {
+        "key": "B",
+        "text": "(B) All cash registers were replaced last autumn."
+      },
+      {
+        "key": "C",
+        "text": "(C) Construction on the new warehouse will begin in July."
+      },
+      {
+        "key": "D",
+        "text": "(D) Overtime hours have been approved for stores that need extra coverage during peak periods."
+      }
+    ],
+    "correct": "D",
+    "translation": "Giờ làm thêm đã được phê duyệt cho các cửa hàng cần tăng cường nhân sự trong những khung giờ cao điểm.",
+    "explanation": "Đáp án D. Toàn bức thư nói về việc bố trí nhân sự ('staffing plan', 'confirming that enough associates are scheduled') cho sự kiện Spring Home Event. Câu D bổ sung thông tin thiết thực cho các giám sát cửa hàng rằng giờ làm thêm (overtime hours) đã được duyệt cho các cửa hàng cần thêm người trực lúc cao điểm. A, B, C lệch mạch văn.",
+    "vocab": [
+      {
+        "word": "campaign",
+        "pos": "n.",
+        "meaning": "chiến dịch (quảng cáo, khuyến mãi)"
+      },
+      {
+        "word": "valuable",
+        "pos": "adj.",
+        "meaning": "quý giá"
+      },
+      {
+        "word": "quality of service",
+        "pos": "n.",
+        "meaning": "chất lượng dịch vụ"
+      },
+      {
+        "word": "set apart",
+        "pos": "phrasal v.",
+        "meaning": "làm cho khác biệt, nổi bật"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CITY OF NORTHBRIDGE</strong><br>Office of Transportation<br><strong>NOTICE OF LOADING ZONE IMPROVEMENTS</strong><br>Harbor Street, between 2nd Avenue and 5th Avenue</p><hr class=\"my-2 border-neutral-300\"><p>The city will begin resurfacing the commercial loading zone on Harbor Street next month. The work is scheduled <strong>[135]</strong> on Monday, April 7, and is expected to last approximately three weeks. During this period, deliveries <strong>[136]</strong> the east entrance of the Harbor Street business district should be arranged before 10:00 a.m. so that vehicles do not block the construction area.</p><p class=\"mt-2\">Access to the main loading dock will be temporarily <strong>[137]</strong> while the new surface is installed. Businesses that need to receive large shipments should contact the Transportation Office at least 48 hours in advance to arrange an alternative drop-off point. <strong>[138]</strong>. Signs will be posted along Harbor Street to guide drivers to the available spaces.</p><p class=\"mt-2\">We appreciate the cooperation of local businesses and apologize for any inconvenience. Questions may be directed to the Transportation Office at (555) 014-7820.</p></div>",
+    "questionText": "Question 135: Select the best answer to complete blank [135].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) begin"
+      },
+      {
+        "key": "B",
+        "text": "(B) began"
+      },
+      {
+        "key": "C",
+        "text": "(C) beginning"
+      },
+      {
+        "key": "D",
+        "text": "(D) to begin"
+      }
+    ],
+    "correct": "D",
+    "translation": "Công việc dự kiến bắt đầu vào thứ Hai ngày 7 tháng 4 và dự kiến kéo dài khoảng ba tuần.",
+    "explanation": "Đáp án D. Cấu trúc bị động 'be scheduled to do something' (được lên kế hoạch để làm gì) yêu cầu động từ nguyên thể có 'to' sau 'scheduled', nên 'to begin' là đúng. A sai vì 'begin' không thể đứng trực tiếp sau 'is scheduled' mà thiếu 'to'. B sai vì 'began' là quá khứ đơn, không hợp với cấu trúc và ý nghĩa tương lai. C sai vì 'beginning' không thuộc mẫu câu này. Câu còn có 'on Monday, April 7' chỉ mốc thời gian tương lai đã được lên kế hoạch.",
+    "vocab": [
+      {
+        "word": "resurface",
+        "pos": "v.",
+        "meaning": "làm lại mặt đường"
+      },
+      {
+        "word": "loading zone",
+        "pos": "n.",
+        "meaning": "khu vực bốc dỡ hàng"
+      },
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "meaning": "khoảng, xấp xỉ"
+      },
+      {
+        "word": "in advance",
+        "pos": "phrase",
+        "meaning": "trước, từ trước"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CITY OF NORTHBRIDGE</strong><br>Office of Transportation<br><strong>NOTICE OF LOADING ZONE IMPROVEMENTS</strong><br>Harbor Street, between 2nd Avenue and 5th Avenue</p><hr class=\"my-2 border-neutral-300\"><p>The city will begin resurfacing the commercial loading zone on Harbor Street next month. The work is scheduled <strong>[135]</strong> on Monday, April 7, and is expected to last approximately three weeks. During this period, deliveries <strong>[136]</strong> the east entrance of the Harbor Street business district should be arranged before 10:00 a.m. so that vehicles do not block the construction area.</p><p class=\"mt-2\">Access to the main loading dock will be temporarily <strong>[137]</strong> while the new surface is installed. Businesses that need to receive large shipments should contact the Transportation Office at least 48 hours in advance to arrange an alternative drop-off point. <strong>[138]</strong>. Signs will be posted along Harbor Street to guide drivers to the available spaces.</p><p class=\"mt-2\">We appreciate the cooperation of local businesses and apologize for any inconvenience. Questions may be directed to the Transportation Office at (555) 014-7820.</p></div>",
+    "questionText": "Question 136: Select the best answer to complete blank [136].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) to"
+      },
+      {
+        "key": "B",
+        "text": "(B) at"
+      },
+      {
+        "key": "C",
+        "text": "(C) for"
+      },
+      {
+        "key": "D",
+        "text": "(D) by"
+      }
+    ],
+    "correct": "A",
+    "translation": "Trong thời gian này, các chuyến giao hàng đến lối vào phía đông của khu thương mại phố Harbor nên được sắp xếp trước 10 giờ sáng.",
+    "explanation": "Đáp án A. 'Deliveries to + địa điểm' là cụm danh từ chỉ các chuyến hàng được giao đến một địa điểm; giới từ 'to' diễn tả đích đến. B sai vì 'at' chỉ vị trí hiện diện, không diễn tả hướng giao hàng. C sai vì 'for' thường chỉ mục đích hoặc đối tượng hưởng lợi, không phù hợp với 'deliveries ... the east entrance'. D sai vì 'by' chỉ tác nhân hoặc phương tiện, không chỉ đích đến.",
+    "vocab": [
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "meaning": "lối vào"
+      },
+      {
+        "word": "business district",
+        "pos": "n.",
+        "meaning": "khu thương mại"
+      },
+      {
+        "word": "block",
+        "pos": "v.",
+        "meaning": "chặn, làm tắc"
+      },
+      {
+        "word": "construction area",
+        "pos": "n.",
+        "meaning": "khu vực thi công"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CITY OF NORTHBRIDGE</strong><br>Office of Transportation<br><strong>NOTICE OF LOADING ZONE IMPROVEMENTS</strong><br>Harbor Street, between 2nd Avenue and 5th Avenue</p><hr class=\"my-2 border-neutral-300\"><p>The city will begin resurfacing the commercial loading zone on Harbor Street next month. The work is scheduled <strong>[135]</strong> on Monday, April 7, and is expected to last approximately three weeks. During this period, deliveries <strong>[136]</strong> the east entrance of the Harbor Street business district should be arranged before 10:00 a.m. so that vehicles do not block the construction area.</p><p class=\"mt-2\">Access to the main loading dock will be temporarily <strong>[137]</strong> while the new surface is installed. Businesses that need to receive large shipments should contact the Transportation Office at least 48 hours in advance to arrange an alternative drop-off point. <strong>[138]</strong>. Signs will be posted along Harbor Street to guide drivers to the available spaces.</p><p class=\"mt-2\">We appreciate the cooperation of local businesses and apologize for any inconvenience. Questions may be directed to the Transportation Office at (555) 014-7820.</p></div>",
+    "questionText": "Question 137: Select the best answer to complete blank [137].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) restrict"
+      },
+      {
+        "key": "B",
+        "text": "(B) restrictive"
+      },
+      {
+        "key": "C",
+        "text": "(C) restricted"
+      },
+      {
+        "key": "D",
+        "text": "(D) restriction"
+      }
+    ],
+    "correct": "C",
+    "translation": "Quyền ra vào bến bốc dỡ chính sẽ tạm thời bị hạn chế trong thời gian lắp đặt mặt đường mới.",
+    "explanation": "Đáp án C. Câu ở thể bị động với trợ động từ 'will be'; sau 'be' và trạng từ 'temporarily' cần quá khứ phân từ 'restricted' (bị hạn chế). A sai vì 'restrict' là động từ nguyên thể, không đứng sau 'will be'. B sai vì 'restrictive' là tính từ mang nghĩa 'có tính hạn chế', không diễn tả việc quyền ra vào bị hạn chế. D sai vì 'restriction' là danh từ, không thể làm vị ngữ sau 'will be' trong cấu trúc này.",
+    "vocab": [
+      {
+        "word": "access",
+        "pos": "n.",
+        "meaning": "quyền ra vào, sự tiếp cận"
+      },
+      {
+        "word": "loading dock",
+        "pos": "n.",
+        "meaning": "bến bốc dỡ hàng"
+      },
+      {
+        "word": "install",
+        "pos": "v.",
+        "meaning": "lắp đặt"
+      },
+      {
+        "word": "temporarily",
+        "pos": "adv.",
+        "meaning": "tạm thời"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CITY OF NORTHBRIDGE</strong><br>Office of Transportation<br><strong>NOTICE OF LOADING ZONE IMPROVEMENTS</strong><br>Harbor Street, between 2nd Avenue and 5th Avenue</p><hr class=\"my-2 border-neutral-300\"><p>The city will begin resurfacing the commercial loading zone on Harbor Street next month. The work is scheduled <strong>[135]</strong> on Monday, April 7, and is expected to last approximately three weeks. During this period, deliveries <strong>[136]</strong> the east entrance of the Harbor Street business district should be arranged before 10:00 a.m. so that vehicles do not block the construction area.</p><p class=\"mt-2\">Access to the main loading dock will be temporarily <strong>[137]</strong> while the new surface is installed. Businesses that need to receive large shipments should contact the Transportation Office at least 48 hours in advance to arrange an alternative drop-off point. <strong>[138]</strong>. Signs will be posted along Harbor Street to guide drivers to the available spaces.</p><p class=\"mt-2\">We appreciate the cooperation of local businesses and apologize for any inconvenience. Questions may be directed to the Transportation Office at (555) 014-7820.</p></div>",
+    "questionText": "Question 138: Select the best sentence to complete blank [138].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The city council meets on the second Tuesday of every month."
+      },
+      {
+        "key": "B",
+        "text": "(B) In the meantime, couriers making smaller deliveries may use the visitor parking area on King Street at no charge."
+      },
+      {
+        "key": "C",
+        "text": "(C) Public bus fares will remain unchanged this year."
+      },
+      {
+        "key": "D",
+        "text": "(D) Harbor Street was paved for the first time fifty years ago."
+      }
+    ],
+    "correct": "B",
+    "translation": "Trong thời gian đó, các nhân viên giao hàng nhỏ lẻ có thể sử dụng khu vực đỗ xe dành cho khách trên phố King miễn phí.",
+    "explanation": "Đáp án B. Câu trước hướng dẫn các doanh nghiệp nhận lô hàng lớn ('large shipments') liên hệ trước 48 giờ để bố trí điểm giao thay thế, và câu ngay sau nói 'Biển báo sẽ được đặt dọc phố Harbor để hướng dẫn tài xế tới các chỗ đỗ còn trống (the available spaces)'. Câu B giới thiệu 'visitor parking area on King Street' chính là 'the available spaces' được nhắc ở câu sau! A, C, D không liên quan.",
+    "vocab": [
+      {
+        "word": "courier",
+        "pos": "n.",
+        "meaning": "nhân viên/công ty chuyển phát"
+      },
+      {
+        "word": "at no charge",
+        "pos": "phrase",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "drop-off point",
+        "pos": "n.",
+        "meaning": "điểm giao hàng"
+      },
+      {
+        "word": "guide",
+        "pos": "v.",
+        "meaning": "hướng dẫn, chỉ dẫn"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Grace Lin, Finance Director<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Updated Travel Expense Procedure</p><hr class=\"my-2 border-neutral-300\"><p>To help us process reimbursement claims more quickly, the Finance Department has adopted a new online expense system. Beginning June 1, all travel expenses <strong>[139]</strong> be submitted through the ExpenseLink portal. Requests <strong>[140]</strong> $2,500 will also require approval from the finance director before reimbursement is issued.</p><p class=\"mt-2\"><strong>[141]</strong>, original receipts must be uploaded within five business days of returning from a trip. Employees who fail to provide the required documentation may experience a delay in payment.</p><p class=\"mt-2\">Following the implementation of the new system, paper forms will no longer be accepted. <strong>[142]</strong>. Department heads should ensure that their teams complete the online training module by May 26. If you have questions, please contact the Finance Help Desk at extension 237.</p></div>",
+    "questionText": "Question 139: Select the best answer to complete blank [139].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) might"
+      },
+      {
+        "key": "B",
+        "text": "(B) must"
+      },
+      {
+        "key": "C",
+        "text": "(C) would"
+      },
+      {
+        "key": "D",
+        "text": "(D) could"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bắt đầu từ ngày 1 tháng 6, tất cả chi phí đi lại phải được nộp qua cổng ExpenseLink.",
+    "explanation": "Đáp án B. Ngữ cảnh là quy định mới của phòng tài chính ('Beginning June 1, all travel expenses ... be submitted'), nên cần động từ khuyết thiếu diễn tả sự bắt buộc: 'must' (phải). A và D chỉ khả năng, không thể hiện yêu cầu bắt buộc. C diễn tả điều kiện hoặc thói quen trong quá khứ, không phù hợp với quy định đang được ban hành.",
+    "vocab": [
+      {
+        "word": "reimbursement",
+        "pos": "n.",
+        "meaning": "sự hoàn tiền, thanh toán lại"
+      },
+      {
+        "word": "claim",
+        "pos": "n.",
+        "meaning": "yêu cầu (thanh toán)"
+      },
+      {
+        "word": "portal",
+        "pos": "n.",
+        "meaning": "cổng thông tin điện tử"
+      },
+      {
+        "word": "department head",
+        "pos": "n.",
+        "meaning": "trưởng bộ phận"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Grace Lin, Finance Director<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Updated Travel Expense Procedure</p><hr class=\"my-2 border-neutral-300\"><p>To help us process reimbursement claims more quickly, the Finance Department has adopted a new online expense system. Beginning June 1, all travel expenses <strong>[139]</strong> be submitted through the ExpenseLink portal. Requests <strong>[140]</strong> $2,500 will also require approval from the finance director before reimbursement is issued.</p><p class=\"mt-2\"><strong>[141]</strong>, original receipts must be uploaded within five business days of returning from a trip. Employees who fail to provide the required documentation may experience a delay in payment.</p><p class=\"mt-2\">Following the implementation of the new system, paper forms will no longer be accepted. <strong>[142]</strong>. Department heads should ensure that their teams complete the online training module by May 26. If you have questions, please contact the Finance Help Desk at extension 237.</p></div>",
+    "questionText": "Question 140: Select the best answer to complete blank [140].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) exceed"
+      },
+      {
+        "key": "B",
+        "text": "(B) exceeded"
+      },
+      {
+        "key": "C",
+        "text": "(C) exceedingly"
+      },
+      {
+        "key": "D",
+        "text": "(D) exceeding"
+      }
+    ],
+    "correct": "D",
+    "translation": "Các yêu cầu vượt quá 2.500 đô la cũng sẽ cần sự phê duyệt của giám đốc tài chính trước khi được hoàn tiền.",
+    "explanation": "Đáp án D. 'Requests exceeding $2,500' là cụm rút gọn của 'requests that exceed $2,500' (các yêu cầu vượt quá 2.500 đô la). Khi rút gọn mệnh đề quan hệ ở thể chủ động, động từ chuyển thành hiện tại phân từ 'exceeding'. A và B là động từ chia thì, không thể trực tiếp bổ nghĩa cho danh từ 'requests' khi thiếu đại từ quan hệ. C là trạng từ, không thể đứng sau danh từ để bổ nghĩa cho nó.",
+    "vocab": [
+      {
+        "word": "exceed",
+        "pos": "v.",
+        "meaning": "vượt quá"
+      },
+      {
+        "word": "approval",
+        "pos": "n.",
+        "meaning": "sự phê duyệt"
+      },
+      {
+        "word": "issue",
+        "pos": "v.",
+        "meaning": "phát hành, cấp"
+      },
+      {
+        "word": "expense",
+        "pos": "n.",
+        "meaning": "chi phí"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Grace Lin, Finance Director<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Updated Travel Expense Procedure</p><hr class=\"my-2 border-neutral-300\"><p>To help us process reimbursement claims more quickly, the Finance Department has adopted a new online expense system. Beginning June 1, all travel expenses <strong>[139]</strong> be submitted through the ExpenseLink portal. Requests <strong>[140]</strong> $2,500 will also require approval from the finance director before reimbursement is issued.</p><p class=\"mt-2\"><strong>[141]</strong>, original receipts must be uploaded within five business days of returning from a trip. Employees who fail to provide the required documentation may experience a delay in payment.</p><p class=\"mt-2\">Following the implementation of the new system, paper forms will no longer be accepted. <strong>[142]</strong>. Department heads should ensure that their teams complete the online training module by May 26. If you have questions, please contact the Finance Help Desk at extension 237.</p></div>",
+    "questionText": "Question 141: Select the best answer to complete blank [141].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Furthermore"
+      },
+      {
+        "key": "B",
+        "text": "(B) Nevertheless"
+      },
+      {
+        "key": "C",
+        "text": "(C) Otherwise"
+      },
+      {
+        "key": "D",
+        "text": "(D) For instance"
+      }
+    ],
+    "correct": "A",
+    "translation": "Hơn nữa, hóa đơn gốc phải được tải lên trong vòng năm ngày làm việc kể từ khi kết thúc chuyến đi.",
+    "explanation": "Đáp án A. Câu trước quy định mọi chi phí phải nộp qua cổng điện tử; câu này bổ sung một yêu cầu khác về hóa đơn gốc, nên 'Furthermore' (Hơn nữa) phù hợp để nối thêm thông tin. B sai vì 'Nevertheless' (Tuy nhiên) thể hiện tương phản. C sai vì 'Otherwise' (Nếu không thì) nêu hệ quả của một điều kiện. D sai vì 'For instance' dùng để đưa ra ví dụ, trong khi đây là một quy định bổ sung.",
+    "vocab": [
+      {
+        "word": "original receipt",
+        "pos": "n.",
+        "meaning": "hóa đơn gốc"
+      },
+      {
+        "word": "upload",
+        "pos": "v.",
+        "meaning": "tải lên"
+      },
+      {
+        "word": "documentation",
+        "pos": "n.",
+        "meaning": "tài liệu, chứng từ"
+      },
+      {
+        "word": "delay in payment",
+        "pos": "n.",
+        "meaning": "sự chậm thanh toán"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>MEMORANDUM</strong></p><p><strong>To:</strong> All Department Heads<br><strong>From:</strong> Grace Lin, Finance Director<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Updated Travel Expense Procedure</p><hr class=\"my-2 border-neutral-300\"><p>To help us process reimbursement claims more quickly, the Finance Department has adopted a new online expense system. Beginning June 1, all travel expenses <strong>[139]</strong> be submitted through the ExpenseLink portal. Requests <strong>[140]</strong> $2,500 will also require approval from the finance director before reimbursement is issued.</p><p class=\"mt-2\"><strong>[141]</strong>, original receipts must be uploaded within five business days of returning from a trip. Employees who fail to provide the required documentation may experience a delay in payment.</p><p class=\"mt-2\">Following the implementation of the new system, paper forms will no longer be accepted. <strong>[142]</strong>. Department heads should ensure that their teams complete the online training module by May 26. If you have questions, please contact the Finance Help Desk at extension 237.</p></div>",
+    "questionText": "Question 142: Select the best sentence to complete blank [142].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The company's annual picnic will take place at Lakeside Park."
+      },
+      {
+        "key": "B",
+        "text": "(B) Several flights were delayed due to severe weather."
+      },
+      {
+        "key": "C",
+        "text": "(C) Step-by-step instructions for logging into the portal have been sent to all staff by e-mail."
+      },
+      {
+        "key": "D",
+        "text": "(D) The accounting office will move to the fourth floor next year."
+      }
+    ],
+    "correct": "C",
+    "translation": "Hướng dẫn từng bước để đăng nhập vào cổng thông tin đã được gửi qua email cho toàn bộ nhân viên.",
+    "explanation": "Đáp án C. Câu trước nói đơn giấy sẽ không còn được chấp nhận sau khi triển khai hệ thống mới, và câu sau yêu cầu trưởng bộ phận đảm bảo nhân viên hoàn thành bài đào tạo trực tuyến trước ngày 26/5. Câu C ('Step-by-step instructions for logging into the portal...') kết nối hợp lý giữa việc chuyển sang hệ thống mới và việc hoàn thành học trực tuyến. A, B, D lạc đề.",
+    "vocab": [
+      {
+        "word": "implementation",
+        "pos": "n.",
+        "meaning": "sự triển khai, thực hiện"
+      },
+      {
+        "word": "paper form",
+        "pos": "n.",
+        "meaning": "mẫu đơn giấy"
+      },
+      {
+        "word": "training module",
+        "pos": "n.",
+        "meaning": "bài học/buổi đào tạo trực tuyến"
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "meaning": "bảo đảm"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CRESTLINE EXECUTIVE SUITES</strong><br><em>A Smarter Choice for Business Travelers</em></p><hr class=\"my-2 border-neutral-300\"><p>Located five minutes from the convention center, Crestline Executive Suites offers everything you need for a productive stay. Our newly <strong>[143]</strong> conference rooms can accommodate up to 30 guests, and each suite includes a spacious work desk and high-speed internet.</p><p class=\"mt-2\">Guests who book directly through our website receive a <strong>[144]</strong> rate than those who reserve through a third-party site. The promotion is available <strong>[145]</strong> reservations made before June 30 and applies to stays of two nights or more.</p><p class=\"mt-2\">Need to print documents before a meeting? Our 24-hour business center is fully equipped with computers, printers, and private workstations. <strong>[146]</strong>.</p><p class=\"mt-2\">Visit crestline-suites.com/business or call (555) 017-4432 to reserve your suite today.</p></div>",
+    "questionText": "Question 143: Select the best answer to complete blank [143].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) renovate"
+      },
+      {
+        "key": "B",
+        "text": "(B) renovation"
+      },
+      {
+        "key": "C",
+        "text": "(C) renovated"
+      },
+      {
+        "key": "D",
+        "text": "(D) renovating"
+      }
+    ],
+    "correct": "C",
+    "translation": "Các phòng hội nghị mới được cải tạo của chúng tôi có thể chứa tới 30 khách.",
+    "explanation": "Đáp án C. Cụm 'newly renovated conference rooms' cần một tính từ bổ nghĩa cho 'conference rooms'; 'renovated' là quá khứ phân từ được dùng như tính từ, nghĩa là 'đã được cải tạo'. Trạng từ 'newly' đứng trước nhấn mạnh việc cải tạo vừa hoàn thành. A là động từ nguyên thể, B là danh từ, D là hiện tại phân từ mang nghĩa chủ động (phòng tự cải tạo), đều không phù hợp.",
+    "vocab": [
+      {
+        "word": "executive suite",
+        "pos": "n.",
+        "meaning": "phòng suite cao cấp"
+      },
+      {
+        "word": "conference room",
+        "pos": "n.",
+        "meaning": "phòng hội nghị"
+      },
+      {
+        "word": "accommodate",
+        "pos": "v.",
+        "meaning": "chứa được, đáp ứng chỗ cho"
+      },
+      {
+        "word": "spacious",
+        "pos": "adj.",
+        "meaning": "rộng rãi"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CRESTLINE EXECUTIVE SUITES</strong><br><em>A Smarter Choice for Business Travelers</em></p><hr class=\"my-2 border-neutral-300\"><p>Located five minutes from the convention center, Crestline Executive Suites offers everything you need for a productive stay. Our newly <strong>[143]</strong> conference rooms can accommodate up to 30 guests, and each suite includes a spacious work desk and high-speed internet.</p><p class=\"mt-2\">Guests who book directly through our website receive a <strong>[144]</strong> rate than those who reserve through a third-party site. The promotion is available <strong>[145]</strong> reservations made before June 30 and applies to stays of two nights or more.</p><p class=\"mt-2\">Need to print documents before a meeting? Our 24-hour business center is fully equipped with computers, printers, and private workstations. <strong>[146]</strong>.</p><p class=\"mt-2\">Visit crestline-suites.com/business or call (555) 017-4432 to reserve your suite today.</p></div>",
+    "questionText": "Question 144: Select the best answer to complete blank [144].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) lower"
+      },
+      {
+        "key": "B",
+        "text": "(B) low"
+      },
+      {
+        "key": "C",
+        "text": "(C) lowest"
+      },
+      {
+        "key": "D",
+        "text": "(D) more low"
+      }
+    ],
+    "correct": "A",
+    "translation": "Khách đặt phòng trực tiếp qua trang web của chúng tôi nhận được mức giá thấp hơn so với khách đặt qua bên thứ ba.",
+    "explanation": "Đáp án A. Từ 'than' ở cuối câu là dấu hiệu của so sánh hơn, nên cần dạng so sánh hơn của tính từ ngắn 'low' là 'lower'. B là tính từ gốc, không dùng với 'than'. C là so sánh nhất, dùng khi so sánh ba đối tượng trở lên. D sai vì 'low' là tính từ ngắn, dạng so sánh hơn không dùng 'more'.",
+    "vocab": [
+      {
+        "word": "book directly",
+        "pos": "phrase",
+        "meaning": "đặt phòng trực tiếp"
+      },
+      {
+        "word": "rate",
+        "pos": "n.",
+        "meaning": "giá, mức giá"
+      },
+      {
+        "word": "third-party site",
+        "pos": "n.",
+        "meaning": "trang web của bên thứ ba"
+      },
+      {
+        "word": "apply to",
+        "pos": "phrasal v.",
+        "meaning": "áp dụng cho"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CRESTLINE EXECUTIVE SUITES</strong><br><em>A Smarter Choice for Business Travelers</em></p><hr class=\"my-2 border-neutral-300\"><p>Located five minutes from the convention center, Crestline Executive Suites offers everything you need for a productive stay. Our newly <strong>[143]</strong> conference rooms can accommodate up to 30 guests, and each suite includes a spacious work desk and high-speed internet.</p><p class=\"mt-2\">Guests who book directly through our website receive a <strong>[144]</strong> rate than those who reserve through a third-party site. The promotion is available <strong>[145]</strong> reservations made before June 30 and applies to stays of two nights or more.</p><p class=\"mt-2\">Need to print documents before a meeting? Our 24-hour business center is fully equipped with computers, printers, and private workstations. <strong>[146]</strong>.</p><p class=\"mt-2\">Visit crestline-suites.com/business or call (555) 017-4432 to reserve your suite today.</p></div>",
+    "questionText": "Question 145: Select the best answer to complete blank [145].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) at"
+      },
+      {
+        "key": "B",
+        "text": "(B) on"
+      },
+      {
+        "key": "C",
+        "text": "(C) with"
+      },
+      {
+        "key": "D",
+        "text": "(D) for"
+      }
+    ],
+    "correct": "D",
+    "translation": "Chương trình khuyến mãi áp dụng cho các đặt phòng được thực hiện trước ngày 30 tháng 6 và áp dụng cho thời gian lưu trú từ hai đêm trở lên.",
+    "explanation": "Đáp án D. 'Be available for + danh từ' có nghĩa là 'có sẵn/áp dụng cho đối tượng hoặc điều kiện nào đó'; ở đây ưu đãi dành cho 'reservations made before June 30'. A sai vì 'available at' thường chỉ địa điểm hoặc mức giá. B sai vì 'available on' thường chỉ ngày hoặc nền tảng cụ thể. Thông tin 'before June 30' đã nằm sau 'reservations', nên không cần 'on'. C sai vì 'available with' chỉ đi kèm một thứ gì đó, không diễn tả phạm vi áp dụng của ưu đãi.",
+    "vocab": [
+      {
+        "word": "availability",
+        "pos": "n.",
+        "meaning": "sự sẵn có"
+      },
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "meaning": "sự đặt phòng"
+      },
+      {
+        "word": "stay",
+        "pos": "n.",
+        "meaning": "thời gian lưu trú"
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "meaning": "chương trình khuyến mãi"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>CRESTLINE EXECUTIVE SUITES</strong><br><em>A Smarter Choice for Business Travelers</em></p><hr class=\"my-2 border-neutral-300\"><p>Located five minutes from the convention center, Crestline Executive Suites offers everything you need for a productive stay. Our newly <strong>[143]</strong> conference rooms can accommodate up to 30 guests, and each suite includes a spacious work desk and high-speed internet.</p><p class=\"mt-2\">Guests who book directly through our website receive a <strong>[144]</strong> rate than those who reserve through a third-party site. The promotion is available <strong>[145]</strong> reservations made before June 30 and applies to stays of two nights or more.</p><p class=\"mt-2\">Need to print documents before a meeting? Our 24-hour business center is fully equipped with computers, printers, and private workstations. <strong>[146]</strong>.</p><p class=\"mt-2\">Visit crestline-suites.com/business or call (555) 017-4432 to reserve your suite today.</p></div>",
+    "questionText": "Question 146: Select the best sentence to complete blank [146].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Corporate account holders also enjoy complimentary access to our fitness center and executive lounge."
+      },
+      {
+        "key": "B",
+        "text": "(B) Please return your room key to the front desk upon departure."
+      },
+      {
+        "key": "C",
+        "text": "(C) The convention center was built in 1998."
+      },
+      {
+        "key": "D",
+        "text": "(D) Baggage exceeding fifty pounds will incur an additional fee."
+      }
+    ],
+    "correct": "A",
+    "translation": "Chủ tài khoản doanh nghiệp còn được hưởng quyền sử dụng miễn phí trung tâm thể hình và phòng chờ hạng thương gia của chúng tôi.",
+    "explanation": "Đáp án A. Đoạn văn đang liệt kê các tiện ích dành cho khách công tác tại Crestline Executive Suites (trung tâm dịch vụ văn phòng 24 giờ với máy tính, máy in). Câu A bổ sung thêm đặc quyền miễn phí cho khách hàng doanh nghiệp ('Corporate account holders also enjoy...') rất khớp với mục đích quảng cáo khách sạn. B là lời nhắc trả phòng, C là lịch sử xây dựng, D là quy định hành lý hàng không.",
+    "vocab": [
+      {
+        "word": "corporate account holder",
+        "pos": "n.",
+        "meaning": "chủ tài khoản doanh nghiệp"
+      },
+      {
+        "word": "complimentary",
+        "pos": "adj.",
+        "meaning": "miễn phí, được tặng kèm"
+      },
+      {
+        "word": "fitness center",
+        "pos": "n.",
+        "meaning": "phòng tập thể dục"
+      },
+      {
+        "word": "business lounge",
+        "pos": "n.",
+        "meaning": "phòng chờ doanh vụ"
+      }
+    ]
+  }
+]

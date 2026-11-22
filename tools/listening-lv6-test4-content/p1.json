@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "potter_ceramic_wheel",
+    "imageCaption": "Nghệ nhân gốm đang tạo hình bình đất sét trên bàn xoay gốm trong xưởng thủ công.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Glaze is being brushed onto an assortment of fired bowls.",
+      "An earthenware vessel is being molded on a rotating potter's wheel.",
+      "Freshly mixed clay is being shoveled into a brick kiln.",
+      "The artisan's workbench has been cleared of all ceramic items."
+    ],
+    "correct": "B",
+    "translation": "(A) Men gốm đang được quét bằng cọ lên nhiều chiếc bát đã nung.\n(B) Một chiếc bình đất nung đang được tạo hình trên bàn xoay gốm đang quay.\n(C) Đất sét mới trộn đang được xúc vào trong một lò nung gạch.\n(D) Bàn làm việc của nghệ nhân đã được dọn sạch mọi vật dụng gốm sứ.",
+    "explanation": "Đáp án đúng là (B) vì cấu trúc bị động tiếp diễn 'is being molded on a rotating potter's wheel' mô tả chính xác nghệ nhân đang nặn tạo hình chiếc bình đất sét trên bàn xoay. Bẫy C1–C2: (A) sai công đoạn thực tế vì đang tạo hình đất sét mộc chứ không quét men lên bát đã nung; (C) sai hoàn toàn hành động ('shoveled into a brick kiln'); (D) dùng bị động hoàn thành 'has been cleared of all ceramic items' mang tính tuyệt đối hóa và mâu thuẫn với chiếc bình đang nằm trên bàn xoay.",
+    "vocab": [
+      ["earthenware", "n", "đồ gốm đất nung"],
+      ["vessel", "n", "bình, lọ, vật chứa"],
+      ["mold", "v", "nặn, tạo hình theo khuôn"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "bicycle_rack_plaza",
+    "imageCaption": "Một dãy xe đạp được khóa ngay ngắn vào giá đỡ kim loại dọc lối đi lát đá trước tòa nhà văn phòng.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Padlocks are being attached to bicycle frames by a pedestrian.",
+      "Paving stones are being laid along the office building's frontage.",
+      "A row of bicycles has been secured to metal racks along a paved walkway.",
+      "The metallic bike racks have been dismantled and stacked near the curb."
+    ],
+    "correct": "C",
+    "translation": "(A) Những chiếc ổ khóa đang được một người đi bộ gắn vào khung xe đạp.\n(B) Những viên đá lát đường đang được thi công dọc theo mặt tiền tòa nhà văn phòng.\n(C) Một dãy xe đạp đã được khóa cố định vào các giá đỡ kim loại dọc lối đi lát đá.\n(D) Các giá để xe đạp bằng kim loại đã bị tháo dỡ và xếp chồng gần lề đường.",
+    "explanation": "Đáp án đúng là (C) vì sử dụng thì hiện tại hoàn thành bị động ('has been secured') diễn tả chính xác trạng thái tĩnh của dãy xe đạp đang khóa ngay ngắn vào giá kim loại dọc lối đi lát đá. Bẫy C1–C2: (A) và (B) dùng bị động tiếp diễn ('are being attached', 'are being laid') sai vì cảnh không có hành động khóa xe hay lát đá đang diễn ra; (D) dùng đúng cấu trúc hoàn thành bị động nhưng sai hoàn toàn trạng thái ('dismantled and stacked').",
+    "vocab": [
+      ["secure", "v", "khóa chặt, cố định an toàn"],
+      ["walkway", "n", "lối đi bộ"],
+      ["dismantle", "v", "tháo dỡ từng phần"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "surgeon_scrub_sink",
+    "imageCaption": "Nhân viên y tế đeo khẩu trang đang rửa tay dưới vòi nước cảm ứng bằng thép không gỉ.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A masked practitioner is scrubbing both hands under a stainless-steel faucet.",
+      "A surgical mask is being lowered below the clinician's chin.",
+      "Metallic surgical instruments are being soaked inside the sink basin.",
+      "The washbasin station has been vacated with the tap completely shut off."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên y tế đeo khẩu trang đang chà rửa cả hai tay dưới vòi nước bằng thép không gỉ.\n(B) Một chiếc khẩu trang phẫu thuật đang được kéo xuống dưới cằm của bác sĩ.\n(C) Các dụng cụ phẫu thuật kim loại đang được ngâm bên trong bồn rửa.\n(D) Khu vực bồn rửa đã không còn người và vòi nước đã khóa chặt hoàn toàn.",
+    "explanation": "Đáp án đúng là (A) vì mô tả trực diện hành động đang diễn ra: nhân viên y tế đeo khẩu trang đang rửa hai tay dưới vòi nước thép không gỉ. Bẫy C1–C2: (B) sai động từ hành động khi khẩu trang vẫn đeo kín chứ không bị kéo xuống ('being lowered'); (C) bẫy ngữ cảnh phòng mổ khi đưa dụng cụ phẫu thuật vào bồn rửa dù thực tế đang rửa tay; (D) sai cả trạng thái có người và dòng nước đang chảy.",
+    "vocab": [
+      ["practitioner", "n", "người hành nghề chuyên môn (y tế)"],
+      ["scrub", "v", "chà rửa kỹ (trước phẫu thuật)"],
+      ["vacate", "v", "rời đi, bỏ trống"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "greenhouse_botanist",
+    "imageCaption": "Nhà nghiên cứu mặc áo blouse trắng đang kiểm tra các chậu cây non xếp thành hàng trong nhà kính.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Overgrown foliage is being trimmed back with a pair of pruning shears.",
+      "Hydroponic troughs are being hauled outside on a flatbed cart.",
+      "The glass conservatory beds have been stripped bare of all greenery.",
+      "A researcher in a lab coat is inspecting potted seedlings inside a glass-roofed conservatory."
+    ],
+    "correct": "D",
+    "translation": "(A) Tán lá mọc um tùm đang được cắt tỉa lại bằng một chiếc kéo làm vườn.\n(B) Các máng trồng thủy canh đang được chuyển ra bên ngoài trên xe đẩy sàn phẳng.\n(C) Các luống trồng trong nhà kính đã bị dọn trụi hoàn toàn không còn cây xanh.\n(D) Một nhà nghiên cứu mặc áo blouse trắng đang kiểm tra các cây non trồng trong chậu bên trong nhà kính mái vòm kính.",
+    "explanation": "Đáp án đúng là (D) với động từ hiện tại tiếp diễn 'is inspecting potted seedlings' phản ánh chính xác hành động cúi xem cây non trồng trong chậu bên trong nhà kính. Bẫy C1–C2: (A) suy diễn sai công cụ và hành động sang cắt tỉa bằng kéo ('pruning shears'); (B) sai hành động vận chuyển máng cây ra ngoài; (C) dùng hoàn thành bị động sai sự thật ('stripped bare of all greenery').",
+    "vocab": [
+      ["seedling", "n", "cây non, cây giống mới mọc"],
+      ["conservatory", "n", "nhà kính trồng cây"],
+      ["foliage", "n", "tán lá, hệ lá cây"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "bookstore_ladder",
+    "imageCaption": "Chiếc thang gỗ trượt được tựa sát vào kệ sách cao kịch trần trong một hiệu sách cổ điển không có người.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Hardcover volumes are being retrieved from the top tier by a store clerk.",
+      "A sliding wooden ladder is leaning against a floor-to-ceiling bookcase.",
+      "A folding stepladder is being collapsed for storage in a back room.",
+      "The towering bookshelves have been completely cleared of merchandise."
+    ],
+    "correct": "B",
+    "translation": "(A) Những cuốn sách bìa cứng đang được một nhân viên cửa hàng lấy xuống từ tầng kệ trên cùng.\n(B) Một chiếc thang gỗ trượt đang tựa sát vào tủ sách cao kịch trần.\n(C) Một chiếc thang gấp đang được gập lại để cất vào phòng kho phía sau.\n(D) Các kệ sách cao vút đã được dọn sạch hoàn toàn không còn hàng hóa.",
+    "explanation": "Đáp án đúng là (B) vì miêu tả trạng thái tĩnh của chiếc thang gỗ trượt đang tựa vào hệ kệ sách cao kịch trần ('floor-to-ceiling bookcase'). Bẫy kinh điển Part 1 đối với ảnh không người: (A) và (C) đều dùng bị động tiếp diễn ('are being retrieved', 'is being collapsed') tạo hành động giả không có trong ảnh; (D) khẳng định sai thực tế khi kệ vẫn đầy sách ('completely cleared of merchandise').",
+    "vocab": [
+      ["floor-to-ceiling", "adj", "cao chạm trần, kịch trần"],
+      ["retrieve", "v", "lấy lại, lấy xuống"],
+      ["collapse", "v", "gập gọn lại, xếp lại"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "tailor_mannequin",
+    "imageCaption": "Một chiếc áo vest đang may dở với các đường chỉ lược được mặc trên ma-nơ-canh trưng bày.",
+    "imageUrl": "listening/images/lv6-test-04/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Patterns are being sliced from bolts of wool with heavy tailoring shears.",
+      "An undressed mannequin has been shrouded inside a protective dust cover.",
+      "A partially tailored suit jacket has been fitted onto a torso mannequin.",
+      "A finished suit is being zipped inside a breathable garment bag."
+    ],
+    "correct": "C",
+    "translation": "(A) Các mẫu rập đang được cắt ra từ những cuộn vải len bằng kéo cắt may cỡ lớn.\n(B) Một ma-nơ-canh chưa mặc đồ đã được trùm kín bên trong túi bọc chống bụi.\n(C) Một chiếc áo vest đang may dở đã được mặc lên ma-nơ-canh thân người.\n(D) Một bộ đồ hoàn chỉnh đang được kéo khóa cất vào túi đựng quần áo thoáng khí.",
+    "explanation": "Đáp án đúng là (C) vì sử dụng thì hiện tại hoàn thành bị động ('has been fitted onto a torso mannequin') diễn tả chính xác trạng thái tĩnh của chiếc áo vest may dở còn nguyên đường chỉ lược trên ma-nơ-canh không có người. Bẫy C1–C2: (A) và (D) dùng bị động tiếp diễn ('are being sliced', 'is being zipped') tạo hành động giả không có trong ảnh; (B) sai trạng thái tĩnh của ma-nơ-canh ('undressed', 'shrouded inside a dust cover').",
+    "vocab": [
+      ["garment", "n", "trang phục, quần áo"],
+      ["bolt", "n", "cuộn (vải vóc)"],
+      ["shroud", "v", "che phủ, bọc kín"]
+    ]
+  }
+]

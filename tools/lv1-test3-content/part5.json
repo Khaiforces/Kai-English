@@ -1,0 +1,362 @@
+[
+  {
+    "n": 101,
+    "q": "Ms. Kim always _______ her e-mails before 9:00 A.M.",
+    "options": ["check", "checks", "checking", "checked"],
+    "answer": "B",
+    "translation": "Cô Kim luôn kiểm tra email của mình trước 9 giờ sáng.",
+    "explanation": "Chủ ngữ số ít 'Ms. Kim' và trạng từ 'always' chỉ thói quen ở hiện tại đơn nên động từ thêm '-s' là 'checks'.",
+    "vocab": [
+      ["always", "adv", "luôn luôn"],
+      ["check", "v", "kiểm tra"]
+    ]
+  },
+  {
+    "n": 102,
+    "q": "The new printer is located _______ the copy room.",
+    "options": ["in", "on", "at", "to"],
+    "answer": "A",
+    "translation": "Chiếc máy in mới được đặt ở trong phòng photocopy.",
+    "explanation": "Dùng giới từ 'in' để chỉ vị trí bên trong một căn phòng ('in the copy room').",
+    "vocab": [
+      ["printer", "n", "máy in"],
+      ["locate", "v", "đặt ở, tọa lạc"]
+    ]
+  },
+  {
+    "n": 103,
+    "q": "Please give this folder to _______ when you see him.",
+    "options": ["he", "his", "him", "himself"],
+    "answer": "C",
+    "translation": "Vui lòng đưa tập tài liệu này cho anh ấy khi bạn gặp anh ấy.",
+    "explanation": "Sau giới từ 'to' cần một đại từ tân ngữ, nên chọn 'him'.",
+    "vocab": [
+      ["folder", "n", "tập tài liệu, bìa hồ sơ"],
+      ["give", "v", "đưa, tặng"]
+    ]
+  },
+  {
+    "n": 104,
+    "q": "Our office ordered five _______ of white paper yesterday.",
+    "options": ["box", "boxes", "boxed", "boxing"],
+    "answer": "B",
+    "translation": "Văn phòng chúng tôi đã đặt năm thùng giấy trắng vào hôm qua.",
+    "explanation": "Sau số đếm 'five' cần danh từ đếm được số nhiều là 'boxes'.",
+    "vocab": [
+      ["order", "v", "đặt hàng"],
+      ["paper", "n", "giấy"]
+    ]
+  },
+  {
+    "n": 105,
+    "q": "Mr. Tanaka is a very _______ worker who never misses a deadline.",
+    "options": ["rely", "relies", "reliable", "reliably"],
+    "answer": "C",
+    "translation": "Ông Tanaka là một nhân viên rất đáng tin cậy, người không bao giờ trễ hạn.",
+    "explanation": "Trước danh từ 'worker' cần một tính từ để bổ nghĩa, nên chọn 'reliable'.",
+    "vocab": [
+      ["reliable", "adj", "đáng tin cậy"],
+      ["deadline", "n", "hạn chót"]
+    ]
+  },
+  {
+    "n": 106,
+    "q": "The train to Busan _______ at 8:15 every morning.",
+    "options": ["leave", "leaves", "left", "leaving"],
+    "answer": "B",
+    "translation": "Chuyến tàu đi Busan rời ga lúc 8 giờ 15 mỗi sáng.",
+    "explanation": "Lịch trình cố định hằng ngày ('every morning') dùng thì hiện tại đơn; chủ ngữ 'The train' số ít nên chọn 'leaves'.",
+    "vocab": [
+      ["train", "n", "tàu hỏa"],
+      ["leave", "v", "rời đi, khởi hành"]
+    ]
+  },
+  {
+    "n": 107,
+    "q": "We need to buy a _______ table for the meeting room.",
+    "options": ["large", "largely", "largeness", "enlarge"],
+    "answer": "A",
+    "translation": "Chúng ta cần mua một chiếc bàn lớn cho phòng họp.",
+    "explanation": "Giữa mạo từ 'a' và danh từ 'table' cần một tính từ, nên chọn 'large'.",
+    "vocab": [
+      ["large", "adj", "lớn, rộng"],
+      ["meeting room", "n", "phòng họp"]
+    ]
+  },
+  {
+    "n": 108,
+    "q": "Ms. Rivera spoke _______ so everyone in the hall could hear her.",
+    "options": ["clear", "clarity", "clearly", "cleared"],
+    "answer": "C",
+    "translation": "Cô Rivera đã nói rõ ràng để mọi người trong hội trường có thể nghe thấy cô ấy.",
+    "explanation": "Cần một trạng từ bổ nghĩa cho động từ 'spoke', nên chọn 'clearly'.",
+    "vocab": [
+      ["clearly", "adv", "một cách rõ ràng"],
+      ["hall", "n", "hội trường, sảnh"]
+    ]
+  },
+  {
+    "n": 109,
+    "q": "All visitors must _______ at the front desk upon arrival.",
+    "options": ["sign", "signs", "signed", "signing"],
+    "answer": "A",
+    "translation": "Tất cả khách đến thăm phải ký tên tại quầy lễ tân khi tới nơi.",
+    "explanation": "Sau động từ khiếm khuyết 'must' dùng động từ nguyên mẫu không 'to', nên chọn 'sign'.",
+    "vocab": [
+      ["visitor", "n", "khách tham quan"],
+      ["front desk", "n", "quầy lễ tân"]
+    ]
+  },
+  {
+    "n": 110,
+    "q": "The coffee shop is closed today _______ it is a national holiday.",
+    "options": ["because", "but", "or", "so"],
+    "answer": "A",
+    "translation": "Quán cà phê hôm nay đóng cửa vì là ngày lễ quốc gia.",
+    "explanation": "Mệnh đề sau nêu lý do đóng cửa nên dùng liên từ chỉ nguyên nhân 'because'.",
+    "vocab": [
+      ["closed", "adj", "đóng cửa"],
+      ["holiday", "n", "ngày lễ, kỳ nghỉ"]
+    ]
+  },
+  {
+    "n": 111,
+    "q": "Last week, the manager _______ a new assistant for the sales team.",
+    "options": ["hire", "hires", "hired", "will hire"],
+    "answer": "C",
+    "translation": "Tuần trước, người quản lý đã tuyển một trợ lý mới cho đội ngũ bán hàng.",
+    "explanation": "Có trạng từ chỉ thời gian quá khứ 'Last week' nên dùng thì quá khứ đơn 'hired'.",
+    "vocab": [
+      ["hire", "v", "thuê, tuyển dụng"],
+      ["assistant", "n", "trợ lý"]
+    ]
+  },
+  {
+    "n": 112,
+    "q": "You can pay for your groceries _______ cash or by credit card.",
+    "options": ["with", "in", "on", "of"],
+    "answer": "B",
+    "translation": "Bạn có thể thanh toán tiền hàng tạp hóa bằng tiền mặt hoặc thẻ tín dụng.",
+    "explanation": "Cụm từ cố định 'pay in cash' có nghĩa là trả bằng tiền mặt.",
+    "vocab": [
+      ["groceries", "n", "hàng tạp hóa"],
+      ["cash", "n", "tiền mặt"]
+    ]
+  },
+  {
+    "n": 113,
+    "q": "This laptop belongs to Sarah, and the black bag is _______ too.",
+    "options": ["she", "her", "hers", "herself"],
+    "answer": "C",
+    "translation": "Chiếc máy tính xách tay này thuộc về Sarah, và chiếc túi màu đen cũng là của cô ấy.",
+    "explanation": "Cần một đại từ sở hữu thay thế cho 'her bag', nên chọn 'hers'.",
+    "vocab": [
+      ["belong to", "v", "thuộc về"],
+      ["laptop", "n", "máy tính xách tay"]
+    ]
+  },
+  {
+    "n": 114,
+    "q": "The hotel offers _______ breakfast to all guests every morning.",
+    "options": ["free", "freely", "freedom", "freeing"],
+    "answer": "A",
+    "translation": "Khách sạn cung cấp bữa sáng miễn phí cho tất cả khách lưu trú mỗi sáng.",
+    "explanation": "Trước danh từ 'breakfast' cần một tính từ bổ nghĩa, nên chọn 'free' (miễn phí).",
+    "vocab": [
+      ["offer", "v", "cung cấp, mời"],
+      ["guest", "n", "khách"]
+    ]
+  },
+  {
+    "n": 115,
+    "q": "Please turn off the lights _______ you leave the office.",
+    "options": ["before", "during", "between", "under"],
+    "answer": "A",
+    "translation": "Vui lòng tắt đèn trước khi bạn rời khỏi văn phòng.",
+    "explanation": "Cần một liên từ nối hai mệnh đề mang nghĩa 'trước khi', nên chọn 'before'.",
+    "vocab": [
+      ["turn off", "v", "tắt"],
+      ["light", "n", "đèn, ánh sáng"]
+    ]
+  },
+  {
+    "n": 116,
+    "q": "The company _______ its new website next Monday.",
+    "options": ["launch", "launched", "will launch", "launching"],
+    "answer": "C",
+    "translation": "Công ty sẽ ra mắt trang web mới vào thứ Hai tuần tới.",
+    "explanation": "Có cụm từ chỉ tương lai 'next Monday' nên dùng thì tương lai đơn 'will launch'.",
+    "vocab": [
+      ["launch", "v", "ra mắt, khai trương"],
+      ["website", "n", "trang web"]
+    ]
+  },
+  {
+    "n": 117,
+    "q": "Our team finished the project _______ than we expected.",
+    "options": ["fast", "faster", "fastest", "fastly"],
+    "answer": "B",
+    "translation": "Nhóm của chúng tôi đã hoàn thành dự án nhanh hơn dự kiến.",
+    "explanation": "Có từ 'than' trong câu so sánh hơn nên chọn trạng từ so sánh hơn 'faster'.",
+    "vocab": [
+      ["finish", "v", "hoàn thành"],
+      ["expect", "v", "mong đợi, dự kiến"]
+    ]
+  },
+  {
+    "n": 118,
+    "q": "There _______ many cars in the parking lot this morning.",
+    "options": ["is", "are", "was", "be"],
+    "answer": "B",
+    "translation": "Sáng nay có rất nhiều xe ô tô trong bãi đỗ xe.",
+    "explanation": "Danh từ 'many cars' ở số nhiều và ngữ cảnh hiện tại ('this morning') nên chọn 'are'.",
+    "vocab": [
+      ["parking lot", "n", "bãi đỗ xe"],
+      ["many", "adj", "nhiều"]
+    ]
+  },
+  {
+    "n": 119,
+    "q": "Mr. Lee thanked his coworkers for their _______ on the report.",
+    "options": ["help", "helpful", "helped", "helping"],
+    "answer": "A",
+    "translation": "Ông Lee đã cảm ơn các đồng nghiệp vì sự giúp đỡ của họ đối với bản báo cáo.",
+    "explanation": "Sau tính từ sở hữu 'their' cần một danh từ, nên chọn 'help' (sự giúp đỡ).",
+    "vocab": [
+      ["coworker", "n", "đồng nghiệp"],
+      ["report", "n", "bản báo cáo"]
+    ]
+  },
+  {
+    "n": 120,
+    "q": "The post office is across the street _______ the city library.",
+    "options": ["from", "to", "with", "at"],
+    "answer": "A",
+    "translation": "Bưu điện nằm ở phía bên kia đường đối diện thư viện thành phố.",
+    "explanation": "Cụm giới từ cố định là 'across ... from' (đối diện với).",
+    "vocab": [
+      ["post office", "n", "bưu điện"],
+      ["library", "n", "thư viện"]
+    ]
+  },
+  {
+    "n": 121,
+    "q": "Would you like _______ a cup of green tea?",
+    "options": ["have", "has", "having", "to have"],
+    "answer": "D",
+    "translation": "Bạn có muốn uống một tách trà xanh không?",
+    "explanation": "Cấu trúc lời mời lịch sự 'Would you like + to V' nên chọn 'to have'.",
+    "vocab": [
+      ["cup", "n", "tách, chén"],
+      ["green tea", "n", "trà xanh"]
+    ]
+  },
+  {
+    "n": 122,
+    "q": "The winter coat was expensive, _______ Anna decided to buy it anyway.",
+    "options": ["because", "but", "if", "unless"],
+    "answer": "B",
+    "translation": "Chiếc áo khoác mùa đông rất đắt, nhưng Anna vẫn quyết định mua nó.",
+    "explanation": "Hai vế mang nghĩa tương phản (đắt nhưng vẫn mua) nên dùng liên từ 'but'.",
+    "vocab": [
+      ["expensive", "adj", "đắt tiền"],
+      ["decide", "v", "quyết định"]
+    ]
+  },
+  {
+    "n": 123,
+    "q": "Please read the _______ carefully before using the machine.",
+    "options": ["instruct", "instructions", "instructive", "instructed"],
+    "answer": "B",
+    "translation": "Vui lòng đọc kỹ hướng dẫn trước khi sử dụng máy.",
+    "explanation": "Sau mạo từ 'the' cần một danh từ; 'instructions' (các hướng dẫn) phù hợp nhất về nghĩa.",
+    "vocab": [
+      ["instruction", "n", "hướng dẫn"],
+      ["carefully", "adv", "một cách cẩn thận"]
+    ]
+  },
+  {
+    "n": 124,
+    "q": "Right now, the technician _______ the air conditioner in Room 204.",
+    "options": ["fixes", "fixed", "is fixing", "will fix"],
+    "answer": "C",
+    "translation": "Ngay lúc này, kỹ thuật viên đang sửa máy điều hòa ở Phòng 204.",
+    "explanation": "Cụm từ 'Right now' chỉ hành động đang diễn ra ở hiện tại nên dùng thì hiện tại tiếp diễn 'is fixing'.",
+    "vocab": [
+      ["technician", "n", "kỹ thuật viên"],
+      ["air conditioner", "n", "máy điều hòa"]
+    ]
+  },
+  {
+    "n": 125,
+    "q": "The bus stop is _______ five minutes away from my apartment.",
+    "options": ["only", "often", "never", "very"],
+    "answer": "A",
+    "translation": "Trạm xe buýt chỉ cách căn hộ của tôi năm phút đi bộ.",
+    "explanation": "Trạng từ 'only' (chỉ) dùng để nhấn mạnh khoảng thời gian ngắn 'five minutes'.",
+    "vocab": [
+      ["bus stop", "n", "trạm xe buýt"],
+      ["apartment", "n", "căn hộ"]
+    ]
+  },
+  {
+    "n": 126,
+    "q": "Employees can _______ their lunch in the kitchen on the second floor.",
+    "options": ["eat", "ate", "eaten", "eating"],
+    "answer": "A",
+    "translation": "Nhân viên có thể ăn trưa trong nhà bếp ở tầng hai.",
+    "explanation": "Sau động từ khiếm khuyết 'can' luôn dùng động từ nguyên mẫu là 'eat'.",
+    "vocab": [
+      ["employee", "n", "nhân viên"],
+      ["kitchen", "n", "nhà bếp"]
+    ]
+  },
+  {
+    "n": 127,
+    "q": "The bookstore is open _______ 9:00 A.M. to 8:00 P.M. daily.",
+    "options": ["at", "from", "by", "since"],
+    "answer": "B",
+    "translation": "Hiệu sách mở cửa từ 9 giờ sáng đến 8 giờ tối hằng ngày.",
+    "explanation": "Cấu trúc chỉ khoảng thời gian 'from ... to ...' (từ ... đến ...).",
+    "vocab": [
+      ["bookstore", "n", "hiệu sách"],
+      ["daily", "adv", "hằng ngày"]
+    ]
+  },
+  {
+    "n": 128,
+    "q": "We enjoyed the company picnic _______ the light rain.",
+    "options": ["although", "because", "despite", "while"],
+    "answer": "C",
+    "translation": "Chúng tôi vẫn tận hưởng buổi dã ngoại của công ty mặc dù có mưa nhẹ.",
+    "explanation": "Trước cụm danh từ 'the light rain' cần một giới từ mang nghĩa 'mặc dù', nên chọn 'despite'.",
+    "vocab": [
+      ["picnic", "n", "buổi dã ngoại"],
+      ["despite", "prep", "mặc dù"]
+    ]
+  },
+  {
+    "n": 129,
+    "q": "Every staff member received a _______ gift from the director.",
+    "options": ["small", "smaller", "smallest", "smallness"],
+    "answer": "A",
+    "translation": "Mỗi nhân viên đều nhận được một món quà nhỏ từ giám đốc.",
+    "explanation": "Giữa mạo từ 'a' và danh từ 'gift' cần một tính từ thường không so sánh, nên chọn 'small'.",
+    "vocab": [
+      ["staff member", "n", "nhân viên"],
+      ["director", "n", "giám đốc"]
+    ]
+  },
+  {
+    "n": 130,
+    "q": "Please call the customer service desk if you have any _______.",
+    "options": ["question", "questions", "questioning", "questioned"],
+    "answer": "B",
+    "translation": "Vui lòng gọi cho quầy dịch vụ khách hàng nếu bạn có bất kỳ câu hỏi nào.",
+    "explanation": "Sau 'any' với danh từ đếm được thường dùng dạng số nhiều 'questions'.",
+    "vocab": [
+      ["customer service", "n", "dịch vụ khách hàng"],
+      ["question", "n", "câu hỏi"]
+    ]
+  }
+]

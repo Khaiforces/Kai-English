@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "audioVoiceText": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "questionText": "What is the purpose of the announcement?",
+    "options": [
+      "To introduce new employees to the department",
+      "To report changes to the conference center's schedule",
+      "To ask staff to approve a renovation budget",
+      "To remind staff about a fire drill"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng, mọi người. Tôi muốn cập nhật nhanh cho anh chị về việc cải tạo trung tâm hội nghị ở tầng ba của chúng ta. Nhà thầu đã hoàn thành phần điện sớm hơn kế hoạch, nên các phòng sẽ mở lại vào thứ Hai, sớm hơn hai tuần so với dự kiến ban đầu. Từ tuần sau, phòng Fairfax và Belmont sẽ được đặt qua lịch nội bộ giống như trước đây. Xin lưu ý rằng phòng lớn nhất, khán phòng Kingsley, sẽ vẫn đóng cửa đến đầu tháng sau trong khi thiết bị video mới được lắp đặt. Nếu anh chị đã đặt phòng Kingsley cho một cuộc họp trong bốn tuần tới, trợ lý của tôi, Dana, sẽ liên hệ với anh chị hôm nay để giúp tìm không gian khác. Ngoài ra, các phòng họp tạm ở tầng hai sẽ được dỡ bỏ vào thứ Sáu, vì vậy hãy dọn hết đồ cá nhân khỏi đó trước chiều mai.\n(A) Giới thiệu nhân viên mới với phòng ban\n(B) Thông báo những thay đổi về lịch của trung tâm hội nghị\n(C) Đề nghị nhân viên phê duyệt ngân sách cải tạo\n(D) Nhắc nhân viên về buổi diễn tập cháy",
+    "explanation": "Người nói mở đầu bằng việc cập nhật tình hình cải tạo: các phòng mở lại sớm hai tuần, phòng Kingsley đóng đến đầu tháng sau, phòng họp tạm bị dỡ vào thứ Sáu — tất cả đều là thay đổi về lịch sử dụng. (C) là bẫy vì có nhắc đến cải tạo nhưng không hề xin duyệt ngân sách.",
+    "vocab": [
+      {
+        "word": "renovation",
+        "pos": "n",
+        "meaning": "việc cải tạo, sửa sang"
+      },
+      {
+        "word": "contractor",
+        "pos": "n",
+        "meaning": "nhà thầu"
+      },
+      {
+        "word": "ahead of schedule",
+        "pos": "phr",
+        "meaning": "sớm hơn kế hoạch"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "audioVoiceText": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "questionText": "What will happen on Friday?",
+    "options": [
+      "The Kingsley auditorium will reopen.",
+      "New video equipment will be delivered.",
+      "The temporary meeting pods will be taken away.",
+      "The internal calendar will be updated."
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng, mọi người. Tôi muốn cập nhật nhanh cho anh chị về việc cải tạo trung tâm hội nghị ở tầng ba của chúng ta. Nhà thầu đã hoàn thành phần điện sớm hơn kế hoạch, nên các phòng sẽ mở lại vào thứ Hai, sớm hơn hai tuần so với dự kiến ban đầu. Từ tuần sau, phòng Fairfax và Belmont sẽ được đặt qua lịch nội bộ giống như trước đây. Xin lưu ý rằng phòng lớn nhất, khán phòng Kingsley, sẽ vẫn đóng cửa đến đầu tháng sau trong khi thiết bị video mới được lắp đặt. Nếu anh chị đã đặt phòng Kingsley cho một cuộc họp trong bốn tuần tới, trợ lý của tôi, Dana, sẽ liên hệ với anh chị hôm nay để giúp tìm không gian khác. Ngoài ra, các phòng họp tạm ở tầng hai sẽ được dỡ bỏ vào thứ Sáu, vì vậy hãy dọn hết đồ cá nhân khỏi đó trước chiều mai.\n(A) Khán phòng Kingsley sẽ mở cửa trở lại.\n(B) Thiết bị video mới sẽ được giao đến.\n(C) Các phòng họp tạm sẽ được dỡ bỏ.\n(D) Lịch nội bộ sẽ được cập nhật.",
+    "explanation": "Cuối bài nói nêu rõ các phòng họp tạm ở tầng hai sẽ được dỡ bỏ vào thứ Sáu. (A) sai vì Kingsley còn đóng đến đầu tháng sau; (B) chỉ nói thiết bị đang được lắp đặt, không nêu ngày giao.",
+    "vocab": [
+      {
+        "word": "temporary",
+        "pos": "adj",
+        "meaning": "tạm thời"
+      },
+      {
+        "word": "pod",
+        "pos": "n",
+        "meaning": "phòng nhỏ, buồng nhỏ"
+      },
+      {
+        "word": "clear",
+        "pos": "v",
+        "meaning": "dọn, lấy hết đồ"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following announcement:",
+    "audioScript": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "audioVoiceText": "Good morning, everyone. I want to give you a quick update on the renovation of our third-floor conference center. The contractors finished the electrical work ahead of schedule, so the rooms will reopen on Monday, two weeks earlier than we originally planned. Starting next week, the Fairfax and Belmont rooms will be available for booking through the internal calendar, just as they were before. Please note that the largest room, the Kingsley auditorium, will stay closed until early next month while the new video equipment is installed. If you have already reserved the Kingsley for a meeting in the next four weeks, my assistant, Dana, will contact you today to help you find another space. Also, the temporary meeting pods on the second floor will be removed on Friday, so please clear any personal items from them by tomorrow afternoon.",
+    "questionText": "What is indicated about the Kingsley auditorium?",
+    "options": [
+      "It is the smallest of the renovated rooms.",
+      "It will reopen early next month.",
+      "It has been booked for four weeks.",
+      "It will be renamed after the renovation."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng, mọi người. Tôi muốn cập nhật nhanh cho anh chị về việc cải tạo trung tâm hội nghị ở tầng ba của chúng ta. Nhà thầu đã hoàn thành phần điện sớm hơn kế hoạch, nên các phòng sẽ mở lại vào thứ Hai, sớm hơn hai tuần so với dự kiến ban đầu. Từ tuần sau, phòng Fairfax và Belmont sẽ được đặt qua lịch nội bộ giống như trước đây. Xin lưu ý rằng phòng lớn nhất, khán phòng Kingsley, sẽ vẫn đóng cửa đến đầu tháng sau trong khi thiết bị video mới được lắp đặt. Nếu anh chị đã đặt phòng Kingsley cho một cuộc họp trong bốn tuần tới, trợ lý của tôi, Dana, sẽ liên hệ với anh chị hôm nay để giúp tìm không gian khác. Ngoài ra, các phòng họp tạm ở tầng hai sẽ được dỡ bỏ vào thứ Sáu, vì vậy hãy dọn hết đồ cá nhân khỏi đó trước chiều mai.\n(A) Đây là phòng nhỏ nhất trong các phòng được cải tạo.\n(B) Phòng này sẽ mở lại vào đầu tháng sau.\n(C) Phòng này đã được đặt trong bốn tuần.\n(D) Phòng này sẽ được đổi tên sau khi cải tạo.",
+    "explanation": "Bài nói cho biết Kingsley 'sẽ vẫn đóng cửa đến đầu tháng sau', tức là mở lại vào đầu tháng sau. (C) là bẫy: 'bốn tuần' là khoảng thời gian các cuộc họp đã đặt trước cần đổi phòng, không phải thời gian phòng bị đặt.",
+    "vocab": [
+      {
+        "word": "auditorium",
+        "pos": "n",
+        "meaning": "khán phòng, hội trường"
+      },
+      {
+        "word": "install",
+        "pos": "v",
+        "meaning": "lắp đặt"
+      },
+      {
+        "word": "reserve",
+        "pos": "v",
+        "meaning": "đặt trước"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "audioVoiceText": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "questionText": "Why is the speaker calling?",
+    "options": [
+      "To respond to a customer's question about an order",
+      "To complain about a late delivery",
+      "To advertise a new catering menu",
+      "To cancel an upcoming reception"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào anh/chị, tôi là Marcus Lin của Harborview Catering, gọi lại về cuộc gọi của anh/chị liên quan đến buổi tiệc chiêu đãi ngày 14. Tôi đã kiểm tra với bếp và chúng tôi có thể thêm mười hai suất ăn chay vào đơn hàng, nhưng tôi cần số lượng khách cuối cùng trước trưa thứ Tư để đặt nguyên liệu. Tin tốt là giá mỗi suất vẫn giữ nguyên như trong hợp đồng của anh/chị. Một điều nữa — vì bến bốc hàng của khách sạn đang được lát lại trong tuần đó, xe giao hàng của chúng tôi sẽ phải đi cổng phụ trên phố Dover. Sẽ cần một người trong nhóm của anh/chị có mặt ở đó lúc bảy giờ sáng để ký nhận hàng. Nếu có vấn đề gì, hãy gọi lại cho tôi trước thứ Sáu và chúng ta sẽ tính cách khác. Cảm ơn anh/chị, rất mong nhận được hồi âm.\n(A) Để trả lời câu hỏi của khách hàng về một đơn hàng\n(B) Để phàn nàn về việc giao hàng muộn\n(C) Để quảng cáo thực đơn tiệc mới\n(D) Để hủy một buổi chiêu đãi sắp tới",
+    "explanation": "Người nói tự giới thiệu là nhân viên công ty catering và nói \"gọi lại về cuộc gọi của anh/chị\" liên quan đến buổi tiệc ngày 14, rồi xác nhận các thay đổi cho đơn hàng. (D) sai vì ông ấy đang giúp hoàn tất đơn, không hủy buổi tiệc.",
+    "vocab": [
+      {
+        "word": "return a call",
+        "pos": "phr",
+        "meaning": "gọi lại cho ai"
+      },
+      {
+        "word": "reception",
+        "pos": "n",
+        "meaning": "buổi chiêu đãi, tiệc tiếp khách"
+      },
+      {
+        "word": "head count",
+        "pos": "phr",
+        "meaning": "số lượng người tham dự"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "audioVoiceText": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "questionText": "What does the speaker ask the listener to do by Wednesday?",
+    "options": [
+      "Sign a new contract",
+      "Pay a deposit",
+      "Confirm the number of guests",
+      "Select a menu"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào anh/chị, tôi là Marcus Lin của Harborview Catering, gọi lại về cuộc gọi của anh/chị liên quan đến buổi tiệc chiêu đãi ngày 14. Tôi đã kiểm tra với bếp và chúng tôi có thể thêm mười hai suất ăn chay vào đơn hàng, nhưng tôi cần số lượng khách cuối cùng trước trưa thứ Tư để đặt nguyên liệu. Tin tốt là giá mỗi suất vẫn giữ nguyên như trong hợp đồng của anh/chị. Một điều nữa — vì bến bốc hàng của khách sạn đang được lát lại trong tuần đó, xe giao hàng của chúng tôi sẽ phải đi cổng phụ trên phố Dover. Sẽ cần một người trong nhóm của anh/chị có mặt ở đó lúc bảy giờ sáng để ký nhận thiết bị. Nếu có vấn đề gì, hãy gọi lại cho tôi trước thứ Sáu và chúng ta sẽ tính cách khác. Cảm ơn anh/chị, rất mong nhận được hồi âm.\n(A) Ký hợp đồng mới\n(B) Thanh toán tiền đặt cọc\n(C) Xác nhận số lượng khách\n(D) Chọn thực đơn",
+    "explanation": "Ông Lin nói cần \"số lượng khách cuối cùng trước trưa thứ Tư\". (A) là bẫy vì có nhắc đến hợp đồng, nhưng giá trong hợp đồng vẫn giữ nguyên, không cần ký mới.",
+    "vocab": [
+      {
+        "word": "final",
+        "pos": "adj",
+        "meaning": "cuối cùng, chốt lại"
+      },
+      {
+        "word": "ingredient",
+        "pos": "n",
+        "meaning": "nguyên liệu"
+      },
+      {
+        "word": "per plate",
+        "pos": "phr",
+        "meaning": "mỗi suất ăn"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following voicemail message:",
+    "audioScript": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "audioVoiceText": "Hi, this is Marcus Lin from Harborview Catering, returning your call about the reception on the fourteenth. I've checked with our kitchen, and we can add twelve vegetarian meals to your order, but I'll need the final head count by Wednesday at noon so we can order the ingredients. The good news is that the price per plate stays the same as what's in your contract. One more thing — because the hotel's loading dock is being repaved that week, our delivery truck will have to use the side entrance on Dover Street. Someone from your team will need to meet the driver there at seven in the morning to sign for the delivery. If that's a problem, give me a call back before Friday and we'll work something else out. Thanks, and I look forward to hearing from you.",
+    "questionText": "What does the speaker say will be different about the delivery?",
+    "options": [
+      "It will arrive one day later.",
+      "It will use a different entrance.",
+      "It will cost more than usual.",
+      "It will be handled by a new driver."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào anh/chị, tôi là Marcus Lin của Harborview Catering, gọi lại về cuộc gọi của anh/chị liên quan đến buổi tiệc chiêu đãi ngày 14. Tôi đã kiểm tra với bếp và chúng tôi có thể thêm mười hai suất ăn chay vào đơn hàng, nhưng tôi cần số lượng khách cuối cùng trước trưa thứ Tư để đặt nguyên liệu. Tin tốt là giá mỗi suất vẫn giữ nguyên như trong hợp đồng của anh/chị. Một điều nữa — vì bến bốc hàng của khách sạn đang được lát lại trong tuần đó, xe giao hàng của chúng tôi sẽ phải đi cổng phụ trên phố Dover. Sẽ cần một người trong nhóm của anh/chị có mặt ở đó lúc bảy giờ sáng để ký nhận thiết bị. Nếu có vấn đề gì, hãy gọi lại cho tôi trước thứ Sáu và chúng ta sẽ tính cách khác. Cảm ơn anh/chị, rất mong nhận được hồi âm.\n(A) Xe sẽ đến muộn hơn một ngày.\n(B) Xe sẽ đi vào một lối vào khác.\n(C) Chuyến giao sẽ tốn kém hơn bình thường.\n(D) Chuyến giao sẽ do một tài xế mới phụ trách.",
+    "explanation": "Do bến bốc hàng đang được lát lại, xe tải phải dùng \"cổng phụ trên phố Dover\" thay vì lối thường lệ. Bài không nói đến việc giao muộn hay đổi tài xế.",
+    "vocab": [
+      {
+        "word": "loading dock",
+        "pos": "n",
+        "meaning": "bến bốc hàng"
+      },
+      {
+        "word": "repave",
+        "pos": "v",
+        "meaning": "lát lại mặt đường"
+      },
+      {
+        "word": "side entrance",
+        "pos": "n",
+        "meaning": "cổng phụ, lối vào bên hông"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following radio advertisement:",
+    "audioScript": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "audioVoiceText": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "questionText": "What is being advertised?",
+    "options": [
+      "A new transit station",
+      "A three-day sale at an outdoor store",
+      "A guided hiking tour",
+      "A coupon subscription service"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nKính thưa quý vị! Chỉ trong cuối tuần này, Ridgeline Outfitters tổ chức đợt xả hàng đồ dã ngoại thường niên tại cửa hàng trên đường Canyon. Trong ba ngày, mọi thứ từ giày leo núi đến bếp cắm trại đều được giảm từ ba mươi đến năm mươi phần trăm, và nếu quý vị mang đến một chiếc ba lô cũ — bất kỳ thương hiệu nào, bất kỳ tình trạng nào — quý vị sẽ được giảm thêm mười lăm đô-la cho mọi đơn hàng từ bảy mươi lăm đô-la trở lên. Chúng tôi cũng miễn phí xử lý chống thấm cho tất cả áo khoác mua trong ngày thứ Bảy. Cửa hàng mở lúc tám giờ, và năm mươi khách đầu tiên sẽ nhận được một tập phiếu giảm giá trị giá hơn một trăm đô-la. Chỗ đỗ xe hạn chế, nên chúng tôi khuyến khích quý vị dùng xe đưa đón miễn phí, chạy hai mươi phút một chuyến từ ga Northgate. Ridgeline Outfitters — mọi thứ bạn cần để ra ngoài trời mùa xuân này.\n(A) Một ga trung chuyển mới\n(B) Một đợt giảm giá ba ngày tại cửa hàng đồ ngoài trời\n(C) Một tour đi bộ đường dài có hướng dẫn\n(D) Một dịch vụ đăng ký nhận phiếu giảm giá",
+    "explanation": "Quảng cáo mời khách đến đợt \"xả hàng đồ dã ngoại\" kéo dài ba ngày với mức giảm 30–50%. (A) chỉ là nơi đón xe đưa đón, không phải thứ được quảng cáo.",
+    "vocab": [
+      {
+        "word": "gear",
+        "pos": "n",
+        "meaning": "dụng cụ, đồ dùng (dã ngoại)"
+      },
+      {
+        "word": "clearance",
+        "pos": "n",
+        "meaning": "đợt xả hàng, thanh lý"
+      },
+      {
+        "word": "percent off",
+        "pos": "phr",
+        "meaning": "giảm giá bao nhiêu phần trăm"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following radio advertisement:",
+    "audioScript": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "audioVoiceText": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "questionText": "How can customers receive an additional discount?",
+    "options": [
+      "By shopping before eight in the morning",
+      "By joining a loyalty program",
+      "By bringing in a used backpack",
+      "By paying in cash"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nKính thưa quý vị! Chỉ trong cuối tuần này, Ridgeline Outfitters tổ chức đợt xả hàng đồ dã ngoại thường niên tại cửa hàng trên đường Canyon. Trong ba ngày, mọi thứ từ giày leo núi đến bếp cắm trại đều được giảm từ ba mươi đến năm mươi phần trăm, và nếu quý vị mang đến một chiếc ba lô cũ — bất kỳ thương hiệu nào, bất kỳ tình trạng nào — quý vị sẽ được giảm thêm mười lăm đô-la cho mọi đơn hàng từ bảy mươi lăm đô-la trở lên. Chúng tôi cũng miễn phí xử lý chống thấm cho tất cả áo khoác mua trong ngày thứ Bảy. Cửa hàng mở lúc tám giờ, và năm mươi khách đầu tiên sẽ nhận được một tập phiếu giảm giá trị giá hơn một trăm đô-la. Chỗ đỗ xe hạn chế, nên chúng tôi khuyến khích quý vị dùng xe đưa đón miễn phí, chạy hai mươi phút một chuyến từ ga Northgate. Ridgeline Outfitters — mọi thứ bạn cần để ra ngoài trời mùa xuân này.\n(A) Bằng cách mua sắm trước tám giờ sáng\n(B) Bằng cách tham gia chương trình khách hàng thân thiết\n(C) Bằng cách mang đến một chiếc ba lô đã qua sử dụng\n(D) Bằng cách thanh toán bằng tiền mặt",
+    "explanation": "Quảng cáo nói rõ mang ba lô cũ (bất kỳ hãng, bất kỳ tình trạng) sẽ được giảm thêm 15 đô-la cho đơn từ 75 đô-la. (A) sai vì tám giờ chỉ là giờ mở cửa.",
+    "vocab": [
+      {
+        "word": "bring in",
+        "pos": "phr",
+        "meaning": "mang đến"
+      },
+      {
+        "word": "additional",
+        "pos": "adj",
+        "meaning": "thêm, bổ sung"
+      },
+      {
+        "word": "purchase",
+        "pos": "n",
+        "meaning": "đơn mua hàng"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following radio advertisement:",
+    "audioScript": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "audioVoiceText": "Attention, shoppers! This weekend only, Ridgeline Outfitters is holding its annual gear clearance at our store on Canyon Road. For three days, everything from hiking boots to camping stoves is thirty to fifty percent off, and if you bring in an old backpack — any brand, any condition — you'll get an additional fifteen dollars off any purchase of seventy-five dollars or more. We're also offering free waterproofing treatment on all jackets bought on Saturday. Doors open at eight, and the first fifty customers will receive a coupon book worth over a hundred dollars. Parking is limited, so we encourage you to use the free shuttle running every twenty minutes from the Northgate transit station. Ridgeline Outfitters — everything you need to get outside this spring.",
+    "questionText": "What are listeners encouraged to do?",
+    "options": [
+      "Park in the store's main lot",
+      "Take a free shuttle bus",
+      "Register online in advance",
+      "Bring their own waterproofing spray"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nKính thưa quý vị! Chỉ trong cuối tuần này, Ridgeline Outfitters tổ chức đợt xả hàng đồ dã ngoại thường niên tại cửa hàng trên đường Canyon. Trong ba ngày, mọi thứ từ giày leo núi đến bếp cắm trại đều được giảm từ ba mươi đến năm mươi phần trăm, và nếu quý vị mang đến một chiếc ba lô cũ — bất kỳ thương hiệu nào, bất kỳ tình trạng nào — quý vị sẽ được giảm thêm mười lăm đô-la cho mọi đơn hàng từ bảy mươi lăm đô-la trở lên. Chúng tôi cũng miễn phí xử lý chống thấm cho tất cả áo khoác mua trong ngày thứ Bảy. Cửa hàng mở lúc tám giờ, và năm mươi khách đầu tiên sẽ nhận được một tập phiếu giảm giá trị giá hơn một trăm đô-la. Chỗ đỗ xe hạn chế, nên chúng tôi khuyến khích quý vị dùng xe đưa đón miễn phí, chạy hai mươi phút một chuyến từ ga Northgate. Ridgeline Outfitters — mọi thứ bạn cần để ra ngoài trời mùa xuân này.\n(A) Đỗ xe ở bãi chính của cửa hàng\n(B) Đi xe đưa đón miễn phí\n(C) Đăng ký trực tuyến trước\n(D) Mang theo bình xịt chống thấm của riêng mình",
+    "explanation": "Vì chỗ đỗ xe hạn chế, quảng cáo khuyến khích dùng xe đưa đón miễn phí từ ga Northgate, hai mươi phút một chuyến. (D) ngược lại: cửa hàng tặng dịch vụ chống thấm miễn phí.",
+    "vocab": [
+      {
+        "word": "shuttle",
+        "pos": "n",
+        "meaning": "xe đưa đón"
+      },
+      {
+        "word": "limited",
+        "pos": "adj",
+        "meaning": "hạn chế"
+      },
+      {
+        "word": "encourage",
+        "pos": "v",
+        "meaning": "khuyến khích"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "audioVoiceText": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "questionText": "What is the main topic of the talk?",
+    "options": [
+      "The results of a customer survey",
+      "A budget for a new hotline",
+      "Hiring additional support staff",
+      "A holiday advertising campaign"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nTrước khi chuyển sang phần tiếp theo, tôi muốn dành vài phút cho kết quả khảo sát khách hàng vừa công bố hôm qua. Mức độ hài lòng chung đã tăng lên tám mươi bốn phần trăm, cao hơn sáu điểm so với quý trước, và phần lớn mức tăng đó đến từ đường dây hỗ trợ mới mà chúng ta ra mắt hồi tháng Ba. Thời gian chờ trung bình hiện dưới hai phút, giảm từ gần chín phút. Tuy vậy, chúng ta vẫn mất khách ở trang thanh toán — khoảng một phần ba khách truy cập bỏ giỏ hàng ở đó. Nhóm của Priya đã dựng bản mẫu một giao diện ba bước đơn giản hơn, và tuần sau chúng ta sẽ thử nghiệm với một nhóm người dùng nhỏ. Nếu kết quả tích cực, chúng ta có thể triển khai trước mùa lễ hội. Tôi mong mọi người xem bản mẫu trước thứ Năm và gửi nhận xét trực tiếp cho Priya.\n(A) Kết quả của một cuộc khảo sát khách hàng\n(B) Ngân sách cho đường dây hỗ trợ mới\n(C) Tuyển thêm nhân viên hỗ trợ\n(D) Một chiến dịch quảng cáo mùa lễ hội",
+    "explanation": "Người nói dành phần lớn thời gian cho \"kết quả khảo sát khách hàng\" vừa công bố: mức hài lòng, thời gian chờ, tỷ lệ bỏ giỏ hàng. Đường dây hỗ trợ chỉ là một chi tiết bên trong khảo sát.",
+    "vocab": [
+      {
+        "word": "survey",
+        "pos": "n",
+        "meaning": "cuộc khảo sát"
+      },
+      {
+        "word": "satisfaction",
+        "pos": "n",
+        "meaning": "mức độ hài lòng"
+      },
+      {
+        "word": "quarter",
+        "pos": "n",
+        "meaning": "quý (ba tháng)"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "audioVoiceText": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "questionText": "What improvement is reported?",
+    "options": [
+      "Fewer products are being returned.",
+      "Customers wait less time on the support line.",
+      "Online sales have doubled.",
+      "The checkout page loads faster."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nTrước khi chuyển sang phần tiếp theo, tôi muốn dành vài phút cho kết quả khảo sát khách hàng vừa công bố hôm qua. Mức độ hài lòng chung đã tăng lên tám mươi bốn phần trăm, cao hơn sáu điểm so với quý trước, và phần lớn mức tăng đó đến từ đường dây hỗ trợ mới mà chúng ta ra mắt hồi tháng Ba. Thời gian chờ trung bình hiện dưới hai phút, giảm từ gần chín phút. Tuy vậy, chúng ta vẫn mất khách ở trang thanh toán — khoảng một phần ba khách truy cập bỏ giỏ hàng ở đó. Nhóm của Priya đã dựng bản mẫu một giao diện ba bước đơn giản hơn, và tuần sau chúng ta sẽ thử nghiệm với một nhóm người dùng nhỏ. Nếu kết quả tích cực, chúng ta có thể triển khai trước mùa lễ hội. Tôi mong mọi người xem bản mẫu trước thứ Năm và gửi nhận xét trực tiếp cho Priya.\n(A) Ngày càng ít sản phẩm bị trả lại.\n(B) Khách hàng chờ tổng đài hỗ trợ ít hơn.\n(C) Doanh số trực tuyến đã tăng gấp đôi.\n(D) Trang thanh toán tải nhanh hơn.",
+    "explanation": "Bài nói cho biết thời gian chờ trung bình hiện dưới hai phút, giảm từ gần chín phút. Trang thanh toán thì ngược lại — vẫn là điểm mất khách, sắp được thử nghiệm cải tiến chứ chưa có kết quả.",
+    "vocab": [
+      {
+        "word": "wait time",
+        "pos": "n",
+        "meaning": "thời gian chờ"
+      },
+      {
+        "word": "launch",
+        "pos": "v",
+        "meaning": "ra mắt, khởi chạy"
+      },
+      {
+        "word": "abandon",
+        "pos": "v",
+        "meaning": "bỏ dở, rời bỏ"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following excerpt from a meeting:",
+    "audioScript": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "audioVoiceText": "Before we move on, I want to spend a few minutes on the customer survey results that came out yesterday. Overall satisfaction rose to eighty-four percent, which is six points higher than last quarter, and most of that increase came from the new support hotline we launched in March. Average wait times are now under two minutes, down from nearly nine. That said, we're still losing customers at the checkout page — about a third of visitors abandon their carts there. Priya's team has already mocked up a simpler three-step layout, and we'll test it with a small group of users next week. If the results are positive, we can roll it out before the holiday season. I'd like everyone to review the mockups by Thursday and send Priya any comments directly.",
+    "questionText": "What will happen next week?",
+    "options": [
+      "A new checkout design will be tested.",
+      "The support hotline will be expanded.",
+      "Priya will join another team.",
+      "A holiday promotion will begin."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nTrước khi chuyển sang phần tiếp theo, tôi muốn dành vài phút cho kết quả khảo sát khách hàng vừa công bố hôm qua. Mức độ hài lòng chung đã tăng lên tám mươi bốn phần trăm, cao hơn sáu điểm so với quý trước, và phần lớn mức tăng đó đến từ đường dây hỗ trợ mới mà chúng ta ra mắt hồi tháng Ba. Thời gian chờ trung bình hiện dưới hai phút, giảm từ gần chín phút. Tuy vậy, chúng ta vẫn mất khách ở trang thanh toán — khoảng một phần ba khách truy cập bỏ giỏ hàng ở đó. Nhóm của Priya đã dựng bản mẫu một giao diện ba bước đơn giản hơn, và tuần sau chúng ta sẽ thử nghiệm với một nhóm người dùng nhỏ. Nếu kết quả tích cực, chúng ta có thể triển khai trước mùa lễ hội. Tôi mong mọi người xem bản mẫu trước thứ Năm và gửi nhận xét trực tiếp cho Priya.\n(A) Một thiết kế trang thanh toán mới sẽ được thử nghiệm.\n(B) Đường dây hỗ trợ sẽ được mở rộng.\n(C) Priya sẽ chuyển sang nhóm khác.\n(D) Một chương trình khuyến mãi mùa lễ hội sẽ bắt đầu.",
+    "explanation": "Người nói cho biết sẽ thử giao diện thanh toán ba bước với một nhóm người dùng nhỏ vào tuần sau. Việc triển khai trước mùa lễ hội chỉ xảy ra nếu kết quả tốt.",
+    "vocab": [
+      {
+        "word": "mock up",
+        "pos": "phr",
+        "meaning": "dựng bản mẫu"
+      },
+      {
+        "word": "layout",
+        "pos": "n",
+        "meaning": "bố cục, giao diện"
+      },
+      {
+        "word": "roll out",
+        "pos": "phr",
+        "meaning": "triển khai ra thị trường"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following training session:",
+    "audioScript": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "audioVoiceText": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "questionText": "Where does the talk most likely take place?",
+    "options": [
+      "At a warehouse",
+      "At a hotel",
+      "At a hospital",
+      "At a university"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào mừng các bạn đến với ngày đầu tiên của khóa định hướng. Trong hai giờ tới, chúng ta sẽ tìm hiểu ba nguyên nhân phổ biến nhất gây tai nạn trong kho của chúng ta, sau đó tôi sẽ hướng dẫn các bạn hệ thống quét mã mới mà các bạn sẽ dùng từ tháng sau. Các bạn không cần ghi chép — toàn bộ bài trình chiếu sẽ được đăng lên mạng nội bộ vào chiều nay, kèm một bài kiểm tra ngắn. Mọi người phải đạt ít nhất tám mươi phần trăm bài kiểm tra đó trước khi được xếp làm việc trong kho, nhưng có thể làm lại bao nhiêu lần tùy thích. Sau giờ nghỉ, chúng ta sẽ ra khu vực bốc xếp, nên hãy thay giày bảo hộ mà các bạn nhận ở quầy lễ tân. Nếu chưa nhận được, hãy gặp Elena ở quầy trước khi chúng ta rời phòng này. Và làm ơn, không dùng điện thoại di động trong phần thực hành.\n(A) Tại một nhà kho\n(B) Tại một khách sạn\n(C) Tại một bệnh viện\n(D) Tại một trường đại học",
+    "explanation": "Người nói nhắc đến tai nạn \"trong kho của chúng ta\", làm việc \"trong kho\" và khu vực bốc xếp — đều chỉ nhà kho. (D) là bẫy vì có chữ \"orientation\" và \"quiz\", nhưng bối cảnh là lao động, không phải trường học.",
+    "vocab": [
+      {
+        "word": "orientation",
+        "pos": "n",
+        "meaning": "buổi định hướng"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n",
+        "meaning": "nhà kho"
+      },
+      {
+        "word": "loading area",
+        "pos": "n",
+        "meaning": "khu vực bốc xếp"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following training session:",
+    "audioScript": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "audioVoiceText": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "questionText": "What must listeners do before working on the floor?",
+    "options": [
+      "Take an online safety course",
+      "Pass a quiz with a score of at least 80 percent",
+      "Sign a new employment contract",
+      "Buy their own safety shoes"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào mừng các bạn đến với ngày đầu tiên của khóa định hướng. Trong hai giờ tới, chúng ta sẽ tìm hiểu ba nguyên nhân phổ biến nhất gây tai nạn trong kho của chúng ta, sau đó tôi sẽ hướng dẫn các bạn hệ thống quét mã mới mà các bạn sẽ dùng từ tháng sau. Các bạn không cần ghi chép — toàn bộ bài trình chiếu sẽ được đăng lên mạng nội bộ vào chiều nay, kèm một bài kiểm tra ngắn. Mọi người phải đạt ít nhất tám mươi phần trăm bài kiểm tra đó trước khi được xếp làm việc trong kho, nhưng có thể làm lại bao nhiêu lần tùy thích. Sau giờ nghỉ, chúng ta sẽ ra khu vực bốc xếp, nên hãy thay giày bảo hộ mà các bạn nhận ở quầy lễ tân. Nếu chưa nhận được, hãy gặp Elena ở quầy trước khi chúng ta rời phòng này. Và làm ơn, không dùng điện thoại di động trong phần thực hành.\n(A) Học một khóa an toàn trực tuyến\n(B) Đạt bài kiểm tra với điểm ít nhất 80 phần trăm\n(C) Ký hợp đồng lao động mới\n(D) Tự mua giày bảo hộ",
+    "explanation": "Người nói yêu cầu mọi người đạt ít nhất tám mươi phần trăm bài kiểm tra ngắn trước khi được xếp làm trong kho. Giày bảo hộ được phát tại quầy lễ tân, không phải tự mua.",
+    "vocab": [
+      {
+        "word": "pass",
+        "pos": "v",
+        "meaning": "đạt (bài thi)"
+      },
+      {
+        "word": "retake",
+        "pos": "v",
+        "meaning": "làm lại (bài thi)"
+      },
+      {
+        "word": "be scheduled",
+        "pos": "phr",
+        "meaning": "được xếp lịch"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following training session:",
+    "audioScript": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "audioVoiceText": "Welcome to the first day of orientation. Over the next two hours, we'll cover the three most common causes of accidents in our warehouse, and then I'll walk you through the new scanning system you'll be using starting next month. You don't need to take notes — the full slide deck will be posted on the staff intranet this afternoon, along with a short quiz. Everyone must pass that quiz with at least eighty percent before they're scheduled on the floor, but you can retake it as many times as you need. After the break, we'll move to the loading area, so please change into the safety shoes you were issued at reception. If you didn't receive a pair, see Elena at the front desk before we leave this room. And please, no cell phones during the hands-on portion.",
+    "questionText": "What will listeners do after the break?",
+    "options": [
+      "Watch a safety video",
+      "Fill out a survey",
+      "Go to the loading area",
+      "Meet Elena at the front desk"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào mừng các bạn đến với ngày đầu tiên của khóa định hướng. Trong hai giờ tới, chúng ta sẽ tìm hiểu ba nguyên nhân phổ biến nhất gây tai nạn trong kho của chúng ta, sau đó tôi sẽ hướng dẫn các bạn hệ thống quét mã mới mà các bạn sẽ dùng từ tháng sau. Các bạn không cần ghi chép — toàn bộ bài trình chiếu sẽ được đăng lên mạng nội bộ vào chiều nay, kèm một bài kiểm tra ngắn. Mọi người phải đạt ít nhất tám mươi phần trăm bài kiểm tra đó trước khi được xếp làm việc trong kho, nhưng có thể làm lại bao nhiêu lần tùy thích. Sau giờ nghỉ, chúng ta sẽ ra khu vực bốc xếp, nên hãy thay giày bảo hộ mà các bạn nhận ở quầy lễ tân. Nếu chưa nhận được, hãy gặp Elena ở quầy trước khi chúng ta rời phòng này. Và làm ơn, không dùng điện thoại di động trong phần thực hành.\n(A) Xem một video về an toàn\n(B) Điền một bản khảo sát\n(C) Đi đến khu vực bốc xếp\n(D) Gặp Elena ở quầy lễ tân",
+    "explanation": "Người nói cho biết sau giờ nghỉ cả nhóm sẽ ra khu vực bốc xếp. Gặp Elena chỉ là việc cần làm trước khi rời phòng nếu chưa nhận giày.",
+    "vocab": [
+      {
+        "word": "break",
+        "pos": "n",
+        "meaning": "giờ nghỉ"
+      },
+      {
+        "word": "safety shoes",
+        "pos": "n",
+        "meaning": "giày bảo hộ"
+      },
+      {
+        "word": "hands-on",
+        "pos": "adj",
+        "meaning": "thực hành trực tiếp"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following airport announcement:",
+    "audioScript": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "audioVoiceText": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "questionText": "What is the announcement mainly about?",
+    "options": [
+      "A gate change for all international flights",
+      "A delayed flight and its new departure details",
+      "A lost piece of luggage",
+      "A security inspection at the airport"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin lưu ý hành khách trên chuyến bay 482 đi Denver. Do mây dày ở khu vực Denver, chuyến bay của quý vị hiện bị hoãn và dự kiến khởi hành lúc 3 giờ 15 chiều thay vì 1 giờ 40. Cổng ra máy bay sẽ đổi từ B12 sang B7, ngay cạnh quán cà phê ở cuối hành lang phía đông. Hành khách đã làm thủ tục ký gửi hành lý không cần làm lại thủ tục — vé của quý vị vẫn có hiệu lực. Tuy vậy, nếu quý vị có chuyến nối tiếp từ Denver, vui lòng đến quầy dịch vụ đối diện cổng B7 để nhân viên kiểm tra lại hành trình. Chúng tôi sẽ cung cấp phiếu ăn trưa cho những hành khách bị ảnh hưởng. Chúng tôi xin lỗi vì sự bất tiện và sẽ thông báo lại khi có tin mới.\n(A) Việc đổi cổng cho tất cả chuyến bay quốc tế\n(B) Một chuyến bay bị hoãn và thông tin khởi hành mới\n(C) Một kiện hành lý bị thất lạc\n(D) Một cuộc kiểm tra an ninh tại sân bay",
+    "explanation": "Thông báo nêu chuyến 482 đi Denver bị hoãn do mây dày, dời giờ khởi hành và đổi cổng. (A) sai vì chỉ áp dụng cho một chuyến, không phải mọi chuyến quốc tế.",
+    "vocab": [
+      {
+        "word": "delay",
+        "pos": "v",
+        "meaning": "hoãn, làm chậm"
+      },
+      {
+        "word": "depart",
+        "pos": "v",
+        "meaning": "khởi hành"
+      },
+      {
+        "word": "cloud cover",
+        "pos": "n",
+        "meaning": "mây che phủ"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following airport announcement:",
+    "audioScript": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "audioVoiceText": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "questionText": "What are connecting passengers asked to do?",
+    "options": [
+      "Collect their bags at carousel 12",
+      "Go to a service desk",
+      "Board the plane immediately",
+      "Call the airline's head office"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin lưu ý hành khách trên chuyến bay 482 đi Denver. Do mây dày ở khu vực Denver, chuyến bay của quý vị hiện bị hoãn và dự kiến khởi hành lúc 3 giờ 15 chiều thay vì 1 giờ 40. Cổng ra máy bay sẽ đổi từ B12 sang B7, ngay cạnh quán cà phê ở cuối hành lang phía đông. Hành khách đã làm thủ tục ký gửi hành lý không cần làm lại thủ tục — vé của quý vị vẫn có hiệu lực. Tuy vậy, nếu quý vị có chuyến nối tiếp từ Denver, vui lòng đến quầy dịch vụ đối diện cổng B7 để nhân viên kiểm tra lại hành trình. Chúng tôi sẽ cung cấp phiếu ăn trưa cho những hành khách bị ảnh hưởng. Chúng tôi xin lỗi vì sự bất tiện và sẽ thông báo lại khi có tin mới.\n(A) Nhận hành lý ở băng chuyền 12\n(B) Đến quầy dịch vụ\n(C) Lên máy bay ngay lập tức\n(D) Gọi cho trụ sở hãng bay",
+    "explanation": "Hành khách có chuyến nối tiếp được yêu cầu đến quầy dịch vụ đối diện cổng B7 để nhân viên xem lại hành trình. (A) là bẫy số \"12\" lấy từ cổng cũ B12.",
+    "vocab": [
+      {
+        "word": "connecting flight",
+        "pos": "n",
+        "meaning": "chuyến bay nối tiếp"
+      },
+      {
+        "word": "itinerary",
+        "pos": "n",
+        "meaning": "lịch trình chuyến đi"
+      },
+      {
+        "word": "agent",
+        "pos": "n",
+        "meaning": "nhân viên đại diện"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following airport announcement:",
+    "audioScript": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "audioVoiceText": "May I have your attention, passengers on flight 482 to Denver. Due to heavy cloud cover in the Denver area, your flight has been delayed and is now expected to depart at 3:15 p.m. instead of 1:40. The departure gate will change from B12 to B7, which is next to the coffee shop at the end of the east concourse. Passengers who have already checked their bags do not need to recheck in — your tickets remain valid. However, if you have a connecting flight out of Denver, please come to the service desk across from gate B7 so an agent can review your itinerary. We will be providing meal vouchers to affected passengers. We apologize for the inconvenience and will make another announcement as soon as we have more information.",
+    "questionText": "What will affected passengers receive?",
+    "options": [
+      "A hotel room for the night",
+      "A refund of their ticket price",
+      "A meal voucher",
+      "A seat upgrade"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nXin lưu ý hành khách trên chuyến bay 482 đi Denver. Do mây dày ở khu vực Denver, chuyến bay của quý vị hiện bị hoãn và dự kiến khởi hành lúc 3 giờ 15 chiều thay vì 1 giờ 40. Cổng ra máy bay sẽ đổi từ B12 sang B7, ngay cạnh quán cà phê ở cuối hành lang phía đông. Hành khách đã làm thủ tục ký gửi hành lý không cần làm lại thủ tục — vé của quý vị vẫn có hiệu lực. Tuy vậy, nếu quý vị có chuyến nối tiếp từ Denver, vui lòng đến quầy dịch vụ đối diện cổng B7 để nhân viên kiểm tra lại hành trình. Chúng tôi sẽ cung cấp phiếu ăn trưa cho những hành khách bị ảnh hưởng. Chúng tôi xin lỗi vì sự bất tiện và sẽ thông báo lại khi có tin mới.\n(A) Một phòng khách sạn qua đêm\n(B) Hoàn lại tiền vé\n(C) Một phiếu ăn\n(D) Một suất nâng hạng ghế",
+    "explanation": "Cuối thông báo nói sẽ phát phiếu ăn cho hành khách bị ảnh hưởng. Không có thông tin về hoàn tiền hay nâng hạng ghế.",
+    "vocab": [
+      {
+        "word": "meal voucher",
+        "pos": "n",
+        "meaning": "phiếu ăn"
+      },
+      {
+        "word": "affected",
+        "pos": "adj",
+        "meaning": "bị ảnh hưởng"
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n",
+        "meaning": "sự bất tiện"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following hotel announcement:",
+    "audioScript": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "audioVoiceText": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "questionText": "Why is the announcement being made?",
+    "options": [
+      "To inform guests about a maintenance disruption",
+      "To announce a change in hotel ownership",
+      "To advertise a new restaurant menu",
+      "To explain a cancellation policy"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào buổi tối, quý khách của khách sạn Meridian. Đây là lễ tân xin thông báo rằng hệ thống nước nóng của tòa nhà phía đông sẽ được bảo trì từ mười giờ tối nay đến sáu giờ sáng mai. Trong thời gian đó, nước nóng sẽ không có ở các phòng từ 401 đến 460. Chúng tôi đã bố trí phòng tắm chung ở tầng bốn của tòa nhà chính, mở suốt đêm, và mỗi phòng bị ảnh hưởng sẽ được giảm mười lăm phần trăm vào hóa đơn cuối kỳ. Quý khách cũng có thể đổi sang phòng ở tòa nhà chính nếu còn phòng trống — vui lòng gọi số 0 để kiểm tra. Nhà hàng vẫn hoạt động bình thường, và bữa sáng sẽ được phục vụ tại sảnh tầng trệt thay vì phòng ăn tầng hai cho đến khi có thông báo mới.\n(A) Để thông báo cho khách về việc bảo trì gây gián đoạn\n(B) Để thông báo khách sạn đổi chủ\n(C) Để quảng cáo thực đơn nhà hàng mới\n(D) Để giải thích chính sách hủy phòng",
+    "explanation": "Thông báo nêu hệ thống nước nóng sẽ được bảo trì và nước nóng không có ở một số phòng — tức là gián đoạn do bảo trì. (C) là bẫy vì có nhắc nhà hàng nhưng chỉ để nói nhà hàng vẫn bình thường.",
+    "vocab": [
+      {
+        "word": "front desk",
+        "pos": "n",
+        "meaning": "lễ tân"
+      },
+      {
+        "word": "service",
+        "pos": "v",
+        "meaning": "bảo trì, sửa chữa"
+      },
+      {
+        "word": "wing",
+        "pos": "n",
+        "meaning": "dãy nhà, khu vực của tòa nhà"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following hotel announcement:",
+    "audioScript": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "audioVoiceText": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "questionText": "What compensation is offered to affected guests?",
+    "options": [
+      "A free night's stay",
+      "A discount on their final bill",
+      "A complimentary dinner",
+      "An upgrade to a suite"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi tối, quý khách của khách sạn Meridian. Đây là lễ tân xin thông báo rằng hệ thống nước nóng của tòa nhà phía đông sẽ được bảo trì từ mười giờ tối nay đến sáu giờ sáng mai. Trong thời gian đó, nước nóng sẽ không có ở các phòng từ 401 đến 460. Chúng tôi đã bố trí phòng tắm chung ở tầng bốn của tòa nhà chính, mở suốt đêm, và mỗi phòng bị ảnh hưởng sẽ được giảm mười lăm phần trăm vào hóa đơn cuối kỳ. Quý khách cũng có thể đổi sang phòng ở tòa nhà chính nếu còn phòng trống — vui lòng gọi số 0 để kiểm tra. Nhà hàng vẫn hoạt động bình thường, và bữa sáng sẽ được phục vụ tại sảnh tầng trệt thay vì phòng ăn tầng hai cho đến khi việc sửa chữa hoàn tất.\n(A) Miễn phí một đêm nghỉ\n(B) Giảm giá trên hóa đơn cuối kỳ\n(C) Một bữa tối miễn phí\n(D) Nâng cấp lên phòng suite",
+    "explanation": "Mỗi phòng bị ảnh hưởng sẽ được giảm mười lăm phần trăm vào hóa đơn cuối kỳ. Không hề nhắc đến miễn phí đêm nghỉ hay bữa tối.",
+    "vocab": [
+      {
+        "word": "affected",
+        "pos": "adj",
+        "meaning": "bị ảnh hưởng"
+      },
+      {
+        "word": "discount",
+        "pos": "n",
+        "meaning": "khoản giảm giá"
+      },
+      {
+        "word": "final bill",
+        "pos": "n",
+        "meaning": "hóa đơn cuối kỳ"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following hotel announcement:",
+    "audioScript": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "audioVoiceText": "Good evening, guests of the Meridian Hotel. This is the front desk with an important notice. The hot water system in the east wing will be serviced tonight from ten o'clock until six tomorrow morning. During that time, hot water will not be available in rooms 401 through 460. We have arranged access to the shared bathrooms on the fourth floor of the main building, which will remain open all night, and every affected room will receive a fifteen percent discount on its final bill. Guests may also request a move to the main building if rooms are available — please dial zero to check. The restaurant is operating normally, and breakfast will be served in the ground-floor lobby rather than the second-floor dining room until further notice.",
+    "questionText": "Where will breakfast be served?",
+    "options": [
+      "In the second-floor dining room",
+      "In the guests' rooms",
+      "In the ground-floor lobby",
+      "On the fourth floor"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào buổi tối, quý khách của khách sạn Meridian. Đây là lễ tân xin thông báo rằng hệ thống nước nóng của tòa nhà phía đông sẽ được bảo trì từ mười giờ tối nay đến sáu giờ sáng mai. Trong thời gian đó, nước nóng sẽ không có ở các phòng từ 401 đến 460. Chúng tôi đã bố trí phòng tắm chung ở tầng bốn của tòa nhà chính, mở suốt đêm, và mỗi phòng bị ảnh hưởng sẽ được giảm mười lăm phần trăm vào hóa đơn cuối kỳ. Quý khách cũng có thể đổi sang phòng ở tòa nhà chính nếu còn phòng trống — vui lòng gọi số 0 để kiểm tra. Nhà hàng vẫn hoạt động bình thường, và bữa sáng sẽ được phục vụ tại sảnh tầng trệt thay vì phòng ăn tầng hai cho đến khi việc sửa chữa hoàn tất.\n(A) Ở phòng ăn tầng hai\n(B) Trong phòng của khách\n(C) Ở sảnh tầng trệt\n(D) Ở tầng bốn",
+    "explanation": "Bữa sáng sẽ được phục vụ tại sảnh tầng trệt thay vì phòng ăn tầng hai cho đến khi sửa xong. (A) chính là địa điểm cũ bị thay thế; (D) là nơi có phòng tắm chung.",
+    "vocab": [
+      {
+        "word": "ground-floor",
+        "pos": "adj",
+        "meaning": "ở tầng trệt"
+      },
+      {
+        "word": "lobby",
+        "pos": "n",
+        "meaning": "sảnh"
+      },
+      {
+        "word": "rather than",
+        "pos": "phr",
+        "meaning": "thay vì"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following brief report:",
+    "audioScript": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "audioVoiceText": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "questionText": "What problem is reported?",
+    "options": [
+      "A shipment was delivered to the wrong address.",
+      "Some crates were damaged in transit.",
+      "A customer refused to sign for a delivery.",
+      "A truck broke down on the highway."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nĐây là cập nhật cuối ngày từ nhóm vận chuyển. Chuyến hàng của chúng ta đến Atlanta đã được giao đúng hạn lúc 11 giờ sáng, và khách hàng đã ký nhận mà không ghi nhận hư hỏng nào. Tuy nhiên, hai thùng hàng trong lô gửi đến Charleston đã đến trong tình trạng móp méo. Tôi đã chụp ảnh và gửi báo cáo cho bộ phận bảo hiểm; họ nói sẽ phản hồi trong vòng ba ngày làm việc. Trong lúc chờ, chúng ta nên giữ nguyên các thùng đó trong kho và không mở ra. Về phần đội xe, xe tải số 7 vẫn đang ở xưởng — phụ tùng thay thế dự kiến về vào thứ Năm, muộn hơn dự kiến hai ngày, nên các chuyến giao trong tuần này sẽ do xe số 3 đảm nhận. Cuối cùng, ai chưa nộp bảng chấm công tháng này thì nhớ nộp trước trưa mai.\n(A) Một lô hàng bị giao sai địa chỉ.\n(B) Một số thùng hàng bị hư hại khi vận chuyển.\n(C) Một khách hàng từ chối ký nhận.\n(D) Một xe tải bị hỏng trên đường cao tốc.",
+    "explanation": "Báo cáo cho biết hai thùng trong lô gửi Charleston đến trong tình trạng móp méo. Lô Atlanta được giao đúng hạn và khách ký nhận không hư hỏng gì.",
+    "vocab": [
+      {
+        "word": "consignment",
+        "pos": "n",
+        "meaning": "lô hàng gửi"
+      },
+      {
+        "word": "dented",
+        "pos": "adj",
+        "meaning": "móp, lõm"
+      },
+      {
+        "word": "file a report",
+        "pos": "phr",
+        "meaning": "lập/gửi báo cáo"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following brief report:",
+    "audioScript": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "audioVoiceText": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "questionText": "What does the speaker ask the team to do?",
+    "options": [
+      "Unpack the crates for inspection",
+      "Leave the crates unopened",
+      "Ship the crates back to Charleston",
+      "Call the insurance company today"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nĐây là cập nhật cuối ngày từ nhóm vận chuyển. Chuyến hàng của chúng ta đến Atlanta đã được giao đúng hạn lúc 11 giờ sáng, và khách hàng đã ký xác nhận mà không có hư hỏng nào. Tuy nhiên, hai thùng hàng trong lô gửi đến Charleston đã đến trong tình trạng móp méo. Tôi đã chụp ảnh và gửi báo cáo cho bộ phận bảo hiểm; họ nói sẽ phản hồi trong vòng ba ngày làm việc. Trong lúc chờ, chúng ta nên giữ nguyên các thùng đó trong kho và không mở ra. Về phần đội xe, xe tải số 7 vẫn đang ở xưởng — phụ tùng thay thế dự kiến về vào thứ Năm, muộn hơn dự kiến hai ngày, nên các chuyến giao trong tuần này sẽ do xe số 3 đảm nhận. Cuối cùng, ai chưa nộp bảng chấm công tháng này thì nhớ nộp trước trưa mai.\n(A) Mở thùng để kiểm tra\n(B) Để nguyên các thùng, không mở\n(C) Gửi trả các thùng về Charleston\n(D) Gọi cho công ty bảo hiểm ngay hôm nay",
+    "explanation": "Người nói yêu cầu giữ nguyên các thùng đó trong kho và không mở ra trong lúc chờ bảo hiểm phản hồi. Việc liên hệ bảo hiểm đã được nhóm thực hiện, và thời hạn phản hồi là ba ngày làm việc.",
+    "vocab": [
+      {
+        "word": "in the meantime",
+        "pos": "phr",
+        "meaning": "trong lúc chờ"
+      },
+      {
+        "word": "warehouse",
+        "pos": "n",
+        "meaning": "nhà kho"
+      },
+      {
+        "word": "insurance",
+        "pos": "n",
+        "meaning": "bảo hiểm"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following brief report:",
+    "audioScript": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "audioVoiceText": "This is the end-of-day update from the shipping team. Our Atlanta shipment was delivered on time at eleven this morning, and the customer signed for it without noting any damage. However, two crates in the Charleston consignment arrived dented. I've photographed them and filed a report with the insurance department; they say they'll respond within three business days. In the meantime, we should keep those crates in the warehouse exactly as they are and not open them. On the fleet side, truck number seven is still in the shop — the replacement part is now expected Thursday, two days later than planned, so this week's deliveries will be handled by truck three. Finally, anyone who hasn't submitted their timesheet for the month should do so before noon tomorrow.",
+    "questionText": "Why will truck three be used this week?",
+    "options": [
+      "It has just been purchased.",
+      "It is more fuel-efficient.",
+      "Truck seven is being repaired.",
+      "Truck seven has been sold."
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nĐây là cập nhật cuối ngày từ nhóm vận chuyển. Chuyến hàng của chúng ta đến Atlanta đã được giao đúng hạn lúc 11 giờ sáng, và khách hàng đã ký xác nhận mà không có hư hỏng nào. Tuy nhiên, hai thùng hàng trong lô gửi đến Charleston đã đến trong tình trạng móp méo. Tôi đã chụp ảnh và gửi báo cáo cho bộ phận bảo hiểm; họ nói sẽ phản hồi trong vòng ba ngày làm việc. Trong lúc chờ, chúng ta nên giữ nguyên các thùng đó trong kho và không mở ra. Về phần đội xe, xe tải số 7 vẫn đang ở xưởng — phụ tùng thay thế dự kiến về vào thứ Năm, muộn hơn dự kiến hai ngày, nên các chuyến giao trong tuần này sẽ do xe số 3 đảm nhận. Cuối cùng, ai chưa nộp bảng chấm công tháng này thì nhớ nộp trước trưa mai.\n(A) Xe vừa được mua.\n(B) Xe tiết kiệm nhiên liệu hơn.\n(C) Xe số 7 đang được sửa.\n(D) Xe số 7 đã được bán.",
+    "explanation": "Xe tải số 7 vẫn đang ở xưởng chờ phụ tùng thay thế về vào thứ Năm, nên các chuyến giao trong tuần do xe số 3 đảm nhận.",
+    "vocab": [
+      {
+        "word": "fleet",
+        "pos": "n",
+        "meaning": "đội xe"
+      },
+      {
+        "word": "replacement part",
+        "pos": "n",
+        "meaning": "phụ tùng thay thế"
+      },
+      {
+        "word": "timesheet",
+        "pos": "n",
+        "meaning": "bảng chấm công"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following voicemail message:",
+    "audioScript": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "audioVoiceText": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "questionText": "Why is Mr. Voss contacting Sarah?",
+    "options": [
+      "To confirm equipment availability for an event",
+      "To apply for a research grant",
+      "To reschedule a class",
+      "To sell lab equipment"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào Sarah, tôi là Daniel Voss từ phòng thí nghiệm vật liệu ở trường đại học. Tôi gọi về việc đặt thiết bị cho hội thảo của cô vào tháng Bảy. Tôi đã kiểm tra lịch và chúng tôi có thể cung cấp hai máy chiếu độ phân giải cao cho cả hai ngày, nhưng tôi e rằng máy đo quang phổ mà cô yêu cầu sẽ không có vì nó đang được sửa đến giữa tháng Tám. Chúng tôi có một mẫu cũ hơn hoạt động tốt nhưng chỉ đo được trong dải hẹp hơn — tôi đã để lại bản thông số kỹ thuật ở bàn của cô. Nếu mẫu đó không phù hợp, cô có thể liên hệ với phòng thí nghiệm của trường Westfield; họ thường cho các nhóm bên ngoài thuê thiết bị với giá khoảng bốn trăm đô-la một ngày. Tôi sẽ có mặt ở văn phòng đến năm giờ chiều nay và cả ngày mai, nên cô cứ gọi lại bất cứ lúc nào.\n(A) Để xác nhận tình trạng sẵn có của thiết bị cho một sự kiện\n(B) Để xin tài trợ nghiên cứu\n(C) Để dời lịch một lớp học\n(D) Để bán thiết bị phòng thí nghiệm",
+    "explanation": "Ông Voss gọi về 'việc đặt thiết bị cho hội thảo tháng Bảy' và xác nhận máy chiếu có, máy đo quang phổ không có — tức là trao đổi về tình trạng thiết bị, không phải bán hay xin tài trợ.",
+    "vocab": [
+      {
+        "word": "booking",
+        "pos": "n",
+        "meaning": "việc đặt (thiết bị, chỗ)"
+      },
+      {
+        "word": "supply",
+        "pos": "v",
+        "meaning": "cung cấp"
+      },
+      {
+        "word": "spectrometer",
+        "pos": "n",
+        "meaning": "máy đo quang phổ"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following voicemail message:",
+    "audioScript": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "audioVoiceText": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "questionText": "What is the problem with the spectrometer?",
+    "options": [
+      "It is too expensive to rent.",
+      "It is being repaired until mid-August.",
+      "It was sent to another university.",
+      "It requires special training."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào Sarah, tôi là Daniel Voss từ phòng thí nghiệm vật liệu ở trường đại học. Tôi gọi về việc đặt thiết bị cho hội thảo của cô vào tháng Bảy. Tôi đã kiểm tra lịch và chúng tôi có thể cung cấp hai máy chiếu độ phân giải cao cho cả hai ngày, nhưng tôi e rằng máy đo quang phổ mà cô yêu cầu sẽ không có vì nó đang được sửa đến giữa tháng Tám. Chúng tôi có một mẫu cũ hơn hoạt động tốt nhưng chỉ đo được trong dải hẹp hơn — tôi đã để lại bản thông số kỹ thuật ở bàn của cô. Nếu mẫu đó không phù hợp, cô có thể liên hệ với phòng thí nghiệm của trường Westfield; họ thường cho các nhóm bên ngoài thuê thiết bị với giá khoảng bốn trăm đô-la một ngày. Tôi sẽ có mặt ở văn phòng đến năm giờ chiều nay và cả ngày mai, nên cô cứ gọi lại bất cứ lúc nào.\n(A) Giá thuê quá cao.\n(B) Máy đang được sửa đến giữa tháng Tám.\n(C) Máy đã được gửi cho trường khác.\n(D) Yêu cầu người dùng phải qua khóa đào tạo đặc biệt.",
+    "explanation": "Người nói cho biết máy đo quang phổ 'đang được sửa đến giữa tháng Tám' nên không có sẵn cho hội thảo tháng Bảy. (D) không được bài nói nhắc đến.",
+    "vocab": [
+      {
+        "word": "out for repairs",
+        "pos": "phr",
+        "meaning": "đang được sửa, mang đi sửa"
+      },
+      {
+        "word": "available",
+        "pos": "adj",
+        "meaning": "có sẵn"
+      },
+      {
+        "word": "narrower range",
+        "pos": "n",
+        "meaning": "dải đo hẹp hơn"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following voicemail message:",
+    "audioScript": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "audioVoiceText": "Hi Sarah, this is Daniel Voss from the materials lab at the university. I'm calling about the equipment booking for your workshop in July. I checked the calendar, and we can supply two high-resolution projectors for both days, but I'm afraid the spectrometer you asked for won't be available because it's out for repairs until the middle of August. We do have an older model that works well, though it only covers a narrower range — I've left the specifications on your desk. If that model won't do, you might contact the lab at Westfield College; they usually rent equipment to outside groups for about four hundred dollars a day. I'll be in my office until five this afternoon and all day tomorrow, so feel free to call me back.",
+    "questionText": "What does the speaker suggest if the older model is unsuitable?",
+    "options": [
+      "Postponing the workshop",
+      "Borrowing from another department",
+      "Contacting another college's lab",
+      "Buying a used device online"
+    ],
+    "correct": "C",
+    "translation": "Bản dịch bài nói:\nChào Sarah, tôi là Daniel Voss từ phòng thí nghiệm vật liệu ở trường đại học. Tôi gọi về việc đặt thiết bị cho hội thảo của cô vào tháng Bảy. Tôi đã kiểm tra lịch và chúng tôi có thể cung cấp hai máy chiếu độ phân giải cao cho cả hai ngày, nhưng tôi e rằng máy đo quang phổ mà cô yêu cầu sẽ không có vì nó đang được sửa đến giữa tháng Tám. Chúng tôi có một mẫu cũ hơn hoạt động tốt nhưng chỉ đo được trong dải hẹp hơn — tôi đã để lại bản thông số kỹ thuật ở bàn của cô. Nếu mẫu đó không phù hợp, cô có thể liên hệ với phòng thí nghiệm của trường Westfield; họ thường cho các nhóm bên ngoài thuê thiết bị với giá khoảng bốn trăm đô-la một ngày. Tôi sẽ có mặt ở văn phòng đến năm giờ chiều nay và cả ngày mai, nên cô cứ gọi lại bất cứ lúc nào.\n(A) Hoãn hội thảo\n(B) Mượn từ phòng ban khác\n(C) Liên hệ phòng thí nghiệm của trường khác\n(D) Mua thiết bị cũ trên mạng",
+    "explanation": "Nếu mẫu cũ không phù hợp, ông Voss gợi ý liên hệ phòng thí nghiệm của trường Westfield, nơi thường cho nhóm bên ngoài thuê với giá khoảng bốn trăm đô-la một ngày.",
+    "vocab": [
+      {
+        "word": "won't do",
+        "pos": "phr",
+        "meaning": "không phù hợp, không dùng được"
+      },
+      {
+        "word": "rent",
+        "pos": "v",
+        "meaning": "cho thuê/thuê"
+      },
+      {
+        "word": "specifications",
+        "pos": "n",
+        "meaning": "thông số kỹ thuật"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "audioVoiceText": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "questionText": "Why will the fair close early?",
+    "options": [
+      "A severe storm is expected.",
+      "The staff is going on strike.",
+      "A speaker has canceled.",
+      "The parking lots are full."
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChú ý quý vị đang có mặt tại hội chợ triển lãm Greenfield. Hội chợ sẽ đóng cửa lúc sáu giờ tối nay, sớm hơn một giờ so với chương trình, vì dự báo có giông lớn. Chúng tôi đề nghị quý vị rời khu trưng bày ngoài trời trước năm giờ ba mươi. Các gian hàng trong nhà vẫn mở đến sáu giờ. Nếu quý vị đã mua vé cho buổi trình diễn nấu ăn lúc năm giờ, buổi trình diễn sẽ được chuyển sang Nhà hát Trung tâm lúc bốn giờ, và vé cũ vẫn có giá trị. Xe đưa đón đến bãi đỗ xe phía xa sẽ chạy liên tục từ bây giờ đến bảy giờ tối. Vui lòng không mang thú nuôi vào khu nhà kính, và nhớ trả thiết bị nghe hướng dẫn tại quầy thông tin trước khi ra về. Chúng tôi cảm ơn quý vị đã tham dự và hẹn gặp lại vào năm sau.\n(A) Dự kiến có bão lớn.\n(B) Nhân viên sẽ đình công.\n(C) Một diễn giả đã hủy.\n(D) Bãi đỗ xe đã kín.",
+    "explanation": "Thông báo nêu hội chợ đóng cửa sớm một giờ vì \"dự báo có giông lớn\". (D) là bẫy vì có nhắc bãi đỗ xe phía xa, nhưng đó là lý do có xe đưa đón chứ không phải lý do đóng sớm.",
+    "vocab": [
+      {
+        "word": "forecast",
+        "pos": "v",
+        "meaning": "dự báo"
+      },
+      {
+        "word": "severe",
+        "pos": "adj",
+        "meaning": "dữ dội, nghiêm trọng"
+      },
+      {
+        "word": "thunderstorm",
+        "pos": "n",
+        "meaning": "giông bão"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "audioVoiceText": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "questionText": "What change is announced for the cooking demonstration?",
+    "options": [
+      "It will be canceled.",
+      "It will start an hour earlier at a different place.",
+      "It will be held outdoors.",
+      "It will require a new ticket."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChú ý quý vị đang có mặt tại hội chợ triển lãm Greenfield. Hội chợ sẽ đóng cửa lúc sáu giờ tối nay, sớm hơn một giờ so với chương trình, vì dự báo có giông lớn. Chúng tôi đề nghị quý vị rời khu trưng bày ngoài trời trước năm giờ ba mươi. Các gian hàng trong nhà vẫn mở đến sáu giờ. Nếu quý vị đã mua vé cho buổi trình diễn nấu ăn lúc năm giờ, buổi trình diễn sẽ được chuyển sang Nhà hát Trung tâm lúc bốn giờ, và vé cũ vẫn có giá trị. Xe đưa đón đến bãi đỗ xe phía xa sẽ chạy liên tục từ bây giờ đến bảy giờ tối. Vui lòng không mang thú nuôi vào khu nhà kính, và nhớ trả thiết bị nghe hướng dẫn tại quầy thông tin trước khi ra về. Chúng tôi cảm ơn quý vị đã tham dự và hẹn gặp lại vào năm sau.\n(A) Buổi trình diễn sẽ bị hủy.\n(B) Buổi trình diễn sẽ bắt đầu sớm hơn một giờ ở địa điểm khác.\n(C) Buổi trình diễn sẽ được tổ chức ngoài trời.\n(D) Buổi trình diễn sẽ cần vé mới.",
+    "explanation": "Buổi trình diễn nấu ăn lúc năm giờ được chuyển sang Nhà hát Trung tâm lúc bốn giờ, tức sớm hơn một giờ và đổi địa điểm. Vé cũ vẫn có giá trị nên (D) sai.",
+    "vocab": [
+      {
+        "word": "demonstration",
+        "pos": "n",
+        "meaning": "buổi trình diễn"
+      },
+      {
+        "word": "be honored",
+        "pos": "phr",
+        "meaning": "được chấp nhận, có giá trị"
+      },
+      {
+        "word": "existing",
+        "pos": "adj",
+        "meaning": "hiện có, đã có"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "audioVoiceText": "Attention, visitors to the Greenfield Trade Fair. The fair will close at six this evening, one hour earlier than scheduled, because a severe thunderstorm is forecast. We ask everyone to leave the outdoor display area by five thirty. Indoor exhibits will remain open until six. If you purchased a ticket for the cooking demonstration at five o'clock, the demonstration has been moved to the Central Theater at four, and your existing ticket will still be honored. Shuttle buses to the remote parking lots will run continuously from now until seven tonight. Please do not bring pets into the greenhouse, and remember to return your audio guide at the information desk before you leave. Thank you for joining us, and we hope to see you again next year.",
+    "questionText": "What are visitors reminded to do?",
+    "options": [
+      "Park only in the main lot",
+      "Return their audio guide",
+      "Bring their pets indoors",
+      "Leave the indoor exhibits by five thirty"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChú ý quý vị đang có mặt tại hội chợ triển lãm Greenfield. Hội chợ sẽ đóng cửa lúc sáu giờ tối nay, sớm hơn một giờ so với chương trình, vì dự báo có giông lớn. Chúng tôi đề nghị quý vị rời khu trưng bày ngoài trời trước năm giờ ba mươi. Các gian hàng trong nhà vẫn mở đến sáu giờ. Nếu quý vị đã mua vé cho buổi trình diễn nấu ăn lúc năm giờ, buổi trình diễn sẽ được chuyển sang Nhà hát Trung tâm lúc bốn giờ, và vé cũ vẫn có giá trị. Xe đưa đón đến bãi đỗ xe phía xa sẽ chạy liên tục từ bây giờ đến bảy giờ tối. Vui lòng không mang thú nuôi vào khu nhà kính, và nhớ trả thiết bị nghe hướng dẫn tại quầy thông tin trước khi ra về. Chúng tôi cảm ơn quý vị đã tham dự và hẹn gặp lại vào năm sau.\n(A) Chỉ đỗ xe ở bãi chính\n(B) Trả thiết bị nghe hướng dẫn\n(C) Mang thú nuôi vào trong nhà\n(D) Rời khu trưng bày trong nhà trước 5 giờ 30",
+    "explanation": "Thông báo nhắc trả thiết bị nghe hướng dẫn tại quầy thông tin trước khi ra về. (C) ngược lại: không mang thú nuôi vào khu nhà kính. (D) sai vì khu trong nhà mở đến sáu giờ; mốc 5 giờ 30 là hạn rời khu ngoài trời.",
+    "vocab": [
+      {
+        "word": "audio guide",
+        "pos": "n",
+        "meaning": "thiết bị nghe hướng dẫn"
+      },
+      {
+        "word": "greenhouse",
+        "pos": "n",
+        "meaning": "nhà kính"
+      },
+      {
+        "word": "remote",
+        "pos": "adj",
+        "meaning": "xa, ở xa"
+      }
+    ]
+  }
+]

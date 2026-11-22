@@ -1,0 +1,1628 @@
+[
+  {
+    "id": 71,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioGroup": "t4-p4-g1",
+    "audioScript": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "audioVoiceText": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "questionText": "Why is the clinic closed today?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Staff are attending a medical conference."
+      },
+      {
+        "key": "B",
+        "text": "(B) The building is undergoing electrical repairs."
+      },
+      {
+        "key": "C",
+        "text": "(C) It is a regional holiday."
+      },
+      {
+        "key": "D",
+        "text": "(D) Inclement weather forced an early closure."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao phòng khám đóng cửa hôm nay?\n(A) Nhân viên đang tham dự một hội nghị y khoa.\n(B) Tòa nhà đang sửa chữa hệ thống điện.\n(C) Hôm nay là ngày nghỉ lễ của khu vực.\n(D) Thời tiết xấu buộc phòng khám phải đóng cửa sớm.",
+    "explanation": "Thông báo nói: 'Our reception desk is closed today in observance of the regional holiday' nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "in observance of",
+        "pos": "phr.",
+        "meaning": "nhân dịp (kỷ niệm ngày lễ)"
+      },
+      {
+        "word": "routine cleaning",
+        "pos": "n.",
+        "meaning": "vệ sinh/cạo vôi răng định kỳ"
+      },
+      {
+        "word": "on-call",
+        "pos": "adj.",
+        "meaning": "trực (sẵn sàng hỗ trợ)"
+      },
+      {
+        "word": "urgent",
+        "pos": "adj.",
+        "meaning": "khẩn cấp"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioGroup": "t4-p4-g1",
+    "audioScript": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "audioVoiceText": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "questionText": "What are callers advised to do if they want to change an appointment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Call back after eight o'clock tomorrow"
+      },
+      {
+        "key": "B",
+        "text": "(B) Press two to speak with a dentist"
+      },
+      {
+        "key": "C",
+        "text": "(C) Leave a detailed voicemail message"
+      },
+      {
+        "key": "D",
+        "text": "(D) Visit the clinic's website"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người gọi được khuyên làm gì nếu muốn thay đổi lịch hẹn?\n(A) Gọi lại sau tám giờ sáng mai\n(B) Nhấn phím hai để nói chuyện với nha sĩ\n(C) Để lại tin nhắn thoại chi tiết\n(D) Truy cập trang web của phòng khám",
+    "explanation": "Lời nhắn hướng dẫn: 'If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org.' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "meaning": "đổi lịch hẹn"
+      },
+      {
+        "word": "existing",
+        "pos": "adj.",
+        "meaning": "hiện có"
+      },
+      {
+        "word": "booking calendar",
+        "pos": "n.",
+        "meaning": "lịch đặt hẹn trực tuyến"
+      },
+      {
+        "word": "reopen",
+        "pos": "v.",
+        "meaning": "mở cửa lại"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 71-73 refer to the following telephone message:",
+    "audioGroup": "t4-p4-g1",
+    "audioScript": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "audioVoiceText": "Thank you for calling Harbor Dental Clinic. Our reception desk is closed today in observance of the regional holiday, and we will reopen at eight o'clock tomorrow morning. If you would like to schedule a routine cleaning or reschedule an existing appointment, please use the patient booking calendar on our website, harbordental.org. Existing patients experiencing an urgent dental issue may press two to be connected to our on-call dentist. Please have your patient identification number ready before pressing two. Thank you for choosing Harbor Dental Clinic.",
+    "questionText": "What should patients prepare before connecting to the on-call dentist?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Their insurance policy card"
+      },
+      {
+        "key": "B",
+        "text": "(B) Their patient identification number"
+      },
+      {
+        "key": "C",
+        "text": "(C) A list of current medications"
+      },
+      {
+        "key": "D",
+        "text": "(D) A credit card for a deposit"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Bệnh nhân nên chuẩn bị gì trước khi kết nối với nha sĩ trực?\n(A) Thẻ bảo hiểm của họ\n(B) Mã số định danh bệnh nhân của họ\n(C) Danh sách thuốc đang sử dụng\n(D) Thẻ tín dụng để đặt cọc",
+    "explanation": "Thông báo dặn rõ: 'Please have your patient identification number ready before pressing two.' nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "identification number",
+        "pos": "n.",
+        "meaning": "mã số định danh"
+      },
+      {
+        "word": "connect to",
+        "pos": "v.",
+        "meaning": "kết nối tới"
+      },
+      {
+        "word": "issue",
+        "pos": "n.",
+        "meaning": "vấn đề"
+      },
+      {
+        "word": "reception desk",
+        "pos": "n.",
+        "meaning": "bàn lễ tân"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following advertisement:",
+    "audioGroup": "t4-p4-g2",
+    "audioScript": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "audioVoiceText": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "questionText": "What is being advertised?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) An outdoor hiking equipment shop"
+      },
+      {
+        "key": "B",
+        "text": "(B) A marathon training club"
+      },
+      {
+        "key": "C",
+        "text": "(C) A neighborhood juice bar"
+      },
+      {
+        "key": "D",
+        "text": "(D) An indoor rock-climbing gym"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Địa điểm nào đang được quảng cáo?\n(A) Một cửa hàng thiết bị leo núi ngoài trời\n(B) Một câu lạc bộ luyện tập chạy marathon\n(C) Một quầy nước ép khu phố\n(D) Một phòng tập leo núi đá trong nhà",
+    "explanation": "Quảng cáo giới thiệu 'Apex Climbing Gym, the city's newest indoor rock-climbing facility' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "treadmill",
+        "pos": "n.",
+        "meaning": "máy chạy bộ"
+      },
+      {
+        "word": "indoor",
+        "pos": "adj.",
+        "meaning": "trong nhà"
+      },
+      {
+        "word": "seasoned",
+        "pos": "adj.",
+        "meaning": "dày dạn kinh nghiệm"
+      },
+      {
+        "word": "certified",
+        "pos": "adj.",
+        "meaning": "được chứng nhận"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following advertisement:",
+    "audioGroup": "t4-p4-g2",
+    "audioScript": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "audioVoiceText": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "questionText": "How often are the climbing routes changed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Every day"
+      },
+      {
+        "key": "B",
+        "text": "(B) Every week"
+      },
+      {
+        "key": "C",
+        "text": "(C) Every month"
+      },
+      {
+        "key": "D",
+        "text": "(D) Every season"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Các tuyến leo tường được thay đổi bao lâu một lần?\n(A) Mỗi ngày\n(B) Mỗi tuần\n(C) Mỗi tháng\n(D) Mỗi mùa",
+    "explanation": "Người nói cho biết: 'our forty-foot walls offer routes for every skill level, updated weekly by certified route setters.' ('weekly' = every week) nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "route",
+        "pos": "n.",
+        "meaning": "tuyến đường, lộ trình leo"
+      },
+      {
+        "word": "strength training",
+        "pos": "n.",
+        "meaning": "tập luyện sức mạnh"
+      },
+      {
+        "word": "membership",
+        "pos": "n.",
+        "meaning": "thẻ/gói hội viên"
+      },
+      {
+        "word": "harness",
+        "pos": "n.",
+        "meaning": "đai bảo hộ leo núi"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 74-76 refer to the following advertisement:",
+    "audioGroup": "t4-p4-g2",
+    "audioScript": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "audioVoiceText": "Tired of the same crowded treadmill routine? Come experience Apex Climbing Gym, the city's newest indoor rock-climbing facility, opening this Saturday on Riverwalk Avenue! Whether you're a first-time climber or a seasoned athlete, our forty-foot walls offer routes for every skill level, updated weekly by certified route setters. Plus, our facility includes a strength training studio and a cozy smoothie bar. Sign up before Sunday night to receive fifty percent off your first month's membership, along with free rental shoes and harness on opening weekend. Visit apexclimb.com to reserve your beginner orientation class today!",
+    "questionText": "What is offered to people who sign up before Sunday night?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A half-price first-month membership"
+      },
+      {
+        "key": "B",
+        "text": "(B) Three private coaching sessions"
+      },
+      {
+        "key": "C",
+        "text": "(C) Complimentary protein smoothies"
+      },
+      {
+        "key": "D",
+        "text": "(D) A permanent storage locker"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Ưu đãi nào dành cho người đăng ký trước tối Chủ nhật?\n(A) Giảm nửa giá hội viên tháng đầu tiên\n(B) Ba buổi huấn luyện riêng\n(C) Sinh tố bổ sung đạm miễn phí\n(D) Tủ đồ cá nhân cố định",
+    "explanation": "'Sign up before Sunday night to receive fifty percent off your first month's membership' (50% off = half-price) nên (A) đúng.",
+    "vocab": [
+      {
+        "word": "sign up",
+        "pos": "phr. v.",
+        "meaning": "đăng ký tham gia"
+      },
+      {
+        "word": "rental",
+        "pos": "n.",
+        "meaning": "việc cho thuê, đồ thuê"
+      },
+      {
+        "word": "cozy",
+        "pos": "adj.",
+        "meaning": "ấm cúng, thoải mái"
+      },
+      {
+        "word": "opening weekend",
+        "pos": "n.",
+        "meaning": "dịp cuối tuần khai trương"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioGroup": "t4-p4-g3",
+    "audioScript": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "audioVoiceText": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "questionText": "Why is the underground parking level closing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) For annual fire-safety drills"
+      },
+      {
+        "key": "B",
+        "text": "(B) Because a water pipe burst"
+      },
+      {
+        "key": "C",
+        "text": "(C) To expand space for delivery trucks"
+      },
+      {
+        "key": "D",
+        "text": "(D) For floor resurfacing and charger installation"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao tầng hầm đỗ xe lại đóng cửa?\n(A) Để diễn tập an toàn cháy nổ hằng năm\n(B) Vì đường ống nước bị vỡ\n(C) Để mở rộng chỗ cho xe tải giao hàng\n(D) Để lát lại bề mặt sàn và lắp đặt trạm sạc",
+    "explanation": "Thông báo nói: 'so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations.' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "resurface",
+        "pos": "v.",
+        "meaning": "tráng/làm lại bề mặt"
+      },
+      {
+        "word": "charging station",
+        "pos": "n.",
+        "meaning": "trạm sạc (xe điện)"
+      },
+      {
+        "word": "parking permit",
+        "pos": "n.",
+        "meaning": "thẻ/giấy phép đỗ xe"
+      },
+      {
+        "word": "cooperation",
+        "pos": "n.",
+        "meaning": "sự hợp tác"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioGroup": "t4-p4-g3",
+    "audioScript": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "audioVoiceText": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "questionText": "Where should employees park for the next two weeks?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Along the street in front of the lobby"
+      },
+      {
+        "key": "B",
+        "text": "(B) On basement level B2"
+      },
+      {
+        "key": "C",
+        "text": "(C) At the Oakridge Stadium lot"
+      },
+      {
+        "key": "D",
+        "text": "(D) At a nearby shopping mall"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhân viên nên đỗ xe ở đâu trong hai tuần tới?\n(A) Dọc theo đường phía trước sảnh\n(B) Tại tầng hầm B2\n(C) Tại bãi xe Sân vận động Oakridge\n(D) Tại một trung tâm thương mại gần đó",
+    "explanation": "Thông báo hướng dẫn: 'all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building.' nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "underground",
+        "pos": "adj.",
+        "meaning": "dưới lòng đất, tầng hầm"
+      },
+      {
+        "word": "concrete",
+        "pos": "n./adj.",
+        "meaning": "bê tông"
+      },
+      {
+        "word": "continuously",
+        "pos": "adv.",
+        "meaning": "liên tục"
+      },
+      {
+        "word": "board",
+        "pos": "v.",
+        "meaning": "lên (xe, tàu)"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 77-79 refer to the following announcement:",
+    "audioGroup": "t4-p4-g3",
+    "audioScript": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "audioVoiceText": "Attention all staff members. Starting next Monday, May twelfth, our underground parking level B1 will be closed for two weeks so contractors can resurface the concrete floor and install twelve electric-vehicle charging stations. During this period, please do not drive into the basement ramp. Instead, all employees with parking permits may park at the Oakridge Stadium lot two blocks north of our building. Company shuttle vans will run continuously between the stadium lot and our front lobby from seven a.m. until seven p.m. Simply show your employee badge to board the van. Thank you for your cooperation.",
+    "questionText": "What must staff show to use the shuttle vans?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A driver's license"
+      },
+      {
+        "key": "B",
+        "text": "(B) A stadium parking ticket"
+      },
+      {
+        "key": "C",
+        "text": "(C) A printed email confirmation"
+      },
+      {
+        "key": "D",
+        "text": "(D) An employee identification badge"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Nhân viên phải xuất trình gì để đi xe trung chuyển?\n(A) Giấy phép lái xe\n(B) Vé gửi xe ở sân vận động\n(C) Email xác nhận bản in\n(D) Thẻ nhân viên",
+    "explanation": "Người nói dặn: 'Simply show your employee badge to board the van.' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "shuttle van",
+        "pos": "n.",
+        "meaning": "xe trung chuyển"
+      },
+      {
+        "word": "block",
+        "pos": "n.",
+        "meaning": "dãy phố"
+      },
+      {
+        "word": "ramp",
+        "pos": "n.",
+        "meaning": "đoạn dốc (lên xuống hầm)"
+      },
+      {
+        "word": "electric-vehicle",
+        "pos": "n.",
+        "meaning": "xe điện"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following tour guide talk:",
+    "audioGroup": "t4-p4-g4",
+    "audioScript": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "audioVoiceText": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "questionText": "Where is the talk taking place?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) In a pottery workshop"
+      },
+      {
+        "key": "B",
+        "text": "(B) At a university lecture hall"
+      },
+      {
+        "key": "C",
+        "text": "(C) Inside a bookstore"
+      },
+      {
+        "key": "D",
+        "text": "(D) In an art museum gallery"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Bài nói diễn ra ở đâu?\n(A) Trong một xưởng làm gốm\n(B) Tại giảng đường đại học\n(C) Bên trong một hiệu sách\n(D) Trong phòng trưng bày của bảo tàng nghệ thuật",
+    "explanation": "Người hướng dẫn chào mừng khách tới 'West Wing Ceramic Sculpture Gallery' và nhắc đến quy định chụp ảnh không đèn flash, sau đó đề cập tới 'the museum gift shop', nên bối cảnh là phòng trưng bày của bảo tàng nghệ thuật (D).",
+    "vocab": [
+      {
+        "word": "ceramic",
+        "pos": "adj./n.",
+        "meaning": "bằng gốm, đồ gốm"
+      },
+      {
+        "word": "sculpture",
+        "pos": "n.",
+        "meaning": "tác phẩm điêu khắc"
+      },
+      {
+        "word": "glaze",
+        "pos": "n.",
+        "meaning": "lớp men (gốm)"
+      },
+      {
+        "word": "clay",
+        "pos": "n.",
+        "meaning": "đất sét"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following tour guide talk:",
+    "audioGroup": "t4-p4-g4",
+    "audioScript": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "audioVoiceText": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "questionText": "What are visitors reminded NOT to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Bring drinks into the café"
+      },
+      {
+        "key": "B",
+        "text": "(B) Use a camera flash"
+      },
+      {
+        "key": "C",
+        "text": "(C) Purchase catalogs online"
+      },
+      {
+        "key": "D",
+        "text": "(D) Take any photographs at all"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Khách tham quan được nhắc KHÔNG được làm gì?\n(A) Mang đồ uống vào quán cà phê\n(B) Sử dụng đèn flash máy ảnh\n(C) Mua danh mục triển lãm trực tuyến\n(D) Chụp bất kỳ bức ảnh nào",
+    "explanation": "Người dẫn tour nói: 'flash photography is not permitted in this gallery, though non-flash photos are welcome.' (chụp ảnh không bật flash thì được phép, chỉ cấm bật đèn flash) nên (B) đúng, (D) sai.",
+    "vocab": [
+      {
+        "word": "permitted",
+        "pos": "adj.",
+        "meaning": "được phép"
+      },
+      {
+        "word": "riverbank",
+        "pos": "n.",
+        "meaning": "bờ sông"
+      },
+      {
+        "word": "lighting angle",
+        "pos": "n.",
+        "meaning": "góc chiếu sáng"
+      },
+      {
+        "word": "courtyard",
+        "pos": "n.",
+        "meaning": "khoảng sân trong"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 80-82 refer to the following tour guide talk:",
+    "audioGroup": "t4-p4-g4",
+    "audioScript": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "audioVoiceText": "Welcome, everyone, to the West Wing Ceramic Sculpture Gallery. The forty pieces displayed in this hall were crafted by artist Kenji Watanabe over the past fifteen years, using clay gathered from riverbanks in northern Japan. Notice how the glazes shift from deep cobalt blue to warm bronze depending on the lighting angle. Please remember that flash photography is not permitted in this gallery, though non-flash photos are welcome. In about twenty minutes, we will head downstairs to the courtyard café for refreshments. Also, if you wish to purchase exhibition catalogs or postcards, the museum gift shop closes promptly at five o'clock today.",
+    "questionText": "What happens at five o'clock today?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The artist gives a live demonstration."
+      },
+      {
+        "key": "B",
+        "text": "(B) Refreshments are served in the courtyard."
+      },
+      {
+        "key": "C",
+        "text": "(C) The museum gift shop closes."
+      },
+      {
+        "key": "D",
+        "text": "(D) A second gallery tour begins."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì xảy ra vào năm giờ chiều nay?\n(A) Nghệ sĩ sẽ trình diễn trực tiếp.\n(B) Đồ giải khát được phục vụ ở sân trong.\n(C) Cửa hàng quà lưu niệm của bảo tàng đóng cửa.\n(D) Chuyến tham quan phòng trưng bày thứ hai bắt đầu.",
+    "explanation": "Cuối bài hướng dẫn viên nói: 'the museum gift shop closes promptly at five o'clock today.' (20 phút nữa mới xuống sân uống nước, còn 5 giờ đóng cửa hàng quà tặng) nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "promptly",
+        "pos": "adv.",
+        "meaning": "đúng giờ, ngay lập tức"
+      },
+      {
+        "word": "exhibition catalog",
+        "pos": "n.",
+        "meaning": "cuốn danh mục triển lãm"
+      },
+      {
+        "word": "craft",
+        "pos": "v.",
+        "meaning": "chế tác thủ công"
+      },
+      {
+        "word": "gift shop",
+        "pos": "n.",
+        "meaning": "cửa hàng quà lưu niệm"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following radio broadcast:",
+    "audioGroup": "t4-p4-g5",
+    "audioScript": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "audioVoiceText": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "questionText": "What is causing traffic delays on the Oakwood Bridge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A road repair project"
+      },
+      {
+        "key": "B",
+        "text": "(B) A morning parade"
+      },
+      {
+        "key": "C",
+        "text": "(C) A stalled freight truck"
+      },
+      {
+        "key": "D",
+        "text": "(D) Heavy fog over the river"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Nguyên nhân gây ùn tắc giao thông trên cầu Oakwood là gì?\n(A) Một dự án sửa chữa đường cầu\n(B) Một cuộc diễu hành buổi sáng\n(C) Một xe tải chở hàng bị chết máy\n(D) Sương mù dày đặc trên sông",
+    "explanation": "Bản tin nói: 'as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon.' nên (A) đúng.",
+    "vocab": [
+      {
+        "word": "commuter",
+        "pos": "n.",
+        "meaning": "người đi làm/đi lại hằng ngày"
+      },
+      {
+        "word": "eastbound",
+        "pos": "adj./adv.",
+        "meaning": "hướng về phía đông"
+      },
+      {
+        "word": "detour",
+        "pos": "v./n.",
+        "meaning": "đi vòng, đổi lộ trình"
+      },
+      {
+        "word": "expansion joint",
+        "pos": "n.",
+        "meaning": "khe co giãn (trên cầu/đường)"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following radio broadcast:",
+    "audioGroup": "t4-p4-g5",
+    "audioScript": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "audioVoiceText": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "questionText": "How does the disruption affect Route 14 buses?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Fares have been temporarily waived."
+      },
+      {
+        "key": "B",
+        "text": "(B) All evening departures are canceled."
+      },
+      {
+        "key": "C",
+        "text": "(C) Some scheduled stops are being bypassed."
+      },
+      {
+        "key": "D",
+        "text": "(D) Buses are terminating at Third Street."
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Sự gián đoạn này ảnh hưởng thế nào đến tuyến xe buýt số 14?\n(A) Giá vé tạm thời được miễn.\n(B) Tất cả chuyến buổi tối đều bị hủy.\n(C) Một số trạm dừng theo lịch bị bỏ qua.\n(D) Xe buýt kết thúc lộ trình tại đường Third.",
+    "explanation": "Phát thanh viên nói: 'Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station.' ('skipping stops' = some scheduled stops are being bypassed) nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "bypass",
+        "pos": "v.",
+        "meaning": "đi vòng qua, bỏ qua"
+      },
+      {
+        "word": "skip",
+        "pos": "v.",
+        "meaning": "bỏ qua"
+      },
+      {
+        "word": "financial district",
+        "pos": "n.",
+        "meaning": "khu tài chính"
+      },
+      {
+        "word": "disruption",
+        "pos": "n.",
+        "meaning": "sự gián đoạn"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 83-85 refer to the following radio broadcast:",
+    "audioGroup": "t4-p4-g5",
+    "audioScript": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "audioVoiceText": "Good morning, commuters. You're listening to Metro 98.5 Traffic and Weather. Expect heavy delays on the Oakwood Bridge heading eastbound this morning as city crews repair a damaged expansion joint in the center lane. Two lanes will remain blocked through Thursday afternoon. As a result, Metro Transit Route 14 buses are detouring along Elm Avenue and skipping stops between Third Street and Harbor Station. Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead, which is running extra trains every six minutes until ten a.m. Expect clear, sunny skies all afternoon with a high near twenty-four degrees.",
+    "questionText": "What are travelers going to the financial district advised to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Work from home until Thursday"
+      },
+      {
+        "key": "B",
+        "text": "(B) Depart before six a.m."
+      },
+      {
+        "key": "C",
+        "text": "(C) Board a bus on Elm Avenue"
+      },
+      {
+        "key": "D",
+        "text": "(D) Ride the Metro Blue Line"
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đi về phía khu tài chính được khuyên làm gì?\n(A) Làm việc tại nhà cho đến thứ Năm\n(B) Khởi hành trước sáu giờ sáng\n(C) Lên xe buýt trên đại lộ Elm\n(D) Đi tuyến tàu điện Metro Blue Line",
+    "explanation": "Bản tin khuyến nghị rõ: 'Commuters traveling toward the financial district are encouraged to take the Metro Blue Line instead' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "encourage",
+        "pos": "v.",
+        "meaning": "khuyến khích"
+      },
+      {
+        "word": "clear skies",
+        "pos": "n.",
+        "meaning": "bầu trời quang đãng"
+      },
+      {
+        "word": "block",
+        "pos": "v.",
+        "meaning": "chặn, phong tỏa"
+      },
+      {
+        "word": "high",
+        "pos": "n.",
+        "meaning": "nhiệt độ cao nhất"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following introduction:",
+    "audioGroup": "t4-p4-g6",
+    "audioScript": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "audioVoiceText": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "questionText": "What is Dr. Morales's field of research?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Organic fertilizer production"
+      },
+      {
+        "key": "B",
+        "text": "(B) Water-saving farm irrigation"
+      },
+      {
+        "key": "C",
+        "text": "(C) Solar-powered greenhouse heating"
+      },
+      {
+        "key": "D",
+        "text": "(D) Grain storage automation"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Lĩnh vực nghiên cứu của Tiến sĩ Morales là gì?\n(A) Sản xuất phân bón hữu cơ\n(B) Tưới tiêu nông trại tiết kiệm nước\n(C) Sưởi ấm nhà kính bằng năng lượng mặt trời\n(D) Tự động hóa kho lưu trữ ngũ cốc",
+    "explanation": "Người giới thiệu nêu rõ: 'studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent.' (hệ thống tưới nhỏ giọt thông minh giảm tiêu thụ nước trang trại) nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "symposium",
+        "pos": "n.",
+        "meaning": "hội thảo chuyên đề"
+      },
+      {
+        "word": "irrigation",
+        "pos": "n.",
+        "meaning": "sự tưới tiêu"
+      },
+      {
+        "word": "consumption",
+        "pos": "n.",
+        "meaning": "sự tiêu thụ"
+      },
+      {
+        "word": "privilege",
+        "pos": "n.",
+        "meaning": "niềm vinh dự"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following introduction:",
+    "audioGroup": "t4-p4-g6",
+    "audioScript": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "audioVoiceText": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "questionText": "What will Dr. Morales discuss in today's presentation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Government funding grants for institutes"
+      },
+      {
+        "key": "B",
+        "text": "(B) Predictions for autumn rainfall"
+      },
+      {
+        "key": "C",
+        "text": "(C) Examples from farms using her system"
+      },
+      {
+        "key": "D",
+        "text": "(D) Plans for publishing her next textbook"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tiến sĩ Morales sẽ trình bày nội dung gì trong bài nói hôm nay?\n(A) Các khoản tài trợ của chính phủ cho viện nghiên cứu\n(B) Dự báo lượng mưa mùa thu\n(C) Các ví dụ thực tế từ những trang trại áp dụng hệ thống của bà\n(D) Kế hoạch xuất bản sách giáo khoa tiếp theo",
+    "explanation": "Diễn giả giới thiệu: 'Today she will share case studies from three family farms that adopted her technology.' ('case studies from three family farms' = examples from farms) nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "case study",
+        "pos": "n.",
+        "meaning": "nghiên cứu tình huống thực tế"
+      },
+      {
+        "word": "adopt",
+        "pos": "v.",
+        "meaning": "áp dụng, tiếp nhận"
+      },
+      {
+        "word": "sustainable",
+        "pos": "adj.",
+        "meaning": "bền vững"
+      },
+      {
+        "word": "harvest",
+        "pos": "n.",
+        "meaning": "vụ mùa, thu hoạch"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 86-88 refer to the following introduction:",
+    "audioGroup": "t4-p4-g6",
+    "audioScript": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "audioVoiceText": "Good afternoon, everyone, and welcome back from lunch to the Sustainable Agriculture Symposium. It is my privilege to introduce our afternoon keynote speaker, Dr. Elena Morales. For the past twelve years, Dr. Morales has led a research team at Western Valley Institute studying smart drip-irrigation systems that reduce farm water consumption by up to forty percent. Last autumn, her latest book, Watering Tomorrow's Harvest, won the National Environmental Science Award. Today she will share case studies from three family farms that adopted her technology. Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.",
+    "questionText": "What will happen immediately after the talk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Lunch will be served in the cafeteria."
+      },
+      {
+        "key": "B",
+        "text": "(B) A panel discussion will begin."
+      },
+      {
+        "key": "C",
+        "text": "(C) Awards will be presented to researchers."
+      },
+      {
+        "key": "D",
+        "text": "(D) Dr. Morales will sign copies of her book."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Điều gì sẽ diễn ra ngay sau bài thuyết trình?\n(A) Bữa trưa sẽ được phục vụ ở căng tin.\n(B) Một phiên thảo luận nhóm sẽ bắt đầu.\n(C) Giải thưởng sẽ được trao cho các nhà nghiên cứu.\n(D) Tiến sĩ Morales sẽ ký tặng sách của bà.",
+    "explanation": "Câu cuối đoạn giới thiệu nói: 'Immediately after her talk, Dr. Morales will be signing copies of her book at the lobby table.' nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "immediately",
+        "pos": "adv.",
+        "meaning": "ngay lập tức"
+      },
+      {
+        "word": "sign copies",
+        "pos": "phr.",
+        "meaning": "ký tên lên các bản sách"
+      },
+      {
+        "word": "award",
+        "pos": "n.",
+        "meaning": "giải thưởng"
+      },
+      {
+        "word": "institute",
+        "pos": "n.",
+        "meaning": "viện nghiên cứu"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail message:",
+    "audioGroup": "t4-p4-g7",
+    "audioScript": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "audioVoiceText": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "questionText": "What did Lakeside Dental Group purchase from ClearAir Systems?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Commercial air purifiers and filters"
+      },
+      {
+        "key": "B",
+        "text": "(B) Dental examination lamps"
+      },
+      {
+        "key": "C",
+        "text": "(C) Heating and cooling vents"
+      },
+      {
+        "key": "D",
+        "text": "(D) Acoustic wall panels"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tập đoàn Nha khoa Lakeside đã mua gì từ ClearAir Systems?\n(A) Máy lọc không khí thương mại và bộ lọc\n(B) Đèn khám nha khoa\n(C) Cửa thông gió sưởi ấm và làm mát\n(D) Tấm tường cách âm",
+    "explanation": "Kevin Park nói: 'We received our shipment of six commercial air purifiers this morning' và nhắc đến 12 bộ lọc thay thế HEPA đã đặt nên (A) đúng.",
+    "vocab": [
+      {
+        "word": "air purifier",
+        "pos": "n.",
+        "meaning": "máy lọc không khí"
+      },
+      {
+        "word": "accessory",
+        "pos": "n.",
+        "meaning": "phụ kiện"
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "meaning": "hóa đơn bán hàng"
+      },
+      {
+        "word": "smoothly",
+        "pos": "adv.",
+        "meaning": "êm ái, trơn tru"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail message:",
+    "audioGroup": "t4-p4-g7",
+    "audioScript": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "audioVoiceText": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "questionText": "What is the main issue with the shipment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) One of the purifiers makes a loud noise."
+      },
+      {
+        "key": "B",
+        "text": "(B) The delivery arrived two weeks late."
+      },
+      {
+        "key": "C",
+        "text": "(C) The accessory box arrived soaked from rain."
+      },
+      {
+        "key": "D",
+        "text": "(D) Eight replacement filters were not included."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Vấn đề chính đối với lô hàng là gì?\n(A) Một máy lọc phát ra tiếng ồn lớn.\n(B) Đơn hàng giao chậm hai tuần.\n(C) Hộp phụ kiện bị ướt nước mưa.\n(D) Thiếu mất tám bộ lọc thay thế.",
+    "explanation": "Đặt 12 bộ lọc ('twelve we ordered') nhưng chỉ có 4 bộ được đóng gói ('only four replacement HEPA filters were packed'), tức thiếu 8 bộ (12 - 4 = 8), nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "sort out",
+        "pos": "phr. v.",
+        "meaning": "giải quyết, thu xếp"
+      },
+      {
+        "word": "billing address",
+        "pos": "n.",
+        "meaning": "địa chỉ thanh toán/xuất hóa đơn"
+      },
+      {
+        "word": "accountant",
+        "pos": "n.",
+        "meaning": "kế toán viên"
+      },
+      {
+        "word": "commercial",
+        "pos": "adj.",
+        "meaning": "thương mại, công suất lớn"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 89-91 refer to the following voicemail message:",
+    "audioGroup": "t4-p4-g7",
+    "audioScript": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "audioVoiceText": "Hello, this message is for customer support at ClearAir Systems. My name is Kevin Park, calling from Lakeside Dental Group, order number 4892. We received our shipment of six commercial air purifiers this morning, and the units themselves are working quietly and smoothly. However, when we opened the accessory box, only four replacement HEPA filters were packed instead of the twelve we ordered on our invoice. Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy. Please call me back at 555-0193 so we can sort out the missing filters before Friday.",
+    "questionText": "Why does the caller mention his accountant?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To explain why payment has not been sent"
+      },
+      {
+        "key": "B",
+        "text": "(B) To request an updated invoice PDF with the current address"
+      },
+      {
+        "key": "C",
+        "text": "(C) To ask for a bulk discount on future orders"
+      },
+      {
+        "key": "D",
+        "text": "(D) To confirm who signed for the delivery"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao người gọi nhắc đến nhân viên kế toán của mình?\n(A) Để giải thích lý do chưa chuyển tiền thanh toán\n(B) Để yêu cầu bản PDF hóa đơn cập nhật đúng địa chỉ hiện tại\n(C) Để xin giảm giá sỉ cho các đơn hàng sau\n(D) Để xác nhận ai đã ký nhận hàng",
+    "explanation": "Kevin nói: 'Also, the billing address on our receipt lists our old street name, so our accountant asked for a corrected PDF copy.' nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "corrected",
+        "pos": "adj.",
+        "meaning": "đã được chỉnh sửa đúng"
+      },
+      {
+        "word": "customer support",
+        "pos": "n.",
+        "meaning": "bộ phận hỗ trợ khách hàng"
+      },
+      {
+        "word": "unit",
+        "pos": "n.",
+        "meaning": "thiết bị, máy"
+      },
+      {
+        "word": "order number",
+        "pos": "n.",
+        "meaning": "mã đơn hàng"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioGroup": "t4-p4-g8",
+    "audioScript": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "audioVoiceText": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "questionText": "Who is the speaker most likely addressing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Food suppliers"
+      },
+      {
+        "key": "B",
+        "text": "(B) Restaurant servers and staff"
+      },
+      {
+        "key": "C",
+        "text": "(C) Graphic designers"
+      },
+      {
+        "key": "D",
+        "text": "(D) Health inspectors"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói nhiều khả năng đang nói chuyện với ai?\n(A) Các nhà cung cấp thực phẩm\n(B) Nhân viên phục vụ và đội ngũ nhà hàng\n(C) Các nhà thiết kế đồ họa\n(D) Thanh tra vệ sinh an toàn thực phẩm",
+    "explanation": "Người nói cảm ơn mọi người đến sớm trước giờ phục vụ bữa tối, nhắc đọc thẻ thành phần món ăn để trả lời khách về dị ứng thực phẩm và xem các món đặc biệt tối nay ('tonight's specials'), nên đối tượng là nhân viên nhà hàng (B).",
+    "vocab": [
+      {
+        "word": "roll out",
+        "pos": "phr. v.",
+        "meaning": "triển khai, ra mắt"
+      },
+      {
+        "word": "phenomenal",
+        "pos": "adj.",
+        "meaning": "tuyệt vời, phi thường"
+      },
+      {
+        "word": "food allergy",
+        "pos": "n.",
+        "meaning": "dị ứng thực phẩm"
+      },
+      {
+        "word": "diner",
+        "pos": "n.",
+        "meaning": "thực khách"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioGroup": "t4-p4-g8",
+    "audioScript": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "audioVoiceText": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "questionText": "What are the listeners instructed to do before opening tonight?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Taste the four new seafood dishes"
+      },
+      {
+        "key": "B",
+        "text": "(B) Read the ingredient cards in the kitchen"
+      },
+      {
+        "key": "C",
+        "text": "(C) Place survey booklets on every table"
+      },
+      {
+        "key": "D",
+        "text": "(D) Wash the locally grown vegetables"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nghe được dặn làm gì trước khi mở cửa tối nay?\n(A) Nếm thử bốn món hải sản mới\n(B) Đọc các thẻ thành phần món ăn trong bếp\n(C) Đặt tập phiếu khảo sát lên từng bàn\n(D) Rửa các loại rau trồng tại địa phương",
+    "explanation": "Người nói dặn rõ: 'Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately.' nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "ingredient",
+        "pos": "n.",
+        "meaning": "nguyên liệu, thành phần món ăn"
+      },
+      {
+        "word": "accurately",
+        "pos": "adv.",
+        "meaning": "một cách chính xác"
+      },
+      {
+        "word": "clutter",
+        "pos": "n.",
+        "meaning": "sự bừa bộn, lộn xộn"
+      },
+      {
+        "word": "special",
+        "pos": "n.",
+        "meaning": "món đặc biệt trong ngày"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a meeting:",
+    "audioGroup": "t4-p4-g8",
+    "audioScript": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "audioVoiceText": "Thanks for coming in early before dinner service, everyone. Next Tuesday we're rolling out our summer menu, featuring four new seafood dishes and locally grown salads. Chef Marco and I tasted every plate yesterday, and the flavors are phenomenal. Before we open tonight, please take ten minutes to read the ingredient cards in the kitchen so you can answer any questions about food allergies accurately. Also, management wanted to print a three-page customer survey for every table, which would add quite a bit of clutter. Instead, we'll simply include a QR code on the bottom of each bill so diners can share quick feedback on their phones. Now let's review tonight's specials.",
+    "questionText": "What does the speaker imply when mentioning the three-page customer survey?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) It is too expensive for the marketing budget."
+      },
+      {
+        "key": "B",
+        "text": "(B) Copies are already stored behind the counter."
+      },
+      {
+        "key": "C",
+        "text": "(C) Diners must complete it before paying their bill."
+      },
+      {
+        "key": "D",
+        "text": "(D) It was rejected in favor of a simpler digital option."
+      }
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người nói ngụ ý gì khi nhắc đến bảng khảo sát khách hàng dài ba trang?\n(A) Nó quá đắt so với ngân sách tiếp thị.\n(B) Các bản in đã được cất sẵn sau quầy.\n(C) Thực khách bắt buộc hoàn thành trước khi thanh toán.\n(D) Nó đã bị loại bỏ để nhường chỗ cho một lựa chọn kỹ thuật số gọn nhẹ hơn.",
+    "explanation": "Người nói giải thích rằng in khảo sát 3 trang cho mọi bàn sẽ gây lộn xộn trên bàn ('would add quite a bit of clutter'), nên thay vào đó họ chỉ in mã QR ở cuối hóa đơn ('Instead, we'll simply include a QR code...'). Suy ra phương án giấy bị bỏ để chọn giải pháp số gọn hơn, nên (D) đúng.",
+    "vocab": [
+      {
+        "word": "reject",
+        "pos": "v.",
+        "meaning": "từ chối, bác bỏ"
+      },
+      {
+        "word": "in favor of",
+        "pos": "phr.",
+        "meaning": "để nhường chỗ/ủng hộ cho"
+      },
+      {
+        "word": "bill",
+        "pos": "n.",
+        "meaning": "hóa đơn thanh toán"
+      },
+      {
+        "word": "feedback",
+        "pos": "n.",
+        "meaning": "phản hồi, góp ý"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following conference announcement and schedule:",
+    "audioGroup": "t4-p4-g9",
+    "audioScript": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "audioVoiceText": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "questionText": "Why is an afternoon session being moved to a different room?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) A projector malfunctioned in the original room."
+      },
+      {
+        "key": "B",
+        "text": "(B) Registration exceeded initial expectations."
+      },
+      {
+        "key": "C",
+        "text": "(C) A keynote speaker requested a larger stage."
+      },
+      {
+        "key": "D",
+        "text": "(D) Maintenance staff need to clean the second floor."
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao một phiên hội thảo buổi chiều được chuyển sang phòng khác?\n(A) Máy chiếu bị trục trặc trong phòng ban đầu.\n(B) Số lượng đăng ký vượt quá dự kiến ban đầu.\n(C) Một diễn giả chính yêu cầu sân khấu lớn hơn.\n(D) Nhân viên bảo trì cần dọn dẹp tầng hai.",
+    "explanation": "Thông báo nói: 'Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated' (số người đăng ký nhiều gấp đôi dự tính) nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "anticipate",
+        "pos": "v.",
+        "meaning": "dự đoán, lường trước"
+      },
+      {
+        "word": "relocate",
+        "pos": "v.",
+        "meaning": "chuyển địa điểm"
+      },
+      {
+        "word": "cybersecurity",
+        "pos": "n.",
+        "meaning": "an ninh mạng"
+      },
+      {
+        "word": "atrium",
+        "pos": "n.",
+        "meaning": "sảnh lớn giếng trời"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">InnovateTech Summit — Today's Session Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Title</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Room</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:30 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Cloud Infrastructure Trends</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 201</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">11:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">AI Product Design Lab</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 204</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2:00 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Enterprise Cybersecurity Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 208</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">3:30 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Closing Leadership Panel</td>\n                            <td class=\"border border-neutral-800 p-2\">Main Auditorium</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 96,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following conference announcement and schedule:",
+    "audioGroup": "t4-p4-g9",
+    "audioScript": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "audioVoiceText": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "questionText": "Look at the schedule. Which room will NOT be used as planned?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Room 201"
+      },
+      {
+        "key": "B",
+        "text": "(B) Room 204"
+      },
+      {
+        "key": "C",
+        "text": "(C) Room 208"
+      },
+      {
+        "key": "D",
+        "text": "(D) Main Auditorium"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhìn vào lịch trình. Phòng nào sẽ KHÔNG được sử dụng như dự kiến?\n(A) Phòng 201\n(B) Phòng 204\n(C) Phòng 208\n(D) Khán phòng chính",
+    "explanation": "Thông báo nói phiên hội thảo an ninh mạng lúc 2 giờ chiều ('two o'clock cybersecurity workshop') được dời từ phòng niêm yết ban đầu sang Grand Ballroom. Theo bảng lịch trình, phiên 2:00 p.m. vốn ở Room 208 nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "session",
+        "pos": "n.",
+        "meaning": "phiên hội thảo, buổi học"
+      },
+      {
+        "word": "closing panel",
+        "pos": "n.",
+        "meaning": "phiên thảo luận bế mạc"
+      },
+      {
+        "word": "originally",
+        "pos": "adv.",
+        "meaning": "ban đầu"
+      },
+      {
+        "word": "remain",
+        "pos": "v.",
+        "meaning": "vẫn giữ nguyên"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">InnovateTech Summit — Today's Session Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Title</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Room</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:30 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Cloud Infrastructure Trends</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 201</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">11:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">AI Product Design Lab</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 204</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2:00 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Enterprise Cybersecurity Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 208</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">3:30 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Closing Leadership Panel</td>\n                            <td class=\"border border-neutral-800 p-2\">Main Auditorium</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 97,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 95-97 refer to the following conference announcement and schedule:",
+    "audioGroup": "t4-p4-g9",
+    "audioScript": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "audioVoiceText": "May I have your attention, please, InnovateTech Summit attendees? Before our morning coffee break ends, we have one important room change to announce for this afternoon. Because twice as many attendees registered for our two o'clock cybersecurity workshop as originally anticipated, that session is being relocated from its originally listed room to the Grand Ballroom on the first floor so everyone can sit comfortably. All morning sessions and the three-thirty closing panel remain in their scheduled rooms. Please check the digital signs in the atrium if you need directions to the Grand Ballroom. Enjoy the rest of the conference!",
+    "questionText": "How can attendees find the Grand Ballroom?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) By asking a volunteer at the café"
+      },
+      {
+        "key": "B",
+        "text": "(B) By consulting digital signs in the atrium"
+      },
+      {
+        "key": "C",
+        "text": "(C) By checking a map on their conference badge"
+      },
+      {
+        "key": "D",
+        "text": "(D) By taking the elevator to the second floor"
+      }
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người tham dự có thể tìm đường đến Phòng Đại tiệc (Grand Ballroom) bằng cách nào?\n(A) Hỏi tình nguyện viên tại quán cà phê\n(B) Xem các biển chỉ dẫn điện tử ở sảnh lớn\n(C) Xem bản đồ trên thẻ hội nghị\n(D) Đi thang máy lên tầng hai",
+    "explanation": "Thông báo hướng dẫn: 'Please check the digital signs in the atrium if you need directions to the Grand Ballroom.' (Grand Ballroom ở tầng 1, không phải tầng 2) nên (B) đúng.",
+    "vocab": [
+      {
+        "word": "digital sign",
+        "pos": "n.",
+        "meaning": "biển chỉ dẫn điện tử"
+      },
+      {
+        "word": "direction",
+        "pos": "n.",
+        "meaning": "chỉ dẫn đường đi"
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "meaning": "người tham dự"
+      },
+      {
+        "word": "infrastructure",
+        "pos": "n.",
+        "meaning": "cơ sở hạ tầng"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">InnovateTech Summit — Today's Session Schedule</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Time</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Session Title</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Room</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">9:30 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Cloud Infrastructure Trends</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 201</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">11:00 a.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">AI Product Design Lab</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 204</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">2:00 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Enterprise Cybersecurity Workshop</td>\n                            <td class=\"border border-neutral-800 p-2\">Room 208</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">3:30 p.m.</td>\n                            <td class=\"border border-neutral-800 p-2\">Closing Leadership Panel</td>\n                            <td class=\"border border-neutral-800 p-2\">Main Auditorium</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 98,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following voicemail message and shipping chart:",
+    "audioGroup": "t4-p4-g10",
+    "audioScript": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "audioVoiceText": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "questionText": "Why is Aaron calling Ms. Cho?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) To offer a free shipping upgrade due to a warehouse delay"
+      },
+      {
+        "key": "B",
+        "text": "(B) To confirm that her credit card was declined"
+      },
+      {
+        "key": "C",
+        "text": "(C) To let her know dual-monitor stands are out of stock"
+      },
+      {
+        "key": "D",
+        "text": "(D) To ask her to pick up her package in person"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao Aaron lại gọi điện cho cô Cho?\n(A) Để tặng gói nâng cấp giao hàng miễn phí do sự chậm trễ ở kho\n(B) Để báo thẻ tín dụng của cô bị từ chối\n(C) Để báo giá đỡ hai màn hình đã hết hàng\n(D) Để nhờ cô đến tự nhận kiện hàng",
+    "explanation": "Do băng chuyền tại trung tâm phân phối gặp trục trặc tạm thời nên Aaron báo công ty sẽ nâng cấp miễn phí phương thức giao hàng ('upgrading your order at no extra charge') để cô nhận hàng kịp thời hạn, nên (A) đúng.",
+    "vocab": [
+      {
+        "word": "distribution center",
+        "pos": "n.",
+        "meaning": "trung tâm phân phối"
+      },
+      {
+        "word": "conveyor belt",
+        "pos": "n.",
+        "meaning": "băng chuyền"
+      },
+      {
+        "word": "upgrade",
+        "pos": "v.",
+        "meaning": "nâng cấp"
+      },
+      {
+        "word": "courier",
+        "pos": "n.",
+        "meaning": "nhân viên/hãng chuyển phát"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Horizon Office Supply — Shipping Options</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Shipping Tier</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Delivery Speed</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Fee</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Standard Ground</td>\n                            <td class=\"border border-neutral-800 p-2\">5–7 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$6</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Express Two-Day</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 2 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$15</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Priority Overnight</td>\n                            <td class=\"border border-neutral-800 p-2\">By 10:00 a.m. next day</td>\n                            <td class=\"border border-neutral-800 p-2\">$28</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Same-Day Local</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 4 hours (metro area)</td>\n                            <td class=\"border border-neutral-800 p-2\">$40</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 99,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following voicemail message and shipping chart:",
+    "audioGroup": "t4-p4-g10",
+    "audioScript": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "audioVoiceText": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "questionText": "Look at the shipping chart. Which shipping tier is Ms. Cho being upgraded to?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Standard Ground"
+      },
+      {
+        "key": "B",
+        "text": "(B) Express Two-Day"
+      },
+      {
+        "key": "C",
+        "text": "(C) Priority Overnight"
+      },
+      {
+        "key": "D",
+        "text": "(D) Same-Day Local"
+      }
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhìn vào bảng cước vận chuyển. Cô Cho được nâng cấp lên gói giao hàng nào?\n(A) Standard Ground\n(B) Express Two-Day\n(C) Priority Overnight\n(D) Same-Day Local",
+    "explanation": "Cô ấy ban đầu trả gói $15 (Express Two-Day), nay được nâng lên phương thức giao trước 10 giờ sáng ngày hôm sau ('delivers by ten a.m. tomorrow'). Theo bảng, gói giao 'By 10:00 a.m. next day' là 'Priority Overnight' nên (C) đúng.",
+    "vocab": [
+      {
+        "word": "business day",
+        "pos": "n.",
+        "meaning": "ngày làm việc"
+      },
+      {
+        "word": "overnight",
+        "pos": "adj./adv.",
+        "meaning": "qua đêm, giao sáng hôm sau"
+      },
+      {
+        "word": "monitor stand",
+        "pos": "n.",
+        "meaning": "giá đỡ màn hình"
+      },
+      {
+        "word": "priority",
+        "pos": "n.",
+        "meaning": "sự ưu tiên"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Horizon Office Supply — Shipping Options</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Shipping Tier</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Delivery Speed</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Fee</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Standard Ground</td>\n                            <td class=\"border border-neutral-800 p-2\">5–7 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$6</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Express Two-Day</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 2 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$15</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Priority Overnight</td>\n                            <td class=\"border border-neutral-800 p-2\">By 10:00 a.m. next day</td>\n                            <td class=\"border border-neutral-800 p-2\">$28</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Same-Day Local</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 4 hours (metro area)</td>\n                            <td class=\"border border-neutral-800 p-2\">$40</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  },
+  {
+    "id": 100,
+    "type": "listening",
+    "part": 4,
+    "partName": "Part 4: Bài nói ngắn (Short Talks)",
+    "passageTitle": "Questions 98-100 refer to the following voicemail message and shipping chart:",
+    "audioGroup": "t4-p4-g10",
+    "audioScript": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "audioVoiceText": "Hi, Ms. Cho, this is Aaron calling from Horizon Office Supply regarding your purchase of two dual-monitor stands. Thank you for placing the order this morning. Because our distribution center experienced a brief conveyor belt delay earlier today, standard ground shipments won't leave the warehouse until tomorrow evening. Since you paid for our fifteen-dollar shipping option so the stands would arrive within two business days, we'd like to make sure you still get them on time. Therefore, we're upgrading your order at no extra charge to the shipping method that delivers by ten a.m. tomorrow. You'll receive a new tracking email once the courier scans your box tonight.",
+    "questionText": "When will Ms. Cho receive a new tracking email?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Tonight when the courier scans the package"
+      },
+      {
+        "key": "B",
+        "text": "(B) Immediately after this phone call"
+      },
+      {
+        "key": "C",
+        "text": "(C) Tomorrow at ten a.m."
+      },
+      {
+        "key": "D",
+        "text": "(D) Tomorrow evening"
+      }
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Khi nào cô Cho sẽ nhận được email theo dõi đơn hàng mới?\n(A) Tối nay khi nhân viên chuyển phát quét mã kiện hàng\n(B) Ngay sau cuộc gọi này\n(C) Mười giờ sáng mai\n(D) Tối mai",
+    "explanation": "Cuối tin nhắn thoại, Aaron nói: 'You'll receive a new tracking email once the courier scans your box tonight.' nên (A) đúng.",
+    "vocab": [
+      {
+        "word": "tracking email",
+        "pos": "n.",
+        "meaning": "email mã theo dõi vận đơn"
+      },
+      {
+        "word": "scan",
+        "pos": "v.",
+        "meaning": "quét mã"
+      },
+      {
+        "word": "place an order",
+        "pos": "phr.",
+        "meaning": "đặt hàng"
+      },
+      {
+        "word": "metro area",
+        "pos": "n.",
+        "meaning": "khu vực đô thị"
+      }
+    ],
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\">\n                <p class=\"text-center font-extrabold uppercase tracking-wider border-b-2 border-neutral-800 pb-2 mb-3\">Horizon Office Supply — Shipping Options</p>\n                <table class=\"w-full border-collapse border border-neutral-800 text-xs sm:text-sm\">\n                    <thead>\n                        <tr class=\"bg-neutral-100\">\n                            <th class=\"border border-neutral-800 p-2 text-left\">Shipping Tier</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Delivery Speed</th>\n                            <th class=\"border border-neutral-800 p-2 text-left\">Fee</th>\n                        </tr>\n                    </thead>\n                    <tbody>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Standard Ground</td>\n                            <td class=\"border border-neutral-800 p-2\">5–7 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$6</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Express Two-Day</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 2 business days</td>\n                            <td class=\"border border-neutral-800 p-2\">$15</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Priority Overnight</td>\n                            <td class=\"border border-neutral-800 p-2\">By 10:00 a.m. next day</td>\n                            <td class=\"border border-neutral-800 p-2\">$28</td>\n                        </tr>\n                        <tr>\n                            <td class=\"border border-neutral-800 p-2 font-semibold\">Same-Day Local</td>\n                            <td class=\"border border-neutral-800 p-2\">Within 4 hours (metro area)</td>\n                            <td class=\"border border-neutral-800 p-2\">$40</td>\n                        </tr>\n                    </tbody>\n                </table>\n            </div>"
+  }
+]

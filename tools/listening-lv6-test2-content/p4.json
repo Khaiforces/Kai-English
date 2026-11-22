@@ -1,0 +1,633 @@
+[
+  {
+    "id": 71,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following executive speech:",
+    "audioScript": "Good afternoon, colleagues and supply-chain partners. Over the past eighteen months, our direct factory emissions have dropped substantially through rooftop solar installations and heat-recovery upgrades across our assembly plants. Yet those operational gains pale beside our upstream footprint, which still accounts for nearly four-fifths of our total carbon output. Simply procuring unverified renewable energy certificates will no longer satisfy institutional investors or impending border-adjustment tariffs. Starting next quarter, preferred-vendor status will require quarterly lifecycle disclosures verified by an accredited third party. I realize smaller component fabricators worry that retrofitting legacy kilns will strain their working capital. To prevent that squeeze, we are establishing a co-investment facility offering zero-interest modernization grants, provided applicants submit a binding abatement milestone plan before October thirty-first.",
+    "questionText": "What is the main purpose of the speech?",
+    "options": [
+      "To announce stricter environmental compliance criteria and financial support for suppliers",
+      "To criticize institutional investors for misinterpreting recent emissions reports",
+      "To unveil a plan to install rooftop solar panels at supplier factories",
+      "To terminate contracts with component fabricators that operate legacy kilns"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nChào buổi chiều các đồng nghiệp và đối tác chuỗi cung ứng. Trong mười tám tháng qua, lượng phát thải trực tiếp tại nhà máy của chúng ta đã giảm đáng kể nhờ lắp đặt điện mặt trời áp mái và nâng cấp hệ thống thu hồi nhiệt tại các nhà máy lắp ráp. Tuy nhiên, những thành quả vận hành đó trở nên quá nhỏ bé khi đặt cạnh dấu chân phát thải thượng nguồn, vốn vẫn chiếm gần bốn phần năm tổng lượng carbon của chúng ta. Việc chỉ mua các chứng chỉ năng lượng tái tạo chưa được kiểm chứng sẽ không còn làm hài lòng các nhà đầu tư tổ chức hay đáp ứng các mức thuế điều chỉnh biên giới sắp áp dụng. Bắt đầu từ quý tới, tư cách nhà cung cấp ưu tiên sẽ yêu cầu công bố vòng đời phát thải hàng quý được một bên thứ ba được công nhận xác minh. Tôi hiểu các nhà gia công linh kiện quy mô nhỏ lo ngại rằng việc cải tạo các lò nung cũ kỹ sẽ gây căng thẳng cho vốn lưu động của họ. Để ngăn chặn áp lực đó, chúng tôi đang thiết lập một quỹ đồng đầu tư cung cấp các khoản tài trợ hiện đại hóa không lãi suất, với điều kiện đơn vị nộp hồ sơ phải trình kế hoạch lộ trình cắt giảm mang tính ràng buộc trước ngày ba mươi mốt tháng Mười.\n\nCâu hỏi: Mục đích chính của bài phát biểu là gì?\n(A) Công bố các tiêu chí tuân thủ môi trường nghiêm ngặt hơn cùng hỗ trợ tài chính cho nhà cung cấp\n(B) Chỉ trích các nhà đầu tư tổ chức vì đã hiểu sai các báo cáo phát thải gần đây\n(C) Tiết lộ kế hoạch lắp đặt tấm pin mặt trời áp mái tại các nhà máy của nhà cung cấp\n(D) Chấm dứt hợp đồng với các nhà gia công linh kiện đang vận hành lò nung cũ",
+    "explanation": "Người nói vừa đưa ra điều kiện bắt buộc mới đối với nhà cung cấp ưu tiên (công bố vòng đời phát thải có bên thứ ba xác minh), vừa công bố quỹ tài trợ không lãi suất để hỗ trợ doanh nghiệp nhỏ cải tạo thiết bị, nên đáp án A chính xác. Phương án B sai vì nhà đầu tư là bên đặt áp lực chứ không bị chỉ trích; phương án C là việc công ty đã làm ở nhà máy trực tiếp của mình; phương án D suy diễn sai về kế hoạch hỗ trợ.",
+    "vocab": [
+      ["upstream footprint", "n. phr", "dấu chân phát thải thượng nguồn (từ nhà cung ứng)"],
+      ["accredited", "adj", "được công nhận, đạt chuẩn kiểm định"],
+      ["working capital", "n. phr", "vốn lưu động"],
+      ["abatement", "n", "sự cắt giảm, giảm thiểu (khí thải)"]
+    ]
+  },
+  {
+    "id": 72,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following executive speech:",
+    "audioScript": "Good afternoon, colleagues and supply-chain partners. Over the past eighteen months, our direct factory emissions have dropped substantially through rooftop solar installations and heat-recovery upgrades across our assembly plants. Yet those operational gains pale beside our upstream footprint, which still accounts for nearly four-fifths of our total carbon output. Simply procuring unverified renewable energy certificates will no longer satisfy institutional investors or impending border-adjustment tariffs. Starting next quarter, preferred-vendor status will require quarterly lifecycle disclosures verified by an accredited third party. I realize smaller component fabricators worry that retrofitting legacy kilns will strain their working capital. To prevent that squeeze, we are establishing a co-investment facility offering zero-interest modernization grants, provided applicants submit a binding abatement milestone plan before October thirty-first.",
+    "questionText": "What does the speaker imply when saying, \"those operational gains pale beside our upstream footprint\"?",
+    "options": [
+      "Recent solar installations failed to reduce factory electricity costs.",
+      "Emissions generated by suppliers remain a far larger problem than internal ones.",
+      "Investors are unaware of the progress achieved over the past eighteen months.",
+      "Direct factory emissions are projected to surpass four-fifths of total output next year."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói hàm ý gì khi nói rằng \"những thành quả vận hành đó trở nên lu mờ bên cạnh dấu chân phát thải thượng nguồn của chúng ta\"?\n(A) Việc lắp đặt điện mặt trời gần đây không giúp giảm chi phí điện tại nhà máy.\n(B) Lượng phát thải do các nhà cung cấp tạo ra vẫn là vấn đề lớn hơn nhiều so với phát thải nội bộ.\n(C) Các nhà đầu tư không hay biết về tiến bộ đạt được trong mười tám tháng qua.\n(D) Phát thải trực tiếp của nhà máy được dự báo sẽ vượt quá bốn phần năm tổng sản lượng vào năm tới.",
+    "explanation": "Động từ 'pale beside' nghĩa là trở nên nhỏ bé, lu mờ khi so sánh với cái gì đó lớn hơn rất nhiều. Ngay sau đó người nói giải thích phát thải thượng nguồn vẫn chiếm gần 4/5 tổng lượng carbon, hàm ý phát thải từ chuỗi cung ứng bên ngoài vẫn lớn hơn hẳn phần nội bộ công ty, khớp với đáp án B. Phương án D đảo ngược đối tượng chiếm 4/5 tổng phát thải.",
+    "vocab": [
+      ["pale beside", "v. phr", "trở nên mờ nhạt/nhỏ bé khi đặt cạnh"],
+      ["impending", "adj", "sắp xảy ra, sắp có hiệu lực"],
+      ["retrofit", "v", "cải tạo, nâng cấp (máy móc/cơ sở cũ)"]
+    ]
+  },
+  {
+    "id": 73,
+    "part": 4,
+    "passageTitle": "Questions 71-73 refer to the following executive speech:",
+    "audioScript": "Good afternoon, colleagues and supply-chain partners. Over the past eighteen months, our direct factory emissions have dropped substantially through rooftop solar installations and heat-recovery upgrades across our assembly plants. Yet those operational gains pale beside our upstream footprint, which still accounts for nearly four-fifths of our total carbon output. Simply procuring unverified renewable energy certificates will no longer satisfy institutional investors or impending border-adjustment tariffs. Starting next quarter, preferred-vendor status will require quarterly lifecycle disclosures verified by an accredited third party. I realize smaller component fabricators worry that retrofitting legacy kilns will strain their working capital. To prevent that squeeze, we are establishing a co-investment facility offering zero-interest modernization grants, provided applicants submit a binding abatement milestone plan before October thirty-first.",
+    "questionText": "What must smaller suppliers do to qualify for the modernization grants?",
+    "options": [
+      "Purchase unverified renewable energy certificates prior to next quarter",
+      "Submit a formal emissions reduction schedule by the end of October",
+      "Undergo an immediate financial audit of their working capital",
+      "Transfer ownership of their legacy kilns to a third-party accreditor"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Các nhà cung cấp quy mô nhỏ phải làm gì để đủ điều kiện nhận tài trợ hiện đại hóa?\n(A) Mua các chứng chỉ năng lượng tái tạo chưa qua kiểm chứng trước quý tới\n(B) Nộp lộ trình cắt giảm phát thải chính thức trước cuối tháng Mười\n(C) Trải qua cuộc kiểm toán tài chính ngay lập tức đối với vốn lưu động của họ\n(D) Chuyển giao quyền sở hữu các lò nung cũ cho một đơn vị kiểm định bên thứ ba",
+    "explanation": "Câu cuối nêu điều kiện nhận tài trợ không lãi suất là 'provided applicants submit a binding abatement milestone plan before October thirty-first' (nộp kế hoạch lộ trình cắt giảm phát thải mang tính ràng buộc trước ngày 31 tháng Mười), tương ứng đáp án B. Phương án A nhắc đến chứng chỉ không được chấp nhận.",
+    "vocab": [
+      ["co-investment facility", "n. phr", "quỹ/cơ chế đồng đầu tư"],
+      ["binding", "adj", "có tính ràng buộc pháp lý"],
+      ["milestone", "n", "cột mốc tiến độ"]
+    ]
+  },
+  {
+    "id": 74,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following report from an internal audit meeting:",
+    "audioScript": "Thank you for convening on short notice. Our surprise audit of the regional procurement ledgers uncovered a troubling pattern—not outright embezzlement, fortunately, but systemic circumvention of dual-authorization thresholds. Across four branch offices, department heads repeatedly split six-figure IT consulting invoices into smaller increments just below the mandatory director sign-off limit. While those managers claimed they were merely expediting urgent software migrations, bypassing central oversight leaves the firm exposed to duplicate billing and vendor favoritism. Effective immediately, our enterprise resource planning portal will flag any cumulative payments to a single contractor exceeding twenty thousand dollars within a thirty-day rolling window. Branch controllers should reconcile all open purchase orders from the past quarter and circulate a signed attestation memo before Friday's close.",
+    "questionText": "What irregularity did the internal audit uncover?",
+    "options": [
+      "Branch managers intentionally falsified software migration logs.",
+      "Invoices were deliberately fragmented to avoid higher-level approval.",
+      "Several IT contractors billed the company without submitting purchase orders.",
+      "Regional ledgers contained evidence of deliberate funds embezzlement."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nCảm ơn mọi người đã triệu tập cuộc họp gấp. Cuộc kiểm toán đột xuất sổ sách thu mua khu vực của chúng ta đã phát hiện một quy luật đáng lo ngại—may mắn là không phải hành vi biển thủ trắng trợn, mà là sự lách ngưỡng phê duyệt kép mang tính hệ thống. Tại bốn văn phòng chi nhánh, các trưởng bộ phận đã nhiều lần chia nhỏ các hóa đơn tư vấn công nghệ thông tin trị giá sáu chữ số thành các khoản nhỏ hơn nằm ngay dưới hạn mức bắt buộc giám đốc ký duyệt. Dù các quản lý đó cho rằng họ chỉ đang đẩy nhanh việc chuyển đổi phần mềm khẩn cấp, việc bỏ qua giám sát trung tâm khiến công ty đối mặt rủi ro thanh toán trùng lặp và thiên vị nhà cung cấp. Có hiệu lực ngay lập tức, cổng hoạch định nguồn lực doanh nghiệp của chúng ta sẽ gắn cờ mọi khoản thanh toán cộng dồn cho một nhà thầu duy nhất vượt quá hai mươi nghìn đô la trong khung thời gian ba mươi ngày trượt. Các kiểm soát viên chi nhánh cần đối chiếu toàn bộ đơn đặt hàng còn mở từ quý trước và gửi bản ghi nhớ xác nhận có chữ ký trước giờ đóng cửa ngày thứ Sáu.\n\nCâu hỏi: Cuộc kiểm toán nội bộ đã phát hiện điểm bất thường nào?\n(A) Các quản lý chi nhánh cố tình làm giả nhật ký chuyển đổi phần mềm.\n(B) Các hóa đơn bị cố ý chia nhỏ để tránh khâu phê duyệt cấp cao hơn.\n(C) Một số nhà thầu công nghệ thông tin đã xuất hóa đơn cho công ty mà không có đơn đặt hàng.\n(D) Sổ sách khu vực chứa bằng chứng về hành vi biển thủ quỹ có chủ đích.",
+    "explanation": "Người báo cáo nêu các trưởng bộ phận nhiều lần tách hóa đơn lớn thành các khoản nhỏ ngay dưới ngưỡng bắt buộc giám đốc ký duyệt ('split six-figure IT consulting invoices into smaller increments just below the mandatory director sign-off limit'), tức 'fragmented to avoid higher-level approval' ở đáp án B. Đáp án D bị phủ nhận trực tiếp bằng cụm 'not outright embezzlement'.",
+    "vocab": [
+      ["circumvention", "n", "sự lách luật, né tránh quy trình"],
+      ["threshold", "n", "ngưỡng giới hạn"],
+      ["embezzlement", "n", "tội tham ô, biển thủ công quỹ"]
+    ]
+  },
+  {
+    "id": 75,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following report from an internal audit meeting:",
+    "audioScript": "Thank you for convening on short notice. Our surprise audit of the regional procurement ledgers uncovered a troubling pattern—not outright embezzlement, fortunately, but systemic circumvention of dual-authorization thresholds. Across four branch offices, department heads repeatedly split six-figure IT consulting invoices into smaller increments just below the mandatory director sign-off limit. While those managers claimed they were merely expediting urgent software migrations, bypassing central oversight leaves the firm exposed to duplicate billing and vendor favoritism. Effective immediately, our enterprise resource planning portal will flag any cumulative payments to a single contractor exceeding twenty thousand dollars within a thirty-day rolling window. Branch controllers should reconcile all open purchase orders from the past quarter and circulate a signed attestation memo before Friday's close.",
+    "questionText": "Why does the speaker reject the branch managers' justification?",
+    "options": [
+      "The software migrations had already been postponed until next quarter.",
+      "The enterprise portal was incapable of processing split payments.",
+      "Bypassing approval controls creates significant financial and ethical vulnerabilities.",
+      "Only central headquarters is permitted to hire external IT consultants."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người nói bác bỏ lời biện minh của các quản lý chi nhánh?\n(A) Các đợt chuyển đổi phần mềm đã bị hoãn sang quý sau từ trước đó.\n(B) Cổng hệ thống doanh nghiệp không có khả năng xử lý các khoản thanh toán tách nhỏ.\n(C) Việc bỏ qua khâu kiểm soát phê duyệt tạo ra những lỗ hổng tài chính và đạo đức nghiêm trọng.\n(D) Chỉ trụ sở trung tâm mới được phép thuê chuyên gia tư vấn công nghệ thông tin bên ngoài.",
+    "explanation": "Dù các quản lý biện minh là để đẩy nhanh chuyển đổi phần mềm, người nói nhấn mạnh việc bỏ qua giám sát trung tâm khiến công ty đối mặt nguy cơ thanh toán trùng lặp (rủi ro tài chính) và thiên vị nhà cung cấp (rủi ro đạo đức/liêm chính) — 'leaves the firm exposed to duplicate billing and vendor favoritism', tương ứng đáp án C.",
+    "vocab": [
+      ["expedite", "v", "đẩy nhanh tiến độ, xúc tiến"],
+      ["favoritism", "n", "sự thiên vị, ưu ái không công bằng"],
+      ["cumulative", "adj", "cộng dồn, tích lũy"]
+    ]
+  },
+  {
+    "id": 76,
+    "part": 4,
+    "passageTitle": "Questions 74-76 refer to the following report from an internal audit meeting:",
+    "audioScript": "Thank you for convening on short notice. Our surprise audit of the regional procurement ledgers uncovered a troubling pattern—not outright embezzlement, fortunately, but systemic circumvention of dual-authorization thresholds. Across four branch offices, department heads repeatedly split six-figure IT consulting invoices into smaller increments just below the mandatory director sign-off limit. While those managers claimed they were merely expediting urgent software migrations, bypassing central oversight leaves the firm exposed to duplicate billing and vendor favoritism. Effective immediately, our enterprise resource planning portal will flag any cumulative payments to a single contractor exceeding twenty thousand dollars within a thirty-day rolling window. Branch controllers should reconcile all open purchase orders from the past quarter and circulate a signed attestation memo before Friday's close.",
+    "questionText": "What are branch controllers instructed to do by Friday?",
+    "options": [
+      "Suspend all ongoing contracts with IT consulting vendors",
+      "Reprogram the thirty-day payment limit in the company portal",
+      "Review recent purchase orders and submit a signed verification statement",
+      "Conduct surprise audits at neighboring regional offices"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Các kiểm soát viên chi nhánh được yêu cầu làm gì trước thứ Sáu?\n(A) Đình chỉ toàn bộ hợp đồng hiện hành với các nhà cung cấp tư vấn công nghệ thông tin\n(B) Lập trình lại giới hạn thanh toán ba mươi ngày trên cổng thông tin công ty\n(C) Đối chiếu các đơn đặt hàng gần đây và nộp văn bản xác nhận có chữ ký\n(D) Tiến hành kiểm toán đột xuất tại các văn phòng khu vực lân cận",
+    "explanation": "Câu cuối nêu rõ: 'Branch controllers should reconcile all open purchase orders from the past quarter and circulate a signed attestation memo before Friday's close' (đối chiếu đơn đặt hàng còn mở quý trước và gửi bản xác nhận có chữ ký), khớp với đáp án C.",
+    "vocab": [
+      ["reconcile", "v", "đối chiếu, kiểm tra khớp sổ sách"],
+      ["attestation", "n", "văn bản chứng thực, lời xác nhận chính thức"],
+      ["rolling window", "n. phr", "khung thời gian trượt liên tục"]
+    ]
+  },
+  {
+    "id": 77,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following recorded telephone message:",
+    "audioScript": "Hello Ms. Halvorsen, this is David Chen calling from the mergers and acquisitions desk at Sterling & Hale. I have finished reviewing the counterparty's redline on Addendum Four, and there is a subtle snag we need to address before tomorrow's closing call. While opposing counsel conceded on the intellectual property indemnification cap, they quietly inserted a material adverse change carve-out covering pending regulatory inquiries in the Pacific Northwest. Accepting that phrasing as drafted would essentially leave your firm absorbing any antitrust fines levied after the handover. I have prepared two counter-proposals—one extending the escrow retention period by eighteen months, and another carving regulatory penalties back into the seller's liability. Please review the encrypted brief in your portal and return my call before seven tonight so we can lock in our posture.",
+    "questionText": "Why is David Chen calling Ms. Halvorsen?",
+    "options": [
+      "To warn her about a problematic revision in a legal addendum",
+      "To confirm that tomorrow's closing call has been postponed",
+      "To request additional funds for an intellectual property dispute",
+      "To notify her that antitrust regulators have approved the merger"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nXin chào bà Halvorsen, tôi là David Chen gọi từ bộ phận mua bán và sáp nhập tại hãng luật Sterling & Hale. Tôi đã xem xong bản chỉnh sửa có đánh dấu của đối tác đối với Phụ lục Bốn, và có một vướng mắc tinh vi chúng ta cần giải quyết trước cuộc gọi chốt giao dịch ngày mai. Mặc dù luật sư đối phương đã nhượng bộ về mức trần bồi thường sở hữu trí tuệ, họ lại âm thầm chèn một điều khoản ngoại trừ thay đổi bất lợi trọng yếu bao trùm các cuộc điều tra pháp lý đang chờ xử lý ở vùng Tây Bắc Thái Bình Dương. Nếu chấp nhận nguyên văn cách diễn đạt đó, công ty của bà về cơ bản sẽ phải tự gánh mọi khoản phạt chống độc quyền phát sinh sau khi bàn giao. Tôi đã chuẩn bị hai phương án phản hồi—một là gia hạn thời gian giữ tiền ký quỹ thêm mười tám tháng, và hai là đưa các khoản phạt pháp lý trở lại phần trách nhiệm của bên bán. Vui lòng xem bản tóm tắt mã hóa trên cổng thông tin của bà và gọi lại cho tôi trước bảy giờ tối nay để chúng ta chốt lập trường.\n\nCâu hỏi: Tại sao ông David Chen lại gọi cho bà Halvorsen?\n(A) Để cảnh báo bà về một điểm sửa đổi có vấn đề trong phụ lục pháp lý\n(B) Để xác nhận rằng cuộc gọi chốt giao dịch ngày mai đã bị hoãn\n(C) Để yêu cầu bổ sung quỹ cho một tranh chấp sở hữu trí tuệ\n(D) Để thông báo rằng cơ quan quản lý chống độc quyền đã phê duyệt thương vụ sáp nhập",
+    "explanation": "Luật sư David Chen gọi để báo về một 'subtle snag' (vướng mắc tinh vi) phát hiện trong bản chỉnh sửa Phụ lục Bốn ('counterparty's redline on Addendum Four') trước cuộc gọi chốt giao dịch ngày mai, nên đáp án A đúng. Các phương án B, C, D đều bóp méo chi tiết trong lời thoại.",
+    "vocab": [
+      ["redline", "n", "bản thảo có đánh dấu sửa đổi pháp lý"],
+      ["indemnification", "n", "sự bồi thường, bảo đảm miễn trừ thiệt hại"],
+      ["carve-out", "n", "điều khoản loại trừ/tách riêng trong hợp đồng"]
+    ]
+  },
+  {
+    "id": 78,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following recorded telephone message:",
+    "audioScript": "Hello Ms. Halvorsen, this is David Chen calling from the mergers and acquisitions desk at Sterling & Hale. I have finished reviewing the counterparty's redline on Addendum Four, and there is a subtle snag we need to address before tomorrow's closing call. While opposing counsel conceded on the intellectual property indemnification cap, they quietly inserted a material adverse change carve-out covering pending regulatory inquiries in the Pacific Northwest. Accepting that phrasing as drafted would essentially leave your firm absorbing any antitrust fines levied after the handover. I have prepared two counter-proposals—one extending the escrow retention period by eighteen months, and another carving regulatory penalties back into the seller's liability. Please review the encrypted brief in your portal and return my call before seven tonight so we can lock in our posture.",
+    "questionText": "What does the speaker imply about the counterparty's proposed wording?",
+    "options": [
+      "It violates statutory antitrust regulations in the Pacific Northwest.",
+      "It shifts post-acquisition penalty risks onto Ms. Halvorsen's company.",
+      "It unintentionally lowers the indemnification cap on intellectual property.",
+      "It grants the seller an eighteen-month extension to finalize the handover."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói hàm ý gì về cách diễn đạt do đối tác đề xuất?\n(A) Nó vi phạm các quy định luật chống độc quyền tại vùng Tây Bắc Thái Bình Dương.\n(B) Nó đẩy rủi ro tiền phạt sau sáp nhập sang cho công ty của bà Halvorsen.\n(C) Nó vô tình làm giảm mức trần bồi thường đối với sở hữu trí tuệ.\n(D) Nó gia hạn cho bên bán thêm mười tám tháng để hoàn tất việc bàn giao.",
+    "explanation": "Người nói giải thích rằng nếu giữ nguyên văn bản đó, công ty bà Halvorsen sẽ phải gánh toàn bộ khoản phạt chống độc quyền phát sinh sau khi bàn giao ('leave your firm absorbing any antitrust fines levied after the handover'), khớp với đáp án B. Đáp án D đánh tráo chi tiết gia hạn thời gian giữ tiền ký quỹ 18 tháng.",
+    "vocab": [
+      ["antitrust", "adj", "chống độc quyền"],
+      ["levy", "v", "áp đặt, đánh thuế/phạt tiền"],
+      ["escrow", "n", "tài khoản ký quỹ trung gian"]
+    ]
+  },
+  {
+    "id": 79,
+    "part": 4,
+    "passageTitle": "Questions 77-79 refer to the following recorded telephone message:",
+    "audioScript": "Hello Ms. Halvorsen, this is David Chen calling from the mergers and acquisitions desk at Sterling & Hale. I have finished reviewing the counterparty's redline on Addendum Four, and there is a subtle snag we need to address before tomorrow's closing call. While opposing counsel conceded on the intellectual property indemnification cap, they quietly inserted a material adverse change carve-out covering pending regulatory inquiries in the Pacific Northwest. Accepting that phrasing as drafted would essentially leave your firm absorbing any antitrust fines levied after the handover. I have prepared two counter-proposals—one extending the escrow retention period by eighteen months, and another carving regulatory penalties back into the seller's liability. Please review the encrypted brief in your portal and return my call before seven tonight so we can lock in our posture.",
+    "questionText": "What will Ms. Halvorsen most likely do later today?",
+    "options": [
+      "Sign Addendum Four and forward it directly to opposing counsel",
+      "Contact regulatory authorities regarding pending inquiries",
+      "Examine a confidential document and call Mr. Chen to confirm a strategy",
+      "Negotiate an escrow retention fee with a commercial lender"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Bà Halvorsen nhiều khả năng sẽ làm gì vào cuối ngày hôm nay?\n(A) Ký Phụ lục Bốn và chuyển thẳng cho luật sư đối phương\n(B) Liên hệ với cơ quan quản lý về các cuộc điều tra đang chờ xử lý\n(C) Xem xét một tài liệu bảo mật và gọi lại cho ông Chen để chốt chiến lược\n(D) Đàm phán phí giữ tiền ký quỹ với một ngân hàng thương mại",
+    "explanation": "Cuối tin nhắn, luật sư đề nghị bà Halvorsen xem bản tóm tắt được mã hóa trên cổng thông tin ('review the encrypted brief in your portal') và gọi lại trước bảy giờ tối để thống nhất lập trường ('lock in our posture'), tương ứng với đáp án C.",
+    "vocab": [
+      ["counter-proposal", "n", "đề xuất phản hồi, phương án đáp trả"],
+      ["liability", "n", "trách nhiệm pháp lý"],
+      ["posture", "n", "lập trường, thế đàm phán"]
+    ]
+  },
+  {
+    "id": 80,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Attention treasury operations teams and participating clearing members. This Saturday between midnight and four a.m. Eastern Time, our interbank settlement rail will undergo a scheduled cryptographic upgrade to align with updated cross-border messaging standards. During this four-hour window, real-time gross settlement transfers will be temporarily queued rather than executed instantaneously. Batch payroll disbursements submitted prior to eleven p.m. Friday will clear normally without manual intervention. However, automated liquidity sweeps triggered after midnight will fail unless your internal gateway is configured for deferred retry protocols. Note that domestic retail card authorizations operate on an isolated redundancy cluster and will experience zero latency. Should your institution encounter synchronization discrepancies once service resumes, please escalate a priority ticket through the dedicated resilience hotline rather than resubmitting duplicate wire instructions.",
+    "questionText": "What will happen to real-time interbank transfers initiated during the maintenance window?",
+    "options": [
+      "They will be routed through the domestic retail card network.",
+      "They will be held in a queue until the upgrade concludes.",
+      "They will be canceled automatically unless resubmitted manually.",
+      "They will be processed immediately using legacy encryption keys."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nXin lưu ý các bộ phận vận hành kho quỹ và các thành viên thanh toán bù trừ tham gia hệ thống. Thứ Bảy tuần này từ nửa đêm đến bốn giờ sáng theo giờ miền Đông, tuyến thanh toán liên ngân hàng của chúng ta sẽ trải qua đợt nâng cấp mã hóa định kỳ để phù hợp với các chuẩn thông điệp xuyên biên giới mới cập nhật. Trong khung thời gian bốn tiếng này, các lệnh chuyển khoản thanh toán gộp tức thời sẽ tạm thời được đưa vào hàng đợi thay vì thực thi ngay lập tức. Các lệnh chi trả lương theo lô gửi trước mười một giờ đêm thứ Sáu sẽ được xử lý bình thường mà không cần can thiệp thủ công. Tuy nhiên, các lệnh quét thanh khoản tự động kích hoạt sau nửa đêm sẽ thất bại trừ phi cổng kết nối nội bộ của quý vị được cấu hình giao thức thử lại có trì hoãn. Xin lưu ý rằng các giao dịch cấp phép thẻ bán lẻ nội địa hoạt động trên một cụm dự phòng tách biệt và sẽ không bị bất kỳ độ trễ nào. Nếu tổ chức của quý vị gặp sai lệch đồng bộ hóa sau khi dịch vụ hoạt động trở lại, vui lòng gửi phiếu sự cố ưu tiên qua đường dây nóng chuyên trách về khả năng phục hồi thay vì gửi lặp lại các lệnh chuyển tiền.\n\nCâu hỏi: Điều gì sẽ xảy ra với các giao dịch chuyển khoản liên ngân hàng tức thời được khởi tạo trong khung giờ bảo trì?\n(A) Chúng sẽ được định tuyến qua mạng lưới thẻ bán lẻ nội địa.\n(B) Chúng sẽ được giữ trong hàng đợi cho đến khi quá trình nâng cấp kết thúc.\n(C) Chúng sẽ tự động bị hủy trừ phi được gửi lại thủ công.\n(D) Chúng sẽ được xử lý ngay lập tức bằng khóa mã hóa cũ.",
+    "explanation": "Thông báo nêu rõ trong khoảng thời gian nâng cấp bốn tiếng, các giao dịch thanh toán gộp tức thời sẽ tạm xếp hàng đợi thay vì chạy ngay ('temporarily queued rather than executed instantaneously'), trùng khớp với đáp án B.",
+    "vocab": [
+      ["settlement rail", "n. phr", "hệ thống/tuyến thanh toán liên ngân hàng"],
+      ["cryptographic", "adj", "thuộc về mật mã học, mã hóa"],
+      ["disbursement", "n", "sự giải ngân, chi trả"]
+    ]
+  },
+  {
+    "id": 81,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Attention treasury operations teams and participating clearing members. This Saturday between midnight and four a.m. Eastern Time, our interbank settlement rail will undergo a scheduled cryptographic upgrade to align with updated cross-border messaging standards. During this four-hour window, real-time gross settlement transfers will be temporarily queued rather than executed instantaneously. Batch payroll disbursements submitted prior to eleven p.m. Friday will clear normally without manual intervention. However, automated liquidity sweeps triggered after midnight will fail unless your internal gateway is configured for deferred retry protocols. Note that domestic retail card authorizations operate on an isolated redundancy cluster and will experience zero latency. Should your institution encounter synchronization discrepancies once service resumes, please escalate a priority ticket through the dedicated resilience hotline rather than resubmitting duplicate wire instructions.",
+    "questionText": "Which service is least likely to be disrupted by the Saturday upgrade?",
+    "options": [
+      "Automated midnight liquidity sweeps lacking retry protocols",
+      "Cross-border messaging updates submitted after midnight",
+      "Consumer debit and credit card transactions within the country",
+      "Instantaneous settlement transfers initiated at two a.m. Eastern Time"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Dịch vụ nào ít có khả năng bị gián đoạn nhất bởi đợt nâng cấp vào thứ Bảy?\n(A) Các lệnh quét thanh khoản tự động lúc nửa đêm thiếu giao thức thử lại\n(B) Các bản cập nhật thông điệp xuyên biên giới gửi sau nửa đêm\n(C) Giao dịch thẻ ghi nợ và thẻ tín dụng của người tiêu dùng trong nước\n(D) Các lệnh chuyển tiền thanh toán tức thời khởi tạo lúc hai giờ sáng giờ miền Đông",
+    "explanation": "Người nói giải thích rằng việc cấp phép thẻ bán lẻ trong nước ('domestic retail card authorizations') chạy trên cụm dự phòng tách biệt và hoàn toàn không có độ trễ ('experience zero latency'), tương ứng đáp án C. Phương án A sẽ thất bại nếu thiếu giao thức thử lại, còn phương án D rơi vào giờ bảo trì nên bị xếp hàng đợi.",
+    "vocab": [
+      ["redundancy cluster", "n. phr", "cụm máy chủ dự phòng"],
+      ["latency", "n", "độ trễ hệ thống"],
+      ["liquidity sweep", "n. phr", "lệnh quét/gom thanh khoản tự động"]
+    ]
+  },
+  {
+    "id": 82,
+    "part": 4,
+    "passageTitle": "Questions 80-82 refer to the following announcement:",
+    "audioScript": "Attention treasury operations teams and participating clearing members. This Saturday between midnight and four a.m. Eastern Time, our interbank settlement rail will undergo a scheduled cryptographic upgrade to align with updated cross-border messaging standards. During this four-hour window, real-time gross settlement transfers will be temporarily queued rather than executed instantaneously. Batch payroll disbursements submitted prior to eleven p.m. Friday will clear normally without manual intervention. However, automated liquidity sweeps triggered after midnight will fail unless your internal gateway is configured for deferred retry protocols. Note that domestic retail card authorizations operate on an isolated redundancy cluster and will experience zero latency. Should your institution encounter synchronization discrepancies once service resumes, please escalate a priority ticket through the dedicated resilience hotline rather than resubmitting duplicate wire instructions.",
+    "questionText": "If an institution notices data mismatches after service resumes, what should it avoid doing?",
+    "options": [
+      "Submitting a priority report to the resilience hotline",
+      "Sending the same wire transfer requests a second time",
+      "Waiting until after four a.m. Eastern Time to verify balances",
+      "Reconfiguring its gateway for deferred retry protocols"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Nếu một tổ chức phát hiện sự sai lệch dữ liệu sau khi dịch vụ hoạt động lại, họ nên tránh làm gì?\n(A) Gửi báo cáo ưu tiên tới đường dây nóng về khả năng phục hồi\n(B) Gửi lại cùng một yêu cầu chuyển tiền thêm lần thứ hai\n(C) Chờ đến sau bốn giờ sáng giờ miền Đông để kiểm tra số dư\n(D) Cấu hình lại cổng kết nối để sử dụng giao thức thử lại có trì hoãn",
+    "explanation": "Câu cuối khuyến cáo: khi gặp sai lệch đồng bộ hóa ('synchronization discrepancies'), hãy báo qua đường dây nóng thay vì gửi trùng lặp lệnh chuyển tiền ('rather than resubmitting duplicate wire instructions'), khớp chính xác với đáp án B.",
+    "vocab": [
+      ["discrepancy", "n", "sự sai lệch, không khớp"],
+      ["escalate", "v", "báo cáo vượt cấp, chuyển xử lý ưu tiên"],
+      ["duplicate", "adj", "trùng lặp, nhân đôi"]
+    ]
+  },
+  {
+    "id": 83,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following speaker introduction:",
+    "audioScript": "Good morning, delegates, and welcome back to the Global Macroeconomic Policy Summit. Rarely does an academic paper reshape central banking orthodoxy within a single year, yet our keynote speaker accomplished precisely that. Before joining the Institute for Quantitative Economics, Dr. Aris Thorne spent a decade advising sovereign wealth funds on currency volatility. Her latest empirical study challenged conventional Phillips-curve assumptions by integrating granular supply-chain freight indices with household inflation expectations—forecasting last year's disinflationary pivot six months ahead of Wall Street consensus. Today, she will unpack why lagged monetary tightening often obscures structural productivity shifts in service-heavy economies. Following her forty-minute address, we will dispense with the usual stage moderation and open the floor directly to quantitative questions from the audience. Please join me in welcoming Dr. Aris Thorne.",
+    "questionText": "For what accomplishment is Dr. Aris Thorne particularly recognized?",
+    "options": [
+      "Establishing a private sovereign wealth fund before entering academia",
+      "Accurately predicting an economic turning point well ahead of market peers",
+      "Authoring a textbook that defended traditional Phillips-curve models",
+      "Eliminating currency volatility across service-heavy economies"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng quý vị đại biểu, và chào mừng quay trở lại Hội nghị Thượng đỉnh Chính sách Kinh tế Vĩ mô Toàn cầu. Hiếm có một bài nghiên cứu học thuật nào tái định hình quan điểm chính thống của các ngân hàng trung ương chỉ trong một năm, nhưng diễn giả chính của chúng ta đã làm được chính xác điều đó. Trước khi gia nhập Viện Kinh tế Định lượng, Tiến sĩ Aris Thorne đã dành một thập kỷ cố vấn cho các quỹ đầu tư quốc gia về biến động tiền tệ. Nghiên cứu thực nghiệm mới nhất của bà đã thách thức các giả định đường cong Phillips truyền thống bằng cách tích hợp các chỉ số cước vận tải chuỗi cung ứng chi tiết với kỳ vọng lạm phát hộ gia đình—qua đó dự báo bước ngoặt giảm phát chậm lại của năm ngoái sớm hơn sáu tháng so với nhận định chung của Phố Wall. Hôm nay, bà sẽ phân tích lý do vì sao việc thắt chặt tiền tệ có độ trễ thường che khuất những dịch chuyển năng suất mang tính cấu trúc trong các nền kinh tế trọng dịch vụ. Sau bài diễn văn dài bốn mươi phút của bà, chúng ta sẽ bỏ qua khâu điều phối trên sân khấu thường lệ để mở diễn đàn trực tiếp cho các câu hỏi định lượng từ khán giả. Xin quý vị cùng tôi chào đón Tiến sĩ Aris Thorne.\n\nCâu hỏi: Tiến sĩ Aris Thorne đặc biệt được ghi nhận vì thành tựu nào?\n(A) Thành lập một quỹ đầu tư quốc gia tư nhân trước khi bước vào giới học thuật\n(B) Dự báo chính xác một bước ngoặt kinh tế sớm hơn nhiều so với giới chuyên môn thị trường\n(C) Viết một cuốn giáo trình bảo vệ các mô hình đường cong Phillips truyền thống\n(D) Xóa bỏ hoàn toàn biến động tiền tệ trên các nền kinh tế trọng dịch vụ",
+    "explanation": "Người giới thiệu nêu bật việc nghiên cứu thực nghiệm của bà đã dự báo được bước ngoặt giảm lạm phát sớm hơn 6 tháng so với đồng thuận của Phố Wall ('forecasting last year's disinflationary pivot six months ahead of Wall Street consensus'), tương ứng đáp án B. Các phương án A (bà chỉ cố vấn, không tự lập quỹ), C (bà thách thức chứ không bảo vệ giả định cũ) và D đều sai sự thật.",
+    "vocab": [
+      ["empirical", "adj", "dựa trên thực nghiệm, số liệu thực tế"],
+      ["granular", "adj", "chi tiết đến từng cấp độ nhỏ"],
+      ["consensus", "n", "sự đồng thuận, nhận định chung"]
+    ]
+  },
+  {
+    "id": 84,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following speaker introduction:",
+    "audioScript": "Good morning, delegates, and welcome back to the Global Macroeconomic Policy Summit. Rarely does an academic paper reshape central banking orthodoxy within a single year, yet our keynote speaker accomplished precisely that. Before joining the Institute for Quantitative Economics, Dr. Aris Thorne spent a decade advising sovereign wealth funds on currency volatility. Her latest empirical study challenged conventional Phillips-curve assumptions by integrating granular supply-chain freight indices with household inflation expectations—forecasting last year's disinflationary pivot six months ahead of Wall Street consensus. Today, she will unpack why lagged monetary tightening often obscures structural productivity shifts in service-heavy economies. Following her forty-minute address, we will dispense with the usual stage moderation and open the floor directly to quantitative questions from the audience. Please join me in welcoming Dr. Aris Thorne.",
+    "questionText": "What will Dr. Thorne primarily focus on in today's keynote?",
+    "options": [
+      "Methods for compiling household inflation surveys",
+      "Reasons delayed interest-rate policy can mask underlying productivity trends",
+      "Strategies for hedging foreign-exchange risk in freight contracts",
+      "Ways Wall Street analysts calculate consensus forecasts"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tiến sĩ Thorne sẽ tập trung chủ yếu vào nội dung gì trong bài phát biểu chính hôm nay?\n(A) Các phương pháp tổng hợp khảo sát lạm phát hộ gia đình\n(B) Nguyên nhân khiến chính sách tiền tệ thắt chặt bị trễ nhịp có thể che lấp các xu hướng năng suất cốt lõi\n(C) Các chiến lược phòng ngừa rủi ro tỷ giá trong hợp đồng vận tải\n(D) Cách các nhà phân tích Phố Wall tính toán các dự báo đồng thuận",
+    "explanation": "Người giới thiệu nói rõ hôm nay bà sẽ phân tích lý do việc thắt chặt tiền tệ có độ trễ thường che khuất các chuyển dịch năng suất cấu trúc ('unpack why lagged monetary tightening often obscures structural productivity shifts'), tương ứng với đáp án B.",
+    "vocab": [
+      ["lagged", "adj", "có độ trễ về thời gian"],
+      ["monetary tightening", "n. phr", "sự thắt chặt chính sách tiền tệ"],
+      ["obscure", "v", "che khuất, làm mờ đi"]
+    ]
+  },
+  {
+    "id": 85,
+    "part": 4,
+    "passageTitle": "Questions 83-85 refer to the following speaker introduction:",
+    "audioScript": "Good morning, delegates, and welcome back to the Global Macroeconomic Policy Summit. Rarely does an academic paper reshape central banking orthodoxy within a single year, yet our keynote speaker accomplished precisely that. Before joining the Institute for Quantitative Economics, Dr. Aris Thorne spent a decade advising sovereign wealth funds on currency volatility. Her latest empirical study challenged conventional Phillips-curve assumptions by integrating granular supply-chain freight indices with household inflation expectations—forecasting last year's disinflationary pivot six months ahead of Wall Street consensus. Today, she will unpack why lagged monetary tightening often obscures structural productivity shifts in service-heavy economies. Following her forty-minute address, we will dispense with the usual stage moderation and open the floor directly to quantitative questions from the audience. Please join me in welcoming Dr. Aris Thorne.",
+    "questionText": "What does the speaker imply when saying, \"we will dispense with the usual stage moderation\"?",
+    "options": [
+      "The presentation has been shortened due to schedule constraints.",
+      "Attendees will pose questions to Dr. Thorne without a moderator filtering them.",
+      "The question-and-answer session will be moved to a private seminar room.",
+      "Audience members must submit quantitative inquiries in writing beforehand."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói hàm ý gì khi nói rằng \"chúng ta sẽ bỏ qua khâu điều phối trên sân khấu thường lệ\"?\n(A) Bài thuyết trình đã bị rút ngắn do giới hạn về lịch trình.\n(B) Người tham dự sẽ đặt câu hỏi cho Tiến sĩ Thorne mà không qua người điều phối sàng lọc.\n(C) Phiên hỏi đáp sẽ được chuyển sang một phòng hội thảo riêng.\n(D) Khán giả phải gửi các câu hỏi định lượng bằng văn bản trước.",
+    "explanation": "Cụm 'dispense with' nghĩa là bỏ qua, không dùng đến nữa; vế tiếp theo giải thích luôn là 'open the floor directly to quantitative questions from the audience' (mở diễn đàn trực tiếp cho khán giả đặt câu hỏi định lượng), nghĩa là khán giả hỏi trực tiếp diễn giả mà không qua người dẫn sàng lọc, khớp với đáp án B.",
+    "vocab": [
+      ["dispense with", "phr. v", "bỏ qua, lược bỏ (một thủ tục thường lệ)"],
+      ["moderation", "n", "sự điều phối, dẫn dắt thảo luận"],
+      ["sovereign wealth fund", "n. phr", "quỹ đầu tư tài sản quốc gia"]
+    ]
+  },
+  {
+    "id": 86,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following press briefing:",
+    "audioScript": "Thank you for joining this urgent briefing from MedVantage Diagnostics. Earlier today, in coordination with national health regulators, we initiated a voluntary Class One recall of roughly four thousand NeuroFlow infusion pumps manufactured between March and July of this year. Let me emphasize that no patient fatalities have occurred; however, post-market surveillance detected a firmware anomaly in which micro-bubbles can trigger false occlusion alarms, potentially interrupting critical medication delivery. Note that the hardware chassis itself is completely sound, meaning facilities do not need to ship devices back to our depot. Instead, our field engineers are deploying an encrypted software patch remotely via hospital clinical networks starting tonight. In the interim, biomedical staff should switch affected units to manual flow-verification mode and consult the lot-number lookup matrix published on our dedicated crisis portal.",
+    "questionText": "What prompted MedVantage Diagnostics to announce the recall?",
+    "options": [
+      "A structural flaw detected in the physical casing of the pumps",
+      "A software defect capable of disrupting essential drug administration",
+      "Multiple patient injuries reported at regional clinics since March",
+      "A mandatory order issued after a surprise regulatory inspection"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nCảm ơn quý vị đã tham dự buổi họp báo khẩn cấp này từ MedVantage Diagnostics. Sáng nay, phối hợp cùng các cơ quan quản lý y tế quốc gia, chúng tôi đã khởi động đợt thu hồi tự nguyện Cấp độ Một đối với khoảng bốn nghìn máy bơm truyền dịch NeuroFlow được sản xuất từ tháng Ba đến tháng Bảy năm nay. Tôi xin nhấn mạnh rằng chưa có ca tử vong nào ở bệnh nhân xảy ra; tuy nhiên, hoạt động giám sát hậu mãi đã phát hiện một lỗi phần sụn trong đó các bọt khí siêu nhỏ có thể kích hoạt cảnh báo tắc nghẽn giả, có nguy cơ làm gián đoạn quá trình truyền thuốc thiết yếu. Lưu ý rằng khung phần cứng bản thân nó hoàn toàn bình thường, nghĩa là các cơ sở y tế không cần gửi trả thiết bị về kho của chúng tôi. Thay vào đó, các kỹ sư hiện trường đang triển khai bản vá phần mềm được mã hóa từ xa qua mạng lâm sàng của bệnh viện bắt đầu từ tối nay. Trong thời gian chờ đợi, nhân viên y sinh nên chuyển các máy thuộc diện ảnh hưởng sang chế độ xác minh lưu lượng thủ công và tra cứu bảng đối chiếu số lô được công bố trên cổng thông tin xử lý khủng hoảng chuyên biệt của chúng tôi.\n\nCâu hỏi: Điều gì đã thúc đẩy MedVantage Diagnostics công bố đợt thu hồi?\n(A) Một khiếm khuyết kết cấu được phát hiện ở vỏ vật lý của các máy bơm\n(B) Một lỗi phần mềm có khả năng làm gián đoạn việc truyền thuốc thiết yếu\n(C) Nhiều ca thương tích bệnh nhân được báo cáo tại các phòng khám khu vực từ tháng Ba\n(D) Một lệnh bắt buộc được ban hành sau cuộc thanh tra đột xuất của cơ quan quản lý",
+    "explanation": "Bài phát biểu nêu nguyên nhân thu hồi là phát hiện lỗi phần sụn ('firmware anomaly') có thể gây báo động giả và làm gián đoạn việc truyền thuốc thiết yếu ('potentially interrupting critical medication delivery'), tương ứng đáp án B. Đáp án A sai vì phần cứng 'completely sound'; đáp án D sai vì đây là đợt thu hồi tự nguyện ('voluntary').",
+    "vocab": [
+      ["post-market surveillance", "n. phr", "giám sát an toàn sản phẩm sau lưu hành"],
+      ["anomaly", "n", "sự bất thường, lỗi khác thường"],
+      ["occlusion", "n", "sự tắc nghẽn (đường ống/mạch)"]
+    ]
+  },
+  {
+    "id": 87,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following press briefing:",
+    "audioScript": "Thank you for joining this urgent briefing from MedVantage Diagnostics. Earlier today, in coordination with national health regulators, we initiated a voluntary Class One recall of roughly four thousand NeuroFlow infusion pumps manufactured between March and July of this year. Let me emphasize that no patient fatalities have occurred; however, post-market surveillance detected a firmware anomaly in which micro-bubbles can trigger false occlusion alarms, potentially interrupting critical medication delivery. Note that the hardware chassis itself is completely sound, meaning facilities do not need to ship devices back to our depot. Instead, our field engineers are deploying an encrypted software patch remotely via hospital clinical networks starting tonight. In the interim, biomedical staff should switch affected units to manual flow-verification mode and consult the lot-number lookup matrix published on our dedicated crisis portal.",
+    "questionText": "Why will hospitals NOT be required to return the recalled pumps?",
+    "options": [
+      "Replacing four thousand units would overwhelm depot storage capacity.",
+      "The defect can be resolved electronically without physical hardware repairs.",
+      "National health regulators granted a temporary waiver for affected lots.",
+      "Only units manufactured prior to March contain the faulty pressure sensor."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tại sao các bệnh viện sẽ KHÔNG bị yêu cầu gửi trả các máy bơm thuộc diện thu hồi?\n(A) Việc thay thế bốn nghìn thiết bị sẽ làm quá tải sức chứa kho.\n(B) Lỗi này có thể được khắc phục bằng phương thức điện tử mà không cần sửa phần cứng vật lý.\n(C) Các cơ quan quản lý y tế quốc gia đã cấp miễn trừ tạm thời cho các lô bị ảnh hưởng.\n(D) Chỉ những máy sản xuất trước tháng Ba mới chứa cảm biến áp suất bị lỗi.",
+    "explanation": "Người phát ngôn khẳng định khung phần cứng hoàn toàn tốt ('hardware chassis itself is completely sound') và kỹ sư sẽ cài đặt bản vá phần mềm mã hóa từ xa qua mạng bệnh viện ('deploying an encrypted software patch remotely'), tức lỗi được xử lý qua phần mềm điện tử mà không cần gửi máy về sửa vật lý (đáp án B).",
+    "vocab": [
+      ["chassis", "n", "khung máy, bộ phận vỏ và sườn phần cứng"],
+      ["deploy", "v", "triển khai, cài đặt trên diện rộng"],
+      ["in the interim", "adv. phr", "trong thời gian chuyển tiếp/chờ đợi"]
+    ]
+  },
+  {
+    "id": 88,
+    "part": 4,
+    "passageTitle": "Questions 86-88 refer to the following press briefing:",
+    "audioScript": "Thank you for joining this urgent briefing from MedVantage Diagnostics. Earlier today, in coordination with national health regulators, we initiated a voluntary Class One recall of roughly four thousand NeuroFlow infusion pumps manufactured between March and July of this year. Let me emphasize that no patient fatalities have occurred; however, post-market surveillance detected a firmware anomaly in which micro-bubbles can trigger false occlusion alarms, potentially interrupting critical medication delivery. Note that the hardware chassis itself is completely sound, meaning facilities do not need to ship devices back to our depot. Instead, our field engineers are deploying an encrypted software patch remotely via hospital clinical networks starting tonight. In the interim, biomedical staff should switch affected units to manual flow-verification mode and consult the lot-number lookup matrix published on our dedicated crisis portal.",
+    "questionText": "What are hospital technical staff advised to do until the patch is installed?",
+    "options": [
+      "Disconnect all NeuroFlow pumps from clinical hospital networks",
+      "Monitor medication flow manually and verify serial batches online",
+      "Return spare chassis components to MedVantage depots",
+      "Update the diagnostic firmware using portable USB drives"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Đội ngũ kỹ thuật bệnh viện được khuyên nên làm gì cho đến khi bản vá được cài đặt?\n(A) Ngắt kết nối toàn bộ máy bơm NeuroFlow khỏi mạng lâm sàng của bệnh viện\n(B) Theo dõi lưu lượng truyền thuốc thủ công và đối chiếu số lô trực tuyến\n(C) Gửi trả các linh kiện khung máy dự phòng về kho của MedVantage\n(D) Cập nhật phần sụn chẩn đoán bằng ổ USB di động",
+    "explanation": "Câu cuối hướng dẫn nhân viên y sinh chuyển máy sang chế độ xác minh lưu lượng thủ công ('switch affected units to manual flow-verification mode') và tra bảng đối chiếu số lô trên cổng thông tin khủng hoảng ('consult the lot-number lookup matrix published on our dedicated crisis portal'), khớp với đáp án B.",
+    "vocab": [
+      ["biomedical", "adj", "thuộc về kỹ thuật y sinh"],
+      ["lookup matrix", "n. phr", "bảng ma trận tra cứu/đối chiếu"],
+      ["crisis portal", "n. phr", "cổng thông tin xử lý khủng hoảng"]
+    ]
+  },
+  {
+    "id": 89,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following radio news report:",
+    "audioScript": "This is Maritime Business Desk with an update on the Port Halcyon deep-water expansion. Yesterday, the coastal planning tribunal upheld the environmental clearance for dredging the outer shipping channel to eighteen meters, clearing the way for ultra-large container vessels to berth without waiting for high tide. That ruling delivers a decisive victory for the port authority, which argued that losing transshipment volume to neighboring hubs was eroding regional export competitiveness. Still, celebratory champagne may be premature. Environmental coalitions have already filed an emergency injunction targeting the adjacent marshland reclamation zone, where three automated gantry-crane berths are slated to be built. Moreover, because rail-freight electrification along the hinterland corridor lags two years behind schedule, port economists warn that unloading bigger ships faster could merely shift congestion from offshore anchorages onto municipal highways.",
+    "questionText": "What advantage will dredging the outer channel provide to Port Halcyon?",
+    "options": [
+      "It will lower fuel taxes for vessels registered at neighboring hubs.",
+      "It will enable massive cargo ships to dock regardless of tidal cycles.",
+      "It will allow the port to operate without automated gantry cranes.",
+      "It will shorten the rail-freight electrification timeline by two years."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nĐây là chuyên mục Kinh doanh Hàng hải với bản tin cập nhật về dự án mở rộng cảng nước sâu Port Halcyon. Hôm qua, hội đồng xét duyệt quy hoạch ven biển đã giữ nguyên giấy phép môi trường cho phép nạo vét luồng tàu bên ngoài xuống độ sâu mười tám mét, mở đường cho các tàu container siêu lớn cập bến mà không cần chờ thủy triều lên. Phán quyết đó mang lại chiến thắng quyết định cho ban quản lý cảng, vốn lập luận rằng việc mất sản lượng trung chuyển vào tay các cảng đầu mối lân cận đang làm xói mòn năng lực cạnh tranh xuất khẩu của khu vực. Tuy nhiên, việc khui sâm-panh ăn mừng lúc này có lẽ là quá sớm. Các liên minh môi trường đã nộp đơn xin lệnh đình chỉ khẩn cấp nhắm vào khu vực lấn biển vùng đất ngập mặn liền kề, nơi dự kiến xây dựng ba bến cầu tàu gắn cần cẩu giàn tự động. Hơn nữa, vì tiến độ điện khí hóa đường sắt vận tải dọc hành lang nội địa đang chậm hơn hai năm so với kế hoạch, các nhà kinh tế cảng biển cảnh báo rằng việc bốc dỡ tàu lớn nhanh hơn có thể chỉ chuyển điểm ùn tắc từ khu neo đậu ngoài khơi lên các tuyến cao tốc đô thị.\n\nCâu hỏi: Việc nạo vét luồng tàu bên ngoài sẽ mang lại lợi thế gì cho Port Halcyon?\n(A) Nó sẽ giảm thuế nhiên liệu cho các tàu đăng ký tại các trung tâm lân cận.\n(B) Nó sẽ cho phép các tàu chở hàng cỡ lớn cập bến bất kể chu kỳ thủy triều.\n(C) Nó sẽ giúp cảng vận hành mà không cần cần cẩu giàn tự động.\n(D) Nó sẽ rút ngắn lộ trình điện khí hóa đường sắt vận tải xuống hai năm.",
+    "explanation": "Bản tin cho biết việc nạo vét luồng sâu 18 mét giúp tàu container siêu lớn cập bến mà không cần đợi triều cường ('ultra-large container vessels to berth without waiting for high tide'), đồng nghĩa với cập bến bất kể chu kỳ thủy triều ở đáp án B.",
+    "vocab": [
+      ["dredge", "v", "nạo vét (lòng sông/luồng cảng)"],
+      ["berth", "v/n", "cập bến / cầu bến neo đậu"],
+      ["tribunal", "n", "hội đồng xét xử, hội đồng thẩm định"]
+    ]
+  },
+  {
+    "id": 90,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following radio news report:",
+    "audioScript": "This is Maritime Business Desk with an update on the Port Halcyon deep-water expansion. Yesterday, the coastal planning tribunal upheld the environmental clearance for dredging the outer shipping channel to eighteen meters, clearing the way for ultra-large container vessels to berth without waiting for high tide. That ruling delivers a decisive victory for the port authority, which argued that losing transshipment volume to neighboring hubs was eroding regional export competitiveness. Still, celebratory champagne may be premature. Environmental coalitions have already filed an emergency injunction targeting the adjacent marshland reclamation zone, where three automated gantry-crane berths are slated to be built. Moreover, because rail-freight electrification along the hinterland corridor lags two years behind schedule, port economists warn that unloading bigger ships faster could merely shift congestion from offshore anchorages onto municipal highways.",
+    "questionText": "What does the speaker mean when saying, \"celebratory champagne may be premature\"?",
+    "options": [
+      "The planning tribunal has not yet voted on the channel dredging permit.",
+      "Port officials overspent their hospitality budget before securing approval.",
+      "Legal challenges and infrastructure bottlenecks still threaten the project's success.",
+      "Shipping volumes at neighboring ports have already begun to decline sharply."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người nói có ý gì khi nói rằng \"việc khui sâm-panh ăn mừng lúc này có lẽ là quá sớm\"?\n(A) Hội đồng quy hoạch vẫn chưa bỏ phiếu về giấy phép nạo vét luồng.\n(B) Giới chức cảng đã chi vượt ngân sách tiếp khách trước khi có phê duyệt.\n(C) Những thách thức pháp lý và nút thắt hạ tầng vẫn đang đe dọa thành công của dự án.\n(D) Sản lượng vận tải biển tại các cảng lân cận đã bắt đầu sụt giảm mạnh.",
+    "explanation": "Ngay sau câu nhận định này, phát thanh viên nêu hai trở ngại lớn còn lại: đơn xin lệnh đình chỉ khẩn cấp từ các nhóm môi trường ('emergency injunction') và việc điện khí hóa đường sắt chậm hai năm ('lags two years behind schedule'), hàm ý chưa thể ăn mừng vội vì rào cản pháp lý và hạ tầng vẫn hiện hữu (đáp án C).",
+    "vocab": [
+      ["premature", "adj", "quá sớm, vội vàng chưa đúng lúc"],
+      ["injunction", "n", "lệnh đình chỉ/cấm tạm thời của tòa án"],
+      ["reclamation", "n", "sự lấn biển, cải tạo đất"]
+    ]
+  },
+  {
+    "id": 91,
+    "part": 4,
+    "passageTitle": "Questions 89-91 refer to the following radio news report:",
+    "audioScript": "This is Maritime Business Desk with an update on the Port Halcyon deep-water expansion. Yesterday, the coastal planning tribunal upheld the environmental clearance for dredging the outer shipping channel to eighteen meters, clearing the way for ultra-large container vessels to berth without waiting for high tide. That ruling delivers a decisive victory for the port authority, which argued that losing transshipment volume to neighboring hubs was eroding regional export competitiveness. Still, celebratory champagne may be premature. Environmental coalitions have already filed an emergency injunction targeting the adjacent marshland reclamation zone, where three automated gantry-crane berths are slated to be built. Moreover, because rail-freight electrification along the hinterland corridor lags two years behind schedule, port economists warn that unloading bigger ships faster could merely shift congestion from offshore anchorages onto municipal highways.",
+    "questionText": "According to port economists, what unintended problem could arise once larger vessels begin docking?",
+    "options": [
+      "Increased traffic bottlenecks on local road networks",
+      "Delays in clearing customs at offshore anchorages",
+      "Severe erosion of the newly reclaimed marshland zone",
+      "Higher electricity tariffs along the hinterland rail corridor"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Theo các nhà kinh tế cảng biển, vấn đề ngoài ý muốn nào có thể phát sinh khi các tàu lớn hơn bắt đầu cập bến?\n(A) Tình trạng ùn tắc giao thông gia tăng trên mạng lưới đường bộ địa phương\n(B) Sự chậm trễ trong thủ tục thông quan tại các khu neo đậu ngoài khơi\n(C) Tình trạng xói lở nghiêm trọng tại vùng đất ngập mặn mới lấn biển\n(D) Giá điện tăng cao hơn dọc hành lang đường sắt nội địa",
+    "explanation": "Câu cuối cảnh báo rằng do đường sắt chậm tiến độ, việc dỡ hàng nhanh hơn từ các tàu lớn chỉ chuyển sự ùn tắc từ ngoài khơi lên các tuyến cao tốc đô thị ('shift congestion from offshore anchorages onto municipal highways'), tương ứng với đáp án A.",
+    "vocab": [
+      ["hinterland", "n", "vùng nội địa phía sau cảng"],
+      ["anchorage", "n", "khu vực neo đậu tàu ngoài khơi"],
+      ["municipal", "adj", "thuộc đô thị, thành phố"]
+    ]
+  },
+  {
+    "id": 92,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a board meeting:",
+    "audioScript": "Before we vote on the fiscal twenty-seven research budget, I want to address the skepticism surrounding our proposed forty-million-dollar reallocation. On paper, trimming funding from legacy consumer sensor lines appears counterintuitive given their steady baseline sales. Yet our patent portfolio audit reveals that margins on commoditized hardware are shrinking by six percentage points annually as low-cost rivals replicate our older designs. Funneling that capital into predictive-maintenance algorithms—paired with our proprietary solid-state transducers—creates a defensible recurring-revenue moat that competitors cannot easily reverse-engineer. Crucially, we are not eliminating hardware R&D outright; rather, we are folding next-generation sensor prototyping into the industrial analytics division so firmware and silicon evolve in lockstep. If the board approves this pivot today, our engineering leads will present milestone-gated spending tranches at next month's finance committee review.",
+    "questionText": "What is the speaker primarily trying to achieve in this meeting excerpt?",
+    "options": [
+      "To persuade board members to endorse a shift in research funding priorities",
+      "To explain why legacy consumer sensor sales dropped by six percent",
+      "To propose acquiring a competitor that manufactures low-cost sensors",
+      "To announce the immediate closure of the hardware engineering department"
+    ],
+    "correct": "A",
+    "translation": "Bản dịch bài nói:\nTrước khi chúng ta bỏ phiếu thông qua ngân sách nghiên cứu cho năm tài chính hai mươi bảy, tôi muốn giải tỏa những hoài nghi xoay quanh đề xuất tái phân bổ bốn mươi triệu đô la. Trên giấy tờ, việc cắt giảm kinh phí từ các dòng cảm biến tiêu dùng truyền thống nghe có vẻ phản trực giác khi doanh số nền của chúng vẫn ổn định. Tuy nhiên, cuộc rà soát danh mục bằng sáng chế cho thấy biên lợi nhuận trên phần cứng đại trà hóa đang thu hẹp sáu điểm phần trăm mỗi năm do các đối thủ giá rẻ sao chép thiết kế cũ của chúng ta. Dồn nguồn vốn đó vào các thuật toán bảo trì dự đoán—kết hợp với bộ biến đổi thể rắn độc quyền—sẽ tạo ra một hào lũy doanh thu định kỳ có khả năng phòng vệ cao mà đối thủ khó lòng dịch ngược kỹ thuật. Điều quan trọng là chúng ta không xóa sổ hoàn toàn hoạt động R&D phần cứng; thay vào đó, chúng ta sáp nhập khâu tạo mẫu cảm biến thế hệ mới vào khối phân tích công nghiệp để phần sụn và chip bán dẫn phát triển đồng bộ. Nếu hội đồng quản trị phê duyệt bước chuyển hướng này hôm nay, các trưởng nhóm kỹ thuật sẽ trình các đợt giải ngân gắn theo cột mốc tại buổi rà soát tháng tới của ủy ban tài chính.\n\nCâu hỏi: Người nói chủ yếu đang cố gắng đạt được điều gì trong trích đoạn cuộc họp này?\n(A) Thuyết phục các thành viên hội đồng quản trị ủng hộ sự dịch chuyển ưu tiên ngân sách nghiên cứu\n(B) Giải thích lý do doanh số cảm biến tiêu dùng truyền thống giảm sáu phần trăm\n(C) Đề xuất mua lại một đối thủ chuyên sản xuất cảm biến giá rẻ\n(D) Thông báo đóng cửa ngay lập tức bộ phận kỹ thuật phần cứng",
+    "explanation": "Trước thềm bỏ phiếu ngân sách, người nói giải đáp sự hoài nghi và đưa ra lập luận bảo vệ đề xuất chuyển 40 triệu đô la từ cảm biến tiêu dùng sang phần mềm thuật toán kết hợp cảm biến công nghiệp, nhằm thuyết phục hội đồng thông qua (đáp án A). Phương án B bẫy con số 6% (biên lợi nhuận thu hẹp 6 điểm phần trăm mỗi năm, không phải doanh số giảm); phương án D bị bác bỏ trực tiếp bởi câu 'not eliminating hardware R&D outright'.",
+    "vocab": [
+      ["reallocation", "n", "sự phân bổ lại (nguồn vốn/nguồn lực)"],
+      ["counterintuitive", "adj", "trái với trực giác thông thường"],
+      ["commoditized", "adj", "bị đại trà hóa, mất tính khác biệt độc quyền"]
+    ]
+  },
+  {
+    "id": 93,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a board meeting:",
+    "audioScript": "Before we vote on the fiscal twenty-seven research budget, I want to address the skepticism surrounding our proposed forty-million-dollar reallocation. On paper, trimming funding from legacy consumer sensor lines appears counterintuitive given their steady baseline sales. Yet our patent portfolio audit reveals that margins on commoditized hardware are shrinking by six percentage points annually as low-cost rivals replicate our older designs. Funneling that capital into predictive-maintenance algorithms—paired with our proprietary solid-state transducers—creates a defensible recurring-revenue moat that competitors cannot easily reverse-engineer. Crucially, we are not eliminating hardware R&D outright; rather, we are folding next-generation sensor prototyping into the industrial analytics division so firmware and silicon evolve in lockstep. If the board approves this pivot today, our engineering leads will present milestone-gated spending tranches at next month's finance committee review.",
+    "questionText": "According to the speaker, why is investing in predictive-maintenance software preferable to expanding older sensor lines?",
+    "options": [
+      "Software licenses require no ongoing patent protection.",
+      "It yields sustainable subscription income that rivals cannot easily copy.",
+      "Industrial analytics teams require substantially smaller engineering budgets.",
+      "Consumers have stopped purchasing solid-state transducer devices."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Theo người nói, tại sao đầu tư vào phần mềm bảo trì dự đoán lại ưu việt hơn việc mở rộng các dòng cảm biến cũ?\n(A) Giấy phép phần mềm không cần được bảo hộ sáng chế liên tục.\n(B) Nó tạo ra nguồn thu định kỳ bền vững mà các đối thủ không dễ dàng sao chép.\n(C) Các nhóm phân tích công nghiệp đòi hỏi ngân sách kỹ thuật nhỏ hơn đáng kể.\n(D) Người tiêu dùng đã ngừng mua các thiết bị biến đổi thể rắn.",
+    "explanation": "Người nói khẳng định việc dồn vốn vào thuật toán kết hợp linh kiện độc quyền sẽ tạo ra 'a defensible recurring-revenue moat that competitors cannot easily reverse-engineer' (lợi thế doanh thu định kỳ bền vững khó bị đối thủ bóc tách sao chép), khớp chính xác với đáp án B.",
+    "vocab": [
+      ["defensible moat", "n. phr", "lợi thế cạnh tranh bền vững khó xâm phạm"],
+      ["reverse-engineer", "v", "dịch ngược kỹ thuật để sao chép thiết kế"],
+      ["in lockstep", "adv. phr", "đồng bộ nhịp nhàng với nhau"]
+    ]
+  },
+  {
+    "id": 94,
+    "part": 4,
+    "passageTitle": "Questions 92-94 refer to the following excerpt from a board meeting:",
+    "audioScript": "Before we vote on the fiscal twenty-seven research budget, I want to address the skepticism surrounding our proposed forty-million-dollar reallocation. On paper, trimming funding from legacy consumer sensor lines appears counterintuitive given their steady baseline sales. Yet our patent portfolio audit reveals that margins on commoditized hardware are shrinking by six percentage points annually as low-cost rivals replicate our older designs. Funneling that capital into predictive-maintenance algorithms—paired with our proprietary solid-state transducers—creates a defensible recurring-revenue moat that competitors cannot easily reverse-engineer. Crucially, we are not eliminating hardware R&D outright; rather, we are folding next-generation sensor prototyping into the industrial analytics division so firmware and silicon evolve in lockstep. If the board approves this pivot today, our engineering leads will present milestone-gated spending tranches at next month's finance committee review.",
+    "questionText": "What will happen if the board passes the budget proposal today?",
+    "options": [
+      "Legacy consumer sensors will be discontinued next month.",
+      "Engineering managers will submit phased expenditure plans for review.",
+      "The finance committee will conduct a fresh audit of the patent portfolio.",
+      "Silicon fabrication will be outsourced to an analytics vendor."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Điều gì sẽ xảy ra nếu hội đồng quản trị thông qua đề xuất ngân sách hôm nay?\n(A) Các cảm biến tiêu dùng truyền thống sẽ bị ngừng sản xuất vào tháng tới.\n(B) Các quản lý kỹ thuật sẽ đệ trình kế hoạch chi tiêu theo từng giai đoạn để xem xét.\n(C) Ủy ban tài chính sẽ thực hiện một cuộc kiểm toán mới đối với danh mục bằng sáng chế.\n(D) Hoạt động chế tạo chip bán dẫn sẽ được thuê ngoài cho một nhà cung cấp phân tích.",
+    "explanation": "Câu cuối nêu rõ nếu hội đồng phê duyệt bước ngoặt này hôm nay, các trưởng nhóm kỹ thuật sẽ trình các đợt giải ngân gắn cột mốc ('milestone-gated spending tranches') tại cuộc rà soát tháng sau của ủy ban tài chính, đồng nghĩa với 'phased expenditure plans' ở đáp án B.",
+    "vocab": [
+      ["pivot", "n/v", "bước chuyển hướng chiến lược"],
+      ["tranche", "n", "đợt phân bổ/giải ngân vốn theo phần"],
+      ["milestone-gated", "adj", "được kiểm soát giải ngân theo từng cột mốc"]
+    ]
+  },
+  {
+    "id": 95,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following technical instructions:",
+    "audioScript": "Listen closely, night-shift lithography technicians. Earlier this afternoon, automated laser counters in Fab Bay Three detected a sub-micron particulate excursion near the extreme-ultraviolet wafer-handling robots. Although ambient differential pressure has stabilized, we cannot release the line for commercial production until we rule out electrostatic cling on the carrier pods. Before crossing the gowning threshold tonight, make sure your anti-static wrist straps pass the dual-footplate resistance check—any deviation above ten megohms automatically locks the air shower. Once inside, run three consecutive dummy silicon wafers through Etch Chamber Seven and log the optical scatter readings in the cleanroom MES terminal. Do not wipe down the quartz viewport lenses manually with isopropyl swabs; our metrology specialists will perform an ultrasonic purge during the scheduled six a.m. shift handover.",
+    "questionText": "Why has commercial production in Fab Bay Three been temporarily halted?",
+    "options": [
+      "Differential air pressure inside the gowning area remains unstable.",
+      "Microscopic airborne contaminants were detected near wafer robots.",
+      "The cleanroom MES terminal failed to record optical scatter data.",
+      "Metrology specialists discovered cracks in the quartz viewport lenses."
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nHãy lắng nghe thật kỹ, các kỹ thuật viên quang khắc ca đêm. Đầu giờ chiều nay, các bộ đếm laser tự động tại Khu Chế tạo Số Ba đã phát hiện sự vượt ngưỡng vi hạt dưới mức micron gần các rô-bốt gắp tấm bán dẫn cực tím sâu. Mặc dù chênh lệch áp suất môi trường xung quanh đã ổn định, chúng ta vẫn chưa thể mở lại dây chuyền cho sản xuất thương mại cho tới khi loại trừ được hiện tượng bám bụi tĩnh điện trên các hộp chứa tấm bán dẫn. Trước khi bước qua ngưỡng phòng thay đồ bảo hộ tối nay, hãy đảm bảo dây đeo cổ tay chống tĩnh điện của các bạn vượt qua bài kiểm tra điện trở bàn đạp kép—bất kỳ sai lệch nào vượt quá mười megohm sẽ tự động khóa buồng thổi khí. Khi đã vào bên trong, hãy chạy ba tấm silicon thử nghiệm liên tiếp qua Buồng Khắc Số Bảy và ghi nhận chỉ số tán xạ quang học lên thiết bị đầu cuối MES của phòng sạch. Tuyệt đối không lau thủ công các thấu kính cửa sổ thạch anh bằng bông tẩm cồn isopropyl; các chuyên gia đo lường của chúng ta sẽ thực hiện quy trình làm sạch siêu âm vào lúc bàn giao ca theo lịch trình lúc sáu giờ sáng.\n\nCâu hỏi: Tại sao hoạt động sản xuất thương mại tại Khu Chế tạo Số Ba bị tạm dừng?\n(A) Chênh lệch áp suất không khí bên trong khu vực thay đồ bảo hộ vẫn chưa ổn định.\n(B) Các hạt tạp chất siêu nhỏ trong không khí đã được phát hiện gần rô-bốt xử lý tấm bán dẫn.\n(C) Thiết bị đầu cuối MES phòng sạch không ghi nhận được dữ liệu tán xạ quang học.\n(D) Các chuyên gia đo lường phát hiện vết nứt trên các thấu kính cửa sổ thạch anh.",
+    "explanation": "Người nói giải thích bộ đếm laser phát hiện sự cố vi hạt ('sub-micron particulate excursion') gần rô-bốt xử lý tấm wafer nên chưa thể khôi phục sản xuất thương mại trước khi loại trừ bụi tĩnh điện, tương ứng với đáp án B. Phương án A sai vì áp suất chênh lệch đã ổn định ('has stabilized').",
+    "vocab": [
+      ["lithography", "n", "công nghệ quang khắc (sản xuất vi mạch)"],
+      ["particulate excursion", "n. phr", "sự vượt ngưỡng nồng độ hạt bụi vi mô"],
+      ["electrostatic cling", "n. phr", "sự bám dính do tĩnh điện"]
+    ]
+  },
+  {
+    "id": 96,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following technical instructions:",
+    "audioScript": "Listen closely, night-shift lithography technicians. Earlier this afternoon, automated laser counters in Fab Bay Three detected a sub-micron particulate excursion near the extreme-ultraviolet wafer-handling robots. Although ambient differential pressure has stabilized, we cannot release the line for commercial production until we rule out electrostatic cling on the carrier pods. Before crossing the gowning threshold tonight, make sure your anti-static wrist straps pass the dual-footplate resistance check—any deviation above ten megohms automatically locks the air shower. Once inside, run three consecutive dummy silicon wafers through Etch Chamber Seven and log the optical scatter readings in the cleanroom MES terminal. Do not wipe down the quartz viewport lenses manually with isopropyl swabs; our metrology specialists will perform an ultrasonic purge during the scheduled six a.m. shift handover.",
+    "questionText": "What happens if a technician's anti-static gear fails the resistance check?",
+    "options": [
+      "An alarm notifies the metrology unit to inspect the carrier pods.",
+      "The technician must manually clean the air shower with isopropyl alcohol.",
+      "Access through the air shower into the cleanroom is blocked.",
+      "The wafer-handling robots automatically shut down Etch Chamber Seven."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Điều gì xảy ra nếu thiết bị chống tĩnh điện của kỹ thuật viên không đạt bài kiểm tra điện trở?\n(A) Một chuông báo sẽ thông báo cho bộ phận đo lường kiểm tra các hộp chứa tấm bán dẫn.\n(B) Kỹ thuật viên phải tự lau buồng thổi khí bằng cồn isopropyl.\n(C) Lối đi qua buồng thổi khí để vào phòng sạch sẽ bị khóa chặn.\n(D) Các rô-bốt gắp tấm bán dẫn tự động tắt Buồng Khắc Số Bảy.",
+    "explanation": "Hướng dẫn nêu rõ bất kỳ sai lệch điện trở nào trên mười megohm sẽ tự động khóa buồng thổi khí ('automatically locks the air shower'), ngăn không cho vào phòng sạch, khớp với đáp án C.",
+    "vocab": [
+      ["gowning threshold", "n. phr", "ngưỡng khu vực mặc đồ bảo hộ phòng sạch"],
+      ["air shower", "n. phr", "buồng thổi khí khử bụi trước khi vào phòng sạch"],
+      ["deviation", "n", "độ lệch, sai số"]
+    ]
+  },
+  {
+    "id": 97,
+    "part": 4,
+    "passageTitle": "Questions 95-97 refer to the following technical instructions:",
+    "audioScript": "Listen closely, night-shift lithography technicians. Earlier this afternoon, automated laser counters in Fab Bay Three detected a sub-micron particulate excursion near the extreme-ultraviolet wafer-handling robots. Although ambient differential pressure has stabilized, we cannot release the line for commercial production until we rule out electrostatic cling on the carrier pods. Before crossing the gowning threshold tonight, make sure your anti-static wrist straps pass the dual-footplate resistance check—any deviation above ten megohms automatically locks the air shower. Once inside, run three consecutive dummy silicon wafers through Etch Chamber Seven and log the optical scatter readings in the cleanroom MES terminal. Do not wipe down the quartz viewport lenses manually with isopropyl swabs; our metrology specialists will perform an ultrasonic purge during the scheduled six a.m. shift handover.",
+    "questionText": "What are night-shift technicians explicitly instructed NOT to do?",
+    "options": [
+      "Use dummy wafers to calibrate Etch Chamber Seven",
+      "Enter optical scatter data into the cleanroom terminal",
+      "Hand-clean the quartz viewing windows with solvent swabs",
+      "Conduct a shift handover briefing at six in the morning"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Các kỹ thuật viên ca đêm được chỉ thị rõ ràng là KHÔNG được làm gì?\n(A) Sử dụng các tấm silicon thử nghiệm để hiệu chuẩn Buồng Khắc Số Bảy\n(B) Nhập dữ liệu tán xạ quang học vào thiết bị đầu cuối phòng sạch\n(C) Tự lau bằng tay các cửa sổ quan sát thạch anh bằng bông tẩm dung môi\n(D) Tiến hành buổi bàn giao ca vào lúc sáu giờ sáng",
+    "explanation": "Câu cuối cảnh báo trực tiếp: 'Do not wipe down the quartz viewport lenses manually with isopropyl swabs' (không tự lau thủ công thấu kính cửa sổ thạch anh bằng bông tẩm cồn isopropyl), trùng khớp với đáp án C. Các phương án A và B là những việc bắt buộc phải làm.",
+    "vocab": [
+      ["metrology", "n", "khoa học đo lường chính xác"],
+      ["ultrasonic purge", "n. phr", "quy trình sục rửa/làm sạch bằng sóng siêu âm"],
+      ["viewport", "n", "cửa sổ quan sát kỹ thuật"]
+    ]
+  },
+  {
+    "id": 98,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Good morning, everyone in our temperature-controlled freight division. Following a six-month operational review, senior leadership has finalized a structural reorganization effective November first. Escalating diesel volatility and fragmented backhaul routes have eroded margins across our general refrigerated produce fleet, making standalone regional haulage unsustainable. Consequently, we are consolidating our twelve decentralized dispatch desks into two automated nerve centers—one in Rotterdam and one in Chicago—while divesting twenty-four non-insulated dry-van trailers. Our strategic pivot centers on ultra-low-temperature biologics transport, where long-term pharmaceutical contracts command substantially stronger pricing power. Affected dispatch coordinators will not be laid off indiscriminately; instead, human resources is opening a priority internal-mobility track offering fully subsidized cold-chain compliance certification. Please check your inbox by noon for personalized transition packets and one-on-one consultation slots.",
+    "questionText": "What primarily motivated the reorganization of the freight division?",
+    "options": [
+      "A regulatory ban on operating non-insulated trailers in Chicago",
+      "Declining profitability in conventional regional refrigerated shipping",
+      "The cancellation of a major pharmaceutical transport contract",
+      "Severe staffing shortages across twelve regional dispatch offices"
+    ],
+    "correct": "B",
+    "translation": "Bản dịch bài nói:\nChào buổi sáng toàn thể nhân sự thuộc bộ phận vận tải kiểm soát nhiệt độ của chúng ta. Sau sáu tháng rà soát vận hành, ban lãnh đạo cấp cao đã chốt phương án tái cơ cấu tổ chức có hiệu lực từ ngày mồng một tháng Mười Một. Biến động giá dầu diesel leo thang và các tuyến hàng chiều về manh mún đã bào mòn biên lợi nhuận trên toàn bộ đội xe chở nông sản làm mát thông thường, khiến hoạt động vận tải khu vực độc lập không còn bền vững. Do đó, chúng ta sẽ hợp nhất mười hai bàn điều phối phân tán thành hai trung tâm điều hành tự động—một ở Rotterdam và một ở Chicago—đồng thời thanh lý hai mươi bốn rơ-moóc thùng khô không cách nhiệt. Trọng tâm chuyển hướng chiến lược của chúng ta nằm ở mảng vận chuyển sinh phẩm y tế nhiệt độ siêu sâu, nơi các hợp đồng dược phẩm dài hạn nắm giữ sức mạnh định giá vượt trội hơn hẳn. Các điều phối viên bị ảnh hưởng sẽ không bị sa thải hàng loạt một cách thiếu cân nhắc; thay vào đó, bộ phận nhân sự đang mở lộ trình luân chuyển nội bộ ưu tiên kèm chứng chỉ tuân thủ chuỗi lạnh được tài trợ toàn phần. Vui lòng kiểm tra hộp thư đến trước buổi trưa để nhận bộ tài liệu chuyển đổi cá nhân hóa và lịch hẹn tư vấn trực tiếp một-một.\n\nCâu hỏi: Điều gì chủ yếu thúc đẩy việc tái cơ cấu bộ phận vận tải hàng hóa?\n(A) Lệnh cấm theo quy định đối với việc vận hành rơ-moóc không cách nhiệt tại Chicago\n(B) Lợi nhuận suy giảm trong mảng vận chuyển lạnh khu vực truyền thống\n(C) Việc hủy bỏ một hợp đồng vận chuyển dược phẩm lớn\n(D) Tình trạng thiếu hụt nhân sự nghiêm trọng tại mười hai văn phòng điều phối khu vực",
+    "explanation": "Người nói nêu rõ biến động giá dầu và tuyến chiều về rời rạc đã bào mòn biên lợi nhuận của đội xe chở nông sản làm mát, khiến mô hình vận tải khu vực độc lập không bền vững ('eroded margins across our general refrigerated produce fleet, making standalone regional haulage unsustainable'), tương ứng đáp án B.",
+    "vocab": [
+      ["backhaul", "n", "chuyến hàng chiều về (giúp tối ưu xe rỗng)"],
+      ["erode margins", "v. phr", "bào mòn biên lợi nhuận"],
+      ["pricing power", "n. phr", "sức mạnh định giá trên thị trường"]
+    ]
+  },
+  {
+    "id": 99,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Good morning, everyone in our temperature-controlled freight division. Following a six-month operational review, senior leadership has finalized a structural reorganization effective November first. Escalating diesel volatility and fragmented backhaul routes have eroded margins across our general refrigerated produce fleet, making standalone regional haulage unsustainable. Consequently, we are consolidating our twelve decentralized dispatch desks into two automated nerve centers—one in Rotterdam and one in Chicago—while divesting twenty-four non-insulated dry-van trailers. Our strategic pivot centers on ultra-low-temperature biologics transport, where long-term pharmaceutical contracts command substantially stronger pricing power. Affected dispatch coordinators will not be laid off indiscriminately; instead, human resources is opening a priority internal-mobility track offering fully subsidized cold-chain compliance certification. Please check your inbox by noon for personalized transition packets and one-on-one consultation slots.",
+    "questionText": "What does the speaker imply about current dispatch coordinators?",
+    "options": [
+      "They will be transferred immediately to Rotterdam or Chicago.",
+      "Many will have an opportunity to retrain for specialized roles within the company.",
+      "They must fund their own compliance certification before November first.",
+      "Those handling produce routes will receive priority severance packages."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người nói hàm ý gì về các điều phối viên hiện tại?\n(A) Họ sẽ được điều chuyển ngay lập tức tới Rotterdam hoặc Chicago.\n(B) Nhiều người sẽ có cơ hội đào tạo lại cho các vị trí chuyên môn hóa trong công ty.\n(C) Họ phải tự chi trả cho chứng chỉ tuân thủ trước ngày mồng một tháng Mười Một.\n(D) Những người phụ trách tuyến nông sản sẽ nhận gói trợ cấp thôi việc ưu tiên.",
+    "explanation": "Thay vì sa thải hàng loạt, nhân sự mở lộ trình luân chuyển nội bộ ưu tiên với chứng chỉ tuân thủ chuỗi lạnh được công ty tài trợ 100% ('offering fully subsidized cold-chain compliance certification'), hàm ý họ được đào tạo chuyển đổi sang vai trò chuyên biệt mới trong nội bộ (đáp án B). Phương án C ngược nghĩa với 'fully subsidized'.",
+    "vocab": [
+      ["indiscriminately", "adv", "bừa bãi, không phân biệt"],
+      ["internal-mobility track", "n. phr", "lộ trình luân chuyển/thuyên chuyển nội bộ"],
+      ["subsidized", "adj", "được trợ cấp, tài trợ chi phí"]
+    ]
+  },
+  {
+    "id": 100,
+    "part": 4,
+    "passageTitle": "Questions 98-100 refer to the following announcement:",
+    "audioScript": "Good morning, everyone in our temperature-controlled freight division. Following a six-month operational review, senior leadership has finalized a structural reorganization effective November first. Escalating diesel volatility and fragmented backhaul routes have eroded margins across our general refrigerated produce fleet, making standalone regional haulage unsustainable. Consequently, we are consolidating our twelve decentralized dispatch desks into two automated nerve centers—one in Rotterdam and one in Chicago—while divesting twenty-four non-insulated dry-van trailers. Our strategic pivot centers on ultra-low-temperature biologics transport, where long-term pharmaceutical contracts command substantially stronger pricing power. Affected dispatch coordinators will not be laid off indiscriminately; instead, human resources is opening a priority internal-mobility track offering fully subsidized cold-chain compliance certification. Please check your inbox by noon for personalized transition packets and one-on-one consultation slots.",
+    "questionText": "What should employees do later today?",
+    "options": [
+      "Attend a mandatory group orientation at the automated nerve center",
+      "Submit bids to purchase the divested dry-van trailers",
+      "Review individual restructuring details sent via email",
+      "Register their produce fleet vehicles for compliance inspection"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Nhân viên nên làm gì vào cuối ngày hôm nay?\n(A) Tham dự buổi định hướng tập trung bắt buộc tại trung tâm điều hành tự động\n(B) Nộp hồ sơ đấu giá mua lại các rơ-moóc thùng khô đang thanh lý\n(C) Xem xét thông tin chi tiết về lộ trình tái cơ cấu cá nhân được gửi qua email\n(D) Đăng ký kiểm định tuân thủ cho đội xe chở nông sản của họ",
+    "explanation": "Câu cuối hướng dẫn: 'Please check your inbox by noon for personalized transition packets and one-on-one consultation slots' (kiểm tra hộp thư điện tử trước buổi trưa để xem tài liệu chuyển đổi cá nhân hóa và lịch tư vấn riêng), khớp với đáp án C.",
+    "vocab": [
+      ["biologics", "n", "sinh phẩm y tế, dược phẩm sinh học"],
+      ["decentralized", "adj", "phân tán, phi tập trung"],
+      ["transition packet", "n. phr", "bộ hồ sơ/tài liệu hướng dẫn chuyển đổi"]
+    ]
+  }
+]

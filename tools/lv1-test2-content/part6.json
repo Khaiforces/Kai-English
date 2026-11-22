@@ -1,0 +1,190 @@
+[
+  {
+    "passageTitle": "Questions 131–134 refer to the following notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center mb-2\">CITY BOOKSTORE — NEW WORK SCHEDULE</p><p class=\"mb-2\">Dear All Staff,</p><p class=\"mb-2\">Starting next Monday, May 10, City Bookstore will change its opening hours. The store will open at 8:30 A.M. instead of 9:00 A.M. and close at 9:00 P.M. every day. Because of this change, we need two employees to arrive <strong>[131]</strong> at 8:00 A.M. to turn on the lights and prepare the cash registers.</p><p class=\"mb-2\">Please check the new shift chart posted on the wall in the break room. If you cannot work on your assigned day, please talk to Ms. Evans <strong>[132]</strong> Wednesday afternoon. She will help you trade shifts with another coworker.</p><p class=\"mb-2\"><strong>[133]</strong>. Thank you very much for your hard work and <strong>[134]</strong> to our customers.</p><p>Best regards,<br>Store Management</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Choose the best word for blank [131].",
+        "options": ["early", "earlier", "earliest", "earliness"],
+        "answer": "A",
+        "translation": "Vì sự thay đổi này, chúng tôi cần hai nhân viên đến sớm vào lúc 8 giờ sáng.",
+        "explanation": "Cần một trạng từ đơn giản bổ nghĩa cho động từ 'arrive', nghĩa là đến sớm ('arrive early at 8:00 A.M.').",
+        "vocab": [["opening hours", "n", "giờ mở cửa"], ["cash register", "n", "máy tính tiền"]]
+      },
+      {
+        "n": 132,
+        "q": "Choose the best word for blank [132].",
+        "options": ["by", "at", "in", "between"],
+        "answer": "A",
+        "translation": "Nếu bạn không thể làm việc vào ngày được phân công, vui lòng nói chuyện với cô Evans trước chiều thứ Tư.",
+        "explanation": "Giới từ 'by' trước mốc thời gian ('by Wednesday afternoon') mang nghĩa 'trước / chậm nhất là'.",
+        "vocab": [["shift", "n", "ca làm việc"], ["assigned", "adj", "được phân công"]]
+      },
+      {
+        "n": 133,
+        "q": "Choose the best sentence for blank [133].",
+        "options": [
+          "The bookstore sells many English novels.",
+          "All staff members will also receive a free lunch on Monday.",
+          "Our old building was painted last summer.",
+          "The train station is across from the park."
+        ],
+        "answer": "B",
+        "translation": "Tất cả nhân viên cũng sẽ nhận được một bữa trưa miễn phí vào thứ Hai.",
+        "explanation": "Thông báo đang nói với nhân viên về lịch làm việc bắt đầu từ thứ Hai tới, nên câu B bổ sung thông tin hợp lý nhất.",
+        "vocab": [["staff member", "n", "nhân viên"], ["receive", "v", "nhận được"]]
+      },
+      {
+        "n": 134,
+        "q": "Choose the best word for blank [134].",
+        "options": ["kind", "kindly", "kindness", "kinder"],
+        "answer": "C",
+        "translation": "Cảm ơn rất nhiều vì sự chăm chỉ và lòng tốt của các bạn đối với khách hàng.",
+        "explanation": "Sau 'your hard work and...' cần một danh từ song song với 'work', nên chọn 'kindness'.",
+        "vocab": [["kindness", "n", "lòng tốt, sự tử tế"], ["management", "n", "ban quản lý"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135–138 refer to the following e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"mb-1\"><strong>To:</strong> Second-Floor Staff</p><p class=\"mb-1\"><strong>From:</strong> Office Operations</p><p class=\"mb-2\"><strong>Subject:</strong> Desk Cleaning &amp; Printer Check</p><p class=\"mb-2\">Hello everyone,</p><p class=\"mb-2\">This Friday afternoon, a cleaning team will visit our office to wash the windows and clean the carpets. Before you leave on Thursday evening, please <strong>[135]</strong> all papers and cups from your desk. Put important folders inside your desk drawers so nothing gets lost.</p><p class=\"mb-2\">In addition, a technician will <strong>[136]</strong> the large printer near the stairs on the second floor tomorrow morning. The printer has been making a strange noise since last week. <strong>[137]</strong>. You may use the printer on the third floor <strong>[138]</strong> the repair is finished.</p><p>Thank you for your cooperation,<br>Mark Wilson</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Choose the best word for blank [135].",
+        "options": ["clear", "clears", "cleared", "clearing"],
+        "answer": "A",
+        "translation": "Trước khi về vào tối thứ Năm, vui lòng dọn sạch tất cả giấy tờ và cốc khỏi bàn làm việc của bạn.",
+        "explanation": "Đây là câu mệnh lệnh lịch sự ('please + V nguyên mẫu'), nên chọn 'clear'.",
+        "vocab": [["carpet", "n", "thảm trải sàn"], ["drawer", "n", "ngăn kéo"]]
+      },
+      {
+        "n": 136,
+        "q": "Choose the best word for blank [136].",
+        "options": ["check", "watch", "listen", "drive"],
+        "answer": "A",
+        "translation": "Ngoài ra, một kỹ thuật viên sẽ kiểm tra chiếc máy in lớn gần cầu thang ở tầng hai vào sáng mai.",
+        "explanation": "Động từ 'check' (kiểm tra) phù hợp nhất với ngữ cảnh kỹ thuật viên đến xem xét máy in bị kêu lạ.",
+        "vocab": [["technician", "n", "kỹ thuật viên"], ["strange", "adj", "kỳ lạ"]]
+      },
+      {
+        "n": 137,
+        "q": "Choose the best sentence for blank [137].",
+        "options": [
+          "During this time, the second-floor printer will not be available.",
+          "The cafeteria serves hot soup every Tuesday.",
+          "Please bring your umbrella because it might rain.",
+          "We bought ten new desks for the first floor."
+        ],
+        "answer": "A",
+        "translation": "Trong thời gian này, máy in ở tầng hai sẽ không sử dụng được.",
+        "explanation": "Câu trước nói kỹ thuật viên sẽ kiểm tra máy in, câu sau hướng dẫn dùng máy in tầng ba, nên câu A nối mạch văn hợp lý nhất.",
+        "vocab": [["available", "adj", "có sẵn, dùng được"], ["repair", "n", "việc sửa chữa"]]
+      },
+      {
+        "n": 138,
+        "q": "Choose the best word for blank [138].",
+        "options": ["until", "because", "although", "between"],
+        "answer": "A",
+        "translation": "Bạn có thể sử dụng máy in ở tầng ba cho đến khi việc sửa chữa hoàn tất.",
+        "explanation": "Liên từ 'until' (cho đến khi) nối hai mệnh đề chỉ thời gian phù hợp nhất.",
+        "vocab": [["cooperation", "n", "sự hợp tác"], ["finish", "v", "hoàn thành"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139–142 refer to the following advertisement.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center mb-2\">JOIN OUR WEEKEND COOKING CLASS!</p><p class=\"mb-2\">Do you want to learn how to make healthy and tasty meals at home? Sign up for the Weekend Cooking Class at Sunny Kitchen Center! Our classes are designed for <strong>[139]</strong>, so you do not need any cooking experience.</p><p class=\"mb-2\">Every Saturday from 10:00 A.M. to 12:30 P.M., Chef Mario will teach you how to prepare fresh pasta, salads, and simple desserts. We provide all ingredients and kitchen tools, <strong>[140]</strong> you only need to bring an apron.</p><p class=\"mb-2\">The class fee is $35 per session. <strong>[141]</strong>. Please visit our website at www.sunnykitchen.com to reserve your <strong>[142]</strong> today!</p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Choose the best word for blank [139].",
+        "options": ["beginners", "doctors", "drivers", "managers"],
+        "answer": "A",
+        "translation": "Các lớp học của chúng tôi được thiết kế cho người mới bắt đầu, vì vậy bạn không cần bất kỳ kinh nghiệm nấu nướng nào.",
+        "explanation": "Mệnh đề sau giải thích 'không cần kinh nghiệm nấu ăn', nên đối tượng là 'beginners' (người mới bắt đầu).",
+        "vocab": [["experience", "n", "kinh nghiệm"], ["beginner", "n", "người mới bắt đầu"]]
+      },
+      {
+        "n": 140,
+        "q": "Choose the best word for blank [140].",
+        "options": ["so", "but", "or", "if"],
+        "answer": "A",
+        "translation": "Chúng tôi cung cấp tất cả nguyên liệu và dụng cụ bếp, vì vậy bạn chỉ cần mang theo một chiếc tạp dề.",
+        "explanation": "Mệnh đề sau là kết quả của việc trung tâm đã chuẩn bị hết nguyên liệu và dụng cụ, nên chọn 'so' (vì vậy).",
+        "vocab": [["ingredient", "n", "nguyên liệu"], ["apron", "n", "tạp dề"]]
+      },
+      {
+        "n": 141,
+        "q": "Choose the best sentence for blank [141].",
+        "options": [
+          "The supermarket closes at 10:00 P.M. on Sundays.",
+          "If you sign up with a friend, you will both get a 10% discount.",
+          "Chef Mario used to work at a bank in Chicago.",
+          "The parking lot is behind the post office."
+        ],
+        "answer": "B",
+        "translation": "Nếu bạn đăng ký cùng một người bạn, cả hai sẽ được giảm giá 10%.",
+        "explanation": "Câu trước nói về học phí ($35 mỗi buổi), nên câu B nói về ưu đãi giảm giá khi đăng ký rất tự nhiên.",
+        "vocab": [["session", "n", "buổi học"], ["discount", "n", "giảm giá"]]
+      },
+      {
+        "n": 142,
+        "q": "Choose the best word for blank [142].",
+        "options": ["spot", "plate", "knife", "box"],
+        "answer": "A",
+        "translation": "Vui lòng truy cập trang web www.sunnykitchen.com của chúng tôi để giữ chỗ ngay hôm nay!",
+        "explanation": "Cụm từ quen thuộc 'reserve your spot' nghĩa là đặt/giữ chỗ của bạn trong lớp học.",
+        "vocab": [["reserve", "v", "đặt trước, giữ chỗ"], ["spot", "n", "chỗ, vị trí"]]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143–146 refer to the following letter.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"mb-2\">June 15</p><p class=\"mb-2\">Dear Ms. Parker,</p><p class=\"mb-2\">Thank you for choosing Riverview Hotel for your recent trip to Seattle. We hope you enjoyed your stay in our river-view room and <strong>[143]</strong> our breakfast buffet in the morning.</p><p class=\"mb-2\">At Riverview Hotel, we always try to give our guests the best service possible. <strong>[144]</strong>. Your feedback helps us improve our rooms and facilities every day.</p><p class=\"mb-2\">As a token of our thanks, we are sending you a <strong>[145]</strong> coupon for 15% off your next stay with us. You can use this coupon at any time before December 31. We look forward to <strong>[146]</strong> you again soon!</p><p>Sincerely,<br>Amanda Bell<br>Guest Relations Manager</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Choose the best word for blank [143].",
+        "options": ["liked", "like", "likes", "liking"],
+        "answer": "A",
+        "translation": "Chúng tôi hy vọng bạn đã tận hưởng kỳ nghỉ tại phòng hướng sông và thích bữa sáng tự chọn của chúng tôi.",
+        "explanation": "Động từ cần chia ở quá khứ đơn song song với 'enjoyed' ('enjoyed your stay... and liked our breakfast...').",
+        "vocab": [["recent", "adj", "gần đây"], ["buffet", "n", "tiệc tự chọn"]]
+      },
+      {
+        "n": 144,
+        "q": "Choose the best sentence for blank [144].",
+        "options": [
+          "The hotel swimming pool is on the roof.",
+          "Could you please take two minutes to complete our short online survey?",
+          "Seattle is famous for its rainy weather in winter.",
+          "Please remember to return your room key at the front desk."
+        ],
+        "answer": "B",
+        "translation": "Bạn vui lòng dành hai phút để hoàn thành khảo sát trực tuyến ngắn của chúng tôi được không?",
+        "explanation": "Câu sau nói 'Phản hồi của bạn giúp chúng tôi cải thiện...', nên câu B mời khách làm khảo sát là khớp nhất.",
+        "vocab": [["survey", "n", "bảng khảo sát"], ["feedback", "n", "ý kiến phản hồi"]]
+      },
+      {
+        "n": 145,
+        "q": "Choose the best word for blank [145].",
+        "options": ["special", "specially", "specialty", "specialize"],
+        "answer": "A",
+        "translation": "Như một lời cảm ơn, chúng tôi gửi tặng bạn một phiếu giảm giá đặc biệt 15% cho lần lưu trú tiếp theo.",
+        "explanation": "Trước danh từ 'coupon' cần một tính từ bổ nghĩa, nên chọn 'special'.",
+        "vocab": [["coupon", "n", "phiếu giảm giá"], ["token", "n", "dấu hiệu, món quà nhỏ"]]
+      },
+      {
+        "n": 146,
+        "q": "Choose the best word for blank [146].",
+        "options": ["welcome", "welcomes", "welcomed", "welcoming"],
+        "answer": "D",
+        "translation": "Chúng tôi mong được chào đón bạn trở lại sớm!",
+        "explanation": "Cấu trúc cố định 'look forward to + V-ing' (mong đợi làm gì), nên chọn 'welcoming'.",
+        "vocab": [["look forward to", "v", "mong đợi"], ["welcome", "v", "chào đón"]]
+      }
+    ]
+  }
+]

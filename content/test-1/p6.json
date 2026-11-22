@@ -1,0 +1,834 @@
+[
+  {
+    "id": 131,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Priya Raman, Logistics Manager<br><strong>Date:</strong> September 25<br><strong>Subject:</strong> New Loading Schedule for the Peak Season</p><hr class=\"my-2 border-neutral-300\"><p>Dear Team,</p><p class=\"mt-2\">As you know, our order volume typically <strong>[131]</strong> by nearly 40 percent during the final quarter of the year. To make sure that shipments continue to leave the distribution center on time, we will adopt a two-shift loading schedule beginning on October 6.</p><p class=\"mt-2\">Under the new arrangement, the morning shift will run from 6:00 a.m. to 2:00 p.m., and the afternoon shift will <strong>[132]</strong> from 2:00 p.m. to 10:00 p.m. Each shift will have its own team leader, who will report directly to me.</p><p class=\"mt-2\">Please note that all staff <strong>[133]</strong> to attend a short training session on the revised loading procedures. The sessions will be held in Conference Room B on October 2 and 3, and each one lasts approximately 45 minutes.</p><p class=\"mt-2\">I appreciate your flexibility during this busy period. <strong>[134]</strong>. If you have any questions about your new shift assignments, please contact me or stop by my office on the second floor.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 131: Select the best answer to complete blank [131].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) increases"
+      },
+      {
+        "key": "B",
+        "text": "(B) increase"
+      },
+      {
+        "key": "C",
+        "text": "(C) increasing"
+      },
+      {
+        "key": "D",
+        "text": "(D) to increase"
+      }
+    ],
+    "correct": "A",
+    "translation": "Như các bạn đã biết, khối lượng đơn hàng của chúng ta thường tăng gần 40 phần trăm trong quý cuối cùng của năm.",
+    "explanation": "Đáp án A. Chủ ngữ là 'our order volume' (số ít), trạng từ tần suất 'typically' cho thấy cần thì hiện tại đơn, nên động từ phải chia 'increases'. B sai vì 'increase' là dạng nguyên thể/số nhiều, không hợp với chủ ngữ số ít. C sai vì 'increasing' (V-ing) không thể đứng một mình làm vị ngữ khi không có trợ động từ 'is'. D sai vì 'to increase' không dùng được sau trạng từ tần suất trong câu khẳng định như thế này.",
+    "vocab": [
+      {
+        "word": "order volume",
+        "pos": "n.",
+        "meaning": "khối lượng đơn hàng"
+      },
+      {
+        "word": "distribution center",
+        "pos": "n.",
+        "meaning": "trung tâm phân phối"
+      },
+      {
+        "word": "shift",
+        "pos": "n.",
+        "meaning": "ca làm việc"
+      },
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "meaning": "xấp xỉ, khoảng"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Priya Raman, Logistics Manager<br><strong>Date:</strong> September 25<br><strong>Subject:</strong> New Loading Schedule for the Peak Season</p><hr class=\"my-2 border-neutral-300\"><p>Dear Team,</p><p class=\"mt-2\">As you know, our order volume typically <strong>[131]</strong> by nearly 40 percent during the final quarter of the year. To make sure that shipments continue to leave the distribution center on time, we will adopt a two-shift loading schedule beginning on October 6.</p><p class=\"mt-2\">Under the new arrangement, the morning shift will run from 6:00 a.m. to 2:00 p.m., and the afternoon shift will <strong>[132]</strong> from 2:00 p.m. to 10:00 p.m. Each shift will have its own team leader, who will report directly to me.</p><p class=\"mt-2\">Please note that all staff <strong>[133]</strong> to attend a short training session on the revised loading procedures. The sessions will be held in Conference Room B on October 2 and 3, and each one lasts approximately 45 minutes.</p><p class=\"mt-2\">I appreciate your flexibility during this busy period. <strong>[134]</strong>. If you have any questions about your new shift assignments, please contact me or stop by my office on the second floor.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 132: Select the best answer to complete blank [132].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) running"
+      },
+      {
+        "key": "B",
+        "text": "(B) runs"
+      },
+      {
+        "key": "C",
+        "text": "(C) run"
+      },
+      {
+        "key": "D",
+        "text": "(D) ran"
+      }
+    ],
+    "correct": "C",
+    "translation": "Theo cách sắp xếp mới, ca sáng sẽ chạy từ 6 giờ sáng đến 2 giờ chiều, và ca chiều sẽ chạy từ 2 giờ chiều đến 10 giờ tối.",
+    "explanation": "Đáp án C. Sau trợ động từ 'will' phải dùng động từ nguyên thể không 'to', nên 'run' là đúng. Đây cũng là cấu trúc song song với vế trước 'will run'. A sai vì 'running' không đứng sau 'will'. B sai vì 'runs' chia hiện tại đơn, không dùng sau 'will'. D sai vì 'ran' là quá khứ, không kết hợp với 'will'. Lưu ý 'run' ở đây nghĩa là 'kéo dài/diễn ra', không phải 'chạy bộ'.",
+    "vocab": [
+      {
+        "word": "arrangement",
+        "pos": "n.",
+        "meaning": "sự sắp xếp, cách bố trí"
+      },
+      {
+        "word": "team leader",
+        "pos": "n.",
+        "meaning": "trưởng nhóm"
+      },
+      {
+        "word": "report directly to",
+        "pos": "phrase",
+        "meaning": "báo cáo trực tiếp cho"
+      },
+      {
+        "word": "revised",
+        "pos": "adj.",
+        "meaning": "đã được sửa đổi"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Priya Raman, Logistics Manager<br><strong>Date:</strong> September 25<br><strong>Subject:</strong> New Loading Schedule for the Peak Season</p><hr class=\"my-2 border-neutral-300\"><p>Dear Team,</p><p class=\"mt-2\">As you know, our order volume typically <strong>[131]</strong> by nearly 40 percent during the final quarter of the year. To make sure that shipments continue to leave the distribution center on time, we will adopt a two-shift loading schedule beginning on October 6.</p><p class=\"mt-2\">Under the new arrangement, the morning shift will run from 6:00 a.m. to 2:00 p.m., and the afternoon shift will <strong>[132]</strong> from 2:00 p.m. to 10:00 p.m. Each shift will have its own team leader, who will report directly to me.</p><p class=\"mt-2\">Please note that all staff <strong>[133]</strong> to attend a short training session on the revised loading procedures. The sessions will be held in Conference Room B on October 2 and 3, and each one lasts approximately 45 minutes.</p><p class=\"mt-2\">I appreciate your flexibility during this busy period. <strong>[134]</strong>. If you have any questions about your new shift assignments, please contact me or stop by my office on the second floor.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 133: Select the best answer to complete blank [133].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) requires"
+      },
+      {
+        "key": "B",
+        "text": "(B) are required"
+      },
+      {
+        "key": "C",
+        "text": "(C) requiring"
+      },
+      {
+        "key": "D",
+        "text": "(D) have required"
+      }
+    ],
+    "correct": "B",
+    "translation": "Xin lưu ý rằng tất cả nhân viên được yêu cầu tham dự một buổi đào tạo ngắn về quy trình xếp hàng đã được sửa đổi.",
+    "explanation": "Đáp án B. 'All staff' là danh từ tập hợp số nhiều, cần động từ số nhiều; cấu trúc 'be required to do something' (được yêu cầu làm gì) là cụm cố định, và ở đây dùng bị động hiện tại 'are required'. A sai vì 'requires' là số ít và còn sai nghĩa chủ động (nhân viên không 'yêu cầu' mà 'được yêu cầu'). C sai vì 'requiring' không thể làm vị ngữ chính. D sai vì 'have required' (hiện tại hoàn thành chủ động) sai cả về thể và nghĩa.",
+    "vocab": [
+      {
+        "word": "be required to",
+        "pos": "phrase",
+        "meaning": "được yêu cầu làm gì"
+      },
+      {
+        "word": "training session",
+        "pos": "n.",
+        "meaning": "buổi đào tạo"
+      },
+      {
+        "word": "procedure",
+        "pos": "n.",
+        "meaning": "quy trình, thủ tục"
+      },
+      {
+        "word": "flexibility",
+        "pos": "n.",
+        "meaning": "sự linh hoạt"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>To:</strong> All Warehouse Staff<br><strong>From:</strong> Priya Raman, Logistics Manager<br><strong>Date:</strong> September 25<br><strong>Subject:</strong> New Loading Schedule for the Peak Season</p><hr class=\"my-2 border-neutral-300\"><p>Dear Team,</p><p class=\"mt-2\">As you know, our order volume typically <strong>[131]</strong> by nearly 40 percent during the final quarter of the year. To make sure that shipments continue to leave the distribution center on time, we will adopt a two-shift loading schedule beginning on October 6.</p><p class=\"mt-2\">Under the new arrangement, the morning shift will run from 6:00 a.m. to 2:00 p.m., and the afternoon shift will <strong>[132]</strong> from 2:00 p.m. to 10:00 p.m. Each shift will have its own team leader, who will report directly to me.</p><p class=\"mt-2\">Please note that all staff <strong>[133]</strong> to attend a short training session on the revised loading procedures. The sessions will be held in Conference Room B on October 2 and 3, and each one lasts approximately 45 minutes.</p><p class=\"mt-2\">I appreciate your flexibility during this busy period. <strong>[134]</strong>. If you have any questions about your new shift assignments, please contact me or stop by my office on the second floor.</p><p class=\"mt-2\">Best regards,<br>Priya Raman</p></div>",
+    "questionText": "Question 134: Select the best sentence to complete blank [134].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The warehouse will be closed for inventory all next month."
+      },
+      {
+        "key": "B",
+        "text": "(B) Several delivery trucks were purchased last spring."
+      },
+      {
+        "key": "C",
+        "text": "(C) Most orders are shipped by air freight."
+      },
+      {
+        "key": "D",
+        "text": "(D) Individual shift rosters will be posted on the break-room bulletin board on Monday."
+      }
+    ],
+    "correct": "D",
+    "translation": "Danh sách phân ca cụ thể sẽ được niêm yết trên bảng thông báo ở phòng nghỉ vào thứ Hai.",
+    "explanation": "Đáp án D. Câu trước cảm ơn sự linh hoạt của nhân viên trong mùa cao điểm và câu ngay sau nói 'Nếu bạn có bất kỳ câu hỏi nào về phân công ca làm việc mới của mình (your new shift assignments), hãy liên hệ với tôi'. Do đó câu [134] thông báo nơi niêm yết danh sách phân ca ('Individual shift rosters will be posted...') tạo mạch liên kết hoàn hảo. A sai vì kho không đóng cửa. B và C lệch chủ đề phân ca.",
+    "vocab": [
+      {
+        "word": "assignment",
+        "pos": "n.",
+        "meaning": "sự phân công, nhiệm vụ được giao"
+      },
+      {
+        "word": "stop by",
+        "pos": "phrasal v.",
+        "meaning": "ghé qua"
+      },
+      {
+        "word": "appreciate",
+        "pos": "v.",
+        "meaning": "trân trọng, cảm kích"
+      },
+      {
+        "word": "peak season",
+        "pos": "n.",
+        "meaning": "mùa cao điểm"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>NOTICE TO ALL TENANTS</strong><br>Riverside Business Center<br><strong>Re: Elevator Modernization Project</strong></p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, March 3, the two passenger elevators in the north lobby will be <strong>[135]</strong> for a scheduled modernization project. The work is expected to last approximately six weeks.</p><p class=\"mt-2\">During this period, tenants on floors 12 through 20 are asked to use the elevators in the south lobby. Signs have been posted in both lobbies to <strong>[136]</strong> visitors and staff to the alternate route.</p><p class=\"mt-2\">We apologize for any <strong>[137]</strong> this may cause. To limit the impact on your daily operations, the contractor has agreed to keep at least one elevator in the north lobby operating at all times between 8:00 a.m. and 6:00 p.m. <strong>[138]</strong>.</p><p class=\"mt-2\">For questions, please contact the building management office at extension 4100.</p></div>",
+    "questionText": "Question 135: Select the best answer to complete blank [135].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) out of order"
+      },
+      {
+        "key": "B",
+        "text": "(B) out of service"
+      },
+      {
+        "key": "C",
+        "text": "(C) off limits"
+      },
+      {
+        "key": "D",
+        "text": "(D) under construction"
+      }
+    ],
+    "correct": "B",
+    "translation": "Bắt đầu từ thứ Hai ngày 3 tháng 3, hai thang máy chở khách ở sảnh phía bắc sẽ ngừng hoạt động để thực hiện dự án hiện đại hóa theo kế hoạch.",
+    "explanation": "Đáp án B. 'Out of service' nghĩa là 'ngừng phục vụ, tạm ngưng hoạt động' — đúng với việc thang máy đóng cửa để nâng cấp theo lịch. A sai sắc thái vì 'out of order' hàm ý bị hỏng đột xuất, trong khi đây là dự án có kế hoạch ('scheduled'). C sai vì 'off limits' dùng cho khu vực bị cấm vào, không đi với 'be ... for a project'. D sai vì 'under construction' nói về công trình đang xây, không dùng cho thiết bị đang được nâng cấp.",
+    "vocab": [
+      {
+        "word": "tenant",
+        "pos": "n.",
+        "meaning": "người thuê (văn phòng, mặt bằng)"
+      },
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "meaning": "sảnh, phòng chờ"
+      },
+      {
+        "word": "modernization",
+        "pos": "n.",
+        "meaning": "sự hiện đại hóa"
+      },
+      {
+        "word": "out of service",
+        "pos": "phrase",
+        "meaning": "ngừng hoạt động, tạm ngưng phục vụ"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>NOTICE TO ALL TENANTS</strong><br>Riverside Business Center<br><strong>Re: Elevator Modernization Project</strong></p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, March 3, the two passenger elevators in the north lobby will be <strong>[135]</strong> for a scheduled modernization project. The work is expected to last approximately six weeks.</p><p class=\"mt-2\">During this period, tenants on floors 12 through 20 are asked to use the elevators in the south lobby. Signs have been posted in both lobbies to <strong>[136]</strong> visitors and staff to the alternate route.</p><p class=\"mt-2\">We apologize for any <strong>[137]</strong> this may cause. To limit the impact on your daily operations, the contractor has agreed to keep at least one elevator in the north lobby operating at all times between 8:00 a.m. and 6:00 p.m. <strong>[138]</strong>.</p><p class=\"mt-2\">For questions, please contact the building management office at extension 4100.</p></div>",
+    "questionText": "Question 136: Select the best answer to complete blank [136].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) direct"
+      },
+      {
+        "key": "B",
+        "text": "(B) directs"
+      },
+      {
+        "key": "C",
+        "text": "(C) directing"
+      },
+      {
+        "key": "D",
+        "text": "(D) direction"
+      }
+    ],
+    "correct": "A",
+    "translation": "Trong thời gian này, những người thuê từ tầng 12 đến tầng 20 được đề nghị sử dụng thang máy ở sảnh phía nam. Biển chỉ dẫn đã được đặt ở cả hai sảnh để hướng dẫn khách và nhân viên đi theo lối thay thế.",
+    "explanation": "Đáp án A. Cấu trúc 'to + động từ nguyên thể' chỉ mục đích: 'Signs have been posted ... to direct ...' (để hướng dẫn). B sai vì 'directs' chia ngôi thứ ba số ít, không đứng sau 'to'. C sai vì 'to directing' không hợp (sau 'to' chỉ mục đích phải là nguyên thể). D sai vì 'direction' là danh từ, không thể nhận tân ngữ 'visitors and staff'.",
+    "vocab": [
+      {
+        "word": "alternate route",
+        "pos": "n.",
+        "meaning": "lối đi thay thế"
+      },
+      {
+        "word": "post",
+        "pos": "v.",
+        "meaning": "dán, đặt (biển báo)"
+      },
+      {
+        "word": "direct",
+        "pos": "v.",
+        "meaning": "hướng dẫn, chỉ đường"
+      },
+      {
+        "word": "extension",
+        "pos": "n.",
+        "meaning": "số máy lẻ (điện thoại nội bộ)"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>NOTICE TO ALL TENANTS</strong><br>Riverside Business Center<br><strong>Re: Elevator Modernization Project</strong></p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, March 3, the two passenger elevators in the north lobby will be <strong>[135]</strong> for a scheduled modernization project. The work is expected to last approximately six weeks.</p><p class=\"mt-2\">During this period, tenants on floors 12 through 20 are asked to use the elevators in the south lobby. Signs have been posted in both lobbies to <strong>[136]</strong> visitors and staff to the alternate route.</p><p class=\"mt-2\">We apologize for any <strong>[137]</strong> this may cause. To limit the impact on your daily operations, the contractor has agreed to keep at least one elevator in the north lobby operating at all times between 8:00 a.m. and 6:00 p.m. <strong>[138]</strong>.</p><p class=\"mt-2\">For questions, please contact the building management office at extension 4100.</p></div>",
+    "questionText": "Question 137: Select the best answer to complete blank [137].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) convenient"
+      },
+      {
+        "key": "B",
+        "text": "(B) convenience"
+      },
+      {
+        "key": "C",
+        "text": "(C) inconvenience"
+      },
+      {
+        "key": "D",
+        "text": "(D) inconveniently"
+      }
+    ],
+    "correct": "C",
+    "translation": "Chúng tôi xin lỗi vì bất kỳ sự bất tiện nào mà việc này có thể gây ra.",
+    "explanation": "Đáp án C. Sau lượng từ 'any' cần danh từ, và nghĩa của câu xin lỗi đòi hỏi danh từ mang nghĩa tiêu cực: 'inconvenience' (sự bất tiện). A sai vì 'convenient' là tính từ và mang nghĩa tích cực, không hợp với lời xin lỗi. B sai vì 'convenience' (sự thuận tiện) ngược nghĩa với ngữ cảnh. D sai vì 'inconveniently' là trạng từ, không đứng sau 'any'.",
+    "vocab": [
+      {
+        "word": "apologize for",
+        "pos": "phrase",
+        "meaning": "xin lỗi vì"
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "meaning": "sự bất tiện"
+      },
+      {
+        "word": "impact",
+        "pos": "n.",
+        "meaning": "tác động, ảnh hưởng"
+      },
+      {
+        "word": "contractor",
+        "pos": "n.",
+        "meaning": "nhà thầu"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>NOTICE TO ALL TENANTS</strong><br>Riverside Business Center<br><strong>Re: Elevator Modernization Project</strong></p><hr class=\"my-2 border-neutral-300\"><p>Beginning Monday, March 3, the two passenger elevators in the north lobby will be <strong>[135]</strong> for a scheduled modernization project. The work is expected to last approximately six weeks.</p><p class=\"mt-2\">During this period, tenants on floors 12 through 20 are asked to use the elevators in the south lobby. Signs have been posted in both lobbies to <strong>[136]</strong> visitors and staff to the alternate route.</p><p class=\"mt-2\">We apologize for any <strong>[137]</strong> this may cause. To limit the impact on your daily operations, the contractor has agreed to keep at least one elevator in the north lobby operating at all times between 8:00 a.m. and 6:00 p.m. <strong>[138]</strong>.</p><p class=\"mt-2\">For questions, please contact the building management office at extension 4100.</p></div>",
+    "questionText": "Question 138: Select the best sentence to complete blank [138].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The south lobby café will offer a new breakfast menu next week."
+      },
+      {
+        "key": "B",
+        "text": "(B) New rent rates will take effect at the beginning of next year."
+      },
+      {
+        "key": "C",
+        "text": "(C) All noisy work will be restricted to evening and weekend hours."
+      },
+      {
+        "key": "D",
+        "text": "(D) The building was originally constructed twenty years ago."
+      }
+    ],
+    "correct": "C",
+    "translation": "Tất cả các hạng mục thi công gây tiếng ồn sẽ được giới hạn vào khung giờ buổi tối và cuối tuần.",
+    "explanation": "Đáp án C. Đoạn văn đang nói về các biện pháp nhằm giảm thiểu ảnh hưởng đến hoạt động hằng ngày của khách thuê ('To limit the impact on your daily operations...'). Sau khi nêu nhà thầu giữ ít nhất một thang máy hoạt động ban ngày, câu C bổ sung rằng mọi công việc gây ồn sẽ chỉ làm vào buổi tối và cuối tuần là hoàn toàn khớp ngữ cảnh. A, B, D không liên quan đến việc giảm bất tiện khi sửa thang máy.",
+    "vocab": [
+      {
+        "word": "keep something operating",
+        "pos": "phrase",
+        "meaning": "giữ cho cái gì hoạt động"
+      },
+      {
+        "word": "at all times",
+        "pos": "phrase",
+        "meaning": "luôn luôn, mọi lúc"
+      },
+      {
+        "word": "limit",
+        "pos": "v.",
+        "meaning": "hạn chế"
+      },
+      {
+        "word": "daily operations",
+        "pos": "n.",
+        "meaning": "hoạt động hằng ngày"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> Production Staff, Line 3<br><strong>From:</strong> Daniel Okafor, Plant Supervisor<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Quality Inspection Results and Corrective Actions</p><hr class=\"my-2 border-neutral-300\"><p>The quality assurance team completed its monthly inspection of Line 3 last Friday. Overall, the defect rate <strong>[139]</strong> below the target of 0.5 percent, which reflects the care you have taken over the past several weeks.</p><p class=\"mt-2\">However, the inspection also identified two recurring issues: inaccurate labeling on export cartons and <strong>[140]</strong> documentation of machine maintenance. Both problems can be corrected with relatively little effort.</p><p class=\"mt-2\">Effective immediately, all operators must sign the maintenance log <strong>[141]</strong> each shift, even when no repairs are needed. In addition, the labeling station will be equipped with a second scanner by the end of the month. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for your continued commitment to quality.</p></div>",
+    "questionText": "Question 139: Select the best answer to complete blank [139].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) remaining"
+      },
+      {
+        "key": "B",
+        "text": "(B) remains"
+      },
+      {
+        "key": "C",
+        "text": "(C) remained"
+      },
+      {
+        "key": "D",
+        "text": "(D) to remain"
+      }
+    ],
+    "correct": "C",
+    "translation": "Nhìn chung, tỷ lệ lỗi đã duy trì ở mức dưới mục tiêu 0,5 phần trăm, điều này phản ánh sự cẩn thận mà các bạn đã thể hiện trong vài tuần qua.",
+    "explanation": "Đáp án C. Câu kể lại kết quả một cuộc kiểm tra đã xảy ra ('completed ... last Friday'), nên cần thì quá khứ đơn: 'remained'. B sai vì 'remains' là hiện tại đơn, không khớp với mốc thời gian quá khứ. A sai vì 'remaining' không thể làm vị ngữ chính khi thiếu trợ động từ. D sai vì 'to remain' không dùng làm động từ chính của câu. Ngoài ra 'remained below the target' là cụm chuẩn nghĩa 'duy trì dưới mức mục tiêu'.",
+    "vocab": [
+      {
+        "word": "defect rate",
+        "pos": "n.",
+        "meaning": "tỷ lệ hàng lỗi"
+      },
+      {
+        "word": "quality assurance",
+        "pos": "n.",
+        "meaning": "đảm bảo chất lượng"
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "meaning": "sự kiểm tra, thanh tra"
+      },
+      {
+        "word": "target",
+        "pos": "n.",
+        "meaning": "mục tiêu, chỉ tiêu"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> Production Staff, Line 3<br><strong>From:</strong> Daniel Okafor, Plant Supervisor<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Quality Inspection Results and Corrective Actions</p><hr class=\"my-2 border-neutral-300\"><p>The quality assurance team completed its monthly inspection of Line 3 last Friday. Overall, the defect rate <strong>[139]</strong> below the target of 0.5 percent, which reflects the care you have taken over the past several weeks.</p><p class=\"mt-2\">However, the inspection also identified two recurring issues: inaccurate labeling on export cartons and <strong>[140]</strong> documentation of machine maintenance. Both problems can be corrected with relatively little effort.</p><p class=\"mt-2\">Effective immediately, all operators must sign the maintenance log <strong>[141]</strong> each shift, even when no repairs are needed. In addition, the labeling station will be equipped with a second scanner by the end of the month. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for your continued commitment to quality.</p></div>",
+    "questionText": "Question 140: Select the best answer to complete blank [140].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) incompletely"
+      },
+      {
+        "key": "B",
+        "text": "(B) incompleteness"
+      },
+      {
+        "key": "C",
+        "text": "(C) complete"
+      },
+      {
+        "key": "D",
+        "text": "(D) incomplete"
+      }
+    ],
+    "correct": "D",
+    "translation": "Tuy nhiên, cuộc kiểm tra cũng phát hiện hai vấn đề lặp lại: dán nhãn không chính xác trên thùng hàng xuất khẩu và ghi chép không đầy đủ về bảo trì máy móc.",
+    "explanation": "Đáp án D. Cần tính từ bổ nghĩa cho danh từ 'documentation', và phải song song với tính từ 'inaccurate' ở vế trước; 'incomplete documentation' (hồ sơ không đầy đủ) khớp với ý 'vấn đề'. A sai vì 'incompletely' là trạng từ. B sai vì 'incompleteness' là danh từ, không bổ nghĩa cho danh từ theo cách này. C sai về nghĩa: 'complete documentation' là điều tốt, mâu thuẫn với 'recurring issues'.",
+    "vocab": [
+      {
+        "word": "recurring",
+        "pos": "adj.",
+        "meaning": "lặp lại, tái diễn"
+      },
+      {
+        "word": "documentation",
+        "pos": "n.",
+        "meaning": "hồ sơ, tài liệu ghi chép"
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "meaning": "việc bảo trì, bảo dưỡng"
+      },
+      {
+        "word": "carton",
+        "pos": "n.",
+        "meaning": "thùng các-tông"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> Production Staff, Line 3<br><strong>From:</strong> Daniel Okafor, Plant Supervisor<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Quality Inspection Results and Corrective Actions</p><hr class=\"my-2 border-neutral-300\"><p>The quality assurance team completed its monthly inspection of Line 3 last Friday. Overall, the defect rate <strong>[139]</strong> below the target of 0.5 percent, which reflects the care you have taken over the past several weeks.</p><p class=\"mt-2\">However, the inspection also identified two recurring issues: inaccurate labeling on export cartons and <strong>[140]</strong> documentation of machine maintenance. Both problems can be corrected with relatively little effort.</p><p class=\"mt-2\">Effective immediately, all operators must sign the maintenance log <strong>[141]</strong> each shift, even when no repairs are needed. In addition, the labeling station will be equipped with a second scanner by the end of the month. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for your continued commitment to quality.</p></div>",
+    "questionText": "Question 141: Select the best answer to complete blank [141].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) at the end of"
+      },
+      {
+        "key": "B",
+        "text": "(B) in the end"
+      },
+      {
+        "key": "C",
+        "text": "(C) at the ending"
+      },
+      {
+        "key": "D",
+        "text": "(D) on the end of"
+      }
+    ],
+    "correct": "A",
+    "translation": "Có hiệu lực ngay lập tức, tất cả nhân viên vận hành phải ký sổ nhật ký bảo trì vào cuối mỗi ca, kể cả khi không cần sửa chữa gì.",
+    "explanation": "Đáp án A. 'At the end of + danh từ' nghĩa là 'vào cuối (khoảng thời gian/sự việc)' — đúng với 'at the end of each shift' (vào cuối mỗi ca). B sai vì 'in the end' nghĩa là 'cuối cùng thì, rốt cuộc' và không đi với tân ngữ. C sai vì không có cụm 'at the ending' trong ngữ cảnh này. D sai vì giới từ đúng là 'at', không phải 'on'.",
+    "vocab": [
+      {
+        "word": "effective immediately",
+        "pos": "phrase",
+        "meaning": "có hiệu lực ngay lập tức"
+      },
+      {
+        "word": "maintenance log",
+        "pos": "n.",
+        "meaning": "sổ nhật ký bảo trì"
+      },
+      {
+        "word": "operator",
+        "pos": "n.",
+        "meaning": "nhân viên vận hành máy"
+      },
+      {
+        "word": "at the end of",
+        "pos": "phrase",
+        "meaning": "vào cuối"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 139-142 refer to the following memo:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p><strong>MEMORANDUM</strong></p><p><strong>To:</strong> Production Staff, Line 3<br><strong>From:</strong> Daniel Okafor, Plant Supervisor<br><strong>Date:</strong> May 12<br><strong>Subject:</strong> Quality Inspection Results and Corrective Actions</p><hr class=\"my-2 border-neutral-300\"><p>The quality assurance team completed its monthly inspection of Line 3 last Friday. Overall, the defect rate <strong>[139]</strong> below the target of 0.5 percent, which reflects the care you have taken over the past several weeks.</p><p class=\"mt-2\">However, the inspection also identified two recurring issues: inaccurate labeling on export cartons and <strong>[140]</strong> documentation of machine maintenance. Both problems can be corrected with relatively little effort.</p><p class=\"mt-2\">Effective immediately, all operators must sign the maintenance log <strong>[141]</strong> each shift, even when no repairs are needed. In addition, the labeling station will be equipped with a second scanner by the end of the month. <strong>[142]</strong>.</p><p class=\"mt-2\">Thank you for your continued commitment to quality.</p></div>",
+    "questionText": "Question 142: Select the best sentence to complete blank [142].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) The plant will close early on Friday for the holiday."
+      },
+      {
+        "key": "B",
+        "text": "(B) Team leaders will review these updated procedures with their staff during Monday's briefing."
+      },
+      {
+        "key": "C",
+        "text": "(C) Line 3 produces components for the automotive industry."
+      },
+      {
+        "key": "D",
+        "text": "(D) Several applications for the supervisor position were received."
+      }
+    ],
+    "correct": "B",
+    "translation": "Các trưởng nhóm sẽ phổ biến lại những quy trình cập nhật này với nhân viên của mình trong buổi họp giao ban sáng thứ Hai.",
+    "explanation": "Đáp án B. Hai câu trước vừa đưa ra hai quy định khắc phục mới (ký sổ bảo trì cuối mỗi ca và lắp thêm máy quét thứ hai ở trạm dán nhãn). Câu B ('Team leaders will review these updated procedures...') nối tiếp tự nhiên bằng cách cho biết trưởng nhóm sẽ phổ biến các quy trình mới này vào sáng thứ Hai. A, C, D không liên kết với 'these updated procedures'.",
+    "vocab": [
+      {
+        "word": "in addition",
+        "pos": "phrase",
+        "meaning": "ngoài ra, thêm vào đó"
+      },
+      {
+        "word": "briefing",
+        "pos": "n.",
+        "meaning": "buổi họp giao ban, phổ biến thông tin"
+      },
+      {
+        "word": "labeling station",
+        "pos": "n.",
+        "meaning": "trạm dán nhãn"
+      },
+      {
+        "word": "commitment",
+        "pos": "n.",
+        "meaning": "sự cam kết, tận tâm"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>The Harborview Hotel — Now Hiring Front Desk Associates</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you looking for a job <strong>[143]</strong> you can develop your customer service skills? The Harborview Hotel, a 240-room property on the waterfront, is seeking friendly and dependable individuals to join our front desk team.</p><p class=\"mt-2\">Successful candidates will greet guests, <strong>[144]</strong> reservations, and respond to inquiries in person and by telephone. Previous hospitality experience is helpful but not required, as we provide three weeks of paid training.</p><p class=\"mt-2\">Benefits include a competitive salary, free meals during shifts, and <strong>[145]</strong> room discounts at more than 500 partner hotels worldwide.</p><p class=\"mt-2\">Applications will be accepted until Friday, April 18. <strong>[146]</strong>. To apply, send your résumé to careers@harborviewhotel.com or visit our careers page.</p></div>",
+    "questionText": "Question 143: Select the best answer to complete blank [143].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) which"
+      },
+      {
+        "key": "B",
+        "text": "(B) who"
+      },
+      {
+        "key": "C",
+        "text": "(C) what"
+      },
+      {
+        "key": "D",
+        "text": "(D) where"
+      }
+    ],
+    "correct": "D",
+    "translation": "Bạn đang tìm một công việc mà ở đó bạn có thể phát triển kỹ năng chăm sóc khách hàng của mình?",
+    "explanation": "Đáp án D. Mệnh đề quan hệ bổ nghĩa cho 'a job' (chỉ nơi chốn/môi trường làm việc) và phía sau là mệnh đề đầy đủ 'you can develop your customer service skills', nên cần trạng từ quan hệ 'where' (= at which). A sai vì 'which' thay cho tân ngữ hoặc chủ ngữ, không dùng khi phía sau đã đủ thành phần. B sai vì 'who' chỉ người. C sai vì 'what' không làm đại từ quan hệ trong câu này.",
+    "vocab": [
+      {
+        "word": "front desk",
+        "pos": "n.",
+        "meaning": "quầy lễ tân"
+      },
+      {
+        "word": "dependable",
+        "pos": "adj.",
+        "meaning": "đáng tin cậy"
+      },
+      {
+        "word": "waterfront",
+        "pos": "n.",
+        "meaning": "khu vực ven sông/biển"
+      },
+      {
+        "word": "hospitality",
+        "pos": "n.",
+        "meaning": "ngành dịch vụ lưu trú, khách sạn"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>The Harborview Hotel — Now Hiring Front Desk Associates</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you looking for a job <strong>[143]</strong> you can develop your customer service skills? The Harborview Hotel, a 240-room property on the waterfront, is seeking friendly and dependable individuals to join our front desk team.</p><p class=\"mt-2\">Successful candidates will greet guests, <strong>[144]</strong> reservations, and respond to inquiries in person and by telephone. Previous hospitality experience is helpful but not required, as we provide three weeks of paid training.</p><p class=\"mt-2\">Benefits include a competitive salary, free meals during shifts, and <strong>[145]</strong> room discounts at more than 500 partner hotels worldwide.</p><p class=\"mt-2\">Applications will be accepted until Friday, April 18. <strong>[146]</strong>. To apply, send your résumé to careers@harborviewhotel.com or visit our careers page.</p></div>",
+    "questionText": "Question 144: Select the best answer to complete blank [144].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) processing"
+      },
+      {
+        "key": "B",
+        "text": "(B) processed"
+      },
+      {
+        "key": "C",
+        "text": "(C) process"
+      },
+      {
+        "key": "D",
+        "text": "(D) to process"
+      }
+    ],
+    "correct": "C",
+    "translation": "Các ứng viên trúng tuyển sẽ đón tiếp khách, xử lý đặt phòng và trả lời các câu hỏi trực tiếp cũng như qua điện thoại.",
+    "explanation": "Đáp án C. Ba động từ được nối bằng 'and' phải cùng dạng: 'will greet ..., ____ ..., and respond ...' — sau 'will' là động từ nguyên thể, nên 'process' là đúng. A sai vì 'processing' phá vỡ cấu trúc song song. B sai vì 'processed' là quá khứ/phân từ. D sai vì 'to process' không song song với 'greet' và 'respond' trong cùng chuỗi liệt kê.",
+    "vocab": [
+      {
+        "word": "process a reservation",
+        "pos": "phrase",
+        "meaning": "xử lý việc đặt phòng"
+      },
+      {
+        "word": "inquiry",
+        "pos": "n.",
+        "meaning": "câu hỏi, yêu cầu thông tin"
+      },
+      {
+        "word": "candidate",
+        "pos": "n.",
+        "meaning": "ứng viên"
+      },
+      {
+        "word": "paid training",
+        "pos": "n.",
+        "meaning": "đào tạo có trả lương"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>The Harborview Hotel — Now Hiring Front Desk Associates</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you looking for a job <strong>[143]</strong> you can develop your customer service skills? The Harborview Hotel, a 240-room property on the waterfront, is seeking friendly and dependable individuals to join our front desk team.</p><p class=\"mt-2\">Successful candidates will greet guests, <strong>[144]</strong> reservations, and respond to inquiries in person and by telephone. Previous hospitality experience is helpful but not required, as we provide three weeks of paid training.</p><p class=\"mt-2\">Benefits include a competitive salary, free meals during shifts, and <strong>[145]</strong> room discounts at more than 500 partner hotels worldwide.</p><p class=\"mt-2\">Applications will be accepted until Friday, April 18. <strong>[146]</strong>. To apply, send your résumé to careers@harborviewhotel.com or visit our careers page.</p></div>",
+    "questionText": "Question 145: Select the best answer to complete blank [145].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) generous"
+      },
+      {
+        "key": "B",
+        "text": "(B) generously"
+      },
+      {
+        "key": "C",
+        "text": "(C) generosity"
+      },
+      {
+        "key": "D",
+        "text": "(D) generate"
+      }
+    ],
+    "correct": "A",
+    "translation": "Các phúc lợi bao gồm mức lương cạnh tranh, bữa ăn miễn phí trong ca làm việc và mức giảm giá phòng hào phóng tại hơn 500 khách sạn đối tác trên toàn thế giới.",
+    "explanation": "Đáp án A. Cần tính từ bổ nghĩa cho cụm danh từ 'room discounts', đồng thời song song với 'competitive' và 'free' trong chuỗi liệt kê phúc lợi: 'generous room discounts' (giảm giá phòng hậu hĩnh). B sai vì 'generously' là trạng từ, không bổ nghĩa cho danh từ. C sai vì 'generosity' là danh từ, không thể đứng trước 'room discounts' theo cách này. D sai vì 'generate' là động từ và sai nghĩa hoàn toàn.",
+    "vocab": [
+      {
+        "word": "benefit",
+        "pos": "n.",
+        "meaning": "phúc lợi, quyền lợi"
+      },
+      {
+        "word": "competitive salary",
+        "pos": "n.",
+        "meaning": "mức lương cạnh tranh"
+      },
+      {
+        "word": "generous",
+        "pos": "adj.",
+        "meaning": "hào phóng, hậu hĩnh"
+      },
+      {
+        "word": "partner hotel",
+        "pos": "n.",
+        "meaning": "khách sạn đối tác"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "type": "reading",
+    "part": 6,
+    "partName": "Part 6: Hoàn thành đoạn văn (Text Completion)",
+    "passageTitle": "Questions 143-146 refer to the following advertisement:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"text-center\"><strong>The Harborview Hotel — Now Hiring Front Desk Associates</strong></p><hr class=\"my-2 border-neutral-300\"><p>Are you looking for a job <strong>[143]</strong> you can develop your customer service skills? The Harborview Hotel, a 240-room property on the waterfront, is seeking friendly and dependable individuals to join our front desk team.</p><p class=\"mt-2\">Successful candidates will greet guests, <strong>[144]</strong> reservations, and respond to inquiries in person and by telephone. Previous hospitality experience is helpful but not required, as we provide three weeks of paid training.</p><p class=\"mt-2\">Benefits include a competitive salary, free meals during shifts, and <strong>[145]</strong> room discounts at more than 500 partner hotels worldwide.</p><p class=\"mt-2\">Applications will be accepted until Friday, April 18. <strong>[146]</strong>. To apply, send your résumé to careers@harborviewhotel.com or visit our careers page.</p></div>",
+    "questionText": "Question 146: Select the best sentence to complete blank [146].",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) Guests must check out before eleven o'clock in the morning."
+      },
+      {
+        "key": "B",
+        "text": "(B) Both full-time and part-time positions are available, with flexible weekend hours."
+      },
+      {
+        "key": "C",
+        "text": "(C) The hotel's rooftop restaurant was renovated last autumn."
+      },
+      {
+        "key": "D",
+        "text": "(D) Room rates vary depending on the season."
+      }
+    ],
+    "correct": "B",
+    "translation": "Hiện có cả vị trí toàn thời gian và bán thời gian với giờ làm việc cuối tuần linh hoạt.",
+    "explanation": "Đáp án B. Đây là mẩu quảng cáo tuyển dụng nhân viên lễ tân khách sạn ('Now Hiring Front Desk Associates'). Đặt câu B trước hướng dẫn nộp hồ sơ ('To apply, send your résumé...') giúp cung cấp thông tin quan trọng về loại hình công việc (full-time/part-time). A và D là thông tin dành cho khách thuê phòng, C nói về nhà hàng tầng thượng, không phù hợp với thông báo tuyển dụng.",
+    "vocab": [
+      {
+        "word": "application",
+        "pos": "n.",
+        "meaning": "hồ sơ ứng tuyển, đơn xin việc"
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "meaning": "sơ yếu lý lịch, CV"
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "meaning": "hạn chót"
+      },
+      {
+        "word": "accept",
+        "pos": "v.",
+        "meaning": "chấp nhận, tiếp nhận"
+      }
+    ]
+  }
+]

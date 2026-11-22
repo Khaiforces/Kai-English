@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "hotel_front_desk",
+    "imageUrl": "listening/images/lv4-test-02/part1/q1.jpg",
+    "imageCaption": "Một nhân viên lễ tân khách sạn đứng sau quầy đang trao thẻ khóa phòng cho một vị khách kéo vali.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A hotel receptionist is handing a room key card across the front desk.",
+      "Unattended luggage carts are pushing several bellhops through the revolving door.",
+      "A front-desk clerk is checking guests into a vacant hotel that has not opened yet.",
+      "Some leather suitcases have been stacked neatly on top of a hanging chandelier."
+    ],
+    "correct": "A",
+    "translation": "(A) Một nhân viên lễ tân khách sạn đang đưa thẻ khóa phòng qua quầy lễ tân.\n(B) Những chiếc xe đẩy hành lý không người trông coi đang đẩy vài nhân viên khuân vác qua cửa xoay.\n(C) Một nhân viên quầy lễ tân đang làm thủ tục nhận phòng cho khách tại khách sạn chưa mở cửa.\n(D) Một số chiếc vali da đã được xếp gọn gàng lên trên đỉnh một chiếc đèn chùm treo.",
+    "explanation": "Phương án (A) mô tả đúng tình huống giao tiếp chuyên nghiệp tại quầy lễ tân khách sạn. Phương án (B) kết hợp mâu thuẫn 'unattended' (không có người) với lỗi đảo chủ-tân (xe đẩy hành lý đẩy nhân viên). Phương án (C) bất hợp lý vì khách sạn chưa mở cửa ('has not opened yet') không thể làm thủ tục nhận phòng cho khách. Phương án (D) mô tả vị trí đặt vali trên đèn chùm treo hoàn toàn phi thực tế.",
+    "vocab": [
+      [
+        "receptionist",
+        "n",
+        "nhân viên lễ tân"
+      ],
+      [
+        "revolving door",
+        "n",
+        "cửa xoay tự động"
+      ],
+      [
+        "bellhop",
+        "n",
+        "nhân viên khuân vác hành lý khách sạn"
+      ],
+      [
+        "chandelier",
+        "n",
+        "đèn chùm treo trần"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "engineers_blueprints",
+    "imageUrl": "listening/images/lv4-test-02/part1/q2.jpg",
+    "imageCaption": "Hai kỹ sư đội mũ bảo hộ và mặc áo phản quang đang cùng xem bản vẽ thiết kế trên bàn làm việc tại công trường.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A metalworker is welding steel beams together using a wooden clipboard.",
+      "An out-of-service freight elevator is smoothly lifting heavy steel beams to the roof.",
+      "Yellow safety helmets are inspecting a row of workers along the concrete foundation.",
+      "Two engineers in reflective vests are reviewing blueprints on a portable worktable."
+    ],
+    "correct": "D",
+    "translation": "(A) Một thợ kim loại đang hàn các dầm thép lại với nhau bằng một tấm bìa kẹp hồ sơ bằng gỗ.\n(B) Một thang máy chở hàng đang ngừng hoạt động lại đang nâng các dầm thép nặng lên mái nhà một cách êm ái.\n(C) Những chiếc mũ bảo hộ màu vàng đang kiểm tra một hàng công nhân dọc theo nền móng bê tông.\n(D) Hai kỹ sư mặc áo phản quang đang xem lại bản thiết kế trên một chiếc bàn làm việc di động.",
+    "explanation": "Phương án (D) miêu tả cảnh làm việc chuẩn xác tại công trường xây dựng hoặc nhà xưởng. Phương án (A) sai công cụ lao động khi dùng bìa kẹp hồ sơ gỗ ('wooden clipboard') để hàn thép. Phương án (B) chứa mâu thuẫn nội tại giữa 'out-of-service' (hỏng, ngừng hoạt động) và 'smoothly lifting' (đang nâng trơn tru). Phương án (C) đảo chủ thể khiến mũ bảo hộ trở thành người đi kiểm tra công nhân.",
+    "vocab": [
+      [
+        "reflective vest",
+        "n",
+        "áo gi-lê phản quang"
+      ],
+      [
+        "blueprint",
+        "n",
+        "bản vẽ thiết kế kỹ thuật"
+      ],
+      [
+        "steel beam",
+        "n",
+        "dầm thép"
+      ],
+      [
+        "out-of-service",
+        "adj",
+        "đang hỏng, ngừng hoạt động"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "retail_checkout_scanner",
+    "imageUrl": "listening/images/lv4-test-02/part1/q3.jpg",
+    "imageCaption": "Một nhân viên bán hàng đứng sau quầy thu ngân đang dùng máy quét cầm tay để quét mã vạch hộp hàng.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Shoppers are filling shopping baskets along an aisle that has been completely blocked off.",
+      "A store associate is scanning merchandise barcodes at a checkout register.",
+      "A clerk is rocking canned soup onto the upper display shelves.",
+      "Wooden display shelves are neatly organizing colorful glass bottles by brand."
+    ],
+    "correct": "B",
+    "translation": "(A) Khách mua sắm đang chất đầy giỏ hàng dọc theo một lối đi đã bị rào chắn hoàn toàn.\n(B) Một nhân viên bán hàng đang quét mã vạch hàng hóa tại quầy máy tính tiền.\n(C) Một nhân viên đang đung đưa các hộp súp đóng lon lên những kệ trưng bày phía trên.\n(D) Các kệ trưng bày bằng gỗ đang gọn gàng sắp xếp những chai thủy tinh nhiều màu theo thương hiệu.",
+    "explanation": "Phương án (B) mô tả đúng hoạt động thanh toán hằng ngày tại cửa hàng bán lẻ. Phương án (A) mâu thuẫn vì khách hàng không thể mua sắm dọc lối đi đã bị phong tỏa hoàn toàn ('completely blocked off'). Phương án (C) là bẫy từ gần âm: 'rocking' (đung đưa) nghe gần giống 'stocking' hoặc 'restocking' (chất hàng lên kệ). Phương án (D) gán hành động sắp xếp hàng hóa của con người cho các kệ gỗ vô tri.",
+    "vocab": [
+      [
+        "merchandise",
+        "n",
+        "hàng hóa thương mại"
+      ],
+      [
+        "checkout register",
+        "n",
+        "quầy thu ngân, máy tính tiền"
+      ],
+      [
+        "aisle",
+        "n",
+        "lối đi giữa các gian hàng"
+      ],
+      [
+        "blocked off",
+        "phr",
+        "bị rào chắn, phong tỏa"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "designer_digital_tablet",
+    "imageUrl": "listening/images/lv4-test-02/part1/q4.jpg",
+    "imageCaption": "Một nhà thiết kế đồ họa ngồi tại bàn làm việc đang phác thảo bố cục trên bảng vẽ điện tử bằng bút cảm ứng.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A powered-off printer is rapidly producing stacks of color brochures.",
+      "A presenter is erasing handwritten notes from a projector screen with a paper towel.",
+      "A graphic designer is sketching layout concepts on a digital tablet with a stylus.",
+      "Acoustic headphones are intently listening to a sound technician at the mixing desk."
+    ],
+    "correct": "C",
+    "translation": "(A) Một chiếc máy in đã tắt nguồn đang nhanh chóng in ra hàng xấp tờ rơi màu.\n(B) Một người thuyết trình đang xóa các ghi chú viết tay khỏi màn chiếu bằng khăn giấy.\n(C) Một nhà thiết kế đồ họa đang phác thảo ý tưởng bố cục trên bảng vẽ điện tử bằng bút cảm ứng.\n(D) Chiếc tai nghe cách âm đang chăm chú lắng nghe một kỹ thuật viên âm thanh tại bàn trộn.",
+    "explanation": "Phương án (C) mô tả hoàn toàn tự nhiên bối cảnh làm việc của nhân viên thiết kế sáng tạo. Phương án (A) mâu thuẫn giữa 'powered-off' (đã tắt nguồn) và hành động in nhanh tài liệu. Phương án (B) sai bối cảnh thực tế vì người ta không viết chữ bằng bút dạ để xóa bằng khăn giấy trên màn máy chiếu ('projector screen', khác với bảng trắng 'whiteboard'). Phương án (D) đảo chủ thể vô tri (tai nghe) nghe kỹ thuật viên.",
+    "vocab": [
+      [
+        "layout concept",
+        "n",
+        "ý tưởng bố cục trình bày"
+      ],
+      [
+        "stylus",
+        "n",
+        "bút cảm ứng"
+      ],
+      [
+        "acoustic",
+        "adj",
+        "cách âm, thuộc âm học"
+      ],
+      [
+        "projector screen",
+        "n",
+        "màn hình máy chiếu"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "airport_terminal_walkway",
+    "imageUrl": "listening/images/lv4-test-02/part1/q5.jpg",
+    "imageCaption": "Hành khách mang theo ba lô và kéo vali xách tay có bánh xe đi dọc hành lang nhà ga sân bay hướng về khu vực cửa lên máy bay.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Travelers are pulling wheeled carry-on bags toward an airport boarding gate.",
+      "A fully boarded commuter train is still waiting for its first passenger to arrive.",
+      "Ground crew members are parking a passenger jet inside the terminal baggage claim.",
+      "Overhead luggage compartments are storing flight attendants above the aisle seats."
+    ],
+    "correct": "A",
+    "translation": "(A) Hành khách đang kéo vali xách tay có bánh xe về phía cửa lên máy bay tại sân bay.\n(B) Một chuyến tàu đi làm đã kín hành khách vẫn đang chờ vị khách đầu tiên đến.\n(C) Nhân viên mặt đất đang đỗ một chiếc máy bay chở khách ngay bên trong khu nhận hành lý của nhà ga.\n(D) Các ngăn hành lý phía trên đang cất giữ tiếp viên hàng không phía trên ghế cạnh lối đi.",
+    "explanation": "Phương án (A) mô tả đúng cảnh quen thuộc tại khu vực sảnh chờ sân bay. Phương án (B) mâu thuẫn logic giữa 'fully boarded' (hành khách đã lên đủ) và 'waiting for its first passenger' (chờ hành khách đầu tiên). Phương án (C) phi thực tế về không gian khi đỗ máy bay thương mại bên trong khu vực nhận hành lý trong nhà ga. Phương án (D) đảo chủ thể – tân ngữ bất hợp lý.",
+    "vocab": [
+      [
+        "carry-on bag",
+        "n",
+        "hành lý xách tay"
+      ],
+      [
+        "boarding gate",
+        "n",
+        "cửa lên máy bay"
+      ],
+      [
+        "baggage claim",
+        "n",
+        "khu vực nhận hành lý ký gửi"
+      ],
+      [
+        "overhead compartment",
+        "n",
+        "ngăn chứa đồ phía trên ghế ngồi"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "librarian_book_cart",
+    "imageUrl": "listening/images/lv4-test-02/part1/q6.jpg",
+    "imageCaption": "Một thủ thư đang đẩy chiếc xe kim loại chở đầy sách dọc lối đi giữa các dãy giá sách gỗ trong thư viện.",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "An archivist is filing fragile paper manuscripts inside an active paper shredder.",
+      "Quiet study booths are filled with construction workers operating loud jackhammers.",
+      "Several thick hardcover volumes are carefully alphabetizing a student beside the desk.",
+      "A librarian is wheeling a metal book cart between rows of wooden bookshelves."
+    ],
+    "correct": "D",
+    "translation": "(A) Một chuyên viên lưu trữ đang sắp xếp hồ sơ bản thảo giấy mỏng manh vào bên trong một chiếc máy hủy giấy đang chạy.\n(B) Các buồng học yên tĩnh chật kín công nhân xây dựng đang vận hành búa khoan ồn ào.\n(C) Nhiều cuốn sách bìa cứng dày đang cẩn thận xếp một sinh viên theo thứ tự chữ cái bên cạnh bàn.\n(D) Một thủ thư đang đẩy chiếc xe chở sách bằng kim loại giữa các dãy giá sách gỗ.",
+    "explanation": "Phương án (D) miêu tả chính xác cảnh làm việc thường nhật trong thư viện. Phương án (A) đánh bẫy ngữ nghĩa đối lập khi cất giữ bản thảo quý ('filing manuscripts') vào máy hủy tài liệu đang hoạt động ('active paper shredder'). Phương án (B) chứa mâu thuẫn trực tiếp giữa 'quiet study booths' (buồng học yên tĩnh) và 'loud jackhammers' (búa khoan ồn ào). Phương án (C) đảo ngược chủ thể khiến sách thực hiện hành động xếp người theo bảng chữ cái.",
+    "vocab": [
+      [
+        "archivist",
+        "n",
+        "chuyên viên lưu trữ tài liệu"
+      ],
+      [
+        "manuscript",
+        "n",
+        "bản thảo, tài liệu viết tay"
+      ],
+      [
+        "alphabetize",
+        "v",
+        "sắp xếp theo thứ tự bảng chữ cái"
+      ],
+      [
+        "book cart",
+        "n",
+        "xe đẩy sách thư viện"
+      ]
+    ]
+  }
+]

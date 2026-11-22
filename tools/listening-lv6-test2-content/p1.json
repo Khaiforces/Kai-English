@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "server_rack_cables",
+    "imageCaption": "Một kỹ thuật viên mạng đang đứng thao tác trước tủ rack máy chủ trong trung tâm dữ liệu để cắm và sắp xếp các bó cáp quang.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Decommissioned servers are being dismantled on a loading dock.",
+      "A network technician is routing fiber-optic cables into a server rack.",
+      "The data center aisle has been completely vacated for maintenance.",
+      "Fiber-optic strands are coiled loosely inside an open shipping crate."
+    ],
+    "correct": "B",
+    "translation": "(A) Các máy chủ ngừng hoạt động đang bị tháo dỡ tại bến bốc xếp hàng hóa.\n(B) Một kỹ thuật viên mạng đang đi dây và cắm các sợi cáp quang vào tủ rack máy chủ.\n(C) Lối đi trong trung tâm dữ liệu đã được sơ tán trống hoàn toàn để bảo trì.\n(D) Các sợi cáp quang được cuộn lỏng lẻo bên trong một thùng hàng đang mở.",
+    "explanation": "Đáp án đúng là B ('A network technician is routing fiber-optic cables into a server rack' - thì hiện tại tiếp diễn diễn tả chính xác hành động kỹ thuật viên đang cắm và sắp xếp cáp quang trên tủ rack máy chủ). Bẫy C1–C2: (A) dùng bị động tiếp diễn sai bối cảnh và hành động ('being dismantled on a loading dock'); (C) dùng hiện tại hoàn thành bị động ('has been completely vacated') đối lập với sự hiện diện của kỹ thuật viên; (D) giữ từ khóa 'fiber-optic' nhưng mô tả sai vị trí và trạng thái tĩnh ('coiled loosely inside an open shipping crate').",
+    "vocab": [
+      ["route", "v", "đi dây, định tuyến (cáp mạng, đường dẫn)"],
+      ["fiber-optic", "adj", "thuộc cáp quang"],
+      ["decommissioned", "adj", "đã ngừng vận hành, loại biên"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "boardroom_projector",
+    "imageCaption": "Phòng họp điều hành trống người với màn chiếu đã kéo xuống và các tập hồ sơ đặt thẳng hàng trên bàn kính.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A projection screen is being retracted into the ceiling housing.",
+      "Executive board members are reviewing dossiers around a glass table.",
+      "Document folios have been aligned neatly along a glass conference table.",
+      "Stationery binders are being redistributed across a vacant auditorium."
+    ],
+    "correct": "C",
+    "translation": "(A) Một màn chiếu đang được thu cuộn lại vào hộp gắn trần.\n(B) Các thành viên hội đồng điều hành đang xem xét hồ sơ quanh một chiếc bàn kính.\n(C) Các tập hồ sơ tài liệu đã được sắp xếp thẳng hàng ngay ngắn dọc theo bàn họp bằng kính.\n(D) Các bìa kẹp văn phòng phẩm đang được phân phát lại khắp một hội trường trống.",
+    "explanation": "Đáp án đúng là C ('Document folios have been aligned neatly along a glass conference table' - cấu trúc hiện tại hoàn thành bị động diễn tả trạng thái tĩnh của các tập hồ sơ đặt thẳng hàng trên mặt bàn kính trong phòng họp trống). Bẫy C1–C2: (A) và (D) dùng bị động tiếp diễn ('is being retracted', 'are being redistributed') sai với cảnh phòng họp không có người thao tác, đồng thời (A) còn ngược trạng thái màn chiếu đã kéo xuống; (B) sai vì tưởng tượng có người đang họp ('board members are reviewing').",
+    "vocab": [
+      ["folio", "n", "tập hồ sơ, bìa kẹp tài liệu khổ lớn"],
+      ["retract", "v", "thu vào, kéo cuộn lại"],
+      ["align", "v", "căn chỉnh, xếp thẳng hàng"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "forklift_warehouse",
+    "imageCaption": "Một chiếc xe nâng hàng đang nâng kiện hàng đặt lên hệ thống kệ thép cao tầng trong kho logistics.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A forklift is hoisting a palletized load onto high-tier steel racking.",
+      "Steel shelving units are being disassembled on the warehouse floor.",
+      "Crates have been stacked unevenly along an outdoor loading ramp.",
+      "Forklift forks are resting flat on the concrete aisle without cargo."
+    ],
+    "correct": "A",
+    "translation": "(A) Một chiếc xe nâng đang nâng kiện hàng trên pallet lên hệ thống giá kệ thép cao tầng.\n(B) Các bộ kệ thép đang được tháo dỡ trên sàn nhà kho.\n(C) Các thùng hàng đã được xếp chồng lệch lạc dọc theo dốc bốc hàng ngoài trời.\n(D) Hai càng xe nâng đang hạ phẳng sát mặt lối đi bê tông mà không có hàng hóa.",
+    "explanation": "Đáp án đúng là A ('A forklift is hoisting a palletized load onto high-tier steel racking' - dùng thì hiện tại tiếp diễn kết hợp từ vựng logistics chuẩn xác mô tả xe nâng đang nâng kiện hàng đặt lên kệ thép cao tầng). Bẫy C1–C2: (B) giữ danh từ 'steel' và 'warehouse' nhưng sai động từ ('being disassembled'); (C) bẫy trạng thái tĩnh ngoài trời ('outdoor loading ramp') thay vì kho hàng có xe nâng đang hoạt động; (D) lặp từ 'forklift' nhưng trái ngược hoàn toàn về vị trí càng nâng ('resting flat... without cargo').",
+    "vocab": [
+      ["hoist", "v", "nâng lên, cẩu lên"],
+      ["palletized", "adj", "được đóng kiện trên tấm kê hàng (pallet)"],
+      ["high-tier", "adj", "nhiều tầng cao"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "chemist_pipette",
+    "imageCaption": "Một nhà nghiên cứu mặc áo blouse trắng đang dùng micropipette nhỏ dung dịch vào khay ống nghiệm trong phòng thí nghiệm.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Test tubes are being sterilized inside a sealed autoclave chamber.",
+      "A laboratory coat has been hung beside a row of vacant workbenches.",
+      "Glass flasks are being rinsed beneath an overhead faucet.",
+      "A researcher in a lab coat is dispensing liquid into a rack of tubes."
+    ],
+    "correct": "D",
+    "translation": "(A) Các ống nghiệm đang được tiệt trùng bên trong buồng hấp áp suất kín.\n(B) Một chiếc áo blouse phòng thí nghiệm đã được treo cạnh dãy bàn làm việc trống.\n(C) Các bình tam giác thủy tinh đang được tráng rửa dưới vòi nước phía trên.\n(D) Một nhà nghiên cứu mặc áo blouse đang nhỏ dung dịch vào khay ống nghiệm.",
+    "explanation": "Đáp án đúng là D ('A researcher in a lab coat is dispensing liquid into a rack of tubes' - diễn tả chính xác người nghiên cứu mặc áo blouse trắng đang thực hiện thao tác nhỏ dung dịch vào khay ống nghiệm bằng động từ 'dispense'). Bẫy C1–C2: (A) bẫy chi tiết 'test tubes' nhưng bịa hành động tiệt trùng trong nồi hấp ('autoclave chamber'); (B) bẫy trang phục 'laboratory coat' đang được treo trong phòng trống thay vì đang được mặc trên người; (C) sai dụng cụ và hành động ('flasks are being rinsed').",
+    "vocab": [
+      ["dispense", "v", "phân phối, nhỏ/chiết (dung dịch từng lượng chính xác)"],
+      ["sterilize", "v", "tiệt trùng, khử trùng"],
+      ["autoclave", "n", "nồi hấp tiệt trùng (trong phòng thí nghiệm/y tế)"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "harbor_cranes",
+    "imageCaption": "Các cần cẩu giàn (gantry cranes) xếp thành hàng dọc theo cầu cảng container bên cạnh bờ nước phẳng lặng.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Turbulent waves are crashing violently against the concrete seawall.",
+      "Gantry cranes are stationed in a row along a calm container pier.",
+      "Shipping containers are being hoisted onto a departing cargo vessel.",
+      "Dockworkers are unfastening mooring lines along a timber jetty."
+    ],
+    "correct": "B",
+    "translation": "(A) Những con sóng dữ dội đang đập mạnh vào bức tường chắn sóng bằng bê tông.\n(B) Các cần cẩu giàn đang được bố trí thành một hàng dọc theo cầu cảng container yên ả.\n(C) Các thùng container vận tải đang được cẩu lên một con tàu chở hàng sắp rời bến.\n(D) Công nhân bến cảng đang tháo dây neo dọc theo một cầu tàu bằng gỗ.",
+    "explanation": "Đáp án đúng là B ('Gantry cranes are stationed in a row along a calm container pier' - dùng cấu trúc trạng thái 'are stationed' mô tả chính xác hàng cần cẩu giàn đứng dọc cầu cảng container bên mặt nước phẳng lặng). Bẫy C1–C2: (A) bẫy tương phản 'turbulent waves crashing' trái ngược với mặt nước phẳng lặng ('calm'); (C) dùng bị động tiếp diễn ('are being hoisted') kết hợp chi tiết suy diễn 'departing cargo vessel'; (D) bịa nhân vật đang thao tác ('unfastening mooring lines') tại cầu gỗ ('timber jetty').",
+    "vocab": [
+      ["gantry crane", "n", "cần cẩu giàn (tại cảng container)"],
+      ["station", "v", "bố trí, đặt vào vị trí cố định"],
+      ["mooring line", "n", "dây buộc tàu, dây neo tàu"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "architect_scale_model",
+    "imageCaption": "Hai kiến trúc sư đang chỉ tay thảo luận bên cạnh một mô hình kiến trúc thu nhỏ đặt trên bàn trưng bày.",
+    "imageUrl": "listening/images/lv6-test-02/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "An architectural maquette is being packed into a protective crate.",
+      "Blueprints are being pinned onto a corkboard behind an empty desk.",
+      "Two architects are gesturing toward a scale model on a display table.",
+      "The miniature building model has been toppled onto the studio floor."
+    ],
+    "correct": "C",
+    "translation": "(A) Một mô hình kiến trúc thu nhỏ đang được đóng gói vào thùng gỗ bảo vệ.\n(B) Các bản vẽ kỹ thuật đang được ghim lên bảng bần phía sau một chiếc bàn trống.\n(C) Hai kiến trúc sư đang chỉ tay hướng về một mô hình thu nhỏ trên bàn trưng bày.\n(D) Mô hình tòa nhà thu nhỏ đã bị đổ nhào xuống sàn xưởng thiết kế.",
+    "explanation": "Đáp án đúng là C ('Two architects are gesturing toward a scale model on a display table' - mô tả chính xác tư thế và hành động chỉ tay thảo luận của hai kiến trúc sư bên mô hình thu nhỏ đặt trên bàn). Bẫy C1–C2: (A) dùng từ hiếm đồng nghĩa 'maquette' (mô hình thu nhỏ) nhưng gán hành động bị động tiếp diễn sai ('is being packed'); (B) sai đối tượng và bối cảnh ('empty desk'); (D) lặp từ 'model' nhưng dùng hiện tại hoàn thành bị động mô tả trạng thái hư hại sai thực tế ('has been toppled').",
+    "vocab": [
+      ["gesture", "v", "ra hiệu, chỉ tay minh họa khi trao đổi"],
+      ["scale model", "n", "mô hình thu nhỏ theo tỷ lệ"],
+      ["maquette", "n", "mô hình phác thảo thu nhỏ (kiến trúc/điêu khắc)"]
+    ]
+  }
+]

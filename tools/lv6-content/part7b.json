@@ -1,0 +1,482 @@
+[
+  {
+    "passageTitle": "Questions 176-180 refer to the following e-mail and invoice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">Document 1: E-mail</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: Priya Raghunathan, Procurement Manager, Halcyon Ridge Furniture<br>To: Accounts Receivable, Meridian Components<br>Subject: Invoice MC-4471 — quantity and freight discrepancy</p><p class=\"mt-2\">Dear Ms. Okafor,</p><p class=\"mt-2\">Thank you for dispatching the oak veneer panels ahead of schedule. Before we release payment on invoice MC-4471, however, our warehouse team has flagged two items that require your confirmation.</p><p class=\"mt-2\">Your invoice lists 240 panels, whereas the delivery note accompanying the shipment records 225. Our receiving clerk counted the pallets twice and photographed each one; the figure of 225 appears to be accurate. In addition, the invoice applies a fuel surcharge of 4.5 percent, although clause 7 of our master supply agreement caps all freight-related surcharges at 3 percent for the duration of the contract.</p><p class=\"mt-2\">We remain keen to keep the revised delivery dates for the Riverside project on track, so I would ask that you issue a corrected invoice by Friday rather than delay settlement. Once the amended document arrives, our finance department can process the transfer within two business days.</p><p class=\"mt-2\">Kind regards,<br>Priya Raghunathan</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 2: Invoice</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">MERIDIAN COMPONENTS — COMMERCIAL INVOICE<br>Invoice no. MC-4471 | Date: 12 March | Terms: net 30<br>Bill to: Halcyon Ridge Furniture, 88 Foundry Lane<br>Purchase order: HRF-2291</p><table class=\"mt-2 w-full text-left\"><tr><th>Description</th><th>Qty</th><th>Unit price</th><th>Amount</th></tr><tr><td>Oak veneer panels, 3 mm</td><td>240</td><td>$38.50</td><td>$9,240.00</td></tr><tr><td>Edge banding, 50 m rolls</td><td>12</td><td>$22.00</td><td>$264.00</td></tr><tr><td>Subtotal</td><td></td><td></td><td>$9,504.00</td></tr><tr><td>Freight (fuel surcharge 4.5%)</td><td></td><td></td><td>$427.68</td></tr><tr><td>Total due</td><td></td><td></td><td>$9,931.68</td></tr></table><p class=\"mt-2\">Goods shipped 9 March via Northgate Freight, consignment NF-77120. Claims for shortages must be submitted in writing within ten days of receipt. Please quote the invoice number with every remittance and remit by bank transfer to Meridian Components, account 4471-8820, quoting the purchase order.</p></div>",
+    "questions": [
+      {
+        "n": 176,
+        "q": "What is the primary purpose of the e-mail?",
+        "options": [
+          "To dispute the unit price billed for oak veneer panels ahead of the net-30 deadline",
+          "To request prompt billing corrections so settlement can proceed without jeopardising a schedule",
+          "To report that damaged veneer panels were rejected by the warehouse receiving clerk",
+          "To propose revising clause 7 of the master supply agreement before Friday's transfer"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của e-mail là yêu cầu chỉnh sửa hoá đơn kịp thời để việc thanh toán được tiến hành mà không làm ảnh hưởng đến tiến độ dự án.",
+        "explanation": "Người gửi nêu hai sai sót cần xác nhận trên hoá đơn (số lượng 240 vs 225 và phụ phí nhiên liệu 4,5% vs trần 3%) và đề nghị xuất lại hoá đơn trước thứ Sáu để không làm trễ việc thanh toán và giữ tiến độ dự án Riverside. A sai vì đơn giá $38.50 không bị tranh chấp; C sai vì hàng bị thiếu số lượng chứ không nêu bị hư hỏng; D sai vì người viết đang viện dẫn giới hạn sẵn có của điều khoản 7 chứ không đề nghị sửa hợp đồng.",
+        "vocab": [
+          ["release payment", "v. phr.", "giải ngân, thực hiện thanh toán"],
+          ["dispatch", "v.", "gửi hàng, xuất hàng"],
+          ["jeopardise", "v.", "gây nguy hiểm, làm ảnh hưởng xấu"]
+        ]
+      },
+      {
+        "n": 177,
+        "q": "What does the reference to the Riverside project suggest about Halcyon Ridge's priorities?",
+        "options": [
+          "It will accept the overcharge in order to settle the account immediately.",
+          "Meeting the construction timetable outweighs settling the account at once.",
+          "It intends to terminate the supply agreement once the contract expires.",
+          "It expects Meridian to absorb the entire freight surcharge."
+        ],
+        "answer": "B",
+        "translation": "Việc nhắc tới dự án Riverside cho thấy ưu tiên của Halcyon Ridge là gì? — Giữ đúng tiến độ dự án quan trọng hơn việc thanh toán ngay.",
+        "explanation": "Cụm 'We remain keen to keep the revised delivery dates for the Riverside project on track, so I would ask that you issue a corrected invoice ... rather than delay settlement' cho thấy công ty ưu tiên tiến độ giao hàng cho dự án hơn là thanh toán tức thời. Việc yêu cầu hoá đơn điều chỉnh chứng tỏ họ không chấp nhận khoản thu vượt (loại A).",
+        "vocab": [
+          ["on track", "adj. phr.", "đúng tiến độ"],
+          ["settlement", "n.", "sự thanh toán, tất toán"],
+          ["overcharge", "n.", "khoản thu vượt giá"]
+        ]
+      },
+      {
+        "n": 178,
+        "q": "The e-mail states that 225 panels were actually received. At the unit price shown on the invoice, what is the value of the shortfall?",
+        "options": [
+          "$577.50",
+          "$462.00",
+          "$225.00",
+          "$9,240.00"
+        ],
+        "answer": "A",
+        "translation": "E-mail nói thực nhận 225 tấm. Với đơn giá trên hoá đơn, giá trị phần thiếu là bao nhiêu? — 577,50 đô la.",
+        "explanation": "Hoá đơn ghi 240 tấm với đơn giá $38.50/tấm, còn e-mail xác nhận chỉ nhận 225 tấm. Chênh lệch 240 − 225 = 15 tấm; 15 × $38.50 = $577.50. Phải đối chiếu số lượng ở Tài liệu 1 với dòng 'Oak veneer panels, 3 mm ... $38.50' ở Tài liệu 2.",
+        "vocab": [
+          ["unit price", "n. phr.", "đơn giá"],
+          ["shortfall", "n.", "phần thiếu hụt"],
+          ["figure", "n.", "con số"]
+        ]
+      },
+      {
+        "n": 179,
+        "q": "In the e-mail, the word \"flagged\" is closest in meaning to",
+        "options": [
+          "marked with a coloured label",
+          "postponed for later consideration",
+          "formally approved by a manager",
+          "drawn to someone's attention"
+        ],
+        "answer": "D",
+        "translation": "Từ 'flagged' trong e-mail gần nghĩa nhất với 'được nêu ra để chú ý'.",
+        "explanation": "'our warehouse team has flagged two items that require your confirmation' — 'flag' ở đây nghĩa là nêu ra, làm cho được chú ý tới (drawn to someone's attention), không phải dán nhãn thật (A) hay hoãn lại (B).",
+        "vocab": [
+          ["flag", "v.", "nêu ra, đánh dấu để chú ý"],
+          ["confirmation", "n.", "sự xác nhận"],
+          ["pallet", "n.", "pallet, bệ hàng"]
+        ]
+      },
+      {
+        "n": 180,
+        "q": "According to the invoice, all of the following are true EXCEPT:",
+        "options": [
+          "It was issued on 12 March.",
+          "The consignment was carried by Northgate Freight.",
+          "Payment falls due within two business days.",
+          "Shortage claims must be lodged within ten days of receipt."
+        ],
+        "answer": "C",
+        "translation": "Theo hoá đơn, tất cả các ý sau đều đúng NGOẠI TRỪ: Thanh toán đến hạn trong vòng hai ngày làm việc.",
+        "explanation": "Hoá đơn ghi 'Terms: net 30', tức thanh toán trong 30 ngày, nên C sai. Hai ngày làm việc là thời gian bộ phận tài chính của Halcyon xử lý chuyển khoản, nêu ở Tài liệu 1, không phải điều khoản của hoá đơn. Các ý A, B, D đều xuất hiện trên hoá đơn.",
+        "vocab": [
+          ["remittance", "n.", "khoản chuyển tiền thanh toán"],
+          ["lodge a claim", "v. phr.", "nộp khiếu nại"],
+          ["consignment", "n.", "lô hàng"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 181-185 refer to the following advertisement and text message exchange:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">Document 1: Advertisement</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">KESTREL ANALYTICS INSTITUTE<br>Executive Data Storytelling — two-day intensive</p><p class=\"mt-2\">Numbers persuade only when they are narrated. This programme is designed for senior managers who must present analytical findings to boards and investors. Participants work in cohorts of no more than fourteen, revising their own quarterly materials under faculty drawn from the investor-relations teams of listed companies.</p><p class=\"mt-2\">Dates: 4-5 June (London); 17-18 September (Singapore).<br>Fee: £1,850 per participant, inclusive of the pre-course assessment, all catering and a post-course coaching call.</p><p class=\"mt-2\">Groups of four or more booking together receive a 15 percent reduction. Registration completed before 1 May carries a further 10 percent reduction, applicable to the standard fee only. Completion earns twelve CPD hours.</p><p class=\"mt-2\">Places are allocated on receipt of payment; provisional holds are not offered. Enquiries: registrar@kestrel-institute.example</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 2: Text message exchange</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">[10:42] Daniel: Did you see the Kestrel brochure I forwarded? Our learning budget for the third quarter covers the September cohort but nothing earlier.</p><p class=\"mt-2\">[10:47] Mei-Lin: I saw it. Four of us in strategy are interested. But the fee they quote on the website seems to exclude the assessment, which would change the arithmetic.</p><p class=\"mt-2\">[10:51] Daniel: Look again — the assessment is included. What is restricted is the early rate, which applies to the standard fee only, so it may not survive the group reduction.</p><p class=\"mt-2\">[10:55] Mei-Lin: Then the four of us would miss the early window unless payment clears by Thursday. Shall I ask the registrar whether the two reductions can be combined?</p><p class=\"mt-2\">[10:57] Daniel: Yes, and put the four names forward at the same time — places go on payment, not on a waiting list.</p></div>",
+    "questions": [
+      {
+        "n": 181,
+        "q": "What is the main purpose of the advertisement?",
+        "options": [
+          "To notify applicants that the June London cohort is full and direct them to Singapore",
+          "To promote a specialized leadership seminar along with its fee and discount terms",
+          "To explain why provisional holds have replaced advance payment for group bookings",
+          "To market an online investor-relations assessment required for CPD accreditation"
+        ],
+        "answer": "B",
+        "translation": "Mục đích chính của quảng cáo là quảng bá một hội thảo đào tạo chuyên sâu cho lãnh đạo cùng mức phí và các điều kiện ưu đãi.",
+        "explanation": "Tài liệu 1 giới thiệu khoá chuyên sâu hai ngày 'Executive Data Storytelling', đối tượng quản lý cấp cao, lịch tổ chức tại London/Singapore, học phí £1,850 và các quy định giảm giá nhóm/đăng ký sớm. A sai vì cả hai đợt tháng 6 và tháng 9 đều đang mở đăng ký; C trái ngược quy định 'provisional holds are not offered'; D sai vì bài đánh giá chỉ là phần đi kèm trước khoá học trực tiếp, không phải sản phẩm rao bán riêng.",
+        "vocab": [
+          ["cohort", "n.", "nhóm học viên cùng khoá"],
+          ["intensive", "adj.", "cường độ cao, tập trung"],
+          ["provisional hold", "n. phr.", "giữ chỗ tạm thời"]
+        ]
+      },
+      {
+        "n": 182,
+        "q": "Which claim made in the text exchange is contradicted by the advertisement?",
+        "options": [
+          "The third-quarter budget covers the September cohort.",
+          "The quoted fee excludes the assessment.",
+          "Four strategy staff are interested in attending.",
+          "The early-registration window closes on Thursday."
+        ],
+        "answer": "B",
+        "translation": "Khẳng định nào trong đoạn tin nhắn bị quảng cáo phủ định? — Học phí được niêm yết không bao gồm bài đánh giá.",
+        "explanation": "Mei-Lin viết 'the fee they quote on the website seems to exclude the assessment', nhưng quảng cáo ghi rõ 'Fee: £1,850 ... inclusive of the pre-course assessment, all catering and a post-course coaching call'. Vì vậy B bị phủ định; các ý còn lại không mâu thuẫn với tài liệu nào.",
+        "vocab": [
+          ["quote", "v.", "niêm yết, báo giá"],
+          ["inclusive of", "adj. phr.", "bao gồm"],
+          ["arithmetic", "n.", "phép tính, bài toán chi phí"]
+        ]
+      },
+      {
+        "n": 183,
+        "q": "What will Daniel and Mei-Lin most likely do next?",
+        "options": [
+          "Register for the June cohort instead of the September one.",
+          "Postpone the decision until the next budget cycle.",
+          "Ask the registrar whether the two reductions may be combined.",
+          "Ask the institute to waive the fee for the coaching call."
+        ],
+        "answer": "C",
+        "translation": "Daniel và Mei-Lin nhiều khả năng sẽ làm gì tiếp theo? — Hỏi bộ phận đăng ký xem hai ưu đãi có được cộng gộp hay không.",
+        "explanation": "Mei-Lin đề nghị 'Shall I ask the registrar whether the two reductions can be combined?' và Daniel đồng ý, đồng thời giục 'put the four names forward'. Quảng cáo chỉ nói ưu đãi sớm 'applicable to the standard fee only', không nói rõ có cộng với ưu đãi nhóm hay không — nên cần hỏi. Ngân sách quý ba chỉ đủ cho đợt tháng 9 nên A sai.",
+        "vocab": [
+          ["combine", "v.", "cộng gộp, kết hợp"],
+          ["reduction", "n.", "mức giảm giá"],
+          ["waive", "v.", "miễn, bỏ khoản phí"]
+        ]
+      },
+      {
+        "n": 184,
+        "q": "In the text exchange, the phrase \"put the four names forward\" is closest in meaning to",
+        "options": [
+          "nominate the four candidates",
+          "dismiss the four candidates",
+          "defer the four applications",
+          "rank the four applicants"
+        ],
+        "answer": "A",
+        "translation": "Cụm 'put the four names forward' gần nghĩa nhất với 'đề cử bốn ứng viên'.",
+        "explanation": "'Put somebody's name forward' = đề cử, giới thiệu ai đó vào một vị trí/danh sách. Trong ngữ cảnh này là gửi tên bốn người để đăng ký, nên 'nominate' là tương đương; không phải loại bỏ (B), trì hoãn (C) hay xếp hạng (D).",
+        "vocab": [
+          ["put forward", "phr. v.", "đề cử, giới thiệu"],
+          ["nominate", "v.", "đề cử"],
+          ["clear", "v.", "được thanh toán, chuyển tiền thành công"]
+        ]
+      },
+      {
+        "n": 185,
+        "q": "The advertisement indicates that the fee covers all of the following EXCEPT",
+        "options": [
+          "the pre-course assessment",
+          "catering during the two days",
+          "a post-course coaching call",
+          "overnight accommodation"
+        ],
+        "answer": "D",
+        "translation": "Quảng cáo cho biết học phí bao gồm tất cả các mục sau NGOẠI TRỪ: chỗ ở qua đêm.",
+        "explanation": "Quảng cáo ghi 'inclusive of the pre-course assessment, all catering and a post-course coaching call', hoàn toàn không nhắc tới chỗ ở. Vì vậy D là mục không được bao gồm.",
+        "vocab": [
+          ["catering", "n.", "dịch vụ ăn uống"],
+          ["inclusive", "adj.", "bao gồm tất cả"],
+          ["accommodation", "n.", "chỗ ở"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 186-190 refer to the following programme, e-mail and reply:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">Document 1: Programme</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">NORTHFIELD SUPPLY CHAIN FORUM — PROGRAMME, 14 NOVEMBER</p><table class=\"mt-2 w-full text-left\"><tr><th>Time</th><th>Session</th><th>Venue</th></tr><tr><td>08:30</td><td>Registration</td><td>Atrium</td></tr><tr><td>09:15</td><td>Keynote: resilience after the Red Sea disruptions</td><td>Plenary Hall</td></tr><tr><td>10:30</td><td>Track A — scoring supplier risk in volatile markets</td><td>Room 2A</td></tr><tr><td>10:30</td><td>Track B — calculating the return on warehouse automation</td><td>Room 2B</td></tr><tr><td>12:00</td><td>Buffet lunch</td><td>Terrace</td></tr><tr><td>13:15</td><td>Panel: customs compliance in a fragmented trading environment</td><td>Plenary Hall</td></tr><tr><td>14:30</td><td>Workshop: drafting force majeure clauses (ninety minutes, pre-registration required, thirty places)</td><td>Room 3C</td></tr><tr><td>16:00</td><td>Closing remarks</td><td>Plenary Hall</td></tr></table><p class=\"mt-2\">Delegates may attend one parallel session only. Registration for the forum closes on 7 November.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 2: E-mail</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: Tobias Lindqvist<br>To: programmes@northfieldforum.example<br>Subject: Workshop allocation</p><p class=\"mt-2\">Dear Organising Team,</p><p class=\"mt-2\">I have registered for the full forum on 14 November and would like to attend the force majeure workshop at 14:30. When I completed the booking form, the workshop did not appear among the selectable options, so I assume the list had not yet been finalised.</p><p class=\"mt-2\">I should mention that my flight back to Stockholm departs at 17:05, which means I will have to leave the venue by 15:40. If the workshop runs its full length, I would depart before the end; please tell me whether that would invalidate the attendance certificate, since my professional body requires evidence of complete sessions.</p><p class=\"mt-2\">A colleague, Helena Marsh, hopes to join the same workshop. She is registering tomorrow.</p><p class=\"mt-2\">Best regards,<br>Tobias Lindqvist</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 3: Reply</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: Registration Office<br>To: Tobias Lindqvist<br>Subject: RE: Workshop allocation</p><p class=\"mt-2\">Dear Mr. Lindqvist,</p><p class=\"mt-2\">Thank you for writing. The workshop has now been added to the booking system and is capped at thirty participants; as of this morning twenty-two places remain, so your colleague should have no difficulty securing one provided she registers before 7 November, when the programme closes.</p><p class=\"mt-2\">On the certificate: attendance is recorded in part-sessions, but only delegates present for the entire workshop receive the certificate endorsed by the Chartered Institute of Logistics. We are, however, filming every session and will release the footage to registered delegates for thirty days afterwards; several attendees have used it to satisfy continuing-education requirements. The closing remarks are optional this year, so leaving at 15:40 will not affect your record for the remainder of the day.</p><p class=\"mt-2\">Kind regards,<br>Registration Office</p></div>",
+    "questions": [
+      {
+        "n": 186,
+        "q": "What is the purpose of Mr. Lindqvist's e-mail?",
+        "options": [
+          "To reserve a workshop seat for Helena Marsh before the 7 November registration cutoff",
+          "To verify the certification consequences of leaving a workshop before its scheduled conclusion",
+          "To request that the afternoon workshop be moved earlier to accommodate his 17:05 flight",
+          "To switch his booking from the morning parallel tracks to the afternoon panel"
+        ],
+        "answer": "B",
+        "translation": "Mục đích e-mail của ông Lindqvist là xác minh hệ quả đối với chứng chỉ nếu ông rời buổi workshop trước giờ kết thúc dự kiến.",
+        "explanation": "Ông cho biết phải rời địa điểm lúc 15:40 để kịp chuyến bay và hỏi 'please tell me whether that would invalidate the attendance certificate'. A sai vì Helena Marsh sẽ tự đăng ký ngày mai ('She is registering tomorrow'); C sai vì ông không xin dời giờ workshop; D không hề được nhắc tới trong e-mail.",
+        "vocab": [
+          ["invalidate", "v.", "làm mất hiệu lực"],
+          ["attendance certificate", "n. phr.", "chứng nhận tham dự"],
+          ["finalise", "v.", "hoàn tất, chốt danh sách"]
+        ]
+      },
+      {
+        "n": 187,
+        "q": "If Mr. Lindqvist leaves at 15:40 as planned, how much of the workshop will he be unable to attend?",
+        "options": [
+          "Ten minutes",
+          "Fifteen minutes",
+          "Twenty minutes",
+          "Thirty minutes"
+        ],
+        "answer": "C",
+        "translation": "Nếu ông Lindqvist rời đi lúc 15:40 như dự kiến, ông sẽ không dự được bao nhiêu thời gian của buổi workshop? — Hai mươi phút.",
+        "explanation": "Tài liệu 1 ghi workshop bắt đầu 14:30 và kéo dài 'ninety minutes', tức kết thúc 16:00. Tài liệu 2 cho biết ông phải rời đi lúc 15:40. Vậy ông thiếu 16:00 − 15:40 = 20 phút. Phải đối chiếu cả hai tài liệu mới tính được.",
+        "vocab": [
+          ["run its full length", "v. phr.", "kéo dài đủ thời lượng"],
+          ["depart", "v.", "khởi hành, rời đi"],
+          ["session", "n.", "phiên họp, buổi"]
+        ]
+      },
+      {
+        "n": 188,
+        "q": "What does the reply indicate about Helena Marsh?",
+        "options": [
+          "She has already been allocated one of the thirty places.",
+          "She must attend the closing remarks to qualify for a certificate.",
+          "She is ineligible because the workshop is closed to new registrations.",
+          "She will probably obtain a place if she registers before 7 November."
+        ],
+        "answer": "D",
+        "translation": "Thư phản hồi cho biết gì về Helena Marsh? — Bà ấy nhiều khả năng sẽ có chỗ nếu đăng ký trước ngày 7 tháng 11.",
+        "explanation": "Thư trả lời nói 'twenty-two places remain, so your colleague should have no difficulty securing one provided she registers before 7 November'. Như vậy bà ấy chưa có chỗ (loại A) và vẫn còn chỗ (loại C).",
+        "vocab": [
+          ["cap", "v.", "giới hạn số lượng"],
+          ["secure a place", "v. phr.", "giành được một chỗ"],
+          ["provided", "conj.", "với điều kiện là"]
+        ]
+      },
+      {
+        "n": 189,
+        "q": "What can be inferred about the organisers' attitude towards continuing-education requirements?",
+        "options": [
+          "They treat recorded footage as an acceptable substitute for full attendance.",
+          "They refuse to recognise certificates issued by other professional bodies.",
+          "They intend to shorten future workshops to under ninety minutes.",
+          "They charge delegates separately for documentation of attendance."
+        ],
+        "answer": "A",
+        "translation": "Có thể suy ra gì về thái độ của ban tổ chức với yêu cầu đào tạo thường xuyên? — Họ coi bản ghi hình là giải pháp thay thế chấp nhận được cho việc dự đủ buổi.",
+        "explanation": "Sau khi nói chứng chỉ chỉ cấp cho người dự trọn buổi, thư trả lời bổ sung 'We are ... filming every session and will release the footage ... several attendees have used it to satisfy continuing-education requirements' — hàm ý linh hoạt, chấp nhận bản ghi làm bằng chứng thay thế. Không có căn cứ cho B, C hay D.",
+        "vocab": [
+          ["endorse", "v.", "chứng thực, công nhận"],
+          ["footage", "n.", "bản ghi hình"],
+          ["continuing education", "n. phr.", "đào tạo thường xuyên, bồi dưỡng"]
+        ]
+      },
+      {
+        "n": 190,
+        "q": "According to the reply, the organisers will do all of the following EXCEPT",
+        "options": [
+          "accept registrations until 7 November",
+          "make session recordings available for thirty days",
+          "extend the workshop beyond its scheduled finishing time",
+          "endorse certificates for delegates who attend the whole workshop"
+        ],
+        "answer": "C",
+        "translation": "Theo thư trả lời, ban tổ chức sẽ làm tất cả các việc sau NGOẠI TRỪ: kéo dài workshop quá giờ kết thúc dự kiến.",
+        "explanation": "Thư không hề nói sẽ kéo dài workshop; ngược lại còn gợi ý ông rời lúc 15:40 vì 'closing remarks are optional'. Các ý A (mốc 7 November), B (ghi hình 30 ngày) và D (chứng chỉ cho người dự trọn buổi) đều có trong thư.",
+        "vocab": [
+          ["optional", "adj.", "không bắt buộc"],
+          ["record", "n.", "hồ sơ, biên bản ghi nhận"],
+          ["remainder", "n.", "phần còn lại"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 191-195 refer to the following fee schedule, request form and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">Document 1: Schedule of fees</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">BRIGHTWELL TESTING SERVICES — SCHEDULE OF FEES (EXTRACT)</p><table class=\"mt-2 w-full text-left\"><tr><th>Test</th><th>Standard turnaround</th><th>Fee per sample</th></tr><tr><td>Tensile strength (ISO 6892)</td><td>5 working days</td><td>$210</td></tr><tr><td>Tensile strength, expedited</td><td>2 working days</td><td>$315</td></tr><tr><td>Hardness survey (ASTM E18)</td><td>3 working days</td><td>$145</td></tr><tr><td>Salt-spray corrosion (ISO 9227)</td><td>10 working days</td><td>$480</td></tr><tr><td>Metallographic examination</td><td>7 working days</td><td>$360</td></tr></table><p class=\"mt-2\">A supplement of 12 percent is applied to any specimen requiring sectioning before testing. Academic and public research institutions receive an 8 percent reduction, which applies to standard-turnaround tests only and may not be combined with expedited service. Fees exclude courier charges and the translation of reports. Quotations are valid for thirty days from the date of issue.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 2: Test request form</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Client: Ardenne Polytechnic, Department of Mechanical Engineering<br>Contact: Dr. Sofia Renard | Purchase order: AP-2026-118<br>Samples submitted: 18 | Date received: 3 April</p><p class=\"mt-2\">Tests requested: tensile strength (ISO 6892) — 12 samples, expedited turnaround; hardness survey (ASTM E18) — 6 samples, standard turnaround.</p><p class=\"mt-2\">Sectioning required: yes, for nine of the tensile specimens.</p><p class=\"mt-2\">Special instructions: the report is to be issued in French and English, and every certificate must cite the purchase order number.</p><p class=\"mt-2\">Billing address: 14 Rue des Ateliers, Namur. Reports are to be delivered electronically in PDF format only; printed copies are not required. The department's laboratory coordinator, M. Verhoeven, will act as technical contact for any query arising during testing.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 3: E-mail</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: accounts@brightwell-testing.example<br>To: S. Renard<br>Subject: Quotation AP-2026-118 — clarification needed</p><p class=\"mt-2\">Dear Dr. Renard,</p><p class=\"mt-2\">Thank you for the eighteen samples, which arrived safely on 3 April. Before we issue the formal quotation, two points require your confirmation.</p><p class=\"mt-2\">First, your form requests expedited turnaround for the tensile tests only; the hardness survey will follow the standard three-day schedule. Second, we note that sectioning is required for nine of the tensile specimens, which attracts the supplement published in our schedule. Please confirm that this is acceptable.</p><p class=\"mt-2\">I should also point out that the academic reduction cannot be combined with expedited service, so the twelve tensile tests will be charged at the full published rate. If, however, you were willing to accept the standard five-day turnaround, the reduction would apply and the saving would be considerable.</p><p class=\"mt-2\">Our quotation will follow within one working day of your reply. Please note that we invoice in US dollars and that courier costs are additional.</p><p class=\"mt-2\">Regards,<br>Marcus Ihejirika, Accounts</p></div>",
+    "questions": [
+      {
+        "n": 191,
+        "q": "What is the main purpose of the e-mail?",
+        "options": [
+          "To verify turnaround and surcharge details prior to issuing a formal price quotation",
+          "To inform Dr. Renard that the academic discount has been applied to all eighteen samples",
+          "To request permission to invoice in euros and waive PDF report translation charges",
+          "To advise Dr. Renard that M. Verhoeven must approve the sectioning fees before testing"
+        ],
+        "answer": "A",
+        "translation": "Mục đích chính của e-mail là xác minh các chi tiết về thời gian trả kết quả và phụ phí trước khi phát hành báo giá chính thức.",
+        "explanation": "Người gửi mở đầu bằng 'Before we issue the formal quotation, two points require your confirmation', làm rõ lịch xử lý nhanh/tiêu chuẩn của hai loại thử nghiệm và xác nhận phụ phí cắt mẫu 9 mẫu thử kéo. B sai vì 12 mẫu thử kéo dùng gói expedited nên không được giảm giá học thuật; C trái ngược nội dung tính tiền bằng đô-la Mỹ; D sai vì M. Verhoeven là đầu mối kỹ thuật, còn chính Dr. Renard được yêu cầu xác nhận chi phí.",
+        "vocab": [
+          ["quotation", "n.", "báo giá"],
+          ["clarification", "n.", "sự làm rõ"],
+          ["turnaround", "n.", "thời gian hoàn thành dịch vụ"]
+        ]
+      },
+      {
+        "n": 192,
+        "q": "Why will the academic reduction not apply to the tensile tests?",
+        "options": [
+          "Those specimens must be sectioned before testing.",
+          "The client requested expedited turnaround for them.",
+          "The purchase order was submitted after the deadline.",
+          "The report is to be produced in two languages."
+        ],
+        "answer": "B",
+        "translation": "Vì sao mức giảm dành cho học viện không áp dụng cho các mẫu thử kéo? — Vì khách hàng yêu cầu thời gian trả kết quả nhanh cho các mẫu đó.",
+        "explanation": "Tài liệu 2 ghi 12 mẫu thử kéo dùng 'expedited turnaround', còn Tài liệu 3 khẳng định 'the academic reduction cannot be combined with expedited service'. Tài liệu 1 cũng quy định mức giảm chỉ áp dụng cho 'standard-turnaround tests'. Phụ phí cắt mẫu (A) là khoản riêng, không phải lý do mất ưu đãi.",
+        "vocab": [
+          ["expedited", "adj.", "nhanh, thúc đẩy tiến độ"],
+          ["supplement", "n.", "phụ phí"],
+          ["specimen", "n.", "mẫu thử"]
+        ]
+      },
+      {
+        "n": 193,
+        "q": "Based on the schedule of fees, what will the hardness survey cost, before any supplement or reduction?",
+        "options": [
+          "$580",
+          "$780",
+          "$870",
+          "$1,260"
+        ],
+        "answer": "C",
+        "translation": "Theo bảng giá, phí khảo sát độ cứng là bao nhiêu trước mọi phụ phí hay giảm giá? — 870 đô la.",
+        "explanation": "Tài liệu 2 cho biết có 6 mẫu khảo sát độ cứng; Tài liệu 1 niêm yết 'Hardness survey (ASTM E18) ... $145' mỗi mẫu. Vậy 6 × $145 = $870. Cần ghép số mẫu ở phiếu đăng ký với đơn giá ở bảng giá.",
+        "vocab": [
+          ["per sample", "prep. phr.", "mỗi mẫu"],
+          ["survey", "n.", "khảo sát, đo đạc"],
+          ["fee schedule", "n. phr.", "bảng phí"]
+        ]
+      },
+      {
+        "n": 194,
+        "q": "What does Mr. Ihejirika imply about the standard five-day turnaround?",
+        "options": [
+          "It is unavailable for specimens that require sectioning.",
+          "It would lower the charge appreciably but postpone the results.",
+          "It is reserved exclusively for academic clients.",
+          "It would oblige the client to collect the samples in person."
+        ],
+        "answer": "B",
+        "translation": "Ông Ihejirika hàm ý gì về thời gian trả kết quả tiêu chuẩn năm ngày? — Nó sẽ giảm chi phí đáng kể nhưng làm kết quả ra muộn hơn.",
+        "explanation": "Câu 'If ... you were willing to accept the standard five-day turnaround, the reduction would apply and the saving would be considerable' cho thấy đánh đổi: tiết kiệm chi phí nhưng chậm hơn (5 ngày so với 2 ngày ghi ở Tài liệu 1). Không có thông tin nào nói mẫu cắt không dùng được gói tiêu chuẩn (A).",
+        "vocab": [
+          ["considerable", "adj.", "đáng kể"],
+          ["saving", "n.", "khoản tiết kiệm"],
+          ["be willing to", "adj. phr.", "sẵn lòng"]
+        ]
+      },
+      {
+        "n": 195,
+        "q": "In the e-mail, the verb \"attracts\" in \"attracts the supplement\" is closest in meaning to",
+        "options": [
+          "incurs",
+          "avoids",
+          "advertises",
+          "reduces"
+        ],
+        "answer": "A",
+        "translation": "Động từ 'attracts' trong 'attracts the supplement' gần nghĩa nhất với 'phát sinh'.",
+        "explanation": "Trong văn bản thương mại, 'attract a charge/supplement' nghĩa là làm phát sinh khoản phí đó (incur). Câu này nói việc cắt mẫu sẽ phát sinh phụ phí 12% đã công bố ở Tài liệu 1.",
+        "vocab": [
+          ["attract a charge", "v. phr.", "phát sinh một khoản phí"],
+          ["incur", "v.", "gánh chịu, phát sinh"],
+          ["sectioning", "n.", "việc cắt mẫu"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 196-200 refer to the following notice, allocation table and e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">Document 1: Notice</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">MERIDIAN HOUSE — PHASE 2 REFURBISHMENT<br>Notice to occupants of floors three to five</p><p class=\"mt-2\">Work on the second phase of the refurbishment will begin on 2 June. Contractors will complete the building floor by floor, starting at the top and working downwards, and each floor is expected to be out of use for approximately three weeks.</p><p class=\"mt-2\">Occupants of the three affected floors must vacate their accommodation by 30 May. Temporary allocations are published in the table below.</p><p class=\"mt-2\">The goods lift will be reserved for the contractors between 07:00 and 16:00 each weekday; staff moving crates should therefore schedule their use of the lift outside those hours.</p><p class=\"mt-2\">Every crate must carry a label showing the department code and the destination floor. Personal belongings should be cleared from desks, but IT equipment — monitors, docking stations and handsets — must not be disconnected or packed by staff. The approved vendor will dismantle, label and transport all such items.</p><p class=\"mt-2\">Queries: facilities@meridianhouse.example</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 2: Allocation table</p><hr class=\"my-2 border-neutral-300\"><table class=\"mt-2 w-full text-left\"><tr><th>Department</th><th>Current floor</th><th>Temporary location</th><th>Expected return</th></tr><tr><td>Finance</td><td>5</td><td>Building B, 2nd floor</td><td>4 August</td></tr><tr><td>Legal</td><td>4</td><td>Building B, 3rd floor</td><td>25 August</td></tr><tr><td>Product Design</td><td>3</td><td>Remote working, with co-working allowance</td><td>22 September</td></tr></table><p class=\"mt-2\">Notes: the third-floor suite in Building B is shared with the Finance overflow at peak periods. Storage of archived files at the temporary site is limited to twenty crates per department; anything beyond that limit must remain in the off-site records facility. Departments will be notified of any change to these allocations at least ten working days in advance, and the department code shown in the intranet directory is to be used on all labels.</p><hr class=\"my-2 border-neutral-300\"><p class=\"font-bold text-center text-base\">Document 3: E-mail</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">From: Rowena Adeyemi, Head of Legal<br>To: Facilities Helpdesk<br>Subject: Relocation — archive access and permits</p><p class=\"mt-2\">Dear Facilities,</p><p class=\"mt-2\">Two concerns about our move on 30 May.</p><p class=\"mt-2\">Our case files fill roughly forty crates. The notice states that IT equipment must be handled by the vendor; does the same restriction apply to document archives, or may my team pack them ourselves? We cannot risk files arriving out of sequence in Building B, since three matters are listed for hearing in early June.</p><p class=\"mt-2\">Second, seven members of my team hold parking permits for Meridian House. The notice says nothing about whether these will be honoured at the temporary site; if they are not, we shall have to arrange alternative transport for colleagues who commute from outside the city.</p><p class=\"mt-2\">Finally, the floor plan circulated last week shows Legal on the third floor of Building B, which I understand is also earmarked for Finance's overflow. Could you confirm the allocation before we label the crates, as the department code must appear on every label?</p><p class=\"mt-2\">Kind regards,<br>Rowena Adeyemi</p></div>",
+    "questions": [
+      {
+        "n": 196,
+        "q": "Based on the notice and the allocation table, which statement accurately describes the sequence of the Phase 2 refurbishment?",
+        "options": [
+          "All three affected departments will vacate simultaneously on 2 June as contractors begin on every floor.",
+          "Refurbishment will progress sequentially from the Finance floor down to the Product Design floor.",
+          "Work on Legal's current floor is scheduled to conclude immediately before Finance returns on 4 August.",
+          "Product Design staff will relocate to Building B once Finance completes its nine-week refurbishment period."
+        ],
+        "answer": "B",
+        "translation": "Dựa trên thông báo và bảng phân bổ, phát biểu nào mô tả đúng trình tự cải tạo Giai đoạn 2? — Việc cải tạo sẽ tiến hành tuần tự từ tầng của Finance xuống tới tầng của Product Design.",
+        "explanation": "Tài liệu 1 nêu nhà thầu thi công từng tầng một, bắt đầu từ tầng cao nhất đi xuống ('starting at the top and working downwards'). Kết hợp Tài liệu 2: Finance ở tầng 5, Legal ở tầng 4 và Product Design ở tầng 3 — tức thứ tự là Finance → Legal → Product Design. A sai vì phải rời đi trước 30/5 và thi công từng tầng; C sai vì mỗi tầng mất khoảng 3 tuần nên tầng 4 (Legal) hoàn tất khoảng giữa tháng 7 chứ không phải đầu tháng 8; D sai vì Product Design làm việc từ xa và 9 tuần là tổng thời gian của cả 3 tầng.",
+        "vocab": [
+          ["refurbishment", "n.", "việc cải tạo, nâng cấp"],
+          ["sequentially", "adv.", "một cách tuần tự, lần lượt"],
+          ["vacate", "v.", "rời đi, trả lại chỗ"]
+        ]
+      },
+      {
+        "n": 197,
+        "q": "Based on the notice and the table, when is work on the floor occupied by Product Design expected to begin?",
+        "options": [
+          "In early June",
+          "In late June",
+          "In mid-July",
+          "In late August"
+        ],
+        "answer": "C",
+        "translation": "Dựa trên thông báo và bảng phân bổ, công việc ở tầng của bộ phận Product Design dự kiến bắt đầu khi nào? — Giữa tháng Bảy.",
+        "explanation": "Product Design ở tầng 3. Theo thông báo, thi công từ 2/6 theo thứ tự giảm dần, mỗi tầng khoảng ba tuần: tầng 5 (Finance) khoảng 2-23/6, tầng 4 (Legal) khoảng 23/6-14/7, tầng 3 bắt đầu khoảng giữa tháng 7. Ngày 22/9 ở bảng là ngày dự kiến trở về, không phải ngày khởi công.",
+        "vocab": [
+          ["approximately", "adv.", "xấp xỉ"],
+          ["allocation", "n.", "sự phân bổ"],
+          ["expected return", "n. phr.", "ngày dự kiến quay về"]
+        ]
+      },
+      {
+        "n": 198,
+        "q": "What does Ms. Adeyemi imply about the parking permits?",
+        "options": [
+          "They will automatically transfer to the temporary site.",
+          "It is unclear whether they will remain valid at the temporary site.",
+          "They have already been withdrawn by the Facilities team.",
+          "They are issued by the landlord of Building B."
+        ],
+        "answer": "B",
+        "translation": "Bà Adeyemi hàm ý gì về giấy phép đỗ xe? — Chưa rõ chúng có còn hiệu lực ở địa điểm tạm hay không.",
+        "explanation": "Bà viết 'The notice says nothing about whether these will be honoured at the temporary site' — tức thông báo im lặng về vấn đề này, chứ không nói sẽ tự động chuyển (A) hay đã bị thu hồi (C).",
+        "vocab": [
+          ["honour", "v.", "tôn trọng, công nhận hiệu lực"],
+          ["permit", "n.", "giấy phép"],
+          ["commute", "v.", "đi lại làm việc"]
+        ]
+      },
+      {
+        "n": 199,
+        "q": "Why does Ms. Adeyemi want the floor allocation confirmed before the crates are labelled?",
+        "options": [
+          "The department code and destination must match, or the files could be misdirected.",
+          "The contractors refuse to move any crate that lacks a label.",
+          "The labels have to be printed in two languages.",
+          "The IT vendor needs the codes in order to disconnect the equipment."
+        ],
+        "answer": "A",
+        "translation": "Vì sao bà Adeyemi muốn xác nhận phân bổ tầng trước khi dán nhãn thùng? — Mã bộ phận và điểm đến phải khớp nhau, nếu không hồ sơ có thể bị chuyển nhầm.",
+        "explanation": "Bà nêu nghi vấn Legal ở tầng 3 toà B có thể trùng với chỗ để đồ của Finance, rồi nói 'Could you confirm the allocation before we label the crates, as the department code must appear on every label' — nhãn phải ghi đúng đích đến, nên phân bổ sai sẽ khiến hồ sơ đi nhầm. Điều này kết hợp quy định dán nhãn ở Tài liệu 1 với băn khoăn ở Tài liệu 3.",
+        "vocab": [
+          ["misdirect", "v.", "chuyển nhầm hướng"],
+          ["earmark", "v.", "dành riêng cho mục đích nào đó"],
+          ["out of sequence", "adj. phr.", "sai thứ tự"]
+        ]
+      },
+      {
+        "n": 200,
+        "q": "Based on the notice and allocation notes, staff are required to do all of the following EXCEPT",
+        "options": [
+          "clear personal workstations before the end of May",
+          "identify each packed crate with an intranet department code and destination floor",
+          "schedule lift usage for moving crates outside daytime contractor hours",
+          "disconnect and label desktop IT hardware prior to vendor pickup"
+        ],
+        "answer": "D",
+        "translation": "Dựa theo thông báo và ghi chú phân bổ, nhân viên được yêu cầu làm tất cả các việc sau NGOẠI TRỪ: tự ngắt kết nối và dán nhãn thiết bị IT để bàn trước khi nhà cung cấp đến lấy.",
+        "explanation": "Thông báo nêu rõ thiết bị IT (màn hình, dock, điện thoại bàn) 'must not be disconnected or packed by staff. The approved vendor will dismantle, label and transport all such items', nên D trái với quy định. Các ý A (rời đi trước 30/5 và dọn đồ cá nhân trên bàn), B (dán nhãn mã bộ phận trên danh bạ nội bộ và tầng đích) và C (chỉ dùng thang hàng ngoài khung 07:00–16:00) đều được yêu cầu.",
+        "vocab": [
+          ["approved vendor", "n. phr.", "nhà cung cấp được phê duyệt"],
+          ["dismantle", "v.", "tháo dỡ"],
+          ["workstation", "n.", "bàn/vị trí làm việc"]
+        ]
+      }
+    ]
+  }
+]

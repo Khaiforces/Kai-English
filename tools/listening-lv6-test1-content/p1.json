@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "imageType": "office_laptop",
+    "imageCaption": "Một nữ nhân viên đeo đồng hồ đang ngồi tại bàn làm việc bằng gỗ và nhìn vào màn hình máy tính xách tay đang mở; trên bàn có cốc sứ, sổ tay và tờ tài liệu có biểu đồ.",
+    "imageUrl": "listening/images/test-04/part1/q1.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A wristwatch is being unclasped from a professional's arm.",
+      "A ceramic mug has been positioned beside an open notebook.",
+      "Graphical handouts are being shredded beside the workstation.",
+      "The lid of the portable computer is being folded shut."
+    ],
+    "correct": "B",
+    "translation": "(A) Một chiếc đồng hồ đeo tay đang được tháo chốt khỏi cánh tay của một nhân viên chuyên nghiệp.\n(B) Một chiếc cốc sứ đã được đặt bên cạnh cuốn sổ tay đang mở.\n(C) Các tờ tài liệu biểu đồ đang bị cắt hủy bên cạnh bàn làm việc.\n(D) Nắp của chiếc máy tính xách tay đang được gập đóng lại.",
+    "explanation": "Đáp án đúng là B ('A ceramic mug has been positioned beside an open notebook' - dùng cấu trúc hiện tại hoàn thành bị động diễn tả trạng thái tĩnh của đồ vật trên bàn). Bẫy C1–C2: (A) và (D) dùng bị động tiếp diễn ('is being unclasped', 'is being folded shut') sai với thực tế nhân vật đang đeo đồng hồ và mở laptop làm việc; (C) sai hành động ('are being shredded').",
+    "vocab": [
+      ["unclasp", "v", "tháo chốt, mở khóa cài"],
+      ["ceramic", "adj", "bằng gốm, sứ"],
+      ["workstation", "n", "bàn làm việc, trạm làm việc"]
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "imageType": "calendar_meeting",
+    "imageCaption": "Một người phụ nữ mặc áo khoác vest đứng giơ tay cầm bút dạ viết lên tấm lịch treo tường tháng Mười phía trên bàn họp; trên bàn có cốc, sổ lò xo và tập hồ sơ.",
+    "imageUrl": "listening/images/test-04/part1/q2.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "A wall-mounted schedule is being annotated with a felt-tip marker.",
+      "A spiral-bound pad is being detached from its wire binding.",
+      "The blazer is being draped across the backrest of a swivel chair.",
+      "A planner is being dismounted from the partition wall."
+    ],
+    "correct": "A",
+    "translation": "(A) Một tấm lịch biểu gắn tường đang được ghi chú bằng bút dạ.\n(B) Một cuốn sổ đóng gáy lò xo đang bị tháo rời khỏi phần khung dây kim loại.\n(C) Chiếc áo khoác vest đang được vắt ngang qua tựa lưng của một chiếc ghế xoay.\n(D) Một tấm lịch kế hoạch đang được tháo dỡ khỏi vách ngăn tường.",
+    "explanation": "Đáp án đúng là A ('A wall-mounted schedule is being annotated with a felt-tip marker' - bị động tiếp diễn tương đương với hành động người phụ nữ đang cầm bút dạ viết lên tấm lịch treo tường). Bẫy C1–C2: (B) bẫy chi tiết sổ lò xo ('spiral-bound pad') có trên bàn nhưng không ai tháo rời ('being detached'); (C) bẫy trang phục ('blazer' đang được mặc trên người chứ không phải 'being draped'); (D) sai động từ 'dismounted' (tháo dỡ xuống).",
+    "vocab": [
+      ["annotate", "v", "chú thích, ghi chú"],
+      ["spiral-bound", "adj", "đóng gáy lò xo"],
+      ["drape", "v", "vắt, treo rủ xuống"]
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "imageType": "shipping_contract",
+    "imageCaption": "Trên bàn gỗ trong kho hàng có một thùng các-tông đang mở nắp, bên cạnh là hai tờ chứng từ vận chuyển và một dụng cụ cắt băng dính cùng cuộn băng keo.",
+    "imageUrl": "listening/images/test-04/part1/q3.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Adhesive tape is being applied to seal the corrugated carton.",
+      "The freight manifests are being fed into a document scanner.",
+      "A packing dispenser has been left adjacent to an unsealed crate.",
+      "Cardboard flaps are being tucked inward by a warehouse clerk."
+    ],
+    "correct": "C",
+    "translation": "(A) Băng dính đang được dán lên để niêm phong thùng các-tông sóng.\n(B) Các bản kê khai hàng hóa đang được đưa vào máy quét tài liệu.\n(C) Một dụng cụ cắt băng keo đóng gói đã được để lại kế bên một chiếc thùng chưa niêm phong.\n(D) Các mép nắp bìa cứng đang được một nhân viên kho hàng gập vào trong.",
+    "explanation": "Đáp án đúng là C ('A packing dispenser has been left adjacent to an unsealed crate' - mô tả chính xác trạng thái tĩnh của dụng cụ cắt băng dính nằm cạnh chiếc thùng đang mở nắp). Bẫy kinh điển Part 1 đối với ảnh không có người: mọi phương án dùng bị động tiếp diễn ('is being applied', 'are being fed', 'are being tucked') trong (A), (B), (D) đều sai vì không có tác nhân thực hiện hành động tại thời điểm chụp.",
+    "vocab": [
+      ["corrugated", "adj", "có lớp sóng (bìa các-tông)"],
+      ["manifest", "n", "bản kê khai hàng hóa vận chuyển"],
+      ["dispenser", "n", "dụng cụ cắt/nhả (băng keo)"]
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "imageType": "conference_badges",
+    "imageCaption": "Bốn người mặc trang phục công sở đang đứng trò chuyện thành một nhóm trước màn chiếu trong hội trường; mỗi người đều đeo thẻ tên trên dây đeo cổ.",
+    "imageUrl": "listening/images/test-04/part1/q4.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Identification lanyards are being distributed at the registration kiosk.",
+      "Attendees have gathered in a cluster in front of a projection screen.",
+      "The delegates are taking their seats in the auditorium rows.",
+      "A podium microphone is being calibrated for the keynote speaker."
+    ],
+    "correct": "B",
+    "translation": "(A) Các dây đeo thẻ định danh đang được phát tại quầy đăng ký.\n(B) Những người tham dự đã tập hợp thành một nhóm phía trước màn chiếu.\n(C) Các đại biểu đang ngồi vào chỗ của mình ở các hàng ghế hội trường.\n(D) Một chiếc micro trên bục phát biểu đang được hiệu chỉnh cho diễn giả chính.",
+    "explanation": "Đáp án đúng là B ('Attendees have gathered in a cluster in front of a projection screen' - dùng hiện tại hoàn thành diễn tả kết quả hành động bốn người đang đứng tụ họp trước màn chiếu). Bẫy trạng thái tĩnh vs hành động: (A) thẻ tên đang được đeo sẵn trên cổ chứ không phải đang được phát ('being distributed'); (C) bẫy 'taking their seats' (đang ngồi xuống) trong khi cả nhóm đang đứng; (D) suy diễn chi tiết không có trong hình.",
+    "vocab": [
+      ["lanyard", "n", "dây đeo cổ (thẻ tên)"],
+      ["cluster", "n", "cụm, nhóm tụ tập"],
+      ["calibrate", "v", "hiệu chuẩn, cân chỉnh"]
+    ]
+  },
+  {
+    "id": 5,
+    "part": 1,
+    "imageType": "office_meeting",
+    "imageCaption": "Các nhân viên ngồi quanh bàn họp bằng gỗ nhìn về phía màn chiếu lớn đang hiển thị biểu đồ tăng trưởng doanh số theo quý; trên bàn có sổ tay và bút.",
+    "imageUrl": "listening/images/test-04/part1/q5.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "The conference participants are oriented toward a visual display.",
+      "Quarterly fiscal figures are being erased from the whiteboard.",
+      "Stationery is being cleared away from the timber tabletop.",
+      "The projection apparatus is being suspended from the ceiling grid."
+    ],
+    "correct": "A",
+    "translation": "(A) Những người tham gia cuộc họp đang hướng về phía màn hình hiển thị trực quan.\n(B) Các số liệu tài chính hàng quý đang bị xóa khỏi bảng trắng.\n(C) Văn phòng phẩm đang được dọn dẹp khỏi mặt bàn gỗ.\n(D) Thiết bị máy chiếu đang được treo lên khung lưới trần nhà.",
+    "explanation": "Đáp án đúng là A ('The conference participants are oriented toward a visual display' - cấu trúc phân từ chỉ tư thế/hướng nhìn của các nhân viên quanh bàn họp về phía màn chiếu biểu đồ). Bẫy C1–C2: (B) sai hành động 'being erased'; (C) sổ tay và bút ('stationery') đang nằm yên trên bàn chứ không phải 'being cleared away'; (D) bẫy bị động tiếp diễn 'is being suspended' (đang được lắp/treo lên).",
+    "vocab": [
+      ["oriented", "adj", "định hướng, hướng về phía"],
+      ["stationery", "n", "văn phòng phẩm (sổ, bút, giấy)"],
+      ["apparatus", "n", "thiết bị, máy móc chuyên dụng"]
+    ]
+  },
+  {
+    "id": 6,
+    "part": 1,
+    "imageType": "cafe_outdoor",
+    "imageCaption": "Hàng loạt bàn ghế khung kim loại được đặt ở sân ngoài trời phía dưới các chiếc ô che nắng cỡ lớn đã mở; một số khách đang ngồi tại các bàn phía sau.",
+    "imageUrl": "listening/images/test-04/part1/q6.jpg",
+    "questionText": "Look at the picture and choose the statement that best describes it.",
+    "options": [
+      "Patio parasols are being cranked open by the hospitality staff.",
+      "Metallic seating has been arranged beneath overhead canopies.",
+      "The outdoor terrace is completely devoid of any patrons.",
+      "Stackable chairs are being piled onto a maintenance trolley."
+    ],
+    "correct": "B",
+    "translation": "(A) Những chiếc ô che nắng ngoài sân đang được nhân viên phục vụ quay tay mở ra.\n(B) Bộ bàn ghế kim loại đã được sắp xếp bên dưới những tán dù che phía trên.\n(C) Khu vực sân hiên ngoài trời hoàn toàn không có bất kỳ vị khách nào.\n(D) Những chiếc ghế xếp chồng đang được chất lên xe đẩy bảo trì.",
+    "explanation": "Đáp án đúng là B ('Metallic seating has been arranged beneath overhead canopies' - hiện tại hoàn thành bị động mô tả trạng thái bàn ghế kim loại được bố trí dưới các tán ô che nắng đã mở). Bẫy C1–C2: (A) bẫy bị động tiếp diễn 'are being cranked open' (ô đã mở sẵn, không có nhân viên đang quay mở); (C) bẫy tuyệt đối hóa 'completely devoid of any patrons' (trái với việc có khách đang ngồi ở các bàn phía sau); (D) sai hành động 'being piled'.",
+    "vocab": [
+      ["parasol", "n", "ô, dù che nắng cỡ lớn"],
+      ["canopy", "n", "tán che, mái vòm che"],
+      ["devoid", "adj", "hoàn toàn trống rỗng, không có (devoid of)"]
+    ]
+  }
+]

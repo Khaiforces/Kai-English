@@ -1,0 +1,821 @@
+[
+  {
+    "id": 32,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Henrik, the facilities director at Meridian Capital just called about the open-concept reception area we redesigned for their third floor. She's thrilled with the layout, but staff at the front desk are complaining about an intense acoustic echo.\nMan: That makes sense given the floor-to-ceiling glass walls and polished concrete floors. Have you considered recommending full-height glass partitions around the reception pods?\nWoman: Actually, I looked into that, and any structural partition reaching the ceiling would trigger a municipal building-code reassessment and delay their move-in by six weeks.\nMan: Good catch. In that case, suspended felt acoustic baffles overhead combined with sound-absorbing wall panels would dampen the noise without altering the floor plan.\nWoman: That's much smarter. I'll pull together three fabric swatches and ceiling mount diagrams to email her before noon.",
+    "questionText": "What problem at the client's office are the speakers discussing?",
+    "options": [
+      "Delayed shipments of reception desk furniture",
+      "Excessive sound reflection in a newly designed space",
+      "Insufficient natural lighting on the third floor",
+      "Cracks appearing in a concrete entryway"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Hai người đang thảo luận về vấn đề gì tại văn phòng của khách hàng?\n(A) Các lô bàn lễ tân bị giao chậm tiến độ\n(B) Hiện tượng dội âm quá mức tại một không gian mới thiết kế\n(C) Thiếu ánh sáng tự nhiên trên tầng ba\n(D) Các vết nứt xuất hiện ở lối vào lát bê tông",
+    "explanation": "Người phụ nữ cho biết nhân viên lễ tân phàn nàn về 'an intense acoustic echo' (tiếng vang âm thanh mạnh) tại khu vực sảnh chờ mới thiết kế, tương ứng paraphrase 'excessive sound reflection' ở (B). (A) sai vì không nhắc đến việc giao nội thất trễ; (C) sai vì nhắc tới tường kính nhưng không nói thiếu sáng; (D) là bẫy từ vựng từ 'polished concrete floors'.",
+    "vocab": [
+      ["open-concept", "adj.", "thiết kế không gian mở"],
+      ["acoustic echo", "n.", "tiếng vang âm học"],
+      ["polished concrete", "n.", "bê tông đánh bóng"]
+    ]
+  },
+  {
+    "id": 33,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Henrik, the facilities director at Meridian Capital just called about the open-concept reception area we redesigned for their third floor. She's thrilled with the layout, but staff at the front desk are complaining about an intense acoustic echo.\nMan: That makes sense given the floor-to-ceiling glass walls and polished concrete floors. Have you considered recommending full-height glass partitions around the reception pods?\nWoman: Actually, I looked into that, and any structural partition reaching the ceiling would trigger a municipal building-code reassessment and delay their move-in by six weeks.\nMan: Good catch. In that case, suspended felt acoustic baffles overhead combined with sound-absorbing wall panels would dampen the noise without altering the floor plan.\nWoman: That's much smarter. I'll pull together three fabric swatches and ceiling mount diagrams to email her before noon.",
+    "questionText": "Why does the woman reject the idea of installing full-height partitions?",
+    "options": [
+      "They would block access to electrical outlets.",
+      "They would exceed the client's budget for custom glass.",
+      "They would require extra regulatory approval and delay move-in.",
+      "They are back-ordered from the preferred supplier."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ bác bỏ ý tưởng lắp vách ngăn kịch trần?\n(A) Chúng sẽ chắn lối tiếp cận các ổ cắm điện.\n(B) Chúng sẽ vượt ngân sách của khách hàng cho kính đặt riêng.\n(C) Chúng sẽ đòi hỏi phê duyệt quy định bổ sung và làm chậm ngày dọn vào.\n(D) Chúng đang hết hàng từ nhà cung cấp ưu tiên.",
+    "explanation": "Người phụ nữ giải thích vách ngăn chạm trần 'would trigger a municipal building-code reassessment and delay their move-in by six weeks' (buộc phải thẩm định lại quy chuẩn xây dựng thành phố và dời ngày dọn vào thêm sáu tuần), khớp với (C). (A), (B) và (D) không được đề cập trong hội thoại.",
+    "vocab": [
+      ["partition", "n.", "vách ngăn"],
+      ["building code", "n.", "quy chuẩn xây dựng"],
+      ["reassessment", "n.", "sự đánh giá, thẩm định lại"]
+    ]
+  },
+  {
+    "id": 34,
+    "part": 3,
+    "passageTitle": "Questions 32-34 refer to the following conversation:",
+    "audioScript": "Woman: Henrik, the facilities director at Meridian Capital just called about the open-concept reception area we redesigned for their third floor. She's thrilled with the layout, but staff at the front desk are complaining about an intense acoustic echo.\nMan: That makes sense given the floor-to-ceiling glass walls and polished concrete floors. Have you considered recommending full-height glass partitions around the reception pods?\nWoman: Actually, I looked into that, and any structural partition reaching the ceiling would trigger a municipal building-code reassessment and delay their move-in by six weeks.\nMan: Good catch. In that case, suspended felt acoustic baffles overhead combined with sound-absorbing wall panels would dampen the noise without altering the floor plan.\nWoman: That's much smarter. I'll pull together three fabric swatches and ceiling mount diagrams to email her before noon.",
+    "questionText": "What will the woman most likely do before noon?",
+    "options": [
+      "Email material samples and mounting diagrams to the client",
+      "Schedule an on-site inspection with a city official",
+      "Order sound-absorbing panels for the architectural studio",
+      "Redesign the floor plan for the entire third floor"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ nhiều khả năng sẽ làm gì trước buổi trưa?\n(A) Gửi qua email các mẫu vật liệu và sơ đồ lắp đặt cho khách hàng\n(B) Lên lịch kiểm tra hiện trường với một viên chức thành phố\n(C) Đặt mua tấm tiêu âm cho văn phòng kiến trúc\n(D) Thiết kế lại mặt bằng cho toàn bộ tầng ba",
+    "explanation": "Ở lượt lời cuối, người phụ nữ nói: 'I'll pull together three fabric swatches and ceiling mount diagrams to email her before noon' (gửi mẫu vải và sơ đồ gắn trần qua email cho giám đốc cơ sở vật chất của khách hàng trước trưa), khớp với (A). (B) là bẫy từ 'municipal building-code'; (C) sai vì tấm tiêu âm dùng cho khách hàng, không phải đặt cho studio; (D) sai vì người đàn ông nhấn mạnh 'without altering the floor plan'.",
+    "vocab": [
+      ["acoustic baffle", "n.", "tấm tiêu âm treo trần"],
+      ["dampen", "v.", "làm giảm, làm dịu (âm thanh)"],
+      ["swatch", "n.", "mẫu vải, mẫu vật liệu"]
+    ]
+  },
+  {
+    "id": 35,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Good morning, Rachel. I just checked the tracking portal for the hydraulic valves coming in from Rotterdam, and the container is still sitting at the Savannah port terminal.\nWoman: Yes, I spoke with our customs broker twenty minutes ago. Apparently, the shipment was flagged because the manufacturer's certificate of origin lacks an authorized chamber-of-commerce stamp.\nMan: Can the supplier in the Netherlands courier a corrected original today?\nWoman: They're arranging that now, though express international mail won't clear customs until Friday morning at the earliest.\nMan: Friday might work if we prioritize unloading once it's released.\nWoman: Actually, Devon, that's a problem. Our assembly line only has enough inventory through Thursday afternoon. We'd better book an emergency air-freight batch of two hundred units right away.",
+    "questionText": "Why is the container currently held at the port?",
+    "options": [
+      "The cargo vessel missed its scheduled docking window.",
+      "An inspection revealed defects in several hydraulic valves.",
+      "A required trade document is missing official validation.",
+      "Import tariffs were calculated using an outdated rate."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao công-ten-nơ hàng hiện đang bị giữ lại tại cảng?\n(A) Tàu chở hàng bị lỡ khung giờ cập bến theo lịch.\n(B) Một cuộc kiểm tra phát hiện lỗi ở nhiều van thủy lực.\n(C) Một chứng từ thương mại bắt buộc bị thiếu xác nhận chính thức.\n(D) Thuế nhập khẩu bị tính theo biểu thuế cũ.",
+    "explanation": "Người phụ nữ cho biết lô hàng bị giữ ('was flagged') do 'the manufacturer's certificate of origin lacks an authorized chamber-of-commerce stamp' (giấy chứng nhận xuất xứ thiếu con dấu hợp lệ của phòng thương mại), khớp với (C). (A), (B) và (D) đều không được đề cập.",
+    "vocab": [
+      ["customs broker", "n.", "đại lý khai báo hải quan"],
+      ["certificate of origin", "n.", "giấy chứng nhận xuất xứ"],
+      ["prioritize", "v.", "ưu tiên"]
+    ]
+  },
+  {
+    "id": 36,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Good morning, Rachel. I just checked the tracking portal for the hydraulic valves coming in from Rotterdam, and the container is still sitting at the Savannah port terminal.\nWoman: Yes, I spoke with our customs broker twenty minutes ago. Apparently, the shipment was flagged because the manufacturer's certificate of origin lacks an authorized chamber-of-commerce stamp.\nMan: Can the supplier in the Netherlands courier a corrected original today?\nWoman: They're arranging that now, though express international mail won't clear customs until Friday morning at the earliest.\nMan: Friday might work if we prioritize unloading once it's released.\nWoman: Actually, Devon, that's a problem. Our assembly line only has enough inventory through Thursday afternoon. We'd better book an emergency air-freight batch of two hundred units right away.",
+    "questionText": "What is the supplier in the Netherlands doing today?",
+    "options": [
+      "Refunding shipping charges for the delayed cargo",
+      "Transferring the container to a different port terminal",
+      "Sending a technician to assist with valve assembly",
+      "Sending a properly certified document by express courier"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Nhà cung cấp tại Hà Lan đang làm gì trong hôm nay?\n(A) Hoàn trả phí vận chuyển cho lô hàng bị trễ\n(B) Chuyển công-ten-nơ sang một bến cảng khác\n(C) Cử kỹ thuật viên sang hỗ trợ lắp ráp van\n(D) Gửi chứng từ đã xác thực đúng quy cách bằng chuyển phát nhanh",
+    "explanation": "Khi người đàn ông hỏi 'Can the supplier in the Netherlands courier a corrected original today?', người phụ nữ đáp 'They're arranging that now' (họ đang thu xếp gửi bản gốc đã sửa qua chuyển phát nhanh ngay lúc này), trùng khớp với (D). Các phương án (A), (B), (C) không xuất hiện trong bài.",
+    "vocab": [
+      ["tracking portal", "n.", "cổng thông tin theo dõi vận đơn"],
+      ["hydraulic valve", "n.", "van thủy lực"],
+      ["clear customs", "phr.", "thông quan"]
+    ]
+  },
+  {
+    "id": 37,
+    "part": 3,
+    "passageTitle": "Questions 35-37 refer to the following conversation:",
+    "audioScript": "Man: Good morning, Rachel. I just checked the tracking portal for the hydraulic valves coming in from Rotterdam, and the container is still sitting at the Savannah port terminal.\nWoman: Yes, I spoke with our customs broker twenty minutes ago. Apparently, the shipment was flagged because the manufacturer's certificate of origin lacks an authorized chamber-of-commerce stamp.\nMan: Can the supplier in the Netherlands courier a corrected original today?\nWoman: They're arranging that now, though express international mail won't clear customs until Friday morning at the earliest.\nMan: Friday might work if we prioritize unloading once it's released.\nWoman: Actually, Devon, that's a problem. Our assembly line only has enough inventory through Thursday afternoon. We'd better book an emergency air-freight batch of two hundred units right away.",
+    "questionText": "What does the woman mean when she says, \"Our assembly line only has enough inventory through Thursday afternoon\"?",
+    "options": [
+      "Factory staff will take Friday off for scheduled maintenance.",
+      "Production will run out of parts before the sea shipment is released.",
+      "The warehouse lacks space to store another large delivery.",
+      "Two hundred defective valves must be returned by Thursday."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói: \"Dây chuyền lắp ráp của chúng ta chỉ còn đủ hàng tồn kho đến hết chiều thứ Năm\"?\n(A) Nhân viên nhà máy sẽ nghỉ thứ Sáu để bảo trì định kỳ.\n(B) Hoạt động sản xuất sẽ cạn linh kiện trước khi lô hàng đường biển được giải phóng.\n(C) Nhà kho không đủ chỗ chứa thêm một đợt giao hàng lớn.\n(D) Hai trăm van lỗi phải được trả lại trước thứ Năm.",
+    "explanation": "Người đàn ông nghĩ thứ Sáu giao hàng là ổn, nhưng người phụ nữ bác lại rằng dây chuyền chỉ đủ linh kiện đến chiều thứ Năm và cần đặt vận chuyển hàng không khẩn cấp. Suy ra nếu chờ đến sáng thứ Sáu mới thông quan thì dây chuyền sẽ hết linh kiện, khớp với (B). (D) là bẫy nghe nhầm con số 'two hundred units' đặt bằng đường hàng không.",
+    "vocab": [
+      ["assembly line", "n.", "dây chuyền lắp ráp"],
+      ["inventory", "n.", "hàng tồn kho, linh kiện dự trữ"],
+      ["air-freight", "n./adj.", "vận chuyển hàng không"]
+    ]
+  },
+  {
+    "id": 38,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Trevor and Mei, thanks for meeting in the east wing before opening. The humidity sensors spiked overnight due to a condensation leak in the ceiling duct.\nMan: Facilities sealed the valve, Elena, though climate levels here won't stabilize until tomorrow afternoon. That's risky for the seventeenth-century silk scrolls.\nWoman 2: Agreed. Instead of delaying Friday's gala, my conservation team already moved the protective display cases up to the mezzanine gallery, where readings are steady.\nWoman: Great call. Can the ceramic pieces remain in this room?\nWoman 2: Yes, glazed stoneware tolerates brief humidity shifts once the floor dries.\nMan: Then I'll adjust the ultraviolet track lights on the mezzanine this afternoon so the textiles aren't overexposed.",
+    "questionText": "Where do the speakers most likely work?",
+    "options": [
+      "At a luxury textile manufacturer",
+      "At a commercial real estate agency",
+      "At a climate-testing laboratory",
+      "At a fine arts museum"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Những người nói nhiều khả năng làm việc ở đâu?\n(A) Tại một xưởng dệt vải cao cấp\n(B) Tại một công ty môi giới bất động sản thương mại\n(C) Tại một phòng thí nghiệm kiểm tra khí hậu\n(D) Tại một bảo tàng mỹ thuật",
+    "explanation": "Các từ khóa như 'seventeenth-century silk scrolls' (tranh cuộn lụa thế kỷ 17), 'conservation team' (đội ngũ bảo tồn), 'mezzanine gallery' (phòng trưng bày tầng lửng), 'glazed stoneware' (đồ gốm tráng men) và 'ultraviolet track lights' cho thấy họ làm việc tại một bảo tàng mỹ thuật, tức (D). (A) và (C) là bẫy từ 'silk textiles' và 'humidity sensors'.",
+    "vocab": [
+      ["humidity sensor", "n.", "cảm biến độ ẩm"],
+      ["conservation", "n.", "công tác bảo tồn (hiện vật)"],
+      ["mezzanine", "n.", "tầng lửng"]
+    ]
+  },
+  {
+    "id": 39,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Trevor and Mei, thanks for meeting in the east wing before opening. The humidity sensors spiked overnight due to a condensation leak in the ceiling duct.\nMan: Facilities sealed the valve, Elena, though climate levels here won't stabilize until tomorrow afternoon. That's risky for the seventeenth-century silk scrolls.\nWoman 2: Agreed. Instead of delaying Friday's gala, my conservation team already moved the protective display cases up to the mezzanine gallery, where readings are steady.\nWoman: Great call. Can the ceramic pieces remain in this room?\nWoman 2: Yes, glazed stoneware tolerates brief humidity shifts once the floor dries.\nMan: Then I'll adjust the ultraviolet track lights on the mezzanine this afternoon so the textiles aren't overexposed.",
+    "questionText": "What does Mei say she has already arranged?",
+    "options": [
+      "Postponing the opening gala until next week",
+      "Relocating display cases to another exhibition space",
+      "Installing upgraded humidity sensors in the east wing",
+      "Returning the silk scrolls to a climate-controlled vault"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Cô Mei nói cô ấy đã thu xếp xong việc gì?\n(A) Dời buổi tiệc khai mạc sang tuần sau\n(B) Di dời các tủ trưng bày sang một không gian triển lãm khác\n(C) Lắp đặt cảm biến độ ẩm nâng cấp ở cánh phía đông\n(D) Đưa các cuộn tranh lụa trở lại kho bảo quản",
+    "explanation": "Người phụ nữ thứ hai (Mei) nói: 'my conservation team already moved the protective display cases up to the mezzanine gallery' (đội bảo tồn của tôi đã chuyển các tủ kính bảo vệ lên phòng trưng bày tầng lửng rồi), khớp với (B). (A) sai vì họ làm vậy để tránh dời buổi gala ('Instead of delaying Friday's gala'). (C) và (D) không được nhắc tới.",
+    "vocab": [
+      ["condensation", "n.", "hiện tượng ngưng tụ hơi nước"],
+      ["display case", "n.", "tủ trưng bày"],
+      ["glazed stoneware", "n.", "đồ gốm sành tráng men"]
+    ]
+  },
+  {
+    "id": 40,
+    "part": 3,
+    "passageTitle": "Questions 38-40 refer to the following conversation:",
+    "audioScript": "Woman: Trevor and Mei, thanks for meeting in the east wing before opening. The humidity sensors spiked overnight due to a condensation leak in the ceiling duct.\nMan: Facilities sealed the valve, Elena, though climate levels here won't stabilize until tomorrow afternoon. That's risky for the seventeenth-century silk scrolls.\nWoman 2: Agreed. Instead of delaying Friday's gala, my conservation team already moved the protective display cases up to the mezzanine gallery, where readings are steady.\nWoman: Great call. Can the ceramic pieces remain in this room?\nWoman 2: Yes, glazed stoneware tolerates brief humidity shifts once the floor dries.\nMan: Then I'll adjust the ultraviolet track lights on the mezzanine this afternoon so the textiles aren't overexposed.",
+    "questionText": "What will the man do this afternoon?",
+    "options": [
+      "Modify lighting levels in the mezzanine gallery",
+      "Repair a leaking valve in the ceiling duct",
+      "Dry moisture off the glazed ceramic pieces",
+      "Update invitation flyers for Friday's gala"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì vào chiều nay?\n(A) Điều chỉnh cường độ chiếu sáng tại phòng trưng bày tầng lửng\n(B) Sửa van bị rò rỉ trong ống thông gió trên trần\n(C) Lau khô hơi ẩm trên các hiện vật gốm tráng men\n(D) Cập nhật tờ rơi mời cho buổi tiệc tối thứ Sáu",
+    "explanation": "Ở lượt cuối, người đàn ông nói: 'I'll adjust the ultraviolet track lights on the mezzanine this afternoon so the textiles aren't overexposed', khớp với (A). (B) sai vì bộ phận cơ sở vật chất đã khóa van rồi ('Facilities sealed the valve'). (C) và (D) không đúng thông tin bài nghe.",
+    "vocab": [
+      ["track light", "n.", "đèn rọi ray"],
+      ["overexpose", "v.", "chiếu sáng quá mức"],
+      ["stabilize", "v.", "ổn định"]
+    ]
+  },
+  {
+    "id": 41,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Hi, Graham, this is Tessa calling from Westlake Pharmaceuticals regarding Thursday's executive luncheon for forty-five guests.\nMan: Hello, Tessa. We have your menu finalized for twelve-thirty. Did you need to adjust the head count?\nWoman: No, the guest total is still forty-five, but our board moved the afternoon strategy session up to one-fifteen, so we'll need lunch served at eleven-forty-five instead. Also, six directors just reported severe tree-nut allergies.\nMan: Moving service up forty-five minutes is totally manageable. As for the allergy concern. Our kitchen team can swap the walnut glaze for a roasted herb reduction at no extra charge.\nWoman: Wonderful. Could you email me an updated timeline and ingredient list for our compliance file by five o'clock?",
+    "questionText": "What schedule change does the woman request?",
+    "options": [
+      "Serving the luncheon earlier than originally planned",
+      "Canceling afternoon refreshments for the board meeting",
+      "Increasing the reservation to accommodate more directors",
+      "Moving the corporate event from Thursday to Friday"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người phụ nữ yêu cầu thay đổi lịch trình nào?\n(A) Phục vụ bữa tiệc trưa sớm hơn so với kế hoạch ban đầu\n(B) Hủy phần tiệc nhẹ buổi chiều cho cuộc họp hội đồng\n(C) Tăng số lượng đặt bàn để phục vụ thêm giám đốc\n(D) Dời sự kiện công ty từ thứ Năm sang thứ Sáu",
+    "explanation": "Ban đầu bữa trưa dự kiến lúc 12:30, nhưng người phụ nữ đề nghị: 'we'll need lunch served at eleven-forty-five instead' (chúng tôi cần phục vụ bữa trưa vào 11:45), tức sớm hơn 45 phút so với dự kiến, khớp với (A). (C) sai vì cô ấy khẳng định 'the guest total is still forty-five'. (B) và (D) không được đề cập.",
+    "vocab": [
+      ["luncheon", "n.", "tiệc trưa trang trọng"],
+      ["head count", "n.", "tổng số người tham dự"],
+      ["strategy session", "n.", "phiên họp chiến lược"]
+    ]
+  },
+  {
+    "id": 42,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Hi, Graham, this is Tessa calling from Westlake Pharmaceuticals regarding Thursday's executive luncheon for forty-five guests.\nMan: Hello, Tessa. We have your menu finalized for twelve-thirty. Did you need to adjust the head count?\nWoman: No, the guest total is still forty-five, but our board moved the afternoon strategy session up to one-fifteen, so we'll need lunch served at eleven-forty-five instead. Also, six directors just reported severe tree-nut allergies.\nMan: Moving service up forty-five minutes is totally manageable. As for the allergy concern. Our kitchen team can swap the walnut glaze for a roasted herb reduction at no extra charge.\nWoman: Wonderful. Could you email me an updated timeline and ingredient list for our compliance file by five o'clock?",
+    "questionText": "Why must part of the original menu be modified?",
+    "options": [
+      "Fresh walnuts are currently out of season.",
+      "The client asked to lower the catering bill.",
+      "Several attendees have specific dietary restrictions.",
+      "Kitchen staff need less time to prepare the sauces."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao một phần thực đơn ban đầu phải được điều chỉnh?\n(A) Quả óc chó tươi hiện đang trái mùa.\n(B) Khách hàng yêu cầu giảm hóa đơn đặt tiệc.\n(C) Một số người tham dự có hạn chế ăn uống đặc biệt.\n(D) Nhân viên bếp cần rút ngắn thời gian nấu nước xốt.",
+    "explanation": "Người phụ nữ cho biết: 'six directors just reported severe tree-nut allergies' (sáu giám đốc vừa báo bị dị ứng nặng với các loại hạt cây), được paraphrase thành 'specific dietary restrictions' (các hạn chế ăn uống đặc biệt) ở (C). (A), (B), (D) đều không có trong hội thoại.",
+    "vocab": [
+      ["tree-nut allergy", "n.", "dị ứng các loại hạt thân gỗ"],
+      ["walnut glaze", "n.", "lớp xốt óc chó phủ bóng"],
+      ["herb reduction", "n.", "xốt cô đặc từ thảo mộc"]
+    ]
+  },
+  {
+    "id": 43,
+    "part": 3,
+    "passageTitle": "Questions 41-43 refer to the following conversation:",
+    "audioScript": "Woman: Hi, Graham, this is Tessa calling from Westlake Pharmaceuticals regarding Thursday's executive luncheon for forty-five guests.\nMan: Hello, Tessa. We have your menu finalized for twelve-thirty. Did you need to adjust the head count?\nWoman: No, the guest total is still forty-five, but our board moved the afternoon strategy session up to one-fifteen, so we'll need lunch served at eleven-forty-five instead. Also, six directors just reported severe tree-nut allergies.\nMan: Moving service up forty-five minutes is totally manageable. As for the allergy concern. Our kitchen team can swap the walnut glaze for a roasted herb reduction at no extra charge.\nWoman: Wonderful. Could you email me an updated timeline and ingredient list for our compliance file by five o'clock?",
+    "questionText": "What does the man mean when he says, \"Our kitchen team can swap the walnut glaze for a roasted herb reduction at no extra charge\"?",
+    "options": [
+      "The herb reduction is only available as a paid upgrade.",
+      "The menu change will not increase the client's cost.",
+      "His chefs prefer preparing herb sauces for large groups.",
+      "The client must submit a signed ingredient waiver."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người đàn ông có ý gì khi nói: \"Đội ngũ bếp của chúng tôi có thể đổi lớp xốt óc chó sang xốt thảo mộc nướng mà không tính thêm phí\"?\n(A) Xốt thảo mộc chỉ được cung cấp như một gói nâng cấp tính phí.\n(B) Việc thay đổi thực đơn sẽ không làm tăng chi phí của khách hàng.\n(C) Các đầu bếp thích chế biến xốt thảo mộc cho nhóm đông người hơn.\n(D) Khách hàng phải nộp giấy miễn trừ thành phần có chữ ký.",
+    "explanation": "Cụm 'at no extra charge' đồng nghĩa trực tiếp với 'will not increase the client's cost' (không làm tăng chi phí cho khách hàng) trong (B). (A) trái ngược hoàn toàn; (C) và (D) là thông tin suy diễn sai.",
+    "vocab": [
+      ["at no extra charge", "phr.", "không tính thêm phụ phí"],
+      ["ingredient list", "n.", "danh sách thành phần nguyên liệu"],
+      ["compliance file", "n.", "hồ sơ tuân thủ quy định"]
+    ]
+  },
+  {
+    "id": 44,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Samir, have you logged the blood-sample shipment that arrived from Oakridge Clinic an hour ago?\nMan: I started unpacking it, Renee, and noticed something concerning. The digital temperature indicator inside the thermal cooler flashed red, showing the contents reached eleven degrees Celsius in transit.\nWoman: Eleven degrees? Our testing protocol strictly requires samples to stay below eight. Why did the cooler warm up—did the courier delay delivery?\nMan: Actually, the courier arrived right on schedule. The clinic only packed single-layer gel packs instead of our insulated phase-change bricks, so the cooling wore off halfway here.\nWoman: That compromises sample validity. Please notify Dr. Ortiz at Oakridge so they redraw those specimens, and send their lab nurse our updated cold-packing guide before next week's batch.",
+    "questionText": "What problem does the man report about the incoming shipment?",
+    "options": [
+      "Several glass tubes cracked during unpacking.",
+      "The courier delivered the cooler to the wrong address.",
+      "The shipment forms lacked patient identification codes.",
+      "The samples exceeded the maximum safe temperature."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông báo cáo vấn đề gì về lô hàng vừa chuyển đến?\n(A) Một vài ống thủy tinh bị nứt trong lúc mở hộp.\n(B) Nhân viên giao nhận giao thùng lạnh nhầm địa chỉ.\n(C) Phiếu gửi hàng thiếu mã định danh bệnh nhân.\n(D) Các mẫu phẩm đã vượt quá mức nhiệt độ an toàn tối đa.",
+    "explanation": "Người đàn ông báo thiết bị đo nhiệt độ nhấp nháy đỏ vì mẫu đạt 11 độ Celsius, trong khi người phụ nữ nói quy trình bắt buộc dưới 8 độ Celsius ('strictly requires samples to stay below eight'), khớp với (D). (A), (B) và (C) không được nhắc tới.",
+    "vocab": [
+      ["thermal cooler", "n.", "thùng giữ nhiệt bảo quản lạnh"],
+      ["in transit", "phr.", "trong quá trình vận chuyển"],
+      ["protocol", "n.", "quy trình, phác đồ chuẩn"]
+    ]
+  },
+  {
+    "id": 45,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Samir, have you logged the blood-sample shipment that arrived from Oakridge Clinic an hour ago?\nMan: I started unpacking it, Renee, and noticed something concerning. The digital temperature indicator inside the thermal cooler flashed red, showing the contents reached eleven degrees Celsius in transit.\nWoman: Eleven degrees? Our testing protocol strictly requires samples to stay below eight. Why did the cooler warm up—did the courier delay delivery?\nMan: Actually, the courier arrived right on schedule. The clinic only packed single-layer gel packs instead of our insulated phase-change bricks, so the cooling wore off halfway here.\nWoman: That compromises sample validity. Please notify Dr. Ortiz at Oakridge so they redraw those specimens, and send their lab nurse our updated cold-packing guide before next week's batch.",
+    "questionText": "According to the man, what caused the issue?",
+    "options": [
+      "Traffic forced the courier van to take a detour.",
+      "The clinic used inadequate cooling materials when packing.",
+      "A refrigeration unit inside the lab malfunctioned.",
+      "The parcel sat unattended on a loading dock overnight."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Theo lời người đàn ông, nguyên nhân gây ra sự cố là gì?\n(A) Kẹt xe buộc xe giao hàng phải đi đường vòng.\n(B) Phòng khám đã dùng vật liệu làm lạnh không đạt yêu cầu khi đóng gói.\n(C) Một tủ làm lạnh bên trong phòng thí nghiệm bị hỏng.\n(D) Kiện hàng bị bỏ quên qua đêm trên bến bốc dỡ.",
+    "explanation": "Người đàn ông bác bỏ giả thuyết trễ giao hàng ('the courier arrived right on schedule') và chỉ ra nguyên nhân: 'The clinic only packed single-layer gel packs instead of our insulated phase-change bricks' (chỉ dùng túi gel một lớp thay vì khối giữ lạnh chuyên dụng), khớp với (B).",
+    "vocab": [
+      ["insulated", "adj.", "cách nhiệt"],
+      ["wear off", "phr.", "mất dần tác dụng"],
+      ["validity", "n.", "tính hợp lệ, độ chính xác"]
+    ]
+  },
+  {
+    "id": 46,
+    "part": 3,
+    "passageTitle": "Questions 44-46 refer to the following conversation:",
+    "audioScript": "Woman: Samir, have you logged the blood-sample shipment that arrived from Oakridge Clinic an hour ago?\nMan: I started unpacking it, Renee, and noticed something concerning. The digital temperature indicator inside the thermal cooler flashed red, showing the contents reached eleven degrees Celsius in transit.\nWoman: Eleven degrees? Our testing protocol strictly requires samples to stay below eight. Why did the cooler warm up—did the courier delay delivery?\nMan: Actually, the courier arrived right on schedule. The clinic only packed single-layer gel packs instead of our insulated phase-change bricks, so the cooling wore off halfway here.\nWoman: That compromises sample validity. Please notify Dr. Ortiz at Oakridge so they redraw those specimens, and send their lab nurse our updated cold-packing guide before next week's batch.",
+    "questionText": "What does the woman instruct the man to do?",
+    "options": [
+      "Run diagnostic assays on the usable specimens",
+      "Switch to a faster regional courier service",
+      "Request replacement samples and send packing guidelines",
+      "Purchase additional temperature monitors for the lab"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ chỉ thị cho người đàn ông làm gì?\n(A) Tiến hành phân tích xét nghiệm trên những mẫu còn dùng được\n(B) Chuyển sang một dịch vụ chuyển phát khu vực nhanh hơn\n(C) Yêu cầu lấy lại mẫu thay thế và gửi hướng dẫn đóng gói\n(D) Mua thêm máy theo dõi nhiệt độ cho phòng thí nghiệm",
+    "explanation": "Người phụ nữ yêu cầu: 'notify Dr. Ortiz at Oakridge so they redraw those specimens, and send their lab nurse our updated cold-packing guide' (báo bác sĩ Ortiz lấy lại mẫu mới và gửi cho y tá tài liệu hướng dẫn đóng gói lạnh), khớp hoàn toàn với (C).",
+    "vocab": [
+      ["specimen", "n.", "mẫu vật, mẫu bệnh phẩm"],
+      ["redraw", "v.", "lấy lại (mẫu máu)"],
+      ["batch", "n.", "lô, mẻ hàng"]
+    ]
+  },
+  {
+    "id": 47,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Man: Miriam, the color proofs for our Pacific Northwest architecture volume just came back from the printer, and the hardcover image looks noticeably washed out along the cedar timber facades.\nWoman: Let me see. Hmm, the ink is sinking into the uncoated linen stock they used for the test run. Switching to a matte-coated cover stock will preserve sharp contrast without adding glare.\nMan: Will the printer need extra lead time to source that stock?\nWoman: About six business days, which means we might have to drop the four-page index or push back the official release date by a week.\nMan: We can't miss the Seattle Book Fair—we've already committed to the keynote pavilion. Let's condense the index onto two pages instead.",
+    "questionText": "What defect in the book proofs does the man point out?",
+    "options": [
+      "Several building diagrams were printed on the wrong pages.",
+      "The text font in the index is too faint to read clearly.",
+      "Some hardcover bindings separated during delivery.",
+      "The colors on the cover photograph appear too dull."
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông chỉ ra lỗi gì trong bản in thử của cuốn sách?\n(A) Nhiều sơ đồ công trình bị in nhầm trang.\n(B) Phông chữ trong phần mục lục quá mờ nên khó đọc.\n(C) Một số gáy bìa cứng bị bong ra trong lúc vận chuyển.\n(D) Màu sắc trên ảnh bìa trông bị nhợt nhạt.",
+    "explanation": "Người đàn ông nói: 'the hardcover image looks noticeably washed out along the cedar timber facades' ('washed out' nghĩa là màu sắc bị nhợt nhạt, thiếu độ rực rỡ), tương ứng paraphrase 'appear too dull' ở (D). (A), (B), (C) đều không được đề cập.",
+    "vocab": [
+      ["color proof", "n.", "bản in thử kiểm tra màu"],
+      ["washed out", "adj.", "nhợt nhạt, phai màu"],
+      ["facade", "n.", "mặt tiền công trình"]
+    ]
+  },
+  {
+    "id": 48,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Man: Miriam, the color proofs for our Pacific Northwest architecture volume just came back from the printer, and the hardcover image looks noticeably washed out along the cedar timber facades.\nWoman: Let me see. Hmm, the ink is sinking into the uncoated linen stock they used for the test run. Switching to a matte-coated cover stock will preserve sharp contrast without adding glare.\nMan: Will the printer need extra lead time to source that stock?\nWoman: About six business days, which means we might have to drop the four-page index or push back the official release date by a week.\nMan: We can't miss the Seattle Book Fair—we've already committed to the keynote pavilion. Let's condense the index onto two pages instead.",
+    "questionText": "What solution does the woman recommend for the cover?",
+    "options": [
+      "Applying a glossy plastic laminate over the linen",
+      "Transferring the print job to a local bindery",
+      "Changing the type of paper stock used for printing",
+      "Replacing the timber photo with a monochrome sketch"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người phụ nữ đề xuất giải pháp nào cho phần bìa sách?\n(A) Phủ một lớp màng nhựa bóng lên chất liệu vải lanh\n(B) Chuyển đơn hàng in sang một xưởng đóng sách địa phương\n(C) Đổi loại giấy dùng để in bìa\n(D) Thay bức ảnh gỗ tuyết tùng bằng bản phác thảo đơn sắc",
+    "explanation": "Người phụ nữ gợi ý: 'Switching to a matte-coated cover stock will preserve sharp contrast without adding glare' (chuyển sang giấy bìa tráng mờ để giữ độ tương phản sắc nét mà không bị chói), khớp với (C). (A) sai vì cô ấy muốn tránh chói ('without adding glare'). (B) và (D) không có trong bài.",
+    "vocab": [
+      ["uncoated stock", "n.", "giấy không tráng phủ"],
+      ["matte-coated", "adj.", "tráng phủ mờ (không bóng loáng)"],
+      ["glare", "n.", "ánh chói, độ lóa"]
+    ]
+  },
+  {
+    "id": 49,
+    "part": 3,
+    "passageTitle": "Questions 47-49 refer to the following conversation:",
+    "audioScript": "Man: Miriam, the color proofs for our Pacific Northwest architecture volume just came back from the printer, and the hardcover image looks noticeably washed out along the cedar timber facades.\nWoman: Let me see. Hmm, the ink is sinking into the uncoated linen stock they used for the test run. Switching to a matte-coated cover stock will preserve sharp contrast without adding glare.\nMan: Will the printer need extra lead time to source that stock?\nWoman: About six business days, which means we might have to drop the four-page index or push back the official release date by a week.\nMan: We can't miss the Seattle Book Fair—we've already committed to the keynote pavilion. Let's condense the index onto two pages instead.",
+    "questionText": "How do the speakers plan to stay on schedule for the Seattle Book Fair?",
+    "options": [
+      "By shortening the book's index section",
+      "By launching only a digital version at the event",
+      "By paying the printer an overtime rush fee",
+      "By canceling their booking at the keynote pavilion"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hai người dự định giữ đúng tiến độ cho Hội sách Seattle bằng cách nào?\n(A) Bằng cách rút ngắn phần mục lục của cuốn sách\n(B) Bằng cách chỉ ra mắt phiên bản kỹ thuật số tại sự kiện\n(C) Bằng cách trả phí làm thêm giờ gấp cho nhà in\n(D) Bằng cách hủy đặt gian hàng diễn thuyết chính",
+    "explanation": "Để không trễ Hội sách Seattle, người đàn ông quyết định: 'Let's condense the index onto two pages instead' (rút gọn phần mục lục bốn trang xuống còn hai trang), khớp với 'shortening the book's index section' ở (A). (D) trái ngược với lời anh ấy nói.",
+    "vocab": [
+      ["lead time", "n.", "thời gian chuẩn bị, cung ứng"],
+      ["condense", "v.", "rút gọn, cô đọng"],
+      ["pavilion", "n.", "gian hàng triển lãm lớn"]
+    ]
+  },
+  {
+    "id": 50,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Denise and Owen, thanks for touring the ground-floor suite at Harborview Plaza. Does the space fit your physical therapy clinic's needs, Owen?\nMan 2: The floor plan is ideal, Lucas, though we'd need slip-resistant rubber flooring in the exercise zone and widened doorways for wheelchair access.\nWoman: As the owner's representative, I can approve widening the interior doorways. However, specialized rubber flooring is expensive.\nMan 2: Would ownership contribute a tenant improvement allowance toward those upgrades?\nWoman: We can cover twenty thousand dollars in build-out costs, provided your clinic signs a five-year lease instead of our standard three-year term.\nMan: Owen, I'll prepare cost projections for both lease options tonight so your partners can review them tomorrow.",
+    "questionText": "Who most likely is Owen?",
+    "options": [
+      "A municipal building safety inspector",
+      "A prospective commercial tenant",
+      "A flooring installation contractor",
+      "A property maintenance supervisor"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Anh Owen nhiều khả năng là ai?\n(A) Một thanh tra an toàn xây dựng thành phố\n(B) Một khách hàng tiềm năng thuê mặt bằng thương mại\n(C) Một nhà thầu lắp đặt sàn\n(D) Một giám sát viên bảo trì tòa nhà",
+    "explanation": "Người đàn ông đầu tiên (Lucas) hỏi Owen xem mặt bằng tầng trệt có hợp nhu cầu phòng khám vật lý trị liệu của anh ấy không, và người phụ nữ đại diện chủ tòa nhà trao đổi điều kiện 'tenant improvement allowance' và thời hạn hợp đồng thuê ('signs a five-year lease') với Owen. Do đó Owen là khách thuê mặt bằng tiềm năng, khớp với (B).",
+    "vocab": [
+      ["prospective tenant", "n.", "khách thuê tiềm năng"],
+      ["physical therapy", "n.", "vật lý trị liệu"],
+      ["floor plan", "n.", "sơ đồ mặt bằng"]
+    ]
+  },
+  {
+    "id": 51,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Denise and Owen, thanks for touring the ground-floor suite at Harborview Plaza. Does the space fit your physical therapy clinic's needs, Owen?\nMan 2: The floor plan is ideal, Lucas, though we'd need slip-resistant rubber flooring in the exercise zone and widened doorways for wheelchair access.\nWoman: As the owner's representative, I can approve widening the interior doorways. However, specialized rubber flooring is expensive.\nMan 2: Would ownership contribute a tenant improvement allowance toward those upgrades?\nWoman: We can cover twenty thousand dollars in build-out costs, provided your clinic signs a five-year lease instead of our standard three-year term.\nMan: Owen, I'll prepare cost projections for both lease options tonight so your partners can review them tomorrow.",
+    "questionText": "What modification does Owen say his clinic requires?",
+    "options": [
+      "Installing soundproof walls around consultation offices",
+      "Constructing an exterior ramp near the parking lot",
+      "Upgrading electrical wiring for therapy equipment",
+      "Widening doorways and laying slip-resistant flooring"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Anh Owen nói phòng khám của mình cần hạng mục cải tạo nào?\n(A) Lắp tường cách âm quanh các phòng tư vấn\n(B) Xây đoạn đường dốc ngoài trời gần bãi đỗ xe\n(C) Nâng cấp đường dây điện cho thiết bị trị liệu\n(D) Mở rộng khung cửa và lát sàn chống trượt",
+    "explanation": "Owen (Man 2) nêu rõ hai yêu cầu: 'we'd need slip-resistant rubber flooring in the exercise zone and widened doorways for wheelchair access', khớp hoàn toàn với (D). Các phương án (A), (B), (C) không được nhắc đến.",
+    "vocab": [
+      ["slip-resistant", "adj.", "chống trơn trượt"],
+      ["wheelchair access", "n.", "lối đi tiếp cận cho xe lăn"],
+      ["interior", "adj.", "bên trong, nội thất"]
+    ]
+  },
+  {
+    "id": 52,
+    "part": 3,
+    "passageTitle": "Questions 50-52 refer to the following conversation:",
+    "audioScript": "Man: Denise and Owen, thanks for touring the ground-floor suite at Harborview Plaza. Does the space fit your physical therapy clinic's needs, Owen?\nMan 2: The floor plan is ideal, Lucas, though we'd need slip-resistant rubber flooring in the exercise zone and widened doorways for wheelchair access.\nWoman: As the owner's representative, I can approve widening the interior doorways. However, specialized rubber flooring is expensive.\nMan 2: Would ownership contribute a tenant improvement allowance toward those upgrades?\nWoman: We can cover twenty thousand dollars in build-out costs, provided your clinic signs a five-year lease instead of our standard three-year term.\nMan: Owen, I'll prepare cost projections for both lease options tonight so your partners can review them tomorrow.",
+    "questionText": "Under what condition will the property owner help pay for the upgrades?",
+    "options": [
+      "If the clinic commits to a longer lease term",
+      "If the work is handled by the building's maintenance staff",
+      "If the clinic pays six months of rent in advance",
+      "If renovations finish before the end of the month"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Với điều kiện nào chủ tòa nhà sẽ hỗ trợ chi phí cải tạo?\n(A) Nếu phòng khám cam kết thời hạn thuê dài hơn\n(B) Nếu công việc do nhân viên bảo trì tòa nhà thực hiện\n(C) Nếu phòng khám trả trước sáu tháng tiền thuê\n(D) Nếu việc sửa chữa hoàn thành trước cuối tháng",
+    "explanation": "Người phụ nữ (Denise) ra điều kiện: 'We can cover twenty thousand dollars in build-out costs, provided your clinic signs a five-year lease instead of our standard three-year term' (tài trợ 20.000 đô la với điều kiện ký hợp đồng 5 năm thay vì 3 năm), khớp với (A).",
+    "vocab": [
+      ["tenant improvement allowance", "n.", "khoản hỗ trợ cải tạo mặt bằng cho người thuê"],
+      ["build-out cost", "n.", "chi phí hoàn thiện, cải tạo không gian"],
+      ["cost projection", "n.", "dự toán chi phí"]
+    ]
+  },
+  {
+    "id": 53,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Malcolm. Thanks for visiting our commercial banking desk. How can I assist your outdoor-gear retail business today?\nMan: Thanks, Cynthia. Our card-terminal payments take three business days to settle, and international wire fees are straining our cash flow before peak season.\nWoman: I understand. Our new Premier Merchant Checking account offers next-day settlement on card sales, waives domestic transfer fees, and cuts international wire charges in half.\nMan: Faster access to card funds would really help us restock inventory. What are the eligibility requirements?\nWoman: You simply need to maintain a twenty-five-thousand-dollar minimum average balance; otherwise, a thirty-five-dollar monthly maintenance fee applies.",
+    "questionText": "Why is the man meeting with the bank representative?",
+    "options": [
+      "To apply for a loan to open a second retail store",
+      "To dispute unauthorized charges on a business card",
+      "To order replacement point-of-sale card terminals",
+      "To improve cash flow and lower transaction fees"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Tại sao người đàn ông đến gặp chuyên viên ngân hàng?\n(A) Để xin vay vốn mở thêm một cửa hàng bán lẻ thứ hai\n(B) Để khiếu nại các khoản phí trái phép trên thẻ doanh nghiệp\n(C) Để đặt máy quẹt thẻ thanh toán thay thế\n(D) Để cải thiện dòng tiền và giảm phí giao dịch",
+    "explanation": "Người đàn ông nêu vấn đề: tiền quẹt thẻ mất ba ngày làm việc mới về tài khoản và phí chuyển tiền quốc tế cao 'are straining our cash flow before peak season' (đang gây áp lực lên dòng tiền trước mùa cao điểm), khớp với (D). (A), (B) và (C) không được đề cập.",
+    "vocab": [
+      ["commercial banking", "n.", "ngân hàng doanh nghiệp"],
+      ["wire fee", "n.", "phí chuyển khoản điện tử"],
+      ["cash flow", "n.", "dòng tiền"]
+    ]
+  },
+  {
+    "id": 54,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Malcolm. Thanks for visiting our commercial banking desk. How can I assist your outdoor-gear retail business today?\nMan: Thanks, Cynthia. Our card-terminal payments take three business days to settle, and international wire fees are straining our cash flow before peak season.\nWoman: I understand. Our new Premier Merchant Checking account offers next-day settlement on card sales, waives domestic transfer fees, and cuts international wire charges in half.\nMan: Faster access to card funds would really help us restock inventory. What are the eligibility requirements?\nWoman: You simply need to maintain a twenty-five-thousand-dollar minimum average balance; otherwise, a thirty-five-dollar monthly maintenance fee applies.",
+    "questionText": "What feature of the Premier Merchant Checking account appeals to the man?",
+    "options": [
+      "Complimentary bookkeeping software with enrollment",
+      "Quicker deposits from customer card purchases",
+      "Cash-back rebates on outdoor equipment orders",
+      "Zero overdraft penalties during peak retail months"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Tính năng nào của gói tài khoản Premier Merchant Checking thu hút người đàn ông?\n(A) Tặng phần mềm kế toán miễn phí khi đăng ký\n(B) Tiền thanh toán thẻ của khách được ghi có nhanh hơn\n(C) Hoàn tiền chiết khấu cho các đơn hàng đồ dã ngoại\n(D) Miễn phạt thấu chi trong các tháng bán lẻ cao điểm",
+    "explanation": "Sau khi nghe người phụ nữ giới thiệu 'next-day settlement on card sales' (giải ngân doanh thu thẻ ngay ngày hôm sau), người đàn ông phản hồi: 'Faster access to card funds would really help us restock inventory' (nhận tiền thẻ nhanh hơn sẽ giúp chúng tôi nhập lại hàng tồn kho), khớp với (B).",
+    "vocab": [
+      ["settlement", "n.", "sự thanh toán, tất toán giao dịch"],
+      ["waive", "v.", "miễn (phí, điều kiện)"],
+      ["restock", "v.", "nhập bổ sung hàng hóa"]
+    ]
+  },
+  {
+    "id": 55,
+    "part": 3,
+    "passageTitle": "Questions 53-55 refer to the following conversation:",
+    "audioScript": "Woman: Good morning, Malcolm. Thanks for visiting our commercial banking desk. How can I assist your outdoor-gear retail business today?\nMan: Thanks, Cynthia. Our card-terminal payments take three business days to settle, and international wire fees are straining our cash flow before peak season.\nWoman: I understand. Our new Premier Merchant Checking account offers next-day settlement on card sales, waives domestic transfer fees, and cuts international wire charges in half.\nMan: Faster access to card funds would really help us restock inventory. What are the eligibility requirements?\nWoman: You simply need to maintain a twenty-five-thousand-dollar minimum average balance; otherwise, a thirty-five-dollar monthly maintenance fee applies.",
+    "questionText": "What must the man do to avoid a monthly maintenance fee?",
+    "options": [
+      "Keep a minimum average balance in the account",
+      "Process a set number of card transactions weekly",
+      "Transfer his employee payroll account to the bank",
+      "Sign up for automated electronic statements"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông phải làm gì để tránh khoản phí duy trì hằng tháng?\n(A) Duy trì số dư bình quân tối thiểu trong tài khoản\n(B) Xử lý một số lượng giao dịch thẻ nhất định mỗi tuần\n(C) Chuyển tài khoản trả lương nhân viên sang ngân hàng này\n(D) Đăng ký nhận sao kê điện tử tự động",
+    "explanation": "Người phụ nữ giải thích rõ: 'maintain a twenty-five-thousand-dollar minimum average balance; otherwise, a thirty-five-dollar monthly maintenance fee applies', trùng khớp hoàn toàn với (A). (B), (C), (D) là các phương án nhiễu.",
+    "vocab": [
+      ["eligibility requirement", "n.", "điều kiện đủ tiêu chuẩn"],
+      ["minimum balance", "n.", "số dư tối thiểu"],
+      ["maintenance fee", "n.", "phí duy trì tài khoản"]
+    ]
+  },
+  {
+    "id": 56,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Sandra, Dr. Lindqvist—our keynote speaker on grid-scale battery storage—just texted. A storm shut down Zurich airport, so he can't fly in for tomorrow's Green Tech Symposium.\nWoman: His talk opens the conference at nine. Could he present remotely by video?\nMan: He offered to join live from Zurich, though I'm worried about connection drops in front of four hundred guests.\nWoman: The technical crew already tested the fiber-optic uplink in the main auditorium this morning. He can stream cleanly onto the center LED wall.\nMan: Great. I'll also ask our afternoon microgrid panelist to lead a brief in-person discussion afterward.",
+    "questionText": "What unexpected problem has arisen before the symposium?",
+    "options": [
+      "Severe weather has forced the conference center to close.",
+      "A featured speaker cannot attend the event in person.",
+      "Hundreds of attendees canceled their hotel bookings.",
+      "Battery demonstration units were delayed in customs."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Sự cố bất ngờ nào đã phát sinh trước thềm hội thảo?\n(A) Thời tiết xấu buộc trung tâm hội nghị phải đóng cửa.\n(B) Một diễn giả chính không thể tham dự trực tiếp.\n(C) Hàng trăm khách tham dự đã hủy đặt phòng khách sạn.\n(D) Các thiết bị pin mẫu bị chậm thông quan.",
+    "explanation": "Người đàn ông báo diễn giả chính tiến sĩ Lindqvist bị kẹt do bão làm đóng cửa sân bay Zurich nên 'he can't fly in for tomorrow's Green Tech Symposium' (không thể bay tới dự trực tiếp), khớp với (B). (A) là bẫy từ 'storm shut down Zurich airport' (sân bay đóng cửa chứ không phải trung tâm hội nghị).",
+    "vocab": [
+      ["keynote speaker", "n.", "diễn giả chính"],
+      ["grid-scale", "adj.", "quy mô lưới điện"],
+      ["symposium", "n.", "hội thảo chuyên đề"]
+    ]
+  },
+  {
+    "id": 57,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Sandra, Dr. Lindqvist—our keynote speaker on grid-scale battery storage—just texted. A storm shut down Zurich airport, so he can't fly in for tomorrow's Green Tech Symposium.\nWoman: His talk opens the conference at nine. Could he present remotely by video?\nMan: He offered to join live from Zurich, though I'm worried about connection drops in front of four hundred guests.\nWoman: The technical crew already tested the fiber-optic uplink in the main auditorium this morning. He can stream cleanly onto the center LED wall.\nMan: Great. I'll also ask our afternoon microgrid panelist to lead a brief in-person discussion afterward.",
+    "questionText": "Why does the woman say, \"The technical crew already tested the fiber-optic uplink in the main auditorium this morning\"?",
+    "options": [
+      "To explain why stage setup exceeded the budget",
+      "To suggest moving the keynote to a smaller hall",
+      "To reassure the man that a remote broadcast will run smoothly",
+      "To remind the man to confirm sound checks with the crew"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người phụ nữ nói: \"Đội kỹ thuật đã kiểm tra xong đường truyền cáp quang tại khán phòng chính sáng nay rồi\"?\n(A) Để giải thích lý do chi phí dựng sân khấu vượt ngân sách\n(B) Để đề xuất chuyển bài phát biểu chính sang một hội trường nhỏ hơn\n(C) Để trấn an người đàn ông rằng buổi phát sóng từ xa sẽ vận hành trơn tru\n(D) Để nhắc người đàn ông xác nhận kiểm tra âm thanh với đội kỹ thuật",
+    "explanation": "Người đàn ông lo lắng về 'connection drops' (rớt mạng khi phát trực tiếp), nên người phụ nữ dẫn việc đội kỹ thuật đã kiểm tra đường truyền cáp quang để trấn an rằng bài thuyết trình trực tuyến sẽ ổn định ('He can stream cleanly'), khớp với (C).",
+    "vocab": [
+      ["fiber-optic uplink", "n.", "đường truyền tải lên cáp quang"],
+      ["auditorium", "n.", "khán phòng lớn"],
+      ["connection drop", "n.", "tình trạng rớt kết nối"]
+    ]
+  },
+  {
+    "id": 58,
+    "part": 3,
+    "passageTitle": "Questions 56-58 refer to the following conversation:",
+    "audioScript": "Man: Sandra, Dr. Lindqvist—our keynote speaker on grid-scale battery storage—just texted. A storm shut down Zurich airport, so he can't fly in for tomorrow's Green Tech Symposium.\nWoman: His talk opens the conference at nine. Could he present remotely by video?\nMan: He offered to join live from Zurich, though I'm worried about connection drops in front of four hundred guests.\nWoman: The technical crew already tested the fiber-optic uplink in the main auditorium this morning. He can stream cleanly onto the center LED wall.\nMan: Great. I'll also ask our afternoon microgrid panelist to lead a brief in-person discussion afterward.",
+    "questionText": "What does the man say he will do next?",
+    "options": [
+      "Reschedule the opening talk for the afternoon",
+      "Refund tickets for guests arriving from Zurich",
+      "Order backup microphones for the center stage",
+      "Ask another speaker to host a brief live discussion"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Người đàn ông nói ông ấy sẽ làm gì tiếp theo?\n(A) Dời bài phát biểu khai mạc sang buổi chiều\n(B) Hoàn tiền vé cho các khách mời đến từ Zurich\n(C) Đặt thêm micro dự phòng cho sân khấu trung tâm\n(D) Nhờ một diễn giả khác dẫn dắt buổi thảo luận trực tiếp ngắn",
+    "explanation": "Ở câu cuối, người đàn ông nói: 'I'll also ask our afternoon microgrid panelist to lead a brief in-person discussion afterward', tương ứng paraphrase 'Ask another speaker to host a brief live discussion' trong (D).",
+    "vocab": [
+      ["microgrid", "n.", "lưới điện vi mô (cục bộ)"],
+      ["panelist", "n.", "thành viên tham gia tọa đàm"],
+      ["in-person", "adj./adv.", "trực tiếp tại chỗ"]
+    ]
+  },
+  {
+    "id": 59,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Carlos, the predictive-maintenance dashboard flagged Compressor Two in the packaging bay overnight. The vibration sensors are reading twice our baseline, and bearing temperatures climbed steadily during third shift.\nMan: I pulled the diagnostic logs twenty minutes ago, Fiona. One of the main drive bearings is wearing down rapidly.\nWoman: Can it hold out until our scheduled maintenance shutdown this Saturday?\nMan: I wouldn't risk it. If the bearing seizes mid-run, it could burn out the drive motor and halt the entire bottling line for days. We should power it down for three hours during today's two-o'clock shift change.\nWoman: Let's do that. I confirmed we have two spare ceramic bearings in the parts cage, so I'll alert the packaging supervisors right now.",
+    "questionText": "What issue did the plant's monitoring system detect?",
+    "options": [
+      "Abnormal vibration and rising heat in a compressor",
+      "A brief power outage during the overnight shift",
+      "An air leak along the main bottling conveyor",
+      "Low oil pressure in a packaging vehicle"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Hệ thống giám sát của nhà máy đã phát hiện vấn đề gì?\n(A) Độ rung bất thường và nhiệt độ tăng cao ở một máy nén khí\n(B) Sự cố mất điện ngắn trong ca làm việc ban đêm\n(C) Rò rỉ khí dọc theo băng chuyền đóng chai chính\n(D) Áp suất dầu thấp ở một xe nâng đóng gói",
+    "explanation": "Người phụ nữ cho biết bảng điều khiển bảo trì cảnh báo Máy nén số 2: 'The vibration sensors are reading twice our baseline, and bearing temperatures climbed steadily' (độ rung gấp đôi mức chuẩn và nhiệt độ ổ bi tăng đều), khớp với (A). (B), (C), (D) không có trong bài.",
+    "vocab": [
+      ["predictive maintenance", "n.", "bảo trì dự đoán"],
+      ["compressor", "n.", "máy nén khí"],
+      ["bearing", "n.", "vòng bi, bạc đạn"]
+    ]
+  },
+  {
+    "id": 60,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Carlos, the predictive-maintenance dashboard flagged Compressor Two in the packaging bay overnight. The vibration sensors are reading twice our baseline, and bearing temperatures climbed steadily during third shift.\nMan: I pulled the diagnostic logs twenty minutes ago, Fiona. One of the main drive bearings is wearing down rapidly.\nWoman: Can it hold out until our scheduled maintenance shutdown this Saturday?\nMan: I wouldn't risk it. If the bearing seizes mid-run, it could burn out the drive motor and halt the entire bottling line for days. We should power it down for three hours during today's two-o'clock shift change.\nWoman: Let's do that. I confirmed we have two spare ceramic bearings in the parts cage, so I'll alert the packaging supervisors right now.",
+    "questionText": "Why does the man advise against waiting until Saturday to make the repair?",
+    "options": [
+      "Maintenance engineers will not be on duty over the weekend.",
+      "The warranty on the drive motor expires on Friday afternoon.",
+      "A sudden breakdown could ruin the motor and halt production.",
+      "Saturday's bottling quota is higher than today's target."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Tại sao người đàn ông khuyên không nên đợi đến thứ Bảy mới sửa chữa?\n(A) Các kỹ sư bảo trì sẽ không trực vào cuối tuần.\n(B) Bảo hành của động cơ truyền động hết hạn vào chiều thứ Sáu.\n(C) Sự cố kẹt máy đột ngột có thể làm hỏng động cơ và đình trệ sản xuất.\n(D) Định mức đóng chai ngày thứ Bảy cao hơn mục tiêu hôm nay.",
+    "explanation": "Người đàn ông cảnh báo: 'If the bearing seizes mid-run, it could burn out the drive motor and halt the entire bottling line for days' (nếu vòng bi bị bó cứng giữa ca, nó có thể làm cháy động cơ và dừng cả dây chuyền đóng chai nhiều ngày), khớp với (C). (A) sai vì thứ Bảy vốn đã có lịch bảo trì định kỳ ('scheduled maintenance shutdown').",
+    "vocab": [
+      ["seize", "v.", "kẹt cứng (bộ phận máy)"],
+      ["burn out", "phr.", "cháy hỏng (động cơ)"],
+      ["shift change", "n.", "giờ giao ca"]
+    ]
+  },
+  {
+    "id": 61,
+    "part": 3,
+    "passageTitle": "Questions 59-61 refer to the following conversation:",
+    "audioScript": "Woman: Carlos, the predictive-maintenance dashboard flagged Compressor Two in the packaging bay overnight. The vibration sensors are reading twice our baseline, and bearing temperatures climbed steadily during third shift.\nMan: I pulled the diagnostic logs twenty minutes ago, Fiona. One of the main drive bearings is wearing down rapidly.\nWoman: Can it hold out until our scheduled maintenance shutdown this Saturday?\nMan: I wouldn't risk it. If the bearing seizes mid-run, it could burn out the drive motor and halt the entire bottling line for days. We should power it down for three hours during today's two-o'clock shift change.\nWoman: Let's do that. I confirmed we have two spare ceramic bearings in the parts cage, so I'll alert the packaging supervisors right now.",
+    "questionText": "What does the woman confirm is already available at the facility?",
+    "options": [
+      "Backup diagnostic laptops for technicians",
+      "Replacement bearings in the parts storage",
+      "Portable air compressors on the loading dock",
+      "Protective gloves for the packaging crew"
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ xác nhận thứ gì đã có sẵn tại nhà máy?\n(A) Máy tính xách tay chẩn đoán dự phòng cho kỹ thuật viên\n(B) Vòng bi thay thế trong kho phụ tùng\n(C) Máy nén khí di động trên bến bốc hàng\n(D) Găng tay bảo hộ cho tổ đóng gói",
+    "explanation": "Ở lượt cuối, người phụ nữ xác nhận: 'I confirmed we have two spare ceramic bearings in the parts cage' (có hai vòng bi gốm dự phòng trong kho linh kiện), khớp với (B). (A), (C) và (D) không được đề cập.",
+    "vocab": [
+      ["diagnostic log", "n.", "nhật ký chẩn đoán lỗi"],
+      ["spare", "adj.", "dự phòng"],
+      ["parts cage", "n.", "kho lồng lưu trữ linh kiện"]
+    ]
+  },
+  {
+    "id": 62,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Brooke and Garrett, the contractor finished regrouting our eight-lane pool, and the health inspector cleared us to reopen Monday at five-thirty a.m.\nWoman 2: Fantastic news, Lauren, though I'm worried about congestion around the locker-room check-in desk during the six-to-eight morning rush.\nMan: I noticed that bottleneck earlier, too. Placing an express wristband kiosk by the east entrance will keep swimmers moving without crowding the lobby.\nWoman: Good thinking, Garrett. Brooke, how are we compensating swim-pass holders for the two-week closure?\nWoman 2: Member Services is automatically extending every active swim membership by fourteen days at no charge.\nMan: And I'll install and test the express kiosk with IT before Sunday evening.",
+    "questionText": "What event are the speakers preparing for on Monday?",
+    "options": [
+      "A regional collegiate swimming tournament",
+      "An inspection by municipal health officials",
+      "The reopening of an indoor swimming facility",
+      "A renovation of the locker-room showers"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Những người nói đang chuẩn bị cho sự kiện gì vào thứ Hai?\n(A) Một giải bơi lội đại học cấp khu vực\n(B) Một cuộc kiểm tra của thanh tra y tế thành phố\n(C) Việc mở cửa trở lại của khu hồ bơi trong nhà\n(D) Việc nâng cấp phòng tắm khu tủ khóa",
+    "explanation": "Người phụ nữ đầu tiên (Lauren) thông báo nhà thầu đã chít lại mạch gạch xong và thanh tra y tế đã cấp phép để họ 'reopen Monday at five-thirty a.m.' (mở cửa lại vào 5:30 sáng thứ Hai), khớp với (C). (B) sai vì cuộc kiểm tra đã hoàn tất rồi ('the health inspector cleared us').",
+    "vocab": [
+      ["regrout", "v.", "trét, chít lại mạch gạch"],
+      ["congestion", "n.", "sự ùn tắc, đông đúc"],
+      ["bottleneck", "n.", "điểm nghẽn"]
+    ]
+  },
+  {
+    "id": 63,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Brooke and Garrett, the contractor finished regrouting our eight-lane pool, and the health inspector cleared us to reopen Monday at five-thirty a.m.\nWoman 2: Fantastic news, Lauren, though I'm worried about congestion around the locker-room check-in desk during the six-to-eight morning rush.\nMan: I noticed that bottleneck earlier, too. Placing an express wristband kiosk by the east entrance will keep swimmers moving without crowding the lobby.\nWoman: Good thinking, Garrett. Brooke, how are we compensating swim-pass holders for the two-week closure?\nWoman 2: Member Services is automatically extending every active swim membership by fourteen days at no charge.\nMan: And I'll install and test the express kiosk with IT before Sunday evening.",
+    "questionText": "What does Garrett suggest to ease crowding during peak morning hours?",
+    "options": [
+      "Opening the pool thirty minutes earlier on weekdays",
+      "Limiting each lap lane to four swimmers at once",
+      "Assigning extra staff to the main reception counter",
+      "Installing a self-service check-in kiosk by another entrance"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Anh Garrett đề xuất điều gì để giảm cảnh đông đúc trong giờ cao điểm buổi sáng?\n(A) Mở cửa hồ bơi sớm hơn ba mươi phút vào các ngày trong tuần\n(B) Giới hạn mỗi làn bơi tối đa bốn người cùng lúc\n(C) Bố trí thêm nhân viên tại quầy lễ tân chính\n(D) Lắp đặt ki-ốt điểm danh tự phục vụ gần một lối vào khác",
+    "explanation": "Người đàn ông (Garrett) đề xuất: 'Placing an express wristband kiosk by the east entrance will keep swimmers moving without crowding the lobby' (đặt ki-ốt phát vòng tay nhanh ở lối vào phía đông để tránh làm đông sảnh chính), khớp với (D).",
+    "vocab": [
+      ["morning rush", "n.", "giờ cao điểm buổi sáng"],
+      ["express kiosk", "n.", "ki-ốt phục vụ nhanh tự động"],
+      ["wristband", "n.", "vòng đeo tay (thẻ ra vào)"]
+    ]
+  },
+  {
+    "id": 64,
+    "part": 3,
+    "passageTitle": "Questions 62-64 refer to the following conversation:",
+    "audioScript": "Woman: Brooke and Garrett, the contractor finished regrouting our eight-lane pool, and the health inspector cleared us to reopen Monday at five-thirty a.m.\nWoman 2: Fantastic news, Lauren, though I'm worried about congestion around the locker-room check-in desk during the six-to-eight morning rush.\nMan: I noticed that bottleneck earlier, too. Placing an express wristband kiosk by the east entrance will keep swimmers moving without crowding the lobby.\nWoman: Good thinking, Garrett. Brooke, how are we compensating swim-pass holders for the two-week closure?\nWoman 2: Member Services is automatically extending every active swim membership by fourteen days at no charge.\nMan: And I'll install and test the express kiosk with IT before Sunday evening.",
+    "questionText": "How will the facility compensate affected swim-pass holders?",
+    "options": [
+      "By adding two free weeks to their active memberships",
+      "By issuing partial refunds to their credit cards",
+      "By providing complimentary private coaching lessons",
+      "By waiving monthly locker-rental charges"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Cơ sở thể thao sẽ đền bù cho hội viên có thẻ bơi bị ảnh hưởng bằng cách nào?\n(A) Bằng cách cộng thêm hai tuần miễn phí vào thẻ hội viên đang hiệu lực\n(B) Bằng cách hoàn tiền một phần qua thẻ tín dụng\n(C) Bằng cách tặng các buổi huấn luyện riêng miễn phí\n(D) Bằng cách miễn phí thuê tủ đồ hằng tháng",
+    "explanation": "Người phụ nữ thứ hai (Brooke) trả lời: 'Member Services is automatically extending every active swim membership by fourteen days at no charge' (tự động gia hạn thêm 14 ngày miễn phí cho mọi thẻ bơi đang hoạt động), khớp với paraphrase 'adding two free weeks' ở (A).",
+    "vocab": [
+      ["compensate", "v.", "bồi thường, đền bù"],
+      ["closure", "n.", "đợt đóng cửa tạm thời"],
+      ["extend", "v.", "gia hạn, kéo dài"]
+    ]
+  },
+  {
+    "id": 65,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Evelyn, I compiled the feedback surveys from our new team-lead seminar. Overall ratings were strong, yet seventy percent of trainees felt underprepared for real-world budget negotiations.\nWoman: I'm not surprised—the third-week curriculum is mostly slide lectures and multiple-choice quizzes. Have you thought about replacing the lecture block with a live cross-departmental case simulation?\nMan: I'd love to, but adding a two-hour workshop might overwhelm their weekly workload unless we cut something else.\nWoman: Actually, there's an easy fix. Most of the team leads already passed the compliance modules during orientation. We can drop those two review units and shorten the final quiz.\nMan: Perfect. I'll draft the simulation briefing packet and send it to our regional directors for input on Friday.",
+    "questionText": "What gap in the current training seminar did survey respondents identify?",
+    "options": [
+      "The instructors lacked experience in corporate accounting.",
+      "The online slides contained outdated policy figures.",
+      "There was not enough practical training on budget handling.",
+      "The seminar schedule overlapped with client meetings."
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Người tham gia khảo sát đã chỉ ra thiếu sót nào trong khóa đào tạo hiện tại?\n(A) Giảng viên thiếu kinh nghiệm về kế toán doanh nghiệp.\n(B) Tài liệu trình chiếu trực tuyến chứa số liệu chính sách lỗi thời.\n(C) Thiếu phần thực hành xử lý các vấn đề ngân sách.\n(D) Lịch hội thảo trùng với các cuộc họp khách hàng.",
+    "explanation": "Người đàn ông báo cáo kết quả khảo sát: 'seventy percent of trainees felt underprepared for real-world budget negotiations' (70% học viên cảm thấy chưa được trang bị đủ cho việc thương lượng ngân sách thực tế), tương ứng với (C). Các phương án (A), (B), (D) không xuất hiện.",
+    "vocab": [
+      ["compile", "v.", "tổng hợp, biên soạn"],
+      ["curriculum", "n.", "chương trình đào tạo"],
+      ["cross-departmental", "adj.", "liên phòng ban"]
+    ]
+  },
+  {
+    "id": 66,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Evelyn, I compiled the feedback surveys from our new team-lead seminar. Overall ratings were strong, yet seventy percent of trainees felt underprepared for real-world budget negotiations.\nWoman: I'm not surprised—the third-week curriculum is mostly slide lectures and multiple-choice quizzes. Have you thought about replacing the lecture block with a live cross-departmental case simulation?\nMan: I'd love to, but adding a two-hour workshop might overwhelm their weekly workload unless we cut something else.\nWoman: Actually, there's an easy fix. Most of the team leads already passed the compliance modules during orientation. We can drop those two review units and shorten the final quiz.\nMan: Perfect. I'll draft the simulation briefing packet and send it to our regional directors for input on Friday.",
+    "questionText": "What does the woman mean when she says, \"Most of the team leads already passed the compliance modules during orientation\"?",
+    "options": [
+      "Trainees must retake the compliance exam before week three.",
+      "Redundant review material can be removed from the seminar.",
+      "Orientation sessions need to be extended for future hires.",
+      "Regional directors are exempt from attending compliance workshops."
+    ],
+    "correct": "B",
+    "translation": "Câu hỏi: Người phụ nữ có ý gì khi nói: \"Hầu hết các trưởng nhóm đã vượt qua các học phần tuân thủ quy định ngay trong kỳ định hướng rồi\"?\n(A) Học viên phải thi lại môn tuân thủ trước tuần thứ ba.\n(B) Có thể loại bỏ phần tài liệu ôn tập trùng lặp khỏi khóa học.\n(C) Các buổi định hướng cần được kéo dài cho nhân viên mới sau này.\n(D) Giám đốc khu vực được miễn tham gia hội thảo tuân thủ.",
+    "explanation": "Khi người đàn ông lo thêm buổi thực hành sẽ quá tải trừ khi cắt bớt nội dung khác, người phụ nữ nêu ra phần học viên đã đạt từ kỳ định hướng rồi kết luận: 'We can drop those two review units' (ta có thể bỏ hai học phần ôn tập đó đi), khớp với (B).",
+    "vocab": [
+      ["case simulation", "n.", "bài mô phỏng tình huống thực tế"],
+      ["compliance module", "n.", "học phần về tuân thủ quy định"],
+      ["orientation", "n.", "chương trình định hướng nhân viên mới"]
+    ]
+  },
+  {
+    "id": 67,
+    "part": 3,
+    "passageTitle": "Questions 65-67 refer to the following conversation:",
+    "audioScript": "Man: Evelyn, I compiled the feedback surveys from our new team-lead seminar. Overall ratings were strong, yet seventy percent of trainees felt underprepared for real-world budget negotiations.\nWoman: I'm not surprised—the third-week curriculum is mostly slide lectures and multiple-choice quizzes. Have you thought about replacing the lecture block with a live cross-departmental case simulation?\nMan: I'd love to, but adding a two-hour workshop might overwhelm their weekly workload unless we cut something else.\nWoman: Actually, there's an easy fix. Most of the team leads already passed the compliance modules during orientation. We can drop those two review units and shorten the final quiz.\nMan: Perfect. I'll draft the simulation briefing packet and send it to our regional directors for input on Friday.",
+    "questionText": "What will the man do on Friday?",
+    "options": [
+      "Send a draft workshop packet to directors for feedback",
+      "Interview candidates to co-teach the management seminar",
+      "Submit updated quiz results to human resources",
+      "Reserve conference rooms for next month's orientation"
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Người đàn ông sẽ làm gì vào thứ Sáu?\n(A) Gửi bản thảo tài liệu buổi thực hành cho các giám đốc góp ý\n(B) Phỏng vấn ứng viên đồng giảng dạy khóa kỹ năng quản lý\n(C) Nộp điểm bài kiểm tra cập nhật cho bộ phận nhân sự\n(D) Đặt trước các phòng hội nghị cho kỳ định hướng tháng sau",
+    "explanation": "Câu kết của người đàn ông nói rõ: 'I'll draft the simulation briefing packet and send it to our regional directors for input on Friday' ('for input' = lấy ý kiến đóng góp = 'for feedback'), trùng khớp với (A).",
+    "vocab": [
+      ["briefing packet", "n.", "tập tài liệu tóm tắt hướng dẫn"],
+      ["regional director", "n.", "giám đốc khu vực"],
+      ["input", "n.", "ý kiến đóng góp"]
+    ]
+  },
+  {
+    "id": 68,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Arthur, Bridgeway Civil dropped off three laser total stations for annual calibration ahead of their highway survey next week. Have you checked them?\nMan: Two units passed accuracy tests and are ready for pickup tomorrow, Monica. However, the third instrument has a hairline crack in its prism lens from a fall.\nWoman: Do we carry spare prism assemblies here?\nMan: No, we must order the optical part from Stuttgart, which takes ten business days.\nWoman: Bridgeway starts surveying on Monday. Let's provide a calibrated loaner unit at no charge while the part ships, and I'll call their project manager with the repair quote.",
+    "questionText": "What service does the speakers' business provide?",
+    "options": [
+      "Highway paving and bridge construction",
+      "Custom software for civil engineering blueprints",
+      "Inspection and calibration of precision measuring tools",
+      "International freight forwarding for heavy machinery"
+    ],
+    "correct": "C",
+    "translation": "Câu hỏi: Doanh nghiệp của hai người nói cung cấp dịch vụ gì?\n(A) Trải nhựa cao tốc và thi công cầu đường\n(B) Phần mềm thiết kế riêng cho bản vẽ kỹ thuật dân dụng\n(C) Kiểm tra và hiệu chuẩn thiết bị đo đạc chính xác\n(D) Giao nhận vận tải quốc tế cho máy móc hạng nặng",
+    "explanation": "Khách hàng Bridgeway Civil gửi ba máy toàn đạc laser đến để 'annual calibration' (hiệu chuẩn định kỳ hằng năm), và Arthur tiến hành 'accuracy tests' (kiểm tra độ chính xác) cho các thiết bị quang học này, khớp với (C). (A) là ngành nghề của khách hàng (Bridgeway Civil), không phải của hai người nói.",
+    "vocab": [
+      ["calibration", "n.", "sự hiệu chuẩn thiết bị đo"],
+      ["total station", "n.", "máy toàn đạc điện tử (trắc địa)"],
+      ["accuracy test", "n.", "bài kiểm tra độ chính xác"]
+    ]
+  },
+  {
+    "id": 69,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Arthur, Bridgeway Civil dropped off three laser total stations for annual calibration ahead of their highway survey next week. Have you checked them?\nMan: Two units passed accuracy tests and are ready for pickup tomorrow, Monica. However, the third instrument has a hairline crack in its prism lens from a fall.\nWoman: Do we carry spare prism assemblies here?\nMan: No, we must order the optical part from Stuttgart, which takes ten business days.\nWoman: Bridgeway starts surveying on Monday. Let's provide a calibrated loaner unit at no charge while the part ships, and I'll call their project manager with the repair quote.",
+    "questionText": "Why will the third instrument take longer to return to the client?",
+    "options": [
+      "A replacement optical component must be ordered from abroad.",
+      "The lead calibration engineer is out on medical leave.",
+      "The client has not yet approved last year's service invoice.",
+      "Customs agents requested additional safety certificates."
+    ],
+    "correct": "A",
+    "translation": "Câu hỏi: Tại sao thiết bị thứ ba sẽ mất nhiều thời gian hơn để trả lại cho khách hàng?\n(A) Một linh kiện quang học thay thế phải đặt mua từ nước ngoài.\n(B) Kỹ sư hiệu chuẩn trưởng đang nghỉ ốm.\n(C) Khách hàng chưa duyệt hóa đơn dịch vụ năm ngoái.\n(D) Nhân viên hải quan yêu cầu bổ sung chứng nhận an toàn.",
+    "explanation": "Arthur cho biết thấu kính lăng trụ của máy thứ ba bị nứt và 'we must order the optical part from Stuttgart, which takes ten business days' (phải đặt linh kiện quang học từ Stuttgart mất mười ngày làm việc), khớp với (A).",
+    "vocab": [
+      ["hairline crack", "n.", "vết nứt mảnh như sợi tóc"],
+      ["prism lens", "n.", "thấu kính lăng trụ"],
+      ["optical component", "n.", "linh kiện quang học"]
+    ]
+  },
+  {
+    "id": 70,
+    "part": 3,
+    "passageTitle": "Questions 68-70 refer to the following conversation:",
+    "audioScript": "Woman: Arthur, Bridgeway Civil dropped off three laser total stations for annual calibration ahead of their highway survey next week. Have you checked them?\nMan: Two units passed accuracy tests and are ready for pickup tomorrow, Monica. However, the third instrument has a hairline crack in its prism lens from a fall.\nWoman: Do we carry spare prism assemblies here?\nMan: No, we must order the optical part from Stuttgart, which takes ten business days.\nWoman: Bridgeway starts surveying on Monday. Let's provide a calibrated loaner unit at no charge while the part ships, and I'll call their project manager with the repair quote.",
+    "questionText": "How will the speakers help prevent delays to the client's highway survey?",
+    "options": [
+      "By sending a technician to perform calibration on-site",
+      "By swapping a lens from another client's machine",
+      "By rushing air delivery from Stuttgart at double cost",
+      "By lending a temporary replacement unit free of charge"
+    ],
+    "correct": "D",
+    "translation": "Câu hỏi: Hai người nói sẽ giúp ngăn ngừa chậm trễ cho đợt khảo sát cao tốc của khách hàng bằng cách nào?\n(A) Cử kỹ thuật viên ra hiện trường để hiệu chuẩn tại chỗ\n(B) Lấy tạm thấu kính từ máy của một khách hàng khác\n(C) Đặt chuyển phát hàng không hỏa tốc từ Stuttgart với chi phí gấp đôi\n(D) Cho mượn miễn phí một thiết bị thay thế tạm thời",
+    "explanation": "Người phụ nữ quyết định: 'Let's provide a calibrated loaner unit at no charge while the part ships' (cung cấp một máy cho mượn đã hiệu chuẩn miễn phí trong thời gian chờ linh kiện chuyển về), khớp hoàn toàn với (D).",
+    "vocab": [
+      ["loaner unit", "n.", "thiết bị cho mượn dùng tạm"],
+      ["repair quote", "n.", "báo giá sửa chữa"],
+      ["survey", "v./n.", "khảo sát địa hình"]
+    ]
+  }
+]

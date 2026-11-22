@@ -1,0 +1,314 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following e-mail:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">E-MAIL</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">To: All Staff<br>From: Mai Pham, Office Manager<br>Re: Our new break room</p><p class=\"mt-2\">Hello everyone,</p><p class=\"mt-2\">The new break room on the second floor is now open. It is much <strong>[131]</strong> than the old one and has a small kitchen, two sofas, and a table for eight people.</p><p class=\"mt-2\">We ask everyone to clean the tables after <strong>[132]</strong> them. Please also put cups and dishes in the dishwasher before you leave. <strong>[133]</strong></p><p class=\"mt-2\">Please keep the room quiet when other staff are resting. The vending machines are <strong>[134]</strong> every Monday morning, so please bring your own snacks on that day.</p><p class=\"mt-2\">Thank you,<br>Mai Pham</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Select the best answer to complete blank [131].",
+        "options": [
+          "larger",
+          "large",
+          "largest",
+          "largely"
+        ],
+        "answer": "A",
+        "translation": "Phòng nghỉ mới ở tầng hai hiện đã mở. Nó lớn hơn nhiều so với phòng cũ và có một bếp nhỏ, hai ghế sofa và một bàn cho tám người.",
+        "explanation": "Phía sau có 'than' nên cần dạng so sánh hơn của tính từ: 'larger'. 'Large' là dạng gốc, 'largest' là so sánh nhất, 'largely' là trạng từ chỉ mức độ.",
+        "vocab": [
+          ["break room", "n", "phòng nghỉ"],
+          ["sofa", "n", "ghế sofa"],
+          ["kitchen", "n", "nhà bếp"]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Select the best answer to complete blank [132].",
+        "options": [
+          "use",
+          "used",
+          "using",
+          "to use"
+        ],
+        "answer": "C",
+        "translation": "Chúng tôi đề nghị mọi người lau bàn sau khi sử dụng.",
+        "explanation": "Sau giới từ 'after' phải dùng danh động từ (V-ing): 'after using them'. Các dạng 'use', 'used', 'to use' không đứng trực tiếp sau giới từ.",
+        "vocab": [
+          ["ask", "v", "đề nghị"],
+          ["dishwasher", "n", "máy rửa bát"],
+          ["clean", "v", "lau chùi"]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Which of the following sentences best fits in blank [133]?",
+        "options": [
+          "The room will be closed for repairs next month.",
+          "A refrigerator and a coffee machine are also available there.",
+          "The marketing team meets there every Friday.",
+          "Please write your name on the list near the door."
+        ],
+        "answer": "B",
+        "translation": "Một tủ lạnh và một máy pha cà phê cũng có ở đó.",
+        "explanation": "Câu cần bổ sung tiện nghi cho phòng nghỉ, nối tiếp ý vừa nói về cốc đĩa và máy rửa bát. Phương án nói về tủ lạnh và máy pha cà phê hợp mạch văn; các phương án còn lại nói về việc đóng phòng, lịch họp của nhóm khác hoặc danh sách ghi tên nên lạc ý.",
+        "vocab": [
+          ["refrigerator", "n", "tủ lạnh"],
+          ["available", "adj", "có sẵn"],
+          ["coffee machine", "n", "máy pha cà phê"]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Select the best answer to complete blank [134].",
+        "options": [
+          "clean",
+          "cleaned",
+          "to clean",
+          "are cleaned"
+        ],
+        "answer": "D",
+        "translation": "Máy bán hàng tự động được làm sạch vào mỗi sáng thứ Hai, vì vậy hãy tự mang đồ ăn nhẹ vào ngày đó.",
+        "explanation": "Máy không tự làm sạch mà 'được làm sạch', nên cần bị động hiện tại đơn 'are cleaned' hợp với chủ ngữ số nhiều. 'Clean' và 'cleaned' là chủ động, 'to clean' sai cấu trúc.",
+        "vocab": [
+          ["vending machine", "n", "máy bán hàng tự động"],
+          ["snack", "n", "đồ ăn nhẹ"],
+          ["rest", "v", "nghỉ ngơi"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following notice:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">NOTICE</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Safety Training Course</p><p class=\"mt-2\">All warehouse employees are required to complete a safety training course before the end of June. The class is free and <strong>[135]</strong> about three hours.</p><p class=\"mt-2\">The course <strong>[136]</strong> in the meeting room on the ground floor every Tuesday and Thursday. Please arrive ten minutes early and bring your safety shoes, because the class includes some practice.</p><p class=\"mt-2\">Please sign up at the front desk <strong>[137]</strong> Friday. Only twenty people can join each session, so register early.</p><p class=\"mt-2\">If you have questions, call Mr. David Lee at extension 214. <strong>[138]</strong></p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Select the best answer to complete blank [135].",
+        "options": [
+          "last",
+          "lasts",
+          "lasting",
+          "to last"
+        ],
+        "answer": "B",
+        "translation": "Tất cả nhân viên kho phải hoàn thành một khóa đào tạo an toàn trước cuối tháng Sáu. Lớp học miễn phí và kéo dài khoảng ba giờ.",
+        "explanation": "Chủ ngữ 'The class' là số ít và câu nói về thời lượng nên dùng hiện tại đơn 'lasts'. 'Last' sai hoà hợp chủ–vị, còn 'lasting' và 'to last' không tạo thành vị ngữ đúng.",
+        "vocab": [
+          ["required", "adj", "bắt buộc"],
+          ["warehouse", "n", "nhà kho"],
+          ["safety", "n", "an toàn"]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Select the best answer to complete blank [136].",
+        "options": [
+          "holds",
+          "held",
+          "is held",
+          "holding"
+        ],
+        "answer": "C",
+        "translation": "Khóa học được tổ chức tại phòng họp ở tầng trệt vào mỗi thứ Ba và thứ Năm.",
+        "explanation": "Khóa học 'được tổ chức' chứ không tự tổ chức, nên cần bị động 'is held'. 'Holds' là chủ động, 'held' và 'holding' thiếu trợ động từ to be.",
+        "vocab": [
+          ["hold", "v", "tổ chức"],
+          ["ground floor", "n", "tầng trệt"],
+          ["arrive", "v", "đến"]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Select the best answer to complete blank [137].",
+        "options": [
+          "until",
+          "since",
+          "on",
+          "by"
+        ],
+        "answer": "D",
+        "translation": "Vui lòng đăng ký tại quầy lễ tân trước thứ Sáu.",
+        "explanation": "Đây là hạn chót phải đăng ký, nên dùng 'by Friday' (muộn nhất là thứ Sáu). 'Until' chỉ việc kéo dài liên tục tới mốc đó, 'since' gắn với mốc bắt đầu, 'on' chỉ nêu ngày diễn ra.",
+        "vocab": [
+          ["sign up", "v", "đăng ký"],
+          ["session", "n", "buổi học"],
+          ["early", "adv", "sớm"]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Which of the following sentences best fits in blank [138]?",
+        "options": [
+          "He will send you a certificate after you finish the course.",
+          "The training room is on the second floor of the main building.",
+          "Lunch is not provided on training days.",
+          "All factory staff must wear a uniform."
+        ],
+        "answer": "A",
+        "translation": "Ông ấy sẽ gửi cho bạn chứng chỉ sau khi bạn hoàn thành khóa học.",
+        "explanation": "'He' thay cho ông David Lee vừa được nhắc ở câu trước, và chứng chỉ sau khóa học rất hợp nội dung thông báo. Các phương án còn lại nói về vị trí phòng học, bữa trưa hay đồng phục của nhà máy nên không liên quan.",
+        "vocab": [
+          ["certificate", "n", "chứng chỉ"],
+          ["extension", "n", "số máy lẻ"],
+          ["finish", "v", "hoàn thành"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following meeting minutes:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">MEETING MINUTES</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Date: March 8<br>Present: Ms. Lane, Mr. Ortiz, Ms. Park, and two designers</p><p class=\"mt-2\">The team met to discuss the new website. Ms. Lane said the design was almost finished, <strong>[139]</strong> two pages still needed more work.</p><p class=\"mt-2\">Mr. Ortiz <strong>[140]</strong> that the online store should open in May. Everyone agreed, and Ms. Park will contact the payment company next week.</p><p class=\"mt-2\">The next meeting will be on March 22 at 9 a.m. in Room 4. Each member should send a short progress report to Ms. Lane <strong>[141]</strong> the meeting.</p><p class=\"mt-2\">The meeting ended at 9:50 a.m. <strong>[142]</strong></p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Select the best answer to complete blank [139].",
+        "options": [
+          "so",
+          "but",
+          "because",
+          "or"
+        ],
+        "answer": "B",
+        "translation": "Nhóm họp để bàn về trang web mới. Bà Lane cho biết phần thiết kế gần xong, nhưng hai trang vẫn cần làm thêm.",
+        "explanation": "Hai vế trái ngược nhau: 'gần xong' và 'vẫn cần làm thêm', nên dùng liên từ 'but'. 'So' chỉ kết quả, 'because' chỉ nguyên nhân, 'or' chỉ sự lựa chọn.",
+        "vocab": [
+          ["design", "n", "phần thiết kế"],
+          ["finished", "adj", "đã xong"],
+          ["page", "n", "trang"]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Select the best answer to complete blank [140].",
+        "options": [
+          "suggested",
+          "suggest",
+          "suggests",
+          "suggesting"
+        ],
+        "answer": "A",
+        "translation": "Ông Ortiz đề nghị cửa hàng trực tuyến nên khai trương vào tháng Năm.",
+        "explanation": "Việc đề nghị đã diễn ra trong cuộc họp đã kết thúc nên dùng quá khứ đơn 'suggested'. 'Suggest' và 'suggests' là thì hiện tại, 'suggesting' thiếu trợ động từ.",
+        "vocab": [
+          ["online store", "n", "cửa hàng trực tuyến"],
+          ["agree", "v", "đồng ý"],
+          ["contact", "v", "liên hệ"]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Select the best answer to complete blank [141].",
+        "options": [
+          "until",
+          "during",
+          "before",
+          "from"
+        ],
+        "answer": "C",
+        "translation": "Mỗi thành viên nên gửi một báo cáo tiến độ ngắn cho bà Lane trước cuộc họp.",
+        "explanation": "Báo cáo phải gửi trước khi họp nên dùng 'before the meeting'. 'Until' chỉ kéo dài liên tục, 'during' là trong lúc họp đang diễn ra, 'from' chỉ điểm bắt đầu.",
+        "vocab": [
+          ["progress", "n", "tiến độ"],
+          ["report", "n", "báo cáo"],
+          ["member", "n", "thành viên"]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Which of the following sentences best fits in blank [142]?",
+        "options": [
+          "The company picnic will be held in July.",
+          "Ms. Park will order new computers for the design team.",
+          "Mr. Ortiz joined the company last year.",
+          "Copies of these notes will be placed in the shared folder tomorrow."
+        ],
+        "answer": "D",
+        "translation": "Bản sao của biên bản này sẽ được đưa vào thư mục chung vào ngày mai.",
+        "explanation": "Câu kết biên bản thường thông báo nơi lưu biên bản, nên phương án nói về bản sao biên bản trong thư mục chung là phù hợp nhất. Các phương án còn lại nói về dã ngoại công ty, mua máy tính hay ngày vào làm nên lạc ý.",
+        "vocab": [
+          ["copy", "n", "bản sao"],
+          ["shared folder", "n", "thư mục chung"],
+          ["place", "v", "đặt, để"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following invitation:",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-center text-base\">INVITATION</p><hr class=\"my-2 border-neutral-300\"><p class=\"mt-2\">Dear Ms. Tran,</p><p class=\"mt-2\">We are happy to invite you to the opening of our new branch in Hai Phong. The event <strong>[143]</strong> on Saturday, May 6, from 4 p.m. to 7 p.m.</p><p class=\"mt-2\">The branch is on the first floor of the Sunrise Building, <strong>[144]</strong> the train station. Guests can park in the garage behind the building.</p><p class=\"mt-2\">We will serve light snacks and drinks, and our manager will give a short speech at 5 p.m. Please reply to this letter by April 28 <strong>[145]</strong> we can plan the food.</p><p class=\"mt-2\">If you need a map or a parking pass, please call our office. <strong>[146]</strong></p><p class=\"mt-2\">We look forward to seeing you there.<br>Sincerely,<br>Nguyen Van Hoa<br>Branch Manager</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Select the best answer to complete blank [143].",
+        "options": [
+          "will hold",
+          "is holding",
+          "holds",
+          "will be held"
+        ],
+        "answer": "D",
+        "translation": "Chúng tôi vui mừng mời bà đến dự lễ khai trương chi nhánh mới của chúng tôi tại Hải Phòng. Sự kiện sẽ được tổ chức vào thứ Bảy, ngày 6 tháng Năm, từ 4 giờ đến 7 giờ tối.",
+        "explanation": "Sự kiện 'được tổ chức' chứ không tự tổ chức, nên cần bị động ở tương lai 'will be held'. 'Will hold' là chủ động, 'is holding' và 'holds' sai thì so với mốc thời gian trong tương lai.",
+        "vocab": [
+          ["invite", "v", "mời"],
+          ["opening", "n", "lễ khai trương"],
+          ["branch", "n", "chi nhánh"]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Select the best answer to complete blank [144].",
+        "options": [
+          "near",
+          "nearly",
+          "nearer",
+          "nearest"
+        ],
+        "answer": "A",
+        "translation": "Chi nhánh nằm ở tầng một của tòa nhà Sunrise, gần ga tàu.",
+        "explanation": "Cần giới từ chỉ vị trí 'near' (gần) để nói chi nhánh ở đâu. 'Nearly' là trạng từ nghĩa 'gần như', còn 'nearer' và 'nearest' là dạng so sánh hơn và so sánh nhất.",
+        "vocab": [
+          ["first floor", "n", "tầng một"],
+          ["guest", "n", "khách mời"],
+          ["garage", "n", "bãi đỗ xe"]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Select the best answer to complete blank [145].",
+        "options": [
+          "but",
+          "so",
+          "although",
+          "because"
+        ],
+        "answer": "B",
+        "translation": "Chúng tôi sẽ phục vụ đồ ăn nhẹ và đồ uống, quản lý của chúng tôi sẽ phát biểu ngắn vào 5 giờ. Vui lòng trả lời thư này trước ngày 28 tháng Tư để chúng tôi chuẩn bị đồ ăn.",
+        "explanation": "Vế sau nêu kết quả mong muốn của việc trả lời sớm (chuẩn bị được đồ ăn), nên dùng 'so'. 'But' chỉ đối lập, 'although' chỉ nhượng bộ, 'because' chỉ nguyên nhân.",
+        "vocab": [
+          ["snack", "n", "đồ ăn nhẹ"],
+          ["speech", "n", "bài phát biểu"],
+          ["reply", "v", "trả lời"]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Which of the following sentences best fits in blank [146]?",
+        "options": [
+          "The garage has space for thirty cars.",
+          "Our branch manager lives in the city center.",
+          "We are sure you will enjoy the evening.",
+          "The train station was closed last year."
+        ],
+        "answer": "C",
+        "translation": "Chúng tôi chắc rằng bà sẽ thích buổi tối này.",
+        "explanation": "Trước câu kết 'We look forward to seeing you there', câu 'We are sure you will enjoy the evening' giữ đúng giọng mời và khép lá thư tự nhiên. Các phương án còn lại nói về bãi đỗ xe, nơi ở của quản lý hay ga tàu nên lạc ý.",
+        "vocab": [
+          ["enjoy", "v", "thích, tận hưởng"],
+          ["evening", "n", "buổi tối"],
+          ["branch manager", "n", "quản lý chi nhánh"]
+        ]
+      }
+    ]
+  }
+]

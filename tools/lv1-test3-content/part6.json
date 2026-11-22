@@ -1,0 +1,243 @@
+[
+  {
+    "passageTitle": "Questions 131-134 refer to the following notice.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">Parkside Mall Parking Notice</p><p class=\"mb-2\">Dear Shoppers,</p><p class=\"mb-2\">The east parking lot at Parkside Mall will be closed for painting and repairs <strong>[131]</strong> Monday, June 5, to Wednesday, June 7. During these three days, workers will paint new white lines and fix several lights.</p><p class=\"mb-2\">You can still park your car in the west parking lot behind the mall. The west lot has over 400 spaces and is <strong>[132]</strong> for all mall visitors. Our staff will stand near the main gate to <strong>[133]</strong> you find an empty space quickly.</p><p class=\"mb-2\"><strong>[134]</strong></p><p>Thank you for your patience,<br>Parkside Mall Management</p></div>",
+    "questions": [
+      {
+        "n": 131,
+        "q": "Choose the best word or phrase for blank [131].",
+        "options": ["from", "at", "with", "into"],
+        "answer": "A",
+        "translation": "Bãi đỗ xe phía đông tại Trung tâm thương mại Parkside sẽ đóng cửa để sơn và sửa chữa từ thứ Hai ngày 5 tháng 6 đến thứ Tư ngày 7 tháng 6.",
+        "explanation": "Cấu trúc 'from ... to ...' dùng để chỉ khoảng thời gian bắt đầu và kết thúc.",
+        "vocab": [
+          ["repair", "n", "việc sửa chữa"],
+          ["parking lot", "n", "bãi đỗ xe"]
+        ]
+      },
+      {
+        "n": 132,
+        "q": "Choose the best word or phrase for blank [132].",
+        "options": ["open", "opening", "opened", "opens"],
+        "answer": "A",
+        "translation": "Bãi đỗ xe phía tây có hơn 400 chỗ và mở cửa cho tất cả khách tham quan trung tâm thương mại.",
+        "explanation": "Sau động từ 'is' cần tính từ 'open' (mở cửa) để miêu tả trạng thái.",
+        "vocab": [
+          ["space", "n", "chỗ trống, không gian"],
+          ["visitor", "n", "khách tham quan"]
+        ]
+      },
+      {
+        "n": 133,
+        "q": "Choose the best word or phrase for blank [133].",
+        "options": ["help", "helps", "helped", "helping"],
+        "answer": "A",
+        "translation": "Nhân viên của chúng tôi sẽ đứng gần cổng chính để giúp bạn tìm chỗ trống nhanh chóng.",
+        "explanation": "Sau 'to' chỉ mục đích dùng động từ nguyên mẫu 'help'.",
+        "vocab": [
+          ["main gate", "n", "cổng chính"],
+          ["empty", "adj", "trống"]
+        ]
+      },
+      {
+        "n": 134,
+        "q": "Choose the best sentence for blank [134].",
+        "options": [
+          "The east lot will open again on Thursday morning.",
+          "The mall sells fresh fruit and vegetables.",
+          "Please bring your old shoes to the store.",
+          "Our bus drivers take a break at noon."
+        ],
+        "answer": "A",
+        "translation": "Bãi đỗ xe phía đông sẽ mở cửa trở lại vào sáng thứ Năm.",
+        "explanation": "Đoạn văn thông báo đóng cửa từ thứ Hai đến thứ Tư, nên câu kết phù hợp nhất là thông báo mở cửa lại vào sáng thứ Năm.",
+        "vocab": [
+          ["patience", "n", "sự kiên nhẫn"],
+          ["management", "n", "ban quản lý"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 135-138 refer to the following e-mail.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"mb-1\"><strong>To:</strong> New Interns</p><p class=\"mb-1\"><strong>From:</strong> Laura Chen, Human Resources</p><p class=\"mb-1\"><strong>Subject:</strong> Welcome to Bright Media!</p><p class=\"mb-2\">Hello everyone,</p><p class=\"mb-2\">Welcome to your first week at Bright Media. We are very happy to have <strong>[135]</strong> on our team this summer. Today, I want to share some quick information about lunch at our office.</p><p class=\"mb-2\">Our company cafeteria is on the third floor. It serves hot meals, salads, and drinks from 11:30 A.M. to 1:30 P.M. Every intern gets a free lunch card <strong>[136]</strong> works for ten meals.</p><p class=\"mb-2\">If you bring food from home, you can use the <strong>[137]</strong> in the break room on the second floor. Please clean the table after you finish eating. <strong>[138]</strong></p><p>Best regards,<br>Laura Chen</p></div>",
+    "questions": [
+      {
+        "n": 135,
+        "q": "Choose the best word or phrase for blank [135].",
+        "options": ["you", "your", "yours", "yourself"],
+        "answer": "A",
+        "translation": "Chúng tôi rất vui khi có các bạn trong đội ngũ của chúng tôi vào mùa hè này.",
+        "explanation": "Sau động từ 'have' cần đại từ tân ngữ 'you' (các bạn).",
+        "vocab": [
+          ["intern", "n", "thực tập sinh"],
+          ["team", "n", "đội ngũ, nhóm"]
+        ]
+      },
+      {
+        "n": 136,
+        "q": "Choose the best word or phrase for blank [136].",
+        "options": ["who", "that", "where", "when"],
+        "answer": "B",
+        "translation": "Mỗi thực tập sinh nhận được một thẻ ăn trưa miễn phí có giá trị cho mười bữa ăn.",
+        "explanation": "Thay thế cho danh từ chỉ vật 'a free lunch card' và làm chủ ngữ cho động từ 'works' nên dùng đại từ quan hệ 'that'.",
+        "vocab": [
+          ["cafeteria", "n", "căn tin, nhà ăn"],
+          ["meal", "n", "bữa ăn"]
+        ]
+      },
+      {
+        "n": 137,
+        "q": "Choose the best word or phrase for blank [137].",
+        "options": ["microwave", "printer", "elevator", "suitcase"],
+        "answer": "A",
+        "translation": "Nếu bạn mang đồ ăn từ nhà, bạn có thể dùng lò vi sóng trong phòng nghỉ ở tầng hai.",
+        "explanation": "Trong ngữ cảnh hâm nóng đồ ăn mang từ nhà, danh từ phù hợp là 'microwave' (lò vi sóng).",
+        "vocab": [
+          ["microwave", "n", "lò vi sóng"],
+          ["break room", "n", "phòng nghỉ nhân viên"]
+        ]
+      },
+      {
+        "n": 138,
+        "q": "Choose the best sentence for blank [138].",
+        "options": [
+          "The parking lot is full on Friday nights.",
+          "Stop by my office anytime if you have questions.",
+          "We sold five hundred books last month.",
+          "The train station is across the river."
+        ],
+        "answer": "B",
+        "translation": "Hãy ghé qua văn phòng của tôi bất cứ lúc nào nếu bạn có câu hỏi.",
+        "explanation": "Đây là lời kết thân thiện phù hợp cho email chào đón thực tập sinh mới từ phòng nhân sự.",
+        "vocab": [
+          ["stop by", "v", "ghé qua"],
+          ["anytime", "adv", "bất cứ lúc nào"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 139-142 refer to the following advertisement.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">Daily Lunch Box — Fresh Food for Busy Offices</p><p class=\"mb-2\">Are you too busy to leave your desk at lunchtime? Let Daily Lunch Box bring a tasty meal right to your <strong>[139]</strong>!</p><p class=\"mb-2\">We cook fresh lunches every morning using local vegetables, chicken, and rice. You can choose from six different menus each week. Our food is healthy, <strong>[140]</strong>, and always arrives warm.</p><p class=\"mb-2\">To place an order, visit our website before 10:00 A.M. Delivery is free when you order five or more boxes for your team. We accept cash, credit cards, <strong>[141]</strong> mobile payments. <strong>[142]</strong></p></div>",
+    "questions": [
+      {
+        "n": 139,
+        "q": "Choose the best word or phrase for blank [139].",
+        "options": ["office", "officially", "officer", "official"],
+        "answer": "A",
+        "translation": "Hãy để Daily Lunch Box mang một bữa ăn ngon đến tận văn phòng của bạn!",
+        "explanation": "Sau tính từ sở hữu 'your' cần một danh từ chỉ địa điểm phù hợp là 'office'.",
+        "vocab": [
+          ["tasty", "adj", "ngon miệng"],
+          ["lunchtime", "n", "giờ ăn trưa"]
+        ]
+      },
+      {
+        "n": 140,
+        "q": "Choose the best word or phrase for blank [140].",
+        "options": ["cheap", "cheaply", "cheapness", "cheapest"],
+        "answer": "A",
+        "translation": "Đồ ăn của chúng tôi lành mạnh, giá rẻ và luôn được giao khi còn ấm.",
+        "explanation": "Cấu trúc song song liệt kê các tính từ sau 'is': 'healthy, cheap, and ...'.",
+        "vocab": [
+          ["healthy", "adj", "lành mạnh, tốt cho sức khỏe"],
+          ["warm", "adj", "ấm áp"]
+        ]
+      },
+      {
+        "n": 141,
+        "q": "Choose the best word or phrase for blank [141].",
+        "options": ["and", "but", "because", "if"],
+        "answer": "A",
+        "translation": "Chúng tôi chấp nhận tiền mặt, thẻ tín dụng và thanh toán qua điện thoại.",
+        "explanation": "Dùng liên từ 'and' trước mục cuối cùng trong danh sách liệt kê.",
+        "vocab": [
+          ["accept", "v", "chấp nhận"],
+          ["delivery", "n", "sự giao hàng"]
+        ]
+      },
+      {
+        "n": 142,
+        "q": "Choose the best sentence for blank [142].",
+        "options": [
+          "New customers get 20 percent off their first order.",
+          "The museum closes at five o'clock.",
+          "Please wear a warm coat in the snow.",
+          "My brother bought a blue bicycle yesterday."
+        ],
+        "answer": "A",
+        "translation": "Khách hàng mới được giảm 20% cho đơn hàng đầu tiên.",
+        "explanation": "Câu quảng cáo ưu đãi cho khách hàng mới rất phù hợp để kết thúc bài giới thiệu dịch vụ giao cơm trưa.",
+        "vocab": [
+          ["customer", "n", "khách hàng"],
+          ["percent", "n", "phần trăm"]
+        ]
+      }
+    ]
+  },
+  {
+    "passageTitle": "Questions 143-146 refer to the following letter.",
+    "passageHtml": "<div class=\"border-2 border-neutral-800 bg-white p-4 sm:p-5 text-sm leading-relaxed text-neutral-900 shadow-sm mb-3\"><p class=\"font-bold text-base mb-2\">Oakwood Dental Clinic</p><p class=\"mb-2\">Dear Mr. Garcia,</p><p class=\"mb-2\">This letter is to confirm your upcoming dental checkup with Dr. Patel. Your appointment is scheduled for Tuesday, October 12, at 2:30 P.M. Please arrive ten minutes <strong>[143]</strong> to fill out a short health form.</p><p class=\"mb-2\">Our clinic is located at 45 Maple Street, right next to the central bank. Free parking is available <strong>[144]</strong> the building for all patients.</p><p class=\"mb-2\">If you cannot come on Tuesday, please call us at 555-0192 at least one day ahead. <strong>[145]</strong></p><p class=\"mb-2\"><strong>[146]</strong></p><p>Sincerely,<br>Oakwood Dental Clinic</p></div>",
+    "questions": [
+      {
+        "n": 143,
+        "q": "Choose the best word or phrase for blank [143].",
+        "options": ["early", "earlier", "earliest", "earliness"],
+        "answer": "A",
+        "translation": "Vui lòng đến sớm mười phút để điền vào một mẫu thông tin sức khỏe ngắn.",
+        "explanation": "Cụm từ phổ biến 'ten minutes early' có nghĩa là sớm 10 phút.",
+        "vocab": [
+          ["confirm", "v", "xác nhận"],
+          ["checkup", "n", "cuộc kiểm tra sức khỏe"]
+        ]
+      },
+      {
+        "n": 144,
+        "q": "Choose the best word or phrase for blank [144].",
+        "options": ["behind", "between", "among", "during"],
+        "answer": "A",
+        "translation": "Bãi đỗ xe miễn phí có sẵn ở phía sau tòa nhà cho tất cả bệnh nhân.",
+        "explanation": "Giới từ chỉ vị trí 'behind the building' (phía sau tòa nhà) phù hợp với danh từ số ít 'the building'.",
+        "vocab": [
+          ["available", "adj", "có sẵn"],
+          ["patient", "n", "bệnh nhân"]
+        ]
+      },
+      {
+        "n": 145,
+        "q": "Choose the best word or phrase for blank [145].",
+        "options": [
+          "We will be happy to choose a new time for you.",
+          "Our chef prepares fresh soup every morning.",
+          "The movie starts at seven tonight.",
+          "Your library book is two days late."
+        ],
+        "answer": "A",
+        "translation": "Chúng tôi sẽ rất vui lòng chọn một thời gian mới cho bạn.",
+        "explanation": "Câu trước nói về việc gọi điện báo trước nếu không thể đến vào thứ Ba, nên câu này nối tiếp hợp lý về việc đổi lịch hẹn.",
+        "vocab": [
+          ["ahead", "adv", "trước"],
+          ["schedule", "v", "lên lịch"]
+        ]
+      },
+      {
+        "n": 146,
+        "q": "Choose the best sentence for blank [146].",
+        "options": [
+          "We look forward to seeing you next week.",
+          "Please do not feed the birds in the park.",
+          "The train ticket costs twelve dollars.",
+          "This jacket is available in blue and black."
+        ],
+        "answer": "A",
+        "translation": "Chúng tôi rất mong được gặp bạn vào tuần tới.",
+        "explanation": "Đây là câu kết lịch sự chuẩn mực cho thư xác nhận lịch hẹn.",
+        "vocab": [
+          ["look forward to", "v", "mong đợi"],
+          ["appointment", "n", "cuộc hẹn"]
+        ]
+      }
+    ]
+  }
+]

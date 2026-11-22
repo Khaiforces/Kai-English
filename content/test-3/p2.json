@@ -1,0 +1,581 @@
+[
+  {
+    "id": 7,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Where should we store the backup drives until the migration is complete?\n(A) Around three hours, I would guess.\n(B) In the locked cabinet in the server room.\n(C) Yes, the migration went smoothly.",
+    "audioVoiceText": "Where should we store the backup drives until the migration is complete? A. Around three hours, I would guess. B. In the locked cabinet in the server room. C. Yes, the migration went smoothly.",
+    "options": [
+      { "key": "A", "text": "(A) Around three hours, I would guess." },
+      { "key": "B", "text": "(B) In the locked cabinet in the server room." },
+      { "key": "C", "text": "(C) Yes, the migration went smoothly." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chúng ta nên cất các ổ đĩa sao lưu ở đâu cho đến khi hoàn tất việc chuyển hệ thống?\n(A) Tôi đoán khoảng ba tiếng.\n(B) Trong tủ có khóa ở phòng máy chủ.\n(C) Vâng, việc chuyển hệ thống diễn ra suôn sẻ.",
+    "explanation": "Câu hỏi dùng 'Where' nên đáp án phải nêu địa điểm. (B) 'In the locked cabinet in the server room' (trong tủ khóa ở phòng máy chủ) trả lời trực tiếp cho 'where' và còn phù hợp ngữ cảnh bảo mật dữ liệu sao lưu. (A) 'Around three hours' là câu trả lời cho 'How long', không trả lời địa điểm. (C) là câu trả lời Yes/No, không dùng cho câu hỏi Wh- và còn nhắc lại 'migration' để gây nhiễu.",
+    "vocab": [
+      { "word": "backup", "pos": "n", "meaning": "bản sao lưu, dữ liệu dự phòng" },
+      { "word": "migration", "pos": "n", "meaning": "sự chuyển đổi (hệ thống, dữ liệu)" },
+      { "word": "server", "pos": "n", "meaning": "máy chủ" },
+      { "word": "cabinet", "pos": "n", "meaning": "tủ (có ngăn/khoá)" }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Have you scheduled the follow-up appointments for next week's patients?\n(A) Not yet — the doctor's calendar hasn't been finalized.\n(B) The waiting room was repainted last month.\n(C) It's on the second floor of the clinic.",
+    "audioVoiceText": "Have you scheduled the follow-up appointments for next week's patients? A. Not yet — the doctor's calendar hasn't been finalized. B. The waiting room was repainted last month. C. It's on the second floor of the clinic.",
+    "options": [
+      { "key": "A", "text": "(A) Not yet — the doctor's calendar hasn't been finalized." },
+      { "key": "B", "text": "(B) The waiting room was repainted last month." },
+      { "key": "C", "text": "(C) It's on the second floor of the clinic." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn đã sắp xếp các cuộc hẹn tái khám cho bệnh nhân tuần sau chưa?\n(A) Chưa — lịch của bác sĩ vẫn chưa được chốt.\n(B) Phòng chờ đã được sơn lại vào tháng trước.\n(C) Nó ở tầng hai của phòng khám.",
+    "explanation": "Đây là câu hỏi Yes/No ở thì hiện tại hoàn thành, hỏi đã hoàn thành việc gì chưa. (A) 'Not yet' trả lời trực tiếp và đưa lý do 'the doctor's calendar hasn't been finalized' (lịch bác sĩ chưa chốt) rất hợp lý nên đúng. (B) nói về việc sơn lại phòng chờ — không liên quan đến việc đặt lịch. (C) trả lời cho câu hỏi 'Where', không phải Yes/No.",
+    "vocab": [
+      { "word": "schedule", "pos": "v", "meaning": "lên lịch, sắp xếp lịch" },
+      { "word": "follow-up", "pos": "adj/n", "meaning": "tái khám, theo dõi tiếp" },
+      { "word": "finalize", "pos": "v", "meaning": "hoàn tất, chốt lần cuối" },
+      { "word": "appointment", "pos": "n", "meaning": "cuộc hẹn" }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: The 6:15 train to the distribution center leaves from platform 4, doesn't it?\n(A) About twenty boxes, I think.\n(B) No, I've never met the driver.\n(C) Actually, it's been moved to platform 6.",
+    "audioVoiceText": "The 6:15 train to the distribution center leaves from platform 4, doesn't it? A. About twenty boxes, I think. B. No, I've never met the driver. C. Actually, it's been moved to platform 6.",
+    "options": [
+      { "key": "A", "text": "(A) About twenty boxes, I think." },
+      { "key": "B", "text": "(B) No, I've never met the driver." },
+      { "key": "C", "text": "(C) Actually, it's been moved to platform 6." }
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Chuyến tàu 6:15 đến trung tâm phân phối khởi hành từ sân ga số 4 phải không?\n(A) Tôi nghĩ khoảng hai mươi thùng.\n(B) Không, tôi chưa từng gặp tài xế.\n(C) Thật ra, nó đã được chuyển sang sân ga số 6.",
+    "explanation": "Câu hỏi đuôi (tag question) xác nhận thông tin về sân ga khởi hành; người trả lời có thể đồng ý hoặc đính chính. (C) 'Actually, it's been moved to platform 6' đính chính một cách tự nhiên và vẫn nói về sân ga nên đúng. (B) 'No' nghe như phủ định nhưng phần sau 'I've never met the driver' trả lời cho câu hỏi về người lái, không liên quan đến sân ga. (A) trả lời cho 'How many', không liên quan.",
+    "vocab": [
+      { "word": "platform", "pos": "n", "meaning": "sân ga, bến (tàu)" },
+      { "word": "distribution center", "pos": "n phr", "meaning": "trung tâm phân phối" },
+      { "word": "move", "pos": "v", "meaning": "di chuyển, dời" },
+      { "word": "driver", "pos": "n", "meaning": "tài xế, người lái" }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: When does the new advertising campaign launch in the Southeast region?\n(A) In the budget meeting room.\n(B) The first week of October.\n(C) Because the agency needed more time.",
+    "audioVoiceText": "When does the new advertising campaign launch in the Southeast region? A. In the budget meeting room. B. The first week of October. C. Because the agency needed more time.",
+    "options": [
+      { "key": "A", "text": "(A) In the budget meeting room." },
+      { "key": "B", "text": "(B) The first week of October." },
+      { "key": "C", "text": "(C) Because the agency needed more time." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Chiến dịch quảng cáo mới sẽ ra mắt ở khu vực Đông Nam vào khi nào?\n(A) Trong phòng họp ngân sách.\n(B) Tuần đầu tiên của tháng Mười.\n(C) Bởi vì công ty quảng cáo cần thêm thời gian.",
+    "explanation": "Câu hỏi 'When' yêu cầu mốc thời gian. (B) 'The first week of October' là cụm thời gian chính xác nên đúng. (A) 'In the budget meeting room' là địa điểm, trả lời cho 'Where'. (C) bắt đầu bằng 'Because' nên trả lời cho 'Why'; nếu nghe 'launch' thành 'late' sẽ dễ chọn nhầm.",
+    "vocab": [
+      { "word": "campaign", "pos": "n", "meaning": "chiến dịch (quảng cáo, marketing)" },
+      { "word": "launch", "pos": "v", "meaning": "ra mắt, khởi động" },
+      { "word": "region", "pos": "n", "meaning": "khu vực" },
+      { "word": "agency", "pos": "n", "meaning": "công ty dịch vụ (quảng cáo)" }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Why don't we offer a discount to customers affected by the shipping delay?\n(A) That might help rebuild their trust.\n(B) Yes, the shipment arrived yesterday.\n(C) It's a very large warehouse.",
+    "audioVoiceText": "Why don't we offer a discount to customers affected by the shipping delay? A. That might help rebuild their trust. B. Yes, the shipment arrived yesterday. C. It's a very large warehouse.",
+    "options": [
+      { "key": "A", "text": "(A) That might help rebuild their trust." },
+      { "key": "B", "text": "(B) Yes, the shipment arrived yesterday." },
+      { "key": "C", "text": "(C) It's a very large warehouse." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Sao chúng ta không giảm giá cho những khách hàng bị ảnh hưởng bởi việc giao hàng chậm nhỉ?\n(A) Điều đó có thể giúp lấy lại niềm tin của họ.\n(B) Vâng, lô hàng đã đến vào hôm qua.\n(C) Đó là một kho hàng rất lớn.",
+    "explanation": "'Why don't we...?' là lời đề nghị/gợi ý chứ không phải câu hỏi Yes/No thật sự, nên câu trả lời thường là ý kiến tán thành hoặc phản đối. (A) 'That might help rebuild their trust' là phản hồi tán thành kèm lý do, phù hợp ngữ cảnh dịch vụ khách hàng nên đúng. (B) 'Yes' máy móc và nội dung nói về việc hàng đã đến — không liên quan đến việc giảm giá. (C) nói về kho hàng, không liên quan.",
+    "vocab": [
+      { "word": "discount", "pos": "n", "meaning": "sự giảm giá, chiết khấu" },
+      { "word": "delay", "pos": "n", "meaning": "sự chậm trễ" },
+      { "word": "rebuild", "pos": "v", "meaning": "xây dựng lại, khôi phục" },
+      { "word": "trust", "pos": "n", "meaning": "niềm tin, sự tín nhiệm" }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: The new time-tracking software keeps logging me out every ten minutes.\n(A) I logged in from the conference room.\n(B) Ten minutes is a short walk from here.\n(C) Let me have IT take a look at your account settings.",
+    "audioVoiceText": "The new time-tracking software keeps logging me out every ten minutes. A. I logged in from the conference room. B. Ten minutes is a short walk from here. C. Let me have IT take a look at your account settings.",
+    "options": [
+      { "key": "A", "text": "(A) I logged in from the conference room." },
+      { "key": "B", "text": "(B) Ten minutes is a short walk from here." },
+      { "key": "C", "text": "(C) Let me have IT take a look at your account settings." }
+    ],
+    "correct": "C",
+    "translation": "Câu trần thuật: Phần mềm chấm công mới cứ tự đăng xuất tôi sau mỗi mười phút.\n(A) Tôi đã đăng nhập từ phòng hội nghị.\n(B) Mười phút là một quãng đi bộ ngắn từ đây.\n(C) Để tôi nhờ bộ phận IT xem lại phần cài đặt tài khoản của bạn.",
+    "explanation": "Câu trần thuật nêu một vấn đề (bị đăng xuất liên tục) nên phản hồi hợp lý là đưa ra giải pháp. (C) 'Let me have IT take a look at your account settings' đề nghị nhờ IT kiểm tra cài đặt tài khoản — xử lý đúng vấn đề nên đúng. (A) chỉ kể lại việc đã đăng nhập ở đâu, không giải quyết lỗi. (B) hiểu sai 'ten minutes' thành khoảng cách thời gian đi bộ, không liên quan.",
+    "vocab": [
+      { "word": "log out", "pos": "phr v", "meaning": "đăng xuất" },
+      { "word": "account settings", "pos": "n phr", "meaning": "cài đặt tài khoản" },
+      { "word": "time-tracking", "pos": "adj", "meaning": "theo dõi thời gian làm việc" },
+      { "word": "take a look", "pos": "phr", "meaning": "xem xét, kiểm tra" }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: How long will the bridge closure affect our delivery routes?\n(A) By truck, usually.\n(B) At least until the end of the month.\n(C) The route map is on the intranet.",
+    "audioVoiceText": "How long will the bridge closure affect our delivery routes? A. By truck, usually. B. At least until the end of the month. C. The route map is on the intranet.",
+    "options": [
+      { "key": "A", "text": "(A) By truck, usually." },
+      { "key": "B", "text": "(B) At least until the end of the month." },
+      { "key": "C", "text": "(C) The route map is on the intranet." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Việc đóng cửa cây cầu sẽ ảnh hưởng đến các tuyến giao hàng của chúng ta trong bao lâu?\n(A) Thường là bằng xe tải.\n(B) Ít nhất là đến cuối tháng.\n(C) Bản đồ tuyến đường có trên mạng nội bộ.",
+    "explanation": "'How long' hỏi khoảng thời gian. (B) 'At least until the end of the month' nêu rõ thời hạn nên đúng. (A) 'By truck' trả lời cho 'How' (phương tiện) chứ không phải 'How long'. (C) giới thiệu vị trí bản đồ tuyến đường — trả lời cho 'Where', và từ 'route' lặp lại để gây nhiễu.",
+    "vocab": [
+      { "word": "closure", "pos": "n", "meaning": "sự đóng cửa, phong tỏa" },
+      { "word": "affect", "pos": "v", "meaning": "ảnh hưởng đến" },
+      { "word": "delivery route", "pos": "n phr", "meaning": "tuyến giao hàng" },
+      { "word": "intranet", "pos": "n", "meaning": "mạng nội bộ" }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Would you rather present the market analysis on Tuesday or wait until the client returns?\n(A) Yes, the analysis is quite detailed.\n(B) I presented it to the client.\n(C) Tuesday works better for me.",
+    "audioVoiceText": "Would you rather present the market analysis on Tuesday or wait until the client returns? A. Yes, the analysis is quite detailed. B. I presented it to the client. C. Tuesday works better for me.",
+    "options": [
+      { "key": "A", "text": "(A) Yes, the analysis is quite detailed." },
+      { "key": "B", "text": "(B) I presented it to the client." },
+      { "key": "C", "text": "(C) Tuesday works better for me." }
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn muốn trình bày bản phân tích thị trường vào thứ Ba hay đợi đến khi khách hàng quay lại?\n(A) Vâng, bản phân tích khá chi tiết.\n(B) Tôi đã trình bày nó cho khách hàng.\n(C) Thứ Ba thuận tiện hơn với tôi.",
+    "explanation": "Câu hỏi lựa chọn 'Would you rather A or B?' phải được trả lời bằng việc chọn một trong hai phương án, không dùng 'Yes/No'. (C) 'Tuesday works better for me' chọn phương án thứ nhất nên đúng. (A) 'Yes' sai vì đây không phải câu hỏi Yes/No. (B) dùng thì quá khứ nói việc đã trình bày rồi, không trả lời cho câu hỏi lựa chọn thời điểm.",
+    "vocab": [
+      { "word": "would rather", "pos": "phr", "meaning": "thích... hơn, muốn... hơn" },
+      { "word": "market analysis", "pos": "n phr", "meaning": "phân tích thị trường" },
+      { "word": "client", "pos": "n", "meaning": "khách hàng (doanh nghiệp)" },
+      { "word": "present", "pos": "v", "meaning": "trình bày" }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Didn't you send the lab results to Dr. Alvarez this morning?\n(A) I did, but her office said they never arrived.\n(B) The lab is on the ground floor.\n(C) No, she's an excellent physician.",
+    "audioVoiceText": "Didn't you send the lab results to Dr. Alvarez this morning? A. I did, but her office said they never arrived. B. The lab is on the ground floor. C. No, she's an excellent physician.",
+    "options": [
+      { "key": "A", "text": "(A) I did, but her office said they never arrived." },
+      { "key": "B", "text": "(B) The lab is on the ground floor." },
+      { "key": "C", "text": "(C) No, she's an excellent physician." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Bạn đã gửi kết quả xét nghiệm cho bác sĩ Alvarez sáng nay rồi phải không?\n(A) Tôi đã gửi, nhưng phòng khám của cô ấy nói chưa nhận được.\n(B) Phòng xét nghiệm ở tầng trệt.\n(C) Không, cô ấy là một bác sĩ rất giỏi.",
+    "explanation": "Câu hỏi phủ định 'Didn't you...?' hỏi để xác nhận; câu trả lời 'I did' nghĩa là 'có, tôi đã làm'. (A) 'I did, but her office said they never arrived' trả lời đúng và bổ sung tình huống thực tế nên đúng. (B) trả lời cho 'Where'. (C) 'No' + khen bác sĩ giỏi — không trả lời việc gửi kết quả, và cách khen không liên quan.",
+    "vocab": [
+      { "word": "lab results", "pos": "n phr", "meaning": "kết quả xét nghiệm" },
+      { "word": "physician", "pos": "n", "meaning": "bác sĩ (nội khoa)" },
+      { "word": "arrive", "pos": "v", "meaning": "đến, được nhận" },
+      { "word": "ground floor", "pos": "n phr", "meaning": "tầng trệt" }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Who's handling the registration desk at the trade show next month?\n(A) It's in Hall B, near the entrance.\n(B) About two hundred attendees.\n(C) Priya volunteered for the morning shift.",
+    "audioVoiceText": "Who's handling the registration desk at the trade show next month? A. It's in Hall B, near the entrance. B. About two hundred attendees. C. Priya volunteered for the morning shift.",
+    "options": [
+      { "key": "A", "text": "(A) It's in Hall B, near the entrance." },
+      { "key": "B", "text": "(B) About two hundred attendees." },
+      { "key": "C", "text": "(C) Priya volunteered for the morning shift." }
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Ai sẽ phụ trách bàn đăng ký tại hội chợ triển lãm vào tháng sau?\n(A) Nó ở Hội trường B, gần lối vào.\n(B) Khoảng hai trăm người tham dự.\n(C) Priya đã tình nguyện làm ca sáng.",
+    "explanation": "Câu hỏi 'Who' cần câu trả lời là người. (C) 'Priya volunteered for the morning shift' nêu tên người đảm nhận nên đúng. (A) là địa điểm (trả lời 'Where'). (B) là số lượng người tham dự (trả lời 'How many'), không phải người phụ trách.",
+    "vocab": [
+      { "word": "handle", "pos": "v", "meaning": "đảm nhận, xử lý" },
+      { "word": "registration desk", "pos": "n phr", "meaning": "bàn đăng ký" },
+      { "word": "trade show", "pos": "n phr", "meaning": "hội chợ thương mại, triển lãm" },
+      { "word": "volunteer", "pos": "v", "meaning": "tình nguyện" },
+      { "word": "shift", "pos": "n", "meaning": "ca làm việc" }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: I've been on hold with the utility company for over an hour.\n(A) The bill was due last Friday.\n(B) Try their online chat — it's usually much faster.\n(C) Yes, the utilities are included in the rent.",
+    "audioVoiceText": "I've been on hold with the utility company for over an hour. A. The bill was due last Friday. B. Try their online chat — it's usually much faster. C. Yes, the utilities are included in the rent.",
+    "options": [
+      { "key": "A", "text": "(A) The bill was due last Friday." },
+      { "key": "B", "text": "(B) Try their online chat — it's usually much faster." },
+      { "key": "C", "text": "(C) Yes, the utilities are included in the rent." }
+    ],
+    "correct": "B",
+    "translation": "Câu trần thuật: Tôi đã phải chờ máy với công ty điện nước hơn một tiếng rồi.\n(A) Hóa đơn đã đến hạn vào thứ Sáu tuần trước.\n(B) Thử chat trực tuyến của họ đi — thường nhanh hơn nhiều.\n(C) Vâng, tiền điện nước đã bao gồm trong tiền thuê nhà.",
+    "explanation": "Câu trần thuật phàn nàn về việc chờ máy quá lâu, nên phản hồi phù hợp là gợi ý cách khác. (B) 'Try their online chat — it's usually much faster' đưa ra giải pháp thay thế nên đúng. (A) nói về hạn thanh toán, không giải quyết việc chờ máy. (C) 'Yes' không phù hợp vì câu trước không phải câu hỏi, và nội dung nói về tiền thuê nhà.",
+    "vocab": [
+      { "word": "on hold", "pos": "phr", "meaning": "đang bị giữ máy, chờ máy" },
+      { "word": "utility company", "pos": "n phr", "meaning": "công ty cung cấp điện nước" },
+      { "word": "online chat", "pos": "n phr", "meaning": "trò chuyện trực tuyến" },
+      { "word": "be due", "pos": "phr", "meaning": "đến hạn (thanh toán)" }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Why was the client database taken offline this afternoon?\n(A) To install the security update.\n(B) It was offline for about two hours.\n(C) In the data center basement.",
+    "audioVoiceText": "Why was the client database taken offline this afternoon? A. To install the security update. B. It was offline for about two hours. C. In the data center basement.",
+    "options": [
+      { "key": "A", "text": "(A) To install the security update." },
+      { "key": "B", "text": "(B) It was offline for about two hours." },
+      { "key": "C", "text": "(C) In the data center basement." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Tại sao cơ sở dữ liệu khách hàng lại bị ngắt kết nối vào chiều nay?\n(A) Để cài bản cập nhật bảo mật.\n(B) Nó đã ngắt kết nối khoảng hai tiếng.\n(C) Ở tầng hầm trung tâm dữ liệu.",
+    "explanation": "Câu hỏi 'Why' cần lý do, thường trả lời bằng 'To + động từ' hoặc 'Because...'. (A) 'To install the security update' nêu mục đích/lý do nên đúng. (B) nêu khoảng thời gian (trả lời 'How long'). (C) nêu địa điểm (trả lời 'Where').",
+    "vocab": [
+      { "word": "database", "pos": "n", "meaning": "cơ sở dữ liệu" },
+      { "word": "offline", "pos": "adj/adv", "meaning": "ngắt kết nối, ngoại tuyến" },
+      { "word": "install", "pos": "v", "meaning": "cài đặt" },
+      { "word": "security update", "pos": "n phr", "meaning": "bản cập nhật bảo mật" }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: You'll be attending the budget review tomorrow, won't you?\n(A) The budget was approved in March.\n(B) Yes, the review is thorough.\n(C) I'd like to, but I'll be out of town.",
+    "audioVoiceText": "You'll be attending the budget review tomorrow, won't you? A. The budget was approved in March. B. Yes, the review is thorough. C. I'd like to, but I'll be out of town.",
+    "options": [
+      { "key": "A", "text": "(A) The budget was approved in March." },
+      { "key": "B", "text": "(B) Yes, the review is thorough." },
+      { "key": "C", "text": "(C) I'd like to, but I'll be out of town." }
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn sẽ tham dự buổi xem xét ngân sách ngày mai phải không?\n(A) Ngân sách đã được phê duyệt vào tháng Ba.\n(B) Vâng, buổi xem xét rất kỹ lưỡng.\n(C) Tôi rất muốn, nhưng tôi sẽ đi vắng.",
+    "explanation": "Câu hỏi đuôi xác nhận việc người nghe có tham dự hay không. (C) 'I'd like to, but I'll be out of town' từ chối khéo léo và trả lời đúng việc có tham dự hay không nên đúng. (B) 'Yes' + nhận xét buổi xem xét kỹ lưỡng — 'Yes' nghe hợp nhưng phần sau trả lời cho câu hỏi về chất lượng, không phải về việc tham dự. (A) nói về thời điểm phê duyệt ngân sách, không liên quan.",
+    "vocab": [
+      { "word": "attend", "pos": "v", "meaning": "tham dự" },
+      { "word": "budget review", "pos": "n phr", "meaning": "buổi xem xét ngân sách" },
+      { "word": "approve", "pos": "v", "meaning": "phê duyệt" },
+      { "word": "out of town", "pos": "phr", "meaning": "đi vắng, ở nơi khác" }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: How should we dispose of the expired medical supplies?\n(A) Follow the red-bin procedure outlined in the manual.\n(B) They were delivered on Monday.\n(C) About forty boxes, I believe.",
+    "audioVoiceText": "How should we dispose of the expired medical supplies? A. Follow the red-bin procedure outlined in the manual. B. They were delivered on Monday. C. About forty boxes, I believe.",
+    "options": [
+      { "key": "A", "text": "(A) Follow the red-bin procedure outlined in the manual." },
+      { "key": "B", "text": "(B) They were delivered on Monday." },
+      { "key": "C", "text": "(C) About forty boxes, I believe." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Chúng ta nên xử lý lượng vật tư y tế đã hết hạn như thế nào?\n(A) Hãy làm theo quy trình thùng đỏ được nêu trong sổ tay hướng dẫn.\n(B) Chúng đã được giao vào thứ Hai.\n(C) Tôi nghĩ khoảng bốn mươi thùng.",
+    "explanation": "Câu hỏi 'How should we...' hỏi cách thức thực hiện. (A) 'Follow the red-bin procedure outlined in the manual' nêu rõ cách xử lý nên đúng, và rất hợp ngữ cảnh y tế. (B) trả lời 'When'. (C) trả lời 'How many' — dễ nhầm vì cũng có 'boxes' nhưng không phải cách thức.",
+    "vocab": [
+      { "word": "dispose of", "pos": "phr v", "meaning": "xử lý, vứt bỏ" },
+      { "word": "expired", "pos": "adj", "meaning": "đã hết hạn" },
+      { "word": "medical supplies", "pos": "n phr", "meaning": "vật tư y tế" },
+      { "word": "procedure", "pos": "n", "meaning": "quy trình, thủ tục" }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Would you like me to call the customer back and explain the delay?\n(A) Yes, the call lasted forty minutes.\n(B) That would be great — she's been waiting all morning.\n(C) He called from the downtown branch.",
+    "audioVoiceText": "Would you like me to call the customer back and explain the delay? A. Yes, the call lasted forty minutes. B. That would be great — she's been waiting all morning. C. He called from the downtown branch.",
+    "options": [
+      { "key": "A", "text": "(A) Yes, the call lasted forty minutes." },
+      { "key": "B", "text": "(B) That would be great — she's been waiting all morning." },
+      { "key": "C", "text": "(C) He called from the downtown branch." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Bạn có muốn tôi gọi lại cho khách hàng và giải thích về sự chậm trễ không?\n(A) Vâng, cuộc gọi kéo dài bốn mươi phút.\n(B) Thế thì tốt quá — cô ấy đã chờ suốt cả buổi sáng.\n(C) Anh ấy gọi từ chi nhánh trung tâm.",
+    "explanation": "'Would you like me to...?' là lời đề nghị giúp đỡ, nên đáp lại bằng lời đồng ý/từ chối chứ không phải thông tin về cuộc gọi. (B) 'That would be great — she's been waiting all morning' chấp nhận lời đề nghị và nêu lý do nên đúng. (A) 'Yes' nghe có vẻ đúng nhưng 'the call lasted forty minutes' nói về cuộc gọi đã xảy ra. (C) nói về nơi gọi đến — trả lời 'Where'.",
+    "vocab": [
+      { "word": "call back", "pos": "phr v", "meaning": "gọi lại" },
+      { "word": "explain", "pos": "v", "meaning": "giải thích" },
+      { "word": "branch", "pos": "n", "meaning": "chi nhánh" },
+      { "word": "downtown", "pos": "adj/adv", "meaning": "trung tâm thành phố" }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: The loading dock is closed for repairs, so all trucks have to use the rear entrance.\n(A) The repairs cost about two thousand dollars.\n(B) No, I've never used that entrance.\n(C) I'll let the drivers know right away.",
+    "audioVoiceText": "The loading dock is closed for repairs, so all trucks have to use the rear entrance. A. The repairs cost about two thousand dollars. B. No, I've never used that entrance. C. I'll let the drivers know right away.",
+    "options": [
+      { "key": "A", "text": "(A) The repairs cost about two thousand dollars." },
+      { "key": "B", "text": "(B) No, I've never used that entrance." },
+      { "key": "C", "text": "(C) I'll let the drivers know right away." }
+    ],
+    "correct": "C",
+    "translation": "Câu trần thuật: Bến bốc hàng đang đóng cửa để sửa chữa, nên tất cả xe tải phải dùng lối vào phía sau.\n(A) Việc sửa chữa tốn khoảng hai nghìn đô la.\n(B) Không, tôi chưa bao giờ dùng lối vào đó.\n(C) Tôi sẽ thông báo cho các tài xế ngay.",
+    "explanation": "Câu trần thuật thông báo thay đổi vận hành, phản hồi tự nhiên là xác nhận sẽ hành động theo. (C) 'I'll let the drivers know right away' cho thấy sẽ thông báo cho tài xế — hành động phù hợp nên đúng. (A) bàn về chi phí sửa chữa, không phải việc cần làm. (B) 'No' không phù hợp vì câu trước không phải câu hỏi.",
+    "vocab": [
+      { "word": "loading dock", "pos": "n phr", "meaning": "bến bốc/xếp hàng" },
+      { "word": "repair", "pos": "n", "meaning": "sự sửa chữa" },
+      { "word": "rear entrance", "pos": "n phr", "meaning": "lối vào phía sau" },
+      { "word": "right away", "pos": "phr", "meaning": "ngay lập tức" }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: What time does the product demo start for the media guests?\n(A) It's scheduled for 2 p.m.\n(B) In the main conference hall.\n(C) About thirty journalists.",
+    "audioVoiceText": "What time does the product demo start for the media guests? A. It's scheduled for 2 p.m. B. In the main conference hall. C. About thirty journalists.",
+    "options": [
+      { "key": "A", "text": "(A) It's scheduled for 2 p.m." },
+      { "key": "B", "text": "(B) In the main conference hall." },
+      { "key": "C", "text": "(C) About thirty journalists." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Buổi giới thiệu sản phẩm cho khách mời báo chí bắt đầu lúc mấy giờ?\n(A) Nó được lên lịch vào 2 giờ chiều.\n(B) Trong hội trường chính.\n(C) Khoảng ba mươi nhà báo.",
+    "explanation": "'What time' hỏi giờ cụ thể. (A) 'It's scheduled for 2 p.m.' nêu đúng giờ nên đúng. (B) là địa điểm (trả lời 'Where'). (C) là số lượng người (trả lời 'How many') — dễ nhầm vì nhắc đến 'journalists' trong câu hỏi.",
+    "vocab": [
+      { "word": "product demo", "pos": "n phr", "meaning": "buổi giới thiệu sản phẩm" },
+      { "word": "media", "pos": "n", "meaning": "báo chí, truyền thông" },
+      { "word": "conference hall", "pos": "n phr", "meaning": "hội trường hội nghị" },
+      { "word": "journalist", "pos": "n", "meaning": "nhà báo" }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Is there a spare projector we can borrow for the training session?\n(A) The training was very useful.\n(B) There's one in the supply closet on the third floor.\n(C) Yes, the trainer arrived early.",
+    "audioVoiceText": "Is there a spare projector we can borrow for the training session? A. The training was very useful. B. There's one in the supply closet on the third floor. C. Yes, the trainer arrived early.",
+    "options": [
+      { "key": "A", "text": "(A) The training was very useful." },
+      { "key": "B", "text": "(B) There's one in the supply closet on the third floor." },
+      { "key": "C", "text": "(C) Yes, the trainer arrived early." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Có máy chiếu dự phòng nào để chúng ta mượn cho buổi tập huấn không?\n(A) Buổi tập huấn rất hữu ích.\n(B) Có một cái trong tủ đồ dùng ở tầng ba.\n(C) Vâng, giảng viên đã đến sớm.",
+    "explanation": "Câu hỏi 'Is there...?' hỏi sự tồn tại; câu trả lời tốt nhất nên xác nhận và cho biết vị trí. (B) 'There's one in the supply closet on the third floor' vừa xác nhận có vừa chỉ nơi lấy nên đúng. (A) nhận xét buổi tập huấn — không trả lời câu hỏi. (C) 'Yes' nhưng phần sau nói về giảng viên đến sớm, không liên quan đến máy chiếu.",
+    "vocab": [
+      { "word": "spare", "pos": "adj", "meaning": "dự phòng, để sẵn" },
+      { "word": "projector", "pos": "n", "meaning": "máy chiếu" },
+      { "word": "borrow", "pos": "v", "meaning": "mượn" },
+      { "word": "supply closet", "pos": "n phr", "meaning": "tủ/kho đồ dùng" },
+      { "word": "training session", "pos": "n phr", "meaning": "buổi tập huấn" }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: The printer on the second floor is out of toner again.\n(A) I printed the invoice this morning.\n(B) The second floor is being renovated.\n(C) I'll order more supplies this afternoon.",
+    "audioVoiceText": "The printer on the second floor is out of toner again. A. I printed the invoice this morning. B. The second floor is being renovated. C. I'll order more supplies this afternoon.",
+    "options": [
+      { "key": "A", "text": "(A) I printed the invoice this morning." },
+      { "key": "B", "text": "(B) The second floor is being renovated." },
+      { "key": "C", "text": "(C) I'll order more supplies this afternoon." }
+    ],
+    "correct": "C",
+    "translation": "Câu trần thuật: Máy in ở tầng hai lại hết mực rồi.\n(A) Tôi đã in hóa đơn sáng nay.\n(B) Tầng hai đang được cải tạo.\n(C) Tôi sẽ đặt thêm vật tư vào chiều nay.",
+    "explanation": "Câu trần thuật nêu vấn đề hết mực in, phản hồi hợp lý là cam kết khắc phục. (C) 'I'll order more supplies this afternoon' hứa đặt thêm vật tư — xử lý đúng vấn đề nên đúng. (A) chỉ kể việc đã in, không giải quyết việc hết mực. (B) nói về việc cải tạo tầng hai, không liên quan — dễ nhầm vì lặp lại cụm 'second floor'.",
+    "vocab": [
+      { "word": "out of", "pos": "phr", "meaning": "hết, không còn" },
+      { "word": "toner", "pos": "n", "meaning": "mực in (máy in laser)" },
+      { "word": "order", "pos": "v", "meaning": "đặt hàng" },
+      { "word": "supplies", "pos": "n", "meaning": "vật tư, đồ dùng văn phòng" },
+      { "word": "renovate", "pos": "v", "meaning": "cải tạo, sửa sang" }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Which version of the brochure did the client approve?\n(A) The one with the blue cover.\n(B) At the trade show in Chicago.\n(C) Yes, they approved it quickly.",
+    "audioVoiceText": "Which version of the brochure did the client approve? A. The one with the blue cover. B. At the trade show in Chicago. C. Yes, they approved it quickly.",
+    "options": [
+      { "key": "A", "text": "(A) The one with the blue cover." },
+      { "key": "B", "text": "(B) At the trade show in Chicago." },
+      { "key": "C", "text": "(C) Yes, they approved it quickly." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Khách hàng đã phê duyệt phiên bản nào của cuốn tài liệu quảng cáo?\n(A) Bản có bìa màu xanh.\n(B) Tại hội chợ triển lãm ở Chicago.\n(C) Vâng, họ đã phê duyệt nó rất nhanh.",
+    "explanation": "Câu hỏi 'Which version' yêu cầu chọn một trong các phiên bản. (A) 'The one with the blue cover' xác định rõ phiên bản nên đúng. (B) là địa điểm (trả lời 'Where'). (C) là Yes/No — không dùng cho câu hỏi 'Which', và còn lặp lại động từ 'approved' để gây nhiễu.",
+    "vocab": [
+      { "word": "version", "pos": "n", "meaning": "phiên bản" },
+      { "word": "brochure", "pos": "n", "meaning": "tài liệu quảng cáo, tờ rơi" },
+      { "word": "approve", "pos": "v", "meaning": "phê duyệt, chấp thuận" },
+      { "word": "cover", "pos": "n", "meaning": "bìa, trang bìa" }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Why not ask the customer to send us a photo of the damaged item?\n(A) The photo studio opens at nine.\n(B) Good idea — that will help us process the claim faster.\n(C) Because the item was inexpensive.",
+    "audioVoiceText": "Why not ask the customer to send us a photo of the damaged item? A. The photo studio opens at nine. B. Good idea — that will help us process the claim faster. C. Because the item was inexpensive.",
+    "options": [
+      { "key": "A", "text": "(A) The photo studio opens at nine." },
+      { "key": "B", "text": "(B) Good idea — that will help us process the claim faster." },
+      { "key": "C", "text": "(C) Because the item was inexpensive." }
+    ],
+    "correct": "B",
+    "translation": "Hỏi: Sao không đề nghị khách hàng gửi cho chúng ta ảnh của món hàng bị hỏng nhỉ?\n(A) Tiệm chụp ảnh mở cửa lúc chín giờ.\n(B) Ý hay đấy — điều đó sẽ giúp chúng ta xử lý yêu cầu bồi thường nhanh hơn.\n(C) Bởi vì món hàng đó không đắt.",
+    "explanation": "'Why not...?' là lời gợi ý, không phải câu hỏi cần lý do, nên đáp lại bằng sự tán thành. (B) 'Good idea — that will help us process the claim faster' đồng ý và nêu lợi ích nên đúng. (C) nghe như trả lời 'Why' nhưng 'Why not' không hỏi nguyên nhân, và lý do 'món hàng không đắt' không hợp lý. (A) nói về tiệm chụp ảnh — hiểu sai 'photo' theo nghĩa cửa hàng.",
+    "vocab": [
+      { "word": "damaged", "pos": "adj", "meaning": "bị hư hỏng" },
+      { "word": "process", "pos": "v", "meaning": "xử lý (hồ sơ, yêu cầu)" },
+      { "word": "claim", "pos": "n", "meaning": "yêu cầu bồi thường, khiếu nại" },
+      { "word": "inexpensive", "pos": "adj", "meaning": "không đắt, rẻ" }
+    ]
+  },
+  {
+    "id": 28,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: The clinic's phone lines will be down during the system upgrade.\n(A) The upgrade improved the software.\n(B) I called the clinic yesterday.\n(C) Then we should post our emergency number online.",
+    "audioVoiceText": "The clinic's phone lines will be down during the system upgrade. A. The upgrade improved the software. B. I called the clinic yesterday. C. Then we should post our emergency number online.",
+    "options": [
+      { "key": "A", "text": "(A) The upgrade improved the software." },
+      { "key": "B", "text": "(B) I called the clinic yesterday." },
+      { "key": "C", "text": "(C) Then we should post our emergency number online." }
+    ],
+    "correct": "C",
+    "translation": "Câu trần thuật: Đường dây điện thoại của phòng khám sẽ bị ngắt trong thời gian nâng cấp hệ thống.\n(A) Việc nâng cấp đã cải thiện phần mềm.\n(B) Tôi đã gọi cho phòng khám hôm qua.\n(C) Vậy thì chúng ta nên đăng số khẩn cấp lên mạng.",
+    "explanation": "Câu trần thuật thông báo một hạn chế sắp xảy ra, nên phản hồi hợp lý là đề xuất biện pháp thay thế. (C) 'Then we should post our emergency number online' đưa ra giải pháp khi điện thoại không dùng được nên đúng. (A) dùng thì quá khứ nói việc đã cải thiện — sai thời và không liên quan. (B) kể việc đã gọi hôm qua, không giải quyết vấn đề sắp tới.",
+    "vocab": [
+      { "word": "phone line", "pos": "n phr", "meaning": "đường dây điện thoại" },
+      { "word": "be down", "pos": "phr", "meaning": "bị ngắt, không hoạt động" },
+      { "word": "upgrade", "pos": "n", "meaning": "sự nâng cấp" },
+      { "word": "emergency number", "pos": "n phr", "meaning": "số khẩn cấp" }
+    ]
+  },
+  {
+    "id": 29,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: How often does the courier service pick up packages from this office?\n(A) Twice a day, around noon and four.\n(B) By the main entrance.\n(C) It's a reliable courier.",
+    "audioVoiceText": "How often does the courier service pick up packages from this office? A. Twice a day, around noon and four. B. By the main entrance. C. It's a reliable courier.",
+    "options": [
+      { "key": "A", "text": "(A) Twice a day, around noon and four." },
+      { "key": "B", "text": "(B) By the main entrance." },
+      { "key": "C", "text": "(C) It's a reliable courier." }
+    ],
+    "correct": "A",
+    "translation": "Hỏi: Dịch vụ chuyển phát nhanh đến lấy bưu kiện ở văn phòng này bao lâu một lần?\n(A) Hai lần một ngày, khoảng giữa trưa và bốn giờ.\n(B) Ở lối vào chính.\n(C) Đó là một dịch vụ chuyển phát đáng tin cậy.",
+    "explanation": "'How often' hỏi tần suất. (A) 'Twice a day, around noon and four' nêu tần suất và thời điểm cụ thể nên đúng. (B) là địa điểm (trả lời 'Where'). (C) là nhận xét về chất lượng dịch vụ, không trả lời tần suất.",
+    "vocab": [
+      { "word": "courier service", "pos": "n phr", "meaning": "dịch vụ chuyển phát nhanh" },
+      { "word": "pick up", "pos": "phr v", "meaning": "đến lấy, nhận hàng" },
+      { "word": "package", "pos": "n", "meaning": "bưu kiện, gói hàng" },
+      { "word": "reliable", "pos": "adj", "meaning": "đáng tin cậy" }
+    ]
+  },
+  {
+    "id": 30,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: Are you still working on the expense report for last quarter?\n(A) The report was thirty pages long.\n(B) No, the quarter ended in June.\n(C) Almost done — I just need to verify the hotel receipts.",
+    "audioVoiceText": "Are you still working on the expense report for last quarter? A. The report was thirty pages long. B. No, the quarter ended in June. C. Almost done — I just need to verify the hotel receipts.",
+    "options": [
+      { "key": "A", "text": "(A) The report was thirty pages long." },
+      { "key": "B", "text": "(B) No, the quarter ended in June." },
+      { "key": "C", "text": "(C) Almost done — I just need to verify the hotel receipts." }
+    ],
+    "correct": "C",
+    "translation": "Hỏi: Bạn vẫn đang làm báo cáo chi phí của quý trước phải không?\n(A) Báo cáo dài ba mươi trang.\n(B) Không, quý đó kết thúc vào tháng Sáu.\n(C) Gần xong rồi — tôi chỉ cần kiểm tra lại các hóa đơn khách sạn.",
+    "explanation": "Câu hỏi Yes/No hỏi về tiến độ công việc. (C) 'Almost done — I just need to verify the hotel receipts' trả lời đúng tiến độ và nêu việc còn lại nên đúng. (A) nói về độ dài báo cáo, không trả lời câu hỏi. (B) 'No' + 'quý đó kết thúc vào tháng Sáu' là cách hiểu sai 'last quarter' (quý trước) thành 'quý đã qua'.",
+    "vocab": [
+      { "word": "expense report", "pos": "n phr", "meaning": "báo cáo chi phí" },
+      { "word": "quarter", "pos": "n", "meaning": "quý (ba tháng)" },
+      { "word": "verify", "pos": "v", "meaning": "kiểm tra, xác minh" },
+      { "word": "receipt", "pos": "n", "meaning": "hóa đơn, biên lai" }
+    ]
+  },
+  {
+    "id": 31,
+    "type": "listening",
+    "part": 2,
+    "partName": "Part 2: Hỏi - Đáp (Question - Response)",
+    "questionText": "Nghe một câu hỏi và 3 phương án trả lời, chọn câu phản hồi phù hợp nhất:",
+    "audioScript": "Question: We've decided to extend the software trial for another two weeks.\n(A) The trial version lacks some features.\n(B) That gives us more time to compare vendors.\n(C) Yes, we extended the office lease.",
+    "audioVoiceText": "We've decided to extend the software trial for another two weeks. A. The trial version lacks some features. B. That gives us more time to compare vendors. C. Yes, we extended the office lease.",
+    "options": [
+      { "key": "A", "text": "(A) The trial version lacks some features." },
+      { "key": "B", "text": "(B) That gives us more time to compare vendors." },
+      { "key": "C", "text": "(C) Yes, we extended the office lease." }
+    ],
+    "correct": "B",
+    "translation": "Câu trần thuật: Chúng tôi đã quyết định kéo dài thời gian dùng thử phần mềm thêm hai tuần.\n(A) Bản dùng thử thiếu một số tính năng.\n(B) Điều đó cho chúng ta thêm thời gian so sánh các nhà cung cấp.\n(C) Vâng, chúng tôi đã gia hạn hợp đồng thuê văn phòng.",
+    "explanation": "Câu trần thuật thông báo quyết định kéo dài thời gian dùng thử; phản hồi tự nhiên là bình luận về hệ quả tích cực. (B) 'That gives us more time to compare vendors' là phản hồi hợp lý, liên quan trực tiếp đến việc kéo dài thời gian nên đúng. (A) nêu nhược điểm của bản dùng thử — không liên quan đến quyết định gia hạn. (C) 'Yes' không phù hợp vì đây không phải câu hỏi, và 'office lease' (hợp đồng thuê văn phòng) bị nhầm với 'software trial'.",
+    "vocab": [
+      { "word": "extend", "pos": "v", "meaning": "kéo dài, gia hạn" },
+      { "word": "trial", "pos": "n", "meaning": "sự dùng thử" },
+      { "word": "feature", "pos": "n", "meaning": "tính năng" },
+      { "word": "compare", "pos": "v", "meaning": "so sánh" },
+      { "word": "lease", "pos": "n", "meaning": "hợp đồng thuê" }
+    ]
+  }
+]
