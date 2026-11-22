@@ -122,10 +122,15 @@ const app = {
         // Trạng thái Ngữ pháp TOEIC (22 chuyên đề)
         grammarViewMode: "list", // 'list' (Danh sách 22 chuyên đề) | 'detail' (Trang học chuyên đề: Lý thuyết + Bài tập)
         grammarTierFilter: "ALL", // 'ALL' | 'de-gap' | 'hay-gap' | 'it-gap'
+        grammarSearchQuery: "",
         grammarLessonTab: "theory", // 'theory' | 'practice'
         grammarPracticeMode: "mixed",
         grammarWordTypeFilter: "all",
-        grammarWordFormationLessonIndex: 0, // 0..4: Bài 1..5, 5: Bẫy & Mẹo ETS
+        grammarWordFormationLessonIndex: 0, // 0..3: Bài 1..4, 4: Tổng kết Bẫy & Mẹo ETS
+        grammarSubUnitIndex: 0, // Mục nội dung nhỏ đang chọn trong bài học
+        grammarShowAllSubUnits: false, // false: tập trung từng mục; true: xem gộp cả bài
+        grammarPracticePageSize: 5, // 1 | 5 | 0 (Tất cả)
+        grammarPracticePageIndex: 0,
         grammarMixedPracticeItems: null,
         activeGrammarTopicId: "gram-20-word-formation",
         grammarUserAnswers: {}
@@ -173,6 +178,10 @@ const app = {
             const savedReading = window.history.state?.dauenglishReading;
             if (savedReading) this.restoreReadingHistoryState(savedReading);
             else this.navigate("reading", false);
+        } else if (rawHash === "grammar") {
+            const savedGrammar = window.history.state?.dauenglishGrammar;
+            if (savedGrammar) this.restoreGrammarHistoryState(savedGrammar);
+            else this.navigate("grammar", false);
         } else if (rawHash === "vocabulary" || rawHash === "phrasal-verbs") {
             const savedVocabPage = window.history.state?.dauenglishVocab;
             this.state.vocabSubTab = savedVocabPage?.subTab === "300-phrasal" || rawHash === "phrasal-verbs"
@@ -734,6 +743,11 @@ const app = {
             this.restoreReadingHistoryState(savedReading);
             return;
         }
+        const savedGrammar = window.history.state?.dauenglishGrammar;
+        if (view === "grammar" && savedGrammar) {
+            this.restoreGrammarHistoryState(savedGrammar);
+            return;
+        }
         const savedVocabPage = window.history.state?.dauenglishVocab;
         if ((view === "vocabulary" || view === "phrasal-verbs") && savedVocabPage) {
             this.state.vocabSubTab = savedVocabPage.subTab === "300-phrasal" || view === "phrasal-verbs"
@@ -757,8 +771,14 @@ const app = {
             this.restoreReadingHistoryState(savedReading);
             return;
         }
+        const savedGrammar = historyState && historyState.dauenglishGrammar;
+        if (savedGrammar) {
+            this.restoreGrammarHistoryState(savedGrammar);
+            return;
+        }
+        const hashView = window.location.hash.replace("#", "").split("?")[0];
         const savedVocabPage = historyState && historyState.dauenglishVocab;
-        if (!savedVocabPage) {
+        if (!savedVocabPage || (hashView && hashView !== "vocabulary" && hashView !== "phrasal-verbs")) {
             this.handleLocationChange();
             return;
         }
@@ -766,6 +786,35 @@ const app = {
         this.state.vocabSubTab = savedVocabPage.subTab === "300-phrasal" ? "300-phrasal" : "600-words";
         this.navigate("vocabulary", false);
         this.restoreVocabHistoryState(savedVocabPage);
+    },
+
+    saveGrammarHistoryState(push = false, hasListBack = false) {
+        const historyState = {
+            dauenglishGrammar: {
+                view: "grammar",
+                viewMode: this.state.grammarViewMode === "detail" ? "detail" : "list",
+                topicId: this.state.activeGrammarTopicId,
+                lessonTab: this.state.grammarLessonTab === "practice" ? "practice" : "theory",
+                wfLessonIdx: Math.max(0, Number(this.state.grammarWordFormationLessonIndex) || 0),
+                subUnitIdx: Math.max(0, Number(this.state.grammarSubUnitIndex) || 0),
+                hasListBack: Boolean(hasListBack)
+            }
+        };
+        window.history[push ? "pushState" : "replaceState"](historyState, "", window.location.href);
+    },
+
+    restoreGrammarHistoryState(saved) {
+        if (!saved) return;
+        this.stopSpeech();
+        this.state.currentView = "grammar";
+        this.state.grammarViewMode = saved.viewMode === "detail" ? "detail" : "list";
+        if (saved.topicId) this.state.activeGrammarTopicId = saved.topicId;
+        this.state.grammarLessonTab = saved.lessonTab === "practice" ? "practice" : "theory";
+        this.state.grammarWordFormationLessonIndex = Math.max(0, Number(saved.wfLessonIdx) || 0);
+        this.state.grammarSubUnitIndex = Math.max(0, Number(saved.subUnitIdx) || 0);
+        this.state.grammarShowAllSubUnits = false;
+        this.highlightNav("grammar");
+        this.renderGrammar(document.getElementById("app-main"));
     },
 
     restoreVocabHistoryState(savedVocabPage) {
@@ -862,6 +911,9 @@ const app = {
             this.state.vocabPage = "lessons";
             this.state.phrasalPage = "lessons";
         }
+        if (view === "grammar" && updateHash) {
+            this.state.grammarViewMode = "list";
+        }
 
         this.state.currentView = view;
         if (updateHash && view !== "exam-room" && view !== "exam-result") {
@@ -869,6 +921,9 @@ const app = {
         }
         if (view === "vocabulary" && updateHash) {
             this.saveVocabHistoryState("lessons");
+        }
+        if (view === "grammar" && updateHash) {
+            this.saveGrammarHistoryState(false, false);
         }
 
         this.highlightNav(view);
@@ -5700,7 +5755,6 @@ const app = {
             return;
         }
 
-        // Mặc định: Render Trang Danh Sách 22 Chuyên Đề Ngữ Pháp dễ đọc, thoáng đãng
         const deGapOrder = [
             "gram-20-word-formation",
             "gram-01-verb-tenses",
@@ -5733,213 +5787,289 @@ const app = {
         const allGroups = [
             {
                 key: "de-gap",
-                name: "1. NHÓM DỄ GẶP (Bắt buộc nắm vững)",
-                totalPercent: "Chiếm 62% đề thi",
-                desc: "7 chuyên đề cốt lõi xuất hiện dày đặc trong mọi đề ETS (20–25 câu/đề). Nắm chắc nhóm này giúp bạn cầm chắc 650+ điểm Reading.",
-                headerBg: "bg-gradient-to-r from-rose-50 to-orange-50 border-rose-200",
+                name: "1. Nhóm Dễ Gặp (Trọng tâm bắt buộc)",
+                totalPercent: "62% đề thi",
+                desc: "7 chuyên đề cốt lõi xuất hiện dày đặc (20–25 câu/đề), giúp cầm chắc 650+ Reading.",
+                headerBg: "bg-rose-50/70 border-rose-200/90",
                 badgeClass: "bg-rose-600 text-white",
-                percentPillClass: "bg-rose-100 text-rose-800 border border-rose-200",
-                accentBorder: "hover:border-rose-400",
+                percentPillClass: "bg-rose-50 text-rose-700 border border-rose-200",
+                accentBorder: "hover:border-rose-300",
+                chipClass: "hover:border-rose-300 hover:bg-rose-50/70 hover:text-rose-800",
                 headerIcon: "fa-fire text-rose-600",
                 items: deGapOrder.map(id => enrichedTopics.find(t => t.id === id)).filter(Boolean)
             },
             {
                 key: "hay-gap",
-                name: "2. NHÓM HAY GẶP (Xuất hiện đều đặn mỗi đề)",
-                totalPercent: "Chiếm 28% đề thi",
-                desc: "8 chuyên đề xuất hiện từ 1–2 câu mỗi đề trong Part 5 & Part 6, giúp bạn bứt phá vững chắc lên mốc 750–850+.",
-                headerBg: "bg-gradient-to-r from-amber-50 to-yellow-50 border-amber-200",
+                name: "2. Nhóm Hay Gặp (Xuất hiện đều đặn)",
+                totalPercent: "28% đề thi",
+                desc: "8 chuyên đề gặp 1–2 câu mỗi đề Part 5–6, giúp nâng điểm vững chắc lên 750–850+.",
+                headerBg: "bg-amber-50/70 border-amber-200/90",
                 badgeClass: "bg-amber-500 text-slate-950",
-                percentPillClass: "bg-amber-100 text-amber-900 border border-amber-200",
-                accentBorder: "hover:border-amber-400",
+                percentPillClass: "bg-amber-50 text-amber-800 border border-amber-200",
+                accentBorder: "hover:border-amber-300",
+                chipClass: "hover:border-amber-300 hover:bg-amber-50/70 hover:text-amber-900",
                 headerIcon: "fa-bolt text-amber-600",
                 items: hayGapOrder.map(id => enrichedTopics.find(t => t.id === id)).filter(Boolean)
             },
             {
                 key: "it-gap",
-                name: "3. NHÓM ÍT GẶP (Câu hỏi phân loại 850 – 990)",
-                totalPercent: "Chiếm 10% đề thi",
-                desc: "7 chuyên đề nâng cao (0–1 câu/đề hoặc xuất hiện ở Listening Part 2), dành cho mục tiêu săn điểm tuyệt đối 900–990.",
-                headerBg: "bg-gradient-to-r from-indigo-50 to-slate-50 border-indigo-200",
+                name: "3. Nhóm Ít Gặp (Phân loại 850–990)",
+                totalPercent: "10% đề thi",
+                desc: "7 chuyên đề nâng cao hoặc bẫy nhỏ trong Part 2 & Part 5 dành cho mục tiêu 900+.",
+                headerBg: "bg-indigo-50/70 border-indigo-200/90",
                 badgeClass: "bg-indigo-600 text-white",
-                percentPillClass: "bg-indigo-50 text-indigo-800 border border-indigo-200",
-                accentBorder: "hover:border-indigo-400",
+                percentPillClass: "bg-indigo-50 text-indigo-700 border border-indigo-200",
+                accentBorder: "hover:border-indigo-300",
+                chipClass: "hover:border-indigo-300 hover:bg-indigo-50/70 hover:text-indigo-800",
                 headerIcon: "fa-gem text-indigo-600",
                 items: itGapOrder.map(id => enrichedTopics.find(t => t.id === id)).filter(Boolean)
             }
         ];
 
         const activeFilter = this.state.grammarTierFilter || "ALL";
-        const visibleGroups = activeFilter === "ALL"
+        const searchRaw = this.state.grammarSearchQuery || "";
+        const searchNorm = searchRaw.trim().toLowerCase();
+
+        const topicIndexMap = {};
+        let globalCounter = 0;
+        allGroups.forEach(g => g.items.forEach(t => { topicIndexMap[t.id] = ++globalCounter; }));
+
+        const baseGroups = activeFilter === "ALL"
             ? allGroups
             : allGroups.filter(g => g.key === activeFilter);
+
+        const visibleGroups = baseGroups
+            .map(g => {
+                if (!searchNorm) return g;
+                const matchedItems = g.items.filter(t => {
+                    const pickerItems = this.getGrammarTopicPickerItems(t);
+                    const haystack = [
+                        t.titleEn,
+                        t.titleVi,
+                        t.summary,
+                        ...pickerItems.map(p => `${p.label} ${p.searchText || ""}`)
+                    ].join(" ").toLowerCase();
+                    return haystack.includes(searchNorm);
+                });
+                return { ...g, items: matchedItems };
+            })
+            .filter(g => g.items.length > 0);
 
         const totalQuestionsAll = enrichedTopics.reduce((sum, t) => sum + t.allQuestions.length, 0);
         const totalAnsweredAll = enrichedTopics.reduce((sum, t) => sum + t.answeredCount, 0);
         const completedTopicsCount = enrichedTopics.filter(t => t.answeredCount >= t.allQuestions.length && t.allQuestions.length > 0).length;
-
-        let globalIndex = 0;
+        const matchedTopicCount = visibleGroups.reduce((sum, g) => sum + g.items.length, 0);
+        const overallPct = Math.round((totalAnsweredAll / Math.max(1, totalQuestionsAll)) * 100);
 
         container.innerHTML = `
-            <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                <!-- Banner Tổng quan Ngữ pháp -->
-                <div class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm mb-6">
-                    <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+            <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-6">
+                <!-- Header + Tìm kiếm + Lọc theo tần suất -->
+                <div class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-7 shadow-sm space-y-5">
+                    <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-5">
                         <div class="space-y-2 max-w-2xl">
-                            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 font-extrabold text-xs uppercase tracking-wider">
-                                <i class="fa-solid fa-graduation-cap"></i>
-                                <span>Lộ Trình 22 Chuyên Đề Ngữ Pháp TOEIC Chuẩn ETS</span>
+                            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 font-extrabold text-xs">
+                                <i class="fa-solid fa-layer-group"></i>
+                                <span>Học Ngữ Pháp Theo Từng Chủ Điểm Nhỏ</span>
                             </div>
                             <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-                                Hệ Thống Bài Giảng & Bài Tập Ngữ Pháp Toàn Diện
+                                22 Chuyên Đề Ngữ Pháp TOEIC
                             </h1>
-                            <p class="text-sm sm:text-base text-slate-600 leading-relaxed">
-                                Bấm vào bất kỳ chuyên đề nào bên dưới để mở <strong>Trang học chuyên sâu</strong> gồm: <em>Bảng lý thuyết hệ thống, Công thức giải nhanh 3 giây, Bẫy ETS thường gặp</em> và <em>5 câu hỏi thực hành Part 5</em>.
+                            <p class="text-sm text-slate-600 leading-relaxed">
+                                Mỗi chuyên đề được chia thành từng mục nhỏ gọn gàng. Bấm trực tiếp vào <strong>mục bạn muốn học</strong> ngay trên thẻ để vào đọc đúng phần đó, không cần lướt dài.
                             </p>
                         </div>
 
-                        <!-- Thống kê tiến độ học Ngữ pháp -->
-                        <div class="bg-slate-50 rounded-2xl p-4 sm:p-5 border border-slate-200 shrink-0 min-w-[260px] space-y-3">
-                            <div class="flex items-center justify-between">
-                                <span class="text-xs font-extrabold uppercase text-slate-500">Tiến độ luyện tập</span>
-                                <span class="text-xs font-extrabold text-emerald-700 bg-emerald-100 px-2.5 py-0.5 rounded-full">${completedTopicsCount}/22 bài hoàn tất</span>
+                        <!-- Tiến độ gọn -->
+                        <div class="bg-slate-50 rounded-2xl p-4 border border-slate-200 shrink-0 min-w-[250px] space-y-2.5">
+                            <div class="flex items-center justify-between gap-2">
+                                <span class="text-xs font-extrabold uppercase text-slate-500">Tiến độ bài tập</span>
+                                <span class="text-xs font-extrabold text-emerald-700 bg-emerald-100 px-2.5 py-0.5 rounded-full">${completedTopicsCount}/22 bài xong</span>
                             </div>
                             <div class="flex items-baseline justify-between">
-                                <div class="text-2xl font-extrabold text-slate-900">${totalAnsweredAll} <span class="text-sm font-semibold text-slate-500">/ ${totalQuestionsAll} câu Part 5</span></div>
-                                <span class="text-xs font-bold text-slate-500">${Math.round((totalAnsweredAll / Math.max(1, totalQuestionsAll)) * 100)}%</span>
+                                <div class="text-2xl font-extrabold text-slate-900">${totalAnsweredAll} <span class="text-sm font-semibold text-slate-500">/ ${totalQuestionsAll} câu</span></div>
+                                <span class="text-xs font-bold text-slate-500">${overallPct}%</span>
                             </div>
-                            <div class="w-full h-2.5 bg-slate-200 rounded-full overflow-hidden">
-                                <div class="h-full bg-gradient-to-r from-emerald-500 to-teal-500 rounded-full transition-all duration-300" style="width: ${Math.round((totalAnsweredAll / Math.max(1, totalQuestionsAll)) * 100)}%"></div>
+                            <div class="w-full h-2 bg-slate-200 rounded-full overflow-hidden">
+                                <div class="h-full bg-emerald-500 rounded-full transition-all duration-300" style="width: ${overallPct}%"></div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Bộ lọc 3 Nhóm Tỷ lệ xuất hiện (62% - 28% - 10%) -->
-                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 mt-6 pt-6 border-t border-slate-100">
-                        <button onclick="app.setGrammarTierFilter('ALL')" class="p-3.5 rounded-2xl border text-left transition flex items-center justify-between ${activeFilter === 'ALL' ? 'bg-slate-900 text-white border-slate-900 shadow-md' : 'bg-slate-50 hover:bg-white border-slate-200 text-slate-800'}">
-                            <div>
-                                <div class="text-xs font-extrabold uppercase">Tất cả chuyên đề</div>
-                                <div class="text-[11px] ${activeFilter === 'ALL' ? 'text-slate-300' : 'text-slate-500'} mt-0.5">Đầy đủ 22 mục ngữ pháp</div>
-                            </div>
-                            <span class="text-lg font-extrabold px-2.5 py-1 rounded-xl ${activeFilter === 'ALL' ? 'bg-white/15 text-white' : 'bg-slate-200 text-slate-800'}">100%</span>
-                        </button>
+                    <!-- Thanh tìm kiếm + Bộ lọc nhóm -->
+                    <div class="pt-5 border-t border-slate-100 space-y-3.5">
+                        <div class="relative">
+                            <i class="fa-solid fa-magnifying-glass text-slate-400 text-sm absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+                            <input
+                                id="grammar-search-input"
+                                type="text"
+                                value="${this.escapeHtml(searchRaw)}"
+                                oninput="app.setGrammarSearchQuery(this.value)"
+                                placeholder="Tìm nhanh chuyên đề hoặc nội dung con (ví dụ: danh từ ghép, bị động, V-ing, bẫy đuôi, đảo ngữ...)"
+                                aria-label="Tìm chuyên đề ngữ pháp"
+                                class="w-full pl-11 pr-24 py-3 rounded-2xl border border-slate-200 bg-slate-50/70 focus:bg-white focus:border-emerald-500 focus:outline-none text-sm text-slate-800 placeholder:text-slate-400 transition"
+                            />
+                            ${searchRaw ? `
+                                <button
+                                    type="button"
+                                    onclick="app.setGrammarSearchQuery('')"
+                                    class="absolute right-3 top-1/2 -translate-y-1/2 px-2.5 py-1 rounded-lg bg-slate-200/80 hover:bg-slate-300 text-slate-700 text-xs font-bold transition"
+                                >
+                                    Xoá lọc
+                                </button>
+                            ` : ""}
+                        </div>
 
-                        <button onclick="app.setGrammarTierFilter('de-gap')" class="p-3.5 rounded-2xl border text-left transition flex items-center justify-between ${activeFilter === 'de-gap' ? 'bg-rose-600 text-white border-rose-600 shadow-md' : 'bg-rose-50/60 hover:bg-rose-50 border-rose-200 text-slate-900'}">
-                            <div>
-                                <div class="text-xs font-extrabold uppercase ${activeFilter === 'de-gap' ? 'text-white' : 'text-rose-700'}"><i class="fa-solid fa-fire mr-1"></i>1. Dễ Gặp</div>
-                                <div class="text-[11px] ${activeFilter === 'de-gap' ? 'text-rose-100' : 'text-slate-600'} mt-0.5">7 chuyên đề cốt lõi nhất</div>
-                            </div>
-                            <span class="text-lg font-extrabold px-2.5 py-1 rounded-xl ${activeFilter === 'de-gap' ? 'bg-white text-rose-700' : 'bg-white text-rose-600 border border-rose-200'}">62%</span>
-                        </button>
-
-                        <button onclick="app.setGrammarTierFilter('hay-gap')" class="p-3.5 rounded-2xl border text-left transition flex items-center justify-between ${activeFilter === 'hay-gap' ? 'bg-amber-500 text-slate-950 border-amber-500 shadow-md' : 'bg-amber-50/60 hover:bg-amber-50 border-amber-200 text-slate-900'}">
-                            <div>
-                                <div class="text-xs font-extrabold uppercase ${activeFilter === 'hay-gap' ? 'text-slate-950' : 'text-amber-800'}"><i class="fa-solid fa-bolt mr-1"></i>2. Hay Gặp</div>
-                                <div class="text-[11px] ${activeFilter === 'hay-gap' ? 'text-slate-900' : 'text-slate-600'} mt-0.5">8 chuyên đề thường xuyên</div>
-                            </div>
-                            <span class="text-lg font-extrabold px-2.5 py-1 rounded-xl ${activeFilter === 'hay-gap' ? 'bg-white text-amber-800' : 'bg-white text-amber-700 border border-amber-200'}">28%</span>
-                        </button>
-
-                        <button onclick="app.setGrammarTierFilter('it-gap')" class="p-3.5 rounded-2xl border text-left transition flex items-center justify-between ${activeFilter === 'it-gap' ? 'bg-indigo-600 text-white border-indigo-600 shadow-md' : 'bg-indigo-50/50 hover:bg-indigo-50 border-indigo-200 text-slate-900'}">
-                            <div>
-                                <div class="text-xs font-extrabold uppercase ${activeFilter === 'it-gap' ? 'text-white' : 'text-indigo-700'}"><i class="fa-solid fa-gem mr-1"></i>3. Ít Gặp</div>
-                                <div class="text-[11px] ${activeFilter === 'it-gap' ? 'text-indigo-100' : 'text-slate-600'} mt-0.5">7 chuyên đề phân loại 850+</div>
-                            </div>
-                            <span class="text-lg font-extrabold px-2.5 py-1 rounded-xl ${activeFilter === 'it-gap' ? 'bg-white text-indigo-700' : 'bg-white text-indigo-700 border border-indigo-200'}">10%</span>
-                        </button>
+                        <div class="grid grid-cols-2 lg:grid-cols-4 gap-2.5">
+                            ${[
+                                ["ALL", "Tất cả chuyên đề", "22 chuyên đề", "100%", "bg-slate-900 text-white border-slate-900", "bg-slate-50 hover:bg-white border-slate-200 text-slate-800", "bg-slate-200 text-slate-800"],
+                                ["de-gap", "1. Dễ Gặp", "7 chuyên đề cốt lõi", "62%", "bg-rose-600 text-white border-rose-600", "bg-rose-50/60 hover:bg-rose-50 border-rose-200 text-slate-900", "bg-white text-rose-600 border border-rose-200"],
+                                ["hay-gap", "2. Hay Gặp", "8 chuyên đề đều đặn", "28%", "bg-amber-500 text-slate-950 border-amber-500", "bg-amber-50/60 hover:bg-amber-50 border-amber-200 text-slate-900", "bg-white text-amber-800 border border-amber-200"],
+                                ["it-gap", "3. Ít Gặp", "7 chuyên đề 850+", "10%", "bg-indigo-600 text-white border-indigo-600", "bg-indigo-50/50 hover:bg-indigo-50 border-indigo-200 text-slate-900", "bg-white text-indigo-700 border border-indigo-200"]
+                            ].map(([key, title, sub, pct, activeCls, idleCls, pillIdleCls]) => {
+                                const isAct = activeFilter === key;
+                                return `
+                                    <button onclick="app.setGrammarTierFilter('${key}')" class="p-3 rounded-2xl border text-left transition flex items-center justify-between gap-2 ${isAct ? activeCls + ' shadow-sm' : idleCls}">
+                                        <div class="min-w-0">
+                                            <div class="text-xs font-extrabold uppercase truncate">${title}</div>
+                                            <div class="text-[11px] opacity-80 truncate mt-0.5">${sub}</div>
+                                        </div>
+                                        <span class="text-sm font-extrabold px-2 py-1 rounded-xl shrink-0 ${isAct ? 'bg-white/20 text-current' : pillIdleCls}">${pct}</span>
+                                    </button>
+                                `;
+                            }).join("")}
+                        </div>
                     </div>
                 </div>
 
-                <!-- Danh sách các nhóm chuyên đề (3 cột thoáng, dễ đọc) -->
-                <div class="space-y-8">
-                    ${visibleGroups.map(g => `
-                        <section class="space-y-4">
-                            <!-- Tiêu đề Nhóm -->
-                            <div class="p-4 sm:p-5 rounded-2xl border ${g.headerBg} flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-                                <div class="space-y-1">
-                                    <div class="flex items-center gap-2">
-                                        <i class="fa-solid ${g.headerIcon} text-base"></i>
-                                        <h2 class="text-base sm:text-lg font-extrabold text-slate-900 uppercase tracking-tight">${g.name}</h2>
-                                    </div>
-                                    <p class="text-xs sm:text-sm text-slate-600">${g.desc}</p>
-                                </div>
-                                <span class="px-3.5 py-1.5 rounded-xl font-extrabold text-xs sm:text-sm shrink-0 self-start sm:self-center shadow-sm ${g.badgeClass}">
-                                    ${g.totalPercent}
-                                </span>
-                            </div>
+                ${searchNorm ? `
+                    <div class="flex items-center justify-between px-1 text-xs sm:text-sm text-slate-600">
+                        <span>Tìm thấy <strong class="text-slate-900">${matchedTopicCount}</strong> chuyên đề khớp từ khoá “<strong>${this.escapeHtml(searchRaw.trim())}</strong>”</span>
+                    </div>
+                ` : ""}
 
-                            <!-- Lưới 3 cột thẻ bài học dễ đọc -->
-                            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-                                ${g.items.map(t => {
-                                    globalIndex++;
-                                    const numStr = String(globalIndex).padStart(2, "0");
-                                    const titleEn = t.titleEn || t.title;
-                                    const titleVi = t.titleVi || "";
-                                    const qTotal = t.allQuestions.length;
-                                    const qDone = t.answeredCount;
-                                    const isDone = qDone >= qTotal && qTotal > 0;
-                                    const sectionCount = (t.lecture && t.lecture.sections ? t.lecture.sections.length : 0) + (t.formulas ? t.formulas.length : 0);
-
-                                    return `
-                                        <div
-                                            onclick="app.selectGrammarTopic('${t.id}')"
-                                            class="cursor-pointer bg-white rounded-2xl border border-slate-200/90 ${g.accentBorder} hover:shadow-lg transition-all duration-200 p-5 flex flex-col justify-between group"
-                                        >
-                                            <div>
-                                                <!-- Hàng 1: Số thứ tự + Tỷ lệ phần trăm gặp -->
-                                                <div class="flex items-center justify-between gap-2 mb-3.5">
-                                                    <div class="flex items-center gap-2">
-                                                        <span class="w-8 h-8 rounded-xl bg-slate-100 group-hover:bg-emerald-600 group-hover:text-white text-slate-700 font-extrabold text-xs flex items-center justify-center transition">
-                                                            #${numStr}
-                                                        </span>
-                                                        <span class="text-xs font-extrabold px-2.5 py-1 rounded-lg ${g.percentPillClass}">
-                                                            Tỷ lệ gặp: ${t.percent}
-                                                        </span>
-                                                    </div>
-                                                    <span class="text-xs font-bold text-slate-500 bg-slate-100 px-2.5 py-1 rounded-lg">
-                                                        ${t.freqNote}
-                                                    </span>
-                                                </div>
-
-                                                <!-- Hàng 2: Tên Tiếng Anh ở trên (To, Rõ) + Nghĩa Tiếng Việt ở dưới -->
-                                                <h3 class="text-base sm:text-lg font-extrabold text-slate-900 group-hover:text-emerald-700 uppercase tracking-tight leading-snug transition">
-                                                    ${this.escapeHtml(titleEn)}
-                                                </h3>
-                                                <div class="text-xs sm:text-sm font-extrabold text-emerald-600 mt-1">
-                                                    ${this.escapeHtml(titleVi)}
-                                                </div>
-
-                                                <!-- Hàng 3: Tóm tắt ngắn gọn dễ đọc -->
-                                                <p class="text-xs sm:text-sm text-slate-600 mt-3 leading-relaxed line-clamp-2">
-                                                    ${t.summary}
-                                                </p>
-                                            </div>
-
-                                            <!-- Hàng 4: Chân thẻ (Số mục lý thuyết + Tiến độ câu hỏi + Nút Vào học) -->
-                                            <div class="mt-5 pt-3.5 border-t border-slate-100 flex items-center justify-between gap-2">
-                                                <div class="flex items-center gap-2 text-xs font-semibold ${isDone ? 'text-emerald-700' : 'text-slate-500'}">
-                                                    ${isDone
-                                                        ? `<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-100 text-emerald-800 font-extrabold"><i class="fa-solid fa-circle-check"></i> Đúng ${t.correctCount}/${qTotal} câu</span>`
-                                                        : `<span><i class="fa-solid fa-book-open text-slate-400 mr-1"></i>${sectionCount} mục • <strong>${qDone}/${qTotal}</strong> câu BT</span>`
-                                                    }
-                                                </div>
-                                                <span class="inline-flex items-center gap-1.5 text-xs font-extrabold text-emerald-600 group-hover:text-emerald-700 group-hover:translate-x-0.5 transition">
-                                                    <span>Vào học</span>
-                                                    <i class="fa-solid fa-arrow-right"></i>
-                                                </span>
-                                            </div>
+                <!-- Danh sách thẻ chuyên đề thoáng 2 cột, có chọn nhanh từng nội dung con -->
+                ${visibleGroups.length ? `
+                    <div class="space-y-8">
+                        ${visibleGroups.map(g => `
+                            <section class="space-y-4">
+                                <div class="px-5 py-4 rounded-2xl border ${g.headerBg} flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+                                    <div class="space-y-0.5">
+                                        <div class="flex items-center gap-2">
+                                            <i class="fa-solid ${g.headerIcon} text-sm"></i>
+                                            <h2 class="text-base font-extrabold text-slate-900">${g.name}</h2>
                                         </div>
-                                    `;
-                                }).join("")}
-                            </div>
-                        </section>
-                    `).join("")}
-                </div>
+                                        <p class="text-xs text-slate-600">${g.desc}</p>
+                                    </div>
+                                    <span class="px-3 py-1 rounded-xl font-extrabold text-xs shrink-0 self-start sm:self-center ${g.badgeClass}">
+                                        ${g.totalPercent}
+                                    </span>
+                                </div>
+
+                                <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+                                    ${g.items.map(t => {
+                                        const numStr = String(topicIndexMap[t.id] || 0).padStart(2, "0");
+                                        const titleEn = t.titleEn || t.title;
+                                        const titleVi = t.titleVi || "";
+                                        const qTotal = t.allQuestions.length;
+                                        const qDone = t.answeredCount;
+                                        const isDone = qDone >= qTotal && qTotal > 0;
+                                        const pickerItems = this.getGrammarTopicPickerItems(t);
+
+                                        return `
+                                            <article class="bg-white rounded-2xl border border-slate-200 ${g.accentBorder} hover:shadow-md transition p-5 sm:p-6 flex flex-col justify-between gap-4">
+                                                <div class="space-y-3.5">
+                                                    <!-- Meta top -->
+                                                    <div class="flex flex-wrap items-center justify-between gap-2">
+                                                        <div class="flex items-center gap-2">
+                                                            <span class="w-7 h-7 rounded-lg bg-slate-900 text-white font-extrabold text-xs flex items-center justify-center">${numStr}</span>
+                                                            <span class="text-xs font-extrabold px-2.5 py-0.5 rounded-lg ${g.percentPillClass}">${t.percent} • ${t.freqNote}</span>
+                                                        </div>
+                                                        ${isDone
+                                                            ? `<span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-emerald-100 text-emerald-800 text-xs font-extrabold"><i class="fa-solid fa-circle-check"></i> Đúng ${t.correctCount}/${qTotal}</span>`
+                                                            : `<span class="text-xs font-semibold text-slate-500">Đã làm ${qDone}/${qTotal} câu</span>`
+                                                        }
+                                                    </div>
+
+                                                    <!-- Tiêu đề (bấm để mở bài đầu) -->
+                                                    <button type="button" onclick="app.selectGrammarTopic('${t.id}', 0, 0, 'theory')" class="text-left block w-full group">
+                                                        <h3 class="text-base sm:text-lg font-extrabold text-slate-900 group-hover:text-emerald-700 leading-snug transition">
+                                                            ${this.escapeHtml(titleVi || titleEn)}
+                                                        </h3>
+                                                        <div class="text-xs font-bold text-slate-400 uppercase tracking-wide mt-0.5">
+                                                            ${this.escapeHtml(titleEn)}
+                                                        </div>
+                                                    </button>
+
+                                                    <p class="text-xs sm:text-sm text-slate-600 leading-relaxed line-clamp-2">
+                                                        ${this.escapeHtml(t.summary || "")}
+                                                    </p>
+
+                                                    <!-- Chọn trực tiếp từng nội dung nhỏ muốn học -->
+                                                    <div class="pt-2 border-t border-slate-100 space-y-2">
+                                                        <div class="text-[11px] font-extrabold uppercase tracking-wider text-slate-400">
+                                                            Chọn nhanh nội dung muốn học:
+                                                        </div>
+                                                        <div class="flex flex-wrap gap-1.5">
+                                                            ${pickerItems.map(p => {
+                                                                const isMatch = searchNorm && `${p.label} ${p.searchText || ""}`.toLowerCase().includes(searchNorm);
+                                                                return `
+                                                                    <button
+                                                                        type="button"
+                                                                        onclick="app.selectGrammarTopic('${t.id}', ${p.lessonIdx}, ${p.subUnitIdx}, 'theory')"
+                                                                        class="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border text-xs font-semibold transition ${isMatch ? 'bg-emerald-50 border-emerald-400 text-emerald-800 font-bold' : `bg-slate-50/80 border-slate-200 text-slate-700 ${g.chipClass}`}"
+                                                                    >
+                                                                        <span>${this.escapeHtml(p.label)}</span>
+                                                                        ${p.badge ? `<span class="text-[10px] font-bold px-1.5 py-0.5 rounded-md bg-white border border-slate-200/80 text-slate-500">${this.escapeHtml(p.badge)}</span>` : ""}
+                                                                    </button>
+                                                                `;
+                                                            }).join("")}
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Hành động chân thẻ -->
+                                                <div class="pt-3 border-t border-slate-100 flex items-center justify-between gap-2">
+                                                    <button
+                                                        type="button"
+                                                        onclick="app.selectGrammarTopic('${t.id}', 0, 0, 'theory')"
+                                                        class="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition"
+                                                    >
+                                                        <i class="fa-solid fa-book-open"></i>
+                                                        <span>Học từng mục</span>
+                                                    </button>
+                                                    <button
+                                                        type="button"
+                                                        onclick="app.selectGrammarTopic('${t.id}', 0, 0, 'practice')"
+                                                        class="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-700 font-bold text-xs transition"
+                                                    >
+                                                        <i class="fa-solid fa-pen-to-square text-amber-600"></i>
+                                                        <span>Làm bài tập (${qTotal} câu)</span>
+                                                    </button>
+                                                </div>
+                                            </article>
+                                        `;
+                                    }).join("")}
+                                </div>
+                            </section>
+                        `).join("")}
+                    </div>
+                ` : `
+                    <div class="bg-white rounded-3xl border border-slate-200 p-10 text-center space-y-3">
+                        <div class="w-12 h-12 rounded-2xl bg-slate-100 text-slate-400 flex items-center justify-center mx-auto text-xl">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </div>
+                        <h3 class="text-base font-extrabold text-slate-900">Không tìm thấy nội dung phù hợp</h3>
+                        <p class="text-sm text-slate-500">Thử từ khoá khác hoặc xoá bộ lọc để xem toàn bộ 22 chuyên đề.</p>
+                        <button type="button" onclick="app.setGrammarSearchQuery(''); app.setGrammarTierFilter('ALL');" class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition">
+                            Hiện tất cả 22 chuyên đề
+                        </button>
+                    </div>
+                `}
             </div>
         `;
     },
 
-    // ================= TRANG HỌC CHI TIẾT CỦA TỪNG LOẠI NGỮ PHÁP (LÝ THUYẾT + BÀI TẬP THỰC HÀNH) =================
+    // ================= TRANG HỌC CHI TIẾT CỦA TỪNG LOẠI NGỮ PHÁP (CHIA NHỎ TỪNG MỤC + BÀI TẬP PHÂN TRANG) =================
     renderGrammarLessonPage(container, enrichedTopics) {
         const currentIndex = enrichedTopics.findIndex(t => t.id === this.state.activeGrammarTopicId);
         const currentTopic = currentIndex >= 0 ? enrichedTopics[currentIndex] : enrichedTopics[0];
@@ -5969,10 +6099,12 @@ const app = {
             "it-gap": "bg-indigo-100 text-indigo-800 border-indigo-200"
         };
         const tierBadgeStyle = tierBadgeMap[currentTopic.tier] || tierBadgeMap["hay-gap"];
+        const standardSubUnitsCount = isWordFormation ? 0 : this.getStandardTopicSubUnits(currentTopic).length;
+        const theoryTabSubLabel = isWordFormation ? "5 bài • Chia từng mục" : `${standardSubUnitsCount} mục nhỏ`;
 
         container.innerHTML = `
-            <div class="${isWordFormation ? 'max-w-[1440px]' : 'max-w-7xl'} mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 space-y-6">
-                <!-- Thanh điều hướng phía trên trang học -->
+            <div class="${isWordFormation ? 'max-w-[1440px]' : 'max-w-7xl'} mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 space-y-5">
+                <!-- Thanh điều hướng phía trên -->
                 <div class="bg-white rounded-2xl border border-slate-200 p-3.5 sm:px-5 shadow-sm flex flex-wrap items-center justify-between gap-3">
                     <button
                         onclick="app.backToGrammarList()"
@@ -5982,7 +6114,6 @@ const app = {
                         <span>Danh sách 22 chuyên đề</span>
                     </button>
 
-                    <!-- Chọn nhanh chuyên đề khác hoặc Chuyển bài trước/sau -->
                     <div class="flex items-center gap-2 flex-wrap">
                         ${prevTopic ? `
                             <button onclick="app.selectGrammarTopic('${prevTopic.id}')" class="px-3 py-2 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs transition" title="${this.escapeHtml(prevTopic.titleVi)}">
@@ -5992,11 +6123,12 @@ const app = {
 
                         <select
                             onchange="app.selectGrammarTopic(this.value)"
+                            aria-label="Chọn nhanh chuyên đề ngữ pháp"
                             class="px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-800 font-bold text-xs sm:text-sm focus:outline-none focus:border-emerald-500 max-w-[230px] sm:max-w-xs truncate"
                         >
                             ${enrichedTopics.map((t, idx) => `
                                 <option value="${t.id}" ${t.id === currentTopic.id ? "selected" : ""}>
-                                    #${String(idx + 1).padStart(2, "0")}. ${this.escapeHtml(t.titleEn)} — ${this.escapeHtml(t.titleVi)} (${t.percent})
+                                    #${String(idx + 1).padStart(2, "0")}. ${this.escapeHtml(t.titleVi || t.titleEn)} (${t.percent})
                                 </option>
                             `).join("")}
                         </select>
@@ -6009,11 +6141,11 @@ const app = {
                     </div>
                 </div>
 
-                <!-- Header gọn của Bài Học Chuyên Đề -->
+                <!-- Header chuyên đề gọn, tập trung -->
                 <div class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm">
-                    <div class="flex flex-wrap items-center gap-2 mb-2.5">
+                    <div class="flex flex-wrap items-center gap-2 mb-2">
                         <span class="px-2.5 py-0.5 rounded-full border text-[11px] font-bold ${tierBadgeStyle}">
-                            Nhóm ${currentTopic.tierName} • ${currentTopic.percent} (${currentTopic.freqNote})
+                            ${currentTopic.tierName} • ${currentTopic.percent} (${currentTopic.freqNote})
                         </span>
                         <span class="px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-700 text-[11px] font-bold">
                             ${currentTopic.level}
@@ -6021,25 +6153,24 @@ const app = {
                     </div>
 
                     <h1 class="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
-                        ${this.escapeHtml(currentTopic.titleEn || currentTopic.title)}
-                        <span class="text-emerald-600 font-bold text-base sm:text-lg ml-1.5">— ${this.escapeHtml(currentTopic.titleVi || "")}</span>
+                        ${this.escapeHtml(currentTopic.titleVi || currentTopic.titleEn)}
+                        <span class="text-slate-400 font-bold text-sm sm:text-base ml-2">${this.escapeHtml(currentTopic.titleEn || "")}</span>
                     </h1>
-                    <p class="text-sm text-slate-600 mt-2 leading-relaxed">
-                        ${currentTopic.summary || (window.GRAMMAR_LECTURES?.[currentTopic.id]?.intro || "")}
+                    <p class="text-sm text-slate-600 mt-1.5 leading-relaxed">
+                        ${this.escapeHtml(currentTopic.summary || (window.GRAMMAR_LECTURES?.[currentTopic.id]?.intro || ""))}
                     </p>
 
-                    <!-- Thanh chuyển Tab trong trang học: Lý thuyết | Bài tập thực hành -->
-                    <div class="flex flex-wrap items-center justify-between gap-3 mt-5 pt-4 border-t border-slate-100">
+                    <div class="flex flex-wrap items-center justify-between gap-3 mt-4 pt-4 border-t border-slate-100">
                         <div class="inline-flex p-1 rounded-xl bg-slate-100 border border-slate-200/80">
                             <button
                                 onclick="app.setGrammarLessonTab('theory')"
-                                class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-bold transition ${activeTab === 'theory' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+                                class="px-3.5 py-2 rounded-lg text-xs sm:text-sm font-bold transition ${activeTab === 'theory' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
                             >
-                                <i class="fa-solid fa-book-open text-emerald-600 mr-1.5"></i>Lý thuyết & Công thức
+                                <i class="fa-solid fa-book-open text-emerald-600 mr-1.5"></i>Lý thuyết <span class="text-[11px] text-slate-400 font-semibold ml-1">(${theoryTabSubLabel})</span>
                             </button>
                             <button
                                 onclick="app.setGrammarLessonTab('practice')"
-                                class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-bold transition ${activeTab === 'practice' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
+                                class="px-3.5 py-2 rounded-lg text-xs sm:text-sm font-bold transition ${activeTab === 'practice' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}"
                             >
                                 <i class="fa-solid fa-pen-to-square text-amber-600 mr-1.5"></i>Bài tập (${answeredCount}/${allQuestions.length})
                             </button>
@@ -6057,62 +6188,11 @@ const app = {
                 </div>
 
                 ${(() => {
-                    const theoryHtml = isWordFormation
-                        ? this.renderWordFormationTheoryHtml(currentTopic, allQuestions.length)
-                        : `
-                        <div class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-8 shadow-sm space-y-8">
-                            ${this.getGrammarLectureHtml(currentTopic.id)}
-
-                            <div class="space-y-4 pt-6 border-t border-slate-200/80">
-                                <div class="flex items-baseline justify-between gap-2">
-                                    <h3 class="text-base sm:text-lg font-extrabold text-slate-900">
-                                        Ví dụ & Dấu hiệu nhận biết nhanh
-                                    </h3>
-                                    <span class="text-xs text-slate-400">Bấm loa để nghe phát âm</span>
-                                </div>
-
-                                <div class="grid grid-cols-1 xl:grid-cols-2 gap-3.5">
-                                    ${currentTopic.formulas.map((f, index) => {
-                                        const exampleHtml = this.escapeHtml(f.example).replace(/\[([^\]]+)\]/g, "<mark class='rounded bg-amber-100/90 px-1 py-0.5 text-slate-900 font-bold not-italic'>$1</mark>");
-                                        const spokenExample = f.example.replace(/[\[\]]/g, "");
-                                        return `
-                                        <div class="rounded-xl border border-slate-200 bg-white p-4 space-y-2.5 transition hover:border-slate-300">
-                                            <div class="flex items-start gap-2.5">
-                                                <span class="w-6 h-6 rounded-lg bg-slate-100 text-slate-700 flex items-center justify-center font-extrabold text-xs shrink-0 mt-0.5">${index + 1}</span>
-                                                <h4 class="font-bold text-sm sm:text-[15px] text-slate-900 leading-snug">${f.rule}</h4>
-                                            </div>
-                                            <p class="text-xs sm:text-sm text-slate-600 leading-relaxed pl-8">${f.detail}</p>
-                                            ${f.suffixes ? `
-                                                <div class="pl-8">
-                                                    <code class="inline-block px-2.5 py-1 rounded-lg bg-slate-100 text-slate-700 font-mono text-xs leading-relaxed">${f.suffixes}</code>
-                                                </div>
-                                            ` : ""}
-                                            <div class="pl-8 pt-1.5 border-t border-slate-100 flex items-start justify-between gap-2.5">
-                                                <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${exampleHtml}</p>
-                                                <button
-                                                    onclick="app.speakText('${this.escapeJsString(spokenExample)}')"
-                                                    class="w-7 h-7 rounded-lg bg-slate-100 hover:bg-emerald-100 text-slate-600 hover:text-emerald-700 flex items-center justify-center shrink-0 transition"
-                                                    title="Nghe phát âm câu ví dụ"
-                                                    aria-label="Nghe phát âm câu ví dụ"
-                                                >
-                                                    <i class="fa-solid fa-volume-high text-xs"></i>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    `}).join("")}
-                                </div>
-                            </div>
-
-                            ${activeTab === "theory" ? `
-                                <div class="pt-4 border-t border-slate-100 flex justify-end">
-                                    <button onclick="app.setGrammarLessonTab('practice')" class="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm shadow-sm transition flex items-center gap-2">
-                                        <span>Làm bài tập thực hành (${allQuestions.length} câu)</span>
-                                        <i class="fa-solid fa-arrow-right"></i>
-                                    </button>
-                                </div>
-                            ` : ""}
-                        </div>
-                    `;
+                    if (activeTab !== "practice") {
+                        return isWordFormation
+                            ? this.renderWordFormationTheoryHtml(currentTopic, allQuestions.length)
+                            : this.renderStandardTopicTheoryHtml(currentTopic, allQuestions.length);
+                    }
 
                     const practiceModeButtonsHtml = [
                         ["mixed", "Tổng hợp", "fa-shuffle"],
@@ -6131,7 +6211,77 @@ const app = {
                         </button>
                     `).join("");
 
-                    const practiceHtml = `
+                    const rawPageSize = Number(this.state.grammarPracticePageSize);
+                    const pageSize = Number.isFinite(rawPageSize) && rawPageSize >= 0 ? rawPageSize : 5;
+                    const totalItems = practiceItems.length;
+                    const isPaginated = pageSize > 0 && totalItems > pageSize;
+                    const totalPages = isPaginated ? Math.ceil(totalItems / pageSize) : 1;
+                    const safePage = isPaginated
+                        ? Math.min(Math.max(0, Number(this.state.grammarPracticePageIndex) || 0), totalPages - 1)
+                        : 0;
+                    const startIdx = isPaginated ? safePage * pageSize : 0;
+                    const endIdx = isPaginated ? Math.min(startIdx + pageSize, totalItems) : totalItems;
+                    const visiblePracticeItems = practiceItems.slice(startIdx, endIdx);
+
+                    const pageButtons = [];
+                    if (isPaginated) {
+                        for (let p = 0; p < totalPages; p++) {
+                            if (totalPages <= 7 || p === 0 || p === totalPages - 1 || Math.abs(p - safePage) <= 1) {
+                                pageButtons.push(p);
+                            } else if (pageButtons[pageButtons.length - 1] !== "...") {
+                                pageButtons.push("...");
+                            }
+                        }
+                    }
+
+                    const paginationBarHtml = totalItems > 1 ? `
+                        <div class="rounded-2xl bg-slate-50 border border-slate-200/80 p-3.5 flex flex-wrap items-center justify-between gap-3">
+                            <div class="flex flex-wrap items-center gap-2 text-xs">
+                                <span class="font-bold text-slate-500">Hiển thị:</span>
+                                ${[
+                                    [1, "1 câu / trang"],
+                                    [5, "5 câu / trang"],
+                                    [0, `Tất cả (${totalItems})`]
+                                ].map(([size, label]) => `
+                                    <button
+                                        type="button"
+                                        onclick="app.setGrammarPracticePageSize(${size})"
+                                        class="px-2.5 py-1.5 rounded-lg font-bold transition ${pageSize === size ? 'bg-slate-900 text-white' : 'bg-white border border-slate-200 text-slate-600 hover:bg-slate-100'}"
+                                    >
+                                        ${label}
+                                    </button>
+                                `).join("")}
+                            </div>
+
+                            ${isPaginated ? `
+                                <div class="flex flex-wrap items-center gap-1.5 text-xs">
+                                    <span class="text-slate-500 font-semibold mr-1">Câu ${startIdx + 1}–${endIdx} / ${totalItems}</span>
+                                    <button
+                                        type="button"
+                                        ${safePage <= 0 ? "disabled" : ""}
+                                        onclick="app.setGrammarPracticePage(${safePage - 1})"
+                                        class="px-2.5 py-1.5 rounded-lg border border-slate-200 bg-white font-bold text-slate-700 disabled:opacity-40 hover:bg-slate-100 transition"
+                                    >
+                                        <i class="fa-solid fa-chevron-left"></i>
+                                    </button>
+                                    ${pageButtons.map(p => p === "..."
+                                        ? `<span class="px-1.5 text-slate-400 font-bold">…</span>`
+                                        : `<button type="button" onclick="app.setGrammarPracticePage(${p})" class="min-w-[30px] px-2 py-1.5 rounded-lg font-extrabold transition ${p === safePage ? 'bg-emerald-600 text-white shadow-sm' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'}">${p + 1}</button>`
+                                    ).join("")}
+                                    <button
+                                        type="button"
+                                        ${safePage >= totalPages - 1 ? "disabled" : ""}
+                                        onclick="app.setGrammarPracticePage(${safePage + 1})"
+                                        class="px-2.5 py-1.5 rounded-lg border border-slate-200 bg-white font-bold text-slate-700 disabled:opacity-40 hover:bg-slate-100 transition"
+                                    >
+                                        <i class="fa-solid fa-chevron-right"></i>
+                                    </button>
+                                </div>
+                            ` : `<span class="text-xs font-semibold text-slate-500">Đang hiện toàn bộ ${totalItems} bài tập</span>`}
+                        </div>
+                    ` : "";
+
+                    return `
                         <div id="grammar-practice-section" class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
                             <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-100">
                                 <div class="flex items-center gap-3">
@@ -6139,9 +6289,9 @@ const app = {
                                         <i class="fa-solid fa-pen-to-square"></i>
                                     </span>
                                     <div>
-                                        <span class="text-xs font-extrabold uppercase tracking-wider text-emerald-600">Luyện tập vận dụng ngay</span>
+                                        <span class="text-xs font-extrabold uppercase tracking-wider text-emerald-600">Luyện tập chia nhỏ dễ làm</span>
                                         <h2 class="text-lg sm:text-xl font-extrabold text-slate-900">
-                                            Bài Tập Thực Hành Part 5: ${this.escapeHtml(currentTopic.titleVi || "")}
+                                            Bài Tập Thực Hành: ${this.escapeHtml(currentTopic.titleVi || "")}
                                         </h2>
                                     </div>
                                 </div>
@@ -6189,16 +6339,35 @@ const app = {
                                 </div>
                             `}
 
-                            <div class="space-y-6">
-                                ${practiceItems.map((item, index) => this.renderGrammarPracticeItem(currentTopic, item, index)).join("")}
+                            ${paginationBarHtml}
+
+                            <div class="space-y-5">
+                                ${visiblePracticeItems.map((item, localIdx) => this.renderGrammarPracticeItem(currentTopic, item, startIdx + localIdx)).join("")}
                             </div>
+
+                            ${isPaginated ? `
+                                <div class="pt-4 border-t border-slate-100 flex items-center justify-between gap-3">
+                                    <button
+                                        type="button"
+                                        ${safePage <= 0 ? "disabled" : ""}
+                                        onclick="app.setGrammarPracticePage(${safePage - 1})"
+                                        class="px-4 py-2 rounded-xl border border-slate-200 bg-white font-bold text-xs sm:text-sm text-slate-700 disabled:opacity-40 hover:bg-slate-50 transition"
+                                    >
+                                        <i class="fa-solid fa-arrow-left mr-1.5"></i>Trang trước
+                                    </button>
+                                    <span class="text-xs font-bold text-slate-500">Trang ${safePage + 1} / ${totalPages}</span>
+                                    <button
+                                        type="button"
+                                        ${safePage >= totalPages - 1 ? "disabled" : ""}
+                                        onclick="app.setGrammarPracticePage(${safePage + 1})"
+                                        class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm disabled:opacity-40 transition"
+                                    >
+                                        Trang tiếp<i class="fa-solid fa-arrow-right ml-1.5"></i>
+                                    </button>
+                                </div>
+                            ` : ""}
                         </div>
                     `;
-
-                    if (activeTab === "theory") return theoryHtml;
-                    if (activeTab === "practice") return practiceHtml;
-
-                    return theoryHtml;
                 })()}
 
                 <!-- Điều hướng cuối trang học -->
@@ -6448,6 +6617,7 @@ const app = {
         const allowedModes = ["mixed", "multipleChoice", "fillWord", "fillParagraph", "sentenceOrder"];
         if (!allowedModes.includes(mode)) return;
         this.state.grammarPracticeMode = mode;
+        this.state.grammarPracticePageIndex = 0;
         this.state.grammarMixedPracticeItems = null;
         this.renderGrammar(document.getElementById("app-main"));
     },
@@ -6456,6 +6626,7 @@ const app = {
         const allowedTypes = ["all", "noun", "verb", "adjective", "adverb"];
         if (!allowedTypes.includes(wordType)) return;
         this.state.grammarWordTypeFilter = wordType;
+        this.state.grammarPracticePageIndex = 0;
         this.state.grammarMixedPracticeItems = null;
         this.renderGrammar(document.getElementById("app-main"));
     },
@@ -6477,7 +6648,7 @@ const app = {
     },
 
     checkGrammarParagraphAnswer(key, itemIndex) {
-        const topic = window.DAU_DATA.grammarTopics.find(entry => entry.id === this.state.activeGrammarTopicId);
+        const topic = this.getEnrichedGrammarTopics().find(entry => entry.id === this.state.activeGrammarTopicId);
         const item = topic ? this.getGrammarPracticeModes(topic).fillParagraph?.[itemIndex] : null;
         if (!item) return;
         const values = item.blanks.map((_, index) => document.getElementById(`grammar-paragraph-${itemIndex}-${index}`)?.value.trim() || "");
@@ -6512,7 +6683,7 @@ const app = {
     },
 
     checkGrammarSentence(key, itemIndex) {
-        const topic = window.DAU_DATA.grammarTopics.find(entry => entry.id === this.state.activeGrammarTopicId);
+        const topic = this.getEnrichedGrammarTopics().find(entry => entry.id === this.state.activeGrammarTopicId);
         const item = topic ? this.getGrammarPracticeModes(topic).sentenceOrder?.[itemIndex] : null;
         const answer = this.state.grammarUserAnswers[key] || { selected: [] };
         if (!item || answer.selected.length !== item.tokens.length) {
@@ -6530,107 +6701,27 @@ const app = {
         this.renderGrammar(document.getElementById("app-main"));
     },
 
-    // Render bài giảng chi tiết (Lý thuyết + Bảng + Bẫy + Mẹo) từ grammar_lectures.js theo giao diện thoáng, sạch
-    getGrammarLectureHtml(topicId) {
-        const lec = (window.GRAMMAR_LECTURES || {})[topicId];
-        if (!lec) return "";
-        const fmt = (s) => String(s).replace(/\*\*(.+?)\*\*/g, "<strong class='text-slate-900 font-bold'>$1</strong>");
-
-        const sectionsHtml = (lec.sections || []).map((sec, idx) => `
-            <div class="space-y-4 ${idx > 0 ? 'pt-6 border-t border-slate-100' : ''}">
-                <h4 class="font-extrabold text-base sm:text-lg text-slate-900 flex items-center gap-2.5">
-                    <span class="w-1.5 h-5 rounded-full bg-emerald-500 inline-block shrink-0"></span>
-                    <span>${sec.heading}</span>
-                </h4>
-                ${[sec.table, sec.positionTable].filter(Boolean).map((table, tableIndex) => `
-                    <div class="space-y-1.5">
-                        ${tableIndex === 1 ? `<div class="text-xs font-bold uppercase tracking-wide text-slate-500 pt-1">Vị trí thường gặp trong câu</div>` : ""}
-                        <div class="overflow-x-auto rounded-xl border border-slate-200">
-                            <table class="w-full text-left text-xs sm:text-sm">
-                                <thead class="bg-slate-50 text-slate-700 border-b border-slate-200">
-                                    <tr>${table.head.map(h => `<th class="px-4 py-3 font-bold text-xs uppercase tracking-wider">${h}</th>`).join("")}</tr>
-                                </thead>
-                                <tbody class="divide-y divide-slate-100 bg-white">
-                                    ${table.rows.map(r => `
-                                        <tr class="hover:bg-slate-50/70 transition">
-                                            ${r.map(c => `<td class="px-4 py-3 text-slate-700 align-top leading-relaxed">${fmt(c)}</td>`).join("")}
-                                        </tr>
-                                    `).join("")}
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                `).join("")}
-                ${sec.points ? `
-                    <ul class="space-y-2 text-sm text-slate-700 leading-relaxed pl-1">
-                        ${sec.points.map(p => `
-                            <li class="flex items-start gap-2.5">
-                                <i class="fa-solid fa-check text-emerald-500 text-xs mt-1.5 shrink-0"></i>
-                                <span>${fmt(p)}</span>
-                            </li>
-                        `).join("")}
-                    </ul>
-                ` : ""}
-            </div>
-        `).join("");
-
-        return `
-            <div class="space-y-6">
-                <div class="space-y-6">
-                    ${sectionsHtml}
-                </div>
-
-                ${(lec.traps?.length || lec.tips?.length) ? `
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-4 border-t border-slate-100">
-                        ${lec.traps && lec.traps.length ? `
-                            <div class="p-4 sm:p-5 rounded-xl bg-rose-50/50 border border-rose-200/80 space-y-2">
-                                <div class="text-xs font-extrabold uppercase tracking-wide text-rose-700 flex items-center gap-1.5">
-                                    <i class="fa-solid fa-triangle-exclamation"></i>
-                                    <span>Bẫy thường gặp trong đề ETS</span>
-                                </div>
-                                <ul class="space-y-1.5 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                                    ${lec.traps.map(t => `<li class="flex items-start gap-2"><span class="text-rose-500 font-bold">•</span><span>${fmt(t)}</span></li>`).join("")}
-                                </ul>
-                            </div>
-                        ` : ""}
-                        ${lec.tips && lec.tips.length ? `
-                            <div class="p-4 sm:p-5 rounded-xl bg-amber-50/50 border border-amber-200/80 space-y-2">
-                                <div class="text-xs font-extrabold uppercase tracking-wide text-amber-800 flex items-center gap-1.5">
-                                    <i class="fa-solid fa-lightbulb text-amber-500"></i>
-                                    <span>Mẹo giải nhanh 3–5 giây</span>
-                                </div>
-                                <ul class="space-y-1.5 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                                    ${lec.tips.map(t => `<li class="flex items-start gap-2"><span class="text-amber-600 font-bold">•</span><span>${fmt(t)}</span></li>`).join("")}
-                                </ul>
-                            </div>
-                        ` : ""}
-                    </div>
-                ` : ""}
-            </div>
-        `;
+    formatGrammarRichText(s) {
+        return this.escapeHtml(String(s ?? ""))
+            .replace(/&lt;(\/?b)&gt;/g, "<$1>")
+            .replace(/\*\*(.+?)\*\*/g, "<strong class='text-slate-900 font-bold'>$1</strong>");
     },
 
-    // Giao diện Bento Visual Cards cho chuyên đề WORD FORMATION (dễ quét mắt, học theo từ loại)
-    renderWordFormationTheoryHtml(currentTopic, totalQuestions) {
-        const lec = (window.GRAMMAR_LECTURES || {})[currentTopic.id] || {};
-        const sections = lec.sections || [];
-        const formulas = currentTopic.formulas || [];
-        const totalSteps = sections.length + 1;
-        const activeIdx = Math.min(Math.max(0, Number(this.state.grammarWordFormationLessonIndex) || 0), sections.length);
-        const fmt = (s) => this.escapeHtml(String(s)).replace(/\*\*(.+?)\*\*/g, "<strong class='text-slate-900 font-bold'>$1</strong>");
-
-        const TONE_STYLES = {
+    getGrammarToneStyle(tone) {
+        const map = {
             indigo: {
                 navActive: "bg-indigo-600 text-white border-indigo-600 shadow-md ring-2 ring-indigo-200",
                 navIdle: "bg-white border-slate-200 hover:border-indigo-300 hover:bg-indigo-50/40 text-slate-800",
                 iconActive: "bg-white/20 text-white",
                 iconIdle: "bg-indigo-100 text-indigo-700",
                 subActive: "text-indigo-100",
-                banner: "bg-gradient-to-br from-indigo-50/90 via-white to-slate-50 border-indigo-200/80",
+                banner: "bg-indigo-50/70 border-indigo-200/80",
                 badge: "bg-indigo-100 text-indigo-800 border-indigo-200",
                 btn: "bg-indigo-600 hover:bg-indigo-700 text-white",
                 accentBorder: "border-indigo-200/80",
-                softBg: "bg-indigo-50/70 text-indigo-900 border-indigo-200/80"
+                softBg: "bg-indigo-50/70 text-indigo-900 border-indigo-200/80",
+                menuActive: "bg-indigo-600 text-white border-indigo-600 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             },
             emerald: {
                 navActive: "bg-emerald-600 text-white border-emerald-600 shadow-md ring-2 ring-emerald-200",
@@ -6638,11 +6729,13 @@ const app = {
                 iconActive: "bg-white/20 text-white",
                 iconIdle: "bg-emerald-100 text-emerald-700",
                 subActive: "text-emerald-100",
-                banner: "bg-gradient-to-br from-emerald-50/90 via-white to-slate-50 border-emerald-200/80",
+                banner: "bg-emerald-50/70 border-emerald-200/80",
                 badge: "bg-emerald-100 text-emerald-800 border-emerald-200",
                 btn: "bg-emerald-600 hover:bg-emerald-700 text-white",
                 accentBorder: "border-emerald-200/80",
-                softBg: "bg-emerald-50/70 text-emerald-900 border-emerald-200/80"
+                softBg: "bg-emerald-50/70 text-emerald-900 border-emerald-200/80",
+                menuActive: "bg-emerald-600 text-white border-emerald-600 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             },
             violet: {
                 navActive: "bg-violet-600 text-white border-violet-600 shadow-md ring-2 ring-violet-200",
@@ -6650,11 +6743,13 @@ const app = {
                 iconActive: "bg-white/20 text-white",
                 iconIdle: "bg-violet-100 text-violet-700",
                 subActive: "text-violet-100",
-                banner: "bg-gradient-to-br from-violet-50/90 via-white to-slate-50 border-violet-200/80",
+                banner: "bg-violet-50/70 border-violet-200/80",
                 badge: "bg-violet-100 text-violet-800 border-violet-200",
                 btn: "bg-violet-600 hover:bg-violet-700 text-white",
                 accentBorder: "border-violet-200/80",
-                softBg: "bg-violet-50/70 text-violet-900 border-violet-200/80"
+                softBg: "bg-violet-50/70 text-violet-900 border-violet-200/80",
+                menuActive: "bg-violet-600 text-white border-violet-600 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             },
             amber: {
                 navActive: "bg-amber-600 text-white border-amber-600 shadow-md ring-2 ring-amber-200",
@@ -6662,11 +6757,13 @@ const app = {
                 iconActive: "bg-white/20 text-white",
                 iconIdle: "bg-amber-100 text-amber-700",
                 subActive: "text-amber-100",
-                banner: "bg-gradient-to-br from-amber-50/90 via-white to-slate-50 border-amber-200/80",
+                banner: "bg-amber-50/70 border-amber-200/80",
                 badge: "bg-amber-100 text-amber-900 border-amber-200",
                 btn: "bg-amber-600 hover:bg-amber-700 text-white",
                 accentBorder: "border-amber-200/80",
-                softBg: "bg-amber-50/70 text-amber-900 border-amber-200/80"
+                softBg: "bg-amber-50/70 text-amber-900 border-amber-200/80",
+                menuActive: "bg-amber-600 text-white border-amber-600 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             },
             rose: {
                 navActive: "bg-rose-600 text-white border-rose-600 shadow-md ring-2 ring-rose-200",
@@ -6674,38 +6771,47 @@ const app = {
                 iconActive: "bg-white/20 text-white",
                 iconIdle: "bg-rose-100 text-rose-700",
                 subActive: "text-rose-100",
-                banner: "bg-gradient-to-br from-rose-50/90 via-white to-slate-50 border-rose-200/80",
+                banner: "bg-rose-50/70 border-rose-200/80",
                 badge: "bg-rose-100 text-rose-800 border-rose-200",
                 btn: "bg-rose-600 hover:bg-rose-700 text-white",
                 accentBorder: "border-rose-200/80",
-                softBg: "bg-rose-50/70 text-rose-900 border-rose-200/80"
+                softBg: "bg-rose-50/70 text-rose-900 border-rose-200/80",
+                menuActive: "bg-rose-600 text-white border-rose-600 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             },
             slate: {
                 badge: "bg-slate-100 text-slate-700 border-slate-200",
-                softBg: "bg-slate-50 text-slate-800 border-slate-200"
+                softBg: "bg-slate-50 text-slate-800 border-slate-200",
+                btn: "bg-slate-900 hover:bg-slate-800 text-white",
+                menuActive: "bg-slate-900 text-white border-slate-900 shadow-sm",
+                menuNumActive: "bg-white/20 text-white"
             }
         };
+        return map[tone] || map.emerald;
+    },
 
-        const speakWordBtn = (wordText, labelExtra = "") => {
-            const cleanSpeech = String(wordText || "").replace(/\s*\/\s*/g, ", ");
-            return `
-                <button
-                    type="button"
-                    onclick="app.speakText('${this.escapeJsString(cleanSpeech)}')"
-                    class="inline-flex items-center gap-1.5 font-extrabold text-slate-900 hover:text-emerald-700 transition text-left group"
-                    title="Nghe phát âm: ${this.escapeHtml(wordText)}"
-                >
-                    <span>${this.escapeHtml(wordText)}</span>
-                    ${labelExtra}
-                    <i class="fa-solid fa-volume-high text-[10px] text-slate-400 group-hover:text-emerald-600 shrink-0"></i>
-                </button>
-            `;
-        };
-
-        const speakIconBtn = (text, sizeClass = "w-7 h-7") => `
+    renderGrammarSpeakWordBtn(wordText, labelExtra = "") {
+        const cleanSpeech = String(wordText || "").replace(/\s*\/\s*/g, ", ");
+        return `
             <button
                 type="button"
-                onclick="app.speakText('${this.escapeJsString(String(text || "").replace(/\*\*/g, ""))}')"
+                onclick="app.speakText('${this.escapeJsString(cleanSpeech)}')"
+                class="inline-flex items-center gap-1.5 font-extrabold text-slate-900 hover:text-emerald-700 transition text-left group"
+                title="Nghe phát âm: ${this.escapeHtml(wordText)}"
+            >
+                <span>${this.escapeHtml(wordText)}</span>
+                ${labelExtra}
+                <i class="fa-solid fa-volume-high text-[10px] text-slate-400 group-hover:text-emerald-600 shrink-0"></i>
+            </button>
+        `;
+    },
+
+    renderGrammarSpeakIconBtn(text, sizeClass = "w-7 h-7") {
+        const cleanSpeech = String(text || "").replace(/\*\*/g, "").replace(/[\[\]]/g, "");
+        return `
+            <button
+                type="button"
+                onclick="app.speakText('${this.escapeJsString(cleanSpeech)}')"
                 class="${sizeClass} rounded-lg bg-white border border-slate-200 hover:border-emerald-300 hover:bg-emerald-50 text-slate-500 hover:text-emerald-700 flex items-center justify-center shrink-0 transition"
                 title="Nghe phát âm"
                 aria-label="Nghe phát âm"
@@ -6713,14 +6819,718 @@ const app = {
                 <i class="fa-solid fa-volume-high text-[11px]"></i>
             </button>
         `;
+    },
 
-        // Thanh 5 Module Cards ngang trên cùng
+    renderGrammarLectureSectionBody(sec) {
+        if (!sec) return "";
+        const fmt = s => this.formatGrammarRichText(s);
+        const tablesHtml = [sec.table, sec.positionTable].filter(Boolean).map((table, tableIndex) => `
+            <div class="space-y-2">
+                ${tableIndex === 1 ? `<div class="text-xs font-extrabold uppercase tracking-wide text-slate-500 pt-1">Vị trí thường gặp trong câu</div>` : ""}
+                <div class="overflow-x-auto rounded-xl border border-slate-200">
+                    <table class="w-full text-left text-xs sm:text-sm">
+                        <thead class="bg-slate-50 text-slate-700 border-b border-slate-200">
+                            <tr>${table.head.map(h => `<th class="px-4 py-3 font-bold text-xs uppercase tracking-wider">${fmt(h)}</th>`).join("")}</tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-100 bg-white">
+                            ${table.rows.map(r => `
+                                <tr class="hover:bg-slate-50/70 transition">
+                                    ${r.map(c => `<td class="px-4 py-3 text-slate-700 align-top leading-relaxed">${fmt(c)}</td>`).join("")}
+                                </tr>
+                            `).join("")}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        `).join("");
+
+        const pointsHtml = sec.points && sec.points.length ? `
+            <ul class="space-y-2.5 text-sm text-slate-700 leading-relaxed">
+                ${sec.points.map(p => `
+                    <li class="flex items-start gap-2.5 p-3 rounded-xl bg-slate-50/70 border border-slate-200/60">
+                        <i class="fa-solid fa-check text-emerald-500 text-xs mt-1.5 shrink-0"></i>
+                        <span>${fmt(p)}</span>
+                    </li>
+                `).join("")}
+            </ul>
+        ` : "";
+
+        return `<div class="space-y-5">${tablesHtml}${pointsHtml}</div>`;
+    },
+
+    renderGrammarTrapsAndTipsGrid(traps = [], tips = []) {
+        if (!traps.length && !tips.length) return "";
+        const fmt = s => this.formatGrammarRichText(s);
+        return `
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                ${traps.length ? `
+                    <div class="p-4 sm:p-5 rounded-xl bg-rose-50/50 border border-rose-200/80 space-y-2.5">
+                        <div class="text-xs font-extrabold uppercase tracking-wide text-rose-700 flex items-center gap-1.5">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                            <span>Bẫy thường gặp trong đề ETS</span>
+                        </div>
+                        <ul class="space-y-2 text-xs sm:text-sm text-slate-700 leading-relaxed">
+                            ${traps.map(t => `<li class="flex items-start gap-2"><span class="text-rose-500 font-bold">•</span><span>${fmt(t)}</span></li>`).join("")}
+                        </ul>
+                    </div>
+                ` : ""}
+                ${tips.length ? `
+                    <div class="p-4 sm:p-5 rounded-xl bg-amber-50/50 border border-amber-200/80 space-y-2.5">
+                        <div class="text-xs font-extrabold uppercase tracking-wide text-amber-800 flex items-center gap-1.5">
+                            <i class="fa-solid fa-lightbulb text-amber-500"></i>
+                            <span>Mẹo giải nhanh 3–5 giây</span>
+                        </div>
+                        <ul class="space-y-2 text-xs sm:text-sm text-slate-700 leading-relaxed">
+                            ${tips.map(t => `<li class="flex items-start gap-2"><span class="text-amber-600 font-bold">•</span><span>${fmt(t)}</span></li>`).join("")}
+                        </ul>
+                    </div>
+                ` : ""}
+            </div>
+        `;
+    },
+
+    // Render toàn bộ bài giảng (dùng làm fallback hoặc chế độ xem gộp)
+    getGrammarLectureHtml(topicId) {
+        const lec = (window.GRAMMAR_LECTURES || {})[topicId];
+        if (!lec) return "";
+        const sectionsHtml = (lec.sections || []).map((sec, idx) => `
+            <div class="space-y-4 ${idx > 0 ? 'pt-6 border-t border-slate-100' : ''}">
+                <h4 class="font-extrabold text-base sm:text-lg text-slate-900 flex items-center gap-2.5">
+                    <span class="w-1.5 h-5 rounded-full bg-emerald-500 inline-block shrink-0"></span>
+                    <span>${this.escapeHtml(sec.heading)}</span>
+                </h4>
+                ${this.renderGrammarLectureSectionBody(sec)}
+            </div>
+        `).join("");
+
+        return `
+            <div class="space-y-6">
+                <div class="space-y-6">${sectionsHtml}</div>
+                ${this.renderGrammarTrapsAndTipsGrid(lec.traps, lec.tips)}
+            </div>
+        `;
+    },
+
+    // Tách từng Bài 1..4 (và Bài Tổng kết) của Word Formation thành nhiều mục nội dung nhỏ độc lập
+    getWordFormationSubUnits(sec, formula, lessonIdx, ctx = {}) {
+        const lec = ctx.lec || (window.GRAMMAR_LECTURES || {})["gram-20-word-formation"] || {};
+        const currentTopic = ctx.currentTopic || { allQuestions: [] };
+        const totalQuestions = ctx.totalQuestions || (currentTopic.allQuestions || []).length || 80;
+        const fmt = s => this.formatGrammarRichText(s);
+
+        // Tab Tổng kết (Bài 5)
+        if (!sec) {
+            const sections = lec.sections || [];
+            const allQs = currentTopic.allQuestions || [];
+            const practiceButtons = sections.map(s => {
+                const v = s.visual;
+                if (!v) return "";
+                const st = this.getGrammarToneStyle(v.color);
+                const count = allQs.filter(q => q.wordType === v.wordTypeKey).length;
+                return `
+                    <button
+                        type="button"
+                        onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')"
+                        class="p-3.5 rounded-xl border text-left transition flex items-center justify-between gap-3 bg-white hover:shadow-sm ${st.accentBorder}"
+                    >
+                        <div class="flex items-center gap-3">
+                            <span class="w-9 h-9 rounded-xl flex items-center justify-center text-sm shrink-0 ${st.iconIdle}">
+                                <i class="fa-solid ${v.icon}"></i>
+                            </span>
+                            <div>
+                                <div class="font-extrabold text-sm text-slate-900">${this.escapeHtml(v.shortTitle)}</div>
+                                <div class="text-xs text-slate-500">Làm riêng ${count} câu ${this.escapeHtml(v.wordTypeLabel)}</div>
+                            </div>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-slate-400"></i>
+                    </button>
+                `;
+            }).join("");
+
+            return [
+                {
+                    id: "wf-summary-steps",
+                    title: "Quy trình 3 bước giải nhanh 5 giây",
+                    shortTitle: "Quy trình 3 bước (5 giây)",
+                    subtitle: "Thứ tự nhìn trước – nhìn sau chỗ trống",
+                    icon: "fa-bolt",
+                    renderHtml: () => `
+                        <div class="space-y-5">
+                            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                                ${(lec.tips || []).map((tip, idx) => `
+                                    <div class="rounded-xl border border-amber-200/80 bg-amber-50/40 p-4 space-y-2">
+                                        <div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-md bg-amber-100 text-amber-900 text-xs font-extrabold">
+                                            <span>Bước ${idx + 1}</span>
+                                        </div>
+                                        <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${fmt(String(tip).replace(/^Bước\s+\d+\s*:\s*/i, ""))}</p>
+                                    </div>
+                                `).join("")}
+                            </div>
+                            <div class="pt-2 flex justify-end">
+                                <button type="button" onclick="app.startWordFormationTypePractice('all')" class="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-2">
+                                    <span>Làm bài tập tổng hợp (${totalQuestions} câu)</span>
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </button>
+                            </div>
+                        </div>
+                    `
+                },
+                {
+                    id: "wf-summary-traps",
+                    title: "4 Bẫy ETS kinh điển & Chọn nhóm luyện tập",
+                    shortTitle: "4 Bẫy ETS & Luyện theo loại",
+                    subtitle: "Các bẫy hay mất điểm nhất 500–900+",
+                    icon: "fa-triangle-exclamation",
+                    renderHtml: () => `
+                        <div class="space-y-6">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                                ${(lec.traps || []).map((t, idx) => `
+                                    <div class="rounded-xl bg-rose-50/50 border border-rose-200/70 p-4 space-y-1.5">
+                                        <div class="text-[11px] font-extrabold uppercase tracking-wider text-rose-700">Bẫy #${idx + 1}</div>
+                                        <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${fmt(t)}</p>
+                                    </div>
+                                `).join("")}
+                            </div>
+                            <div class="pt-4 border-t border-slate-100 space-y-3">
+                                <div>
+                                    <h4 class="font-extrabold text-sm sm:text-base text-slate-900">Chọn nhóm luyện tập ngay</h4>
+                                    <p class="text-xs text-slate-500">Làm riêng từng từ loại 20 câu để nhớ mặt chữ nhanh hơn</p>
+                                </div>
+                                <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${practiceButtons}</div>
+                            </div>
+                        </div>
+                    `
+                }
+            ];
+        }
+
+        const v = sec.visual;
+        if (!v) {
+            return [{
+                id: `wf-sec-${lessonIdx}`,
+                title: sec.heading,
+                shortTitle: sec.heading,
+                subtitle: "Nội dung bài học",
+                icon: "fa-book-open",
+                renderHtml: () => this.renderGrammarLectureSectionBody(sec)
+            }];
+        }
+
+        const st = this.getGrammarToneStyle(v.color);
+        const typeCount = (currentTopic.allQuestions || []).filter(q => q.wordType === v.wordTypeKey).length;
+        const subUnits = [];
+
+        // 1. Hậu tố & Công thức nhận diện
+        const exampleHtml = formula
+            ? this.escapeHtml(formula.example).replace(/\[([^\]]+)\]/g, "<mark class='rounded bg-amber-100 px-1.5 py-0.5 text-slate-900 font-extrabold not-italic'>$1</mark>")
+            : "";
+        subUnits.push({
+            id: `wf-${lessonIdx}-suffixes`,
+            title: `Hậu tố nhận diện ${v.wordTypeLabel}`,
+            shortTitle: "Hậu tố & Công thức",
+            subtitle: `${(v.suffixGroups || []).length} nhóm đuôi chuẩn + phát âm`,
+            icon: "fa-tags",
+            renderHtml: () => `
+                <div class="space-y-5">
+                    ${formula ? `
+                        <div class="rounded-2xl border p-4 sm:p-5 ${st.banner} space-y-3">
+                            <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${this.escapeHtml(formula.detail)}</p>
+                            ${formula.suffixes ? `<code class="inline-block px-3 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-mono text-xs">${this.escapeHtml(formula.suffixes)}</code>` : ""}
+                            <div class="bg-white rounded-xl border border-slate-200/90 p-3.5 flex items-center justify-between gap-3">
+                                <div class="space-y-0.5">
+                                    <div class="text-[10px] font-extrabold uppercase tracking-wider text-slate-400">Ví dụ minh họa</div>
+                                    <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${exampleHtml}</p>
+                                </div>
+                                ${this.renderGrammarSpeakIconBtn(formula.example, "w-8 h-8")}
+                            </div>
+                        </div>
+                    ` : ""}
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        ${(v.suffixGroups || []).map(g => `
+                            <div class="rounded-xl bg-slate-50/80 border border-slate-200/80 p-4 space-y-2.5">
+                                <div class="flex flex-wrap items-baseline justify-between gap-2">
+                                    <code class="px-2.5 py-0.5 rounded-md bg-white border border-slate-200 font-mono font-extrabold text-xs text-slate-900">${this.escapeHtml(g.suffix)}</code>
+                                    <span class="text-xs text-slate-500 font-medium">${this.escapeHtml(g.meaning)}</span>
+                                </div>
+                                <div class="flex flex-wrap gap-1.5">
+                                    ${g.examples.map(w => `<span class="px-2.5 py-1 rounded-lg bg-white border border-slate-200/90 text-xs">${this.renderGrammarSpeakWordBtn(w)}</span>`).join("")}
+                                </div>
+                            </div>
+                        `).join("")}
+                    </div>
+                </div>
+            `
+        });
+
+        // 2. Bẫy đuôi từ đặc sản TOEIC
+        if (v.trapGroups && v.trapGroups.length) {
+            subUnits.push({
+                id: `wf-${lessonIdx}-traps`,
+                title: "Bẫy đuôi từ đặc sản TOEIC",
+                shortTitle: "Bẫy đuôi từ dễ nhầm",
+                subtitle: `${v.trapGroups.length} nhóm từ đánh lừa mặt chữ`,
+                icon: "fa-triangle-exclamation",
+                renderHtml: () => `
+                    <div class="space-y-4">
+                        <p class="text-xs sm:text-sm text-amber-900 bg-amber-50/80 border border-amber-200 rounded-xl px-4 py-3">
+                            Các từ bên dưới có đuôi giống một từ loại khác nhưng thực chất lại là <strong>${this.escapeHtml(v.wordTypeLabel)}</strong>. Hãy bấm vào từng từ để nghe và ghi nhớ mặt chữ.
+                        </p>
+                        <div class="space-y-3.5">
+                            ${v.trapGroups.map(tg => `
+                                <div class="bg-white rounded-xl border border-amber-200/90 p-4 space-y-2.5">
+                                    <div>
+                                        <div class="font-extrabold text-sm text-rose-700">${this.escapeHtml(tg.title)}</div>
+                                        <div class="text-xs text-slate-500 mt-0.5">${this.escapeHtml(tg.note)}</div>
+                                    </div>
+                                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                                        ${tg.words.map(item => `
+                                            <div class="flex items-center justify-between gap-2 px-3 py-2 rounded-lg bg-slate-50 border border-slate-200/70 text-xs">
+                                                ${this.renderGrammarSpeakWordBtn(item.word)}
+                                                <span class="text-slate-500 text-[11px] text-right">${this.escapeHtml(item.meaning)}</span>
+                                            </div>
+                                        `).join("")}
+                                    </div>
+                                </div>
+                            `).join("")}
+                        </div>
+                    </div>
+                `
+            });
+        }
+
+        // 3. Sơ đồ vị trí ăn điểm trong câu
+        if (v.positions && v.positions.length) {
+            subUnits.push({
+                id: `wf-${lessonIdx}-positions`,
+                title: `Sơ đồ ${v.positions.length} vị trí ăn điểm nhanh`,
+                shortTitle: "Vị trí đứng trong câu",
+                subtitle: `${v.positions.length} công thức nhìn trước & sau chỗ trống`,
+                icon: "fa-location-dot",
+                renderHtml: () => `
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        ${v.positions.map(pos => `
+                            <div class="rounded-xl border border-slate-200 bg-slate-50/50 p-4 flex flex-col justify-between gap-3">
+                                <div class="space-y-2">
+                                    <span class="inline-block px-2.5 py-0.5 rounded-md border text-[11px] font-extrabold ${st.badge}">${this.escapeHtml(pos.label)}</span>
+                                    <div class="font-mono font-extrabold text-xs sm:text-sm px-3 py-2 rounded-lg bg-white border border-slate-200 text-slate-900">${this.escapeHtml(pos.formula)}</div>
+                                    <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">${this.escapeHtml(pos.desc)}</p>
+                                </div>
+                                <div class="pt-2.5 border-t border-slate-200/70 flex items-start justify-between gap-2">
+                                    <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${fmt(pos.example)}</p>
+                                    ${this.renderGrammarSpeakIconBtn(pos.example)}
+                                </div>
+                            </div>
+                        `).join("")}
+                    </div>
+                `
+            });
+        }
+
+        // 4. Tách riêng từng focusBlock thành một mục học độc lập
+        (v.focusBlocks || []).forEach((block, blockIdx) => {
+            const cleanShort = String(block.title || "")
+                .replace(/^Phân biệt nhanh\s+/i, "Phân biệt ")
+                .replace(/^Bước 1 khi gặp đáp án Động từ:\s*/i, "");
+            subUnits.push({
+                id: `wf-${lessonIdx}-focus-${blockIdx}`,
+                title: block.title,
+                shortTitle: cleanShort,
+                subtitle: block.badge || block.subtitle || "Chủ điểm trọng tâm",
+                icon: block.kind === "decisionSplit" ? "fa-code-branch" : "fa-layer-group",
+                renderHtml: () => {
+                    if (block.kind === "wordChips") {
+                        const bst = this.getGrammarToneStyle(block.tone || "indigo");
+                        return `
+                            <div class="space-y-4">
+                                <div class="flex flex-wrap items-center justify-between gap-2">
+                                    <p class="text-xs sm:text-sm text-slate-600">${this.escapeHtml(block.subtitle)}</p>
+                                    ${block.badge ? `<span class="px-2.5 py-1 rounded-lg border text-xs font-extrabold ${bst.badge}">${this.escapeHtml(block.badge)}</span>` : ""}
+                                </div>
+                                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
+                                    ${block.items.map(it => `
+                                        <div class="rounded-xl border p-3 ${bst.softBg}">
+                                            <div class="text-xs sm:text-sm">${this.renderGrammarSpeakWordBtn(it.word)}</div>
+                                            <div class="text-xs text-slate-600 mt-1">${this.escapeHtml(it.meaning)}</div>
+                                        </div>
+                                    `).join("")}
+                                </div>
+                            </div>
+                        `;
+                    }
+                    if (block.kind === "decisionSplit") {
+                        return `
+                            <div class="space-y-4">
+                                <p class="text-xs sm:text-sm text-slate-600">${this.escapeHtml(block.subtitle)}</p>
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    ${block.branches.map(br => {
+                                        const bst = this.getGrammarToneStyle(br.tone || "emerald");
+                                        return `
+                                            <div class="rounded-xl border p-4 space-y-3 ${bst.softBg}">
+                                                <div class="flex items-center gap-2 flex-wrap">
+                                                    <span class="px-2.5 py-0.5 rounded-md border text-xs font-extrabold ${bst.badge}">${this.escapeHtml(br.badge)}</span>
+                                                    <span class="font-extrabold text-sm text-slate-900">${this.escapeHtml(br.title)}</span>
+                                                </div>
+                                                <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${this.escapeHtml(br.rule)}</p>
+                                                <div class="space-y-2 pt-1">
+                                                    ${br.examples.map(ex => `
+                                                        <div class="bg-white rounded-lg border border-slate-200/80 px-3 py-2 flex items-center justify-between gap-2">
+                                                            <span class="text-xs sm:text-sm text-slate-800">${fmt(ex)}</span>
+                                                            ${this.renderGrammarSpeakIconBtn(ex)}
+                                                        </div>
+                                                    `).join("")}
+                                                </div>
+                                            </div>
+                                        `;
+                                    }).join("")}
+                                </div>
+                            </div>
+                        `;
+                    }
+                    return "";
+                }
+            });
+        });
+
+        // 5. So sánh cặp từ cùng gốc dễ nhầm nghĩa
+        if (v.comparisonSection) {
+            const comp = v.comparisonSection;
+            subUnits.push({
+                id: `wf-${lessonIdx}-compare`,
+                title: comp.title,
+                shortTitle: "Cặp từ cùng gốc dễ nhầm",
+                subtitle: `${(comp.pairs || []).length} cặp hay gài bẫy nghĩa`,
+                icon: "fa-scale-balanced",
+                renderHtml: () => `
+                    <div class="space-y-4">
+                        <p class="text-xs sm:text-sm text-slate-600">${this.escapeHtml(comp.subtitle)}</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                            ${comp.pairs.map(pair => `
+                                <div class="rounded-xl border border-slate-200 bg-slate-50/50 p-4 space-y-2.5">
+                                    <div class="text-xs font-extrabold text-slate-700 pb-1.5 border-b border-slate-200/70">${this.escapeHtml(pair.title)}</div>
+                                    <div class="space-y-2">
+                                        ${pair.items.map(it => {
+                                            const ist = this.getGrammarToneStyle(it.tone || "slate");
+                                            return `
+                                                <div class="bg-white rounded-lg border border-slate-200/80 p-3 space-y-1">
+                                                    <div class="flex items-center justify-between gap-2">
+                                                        <div class="text-xs sm:text-sm">${this.renderGrammarSpeakWordBtn(it.word)}</div>
+                                                        <span class="px-2 py-0.5 rounded-md border text-[10px] font-extrabold shrink-0 ${ist.badge}">${this.escapeHtml(it.tag)}</span>
+                                                    </div>
+                                                    <div class="text-xs text-slate-600 leading-snug">${fmt(it.meaning)}</div>
+                                                </div>
+                                            `;
+                                        }).join("")}
+                                    </div>
+                                </div>
+                            `).join("")}
+                        </div>
+                    </div>
+                `
+            });
+        }
+
+        // 6. Tóm tắt & Ghi nhớ nhanh + Nút luyện ngay
+        if (sec.points && sec.points.length) {
+            subUnits.push({
+                id: `wf-${lessonIdx}-points`,
+                title: `Tóm tắt & Ghi nhớ nhanh (${v.wordTypeLabel})`,
+                shortTitle: "Ghi nhớ & Luyện bài",
+                subtitle: `${sec.points.length} điểm chốt trước khi làm ${typeCount} câu`,
+                icon: "fa-circle-check",
+                renderHtml: () => `
+                    <div class="space-y-5">
+                        <ul class="space-y-2.5 text-sm text-slate-700 leading-relaxed">
+                            ${sec.points.map(p => `
+                                <li class="flex items-start gap-2.5 p-3.5 rounded-xl bg-slate-50 border border-slate-200/80">
+                                    <i class="fa-solid fa-check text-emerald-500 text-xs mt-1.5 shrink-0"></i>
+                                    <span>${fmt(p)}</span>
+                                </li>
+                            `).join("")}
+                        </ul>
+                        <div class="p-4 rounded-2xl border ${st.banner} flex flex-wrap items-center justify-between gap-3">
+                            <div>
+                                <div class="font-extrabold text-sm text-slate-900">Đã nắm vững phần ${this.escapeHtml(v.wordTypeLabel)}?</div>
+                                <div class="text-xs text-slate-600">Thực hành ngay ${typeCount} câu chọn lọc theo đúng chủ điểm này.</div>
+                            </div>
+                            <button type="button" onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')" class="px-4 py-2.5 rounded-xl font-extrabold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-2 ${st.btn}">
+                                <i class="fa-solid fa-bolt"></i>
+                                <span>Luyện ngay ${typeCount} câu ${this.escapeHtml(v.wordTypeLabel)}</span>
+                            </button>
+                        </div>
+                    </div>
+                `
+            });
+        }
+
+        return subUnits;
+    },
+
+    // Tách từng chuyên đề ngữ pháp (21 chuyên đề chuẩn) thành từng mục học nhỏ
+    getStandardTopicSubUnits(topic) {
+        const lec = (window.GRAMMAR_LECTURES || {})[topic.id] || {};
+        const subUnits = [];
+
+        (lec.sections || []).forEach((sec, idx) => {
+            const cleanTitle = String(sec.heading || "").replace(/^\d+\.\s*/, "");
+            const hasTable = Boolean(sec.table || sec.positionTable);
+            const ptsCount = sec.points ? sec.points.length : 0;
+            const subParts = [];
+            if (hasTable) subParts.push("Bảng hệ thống");
+            if (ptsCount) subParts.push(`${ptsCount} ghi chú`);
+            subUnits.push({
+                id: `sec-${idx}`,
+                title: cleanTitle,
+                shortTitle: cleanTitle,
+                subtitle: subParts.join(" • ") || "Lý thuyết trọng tâm",
+                icon: hasTable ? "fa-table-list" : "fa-book-open",
+                renderHtml: () => this.renderGrammarLectureSectionBody(sec)
+            });
+        });
+
+        if (topic.formulas && topic.formulas.length) {
+            subUnits.push({
+                id: "formulas",
+                title: "Công thức & Ví dụ nhận biết nhanh",
+                shortTitle: "Công thức & Ví dụ",
+                subtitle: `${topic.formulas.length} mẫu câu + phát âm`,
+                icon: "fa-bolt",
+                renderHtml: () => `
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        ${topic.formulas.map((f, index) => {
+                            const exampleHtml = this.escapeHtml(f.example).replace(/\[([^\]]+)\]/g, "<mark class='rounded bg-amber-100/90 px-1 py-0.5 text-slate-900 font-bold not-italic'>$1</mark>");
+                            return `
+                                <div class="rounded-xl border border-slate-200 bg-slate-50/40 p-4 space-y-2.5">
+                                    <div class="flex items-start gap-2.5">
+                                        <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 flex items-center justify-center font-extrabold text-xs shrink-0 mt-0.5">${index + 1}</span>
+                                        <h4 class="font-bold text-sm text-slate-900 leading-snug">${this.escapeHtml(f.rule)}</h4>
+                                    </div>
+                                    <p class="text-xs sm:text-sm text-slate-600 leading-relaxed pl-8">${this.escapeHtml(f.detail)}</p>
+                                    ${f.suffixes ? `
+                                        <div class="pl-8">
+                                            <code class="inline-block px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-mono text-xs leading-relaxed">${this.escapeHtml(f.suffixes)}</code>
+                                        </div>
+                                    ` : ""}
+                                    <div class="pl-8 pt-2 border-t border-slate-200/60 flex items-start justify-between gap-2.5">
+                                        <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${exampleHtml}</p>
+                                        ${this.renderGrammarSpeakIconBtn(f.example)}
+                                    </div>
+                                </div>
+                            `;
+                        }).join("")}
+                    </div>
+                `
+            });
+        }
+
+        const trapCount = lec.traps ? lec.traps.length : 0;
+        const tipCount = lec.tips ? lec.tips.length : 0;
+        if (trapCount || tipCount) {
+            subUnits.push({
+                id: "traps-tips",
+                title: "Bẫy ETS & Mẹo giải nhanh 3–5 giây",
+                shortTitle: "Bẫy ETS & Mẹo 3–5s",
+                subtitle: `${trapCount} bẫy • ${tipCount} mẹo thực chiến`,
+                icon: "fa-triangle-exclamation",
+                renderHtml: () => this.renderGrammarTrapsAndTipsGrid(lec.traps || [], lec.tips || [])
+            });
+        }
+
+        return subUnits;
+    },
+
+    // Danh sách nút chọn nhanh hiển thị trên mỗi thẻ ở trang 22 chuyên đề
+    getGrammarTopicPickerItems(topic) {
+        if (topic.id === "gram-20-word-formation") {
+            const lec = (window.GRAMMAR_LECTURES || {})[topic.id] || {};
+            const sections = lec.sections || [];
+            const formulas = topic.formulas || [];
+            const items = sections.map((sec, idx) => {
+                const v = sec.visual || {};
+                const subUnits = this.getWordFormationSubUnits(sec, formulas[idx], idx, { lec, currentTopic: topic });
+                return {
+                    label: `Bài ${idx + 1}: ${(v.wordTypeLabel || v.shortTitle || sec.heading)}`,
+                    badge: `${subUnits.length} mục`,
+                    lessonIdx: idx,
+                    subUnitIdx: 0,
+                    searchText: subUnits.map(u => `${u.title} ${u.shortTitle}`).join(" ")
+                };
+            });
+            const summaryUnits = this.getWordFormationSubUnits(null, null, sections.length, { lec, currentTopic: topic });
+            items.push({
+                label: "Tổng kết: Bẫy & Mẹo 5s",
+                badge: `${summaryUnits.length} mục`,
+                lessonIdx: sections.length,
+                subUnitIdx: 0,
+                searchText: summaryUnits.map(u => `${u.title} ${u.shortTitle}`).join(" ")
+            });
+            return items;
+        }
+
+        return this.getStandardTopicSubUnits(topic).map((unit, idx) => ({
+            label: `${idx + 1}. ${unit.shortTitle}`,
+            badge: "",
+            lessonIdx: 0,
+            subUnitIdx: idx,
+            searchText: `${unit.title} ${unit.subtitle}`
+        }));
+    },
+
+    // Bố cục 2 cột dùng chung: Menu chọn nội dung bên trái + Khung đọc 1 mục bên phải
+    renderGrammarSplitLayout({ subUnits, activeSubIdx, showAll, tone = "emerald", extraSidebarHtml = "", nextBlockActionHtml = "" }) {
+        if (!subUnits || !subUnits.length) return "";
+        const st = this.getGrammarToneStyle(tone);
+        const safeIdx = Math.min(Math.max(0, Number(activeSubIdx) || 0), subUnits.length - 1);
+        const currentUnit = subUnits[safeIdx];
+
+        const sidebarHtml = `
+            <aside class="lg:col-span-4 xl:col-span-3 space-y-3 lg:sticky lg:top-20 self-start">
+                <div class="bg-white rounded-2xl border border-slate-200 p-4 shadow-sm space-y-3">
+                    <div class="flex items-center justify-between gap-2 pb-2.5 border-b border-slate-100">
+                        <div>
+                            <div class="text-xs font-extrabold uppercase tracking-wider text-slate-500">Chọn nội dung học</div>
+                            <div class="text-xs font-semibold text-slate-400 mt-0.5">${showAll ? `Đang gộp ${subUnits.length} mục` : `Đang xem mục ${safeIdx + 1}/${subUnits.length}`}</div>
+                        </div>
+                        ${subUnits.length > 1 ? `
+                            <button
+                                type="button"
+                                onclick="app.toggleGrammarShowAllSubUnits()"
+                                class="px-2.5 py-1 rounded-lg border text-[11px] font-bold transition ${showAll ? 'bg-slate-900 text-white border-slate-900' : 'bg-slate-50 hover:bg-slate-100 text-slate-600 border-slate-200'}"
+                                title="${showAll ? 'Chuyển sang xem từng mục riêng' : 'Mở xem toàn bộ nội dung cùng lúc'}"
+                            >
+                                ${showAll ? "Xem từng mục" : "Xem gộp"}
+                            </button>
+                        ` : ""}
+                    </div>
+
+                    <div class="space-y-1.5" role="navigation" aria-label="Danh mục nội dung trong bài">
+                        ${subUnits.map((unit, idx) => {
+                            const isActive = !showAll && idx === safeIdx;
+                            return `
+                                <button
+                                    type="button"
+                                    onclick="app.setGrammarSubUnit(${idx})"
+                                    aria-current="${isActive ? 'true' : 'false'}"
+                                    class="w-full text-left p-2.5 rounded-xl border transition flex items-start gap-2.5 ${isActive ? st.menuActive : 'bg-slate-50/70 hover:bg-white border-slate-200/80 text-slate-700 hover:border-slate-300'}"
+                                >
+                                    <span class="w-6 h-6 rounded-lg font-extrabold text-xs flex items-center justify-center shrink-0 mt-0.5 ${isActive ? st.menuNumActive : 'bg-white border border-slate-200 text-slate-600'}">
+                                        ${idx + 1}
+                                    </span>
+                                    <div class="min-w-0 flex-1">
+                                        <div class="text-xs sm:text-[13px] font-bold leading-snug ${isActive ? 'text-white' : 'text-slate-900'}">${this.escapeHtml(unit.shortTitle || unit.title)}</div>
+                                        ${unit.subtitle ? `<div class="text-[11px] mt-0.5 truncate ${isActive ? 'text-white/80' : 'text-slate-500'}">${this.escapeHtml(unit.subtitle)}</div>` : ""}
+                                    </div>
+                                </button>
+                            `;
+                        }).join("")}
+                    </div>
+
+                    ${extraSidebarHtml ? `<div class="pt-3 border-t border-slate-100">${extraSidebarHtml}</div>` : ""}
+                </div>
+            </aside>
+        `;
+
+        const readingPaneHtml = showAll ? `
+            <div class="lg:col-span-8 xl:col-span-9 space-y-5">
+                <div class="bg-slate-900 text-white rounded-2xl px-4 py-3 flex flex-wrap items-center justify-between gap-2 text-xs">
+                    <span class="font-semibold"><i class="fa-solid fa-layer-group mr-1.5 text-emerald-400"></i>Đang hiển thị gộp cả ${subUnits.length} mục</span>
+                    <button type="button" onclick="app.toggleGrammarShowAllSubUnits()" class="px-3 py-1 rounded-lg bg-white/15 hover:bg-white/25 font-bold transition">
+                        Thu gọn — Xem từng mục
+                    </button>
+                </div>
+                ${subUnits.map((unit, idx) => `
+                    <article class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm space-y-4">
+                        <div class="flex items-center gap-2.5 pb-3 border-b border-slate-100">
+                            <span class="w-7 h-7 rounded-lg border text-xs font-extrabold flex items-center justify-center shrink-0 ${st.badge}">${idx + 1}</span>
+                            <div>
+                                <h3 class="text-base sm:text-lg font-extrabold text-slate-900">${this.escapeHtml(unit.title)}</h3>
+                                ${unit.subtitle ? `<p class="text-xs text-slate-500">${this.escapeHtml(unit.subtitle)}</p>` : ""}
+                            </div>
+                        </div>
+                        ${unit.renderHtml()}
+                    </article>
+                `).join("")}
+            </div>
+        ` : `
+            <div class="lg:col-span-8 xl:col-span-9">
+                <article class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-7 shadow-sm space-y-6">
+                    <div class="flex flex-wrap items-start justify-between gap-3 pb-4 border-b border-slate-100">
+                        <div class="space-y-1">
+                            <div class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-lg border text-[11px] font-extrabold ${st.badge}">
+                                <i class="fa-solid ${currentUnit.icon || 'fa-book-open'}"></i>
+                                <span>Mục ${safeIdx + 1} / ${subUnits.length}</span>
+                            </div>
+                            <h3 class="text-lg sm:text-xl font-extrabold text-slate-900 tracking-tight">
+                                ${this.escapeHtml(currentUnit.title)}
+                            </h3>
+                            ${currentUnit.subtitle ? `<p class="text-xs sm:text-sm text-slate-500">${this.escapeHtml(currentUnit.subtitle)}</p>` : ""}
+                        </div>
+                    </div>
+
+                    <div>
+                        ${currentUnit.renderHtml()}
+                    </div>
+
+                    <!-- Thanh chuyển mục trước / tiếp theo gọn gàng -->
+                    <div class="pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
+                        ${safeIdx > 0 ? `
+                            <button
+                                type="button"
+                                onclick="app.setGrammarSubUnit(${safeIdx - 1})"
+                                class="px-4 py-2 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs sm:text-sm transition inline-flex items-center gap-1.5"
+                            >
+                                <i class="fa-solid fa-arrow-left"></i>
+                                <span>Nội dung trước</span>
+                            </button>
+                        ` : `<span class="text-xs font-semibold text-slate-400">Bắt đầu mục 1/${subUnits.length}</span>`}
+
+                        <div class="hidden sm:flex items-center gap-1.5" aria-hidden="true">
+                            ${subUnits.map((_, idx) => `
+                                <button
+                                    type="button"
+                                    onclick="app.setGrammarSubUnit(${idx})"
+                                    class="h-2 rounded-full transition-all ${idx === safeIdx ? 'w-6 bg-slate-900' : 'w-2 bg-slate-200 hover:bg-slate-300'}"
+                                    title="Mục ${idx + 1}"
+                                ></button>
+                            `).join("")}
+                        </div>
+
+                        ${safeIdx < subUnits.length - 1 ? `
+                            <button
+                                type="button"
+                                onclick="app.setGrammarSubUnit(${safeIdx + 1})"
+                                class="px-4 py-2 rounded-xl font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-1.5 ${st.btn}"
+                            >
+                                <span>Nội dung tiếp theo</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        ` : (nextBlockActionHtml || `<span class="text-xs font-bold text-emerald-600"><i class="fa-solid fa-circle-check mr-1"></i>Đã hết nội dung bài</span>`)}
+                    </div>
+                </article>
+            </div>
+        `;
+
+        return `
+            <div id="grammar-theory-workspace" class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
+                ${sidebarHtml}
+                ${readingPaneHtml}
+            </div>
+        `;
+    },
+
+    // Giao diện Word Formation: Tầng 1 chọn Bài 1..4 hoặc Tổng kết; Tầng 2 chọn từng mục nhỏ trong bài đó
+    renderWordFormationTheoryHtml(currentTopic, totalQuestions) {
+        const lec = (window.GRAMMAR_LECTURES || {})[currentTopic.id] || {};
+        const sections = lec.sections || [];
+        const formulas = currentTopic.formulas || [];
+        const activeIdx = Math.min(Math.max(0, Number(this.state.grammarWordFormationLessonIndex) || 0), sections.length);
+
         const topModulesHtml = `
             <nav class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3" aria-label="Chọn bài học Word Formation">
                 ${sections.map((sec, idx) => {
                     const v = sec.visual || {};
-                    const st = TONE_STYLES[v.color] || TONE_STYLES.emerald;
+                    const st = this.getGrammarToneStyle(v.color);
                     const isActive = activeIdx === idx;
+                    const count = this.getWordFormationSubUnits(sec, formulas[idx], idx, { lec, currentTopic, totalQuestions }).length;
                     return `
                         <button
                             type="button"
@@ -6729,7 +7539,7 @@ const app = {
                             class="text-left p-3.5 rounded-2xl border transition flex flex-col justify-between gap-2 ${isActive ? st.navActive : st.navIdle}"
                         >
                             <div class="flex items-center justify-between gap-2 w-full">
-                                <span class="text-[11px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md ${isActive ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-600'}">Bài ${idx + 1}</span>
+                                <span class="text-[11px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md ${isActive ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-600'}">Bài ${idx + 1} • ${count} mục</span>
                                 <span class="w-8 h-8 rounded-xl flex items-center justify-center text-xs shrink-0 ${isActive ? st.iconActive : st.iconIdle}">
                                     <i class="fa-solid ${v.icon || 'fa-book'}"></i>
                                 </span>
@@ -6742,8 +7552,9 @@ const app = {
                     `;
                 }).join("")}
                 ${(() => {
-                    const st = TONE_STYLES.rose;
+                    const st = this.getGrammarToneStyle("rose");
                     const isActive = activeIdx === sections.length;
+                    const summaryCount = this.getWordFormationSubUnits(null, null, sections.length, { lec, currentTopic, totalQuestions }).length;
                     return `
                         <button
                             type="button"
@@ -6752,14 +7563,14 @@ const app = {
                             class="col-span-2 sm:col-span-1 text-left p-3.5 rounded-2xl border transition flex flex-col justify-between gap-2 ${isActive ? st.navActive : st.navIdle}"
                         >
                             <div class="flex items-center justify-between gap-2 w-full">
-                                <span class="text-[11px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md ${isActive ? 'bg-white/20 text-white' : 'bg-rose-50 text-rose-700'}">Tổng kết</span>
+                                <span class="text-[11px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md ${isActive ? 'bg-white/20 text-white' : 'bg-rose-50 text-rose-700'}">Tổng kết • ${summaryCount} mục</span>
                                 <span class="w-8 h-8 rounded-xl flex items-center justify-center text-xs shrink-0 ${isActive ? st.iconActive : st.iconIdle}">
                                     <i class="fa-solid fa-bolt"></i>
                                 </span>
                             </div>
                             <div>
                                 <div class="font-extrabold text-sm leading-snug">Bẫy ETS &amp; Mẹo 5s</div>
-                                <div class="text-[11px] mt-0.5 leading-snug ${isActive ? st.subActive : 'text-slate-500'}">Quy trình 3 bước • Chọn luyện tập</div>
+                                <div class="text-[11px] mt-0.5 leading-snug ${isActive ? st.subActive : 'text-slate-500'}">Quy trình 3 bước • Chọn luyện</div>
                             </div>
                         </button>
                     `;
@@ -6767,383 +7578,102 @@ const app = {
             </nav>
         `;
 
-        let bodyHtml = "";
+        const isSummary = activeIdx >= sections.length;
+        const sec = isSummary ? null : sections[activeIdx];
+        const v = sec?.visual || null;
+        const tone = isSummary ? "rose" : (v?.color || "emerald");
+        const subUnits = this.getWordFormationSubUnits(sec, formulas[activeIdx], activeIdx, { lec, currentTopic, totalQuestions });
 
-        if (activeIdx < sections.length) {
-            const sec = sections[activeIdx];
-            const v = sec.visual;
-            const formula = formulas[activeIdx];
+        let extraSidebarHtml = "";
+        let nextBlockActionHtml = "";
 
-            if (!v) {
-                bodyHtml = `<div class="bg-white rounded-2xl border border-slate-200 p-6">${this.getGrammarLectureHtml(currentTopic.id)}</div>`;
-            } else {
-                const st = TONE_STYLES[v.color] || TONE_STYLES.emerald;
-                const typeCount = (currentTopic.allQuestions || []).filter(q => q.wordType === v.wordTypeKey).length;
-                const exampleHtml = formula
-                    ? this.escapeHtml(formula.example).replace(/\[([^\]]+)\]/g, "<mark class='rounded bg-amber-100 px-1.5 py-0.5 text-slate-900 font-extrabold not-italic'>$1</mark>")
-                    : "";
-                const spokenExample = formula ? formula.example.replace(/[\[\]]/g, "") : "";
-                const nextLabel = activeIdx < sections.length - 1 ? `Sang Bài ${activeIdx + 2}` : "Tổng kết Bẫy & Mẹo";
-
-                // Vùng 1: Banner tóm tắt cốt lõi + Ví dụ phát âm + Nút Luyện ngay
-                const bannerHtml = `
-                    <div class="rounded-2xl border p-5 sm:p-6 shadow-sm ${st.banner}">
-                        <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
-                            <div class="space-y-1.5">
-                                <div class="flex flex-wrap items-center gap-2">
-                                    <span class="px-2.5 py-0.5 rounded-lg border text-xs font-extrabold ${st.badge}">Bài ${activeIdx + 1} / ${sections.length}</span>
-                                    <span class="text-xs font-bold text-slate-500">${this.escapeHtml(v.subtitle)}</span>
-                                </div>
-                                <h2 class="text-lg sm:text-2xl font-extrabold text-slate-900 tracking-tight">${this.escapeHtml(sec.heading)}</h2>
-                            </div>
-                            <button
-                                type="button"
-                                onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')"
-                                class="shrink-0 px-4 py-2.5 rounded-xl font-extrabold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-2 ${st.btn}"
-                            >
-                                <i class="fa-solid fa-bolt"></i>
-                                <span>Luyện ngay ${typeCount} câu ${v.wordTypeLabel}</span>
-                            </button>
-                        </div>
-
-                        ${formula ? `
-                            <div class="mt-4 pt-4 border-t border-slate-200/70 grid grid-cols-1 lg:grid-cols-12 gap-4 items-center">
-                                <div class="lg:col-span-7 space-y-2">
-                                    <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${this.escapeHtml(formula.detail)}</p>
-                                    ${formula.suffixes ? `<code class="inline-block px-3 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-mono text-xs">${this.escapeHtml(formula.suffixes)}</code>` : ""}
-                                </div>
-                                <div class="lg:col-span-5 bg-white rounded-xl border border-slate-200/90 p-3.5 flex items-center justify-between gap-3">
-                                    <div class="space-y-0.5">
-                                        <div class="text-[10px] font-extrabold uppercase tracking-wider text-slate-400">Ví dụ minh họa</div>
-                                        <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${exampleHtml}</p>
-                                    </div>
-                                    ${speakIconBtn(spokenExample, "w-8 h-8")}
-                                </div>
-                            </div>
-                        ` : ""}
-                    </div>
-                `;
-
-                // Vùng 2: Hậu tố chuẩn (Trái) vs Bẫy đuôi từ đặc sản TOEIC (Phải)
-                const suffixAndTrapsHtml = `
-                    <div class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-stretch">
-                        <div class="lg:col-span-5 bg-white rounded-2xl border border-slate-200 p-5 shadow-sm flex flex-col gap-4">
-                            <div class="flex items-center justify-between gap-2 pb-3 border-b border-slate-100">
-                                <div class="flex items-center gap-2.5">
-                                    <span class="w-8 h-8 rounded-xl flex items-center justify-center text-sm ${st.badge}"><i class="fa-solid fa-tags"></i></span>
-                                    <div>
-                                        <h3 class="font-extrabold text-sm sm:text-base text-slate-900">Hậu tố nhận diện chuẩn</h3>
-                                        <p class="text-xs text-slate-500">Bấm vào từng từ để nghe phát âm</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="space-y-3">
-                                ${(v.suffixGroups || []).map(g => `
-                                    <div class="rounded-xl bg-slate-50/80 border border-slate-200/70 p-3.5 space-y-2">
-                                        <div class="flex flex-wrap items-baseline justify-between gap-2">
-                                            <code class="px-2 py-0.5 rounded-md bg-white border border-slate-200 font-mono font-extrabold text-xs text-slate-900">${this.escapeHtml(g.suffix)}</code>
-                                            <span class="text-xs text-slate-500 font-medium">${this.escapeHtml(g.meaning)}</span>
-                                        </div>
-                                        <div class="flex flex-wrap gap-1.5">
-                                            ${g.examples.map(w => `
-                                                <span class="px-2.5 py-1 rounded-lg bg-white border border-slate-200/90 text-xs">${speakWordBtn(w)}</span>
-                                            `).join("")}
-                                        </div>
-                                    </div>
-                                `).join("")}
-                            </div>
-                        </div>
-
-                        <div class="lg:col-span-7 bg-amber-50/40 rounded-2xl border border-amber-200/90 p-5 shadow-sm flex flex-col gap-4">
-                            <div class="flex items-center justify-between gap-2 pb-3 border-b border-amber-200/70">
-                                <div class="flex items-center gap-2.5">
-                                    <span class="w-8 h-8 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center text-sm"><i class="fa-solid fa-triangle-exclamation"></i></span>
-                                    <div>
-                                        <h3 class="font-extrabold text-sm sm:text-base text-slate-900">Bẫy đuôi từ đặc sản TOEIC</h3>
-                                        <p class="text-xs text-amber-900/80">Các từ có đuôi dễ đánh lừa từ loại — cần học thuộc mặt chữ</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="space-y-3.5">
-                                ${(v.trapGroups || []).map(tg => `
-                                    <div class="bg-white rounded-xl border border-amber-200/80 p-3.5 space-y-2.5">
-                                        <div>
-                                            <div class="font-extrabold text-xs sm:text-sm text-rose-700">${this.escapeHtml(tg.title)}</div>
-                                            <div class="text-xs text-slate-500 mt-0.5">${this.escapeHtml(tg.note)}</div>
-                                        </div>
-                                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                                            ${tg.words.map(item => `
-                                                <div class="flex items-center justify-between gap-2 px-2.5 py-1.5 rounded-lg bg-slate-50 border border-slate-200/70 text-xs">
-                                                    ${speakWordBtn(item.word)}
-                                                    <span class="text-slate-500 text-[11px] text-right">${this.escapeHtml(item.meaning)}</span>
-                                                </div>
-                                            `).join("")}
-                                        </div>
-                                    </div>
-                                `).join("")}
-                            </div>
-                        </div>
-                    </div>
-                `;
-
-                // Vùng 3: Sơ đồ Vị trí ăn điểm trong câu
-                const posGridCols = v.positions.length <= 3
-                    ? "grid-cols-1 md:grid-cols-3"
-                    : v.positions.length === 4
-                        ? "grid-cols-1 md:grid-cols-2 xl:grid-cols-4"
-                        : "grid-cols-1 md:grid-cols-2 xl:grid-cols-5";
-
-                const positionsHtml = `
-                    <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm space-y-4">
-                        <div class="flex flex-wrap items-center justify-between gap-2">
-                            <div class="flex items-center gap-2.5">
-                                <span class="w-8 h-8 rounded-xl flex items-center justify-center text-sm ${st.badge}"><i class="fa-solid fa-location-dot"></i></span>
-                                <div>
-                                    <h3 class="font-extrabold text-sm sm:text-base text-slate-900">Sơ đồ Vị trí ăn điểm nhanh trong câu</h3>
-                                    <p class="text-xs text-slate-500">Nhìn ngay từ đứng trước &amp; sau chỗ trống để chốt từ loại</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="grid ${posGridCols} gap-3.5">
-                            ${v.positions.map(pos => `
-                                <div class="rounded-xl border border-slate-200 bg-slate-50/50 p-4 flex flex-col justify-between gap-3 hover:border-slate-300 transition">
-                                    <div class="space-y-2">
-                                        <span class="inline-block px-2 py-0.5 rounded-md border text-[11px] font-extrabold ${st.badge}">${this.escapeHtml(pos.label)}</span>
-                                        <div class="font-mono font-extrabold text-xs sm:text-[13px] px-2.5 py-2 rounded-lg bg-white border border-slate-200 text-slate-900">${this.escapeHtml(pos.formula)}</div>
-                                        <p class="text-xs text-slate-600 leading-relaxed">${this.escapeHtml(pos.desc)}</p>
-                                    </div>
-                                    <div class="pt-2.5 border-t border-slate-200/70 flex items-start justify-between gap-2">
-                                        <p class="text-xs text-slate-700 leading-relaxed">${fmt(pos.example)}</p>
-                                        ${speakIconBtn(pos.example)}
-                                    </div>
-                                </div>
-                            `).join("")}
-                        </div>
-                    </div>
-                `;
-
-                // Vùng 4: Các khối kiến thức trọng tâm (Compound Nouns, Uncountable, V-ing vs N, V-ing vs V-ed, V chính...)
-                const focusBlocksHtml = (v.focusBlocks || []).map(block => {
-                    if (block.kind === "wordChips") {
-                        const bst = TONE_STYLES[block.tone] || TONE_STYLES.indigo;
-                        return `
-                            <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm space-y-4">
-                                <div class="flex flex-wrap items-center justify-between gap-2">
-                                    <div>
-                                        <h3 class="font-extrabold text-sm sm:text-base text-slate-900">${this.escapeHtml(block.title)}</h3>
-                                        <p class="text-xs text-slate-500 mt-0.5">${this.escapeHtml(block.subtitle)}</p>
-                                    </div>
-                                    <span class="px-2.5 py-1 rounded-lg border text-xs font-extrabold ${bst.badge}">${this.escapeHtml(block.badge)}</span>
-                                </div>
-                                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5">
-                                    ${block.items.map(it => `
-                                        <div class="rounded-xl border p-3 flex items-center justify-between gap-2 ${bst.softBg}">
-                                            <div class="min-w-0">
-                                                <div class="text-xs sm:text-sm">${speakWordBtn(it.word)}</div>
-                                                <div class="text-[11px] text-slate-600 mt-0.5 truncate" title="${this.escapeHtml(it.meaning)}">${this.escapeHtml(it.meaning)}</div>
-                                            </div>
-                                        </div>
-                                    `).join("")}
-                                </div>
-                            </div>
-                        `;
-                    }
-                    if (block.kind === "decisionSplit") {
-                        return `
-                            <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm space-y-4">
-                                <div>
-                                    <h3 class="font-extrabold text-sm sm:text-base text-slate-900">${this.escapeHtml(block.title)}</h3>
-                                    <p class="text-xs text-slate-500 mt-0.5">${this.escapeHtml(block.subtitle)}</p>
-                                </div>
-                                <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
-                                    ${block.branches.map(br => {
-                                        const bst = TONE_STYLES[br.tone] || TONE_STYLES.emerald;
-                                        return `
-                                            <div class="rounded-xl border p-4 space-y-3 ${bst.softBg}">
-                                                <div class="flex items-center gap-2 flex-wrap">
-                                                    <span class="px-2.5 py-0.5 rounded-md border text-xs font-extrabold ${bst.badge}">${this.escapeHtml(br.badge)}</span>
-                                                    <span class="font-extrabold text-sm text-slate-900">${this.escapeHtml(br.title)}</span>
-                                                </div>
-                                                <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${this.escapeHtml(br.rule)}</p>
-                                                <div class="space-y-1.5 pt-1">
-                                                    ${br.examples.map(ex => `
-                                                        <div class="bg-white rounded-lg border border-slate-200/80 px-3 py-2 flex items-center justify-between gap-2">
-                                                            <span class="text-xs sm:text-sm text-slate-800">${fmt(ex)}</span>
-                                                            ${speakIconBtn(ex)}
-                                                        </div>
-                                                    `).join("")}
-                                                </div>
-                                            </div>
-                                        `;
-                                    }).join("")}
-                                </div>
-                            </div>
-                        `;
-                    }
-                    return "";
-                }).join("");
-
-                // Vùng 4b: Lưới thẻ so sánh các cặp dễ nhầm
-                const comp = v.comparisonSection;
-                const comparisonHtml = comp ? `
-                    <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm space-y-4">
-                        <div>
-                            <h3 class="font-extrabold text-sm sm:text-base text-slate-900">${this.escapeHtml(comp.title)}</h3>
-                            <p class="text-xs text-slate-500 mt-0.5">${this.escapeHtml(comp.subtitle)}</p>
-                        </div>
-                        <div class="grid ${comp.columnsClass || 'grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-3'}">
-                            ${comp.pairs.map(pair => `
-                                <div class="rounded-xl border border-slate-200 bg-slate-50/50 p-3.5 space-y-2.5">
-                                    <div class="text-xs font-extrabold text-slate-700 pb-1.5 border-b border-slate-200/70">${this.escapeHtml(pair.title)}</div>
-                                    <div class="space-y-2">
-                                        ${pair.items.map(it => {
-                                            const ist = TONE_STYLES[it.tone] || TONE_STYLES.slate;
-                                            return `
-                                                <div class="bg-white rounded-lg border border-slate-200/80 p-2.5 space-y-1">
-                                                    <div class="flex items-center justify-between gap-2">
-                                                        <div class="text-xs sm:text-sm">${speakWordBtn(it.word)}</div>
-                                                        <span class="px-2 py-0.5 rounded-md border text-[10px] font-extrabold shrink-0 ${ist.badge}">${this.escapeHtml(it.tag)}</span>
-                                                    </div>
-                                                    <div class="text-xs text-slate-600 leading-snug">${fmt(it.meaning)}</div>
-                                                </div>
-                                            `;
-                                        }).join("")}
-                                    </div>
-                                </div>
-                            `).join("")}
-                        </div>
-                    </div>
-                ` : "";
-
-                // Vùng 5: Ghi nhớ nhanh & Điều hướng cuối bài
-                const footerHtml = `
-                    <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm space-y-4">
-                        ${sec.points && sec.points.length ? `
-                            <div class="rounded-xl bg-slate-50 border border-slate-200/80 p-4 space-y-2">
-                                <div class="text-xs font-extrabold uppercase tracking-wide text-slate-600">Ghi nhớ nhanh trước khi làm bài</div>
-                                <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                                    ${sec.points.map(p => `
-                                        <li class="flex items-start gap-2">
-                                            <i class="fa-solid fa-check text-emerald-500 text-xs mt-1.5 shrink-0"></i>
-                                            <span>${fmt(p)}</span>
-                                        </li>
-                                    `).join("")}
-                                </ul>
-                            </div>
-                        ` : ""}
-                        <div class="pt-2 flex flex-wrap items-center justify-between gap-3">
-                            ${activeIdx > 0 ? `
-                                <button type="button" onclick="app.setGrammarWordFormationLesson(${activeIdx - 1})" class="px-4 py-2.5 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs sm:text-sm transition">
-                                    <i class="fa-solid fa-arrow-left mr-1.5"></i>Bài ${activeIdx}
-                                </button>
-                            ` : `<span class="text-xs font-semibold text-slate-400">Bài 1 / ${totalSteps}</span>`}
-
-                            <div class="flex flex-wrap items-center gap-2.5 ml-auto">
-                                <button type="button" onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')" class="px-4 py-2.5 rounded-xl border font-extrabold text-xs sm:text-sm transition ${st.softBg} hover:opacity-90">
-                                    <i class="fa-solid fa-pen-to-square mr-1.5"></i>Luyện ${typeCount} câu ${v.wordTypeLabel}
-                                </button>
-                                <button type="button" onclick="app.setGrammarWordFormationLesson(${activeIdx + 1})" class="px-5 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs sm:text-sm shadow-sm transition">
-                                    <span>${nextLabel}</span>
-                                    <i class="fa-solid fa-arrow-right ml-1.5"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                `;
-
-                bodyHtml = `${bannerHtml}${suffixAndTrapsHtml}${positionsHtml}${focusBlocksHtml}${comparisonHtml}${footerHtml}`;
-            }
+        if (!isSummary && v) {
+            const st = this.getGrammarToneStyle(tone);
+            const typeCount = (currentTopic.allQuestions || []).filter(q => q.wordType === v.wordTypeKey).length;
+            extraSidebarHtml = `
+                <button
+                    type="button"
+                    onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')"
+                    class="w-full py-2.5 px-3 rounded-xl font-extrabold text-xs shadow-sm transition inline-flex items-center justify-center gap-1.5 ${st.btn}"
+                >
+                    <i class="fa-solid fa-bolt"></i>
+                    <span>Luyện ${typeCount} câu ${this.escapeHtml(v.wordTypeLabel)}</span>
+                </button>
+            `;
+            const nextLabel = activeIdx < sections.length - 1 ? `Sang Bài ${activeIdx + 2}` : "Sang Tổng kết Bẫy & Mẹo";
+            nextBlockActionHtml = `
+                <button
+                    type="button"
+                    onclick="app.setGrammarWordFormationLesson(${activeIdx + 1})"
+                    class="px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-1.5"
+                >
+                    <span>${nextLabel}</span>
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
+            `;
         } else {
-            // Module 5: Tổng kết Sơ đồ 3 bước + 4 Bẫy ETS + Nút luyện tập theo từng từ loại
-            const allQs = currentTopic.allQuestions || [];
-            const practiceButtons = sections.map(sec => {
-                const v = sec.visual;
-                if (!v) return "";
-                const st = TONE_STYLES[v.color] || TONE_STYLES.emerald;
-                const count = allQs.filter(q => q.wordType === v.wordTypeKey).length;
-                return `
-                    <button
-                        type="button"
-                        onclick="app.startWordFormationTypePractice('${v.wordTypeKey}')"
-                        class="w-full p-3.5 rounded-xl border text-left transition flex items-center justify-between gap-3 bg-white hover:shadow-sm ${st.accentBorder}"
-                    >
-                        <div class="flex items-center gap-3">
-                            <span class="w-9 h-9 rounded-xl flex items-center justify-center text-sm shrink-0 ${st.iconIdle}">
-                                <i class="fa-solid ${v.icon}"></i>
-                            </span>
-                            <div>
-                                <div class="font-extrabold text-sm text-slate-900">${this.escapeHtml(v.shortTitle)}</div>
-                                <div class="text-xs text-slate-500">Làm riêng ${count} câu ${v.wordTypeLabel}</div>
-                            </div>
-                        </div>
-                        <i class="fa-solid fa-arrow-right text-slate-400"></i>
-                    </button>
-                `;
-            }).join("");
-
-            bodyHtml = `
-                <div class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm space-y-5">
-                    <div class="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-slate-100">
-                        <div>
-                            <span class="px-2.5 py-0.5 rounded-lg bg-rose-50 border border-rose-200 text-rose-700 text-xs font-extrabold">Quy trình 5 giây Part 5</span>
-                            <h2 class="text-lg sm:text-xl font-extrabold text-slate-900 mt-1.5">Sơ đồ 3 Bước Giải Nhanh Câu Word Formation</h2>
-                        </div>
-                        <button type="button" onclick="app.startWordFormationTypePractice('all')" class="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-2">
-                            <span>Làm bài tập tổng hợp (${totalQuestions} câu)</span>
-                            <i class="fa-solid fa-arrow-right"></i>
-                        </button>
-                    </div>
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                        ${(lec.tips || []).map((tip, idx) => `
-                            <div class="rounded-xl border border-amber-200/80 bg-amber-50/40 p-4 space-y-2">
-                                <div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-md bg-amber-100 text-amber-900 text-xs font-extrabold">
-                                    <span>Bước ${idx + 1}</span>
-                                </div>
-                                <p class="text-xs sm:text-sm text-slate-800 leading-relaxed">${fmt(String(tip).replace(/^Bước\s+\d+\s*:\s*/i, ""))}</p>
-                            </div>
-                        `).join("")}
-                    </div>
-                </div>
-
-                <div class="grid grid-cols-1 xl:grid-cols-12 gap-5 items-start">
-                    <div class="xl:col-span-7 bg-white rounded-2xl border border-rose-200/90 p-5 sm:p-6 shadow-sm space-y-4">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-xl bg-rose-100 text-rose-700 flex items-center justify-center text-sm"><i class="fa-solid fa-triangle-exclamation"></i></span>
-                            <div>
-                                <h3 class="font-extrabold text-base text-slate-900">4 Bẫy ETS Kinh Điển Cần Tránh</h3>
-                                <p class="text-xs text-slate-500">Tổng hợp các chỗ mất điểm phổ biến nhất từ mức 500–900+</p>
-                            </div>
-                        </div>
-                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                            ${(lec.traps || []).map((t, idx) => `
-                                <div class="rounded-xl bg-rose-50/50 border border-rose-200/70 p-3.5 space-y-1.5">
-                                    <div class="text-[11px] font-extrabold uppercase tracking-wider text-rose-700">Bẫy #${idx + 1}</div>
-                                    <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">${fmt(t)}</p>
-                                </div>
-                            `).join("")}
-                        </div>
-                    </div>
-
-                    <div class="xl:col-span-5 bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm space-y-3.5">
-                        <div>
-                            <h3 class="font-extrabold text-base text-slate-900">Chọn Nhóm Luyện Tập Ngay</h3>
-                            <p class="text-xs text-slate-500 mt-0.5">Thực hành ngay để ghi nhớ mặt chữ và bẫy đuôi từ</p>
-                        </div>
-                        <div class="space-y-2.5">${practiceButtons}</div>
-                        <button type="button" onclick="app.setGrammarWordFormationLesson(${Math.max(0, sections.length - 1)})" class="w-full py-2.5 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs sm:text-sm transition">
-                            <i class="fa-solid fa-arrow-left mr-1.5"></i>Quay lại Bài ${sections.length}
-                        </button>
-                    </div>
-                </div>
+            nextBlockActionHtml = `
+                <button
+                    type="button"
+                    onclick="app.startWordFormationTypePractice('all')"
+                    class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-1.5"
+                >
+                    <span>Làm bài tập tổng hợp (${totalQuestions} câu)</span>
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
             `;
         }
 
-        return `<div class="space-y-5">${topModulesHtml}${bodyHtml}</div>`;
+        const splitHtml = this.renderGrammarSplitLayout({
+            subUnits,
+            activeSubIdx: this.state.grammarSubUnitIndex,
+            showAll: this.state.grammarShowAllSubUnits,
+            tone,
+            extraSidebarHtml,
+            nextBlockActionHtml
+        });
+
+        return `<div class="space-y-5">${topModulesHtml}${splitHtml}</div>`;
+    },
+
+    // Giao diện 2 cột chọn từng mục cho 21 chuyên đề ngữ pháp chuẩn
+    renderStandardTopicTheoryHtml(currentTopic, totalQuestions) {
+        const subUnits = this.getStandardTopicSubUnits(currentTopic);
+        const extraSidebarHtml = `
+            <button
+                type="button"
+                onclick="app.setGrammarLessonTab('practice')"
+                class="w-full py-2.5 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs shadow-sm transition inline-flex items-center justify-center gap-1.5"
+            >
+                <i class="fa-solid fa-pen-to-square"></i>
+                <span>Làm bài tập (${totalQuestions} câu)</span>
+            </button>
+        `;
+        const nextBlockActionHtml = `
+            <button
+                type="button"
+                onclick="app.setGrammarLessonTab('practice')"
+                class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm shadow-sm transition inline-flex items-center gap-1.5"
+            >
+                <span>Làm bài tập thực hành (${totalQuestions} câu)</span>
+                <i class="fa-solid fa-arrow-right"></i>
+            </button>
+        `;
+
+        return this.renderGrammarSplitLayout({
+            subUnits,
+            activeSubIdx: this.state.grammarSubUnitIndex,
+            showAll: this.state.grammarShowAllSubUnits,
+            tone: "emerald",
+            extraSidebarHtml,
+            nextBlockActionHtml
+        });
     },
 
     startWordFormationTypePractice(wordType) {
         this.state.grammarWordTypeFilter = wordType || "all";
         this.state.grammarLessonTab = "practice";
+        this.state.grammarPracticePageIndex = 0;
         this.state.grammarMixedPracticeItems = null;
         this.renderGrammar(document.getElementById("app-main"));
         const el = document.getElementById("grammar-practice-section");
@@ -7160,30 +7690,102 @@ const app = {
         this.renderGrammar(document.getElementById("app-main"));
     },
 
-    selectGrammarTopic(topicId) {
+    setGrammarSearchQuery(query) {
+        const prevInput = document.getElementById("grammar-search-input");
+        const selStart = prevInput ? prevInput.selectionStart : null;
+        const selEnd = prevInput ? prevInput.selectionEnd : null;
+        this.state.grammarSearchQuery = String(query ?? "");
+        this.state.grammarViewMode = "list";
+        this.renderGrammar(document.getElementById("app-main"));
+        const nextInput = document.getElementById("grammar-search-input");
+        if (nextInput && document.activeElement !== nextInput) {
+            nextInput.focus();
+            if (selStart !== null && typeof nextInput.setSelectionRange === "function") {
+                const len = nextInput.value.length;
+                nextInput.setSelectionRange(Math.min(selStart, len), Math.min(selEnd ?? selStart, len));
+            }
+        }
+    },
+
+    selectGrammarTopic(topicId, lessonIdx = 0, subUnitIdx = 0, tab = "theory") {
+        const wasDetail = this.state.currentView === "grammar" && this.state.grammarViewMode === "detail";
+        if (!wasDetail) {
+            this.state.grammarViewMode = "list";
+            this.saveGrammarHistoryState(false, false);
+        }
         this.state.activeGrammarTopicId = topicId;
         this.state.grammarViewMode = "detail";
-        this.state.grammarLessonTab = "theory";
-        this.state.grammarWordFormationLessonIndex = 0;
+        this.state.grammarLessonTab = tab === "practice" ? "practice" : "theory";
+        this.state.grammarWordFormationLessonIndex = Math.max(0, Number(lessonIdx) || 0);
+        this.state.grammarSubUnitIndex = Math.max(0, Number(subUnitIdx) || 0);
+        this.state.grammarShowAllSubUnits = false;
+        this.state.grammarPracticePageIndex = 0;
         this.state.grammarMixedPracticeItems = null;
         this.renderGrammar(document.getElementById("app-main"));
+        this.saveGrammarHistoryState(true, true);
         window.scrollTo({ top: 0, behavior: "smooth" });
     },
 
     backToGrammarList() {
+        if (window.history.state?.dauenglishGrammar?.hasListBack) {
+            window.history.back();
+            return;
+        }
         this.state.grammarViewMode = "list";
         this.renderGrammar(document.getElementById("app-main"));
+        this.saveGrammarHistoryState(false, false);
         window.scrollTo({ top: 0, behavior: "smooth" });
     },
 
     setGrammarLessonTab(tabName) {
         this.state.grammarLessonTab = tabName === "practice" ? "practice" : "theory";
         this.renderGrammar(document.getElementById("app-main"));
+        this.saveGrammarHistoryState(false, Boolean(window.history.state?.dauenglishGrammar?.hasListBack));
     },
 
     setGrammarWordFormationLesson(index) {
         const parsed = Number(index);
         this.state.grammarWordFormationLessonIndex = Number.isInteger(parsed) && parsed >= 0 ? parsed : 0;
+        this.state.grammarSubUnitIndex = 0;
+        this.state.grammarShowAllSubUnits = false;
+        this.renderGrammar(document.getElementById("app-main"));
+        this.saveGrammarHistoryState(false, Boolean(window.history.state?.dauenglishGrammar?.hasListBack));
+    },
+
+    setGrammarSubUnit(index) {
+        const parsed = Number(index);
+        this.state.grammarSubUnitIndex = Number.isInteger(parsed) && parsed >= 0 ? parsed : 0;
+        this.state.grammarShowAllSubUnits = false;
+        this.renderGrammar(document.getElementById("app-main"));
+        this.saveGrammarHistoryState(false, Boolean(window.history.state?.dauenglishGrammar?.hasListBack));
+        const ws = document.getElementById("grammar-theory-workspace");
+        if (ws && typeof ws.scrollIntoView === "function") {
+            const rect = ws.getBoundingClientRect();
+            if (rect.top < 0 || rect.top > window.innerHeight * 0.5) {
+                ws.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+        }
+    },
+
+    toggleGrammarShowAllSubUnits() {
+        this.state.grammarShowAllSubUnits = !this.state.grammarShowAllSubUnits;
+        this.renderGrammar(document.getElementById("app-main"));
+    },
+
+    setGrammarPracticePage(pageIndex) {
+        const parsed = Number(pageIndex);
+        this.state.grammarPracticePageIndex = Number.isInteger(parsed) && parsed >= 0 ? parsed : 0;
+        this.renderGrammar(document.getElementById("app-main"));
+        const el = document.getElementById("grammar-practice-section");
+        if (el && typeof el.scrollIntoView === "function") {
+            el.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+    },
+
+    setGrammarPracticePageSize(size) {
+        const parsed = Number(size);
+        this.state.grammarPracticePageSize = Number.isFinite(parsed) && parsed >= 0 ? parsed : 5;
+        this.state.grammarPracticePageIndex = 0;
         this.renderGrammar(document.getElementById("app-main"));
     },
 
@@ -7193,6 +7795,7 @@ const app = {
                 delete this.state.grammarUserAnswers[k];
             }
         });
+        this.state.grammarPracticePageIndex = 0;
         if (topicId === "gram-20-word-formation") this.state.grammarMixedPracticeItems = null;
         this.saveState();
         this.renderGrammar(document.getElementById("app-main"));
@@ -7771,6 +8374,8 @@ const app = {
         const icon = document.getElementById("ai-translator-fab-icon");
         const input = document.getElementById("ai-translator-input");
         if (!popup || !fab) return;
+        // Vừa kéo icon xong thì bỏ qua cú click phát sinh khi thả chuột
+        if (typeof forceOpen !== "boolean" && Date.now() - (this._translatorDragEnd || 0) < 300) return;
 
         const isHidden = popup.classList.contains("hidden");
         const shouldOpen = typeof forceOpen === "boolean" ? forceOpen : isHidden;
@@ -7783,6 +8388,7 @@ const app = {
             }
             popup.classList.remove("hidden");
             popup.classList.add("flex");
+            this.clampTranslatorWidget();
             fab.setAttribute("aria-expanded", "true");
             if (icon) icon.className = "fa-solid fa-chevron-down text-lg";
             if (input) {
@@ -7797,6 +8403,72 @@ const app = {
             fab.setAttribute("aria-expanded", "false");
             if (icon) icon.className = "fa-solid fa-language text-xl";
         }
+    },
+
+    // Kéo thả widget dịch thuật bằng icon tròn (Pointer Events: chuột + cảm ứng).
+    // Di chuyển < 5px coi như click (mở/đóng popup), vượt ngưỡng thì là kéo.
+    startTranslatorDrag(e) {
+        const fab = e.currentTarget;
+        const widget = document.getElementById("ai-translator-widget");
+        if (!widget || e.button !== 0) return;
+        const rect = widget.getBoundingClientRect();
+        const startX = e.clientX, startY = e.clientY;
+        let dragging = false;
+
+        const onMove = (ev) => {
+            const dx = ev.clientX - startX, dy = ev.clientY - startY;
+            if (!dragging) {
+                if (Math.hypot(dx, dy) < 5) return;
+                dragging = true;
+                // Chuyển sang neo left/bottom: icon đứng yên khi đóng/mở popup
+                widget.style.right = "auto";
+                widget.style.top = "auto";
+            }
+            widget.style.left = `${rect.left + dx}px`;
+            widget.style.bottom = `${window.innerHeight - rect.bottom - dy}px`;
+            this.clampTranslatorWidget();
+        };
+        const onUp = (ev) => {
+            fab.releasePointerCapture?.(ev.pointerId);
+            fab.removeEventListener("pointermove", onMove);
+            fab.removeEventListener("pointerup", onUp);
+            fab.removeEventListener("pointercancel", onUp);
+            if (dragging) this._translatorDragEnd = Date.now();
+        };
+        fab.setPointerCapture?.(e.pointerId);
+        fab.addEventListener("pointermove", onMove);
+        fab.addEventListener("pointerup", onUp);
+        fab.addEventListener("pointercancel", onUp);
+        if (!this._translatorResizeBound) {
+            this._translatorResizeBound = true;
+            window.addEventListener("resize", () => this.clampTranslatorWidget());
+        }
+    },
+
+    // Giữ widget luôn nằm trong màn hình
+    clampTranslatorWidget() {
+        const widget = document.getElementById("ai-translator-widget");
+        if (!widget) return;
+        // Đặt popup về phía còn đủ chỗ (trái/phải, trên/dưới) so với icon
+        const popup = document.getElementById("ai-translator-popup");
+        const r = widget.getBoundingClientRect();
+        if (popup && !popup.classList.contains("hidden")) {
+            const pw = popup.offsetWidth, ph = popup.offsetHeight + 12;
+            const alignRight = r.right - pw >= 0 || r.left + pw > window.innerWidth;
+            popup.classList.toggle("right-0", alignRight);
+            popup.classList.toggle("left-0", !alignRight);
+            const above = r.top - ph >= 0 || window.innerHeight - r.bottom < ph;
+            popup.classList.toggle("bottom-full", above);
+            popup.classList.toggle("mb-3", above);
+            popup.classList.toggle("top-full", !above);
+            popup.classList.toggle("mt-3", !above);
+        }
+        if (!widget.style.left) return; // chưa kéo lần nào → giữ vị trí mặc định góc phải dưới
+        const rect = widget.getBoundingClientRect();
+        const maxX = Math.max(0, window.innerWidth - rect.width);
+        const maxY = Math.max(0, window.innerHeight - rect.height);
+        widget.style.left = `${Math.min(Math.max(0, parseFloat(widget.style.left)), maxX)}px`;
+        widget.style.bottom = `${Math.min(Math.max(0, parseFloat(widget.style.bottom)), maxY)}px`;
     },
 
     initTranslatorWelcome() {

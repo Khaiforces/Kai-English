@@ -87,7 +87,6 @@
         .focus-mode-hidden { display: none !important; }
 
         /* Chế độ làm bài toàn màn hình cho phần Luyện nghe */
-        body.listening-immersive #top-promo-bar,
         body.listening-immersive > header,
         body.listening-immersive > footer,
         body.listening-immersive #left-sidebar,
@@ -151,15 +150,6 @@
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800 font-sans antialiased selection:bg-brand-600 selection:text-white min-h-screen flex flex-col">
-
-    <!-- ================= TOP NOTIFICATION BAR ================= -->
-    <div id="top-promo-bar" class="bg-gradient-to-r from-indigo-900 via-brand-700 to-emerald-700 text-white text-xs sm:text-sm py-2 px-4 text-center relative">
-        <div class="max-w-7xl mx-auto flex items-center justify-center gap-2 flex-wrap">
-            <span class="bg-amber-400 text-slate-900 font-extrabold px-2 py-0.5 rounded-full text-[11px] uppercase tracking-wider">Mới 2026</span>
-            <span>Cập nhật trọn bộ đề <strong>ETS TOEIC 2026</strong> & Chấm điểm <strong>Speaking/Writing bằng AI</strong> miễn phí!</span>
-            <button onclick="app.navigate('mock-tests')" class="underline font-bold hover:text-amber-300 ml-1">Thi thử ngay &rarr;</button>
-        </div>
-    </div>
 
     <!-- ================= HEADER / TOP HORIZONTAL BAR (Đề thi, Nghe, Nói, Đọc, Viết) ================= -->
     <header class="bg-white/95 backdrop-blur-md border-b border-slate-200 sticky top-0 z-40 shadow-sm">
@@ -626,11 +616,11 @@
 
     <!-- ================= AI HỖ TRỢ DỊCH THUẬT (FLOATING CHAT WIDGET) ================= -->
     <div id="ai-translator-widget" class="fixed bottom-5 right-5 z-[55] flex flex-col items-end">
-        <div id="ai-translator-popup" role="dialog" aria-label="AI Trợ lý Dịch thuật" class="hidden w-[340px] sm:w-[380px] max-w-[calc(100vw-2rem)] bg-white rounded-2xl shadow-2xl border border-slate-200 flex-col overflow-hidden mb-3">
+        <div id="ai-translator-popup" role="dialog" aria-label="AI Trợ lý Dịch thuật" class="hidden w-[272px] sm:w-[380px] max-w-[calc(100vw-1.5rem)] bg-white rounded-2xl shadow-2xl border border-slate-200 flex-col overflow-hidden absolute bottom-full right-0 mb-3">
             <!-- Header -->
-            <div class="bg-gradient-to-r from-brand-700 to-indigo-700 text-white px-4 py-3 flex items-center justify-between gap-2">
+            <div class="bg-gradient-to-r from-brand-700 to-indigo-700 text-white px-3 py-2 sm:px-4 sm:py-3 flex items-center justify-between gap-2">
                 <div class="flex items-center gap-2.5 min-w-0">
-                    <div class="w-8 h-8 rounded-xl bg-white/15 flex items-center justify-center shrink-0">
+                    <div class="hidden sm:flex w-8 h-8 rounded-xl bg-white/15 items-center justify-center shrink-0">
                         <i class="fa-solid fa-language text-base" aria-hidden="true"></i>
                     </div>
                     <div class="min-w-0">
@@ -652,7 +642,7 @@
             </div>
 
             <!-- Khung tin nhắn -->
-            <div id="ai-translator-messages" class="h-80 overflow-y-auto p-3.5 space-y-3 bg-slate-50/80 text-xs sm:text-sm">
+            <div id="ai-translator-messages" class="h-52 max-h-[40vh] sm:h-80 sm:max-h-none overflow-y-auto p-2.5 sm:p-3.5 space-y-2.5 sm:space-y-3 bg-slate-50/80 text-xs sm:text-sm">
                 <!-- Render động bởi app.js -->
             </div>
 
@@ -667,7 +657,7 @@
             </div>
 
             <!-- Form nhập liệu -->
-            <form onsubmit="app.handleTranslatorSubmit(event)" class="p-2.5 bg-white border-t border-slate-200 flex items-center gap-2">
+            <form onsubmit="app.handleTranslatorSubmit(event)" class="p-2 sm:p-2.5 bg-white border-t border-slate-200 flex items-center gap-2">
                 <input
                     id="ai-translator-input"
                     type="text"
@@ -687,10 +677,11 @@
             id="ai-translator-fab"
             type="button"
             onclick="app.toggleTranslatorChat()"
-            aria-label="Mở AI Hỗ trợ Dịch thuật"
+            onpointerdown="app.startTranslatorDrag(event)"
+            aria-label="Mở AI Hỗ trợ Dịch thuật (giữ và kéo để di chuyển)"
             aria-expanded="false"
-            title="AI Hỗ trợ Dịch thuật"
-            class="w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-gradient-to-tr from-brand-600 to-indigo-600 hover:from-brand-700 hover:to-indigo-700 text-white shadow-xl shadow-brand-600/30 hover:scale-105 active:scale-95 transition flex items-center justify-center relative"
+            title="AI Hỗ trợ Dịch thuật — giữ và kéo để di chuyển"
+            class="touch-none select-none cursor-grab active:cursor-grabbing w-11 h-11 sm:w-14 sm:h-14 rounded-full bg-gradient-to-tr from-brand-600 to-indigo-600 hover:from-brand-700 hover:to-indigo-700 text-white shadow-xl shadow-brand-600/30 hover:scale-105 active:scale-95 transition flex items-center justify-center relative"
         >
             <i id="ai-translator-fab-icon" class="fa-solid fa-language text-xl" aria-hidden="true"></i>
             <span class="absolute -top-1 -right-1 px-1.5 py-0.5 rounded-full bg-amber-400 text-slate-900 text-[9px] font-extrabold leading-none shadow border border-white">AI</span>
@@ -705,36 +696,36 @@
     <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
 
     <!-- Scripts -->
-    <script src="vocab_data.js"></script>
-    <script src="phrasal_verbs_data.js"></script>
-    <script src="grammar_lectures.js"></script>
-    <script src="data.js"></script>
-    <script src="mock_tests_data.js"></script>
-    <script src="listening/lv1-test-01.js?v=20261121"></script>
-    <script src="listening/lv1-test-02.js?v=20261122"></script>
-    <script src="listening/lv1-test-03.js?v=20261122"></script>
-    <script src="listening/lv2-test-01.js?v=20261121"></script>
-    <script src="listening/lv3-test-01.js?v=20261117"></script>
-    <script src="listening/lv4-test-01.js?v=20261121"></script>
-    <script src="listening/lv4-test-02.js?v=20261121"></script>
-    <script src="listening/lv5-test-01.js?v=20261121"></script>
-    <script src="listening/lv6-test-01.js?v=20261117c"></script>
-    <script src="listening/lv6-test-02.js?v=20261121"></script>
-    <script src="listening/lv6-test-03.js?v=20261121"></script>
-    <script src="listening/lv6-test-04.js?v=20261121"></script>
-    <script src="listening/lv5-test-02.js?v=20261121"></script>
-    <script src="listening/lv5-test-03.js?v=20261121"></script>
-    <script src="reading/lv1-test-01.js"></script>
-    <script src="reading/lv1-test-02.js"></script>
-    <script src="reading/lv1-test-03.js"></script>
-    <script src="reading/lv2-test-01.js"></script>
-    <script src="reading/lv2-test-02.js?v=20261121"></script>
-    <script src="reading/lv4-test-01.js?v=20261119"></script>
-    <script src="reading/lv4-test-02.js?v=20261121"></script>
-    <script src="reading/lv5-test-01.js?v=20261116b"></script>
-    <script src="reading/lv6-test-01.js?v=20261116b"></script>
-    <script src="reading/test-01.js"></script>
-    <script src="reading/lv3-test-02.js?v=20261120"></script>
+    <script src="data/vocab_data.js"></script>
+    <script src="data/phrasal_verbs_data.js"></script>
+    <script src="data/grammar_lectures.js"></script>
+    <script src="data/data.js"></script>
+    <script src="data/mock_tests_data.js"></script>
+    <script src="listening/level-1/test-01.js?v=20261121"></script>
+    <script src="listening/level-1/test-02.js?v=20261122"></script>
+    <script src="listening/level-1/test-03.js?v=20261122"></script>
+    <script src="listening/level-2/test-01.js?v=20261121"></script>
+    <script src="listening/level-3/test-01.js?v=20261117"></script>
+    <script src="listening/level-4/test-01.js?v=20261121"></script>
+    <script src="listening/level-4/test-02.js?v=20261121"></script>
+    <script src="listening/level-5/test-01.js?v=20261121"></script>
+    <script src="listening/level-5/test-02.js?v=20261121"></script>
+    <script src="listening/level-5/test-03.js?v=20261121"></script>
+    <script src="listening/level-6/test-01.js?v=20261117c"></script>
+    <script src="listening/level-6/test-02.js?v=20261121"></script>
+    <script src="listening/level-6/test-03.js?v=20261121"></script>
+    <script src="listening/level-6/test-04.js?v=20261121"></script>
+    <script src="reading/level-1/test-01.js"></script>
+    <script src="reading/level-1/test-02.js"></script>
+    <script src="reading/level-1/test-03.js"></script>
+    <script src="reading/level-2/test-01.js"></script>
+    <script src="reading/level-2/test-02.js?v=20261121"></script>
+    <script src="reading/level-3/test-01.js"></script>
+    <script src="reading/level-3/test-02.js?v=20261120"></script>
+    <script src="reading/level-4/test-01.js?v=20261119"></script>
+    <script src="reading/level-4/test-02.js?v=20261121"></script>
+    <script src="reading/level-5/test-01.js?v=20261116b"></script>
+    <script src="reading/level-6/test-01.js?v=20261116b"></script>
     <script src="app.js?v=20261122c"></script>
 </body>
 </html>
