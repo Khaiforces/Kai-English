@@ -985,7 +985,7 @@ const meta = {
   title: 'Đề Luyện đọc 01 - TOEIC Reading'
 };
 
-const readingDir = path.join(ROOT, 'reading');
+const readingDir = path.join(ROOT, 'reading', 'level-3');
 fs.mkdirSync(readingDir, { recursive: true });
 
 const output = `/**

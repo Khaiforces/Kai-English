@@ -1,7 +1,7 @@
 /**
  * Ghép nội dung các đề (content/test-N/p*.json) + manifest audio thành:
- *   - mock_tests_data.js (các đề đủ 200 câu cho mục Thi thử)
- *   - listening/lv1-test-0N.js (file riêng từng đề 100 câu cho mục Luyện nghe Level 1)
+ *   - data/mock_tests_data.js (các đề đủ 200 câu cho mục Thi thử)
+ *   - listening/level-1/test-0N.js (file riêng từng đề 100 câu cho mục Luyện nghe Level 1)
  *
  * Dùng: node tools/build_tests.js [1 2 3 4]
  */
@@ -60,7 +60,7 @@ const PROJECT_VOCAB = (() => {
       }
     }
   }
-  for (const [file, varName] of [['vocab_data.js', 'BARRONS_600_TOPICS'], ['phrasal_verbs_data.js', 'PHRASAL_VERBS_300_TOPICS']]) {
+  for (const [file, varName] of [['data/vocab_data.js', 'BARRONS_600_TOPICS'], ['data/phrasal_verbs_data.js', 'PHRASAL_VERBS_300_TOPICS']]) {
     const p = path.join(ROOT, file);
     if (!fs.existsSync(p)) continue;
     const ctx = { window: {} };
@@ -204,7 +204,7 @@ function buildListeningExercise(q, testId, testNum, testCode) {
   };
 }
 
-const listeningDir = path.join(ROOT, 'listening');
+const listeningDir = path.join(ROOT, 'listening', 'level-1');
 fs.mkdirSync(listeningDir, { recursive: true });
 
 const mockTests = [];
@@ -249,10 +249,10 @@ for (const t of TESTS) {
     D.listeningExercises.push(...${JSON.stringify(exercises)});
 })();
 `;
-  const listenOutPath = path.join(listeningDir, `lv1-test-${pad2(t)}.js`);
+  const listenOutPath = path.join(listeningDir, `test-${pad2(t)}.js`);
   fs.writeFileSync(listenOutPath, listenScript, 'utf8');
   builtListeningCount++;
-  console.log(`listening/lv1-test-${pad2(t)}.js: ${exercises.length} câu | audio ${listeningWithAudio}/${exercises.length}` +
+  console.log(`listening/level-1/test-${pad2(t)}.js: ${exercises.length} câu | audio ${listeningWithAudio}/${exercises.length}` +
     (listenProblems.length ? ` | LỖI: ${listenProblems.slice(0, 8).join(' ; ')}` : ' | OK'));
 
   if (!hasFullReading) continue;
@@ -291,6 +291,6 @@ if (mockTests.length) {
     window.DAU_DATA.mockTests = ${JSON.stringify(mockTests)};
 })();
 `;
-  fs.writeFileSync(path.join(ROOT, 'mock_tests_data.js'), body, 'utf8');
-  console.log('wrote mock_tests_data.js', (body.length / 1024).toFixed(0) + ' KB', '| so de:', mockTests.length);
+  fs.writeFileSync(path.join(ROOT, 'data', 'mock_tests_data.js'), body, 'utf8');
+  console.log('wrote data/mock_tests_data.js', (body.length / 1024).toFixed(0) + ' KB', '| so de:', mockTests.length);
 }

@@ -1,13 +1,13 @@
 # AGENTS.md — Quy tắc làm việc & bản đồ dự án DauEnglish
 
-> **File quy tắc duy nhất có hiệu lực.** Bản `.agent/rules/codebase-map.md` chỉ là bản cũ, đã được thay bằng file này.
+> **File quy tắc duy nhất có hiệu lực.**
 > Mục tiêu: làm việc đúng chỗ mà **không đọc toàn bộ mã nguồn** (tiết kiệm token).
 
 ---
 
 ## 1. Quy tắc đọc & sửa (bắt buộc)
 
-1. **KHÔNG đọc trọn** `app.js` (~6.420 dòng), `mock_tests_data.js` (~1,6 MB), `data.js` (~1.100 dòng), hay nguyên file `p3.json` / `p4.json` / `p7a.json` / `p7b.json`.
+1. **KHÔNG đọc trọn** `app.js`, `data/mock_tests_data.js` (~1,6 MB), `data/data.js` (~1.100 dòng), hay nguyên file `p3.json` / `p4.json` / `p7a.json` / `p7b.json`.
 2. Định vị trước bằng `grep` (hoặc bảng mục lục ở §4), rồi `read` **đúng dải 50–80 dòng** quanh chỗ cần sửa.
 3. Sửa bằng `edit` (thay thế cục bộ), **không** `write` lại file lớn.
 4. Dữ liệu hàng loạt (`content/**/*.json`): xử lý bằng script ngắn `node -e "..."` hoặc file trong `tools/`, không nạp cả file vào ngữ cảnh.
@@ -38,16 +38,19 @@
 
 ## 2. Bản đồ file
 
-| File | Quy mô | Vai trò |
+| File / Thư mục | Quy mô | Vai trò |
 |---|---|---|
-| `index.html` | 632 dòng (590 có nội dung) | Khung SPA + thứ tự nạp script (quan trọng) + modal/CSS |
-| `app.js` | **6.420 dòng** (5.906 dòng có nội dung, 515 dòng trống) | Toàn bộ logic SPA — object `app` (không phải ES module) |
-| `data.js` | 1.106 dòng | `window.DAU_DATA` (đề, nghe, đọc, nói/viết, từ vựng, ngữ pháp) |
-| `mock_tests_data.js` | 1.617 KB (~1,6 MB) | 3 đề tự soạn — **sinh tự động, không sửa tay** |
-| `vocab_data.js` | 1.127 dòng | `window.BARRONS_600_TOPICS` — 50 chủ đề × 12 từ |
-| `phrasal_verbs_data.js` | 567 dòng | `window.PHRASAL_VERBS_300_TOPICS` — 25 chủ đề |
-| `grammar_lectures.js` | 1.470 dòng | `window.GRAMMAR_LECTURES` — 22 bài giảng |
-| `server.js` | 527 dòng (477 có nội dung) | Express: OAuth demo, static, API |
+| `index.html` | ~730 dòng | Khung SPA + thứ tự nạp script + modal/CSS |
+| `app.js` | Toàn bộ logic SPA | Object `app` (không phải ES module) |
+| `data/data.js` | ~1.100 dòng | `window.DAU_DATA` (đề, nghe, đọc, nói/viết, từ vựng, ngữ pháp) |
+| `data/mock_tests_data.js` | ~1,6 MB | Các đề tự soạn — **sinh tự động, không sửa tay** |
+| `data/vocab_data.js` | ~1.100 dòng | `window.BARRONS_600_TOPICS` — 50 chủ đề × 12 từ |
+| `data/phrasal_verbs_data.js` | ~560 dòng | `window.PHRASAL_VERBS_300_TOPICS` — 25 chủ đề |
+| `data/grammar_lectures.js` | ~1.800 dòng | `window.GRAMMAR_LECTURES` — 22 bài giảng |
+| `content/test-1..4/` | JSON | Dữ liệu nguồn đề thi thử |
+| `content/listening/` | JSON | Dữ liệu nguồn Luyện nghe theo level |
+| `content/reading/` | JSON | Dữ liệu nguồn Luyện đọc theo level |
+| `server.js` | ~527 dòng | Express / HTTP server: OAuth demo, static, API |
 | `HANDOFF.md` | — | Trạng thái bàn giao (không phải quy tắc) |
 
 ---

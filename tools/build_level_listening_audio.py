@@ -1,6 +1,6 @@
-"""Build all 178 neural-TTS MP3 files for a leveled Listening test (listening/lv{level}-test-{NN}.js).
+"""Build all 178 neural-TTS MP3 files for a leveled Listening test (listening/level-{level}/test-{NN}.js).
 
-Reads the compiled exercises directly from listening/lv{level}-test-{NN}.js so that
+Reads the compiled exercises directly from listening/level-{level}/test-{NN}.js so that
 shuffled option order (A/B/C/D) matches the audio 100%, and generates:
   - 6 Part 1 full-question MP3s (p1-q001..006.mp3) + 24 option MP3s (p1-q001-a..d.mp3)
   - 25 Part 2 full-question MP3s (p2-q007..031.mp3) + 100 stem/option MP3s (p2-q007-q/a/b/c.mp3)
@@ -37,7 +37,7 @@ FALLBACK_VOICES = ("en-US-GuyNeural", "en-GB-RyanNeural", "en-US-AriaNeural")
 
 
 def load_exercises(level, test_no):
-    js_path = os.path.join(ROOT, "listening", f"lv{level}-test-{test_no:02d}.js")
+    js_path = os.path.join(ROOT, "listening", f"level-{level}", f"test-{test_no:02d}.js")
     if not os.path.exists(js_path):
         raise FileNotFoundError(f"Missing {js_path}; run `node tools/build_listening_test.js {level} {test_no}` first.")
     raw = open(js_path, encoding="utf-8").read()

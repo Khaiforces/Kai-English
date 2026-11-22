@@ -4,8 +4,8 @@
  *   ví dụ: node tools/build_reading_test.js 5        -> Level 5 Test 01
  *          node tools/build_reading_test.js 1 2 3    -> Level 1 Test 02, 03
  *
- * Nội dung: tools/lv{level}-test{test}-content/*.json nếu có, không thì tools/lv{level}-content/*.json
- * Output:   reading/lv{level}-test-{NN}.js  (sinh tự động, không sửa tay)
+ * Nội dung: content/reading/level-{level}/test-{NN}/*.json
+ * Output:   reading/level-{level}/test-{NN}.js  (sinh tự động, không sửa tay)
  */
 const fs = require('fs');
 const path = require('path');
@@ -124,8 +124,7 @@ function build(level, testNum) {
   const pad2 = String(num).padStart(2, '0');
   const tag = `Level ${level} Test ${pad2}`;
 
-  const perTestDir = path.join(ROOT, 'tools', `lv${level}-test${num}-content`);
-  const contentDir = fs.existsSync(perTestDir) ? perTestDir : path.join(ROOT, 'tools', `lv${level}-content`);
+  const contentDir = path.join(ROOT, 'content', 'reading', `level-${level}`, `test-${pad2}`);
   const testId = `reading-lv${level}-test-${num}`;
   const schedule = makeSchedule(cfg.seed(num));
 
@@ -250,7 +249,7 @@ function build(level, testNum) {
 })();
 `;
 
-  const outPath = path.join(ROOT, 'reading', `lv${level}-test-${pad2}.js`);
+  const outPath = path.join(ROOT, 'reading', `level-${level}`, `test-${pad2}.js`);
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, output, 'utf8');
 

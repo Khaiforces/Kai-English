@@ -1,5 +1,5 @@
 /**
- * Sinh đề Luyện nghe theo Level từ thư mục nội dung JSON (tools/listening-lv{level}-test{test}-content/p1..p4.json).
+ * Sinh đề Luyện nghe theo Level từ thư mục nội dung JSON (content/listening/level-{level}/test-{NN}/p1..p4.json).
  * Không dùng hình ảnh (imageUrl = ""), gắn đầy đủ đường dẫn audio MP3 tại listening/audio/lv{level}-test-{NN}/.
  * Chạy: node tools/build_listening_test.js <level> [test...]
  *   ví dụ: node tools/build_listening_test.js 6 1
@@ -76,7 +76,7 @@ function buildTest(levelNum, testNum) {
     fail(`Tham số không hợp lệ: level=${levelNum}, test=${testNum}`);
   }
   const tPad2 = pad2(num);
-  const contentDir = path.join(ROOT, 'tools', `listening-lv${lv}-test${num}-content`);
+  const contentDir = path.join(ROOT, 'content', 'listening', `level-${lv}`, `test-${tPad2}`);
   const testId = `listening-lv${lv}-test-${num}`;
   const testCode = `Test ${tPad2}`;
   const testTitle = `Đề Luyện nghe Level ${lv} (${LEVEL_RANGES[lv]}) - Test ${tPad2}`;
@@ -248,7 +248,8 @@ function buildTest(levelNum, testNum) {
     title: testTitle
   };
 
-  const outPath = path.join(ROOT, 'listening', `lv${lv}-test-${tPad2}.js`);
+  const outPath = path.join(ROOT, 'listening', `level-${lv}`, `test-${tPad2}.js`);
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
   const script = `/**
  * ${testTitle} (100 câu Part 1–4) + audio neural TTS.
  * Sinh tự động bởi tools/build_listening_test.js — không sửa tay.

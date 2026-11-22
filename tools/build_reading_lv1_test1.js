@@ -955,7 +955,7 @@ const meta = {
   title: 'Đề Luyện đọc Level 1 (300–400) - Test 01'
 };
 
-const readingDir = path.join(ROOT, 'reading');
+const readingDir = path.join(ROOT, 'reading', 'level-1');
 fs.mkdirSync(readingDir, { recursive: true });
 
 const output = `/**
@@ -972,6 +972,6 @@ const output = `/**
 })();
 `;
 
-const outPath = path.join(readingDir, 'lv1-test-01.js');
+const outPath = path.join(readingDir, 'test-01.js');
 fs.writeFileSync(outPath, output, 'utf8');
 console.log(`Built ${outPath}: total=${allExercises.length} (P5=${part5.length}, P6=${part6.length}, P7=${part7.length})`);
